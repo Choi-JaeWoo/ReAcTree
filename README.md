@@ -1,4 +1,15 @@
-# ReAcTree
+# ReAcTree: Hierarchical LLM Agent Trees with Control Flow for Long-Horizon Task Planning
+
+### [Paper (arXiv)](https://arxiv.org/abs/2402.08178) | [Project Page](https://choi-jaewoo.github.io/LoTa-Bench/)
+
+[Jae-Woo Choi](https://choi-jaewoo.github.io/)<sup>1</sup>, Hyungmin Kim <sup>1, 2</sup>, Hyobin Ong<sup>1, 2</sup>, [Youngwoo Yoon](https://sites.google.com/view/youngwoo-yoon/)<sup>1, 2</sup>, Minsu Jang<sup>1, 2</sup>, Dohyung Kim<sup>1, 2</sup>, Jaehong Kim<sup>1</sup>
+
+<sup>1</sup> Electronics and Telecommunications Research Institute, <sup>2</sup> University of Science and Technology 
+
+
+Here is the official implementation of **ReAcTree**, a hierarchical task-planning framework designed to solve complex, long-horizon tasks. Instead of relying on a single, monolithic trajectory, ReAcTree dynamically constructs an agent tree by decomposing a complex goal into manageable subgoals. This tree is composed of **LLM agent nodes**—which can reason, act, and further expand the tree —and **control flow nodes** (e.g., sequence, fallback, parallel)  that coordinate the execution strategy. The framework is supported by two complementary memory systems: **episodic memory** to retrieve relevant subgoal-level examples for in-context learning and **working memory** to share environmental observations (like object locations) across all nodes. ReAcTree was validated on the WAH-NL and ALFRED benchmarks , where it consistently and significantly outperformed strong baselines like ReAct.
+
+
 ## Environment
 
 Ubuntu 14.04+ is required. The scripts were developed and tested on Ubuntu 22.04 and Python 3.8.
