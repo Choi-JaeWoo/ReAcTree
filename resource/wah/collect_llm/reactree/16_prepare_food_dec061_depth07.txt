@@ -1,0 +1,9 @@
+Your primary goal is to: go get pudding out of the fridge and put it on the kitchen table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: go get pudding out of the fridge, and put it on the kitchen table.
+Your task is to: go get pudding out of the fridge
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a kitchen (1). Looking quickly around the room, you see bookshelf (1), chair (2, 3, 4, 5), dishwasher (1), faucet (1), fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (1), kitchen table (1), microwave oven (1), sink (1), sofa (2), stove (1), toaster (1), tv (2).
+Think: To solve the task, I need to accomplish 2 subgoals sequentially. Find and open the fridge, and move the pudding out of the fridge.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and open the fridge, move the pudding out of the fridge

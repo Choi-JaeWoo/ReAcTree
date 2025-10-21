@@ -1,0 +1,31 @@
+Your primary goal is to: find and pick up the apple
+To achieve this, you should perform your sibling tasks using a fallback strategy. At this level, your sibling tasks are: find and pick up the apple in kitchen 1, find and pick up the apple in living room 1, and find and pick up the apple in bedroom 1.
+Your task is to: find and pick up the apple in kitchen 1
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a living room (1). Looking quickly around the room, you see bookshelf (3), chair (2), closet (1), coffee table (2), computer (2), desk (2), sofa (2), tv (1).
+Think: I am in living room 1. Now, I need to go to kitchen 1.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (1), dishwasher (1), faucet (2), fridge (1), garbage can (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (1, 3), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1).
+Think: Now, I need to find the apple. The apple is more likely to appear on kitchen table (1), or in fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8). I can check each place one by one, starting from kitchen table 1, until I find the apple.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bench (2), book (1, 2), bowl (6), cell phone (1), condiment shaker (1, 2), kitchen table (1), plate (7), pound cake (1)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is closed. You see bench (1), fridge (1), kitchen table (1)
+Act: open fridge 1
+You open fridge. You see bench (1), cupcake (1), fridge (1), kitchen table (1)
+Act: go to kitchen cabinet 1
+You arrive at the kitchen cabinet (1). The kitchen cabinet (1) is closed. You see chicken (1), cooking pot (1), cutlery knife (1, 2), cutlets (1), dishwashing liquid (1), faucet (2), frying pan (1), kitchen cabinet (1, 2, 8), kitchen counter (1), sink (2), stove (1)
+Act: open kitchen cabinet 1
+You open kitchen cabinet. You see chicken (1), cooking pot (1), cutlery knife (1, 2), cutlets (1), dishwashing liquid (1), faucet (2), frying pan (1), kitchen cabinet (1, 2, 8), kitchen counter (1), pudding (1), sink (2), stove (1)
+Act: go to kitchen cabinet 2
+You arrive at the kitchen cabinet (2). The kitchen cabinet (2) is closed. You see bowl (1, 2, 3, 4, 5), chicken (1), cooking pot (1), cutlery knife (1, 2), cutlets (1), dishwashing liquid (1), faucet (2), kitchen cabinet (1, 2, 3), kitchen counter (1), pudding (1), sink (2), stove (1)
+Act: open kitchen cabinet 2
+You open kitchen cabinet. You see apple (1), bowl (1, 2, 3, 4, 5), chicken (1), cooking pot (1), cutlery knife (1, 2), cutlets (1), dishwashing liquid (1), faucet (2), juice (1), kitchen cabinet (1, 2, 3), kitchen counter (1), pudding (1), sink (2), stove (1)
+Think: I find apple 1. Now, I need to pick it up.
+OK.
+Act: pick up apple 1
+You pick up apple. You hold apple (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

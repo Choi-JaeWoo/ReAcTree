@@ -1,0 +1,7 @@
+Your task is to: Put 1 wine, 1 juice, 1 pudding, 1 apple and 1 pancake in the fridge
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a living room (1). Looking quickly around the room, you see bookshelf (3), chair (2), closet (1), coffee table (2), computer (2), desk (2), sofa (2), tv (1).
+Think: To solve the task, I need to accomplish 5 subgoals independently. Find and open the fridge, move the wine in the fridge, move the juice in the fridge, move the pudding in the fridge, move the apple in the fridge, and move the pancake in the fridge.
+OK.
+Expand:
+- control flow: parallel
+- subgoals: find and open the fridge, move the wine in the fridge, move the juice in the fridge, move the pudding in the fridge, move the apple in the fridge, and move the pancake in the fridge

@@ -1,0 +1,11 @@
+Your task is to: 1. find all of: 1 wine, 1 cupcake, 1 pound cake, 1 apple, and 1 coffee pot and remember their location.
+2. remove all that are already on the kitchen table
+3. grab as much as you can hold by going to remembered locations
+4. go to kitchen table deposit at the table.
+5. if any elements aren't yet on the table go to step 3.
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a living room (1). Looking quickly around the room, you see chair (1), closet (1), computer (1), desk (1), nightstand (1), sofa (1), tv (1).
+Think: To solve the task, I need to accomplish 5 subgoals sequentially. Find all of: 1 wine, 1 cupcake, 1 pound cake, 1 apple, and 1 coffee pot and remember their location, remove all that are already on the kitchen table, grab as much as you can hold by going to remembered locations, go to kitchen table deposit at the table, if any elements aren't yet on the table go to step 3.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find all of: 1 wine, 1 cupcake, 1 pound cake, 1 apple, and 1 coffee pot and remember their location, remove all that are already on the kitchen table, grab as much as you can hold by going to remembered locations, go to kitchen table deposit at the table, if any elements aren't yet on the table go to step 3

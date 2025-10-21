@@ -1,0 +1,19 @@
+Your primary goal is to: Get a fork and a plate out of the cupboard and put them on the kitchen table. Get a wine glass and a water glass out of the cupboard and put them on the kitchen table.
+To achieve this, you should perform your sibling tasks in parallel. At this level, your sibling tasks are: find and open the cupboard, move the fork in the cupboard, move the plate in the cupboard, and close and turn on the cupboard.
+Your task is to: find and open the cupboard
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a bedroom (1). Looking quickly around the room, you see bed (1), cabinet (1), chair (6), closet (2), nightstand (2), sofa (3).
+Think: First, I need to find the cupboard. The cupboard is more likely to appear in kitchen 1.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bookshelf (1), chair (2, 3, 4, 5), dishwasher (1), faucet (1), fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (1), kitchen table (1), microwave oven (1), sink (1), sofa (2), stove (1), toaster (1), tv (2).
+Think: I can see cupboard 1.
+OK.
+Act: go to kitchen cabinet 1
+You arrive at the kitchen cabinet (1). The kitchen cabinet (1) is closed. You see cell phone (2), cereal (1), condiment bottle (1, 2), cutlets (1), dishwasher (1), dishwashing liquid (1), faucet (1), kitchen cabinet (1, 2, 6, 7, 8), kitchen counter (1), microwave oven (1), minced meat (1), sink (1), toaster (1), washing sponge (1), water glass (2)
+Think: Cupboard 1 is closed. Now, I need to open it.
+OK.
+Act: open kitchen cabinet 1
+You open kitchen cabinet. You see cell phone (2), cereal (1), condiment bottle (1, 2), cutlets (1), dishwasher (1), dishwashing liquid (1), faucet (1), kitchen cabinet (1, 2, 6, 7, 8), kitchen counter (1), microwave oven (1), minced meat (1), sink (1), toaster (1), washing sponge (1), water glass (1, 2)
+Think: Now I accomplish the goal.
+OK.
+Act: done

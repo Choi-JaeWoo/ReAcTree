@@ -1,0 +1,7 @@
+Your task is to: Put the cutlery fork, wine glass, water glass, and plate in the dishwasher and start it.
+You are in the house, and there are 5 rooms: bathroom (1), bedroom (1, 2), kitchen (1), living room (1). You are in the middle of a living room (1). Looking quickly around the room, you see bookshelf (3, 4), coffee table (1), sofa (1), tv (1).
+Think: To solve the task, I need to accomplish 4 subgoals independently. Find and open the dishwasher, move the cutlery fork in the dishwasher, move the wine glass in the dishwasher, and close and turn on the dishwasher.
+OK.
+Expand:
+- control flow: parallel
+- subgoals: find and open the dishwasher, move the cutlery fork in the dishwasher, move the wine glass in the dishwasher, close and turn on the dishwasher

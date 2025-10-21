@@ -1,0 +1,81 @@
+Your task is to: Robot, please pick up the fork, wine glass, and plate from the kitchen counter and place them on the kitchen table.
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a bathroom (1). Looking quickly around the room, you see bathroom cabinet (1), bathroom counter (1), faucet (1), sink (1), toilet (1), towel rack (1, 2, 3, 4), washing machine (1).
+Think: To solve the task, I need to find and pick up the cutlery fork, then put it on the kitchen table. And I need to find and pick up the wine glass, then put it on the kitchen table. And I need to find and pick up the plate, then put it on the kitchen table.
+OK.
+Think: First, I need to find the cutlery fork. The cutlery fork is more likely to appear in kitchen 1.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (2), faucet (2), fridge (1), kitchen cabinet (1, 2, 3, 4), kitchen counter (1), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1), tv (1).
+Think: I move to kitchen 1. The cutlery fork is more likely to appear on kitchen table (1), or in fridge (1), kitchen cabinet (1, 2, 3, 4). I can check each place one by one, starting from kitchen table 1, until I find the cutlery fork.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bench (1, 2), cereal (1), chips (1, 2), crackers (1), creamy buns (1), kitchen table (1), pie (1), whipped cream (1)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is closed. You see bell pepper (1, 2, 5, 6), bowl (3), clock (1), fridge (1), kitchen cabinet (4), kitchen counter (1), light switch (3), microwave oven (1), salmon (1)
+Act: open fridge 1
+You open fridge. You see bell pepper (1, 2, 5, 6), bowl (3), clock (1), cutlery fork (1, 2), fridge (1), kitchen cabinet (4), kitchen counter (1), light switch (3), microwave oven (1), salmon (1)
+Think: I find cutlery fork 1. Now, I need to pick it up.
+OK.
+Act: pick up cutlery fork 1
+You pick up cutlery fork. You hold cutlery fork (1).
+Think: I hold cutlery fork 1. Now, I need to put it on the kitchen table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bench (1, 2), cereal (1), chips (1, 2), crackers (1), creamy buns (1), cutlery fork (1), kitchen table (1), pie (1), whipped cream (1) You hold cutlery fork (1).
+Think: Now, I need to put down cutlery fork 1.
+OK.
+Act: put down cutlery fork 1
+You put down cutlery fork on kitchen table
+Think: I put down cutlery fork 1 on kitchen table 1. Now, I need to find the wine glass. The wine glass is more likely to appear in kitchen cabinet (1, 2, 3, 4). I can check each place one by one, starting from kitchen cabinet 1, until I find the wine glass.
+OK.
+Act: go to kitchen cabinet 1
+You arrive at the kitchen cabinet (1). The kitchen cabinet (1) is closed. You see candy bar (1), chips (1, 2), chocolate syrup (1), coffee pot (1), dishwashing liquid (1), faucet (2), frying pan (1), kitchen cabinet (1, 2), kitchen counter (1), sink (2), stove (1), toaster (1)
+Act: open kitchen cabinet 1
+You open kitchen cabinet. You see candy bar (1), chips (1, 2), chocolate syrup (1), coffee pot (1), dishwashing liquid (1), faucet (2), frying pan (1), kitchen cabinet (1, 2), kitchen counter (1), sink (2), stove (1), toaster (1)
+Act: go to kitchen cabinet 2
+You arrive at the kitchen cabinet (2). The kitchen cabinet (2) is closed. You see bell pepper (1, 2, 3, 4, 5, 6), bowl (3), chocolate syrup (1), coffee pot (1), dishwashing liquid (1), faucet (2), frying pan (1), kitchen cabinet (1, 2, 3), kitchen counter (1), sink (2), stove (1), toaster (1), washing sponge (1)
+Act: open kitchen cabinet 2
+You open kitchen cabinet. You see bell pepper (1, 2, 3, 4, 5, 6), bowl (3), coffee pot (1), dishwashing liquid (1), faucet (2), frying pan (1), kitchen cabinet (1, 2, 3), kitchen counter (1), sink (2), stove (1), toaster (1), washing sponge (1)
+Act: go to kitchen cabinet 3
+You arrive at the kitchen cabinet (3). The kitchen cabinet (3) is closed. You see bell pepper (1, 2, 3, 4, 5, 6), bowl (3), coffee pot (1), dishwashing liquid (1), faucet (2), kitchen cabinet (1, 2, 3, 4), kitchen counter (1), microwave oven (1), salmon (1), sink (2), toaster (1), washing sponge (1)
+Act: open kitchen cabinet 3
+You open kitchen cabinet. You see bell pepper (1, 2, 3, 4, 5, 6), bowl (3), coffee pot (1), dishwashing liquid (1), faucet (2), kitchen cabinet (1, 2, 3, 4), kitchen counter (1), microwave oven (1), plate (2), salmon (1), sink (2), toaster (1), washing sponge (1), wine glass (1)
+Think: I find wine glass 1. Now, I need to pick it up.
+OK.
+Act: pick up wine glass 1
+You pick up wine glass. You hold wine glass (1).
+Think: I hold wine glass 1. Now, I need to put it on the kitchen table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bench (1, 2), cereal (1), chips (1, 2), crackers (1), creamy buns (1), cutlery fork (1), kitchen table (1), pie (1), whipped cream (1), wine glass (1) You hold wine glass (1).
+Think: Now, I need to put down wine glass 1.
+OK.
+Act: put down wine glass 1
+You put down wine glass on kitchen table
+Think: I put down wine glass 1 on kitchen table 1. Now, I need to find the plate. The plate is more likely to appear in kitchen cabinet (1, 2, 3, 4). I can check each place one by one, starting from kitchen cabinet 1, until I find the plate.
+OK.
+Act: go to kitchen cabinet 1
+You arrive at the kitchen cabinet (1). The kitchen cabinet (1) is open. You see candy bar (1), chips (1, 2), chocolate syrup (1), coffee pot (1), dishwashing liquid (1), faucet (2), frying pan (1), kitchen cabinet (1, 2), kitchen counter (1), sink (2), stove (1), toaster (1)
+Act: go to kitchen cabinet 2
+You arrive at the kitchen cabinet (2). The kitchen cabinet (2) is open. You see bell pepper (1, 2, 3, 4, 5, 6), bowl (3), chocolate syrup (1), coffee pot (1), dishwashing liquid (1), faucet (2), frying pan (1), kitchen cabinet (1, 2, 3), kitchen counter (1), plate (2), sink (2), stove (1), toaster (1), washing sponge (1)
+Act: go to kitchen cabinet 3
+You arrive at the kitchen cabinet (3). The kitchen cabinet (3) is open. You see bell pepper (1, 2, 3, 4, 5, 6), bowl (3), coffee pot (1), dishwashing liquid (1), faucet (2), kitchen cabinet (1, 2, 3, 4), kitchen counter (1), microwave oven (1), plate (2), salmon (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen cabinet 4
+You arrive at the kitchen cabinet (4). The kitchen cabinet (4) is closed. You see bell pepper (1, 2, 3, 4, 5, 6), bowl (3), cutlery fork (2), dishwashing liquid (1), faucet (2), fridge (1), kitchen cabinet (2, 3, 4), kitchen counter (1), microwave oven (1), plate (2), salmon (1), sink (2), toaster (1), washing sponge (1)
+Act: open kitchen cabinet 4
+You open kitchen cabinet. You see bell pepper (1, 2, 3, 4, 5, 6), bowl (3), cutlery fork (2), dishwashing liquid (1), faucet (2), fridge (1), kitchen cabinet (2, 3, 4), kitchen counter (1), microwave oven (1), plate (1, 2), salmon (1), sink (2), toaster (1), washing sponge (1)
+Think: I find plate 1. Now, I need to pick it up.
+OK.
+Act: pick up plate 1
+You pick up plate. You hold plate (1).
+Think: I hold plate 1. Now, I need to put it on the kitchen table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bench (1, 2), cereal (1), chips (1, 2), crackers (1), creamy buns (1), cutlery fork (1), kitchen table (1), pie (1), plate (1), whipped cream (1), wine glass (1) You hold plate (1).
+Think: Now, I need to put down plate 1.
+OK.
+Act: put down plate 1
+You put down plate on kitchen table
+Think: Now I accomplish the goal.
+OK.
+Act: done

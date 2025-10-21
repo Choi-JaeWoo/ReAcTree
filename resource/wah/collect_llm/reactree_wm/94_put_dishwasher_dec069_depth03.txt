@@ -1,0 +1,23 @@
+Your primary goal is to: Put fork, glass and plate into the dishwasher and turn it on.
+To achieve this, you should perform your sibling tasks in parallel. At this level, your sibling tasks are: move the cutlery fork in the dishwasher, move the wine glass in the dishwasher, and and close and turn on the dishwasher.
+Your task is to: and close and turn on the dishwasher
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a bedroom (1). Looking quickly around the room, you see bed (1), cabinet (1), chair (6), closet (2), nightstand (2), sofa (3).
+Think: First, I need to find the dishwasher. The dishwasher is more likely to appear in kitchen 1.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bookshelf (1), chair (2, 3, 4, 5), dishwasher (1), faucet (1), fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (1), kitchen table (1), microwave oven (1), sink (1), sofa (2), stove (1), toaster (1), tv (2).
+Think: I can see dishwasher 1.
+OK.
+Act: go to dishwasher 1
+You arrive at the dishwasher (1). The dishwasher (1) is open. You see cell phone (2), cereal (1), chair (2, 5), chocolate syrup (1), coffee pot (1), cupcake (2, 3), cutlery fork (1), cutlets (1), dishwasher (1), kitchen cabinet (1, 2, 3, 4), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), mug (2, 3), water glass (1)
+Think: Dishwasher 1 is open. Now, I need to close dishwasher 1.
+OK.
+Act: close dishwasher 1
+You close dishwasher.
+Think: Now, I need to turn on dishwasher 1.
+OK.
+Act: turn on dishwasher 1
+You turn on dishwasher.
+Think: Now I accomplish the goal.
+OK.
+Act: done

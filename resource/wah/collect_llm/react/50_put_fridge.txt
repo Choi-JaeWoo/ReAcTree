@@ -1,0 +1,228 @@
+Your task is to: I need you to store the following food items in the fridge:
+- 1 cupcake 
+- 1 pound cake
+- 1 pudding
+- 1 apple
+- 1 pancake
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a bathroom (1). Looking quickly around the room, you see bathroom cabinet (1), bathroom counter (1), faucet (1), sink (1), toilet (1), towel rack (1, 2, 3), washing machine (1).
+Think: To solve the task, I need to find and pick up the cupcake, then put it in the fridge. And I need to find and pick up the pound cake, then put it in the fridge. And I need to find and pick up the pudding, then put it in the fridge. And I need to find and pick up the apple, then put it in the fridge. And I need to find and pick up the pancake, then put it in the fridge.
+OK.
+Think: First, I need to find the cupcake. The cupcake is more likely to appear in kitchen 1.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (2), faucet (2), fridge (1), kitchen counter (1), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1), tv (1).
+Think: I move to kitchen 1. Now, I need to find the cupcake. The cupcake is more likely to appear on kitchen table (1), or in fridge (1), kitchen counter (1). I can check each place one by one, starting from kitchen table 1, until I find the cupcake.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1), bench (1, 2), chips (1), condiment shaker (1), cupcake (1), cutlery fork (1, 2), cutlery knife (1, 2), kitchen table (1), light switch (3), mug (2), plate (2, 3), pound cake (1), salad (1), water glass (2, 3)
+Think: I find cupcake 1. Now, I need to pick it up.
+OK.
+Act: pick up cupcake 1
+You pick up cupcake. You hold cupcake (1).
+Think: I hold cupcake 1. Now, I need to put it in the fridge.
+OK.
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is closed. You see apple (1), bench (2), coffee pot (2), cupcake (1), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), pound cake (1), stove (1) You hold cupcake (1).
+Act: open fridge 1
+You open fridge. You see apple (1), bench (2), coffee pot (2), cupcake (1), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), pound cake (1), stove (1) You hold cupcake (1).
+Think: Fridge 1 is open. Now, I need to put down cupcake 1.
+OK.
+Act: put down cupcake 1
+You put down cupcake in fridge
+Think: I put down cupcake 1 in fridge 1. Now, I need to find the pound cake. The pound cake is more likely to appear on kitchen table (1), or in fridge (1), kitchen counter (1). I can check each place one by one, starting from kitchen table 1, until I find the pound cake.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1), bench (1, 2), chips (1), condiment shaker (1), cutlery fork (1, 2), cutlery knife (1, 2), kitchen table (1), light switch (3), mug (2), plate (2, 3), pound cake (1), salad (1), water glass (2, 3)
+Think: I find pound cake 1. Now, I need to pick it up.
+OK.
+Act: pick up pound cake 1
+You pick up pound cake. You hold pound cake (1).
+Think: I hold pound cake 1. Now, I need to put it in the fridge.
+OK.
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see apple (1), bench (2), coffee pot (2), cupcake (1), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), pound cake (1), stove (1) You hold pound cake (1).
+Think: Fridge 1 is open. Now, I need to put down pound cake 1.
+OK.
+Act: put down pound cake 1
+You put down pound cake in fridge
+Think: I put down pound cake 1 in fridge 1. Now, I need to find the pudding. The pudding is more likely to appear on kitchen table (1), or in fridge (1), kitchen counter (1). I can check each place one by one, starting from kitchen table 1, until I find the pudding.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1), bench (1, 2), chips (1), condiment shaker (1), cutlery fork (1, 2), cutlery knife (1, 2), kitchen table (1), light switch (3), mug (2), plate (2, 3), salad (1), water glass (2, 3)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see apple (1), bench (2), coffee pot (2), cupcake (1), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), pound cake (1), stove (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see apple (1), bench (2), bucket (1), carrot (1), coffee pot (2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1), bench (1, 2), chips (1), condiment shaker (1), cutlery fork (1, 2), cutlery knife (1, 2), kitchen table (1), light switch (3), mug (2), plate (2, 3), salad (1), water glass (2, 3)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see apple (1), bench (2), coffee pot (2), cupcake (1), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), pound cake (1), stove (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see apple (1), bench (2), bucket (1), carrot (1), coffee pot (2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1), bench (1, 2), chips (1), condiment shaker (1), cutlery fork (1, 2), cutlery knife (1, 2), kitchen table (1), light switch (3), mug (2), plate (2, 3), salad (1), water glass (2, 3)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see apple (1), bench (2), coffee pot (2), cupcake (1), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), pound cake (1), stove (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see apple (1), bench (2), bucket (1), carrot (1), coffee pot (2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1), bench (1, 2), chips (1), condiment shaker (1), cutlery fork (1, 2), cutlery knife (1, 2), kitchen table (1), light switch (3), mug (2), plate (2, 3), salad (1), water glass (2, 3)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see apple (1), bench (2), coffee pot (2), cupcake (1), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), pound cake (1), stove (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see apple (1), bench (2), bucket (1), carrot (1), coffee pot (2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1), bench (1, 2), chips (1), condiment shaker (1), cutlery fork (1, 2), cutlery knife (1, 2), kitchen table (1), light switch (3), mug (2), plate (2, 3), salad (1), water glass (2, 3)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see apple (1), bench (2), coffee pot (2), cupcake (1), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), pound cake (1), stove (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see apple (1), bench (2), bucket (1), carrot (1), coffee pot (2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1), bench (1, 2), chips (1), condiment shaker (1), cutlery fork (1, 2), cutlery knife (1, 2), kitchen table (1), light switch (3), mug (2), plate (2, 3), salad (1), water glass (2, 3)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see apple (1), bench (2), coffee pot (2), cupcake (1), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), pound cake (1), stove (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see apple (1), bench (2), bucket (1), carrot (1), coffee pot (2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1), bench (1, 2), chips (1), condiment shaker (1), cutlery fork (1, 2), cutlery knife (1, 2), kitchen table (1), light switch (3), mug (2), plate (2, 3), salad (1), water glass (2, 3)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see apple (1), bench (2), coffee pot (2), cupcake (1), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), pound cake (1), stove (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see apple (1), bench (2), bucket (1), carrot (1), coffee pot (2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1), bench (1, 2), chips (1), condiment shaker (1), cutlery fork (1, 2), cutlery knife (1, 2), kitchen table (1), light switch (3), mug (2), plate (2, 3), salad (1), water glass (2, 3)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see apple (1), bench (2), coffee pot (2), cupcake (1), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), pound cake (1), stove (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see apple (1), bench (2), bucket (1), carrot (1), coffee pot (2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1), bench (1, 2), chips (1), condiment shaker (1), cutlery fork (1, 2), cutlery knife (1, 2), kitchen table (1), light switch (3), mug (2), plate (2, 3), salad (1), water glass (2, 3)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see apple (1), bench (2), coffee pot (2), cupcake (1), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), pound cake (1), stove (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see apple (1), bench (2), bucket (1), carrot (1), coffee pot (2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1), bench (1, 2), chips (1), condiment shaker (1), cutlery fork (1, 2), cutlery knife (1, 2), kitchen table (1), light switch (3), mug (2), plate (2, 3), salad (1), water glass (2, 3)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see apple (1), bench (2), coffee pot (2), cupcake (1), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), pound cake (1), stove (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see apple (1), bench (2), bucket (1), carrot (1), coffee pot (2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1), bench (1, 2), chips (1), condiment shaker (1), cutlery fork (1, 2), cutlery knife (1, 2), kitchen table (1), light switch (3), mug (2), plate (2, 3), salad (1), water glass (2, 3)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see apple (1), bench (2), coffee pot (2), cupcake (1), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), pound cake (1), stove (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see apple (1), bench (2), bucket (1), carrot (1), coffee pot (2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1), bench (1, 2), chips (1), condiment shaker (1), cutlery fork (1, 2), cutlery knife (1, 2), kitchen table (1), light switch (3), mug (2), plate (2, 3), salad (1), water glass (2, 3)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see apple (1), bench (2), coffee pot (2), cupcake (1), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), pound cake (1), stove (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see apple (1), bench (2), bucket (1), carrot (1), coffee pot (2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1), bench (1, 2), chips (1), condiment shaker (1), cutlery fork (1, 2), cutlery knife (1, 2), kitchen table (1), light switch (3), mug (2), plate (2, 3), salad (1), water glass (2, 3)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see apple (1), bench (2), coffee pot (2), cupcake (1), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), pound cake (1), stove (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see apple (1), bench (2), bucket (1), carrot (1), coffee pot (2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1), bench (1, 2), chips (1), condiment shaker (1), cutlery fork (1, 2), cutlery knife (1, 2), kitchen table (1), light switch (3), mug (2), plate (2, 3), salad (1), water glass (2, 3)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see apple (1), bench (2), coffee pot (2), cupcake (1), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), pound cake (1), stove (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see apple (1), bench (2), bucket (1), carrot (1), coffee pot (2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1), bench (1, 2), chips (1), condiment shaker (1), cutlery fork (1, 2), cutlery knife (1, 2), kitchen table (1), light switch (3), mug (2), plate (2, 3), salad (1), water glass (2, 3)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see apple (1), bench (2), coffee pot (2), cupcake (1), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), pound cake (1), stove (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see apple (1), bench (2), bucket (1), carrot (1), coffee pot (2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1), bench (1, 2), chips (1), condiment shaker (1), cutlery fork (1, 2), cutlery knife (1, 2), kitchen table (1), light switch (3), mug (2), plate (2, 3), salad (1), water glass (2, 3)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see apple (1), bench (2), coffee pot (2), cupcake (1), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), pound cake (1), stove (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see apple (1), bench (2), bucket (1), carrot (1), coffee pot (2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1), bench (1, 2), chips (1), condiment shaker (1), cutlery fork (1, 2), cutlery knife (1, 2), kitchen table (1), light switch (3), mug (2), plate (2, 3), salad (1), water glass (2, 3)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see apple (1), bench (2), coffee pot (2), cupcake (1), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), pound cake (1), stove (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see apple (1), bench (2), bucket (1), carrot (1), coffee pot (2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1), bench (1, 2), chips (1), condiment shaker (1), cutlery fork (1, 2), cutlery knife (1, 2), kitchen table (1), light switch (3), mug (2), plate (2, 3), salad (1), water glass (2, 3)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see apple (1), bench (2), coffee pot (2), cupcake (1), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), pound cake (1), stove (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see apple (1), bench (2), bucket (1), carrot (1), coffee pot (2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1), bench (1, 2), chips (1), condiment shaker (1), cutlery fork (1, 2), cutlery knife (1, 2), kitchen table (1), light switch (3), mug (2), plate (2, 3), salad (1), water glass (2, 3)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see apple (1), bench (2), coffee pot (2), cupcake (1), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), pound cake (1), stove (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see apple (1), bench (2), bucket (1), carrot (1), coffee pot (2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1), bench (1, 2), chips (1), condiment shaker (1), cutlery fork (1, 2), cutlery knife (1, 2), kitchen table (1), light switch (3), mug (2), plate (2, 3), salad (1), water glass (2, 3)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see apple (1), bench (2), coffee pot (2), cupcake (1), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), pound cake (1), stove (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see apple (1), bench (2), bucket (1), carrot (1), coffee pot (2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1), bench (1, 2), chips (1), condiment shaker (1), cutlery fork (1, 2), cutlery knife (1, 2), kitchen table (1), light switch (3), mug (2), plate (2, 3), salad (1), water glass (2, 3)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see apple (1), bench (2), coffee pot (2), cupcake (1), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), pound cake (1), stove (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see apple (1), bench (2), bucket (1), carrot (1), coffee pot (2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1), bench (1, 2), chips (1), condiment shaker (1), cutlery fork (1, 2), cutlery knife (1, 2), kitchen table (1), light switch (3), mug (2), plate (2, 3), salad (1), water glass (2, 3)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see apple (1), bench (2), coffee pot (2), cupcake (1), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), pound cake (1), stove (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see apple (1), bench (2), bucket (1), carrot (1), coffee pot (2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1), bench (1, 2), chips (1), condiment shaker (1), cutlery fork (1, 2), cutlery knife (1, 2), kitchen table (1), light switch (3), mug (2), plate (2, 3), salad (1), water glass (2, 3)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see apple (1), bench (2), coffee pot (2), cupcake (1), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), pound cake (1), stove (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see apple (1), bench (2), bucket (1), carrot (1), coffee pot (2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1), bench (1, 2), chips (1), condiment shaker (1), cutlery fork (1, 2), cutlery knife (1, 2), kitchen table (1), light switch (3), mug (2), plate (2, 3), salad (1), water glass (2, 3)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see apple (1), bench (2), coffee pot (2), cupcake (1), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), pound cake (1), stove (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see apple (1), bench (2), bucket (1), carrot (1), coffee pot (2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1), bench (1, 2), chips (1), condiment shaker (1), cutlery fork (1, 2), cutlery knife (1, 2), kitchen table (1), light switch (3), mug (2), plate (2, 3), salad (1), water glass (2, 3)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see apple (1), bench (2), coffee pot (2), cupcake (1), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), pound cake (1), stove (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see apple (1), bench (2), bucket (1), carrot (1), coffee pot (2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1), bench (1, 2), chips (1), condiment shaker (1), cutlery fork (1, 2), cutlery knife (1, 2), kitchen table (1), light switch (3), mug (2), plate (2, 3), salad (1), water glass (2, 3)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see apple (1), bench (2), coffee pot (2), cupcake (1), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), pound cake (1), stove (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see apple (1), bench (2), bucket (1), carrot (1), coffee pot (2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1), bench (1, 2), chips (1), condiment shaker (1), cutlery fork (1, 2), cutlery knife (1, 2), kitchen table (1), light switch (3), mug (2), plate (2, 3), salad (1), water glass (2, 3)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see apple (1), bench (2), coffee pot (2), cupcake (1), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), pound cake (1), stove (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see apple (1), bench (2), bucket (1), carrot (1), coffee pot (2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1), bench (1, 2), chips (1), condiment shaker (1), cutlery fork (1, 2), cutlery knife (1, 2), kitchen table (1), light switch (3), mug (2), plate (2, 3), salad (1), water glass (2, 3)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see apple (1), bench (2), coffee pot (2), cupcake (1), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), pound cake (1), stove (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see apple (1), bench (2), bucket (1), carrot (1), coffee pot (2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1), bench (1, 2), chips (1), condiment shaker (1), cutlery fork (1, 2), cutlery knife (1, 2), kitchen table (1), light switch (3), mug (2), plate (2, 3), salad (1), water glass (2, 3)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see apple (1), bench (2), coffee pot (2), cupcake (1), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), pound cake (1), stove (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see apple (1), bench (2), bucket (1), carrot (1), coffee pot (2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1), bench (1, 2), chips (1), condiment shaker (1), cutlery fork (1, 2), cutlery knife (1, 2), kitchen table (1), light switch (3), mug (2), plate (2, 3), salad (1), water glass (2, 3)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see apple (1), bench (2), coffee pot (2), cupcake (1), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), pound cake (1), stove (1)
+Max steps

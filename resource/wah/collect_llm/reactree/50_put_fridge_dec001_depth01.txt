@@ -1,0 +1,12 @@
+Your task is to: I need you to store the following food items in the fridge:
+- 1 cupcake 
+- 1 pound cake
+- 1 pudding
+- 1 apple
+- 1 pancake
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a bathroom (1). Looking quickly around the room, you see bathroom cabinet (1), bathroom counter (1), faucet (1), sink (1), toilet (1), towel rack (1, 2, 3), washing machine (1).
+Think: To solve the task, I need to accomplish 5 subgoals independently. Store the cupcake in the fridge, store the pound cake in the fridge, store the pudding in the fridge, store the apple in the fridge, and store the pancake in the fridge.
+OK.
+Expand:
+- control flow: parallel
+- subgoals: store the cupcake in the fridge, store the pound cake in the fridge, store the pudding in the fridge, store the apple in the fridge, and store the pancake in the fridge

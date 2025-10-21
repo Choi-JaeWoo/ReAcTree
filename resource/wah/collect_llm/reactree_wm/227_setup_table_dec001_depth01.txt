@@ -1,0 +1,7 @@
+Your task is to: Get a fork and a plate out of the cupboard and put them on the kitchen table. Get a wine glass and a water glass out of the cupboard and put them on the kitchen table.
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a bedroom (1). Looking quickly around the room, you see bed (1), cabinet (1), chair (6), closet (2), nightstand (2), sofa (3).
+Think: To solve the task, I need to accomplish 4 subgoals independently. Find and open the cupboard, move the fork in the cupboard, move the plate in the cupboard, and close and turn on the cupboard.
+OK.
+Expand:
+- control flow: parallel
+- subgoals: find and open the cupboard, move the fork in the cupboard, move the plate in the cupboard, close and turn on the cupboard

@@ -1,0 +1,31 @@
+Your task is to: Serve one wine on the coffe table
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (2), faucet (2), fridge (1), kitchen counter (1), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1), tv (1).
+Think: To solve the task, I need to find and pick up the wine, then put it on the coffee table.
+OK.
+Think: First, I need to find the wine. The wine is more likely to appear in kitchen 1.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (2), faucet (2), fridge (1), kitchen counter (1), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1), tv (1).
+Think: I move to kitchen 1. The wine is more likely to appear on kitchen table (1), or in fridge (1). I can check each place one by one, starting from kitchen table 1, until I find the wine.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bench (1, 2), book (1, 2), chips (1), condiment shaker (1), cutlery fork (1, 2), cutlery knife (1, 2), kitchen table (1), light switch (3), mug (2), plate (2, 3), salad (1), water glass (2, 3), wine (1)
+Think: I find wine 1. Now, I need to pick it up.
+OK.
+Act: pick up wine 1
+You pick up wine. You hold wine (1).
+Think: I hold wine 1. Now, I need to put it on the coffee table. The coffee table is more likely to appear in living room 1.
+OK.
+Act: go to living room 1
+You move to the living room (1). Looking quickly around the room, you see bookshelf (3), cabinet (1), chair (3), closet (2), coffee table (2), computer (1), desk (1), sofa (1). You hold wine (1).
+Think: I can see coffee table 2.
+OK.
+Act: go to coffee table 2
+You arrive at the coffee table (2). You see coffee table (2), sofa (1), wine (1) You hold wine (1).
+Think: Now, I need to put down wine 1.
+OK.
+Act: put down wine 1
+You put down wine on coffee table
+Think: Now I accomplish the goal.
+OK.
+Act: done

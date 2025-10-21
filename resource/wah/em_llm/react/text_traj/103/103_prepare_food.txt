@@ -1,0 +1,189 @@
+Your task is to: Put 1 cupcake, 1 juice, 1 pound cake, and 1 pudding on the kitchen table.
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a living room (1). Looking quickly around the room, you see bookshelf (3), cabinet (1), chair (3), closet (2), coffee table (2), computer (1), desk (1), sofa (1), tv (2).
+Think: To solve the task, I need to find and pick up the cupcake, then put it on the kitchen table. And I need to find and pick up the juice, then put it on the kitchen table. And I need to find and pick up the pound cake, then put it on the kitchen table. And I need to find and pick up the pudding, then put it on the kitchen table.
+OK.
+Think: First, I need to find the cupcake. The cupcake is more likely to appear in kitchen 1.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (2), faucet (2), fridge (1), kitchen counter (1), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1), tv (1).
+Think: I can see kitchen 1.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1, 2), bench (1, 2), chips (1), condiment shaker (1), kitchen table (1), light switch (3), mug (2), salad (1)
+Think: I cannot find cupcake in kitchen 1. The cupcake is more likely to appear in living room 1.
+OK.
+Act: go to living room 1
+You move to the living room (1). Looking quickly around the room, you see bookshelf (3), cabinet (1), chair (3), closet (2), coffee table (2), computer (1), desk (1), sofa (1), tv (2).
+Think: I can see living room 1.
+OK.
+Act: go to coffee table 2
+You arrive at the coffee table (2). You see cell phone (2), coffee table (2), cupcake (2), sofa (1), tv (2)
+Think: I find cupcake 2. Now, I need to pick it up.
+OK.
+Act: pick up cupcake 2
+You pick up cupcake. You hold cupcake (2).
+Think: I hold cupcake 2. Now, I need to put it on the kitchen table.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (2), faucet (2), fridge (1), kitchen counter (1), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1), tv (1). You hold cupcake (2).
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1, 2), bench (1, 2), chips (1), condiment shaker (1), cupcake (2), kitchen table (1), light switch (3), mug (2), salad (1) You hold cupcake (2).
+Think: Now, I need to put down cupcake 2.
+OK.
+Act: put down cupcake 2
+You put down cupcake on kitchen table
+Think: I put down cupcake 2 on kitchen table 1. Now, I need to find the juice. The juice is more likely to appear in kitchen 1.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (2), faucet (2), fridge (1), kitchen counter (1), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1), tv (1).
+Think: I can see kitchen 1.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1, 2), bench (1, 2), chips (1), condiment shaker (1), cupcake (2), kitchen table (1), light switch (3), mug (2), salad (1)
+Think: I cannot find juice in kitchen 1. The juice is more likely to appear in living room 1.
+OK.
+Act: go to living room 1
+You move to the living room (1). Looking quickly around the room, you see bookshelf (3), cabinet (1), chair (3), closet (2), coffee table (2), computer (1), desk (1), sofa (1), tv (2).
+Think: I can see living room 1.
+OK.
+Act: go to coffee table 2
+You arrive at the coffee table (2). You see cell phone (2), coffee table (2), sofa (1), tv (2)
+Think: I cannot find juice in living room 1. The juice is more likely to appear in bedroom 1.
+OK.
+Act: go to bedroom 1
+You move to the bedroom (1). Looking quickly around the room, you see bed (1), bookshelf (1), chair (1, 2), closet (1), coffee table (1), nightstand (1).
+Think: I can see bedroom 1.
+OK.
+Act: go to coffee table 1
+You arrive at the coffee table (1). You see Chinese food (1), bed (1), coffee table (1), cupcake (1), juice (1), pound cake (1), pudding (1, 2)
+Think: I find juice 1. Now, I need to pick it up.
+OK.
+Act: pick up juice 1
+You pick up juice. You hold juice (1).
+Think: I hold juice 1. Now, I need to put it on the kitchen table.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (2), faucet (2), fridge (1), kitchen counter (1), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1), tv (1). You hold juice (1).
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1, 2), bench (1, 2), chips (1), condiment shaker (1), cupcake (2), juice (1), kitchen table (1), light switch (3), mug (2), salad (1) You hold juice (1).
+Think: Now, I need to put down juice 1.
+OK.
+Act: put down juice 1
+You put down juice on kitchen table
+Think: I put down juice 1 on kitchen table 1. Now, I need to find the pound cake. The pound cake is more likely to appear in kitchen 1.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (2), faucet (2), fridge (1), kitchen counter (1), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1), tv (1).
+Think: I can see kitchen 1.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1, 2), bench (1, 2), chips (1), condiment shaker (1), cupcake (2), juice (1), kitchen table (1), light switch (3), mug (2), salad (1)
+Think: I cannot find pound cake in kitchen 1. The pound cake is more likely to appear in living room 1.
+OK.
+Act: go to living room 1
+You move to the living room (1). Looking quickly around the room, you see bookshelf (3), cabinet (1), chair (3), closet (2), coffee table (2), computer (1), desk (1), sofa (1), tv (2).
+Think: I can see living room 1.
+OK.
+Act: go to coffee table 2
+You arrive at the coffee table (2). You see cell phone (2), coffee table (2), sofa (1), tv (2)
+Think: I cannot find pound cake in living room 1. The pound cake is more likely to appear in bedroom 1.
+OK.
+Act: go to bedroom 1
+You move to the bedroom (1). Looking quickly around the room, you see bed (1), bookshelf (1), chair (1, 2), closet (1), coffee table (1), nightstand (1).
+Think: I can see bedroom 1.
+OK.
+Act: go to coffee table 1
+You arrive at the coffee table (1). You see Chinese food (1), bed (1), coffee table (1), cupcake (1), pound cake (1), pudding (1, 2)
+Think: I find pound cake 1. Now, I need to pick it up.
+OK.
+Act: pick up pound cake 1
+You pick up pound cake. You hold pound cake (1).
+Think: I hold pound cake 1. Now, I need to put it on the kitchen table.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (2), faucet (2), fridge (1), kitchen counter (1), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1), tv (1). You hold pound cake (1).
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1, 2), bench (1, 2), chips (1), condiment shaker (1), cupcake (2), juice (1), kitchen table (1), light switch (3), mug (2), pound cake (1), salad (1) You hold pound cake (1).
+Think: Now, I need to put down pound cake 1.
+OK.
+Act: put down pound cake 1
+You put down pound cake on kitchen table
+Think: I put down pound cake 1 on kitchen table 1. Now, I need to find the pudding. The pudding is more likely to appear in kitchen 1.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (2), faucet (2), fridge (1), kitchen counter (1), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1), tv (1).
+Think: I can see kitchen 1.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1, 2), bench (1, 2), chips (1), condiment shaker (1), cupcake (2), juice (1), kitchen table (1), light switch (3), mug (2), pound cake (1), salad (1)
+Think: I cannot find pudding in kitchen 1. The pudding is more likely to appear in living room 1.
+OK.
+Act: go to living room 1
+You move to the living room (1). Looking quickly around the room, you see bookshelf (3), cabinet (1), chair (3), closet (2), coffee table (2), computer (1), desk (1), sofa (1), tv (2).
+Think: I can see living room 1.
+OK.
+Act: go to coffee table 2
+You arrive at the coffee table (2). You see cell phone (2), coffee table (2), sofa (1), tv (2)
+Think: I cannot find pudding in living room 1. The pudding is more likely to appear in bedroom 1.
+OK.
+Act: go to bedroom 1
+You move to the bedroom (1). Looking quickly around the room, you see bed (1), bookshelf (1), chair (1, 2), closet (1), coffee table (1), nightstand (1).
+Think: I can see bedroom 1.
+OK.
+Act: go to coffee table 1
+You arrive at the coffee table (1). You see Chinese food (1), bed (1), coffee table (1), cupcake (1), pudding (1, 2)
+Think: I find pudding 1. Now, I need to pick it up.
+OK.
+Act: pick up pudding 1
+You pick up pudding. You hold pudding (1).
+Think: I hold pudding 1. Now, I need to put it on the kitchen table.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (2), faucet (2), fridge (1), kitchen counter (1), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1), tv (1). You hold pudding (1).
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1, 2), bench (1, 2), chips (1), condiment shaker (1), cupcake (2), juice (1), kitchen table (1), light switch (3), mug (2), pound cake (1), pudding (1), salad (1) You hold pudding (1).
+Think: Now, I need to put down pudding 1.
+OK.
+Act: put down pudding 1
+You put down pudding on kitchen table
+Think: I put down pudding 1 on kitchen table 1. Now, I need to find the pudding. The pudding is more likely to appear in kitchen 1.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (2), faucet (2), fridge (1), kitchen counter (1), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1), tv (1).
+Think: I can see kitchen 1.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1, 2), bench (1, 2), chips (1), condiment shaker (1), cupcake (2), juice (1), kitchen table (1), light switch (3), mug (2), pound cake (1), pudding (1), salad (1)
+Think: I cannot find pudding in kitchen 1. The pudding is more likely to appear in living room 1.
+OK.
+Act: go to living room 1
+You move to the living room (1). Looking quickly around the room, you see bookshelf (3), cabinet (1), chair (3), closet (2), coffee table (2), computer (1), desk (1), sofa (1), tv (2).
+Think: I can see living room 1.
+OK.
+Act: go to coffee table 2
+You arrive at the coffee table (2). You see cell phone (2), coffee table (2), sofa (1), tv (2)
+Think: I cannot find pudding in living room 1. The pudding is more likely to appear in bedroom 1.
+OK.
+Act: go to bedroom 1
+You move to the bedroom (1). Looking quickly around the room, you see bed (1), bookshelf (1), chair (1, 2), closet (1), coffee table (1), nightstand (1).
+Think: I can see bedroom 1.
+OK.
+Act: go to coffee table 1
+You arrive at the coffee table (1). You see Chinese food (1), bed (1), coffee table (1), cupcake (1), pudding (2)
+Think: I find pudding 2. Now, I need to pick it up.
+OK.
+Act: pick up pudding 2
+You pick up pudding. You hold pudding (2).
+Think: I hold pudding 2. Now, I need to put it on the kitchen table.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (2), faucet (2), fridge (1), kitchen counter (1), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1), tv (1). You hold pudding (2).
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1, 2), bench (1, 2), chips (1), condiment shaker (1), cupcake (2), juice (1), kitchen table (1), light switch (3), mug (2), pound cake (1), pudding (1, 2), salad (1) You hold pudding (2).
+Think: Now, I need to put down pudding 2.
+OK.
+Act: put down pudding 2
+You put down pudding on kitchen table
+Think: Now I accomplish the goal.
+OK.
+Act: done

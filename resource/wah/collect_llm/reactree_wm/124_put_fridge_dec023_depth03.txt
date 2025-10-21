@@ -1,0 +1,9 @@
+Your primary goal is to: Could you put 1 apple, 1 pancake, 1 cupcake and 1 pudding in the fridge?
+To achieve this, you should perform your sibling tasks in parallel. At this level, your sibling tasks are: move the apple in the fridge, move the pancake in the fridge, move the cupcake in the fridge, and and move the pudding in the fridge.
+Your task is to: move the pancake in the fridge
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (2), faucet (2), fridge (1), kitchen counter (1), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1), tv (1).
+Think: To solve the task, I need to accomplish 2 subgoals sequentially. Find and pick up the pancake, and find the fridge and put down the pancake.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up the pancake, find the fridge and put down the pancake

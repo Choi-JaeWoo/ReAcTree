@@ -1,0 +1,9 @@
+Your primary goal is to: Go to the kitchen and open the dishwasher door.Remove any items which have already been cleaned.Put the following dirty items from the kitchen table in the dish washer:1 cutlery fork,1 wine glass,and 1 plate.Put a cleaning capsule in the cleaning capsule compartment.Shut the door and turn the dishwasher on by the on off button on the front.
+To achieve this, you should perform your sibling tasks in parallel. At this level, your sibling tasks are: go to the kitchen and open the dishwasher door, remove any items which have already been cleaned, put the following dirty items from the kitchen table in the dish washer: 1 cutlery fork, 1 wine glass, and 1 plate, and and put a cleaning capsule in the cleaning capsule compartment. Shut the door and turn the dishwasher on by the on off button on the front.
+Your task is to: and 1 plate
+You are in the house, and there are 5 rooms: bathroom (1), bedroom (1, 2), kitchen (1), living room (1). You are in the middle of a kitchen (1). Looking quickly around the room, you see bench (1, 2, 3, 4), bookshelf (1, 2), chair (1), dishwasher (1), faucet (1), fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (1, 2), kitchen table (1, 2), microwave oven (1), sink (1), stove (1), toaster (1).
+Think: To solve the task, I need to accomplish 2 subgoals sequentially. Find and pick up the plate, and find the dishwasher and put down the plate.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up the plate, find the dishwasher and put down the plate

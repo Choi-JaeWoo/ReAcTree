@@ -1,0 +1,7 @@
+Your task is to: Can you bring 1 wine, 1 cupcake, and 1 pudding to the coffee table, please?
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a living room (1). Looking quickly around the room, you see bookshelf (3), chair (2), closet (1), coffee table (2), computer (2), desk (2), sofa (2), tv (1).
+Think: To solve the task, I need to accomplish 3 subgoals independently. Move the wine on the coffee table, move the cupcake on the coffee table, and move the pudding on the coffee table.
+OK.
+Expand:
+- control flow: parallel
+- subgoals: move the wine on the coffee table, move the cupcake on the coffee table, and move the pudding on the coffee table

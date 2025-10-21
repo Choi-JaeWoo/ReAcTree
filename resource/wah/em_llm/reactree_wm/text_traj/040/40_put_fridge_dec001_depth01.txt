@@ -1,0 +1,7 @@
+Your task is to: Put a cupcake, a juice, a pound cake, an apple and a pancake in the fridge.
+You are in the house, and there are 5 rooms: bathroom (1), bedroom (1, 2), kitchen (1), living room (1). You are in the middle of a bedroom (2). Looking quickly around the room, you see bed (2), bookshelf (6), cabinet (1), chair (3), closet (1), computer (1), desk (2), garbage can (1), nightstand (2).
+Think: To solve the task, I need to accomplish 5 subgoals independently. Move the cupcake in the fridge, move the juice in the fridge, move the pound cake in the fridge, move the apple in the fridge, and move the pancake in the fridge.
+OK.
+Expand:
+- control flow: parallel
+- subgoals: move the cupcake in the fridge, move the juice in the fridge, move the pound cake in the fridge, move the apple in the fridge, and move the pancake in the fridge

@@ -1,0 +1,7 @@
+Your task is to: For dinner get a glass of water , place the plates on the dinning table, then add 1 cutlery fork.
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a living room (1). Looking quickly around the room, you see bookshelf (3), cabinet (1), chair (3), closet (2), coffee table (2), computer (1), desk (1), sofa (1), tv (2).
+Think: To solve the task, I need to accomplish 3 subgoals independently. Get a glass of water, place the plates on the dinning table, and add 1 cutlery fork.
+OK.
+Expand:
+- control flow: parallel
+- subgoals: get a glass of water, place the plates on the dinning table, add 1 cutlery fork

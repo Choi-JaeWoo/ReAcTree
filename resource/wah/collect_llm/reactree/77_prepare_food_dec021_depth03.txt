@@ -1,0 +1,9 @@
+Your primary goal is to: Put pudding, pancake, coffee pot and juice on the kitchen table.
+To achieve this, you should perform your sibling tasks in parallel. At this level, your sibling tasks are: move the pudding on the kitchen table, move the pancake on the kitchen table, move the coffee pot on the kitchen table, and move the juice on the kitchen table.
+Your task is to: move the pancake on the kitchen table
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a kitchen (1). Looking quickly around the room, you see bookshelf (1), chair (2, 3, 4, 5), dishwasher (1), faucet (1), fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (1), kitchen table (1), microwave oven (1), sink (1), sofa (2), stove (1), toaster (1), tv (2).
+Think: To solve the task, I need to accomplish 2 subgoals sequentially. Find and pick up the pancake, and find the kitchen table and put down the pancake.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up the pancake, find the kitchen table and put down the pancake

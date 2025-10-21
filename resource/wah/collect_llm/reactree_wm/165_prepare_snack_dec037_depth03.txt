@@ -1,0 +1,9 @@
+Your primary goal is to: Go the fridge and get a pudding.  Put it on the coffee table.  go to the fruit bowl and collect an apple and place it on the coffee table.  Go to the fridge and get a juice and place on the coffee table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: go the fridge and get a pudding, put it on the coffee table, go to the fruit bowl and collect an apple and place it on the coffee table, and and go to the fridge and get a juice and place on the coffee table.
+Your task is to: go to the fruit bowl and collect an apple and place it on the coffee table
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a living room (1). Looking quickly around the room, you see bookshelf (3), cabinet (1), chair (3), closet (2), coffee table (2), computer (1), desk (1), sofa (1).
+Think: To solve the task, I need to accomplish 2 subgoals sequentially. Find and pick up the apple, and find the coffee table and put down the apple.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up the apple, find the coffee table and put down the apple

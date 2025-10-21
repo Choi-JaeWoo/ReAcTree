@@ -1,0 +1,17 @@
+Your primary goal is to: find and open the door
+To achieve this, you should perform your sibling tasks using a fallback strategy. At this level, your sibling tasks are: find and open the door in kitchen 1, find and open the door in living room 1, and find and open the door in bedroom 1.
+Your task is to: find and open the door in bedroom 1
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a living room (1). Looking quickly around the room, you see bookshelf (3), cabinet (1), chair (3), closet (2), coffee table (2), computer (1), desk (1), sofa (1), tv (2).
+Think: I am in living room 1. Now, I need to go to bedroom 1.
+OK.
+Act: go to bedroom 1
+You move to the bedroom (1). Looking quickly around the room, you see bed (1), bookshelf (1), chair (1, 2), closet (1), coffee table (1), nightstand (1).
+Think: Now, I need to find the door. The door is more likely to appear on closet (1), or in bookshelf (1). I can check each place one by one, starting from closet 1, until I find the door.
+OK.
+Act: go to closet 1
+You arrive at the closet (1). The closet (1) is closed. You see closet (1)
+Act: open closet 1
+You open closet. You see closet (1)
+Think: I cannot find the door in bedroom 1.
+OK.
+Act: failure

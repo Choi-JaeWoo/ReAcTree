@@ -1,0 +1,17 @@
+Your primary goal is to: Go to the dishes cupboard and get a wine glass and a water glass and put them on the kitchen table. Then get a plate and put it on the kitchen table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: Go to the dishes cupboard and get a wine glass and a water glass, put them on the kitchen table, and and get a plate and put it on the kitchen table.
+Your task is to: put them on the kitchen table
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (1), dishwasher (1), faucet (2), fridge (1), garbage can (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (1, 2, 3), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1). You hold water glass (1), wine glass (1).
+Think: I hold water glass 1 and wine glass 1. Now, I need to find the kitchen table. I can see kitchen table 1.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11), bench (2), book (1), bowl (6), cell phone (1), condiment shaker (1, 2), kitchen table (1), water glass (1), wine glass (1) You hold water glass (1), wine glass (1).
+Think: Now, I need to put down water glass 1 and wine glass 1.
+OK.
+Act: put down water glass 1
+You put down water glass on kitchen table You hold wine glass (1).
+Act: put down wine glass 1
+You put down wine glass on kitchen table
+Think: Now I accomplish the goal.
+OK.
+Act: done

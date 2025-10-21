@@ -1,0 +1,9 @@
+Your primary goal is to: Serve one wine on the coffe table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up the wine, and find the coffee table and put down the wine.
+Your task is to: find and pick up the wine
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (2), faucet (2), fridge (1), kitchen counter (1), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1), tv (1).
+Think: To solve the task, I need to find and pick up the wine in one of the rooms. The wine is more likely to appear in kitchen 1, living room 1, or bedroom 1. I can check each room one by one until I find and pick up the wine.
+OK.
+Expand:
+- control flow: fallback
+- subgoals: find and pick up the wine in kitchen 1, find and pick up the wine in living room 1, find and pick up the wine in bedroom 1

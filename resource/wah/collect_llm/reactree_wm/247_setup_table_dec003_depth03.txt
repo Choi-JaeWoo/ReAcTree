@@ -1,0 +1,9 @@
+Your primary goal is to: Go to the dishes cupboard and get a wine glass and a water glass and put them on the kitchen table. Then get a plate and put it on the kitchen table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: Go to the dishes cupboard and get a wine glass and a water glass, put them on the kitchen table, and and get a plate and put it on the kitchen table.
+Your task is to: Go to the dishes cupboard and get a wine glass and a water glass
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a bedroom (1). Looking quickly around the room, you see bed (1), bookshelf (2), cabinet (1), chair (1), coffee table (1), computer (1), desk (1), nightstand (1, 2), sofa (1).
+Think: To solve the task, I need to accomplish 2 subgoals sequentially. Go to the dishes cupboard, and get a wine glass and a water glass.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: Go to the dishes cupboard, get a wine glass and a water glass

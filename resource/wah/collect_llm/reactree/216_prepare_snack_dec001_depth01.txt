@@ -1,0 +1,11 @@
+Your task is to: I need you to bring me the following food items and put them on the coffee table:
+- 1 pudding
+- 1 apple
+- 1 cupcake
+- 1 juice
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a living room (1). Looking quickly around the room, you see bookshelf (3), cabinet (1), chair (3), closet (2), coffee table (2), computer (1), desk (1), sofa (1).
+Think: To solve the task, I need to accomplish 4 subgoals independently. Move the pudding on the coffee table, move the apple on the coffee table, move the cupcake on the coffee table, and move the juice on the coffee table.
+OK.
+Expand:
+- control flow: parallel
+- subgoals: move the pudding on the coffee table, move the apple on the coffee table, move the cupcake on the coffee table, and move the juice on the coffee table

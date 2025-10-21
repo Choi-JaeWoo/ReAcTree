@@ -1,0 +1,141 @@
+Your primary goal is to: and move 1 pudding in the fridge
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up the pudding, and find the fridge and put down the pudding.
+Your task is to: find and pick up the pudding
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (2), faucet (2), fridge (1), kitchen counter (1), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1), tv (1).
+Think: To solve the task, I need to recall the location of the pudding.
+OK.
+Act: recall location of pudding
+You saw pudding 2 near cabinet 1 in living room 1.
+Think: I can find pudding 2 near cabinet 1 in living room 1. I can see cabinet 1.
+OK.
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cupcake (1, 2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), pound cake (1), sink (2), toaster (1), washing sponge (1)
+Max steps

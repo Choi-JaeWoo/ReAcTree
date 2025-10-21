@@ -1,0 +1,15 @@
+Your primary goal is to: locate 1 green apple, 1 pancake, 1 pound cake, and 1 grapefruit juice on the kitchen table.
+To achieve this, you should perform your sibling tasks in parallel. At this level, your sibling tasks are: find and pick up the green apple, find and pick up the pancake, find and pick up the pound cake, and find and pick up the grapefruit juice.
+Your task is to: find and pick up the pancake
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a living room (1). Looking quickly around the room, you see bookshelf (3), chair (2), closet (1), coffee table (2), computer (2), desk (2), sofa (2), tv (1). You hold apple (2).
+Think: I hold apple 2. Now, I need to find the pancake. The pancake is more likely to appear on coffee table (2), or in closet (1). I can check each place one by one until I find the pancake.
+OK.
+Act: go to coffee table 2
+You arrive at the coffee table (2). You see apple (2, 3), coffee table (2), sofa (2) You hold apple (2).
+Act: go to closet 1
+You arrive at the closet (1). The closet (1) is closed. You see apple (2), closet (1) You hold apple (2).
+Act: open closet 1
+You open closet. You see apple (2), closet (1) You hold apple (2).
+Think: I cannot find the pancake in living room 1.
+OK.
+Act: failure

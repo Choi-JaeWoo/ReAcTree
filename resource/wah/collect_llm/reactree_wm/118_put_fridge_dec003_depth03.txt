@@ -1,0 +1,9 @@
+Your primary goal is to: Collect one apple and one pancake and place it in the fridge
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: collect one apple and place it in the fridge, and collect one pancake and place it in the fridge.
+Your task is to: collect one apple and place it in the fridge
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a bathroom (1). Looking quickly around the room, you see bathroom cabinet (1), bathroom counter (1), faucet (1), sink (1), toilet (1), towel rack (1, 2, 3), washing machine (1).
+Think: To solve the task, I need to accomplish 2 subgoals sequentially. Find and pick up the apple, and find the fridge and put down the apple.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up the apple, find the fridge and put down the apple

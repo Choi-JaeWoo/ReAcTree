@@ -1,0 +1,17 @@
+Your primary goal is to: find and pick up the glass of water
+To achieve this, you should perform your sibling tasks using a fallback strategy. At this level, your sibling tasks are: find and pick up the glass of water in kitchen 1, find and pick up the glass of water in living room 1, find and pick up the glass of water in bedroom 1, and find and pick up the glass of water in bedroom 2.
+Your task is to: find and pick up the glass of water in bedroom 1
+You are in the house, and there are 5 rooms: bathroom (1), bedroom (1, 2), kitchen (1), living room (1). You are in the middle of a living room (1). Looking quickly around the room, you see bookshelf (3, 4), coffee table (1), sofa (1), tv (1).
+Think: I am in living room 1. Now, I need to go to bedroom 1.
+OK.
+Act: go to bedroom 1
+You move to the bedroom (1). Looking quickly around the room, you see bed (1), bookshelf (5), chair (2), desk (1), nightstand (1).
+Think: Now, I need to find the glass of water. The glass of water is more likely to appear on nightstand (1).
+OK.
+Act: go to nightstand 1
+You arrive at the nightstand (1). The nightstand (1) is closed. You see bed (1), nightstand (1)
+Act: open nightstand 1
+You open nightstand. You see bed (1), nightstand (1)
+Think: I cannot find the glass of water in bedroom 1.
+OK.
+Act: failure

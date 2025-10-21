@@ -1,0 +1,5 @@
+Your primary goal is to: find and pick up the cupcake
+To achieve this, you should perform your sibling tasks using a fallback strategy. At this level, your sibling tasks are: find and pick up the cupcake in kitchen 1, find and pick up the cupcake in living room 1, and find and pick up the cupcake in bedroom 1.
+Your task is to: find and pick up the cupcake in bedroom 1
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a living room (1). Looking quickly around the room, you see bookshelf (3), chair (2), closet (1), coffee table (2), computer (2), desk (2), sofa (2), tv (1).
+Max steps

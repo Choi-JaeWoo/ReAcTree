@@ -1,0 +1,23 @@
+Your primary goal is to: move the water glass on the kitchen table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up the water glass, and find the kitchen table and put down the water glass.
+Your task is to: find and pick up the water glass
+You are in the house, and there are 5 rooms: bathroom (1), bedroom (1, 2), kitchen (1), living room (1). You are in the middle of a bedroom (1). Looking quickly around the room, you see bed (1), bookshelf (5), chair (2), desk (1), nightstand (1).
+Think: To solve the task, I need to recall the location of the water glass
+OK.
+Act: recall location of water glass
+You saw water glass 1 near coffee table 1 in living room 1.
+Think: Now, I need to go to living room 1.
+OK.
+Act: go to living room 1
+You move to the living room (1). Looking quickly around the room, you see bookshelf (3, 4), coffee table (1), sofa (1), tv (1).
+Think: I can see coffee table 1.
+OK.
+Act: go to coffee table 1
+You arrive at the coffee table (1). You see coffee table (1), cupcake (1, 2, 3), plate (2), water glass (1)
+Think: I find water glass 1. Now, I need to pick it up.
+OK.
+Act: pick up water glass 1
+You pick up water glass. You hold water glass (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

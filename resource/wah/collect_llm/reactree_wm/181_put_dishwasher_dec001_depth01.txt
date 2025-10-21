@@ -1,0 +1,7 @@
+Your task is to: Add a fork and a plate to the dishwasher and switch it on.
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a bedroom (1). Looking quickly around the room, you see bed (1), bookshelf (2), cabinet (1), chair (1), coffee table (1), computer (1), desk (1), nightstand (1, 2), sofa (1).
+Think: To solve the task, I need to accomplish 4 subgoals independently. Find and open the dishwasher, move the cutlery fork in the dishwasher, move the plate in the dishwasher, and close and turn on the dishwasher.
+OK.
+Expand:
+- control flow: parallel
+- subgoals: find and open the dishwasher, move the cutlery fork in the dishwasher, move the plate in the dishwasher, close and turn on the dishwasher

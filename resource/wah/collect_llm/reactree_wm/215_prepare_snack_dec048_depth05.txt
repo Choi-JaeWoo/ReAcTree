@@ -1,0 +1,23 @@
+Your primary goal is to: move the juice on the coffeee table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up the juice, and find the coffeee table and put down the juice.
+Your task is to: find and pick up the juice
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a bedroom (1). Looking quickly around the room, you see bed (1), bookshelf (2), cabinet (1), chair (1), coffee table (1), computer (1), desk (1), nightstand (1, 2), sofa (1).
+Think: To solve the task, I need to recall location of the juice.
+OK.
+Act: recall location of juice
+You saw juice 1 near kitchen cabinet 8 in kitchen 1. You saw juice 2 near cabinet 1 in bedroom 1.
+Think: I can find juice 1 near kitchen cabinet 8 in kitchen 1. I can see kitchen cabinet 8.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (1), dishwasher (1), faucet (2), fridge (1), garbage can (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (1, 3), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1).
+Think: I can see kitchen cabinet 8.
+OK.
+Act: go to kitchen cabinet 8
+You arrive at the kitchen cabinet (8). The kitchen cabinet (8) is open. You see cooking pot (1), dishwasher (1), frying pan (1), juice (1), kitchen cabinet (6, 7, 8), microwave oven (1), stove (1), toaster (1), wine (1)
+Think: I find juice 1. Now I need to pick it up.
+OK.
+Act: pick up juice 1
+You pick up juice. You hold juice (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

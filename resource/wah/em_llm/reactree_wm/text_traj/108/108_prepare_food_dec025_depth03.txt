@@ -1,0 +1,9 @@
+Your primary goal is to: Robot, get me 1 bottle of wine, 1 cupcake, 1 juice, 1 pudding and 1 apple and put them in the kitchen table
+To achieve this, you should perform your sibling tasks in parallel. At this level, your sibling tasks are: move the wine on the kitchen table, move the cupcake on the kitchen table, move the juice on the kitchen table, move the pudding on the kitchen table, and and move the apple on the kitchen table.
+Your task is to: move the cupcake on the kitchen table
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (2), faucet (2), fridge (1), kitchen cabinet (1, 2, 3, 4), kitchen counter (1), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1), tv (1).
+Think: To solve the task, I need to accomplish 2 subgoals sequentially. Find and pick up the cupcake, and find the kitchen table and put down the cupcake.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up the cupcake, find the kitchen table and put down the cupcake

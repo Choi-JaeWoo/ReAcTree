@@ -1,0 +1,7 @@
+Your task is to: Please, take a 1 pound cake, 1 cupcake, and 1 pudding and put them in the fridge on an empty shelf
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a bathroom (1). Looking quickly around the room, you see bathroom cabinet (1), bathroom counter (1), closet (3, 4), faucet (2), sink (2), toilet (1), towel rack (1, 2), washing machine (1).
+Think: To solve the task, I need to accomplish 3 subgoals independently. Move the 1 pound cake in the fridge, move the 1 cupcake in the fridge, move the 1 pudding in the fridge.
+OK.
+Expand:
+- control flow: parallel
+- subgoals: move the 1 pound cake in the fridge, move the 1 cupcake in the fridge, move the 1 pudding in the fridge

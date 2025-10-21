@@ -1,0 +1,65 @@
+Your task is to: Bring me 1 apple and 1 pudding and put them on the coffee table.
+You are in the house, and there are 5 rooms: bathroom (1), bedroom (1, 2), kitchen (1), living room (1). You are in the middle of a bathroom (1). Looking quickly around the room, you see bathroom cabinet (1), bathroom counter (1), faucet (2), sink (2), toilet (1), towel rack (1, 2, 3), washing machine (1).
+Think: To solve the task, I need to find and pick up the apple, then put it on the coffee table. And I need to find and pick up the pudding, then put it on the coffee table.
+OK.
+Think: First, I need to find the apple. The apple is more likely to appear in kitchen 1.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bench (1, 2, 3, 4), bookshelf (1, 2), chair (1), dishwasher (1), faucet (1), fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (1, 3), kitchen table (1, 2), microwave oven (1), sink (1), stove (1), toaster (1).
+Think: I move to kitchen 1. Now, I need to find the apple. The apple is more likely to appear on kitchen table (1, 2), or in fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8). I can check each place one by one, starting from kitchen table 1, until I find the apple.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bench (2), book (1, 2), condiment bottle (1, 2), condiment shaker (3, 4), cutlery fork (1, 8), cutlery knife (3, 10), kitchen table (1), plate (1, 8), water glass (1, 4, 5, 8), wine (2)
+Think: I find apple 1. Now, I need to pick it up.
+OK.
+Act: pick up book 1
+You pick up book. You hold book (1).
+Think: I hold book 1. Now, I need to put it on the coffee table.
+OK.
+Act: go to living room 1
+You move to the living room (1). Looking quickly around the room, you see bookshelf (3, 4), coffee table (1), sofa (1), tv (1). You hold book (1).
+Act: go to coffee table 1
+You arrive at the coffee table (1). You see book (1), coffee table (1) You hold book (1).
+Think: Now, I need to put down book 1.
+OK.
+Act: put down book 1
+You put down book on coffee table
+Think: I put down book 1 on coffee table 1. Now, I need to find the pudding. The pudding is more likely to appear on kitchen table (2), or in fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8). I can check each place one by one, starting from kitchen table 2, until I find the pudding.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bench (1, 2, 3, 4), bookshelf (1, 2), chair (1), dishwasher (1), faucet (1), fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (1, 3), kitchen table (1, 2), microwave oven (1), sink (1), stove (1), toaster (1).
+Act: go to kitchen table 2
+You arrive at the kitchen table (2). You see bench (3), condiment bottle (3, 4), condiment shaker (1, 2), cutlery fork (2, 3), cutlery knife (4, 5), kitchen table (2), plate (2, 3), water glass (2, 3, 6, 7)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is closed. You see chair (1), fridge (1), kitchen cabinet (5), toaster (1)
+Act: open fridge 1
+You open fridge. You see apple (1), chair (1), fridge (1), kitchen cabinet (5), pudding (1, 3), toaster (1)
+Act: go to kitchen cabinet 1
+You arrive at the kitchen cabinet (1). The kitchen cabinet (1) is closed. You see bananas (1, 2), bowl (7), cooking pot (1), cutlery knife (1, 2), faucet (1), frying pan (1), kitchen cabinet (1, 2, 8), kitchen counter (3), minced meat (1), salmon (1), sink (1), stove (1)
+Act: open kitchen cabinet 1
+You open kitchen cabinet. You see bananas (1, 2), bowl (7), cooking pot (1), cutlery knife (1, 2), faucet (1), frying pan (1), kitchen cabinet (1, 2, 8), kitchen counter (3), minced meat (1), salmon (1), sink (1), stove (1)
+Act: go to kitchen cabinet 2
+You arrive at the kitchen cabinet (2). The kitchen cabinet (2) is closed. You see cooking pot (1), cutlery knife (1, 2), faucet (1), kitchen cabinet (1, 2, 3), kitchen counter (3), milk (1, 2), minced meat (1), salmon (1), sink (1), stove (1)
+Act: open kitchen cabinet 2
+You open kitchen cabinet. You see cooking pot (1), cutlery knife (1, 2), faucet (1), kitchen cabinet (1, 2, 3), kitchen counter (3), milk (1, 2), minced meat (1), salmon (1), sink (1), stove (1)
+Act: go to kitchen cabinet 3
+You arrive at the kitchen cabinet (3). The kitchen cabinet (3) is closed. You see cutlery knife (1, 2), cutlets (1), faucet (1), kitchen cabinet (1, 2, 3, 4), kitchen counter (3), microwave oven (1), milk (1, 2), minced meat (1), salmon (1), sink (1)
+Act: open kitchen cabinet 3
+You open kitchen cabinet. You see cutlery knife (1, 2), cutlets (1), faucet (1), kitchen cabinet (1, 2, 3, 4), kitchen counter (3), microwave oven (1), milk (1, 2), minced meat (1), pudding (2), salmon (1), sink (1)
+Think: I find pudding 2. Now, I need to pick it up.
+OK.
+Act: pick up pudding 2
+You pick up pudding. You hold pudding (2).
+Think: I hold pudding 2. Now, I need to put it on the coffee table.
+OK.
+Act: go to living room 1
+You move to the living room (1). Looking quickly around the room, you see bookshelf (3, 4), coffee table (1), sofa (1), tv (1). You hold pudding (2).
+Act: go to coffee table 1
+You arrive at the coffee table (1). You see book (1), coffee table (1), pudding (2) You hold pudding (2).
+Think: Now, I need to put down pudding 2.
+OK.
+Act: put down pudding 2
+You put down pudding on coffee table
+Think: Now I accomplish the goal.
+OK.
+Act: done

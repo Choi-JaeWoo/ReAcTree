@@ -1,0 +1,5 @@
+Your primary goal is to: find and pick up the coffee
+To achieve this, you should perform your sibling tasks using a fallback strategy. At this level, your sibling tasks are: find and pick up the coffee in kitchen 1, find and pick up the coffee in living room 1, find and pick up the coffee in bedroom 1, and find and pick up the coffee in bedroom 2.
+Your task is to: find and pick up the coffee in bedroom 1
+You are in the house, and there are 5 rooms: bathroom (1), bedroom (1, 2), kitchen (1), living room (1). You are in the middle of a living room (1). Looking quickly around the room, you see bookshelf (3, 4), coffee table (1), sofa (1), tv (1).
+Max steps

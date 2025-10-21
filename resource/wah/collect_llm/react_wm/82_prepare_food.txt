@@ -1,0 +1,297 @@
+Your task is to: please serve on the table: 1 cup of coffee, 1 glass of wine, 1 glass of juice and 1 pancake
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a kitchen (1). Looking quickly around the room, you see bookshelf (1), chair (2, 3, 4, 5), dishwasher (1), faucet (1), fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (1), kitchen table (1), microwave oven (1), sink (1), sofa (2), stove (1), toaster (1), tv (2).
+Think: To solve the task, I need to find and pick up the coffee, then put it on the kitchen table. And I need to find and pick up the wine, then put it on the kitchen table. And I need to find and pick up the juice, then put it on the kitchen table. And I need to find and pick up the pancake, then put it on the kitchen table.
+OK.
+Think: First, I need to find the coffee. The coffee is more likely to appear in kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8). I can check each place one by one, starting from kitchen cabinet 1, until I find the coffee.
+OK.
+Act: go to kitchen cabinet 1
+You arrive at the kitchen cabinet (1). The kitchen cabinet (1) is closed. You see cell phone (2), cereal (1), condiment bottle (1, 2), cutlets (1), dishwasher (1), dishwashing liquid (1), faucet (1), kitchen cabinet (1, 2, 6, 7, 8), kitchen counter (1), microwave oven (1), minced meat (1), sink (1), toaster (1), washing sponge (1)
+Act: open kitchen cabinet 1
+You open kitchen cabinet. You see cell phone (2), cereal (1), condiment bottle (1, 2), cutlets (1), dishwasher (1), dishwashing liquid (1), faucet (1), kitchen cabinet (1, 2, 6, 7, 8), kitchen counter (1), microwave oven (1), minced meat (1), pancake (2), sink (1), toaster (1), washing sponge (1)
+Act: go to kitchen cabinet 2
+You arrive at the kitchen cabinet (2). The kitchen cabinet (2) is closed. You see cell phone (2), cereal (1), chocolate syrup (1), condiment bottle (1, 2), cutlets (1), dishwasher (1), kitchen cabinet (1, 2, 3, 7, 8), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), pancake (2), sink (1), toaster (1), washing sponge (1)
+Act: open kitchen cabinet 2
+You open kitchen cabinet. You see cell phone (2), cereal (1), chair (5), chocolate syrup (1), condiment bottle (1, 2), cutlets (1), dishwasher (1), kitchen cabinet (1, 2, 3, 7, 8), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), pancake (2), sink (1), toaster (1), washing sponge (1)
+Act: go to kitchen cabinet 3
+You arrive at the kitchen cabinet (3). The kitchen cabinet (3) is closed. You see cell phone (2), cereal (1), chocolate syrup (1), condiment bottle (1, 2), cutlets (1), dishwasher (1), kitchen cabinet (1, 2, 3, 4), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), mug (2), pancake (2)
+Act: open kitchen cabinet 3
+You open kitchen cabinet. You see cell phone (2), cereal (1), chair (5), chocolate syrup (1), condiment bottle (1, 2), cutlets (1), dishwasher (1), kitchen cabinet (1, 2, 3, 4), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), mug (2), pancake (2)
+Act: go to kitchen cabinet 4
+You arrive at the kitchen cabinet (4). The kitchen cabinet (4) is closed. You see cereal (1), chocolate syrup (1), cooking pot (1), cutlets (1), dishwasher (1), kitchen cabinet (2, 3, 4), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), mug (2), stove (1)
+Act: open kitchen cabinet 4
+You open kitchen cabinet. You see cereal (1), chair (2), chocolate syrup (1), cooking pot (1), cutlets (1), dishwasher (1), kitchen cabinet (2, 3, 4), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), mug (2), stove (1)
+Act: go to kitchen cabinet 5
+You arrive at the kitchen cabinet (5). The kitchen cabinet (5) is closed. You see bananas (1, 2), bowl (2), chair (4, 5), condiment shaker (1, 2), dishwashing liquid (1), faucet (1), fridge (1), kitchen cabinet (5, 6), kitchen counter (1), kitchen table (1), mug (2, 3), sink (1)
+Act: open kitchen cabinet 5
+You open kitchen cabinet. You see bananas (1, 2), bowl (2), chair (4, 5), condiment shaker (1, 2), dishwashing liquid (1), faucet (1), fridge (1), kitchen cabinet (5, 6), kitchen counter (1), kitchen table (1), mug (3), sink (1)
+Act: go to kitchen cabinet 6
+You arrive at the kitchen cabinet (6). The kitchen cabinet (6) is closed. You see bananas (1, 2), bowl (2), cell phone (2), chair (4, 5), condiment shaker (1, 2), dishwashing liquid (1), faucet (1), fridge (1), kitchen cabinet (5, 6, 7), kitchen counter (1), kitchen table (1), mug (2, 3), sink (1), washing sponge (1)
+Act: open kitchen cabinet 6
+You open kitchen cabinet. You see bananas (1, 2), bowl (2), cell phone (2), chair (4, 5), condiment shaker (1, 2), dishwashing liquid (1), faucet (1), fridge (1), kitchen cabinet (5, 6, 7), kitchen counter (1), kitchen table (1), mug (2, 3), sink (1), washing sponge (1), wine (1)
+Act: go to kitchen cabinet 7
+You arrive at the kitchen cabinet (7). The kitchen cabinet (7) is closed. You see bananas (1, 2), bowl (2), cell phone (2), chair (4, 5), condiment bottle (1, 2), condiment shaker (1, 2), cutlets (1), dishwashing liquid (1), faucet (1), kitchen cabinet (1, 5, 6, 7, 8), kitchen counter (1), kitchen table (1), minced meat (1), mug (2, 3), sink (1), toaster (1), washing sponge (1), wine (1)
+Act: open kitchen cabinet 7
+You open kitchen cabinet. You see bananas (1, 2), bowl (2), cell phone (2), chair (4, 5), coffee pot (1), condiment bottle (1, 2), condiment shaker (1, 2), cutlets (1), dishwashing liquid (1), faucet (1), kitchen cabinet (1, 5, 6, 7, 8), kitchen counter (1), kitchen table (1), minced meat (1), mug (2, 3), sink (1), toaster (1), washing sponge (1), wine (1)
+Act: go to kitchen cabinet 8
+You arrive at the kitchen cabinet (8). The kitchen cabinet (8) is closed. You see cell phone (2), cereal (1), chair (5), coffee pot (1), condiment bottle (1, 2), cutlets (1), dishwasher (1), dishwashing liquid (1), faucet (1), kitchen cabinet (1, 2, 3, 6, 7, 8), kitchen counter (1), microwave oven (1), minced meat (1), pancake (2), sink (1), toaster (1), washing sponge (1), wine (1)
+Act: open kitchen cabinet 8
+You open kitchen cabinet. You see cell phone (2), cereal (1), chair (5), coffee pot (1, 2), condiment bottle (1, 2), cutlets (1), dishwasher (1), dishwashing liquid (1), faucet (1), kitchen cabinet (1, 2, 3, 6, 7, 8), kitchen counter (1), microwave oven (1), minced meat (1), pancake (2), sink (1), toaster (1), washing sponge (1), wine (1)
+Think: I find coffee pot 1. Now, I need to pick it up.
+OK.
+Act: pick up coffee pot 1
+You pick up coffee pot. You hold coffee pot (1).
+Think: I hold coffee pot 1. Now, I need to put it on the kitchen table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (1), condiment shaker (1, 2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pie (1) You hold coffee pot (1).
+Think: Now, I need to put down coffee pot 1.
+OK.
+Act: put down coffee pot 1
+You put down coffee pot on kitchen table
+Think: I put down coffee pot 1 on kitchen table 1. Now, I need to recall the location of the wine.
+OK.
+Act: recall location of wine
+You saw wine 1 near kitchen cabinet 8 in kitchen 1.
+Act: go to kitchen cabinet 8
+You arrive at the kitchen cabinet (8). The kitchen cabinet (8) is open. You see cell phone (2), cereal (1), chair (5), coffee pot (2), condiment bottle (1, 2), cutlets (1), dishwasher (1), dishwashing liquid (1), faucet (1), kitchen cabinet (1, 2, 3, 6, 7, 8), kitchen counter (1), microwave oven (1), minced meat (1), pancake (2), sink (1), toaster (1), washing sponge (1), wine (1)
+Think: I find wine 1. Now, I need to pick it up.
+OK.
+Act: pick up wine 1
+You pick up wine. You hold wine (1).
+Think: I hold wine 1. Now, I need to put it on the kitchen table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (1), condiment shaker (1, 2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pie (1), wine (1) You hold wine (1).
+Think: Now, I need to put down wine 1.
+OK.
+Act: put down wine 1
+You put down wine on kitchen table
+Think: I put down wine 1 on kitchen table 1. Now, I need to recall the location of the juice.
+OK.
+Act: recall location of juice
+You have not seen juice before.
+Think: Now, I need to find the juice. The juice is more likely to appear in kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8). I can check each place one by one, starting from kitchen cabinet 1, until I find the juice.
+OK.
+Act: go to kitchen cabinet 1
+You arrive at the kitchen cabinet (1). The kitchen cabinet (1) is open. You see cell phone (2), cereal (1), coffee pot (2), condiment bottle (1, 2), cutlets (1), dishwasher (1), dishwashing liquid (1), faucet (1), kitchen cabinet (1, 2, 3, 6, 7, 8), kitchen counter (1), microwave oven (1), minced meat (1), pancake (2), sink (1), toaster (1), washing sponge (1)
+Act: go to kitchen cabinet 2
+You arrive at the kitchen cabinet (2). The kitchen cabinet (2) is open. You see cell phone (2), cereal (1), chocolate syrup (1), coffee pot (2), condiment bottle (1, 2), cutlets (1), dishwasher (1), kitchen cabinet (1, 2, 3, 7, 8), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), pancake (2), sink (1), toaster (1), washing sponge (1)
+Act: go to kitchen cabinet 3
+You arrive at the kitchen cabinet (3). The kitchen cabinet (3) is open. You see cell phone (2), cereal (1), chocolate syrup (1), condiment bottle (1, 2), cutlets (1), dishwasher (1), kitchen cabinet (1, 2, 3, 4), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), mug (2), pancake (2)
+Act: go to kitchen cabinet 4
+You arrive at the kitchen cabinet (4). The kitchen cabinet (4) is open. You see cereal (1), chocolate syrup (1), cooking pot (1), cutlets (1), dishwasher (1), kitchen cabinet (2, 3, 4), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), mug (2), stove (1)
+Act: go to kitchen cabinet 5
+You arrive at the kitchen cabinet (5). The kitchen cabinet (5) is open. You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (1), condiment shaker (1, 2), dishwashing liquid (1), faucet (1), fridge (1), kitchen cabinet (5, 6), kitchen counter (1), kitchen table (1), mug (2, 3), sink (1), wine (1)
+Act: go to kitchen cabinet 6
+You arrive at the kitchen cabinet (6). The kitchen cabinet (6) is open. You see bananas (1, 2), bowl (2), cell phone (2), chair (4, 5), coffee pot (1), condiment shaker (1, 2), dishwashing liquid (1), faucet (1), fridge (1), kitchen cabinet (5, 6, 7), kitchen counter (1), kitchen table (1), mug (2, 3), sink (1), washing sponge (1), wine (1)
+Act: go to kitchen cabinet 7
+You arrive at the kitchen cabinet (7). The kitchen cabinet (7) is open. You see bananas (1, 2), bowl (2), cell phone (2), chair (4, 5), coffee pot (1, 2), condiment bottle (1, 2), condiment shaker (1, 2), cutlets (1), dishwashing liquid (1), faucet (1), kitchen cabinet (1, 2, 5, 6, 7, 8), kitchen counter (1), kitchen table (1), minced meat (1), mug (2, 3), sink (1), toaster (1), washing sponge (1), wine (1)
+Act: go to kitchen cabinet 8
+You arrive at the kitchen cabinet (8). The kitchen cabinet (8) is open. You see cell phone (2), cereal (1), chair (5), coffee pot (2), condiment bottle (1, 2), cutlets (1), dishwasher (1), dishwashing liquid (1), faucet (1), kitchen cabinet (1, 2, 3, 6, 7, 8), kitchen counter (1), microwave oven (1), minced meat (1), pancake (2), sink (1), toaster (1), washing sponge (1)
+Think: I cannot find juice in kitchen 1. The juice is more likely to appear in living room 1.
+OK.
+Act: go to living room 1
+You move to the living room (1). Looking quickly around the room, you see chair (1), closet (1), computer (1), desk (1), nightstand (1), sofa (1), tv (1).
+Think: I move to living room 1. The juice is more likely to appear on nightstand (1), sofa (1). I can check each place one by one, starting from nightstand 1, until I find the juice.
+OK.
+Act: go to nightstand 1
+You arrive at the nightstand (1). The nightstand (1) is closed. You see chair (1), closet (1), desk (1), nightstand (1), water glass (1)
+Act: open nightstand 1
+You open nightstand. You see chair (1), closet (1), desk (1), nightstand (1), water glass (1)
+Act: go to sofa 1
+You arrive at the sofa (1). You see book (1, 2), cell phone (1), remote control (1), sofa (1), tv (1)
+Think: I cannot find juice in living room 1. The juice is more likely to appear in bedroom 1.
+OK.
+Act: go to bedroom 1
+You move to the bedroom (1). Looking quickly around the room, you see bed (1), cabinet (1), chair (6), closet (2), nightstand (2), sofa (3).
+Think: I move to bedroom 1. The juice is more likely to appear on nightstand (2), sofa (3). I can check each place one by one, starting from nightstand 2, until I find the juice.
+OK.
+Act: go to nightstand 2
+You arrive at the nightstand (2). The nightstand (2) is closed. You see bed (1), light switch (3), nightstand (2)
+Act: open nightstand 2
+You open nightstand. You see bed (1), light switch (3), nightstand (2)
+Act: go to sofa 3
+You arrive at the sofa (3). You see face cream (3), sofa (3)
+Think: I cannot find juice in bedroom 1. The juice is more likely to appear in bathroom 1.
+OK.
+Act: go to bathroom 1
+You move to the bathroom (1). Looking quickly around the room, you see bathroom cabinet (1), bathroom counter (1), closet (3, 4), faucet (2), sink (2), toilet (1), towel rack (1, 2), washing machine (1).
+Think: I move to bathroom 1. The juice is more likely to appear on bathroom cabinet (1), bathroom counter (1). I can check each place one by one, starting from bathroom cabinet 1, until I find the juice.
+OK.
+Act: go to bathroom cabinet 1
+You arrive at the bathroom cabinet (1). The bathroom cabinet (1) is closed. You see bar soap (1), bathroom cabinet (1), bathroom counter (1), face cream (4), faucet (2), sink (2), toilet paper (1), water glass (2)
+Act: open bathroom cabinet 1
+You open bathroom cabinet. You see bar soap (1), bathroom cabinet (1), bathroom counter (1), face cream (4), faucet (2), sink (2), toilet paper (1), water glass (2)
+Act: go to bathroom counter 1
+You arrive at the bathroom counter (1). You see bathroom cabinet (1), bathroom counter (1), face cream (4), faucet (2), sink (2), toilet (1), toilet paper (1), water glass (2)
+Think: I cannot find juice in bathroom 1. The juice is more likely to appear in kitchen 1.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bookshelf (1), chair (2, 3, 4, 5), dishwasher (1), faucet (1), fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (1), kitchen table (1), microwave oven (1), sink (1), sofa (2), stove (1), toaster (1), tv (2).
+Think: I move to kitchen 1. The juice is more likely to appear on kitchen table (1), kitchen counter (1). I can check each place one by one, starting from kitchen table 1, until I find the juice.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (1), condiment shaker (1, 2), fridge (1), kitchen cabinet (5, 6), kitchen counter (1), kitchen table (1), mug (2, 3), pie (1), wine (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see cell phone (2), cereal (1), chair (5), coffee pot (2), condiment bottle (1, 2), cutlets (1), dishwasher (1), dishwashing liquid (1), faucet (1), kitchen cabinet (1, 2, 3, 6, 7, 8), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), mug (2), pancake (2), sink (1), toaster (1), washing sponge (1)
+Think: I cannot find juice in kitchen 1. The juice is more likely to appear in living room 1.
+OK.
+Act: go to living room 1
+You move to the living room (1). Looking quickly around the room, you see chair (1), closet (1), computer (1), desk (1), nightstand (1), sofa (1), tv (1).
+Think: I move to living room 1. The juice is more likely to appear on nightstand (1), sofa (1). I can check each place one by one, starting from nightstand 1, until I find the juice.
+OK.
+Act: go to nightstand 1
+You arrive at the nightstand (1). The nightstand (1) is closed. You see chair (1), closet (1), desk (1), nightstand (1), water glass (1)
+Act: open nightstand 1
+You open nightstand. You see chair (1), closet (1), desk (1), nightstand (1), water glass (1)
+Act: go to sofa 1
+You arrive at the sofa (1). You see book (1, 2), cell phone (1), remote control (1), sofa (1), tv (1)
+Think: I cannot find juice in living room 1. The juice is more likely to appear in bedroom 1.
+OK.
+Act: go to bedroom 1
+You move to the bedroom (1). Looking quickly around the room, you see bed (1), cabinet (1), chair (6), closet (2), nightstand (2), sofa (3).
+Think: I move to bedroom 1. The juice is more likely to appear on nightstand (2), sofa (3). I can check each place one by one, starting from nightstand 2, until I find the juice.
+OK.
+Act: go to nightstand 2
+You arrive at the nightstand (2). The nightstand (2) is closed. You see bed (1), light switch (3), nightstand (2)
+Act: open nightstand 2
+You open nightstand. You see bed (1), light switch (3), nightstand (2)
+Act: go to sofa 3
+You arrive at the sofa (3). You see face cream (3), sofa (3)
+Think: I cannot find juice in bedroom 1. The juice is more likely to appear in bathroom 1.
+OK.
+Act: go to bathroom 1
+You move to the bathroom (1). Looking quickly around the room, you see bathroom cabinet (1), bathroom counter (1), closet (3, 4), faucet (2), sink (2), toilet (1), towel rack (1, 2), washing machine (1).
+Think: I move to bathroom 1. The juice is more likely to appear on bathroom cabinet (1), bathroom counter (1). I can check each place one by one, starting from bathroom cabinet 1, until I find the juice.
+OK.
+Act: go to bathroom cabinet 1
+You arrive at the bathroom cabinet (1). The bathroom cabinet (1) is open. You see bar soap (1), bathroom cabinet (1), bathroom counter (1), face cream (4), faucet (2), sink (2), toilet paper (1), water glass (2)
+Act: go to bathroom counter 1
+You arrive at the bathroom counter (1). You see bathroom cabinet (1), bathroom counter (1), face cream (4), faucet (2), sink (2), toilet (1), toilet paper (1), water glass (2)
+Think: I cannot find juice in bathroom 1. The juice is more likely to appear in kitchen 1.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bookshelf (1), chair (2, 3, 4, 5), dishwasher (1), faucet (1), fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (1), kitchen table (1), microwave oven (1), sink (1), sofa (2), stove (1), toaster (1), tv (2).
+Think: I move to kitchen 1. The juice is more likely to appear on kitchen table (1), kitchen counter (1). I can check each place one by one, starting from kitchen table 1, until I find the juice.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (1), condiment shaker (1, 2), fridge (1), kitchen cabinet (5, 6), kitchen counter (1), kitchen table (1), mug (2, 3), pie (1), wine (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see cell phone (2), cereal (1), chair (5), coffee pot (2), condiment bottle (1, 2), cutlets (1), dishwasher (1), dishwashing liquid (1), faucet (1), kitchen cabinet (1, 2, 3, 6, 7, 8), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), mug (2), pancake (2), sink (1), toaster (1), washing sponge (1)
+Think: I cannot find juice in kitchen 1. The juice is more likely to appear in living room 1.
+OK.
+Act: go to living room 1
+You move to the living room (1). Looking quickly around the room, you see chair (1), closet (1), computer (1), desk (1), nightstand (1), sofa (1), tv (1).
+Think: I move to living room 1. The juice is more likely to appear on nightstand (1), sofa (1). I can check each place one by one, starting from nightstand 1, until I find the juice.
+OK.
+Act: go to nightstand 1
+You arrive at the nightstand (1). The nightstand (1) is closed. You see chair (1), closet (1), desk (1), nightstand (1), water glass (1)
+Act: open nightstand 1
+You open nightstand. You see chair (1), closet (1), desk (1), nightstand (1), water glass (1)
+Act: go to sofa 1
+You arrive at the sofa (1). You see book (1, 2), cell phone (1), remote control (1), sofa (1), tv (1)
+Think: I cannot find juice in living room 1. The juice is more likely to appear in bedroom 1.
+OK.
+Act: go to bedroom 1
+You move to the bedroom (1). Looking quickly around the room, you see bed (1), cabinet (1), chair (6), closet (2), nightstand (2), sofa (3).
+Think: I move to bedroom 1. The juice is more likely to appear on nightstand (2), sofa (3). I can check each place one by one, starting from nightstand 2, until I find the juice.
+OK.
+Act: go to nightstand 2
+You arrive at the nightstand (2). The nightstand (2) is closed. You see bed (1), light switch (3), nightstand (2)
+Act: open nightstand 2
+You open nightstand. You see bed (1), light switch (3), nightstand (2)
+Act: go to sofa 3
+You arrive at the sofa (3). You see face cream (3), sofa (3)
+Think: I cannot find juice in bedroom 1. The juice is more likely to appear in bathroom 1.
+OK.
+Act: go to bathroom 1
+You move to the bathroom (1). Looking quickly around the room, you see bathroom cabinet (1), bathroom counter (1), closet (3, 4), faucet (2), sink (2), toilet (1), towel rack (1, 2), washing machine (1).
+Think: I move to bathroom 1. The juice is more likely to appear on bathroom cabinet (1), bathroom counter (1). I can check each place one by one, starting from bathroom cabinet 1, until I find the juice.
+OK.
+Act: go to bathroom cabinet 1
+You arrive at the bathroom cabinet (1). The bathroom cabinet (1) is open. You see bar soap (1), bathroom cabinet (1), bathroom counter (1), face cream (4), faucet (2), sink (2), toilet paper (1), water glass (2)
+Act: go to bathroom counter 1
+You arrive at the bathroom counter (1). You see bathroom cabinet (1), bathroom counter (1), face cream (4), faucet (2), sink (2), toilet (1), toilet paper (1), water glass (2)
+Think: I cannot find juice in bathroom 1. The juice is more likely to appear in kitchen 1.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bookshelf (1), chair (2, 3, 4, 5), dishwasher (1), faucet (1), fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (1), kitchen table (1), microwave oven (1), sink (1), sofa (2), stove (1), toaster (1), tv (2).
+Think: I move to kitchen 1. The juice is more likely to appear on kitchen table (1), kitchen counter (1). I can check each place one by one, starting from kitchen table 1, until I find the juice.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (1), condiment shaker (1, 2), fridge (1), kitchen cabinet (5, 6), kitchen counter (1), kitchen table (1), mug (2, 3), pie (1), wine (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see cell phone (2), cereal (1), chair (5), coffee pot (2), condiment bottle (1, 2), cutlets (1), dishwasher (1), dishwashing liquid (1), faucet (1), kitchen cabinet (1, 2, 3, 6, 7, 8), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), mug (2), pancake (2), sink (1), toaster (1), washing sponge (1)
+Think: I cannot find juice in kitchen 1. The juice is more likely to appear in living room 1.
+OK.
+Act: go to living room 1
+You move to the living room (1). Looking quickly around the room, you see chair (1), closet (1), computer (1), desk (1), nightstand (1), sofa (1), tv (1).
+Think: I move to living room 1. The juice is more likely to appear on nightstand (1), sofa (1). I can check each place one by one, starting from nightstand 1, until I find the juice.
+OK.
+Act: go to nightstand 1
+You arrive at the nightstand (1). The nightstand (1) is closed. You see chair (1), closet (1), desk (1), nightstand (1), water glass (1)
+Act: open nightstand 1
+You open nightstand. You see chair (1), closet (1), desk (1), nightstand (1), water glass (1)
+Act: go to sofa 1
+You arrive at the sofa (1). You see book (1, 2), cell phone (1), remote control (1), sofa (1), tv (1)
+Think: I cannot find juice in living room 1. The juice is more likely to appear in bedroom 1.
+OK.
+Act: go to bedroom 1
+You move to the bedroom (1). Looking quickly around the room, you see bed (1), cabinet (1), chair (6), closet (2), nightstand (2), sofa (3).
+Think: I move to bedroom 1. The juice is more likely to appear on nightstand (2), sofa (3). I can check each place one by one, starting from nightstand 2, until I find the juice.
+OK.
+Act: go to nightstand 2
+You arrive at the nightstand (2). The nightstand (2) is closed. You see bed (1), light switch (3), nightstand (2)
+Act: open nightstand 2
+You open nightstand. You see bed (1), light switch (3), nightstand (2)
+Act: go to sofa 3
+You arrive at the sofa (3). You see face cream (3), sofa (3)
+Think: I cannot find juice in bedroom 1. The juice is more likely to appear in bathroom 1.
+OK.
+Act: go to bathroom 1
+You move to the bathroom (1). Looking quickly around the room, you see bathroom cabinet (1), bathroom counter (1), closet (3, 4), faucet (2), sink (2), toilet (1), towel rack (1, 2), washing machine (1).
+Think: I move to bathroom 1. The juice is more likely to appear on bathroom cabinet (1), bathroom counter (1). I can check each place one by one, starting from bathroom cabinet 1, until I find the juice.
+OK.
+Act: go to bathroom cabinet 1
+You arrive at the bathroom cabinet (1). The bathroom cabinet (1) is open. You see bar soap (1), bathroom cabinet (1), bathroom counter (1), face cream (4), faucet (2), sink (2), toilet paper (1), water glass (2)
+Act: go to bathroom counter 1
+You arrive at the bathroom counter (1). You see bathroom cabinet (1), bathroom counter (1), face cream (4), faucet (2), sink (2), toilet (1), toilet paper (1), water glass (2)
+Think: I cannot find juice in bathroom 1. The juice is more likely to appear in kitchen 1.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bookshelf (1), chair (2, 3, 4, 5), dishwasher (1), faucet (1), fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (1), kitchen table (1), microwave oven (1), sink (1), sofa (2), stove (1), toaster (1), tv (2).
+Think: I move to kitchen 1. The juice is more likely to appear on kitchen table (1), kitchen counter (1). I can check each place one by one, starting from kitchen table 1, until I find the juice.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (1), condiment shaker (1, 2), fridge (1), kitchen cabinet (5, 6), kitchen counter (1), kitchen table (1), mug (2, 3), pie (1), wine (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see cell phone (2), cereal (1), chair (5), coffee pot (2), condiment bottle (1, 2), cutlets (1), dishwasher (1), dishwashing liquid (1), faucet (1), kitchen cabinet (1, 2, 3, 6, 7, 8), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), mug (2), pancake (2), sink (1), toaster (1), washing sponge (1)
+Think: I cannot find juice in kitchen 1. The juice is more likely to appear in living room 1.
+OK.
+Act: go to living room 1
+You move to the living room (1). Looking quickly around the room, you see chair (1), closet (1), computer (1), desk (1), nightstand (1), sofa (1), tv (1).
+Think: I move to living room 1. The juice is more likely to appear on nightstand (1), sofa (1). I can check each place one by one, starting from nightstand 1, until I find the juice.
+OK.
+Act: go to nightstand 1
+You arrive at the nightstand (1). The nightstand (1) is closed. You see chair (1), closet (1), desk (1), nightstand (1), water glass (1)
+Act: open nightstand 1
+You open nightstand. You see chair (1), closet (1), desk (1), nightstand (1), water glass (1)
+Act: go to sofa 1
+You arrive at the sofa (1). You see book (1, 2), cell phone (1), remote control (1), sofa (1), tv (1)
+Think: I cannot find juice in living room 1. The juice is more likely to appear in bedroom 1.
+OK.
+Act: go to bedroom 1
+You move to the bedroom (1). Looking quickly around the room, you see bed (1), cabinet (1), chair (6), closet (2), nightstand (2), sofa (3).
+Think: I move to bedroom 1. The juice is more likely to appear on nightstand (2), sofa (3). I can check each place one by one, starting from nightstand 2, until I find the juice.
+OK.
+Act: go to nightstand 2
+You arrive at the nightstand (2). The nightstand (2) is closed. You see bed (1), light switch (3), nightstand (2)
+Act: open nightstand 2
+You open nightstand. You see bed (1), light switch (3), nightstand (2)
+Act: go to sofa 3
+You arrive at the sofa (3). You see face cream (3), sofa (3)
+Think: I cannot find juice in bedroom 1. The juice is more likely to appear in bathroom 1.
+OK.
+Act: go to bathroom 1
+You move to the bathroom (1). Looking quickly around the room, you see bathroom cabinet (1), bathroom counter (1), closet (3, 4), faucet (2), sink (2), toilet (1), towel rack (1, 2), washing machine (1).
+Max steps

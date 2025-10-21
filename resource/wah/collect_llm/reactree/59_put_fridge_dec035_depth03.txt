@@ -1,0 +1,9 @@
+Your primary goal is to: Please, take a 1 pound cake, 1 cupcake, and 1 pudding and put them in the fridge on an empty shelf
+To achieve this, you should perform your sibling tasks in parallel. At this level, your sibling tasks are: move the 1 pound cake in the fridge, move the 1 cupcake in the fridge, and move the 1 pudding in the fridge.
+Your task is to: move the 1 cupcake in the fridge
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a kitchen (1). Looking quickly around the room, you see bookshelf (1), chair (2, 3, 4, 5), dishwasher (1), faucet (1), fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (1), kitchen table (1), microwave oven (1), sink (1), sofa (2), stove (1), toaster (1), tv (2). You hold washing sponge (1).
+Think: To solve the task, I need to accomplish 2 subgoals sequentially. Find and pick up the 1 cupcake, and find the fridge and put down the 1 cupcake.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up the 1 cupcake, find the fridge and put down the 1 cupcake

@@ -1,0 +1,9 @@
+Your primary goal is to: open the door and put the apple into there
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and open the door, and find the apple and put it into there.
+Your task is to: find and open the door
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (2), faucet (2), fridge (1), kitchen counter (1), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1), tv (1).
+Think: To solve the task, I need to find and open the door in one of the rooms. The door is more likely to appear in kitchen 1, living room 1, or bedroom 1. I can check each room one by one until I find and open the door.
+OK.
+Expand:
+- control flow: fallback
+- subgoals: find and open the door in kitchen 1, find and open the door in living room 1, find and open the door in bedroom 1

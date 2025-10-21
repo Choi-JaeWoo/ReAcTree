@@ -1,0 +1,9 @@
+Your primary goal is to: move the coffee pot on the kitchen table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up the coffee pot, and find the kitchen table and put down the coffee pot.
+Your task is to: find and pick up the coffee pot
+You are in the house, and there are 5 rooms: bathroom (1), bedroom (1, 2), kitchen (1), living room (1). You are in the middle of a bathroom (1). Looking quickly around the room, you see bathroom cabinet (1), bathroom counter (1), faucet (2), sink (2), toilet (1), towel rack (1, 2, 3), washing machine (1).
+Think: To solve the task, I need to find and pick up the coffee pot in one of the rooms. The coffee pot is more likely to appear in kitchen 1, living room 1, or bedroom 1. I can check each room one by one until I find and pick up the coffee pot.
+OK.
+Expand:
+- control flow: fallback
+- subgoals: find and pick up the coffee pot in kitchen 1, find and pick up the coffee pot in living room 1, find and pick up the coffee pot in bedroom 1

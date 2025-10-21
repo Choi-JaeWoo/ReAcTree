@@ -1,0 +1,70 @@
+Your task is to: get an apple
+open the fridge door
+put the apple in the fridge
+get a pudding
+put the pudding in the fridge
+close the fridge door
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a bedroom (1). Looking quickly around the room, you see bed (1), bookshelf (1), chair (1, 2), closet (1, 2), coffee table (1), computer (1), desk (1), garbage can (1), nightstand (1, 2).
+Think: To solve the task, I need to get an apple, then open the fridge door, then put the apple in the fridge. And I need to get a pudding, then put the pudding in the fridge. And I need to close the fridge door.
+OK.
+Think: First, I need to get an apple. The apple is more likely to appear in kitchen 1.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (2), faucet (2), fridge (1), kitchen cabinet (1, 2, 3, 4), kitchen counter (1), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1), tv (1).
+Think: I move to kitchen 1. Now, I need to get an apple. The apple is more likely to appear on kitchen table (1), or in fridge (1), kitchen cabinet (1, 2, 3, 4). I can check each place one by one, starting from kitchen table 1, until I find an apple.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bench (1, 2), cereal (1), chips (1, 2), crackers (1), creamy buns (1), cupcake (2), cutlery fork (2, 3, 4), cutlery knife (2, 4), kitchen table (1), pie (1), plate (5, 7), water glass (3, 5), whipped cream (1)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is closed. You see bell pepper (1, 2, 5, 6), bowl (3), clock (1), fridge (1), kitchen cabinet (4), kitchen counter (1), light switch (3), microwave oven (1), salmon (1)
+Act: open fridge 1
+You open fridge. You see bell pepper (1, 2, 5, 6), bowl (3), clock (1), fridge (1), kitchen cabinet (4), kitchen counter (1), light switch (3), microwave oven (1), salmon (1)
+Act: go to kitchen cabinet 1
+You arrive at the kitchen cabinet (1). The kitchen cabinet (1) is closed. You see candy bar (1), chips (1, 2), chocolate syrup (1), coffee pot (1), dishwashing liquid (1), faucet (2), frying pan (1), kitchen cabinet (1, 2), kitchen counter (1), sink (2), stove (1), toaster (1)
+Act: open kitchen cabinet 1
+You open kitchen cabinet. You see candy bar (1), chips (1, 2), chocolate syrup (1), coffee pot (1), dishwashing liquid (1), faucet (2), frying pan (1), kitchen cabinet (1, 2), kitchen counter (1), sink (2), stove (1), toaster (1)
+Act: go to kitchen cabinet 2
+You arrive at the kitchen cabinet (2). The kitchen cabinet (2) is closed. You see bell pepper (1, 2, 3, 4, 5, 6), bowl (3), chocolate syrup (1), coffee pot (1), dishwashing liquid (1), faucet (2), frying pan (1), kitchen cabinet (1, 2, 3), kitchen counter (1), sink (2), stove (1), toaster (1), washing sponge (1)
+Act: open kitchen cabinet 2
+You open kitchen cabinet. You see apple (1), bell pepper (1, 2, 3, 4, 5, 6), bowl (3), chocolate syrup (1), coffee pot (1), cupcake (1), dishwashing liquid (1), faucet (2), frying pan (1), kitchen cabinet (1, 2, 3), kitchen counter (1), sink (2), stove (1), toaster (1), washing sponge (1)
+Think: I find apple 1. Now, I need to pick it up.
+OK.
+Act: pick up apple 1
+You pick up apple. You hold apple (1).
+Think: I hold apple 1. Now, I need to open the fridge door.
+OK.
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see apple (1), bell pepper (1, 2, 5, 6), bowl (3), clock (1), fridge (1), kitchen cabinet (4), kitchen counter (1), light switch (3), microwave oven (1), salmon (1) You hold apple (1).
+Act: open fridge 1
+The fridge is already open. You see apple (1), bell pepper (1, 2, 5, 6), bowl (3), clock (1), fridge (1), kitchen cabinet (4), kitchen counter (1), light switch (3), microwave oven (1), salmon (1) You hold apple (1).
+Think: Fridge 1 is open. Now, I need to put down apple 1.
+OK.
+Act: put down apple 1
+You put down apple in fridge
+Think: I put down apple 1 in fridge 1. Now, I need to get a pudding.
+OK.
+Act: go to kitchen cabinet 2
+You arrive at the kitchen cabinet (2). The kitchen cabinet (2) is open. You see bell pepper (1, 2, 3, 4, 5, 6), bowl (3), chocolate syrup (1), coffee pot (1), cupcake (1), dishwashing liquid (1), faucet (2), frying pan (1), kitchen cabinet (1, 2, 3), kitchen counter (1), sink (2), stove (1), toaster (1), washing sponge (1)
+Act: go to kitchen cabinet 3
+You arrive at the kitchen cabinet (3). The kitchen cabinet (3) is closed. You see bell pepper (1, 2, 3, 4, 5, 6), bowl (3), coffee pot (1), cupcake (1), dishwashing liquid (1), faucet (2), kitchen cabinet (1, 2, 3, 4), kitchen counter (1), microwave oven (1), salmon (1), sink (2), toaster (1), washing sponge (1)
+Act: open kitchen cabinet 3
+You open kitchen cabinet. You see bell pepper (1, 2, 3, 4, 5, 6), bowl (3), coffee pot (1), cupcake (1), dishwashing liquid (1), faucet (2), juice (1), kitchen cabinet (1, 2, 3, 4), kitchen counter (1), microwave oven (1), pancake (1), pudding (1), salmon (1), sink (2), toaster (1), washing sponge (1)
+Think: I find pudding 1. Now, I need to pick it up.
+OK.
+Act: pick up pudding 1
+You pick up pudding. You hold pudding (1).
+Think: I hold pudding 1. Now, I need to put it in the fridge.
+OK.
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see apple (1), bell pepper (1, 2, 5, 6), bowl (3), clock (1), fridge (1), kitchen cabinet (4), kitchen counter (1), light switch (3), microwave oven (1), pudding (1), salmon (1) You hold pudding (1).
+Think: Fridge 1 is open. Now, I need to put down pudding 1.
+OK.
+Act: put down pudding 1
+You put down pudding in fridge
+Think: I put down pudding 1 in fridge 1. Now, I need to close the fridge door.
+OK.
+Act: close fridge 1
+You close fridge.
+Think: Now I accomplish the goal.
+OK.
+Act: done

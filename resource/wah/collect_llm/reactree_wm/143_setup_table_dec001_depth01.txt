@@ -1,0 +1,7 @@
+Your task is to: take one fork, one wine glass, one water glass, and one plate, and place them on the table
+You are in the house, and there are 5 rooms: bathroom (1), bedroom (1, 2), kitchen (1), living room (1). You are in the middle of a bedroom (2). Looking quickly around the room, you see bed (2), bookshelf (6), cabinet (1), chair (3), closet (1), computer (1), desk (2), garbage can (1), nightstand (2).
+Think: To solve the task, I need to accomplish 4 subgoals independently. Move the cutlery fork on the table, move the wine glass on the table, move the water glass on the table, and move the plate on the table.
+OK.
+Expand:
+- control flow: parallel
+- subgoals: move the cutlery fork on the table, move the wine glass on the table, move the water glass on the table, and move the plate on the table

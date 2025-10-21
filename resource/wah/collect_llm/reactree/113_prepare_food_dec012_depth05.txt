@@ -1,0 +1,19 @@
+Your primary goal is to: move the wine on the kitchen table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up the wine, and find the kitchen table and put down the wine.
+Your task is to: find the kitchen table and put down the wine
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (2), faucet (2), fridge (1), kitchen counter (1), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1), tv (1). You hold wine (1).
+Think: I hold wine 1. Now, I need to find the kitchen table. The kitchen table is more likely to appear in kitchen 1.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (2), faucet (2), fridge (1), kitchen counter (1), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1), tv (1). You hold wine (1).
+Think: I can see kitchen table 1.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bench (1, 2), chips (1), condiment shaker (1), cupcake (1, 2), kitchen table (1), light switch (3), mug (2), salad (1), wine (1) You hold wine (1).
+Think: Now, I need to put down wine 1.
+OK.
+Act: put down wine 1
+You put down wine on kitchen table
+Think: Now I accomplish the goal.
+OK.
+Act: done

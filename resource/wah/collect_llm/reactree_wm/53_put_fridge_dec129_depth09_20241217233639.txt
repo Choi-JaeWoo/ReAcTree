@@ -1,0 +1,5 @@
+Your primary goal is to: find and pick up the juice drink
+To achieve this, you should perform your sibling tasks using a fallback strategy. At this level, your sibling tasks are: find and pick up the juice drink in kitchen 1, find and pick up the juice drink in living room 1, and find and pick up the juice drink in bedroom 1.
+Your task is to: find and pick up the juice drink in bedroom 1
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (2), faucet (2), fridge (1), kitchen counter (1), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1), tv (1).
+Max steps

@@ -1,0 +1,9 @@
+Your primary goal is to: Hello "robot name". Please give me: one cutlery fork, one wine glass and one plate. Put them all on the kitchen table.
+To achieve this, you should perform your sibling tasks in parallel. At this level, your sibling tasks are: move the cutlery fork on the kitchen table, move the wine glass on the kitchen table, and move the plate on the kitchen table.
+Your task is to: move the cutlery fork on the kitchen table
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a bedroom (1). Looking quickly around the room, you see bed (1), cabinet (1), chair (6), closet (2), nightstand (2), sofa (3).
+Think: To solve the task, I need to accomplish 2 subgoals sequentially. Find and pick up the cutlery fork, and find the kitchen table and put down the cutlery fork.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up the cutlery fork, find the kitchen table and put down the cutlery fork

@@ -1,0 +1,193 @@
+Your primary goal is to: find and pick up the pancake
+To achieve this, you should perform your sibling tasks using a fallback strategy. At this level, your sibling tasks are: find and pick up the pancake in kitchen 1, find and pick up the pancake in living room 1, and find and pick up the pancake in bedroom 1.
+Your task is to: find and pick up the pancake in kitchen 1
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (2), faucet (2), fridge (1), kitchen counter (1), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1), tv (1). You hold carrot (1).
+Think: I am in kitchen 1. Now, I need to find the pancake. The pancake is more likely to appear on kitchen table (1), or in fridge (1). I can check each place one by one, starting from kitchen table 1, until I find the pancake.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bench (1, 2), carrot (1), chips (1), condiment shaker (1), cupcake (1), cutlery fork (1, 2), cutlery knife (1, 2), juice (1), kitchen table (1), light switch (3), mug (2), plate (2, 3), salad (1), water glass (2, 3) You hold carrot (1).
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see bench (2), carrot (1), coffee pot (2), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), stove (1) You hold carrot (1).
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), coffee pot (2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), sink (2), toaster (1), washing sponge (1) You hold carrot (1).
+Act: go to microwave oven 1
+You arrive at the microwave oven (1). The microwave oven (1) is closed. You see bench (2), carrot (1), coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2) You hold carrot (1).
+Act: open microwave oven 1
+You open microwave oven. You see bench (2), carrot (1), coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), plate (4), sink (2) You hold carrot (1).
+Act: go to plate 4
+You arrive at the plate (4). You see carrot (1), coffee pot (2), cutting board (2), faucet (2), fridge (1), kitchen counter (1), microwave oven (1), milk (1, 2), plate (4), sink (2), toaster (1), washing sponge (1) You hold carrot (1).
+Act: go to milk 1
+You arrive at the milk (1). The milk (1) is closed. You see bucket (1), carrot (1), coffee pot (2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), plate (4), sink (2), toaster (1), washing sponge (1) You hold carrot (1).
+Act: open milk 1
+You open milk. You see bucket (1), carrot (1), coffee pot (2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), plate (4), sink (2), toaster (1), washing sponge (1) You hold carrot (1).
+Act: go to milk 2
+You arrive at the milk (2). The milk (2) is closed. You see bucket (1), carrot (1), coffee pot (2), faucet (2), kitchen counter (1), milk (1, 2), sink (2), toaster (1), washing sponge (1) You hold carrot (1).
+Act: open milk 2
+You open milk. You see bucket (1), carrot (1), coffee pot (2), faucet (2), kitchen counter (1), milk (1, 2), sink (2), toaster (1), washing sponge (1) You hold carrot (1).
+Act: go to toaster 1
+You arrive at the toaster (1). You see bucket (1), carrot (1), coffee pot (2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), plate (4), sink (2), toaster (1), washing sponge (1) You hold carrot (1).
+Act: go to washing sponge 1
+You arrive at the washing sponge (1). You see bucket (1), carrot (1), coffee pot (2), faucet (2), kitchen counter (1), milk (1, 2), sink (2), toaster (1), washing sponge (1) You hold carrot (1).
+Act: go to sink 2
+You arrive at the sink (2). You see bucket (1), carrot (1), coffee pot (2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), plate (4), sink (2), toaster (1), washing sponge (1) You hold carrot (1).
+Act: go to faucet 2
+You arrive at the faucet (2). You see bucket (1), carrot (1), coffee pot (2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), plate (4), sink (2), toaster (1), washing sponge (1) You hold carrot (1).
+Act: go to cutting board 2
+You arrive at the cutting board (2). You see carrot (1), coffee pot (2), cutting board (2), faucet (2), fridge (1), kitchen counter (1), microwave oven (1), milk (1, 2), plate (4), sink (2), toaster (1), washing sponge (1) You hold carrot (1).
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is closed. You see carrot (1), coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), plate (4), sink (2), stove (1) You hold carrot (1).
+Act: open coffee pot 2
+You open coffee pot. You see carrot (1), coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), plate (4), sink (2), stove (1) You hold carrot (1).
+Act: go to frying pan 1
+You arrive at the frying pan (1). You see bench (2), carrot (1), clock (1), coffee pot (2), cutlery fork (2), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), plate (4), stove (1) You hold carrot (1).
+Act: go to stove 1
+You arrive at the stove (1). The stove (1) is closed. You see bench (2), carrot (1), coffee pot (2), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), plate (4), stove (1) You hold carrot (1).
+Act: open stove 1
+You open stove. You see bench (2), carrot (1), coffee pot (2), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), oven tray (1), plate (4), stove (1) You hold carrot (1).
+Act: go to oven tray 1
+You arrive at the oven tray (1). You see bench (2), carrot (1), clock (1), cutlery fork (2), cutlery knife (2), frying pan (1), kitchen table (1), oven tray (1), plate (3), stove (1), water glass (3) You hold carrot (1).
+Act: go to plate 3
+You arrive at the plate (3). You see bench (2), carrot (1), chips (1), condiment shaker (1), cutlery fork (2), cutlery knife (2), kitchen table (1), plate (3), salad (1), water glass (2, 3) You hold carrot (1).
+Act: go to water glass 3
+You arrive at the water glass (3). You see bench (1, 2), carrot (1), chips (1), clock (1), condiment shaker (1), cupcake (1), cutlery fork (1, 2), cutlery knife (1, 2), juice (1), kitchen table (1), mug (2), plate (2, 3), salad (1), water glass (2, 3) You hold carrot (1).
+Act: go to water glass 2
+You arrive at the water glass (2). You see bench (1), carrot (1), chips (1), condiment shaker (1), cupcake (1), cutlery fork (1, 2), cutlery knife (1, 2), juice (1), kitchen table (1), mug (2), plate (2, 3), salad (1), water glass (2, 3) You hold carrot (1).
+Act: go to plate 2
+You arrive at the plate (2). You see bench (1, 2), carrot (1), chips (1), condiment shaker (1), cupcake (1), cutlery fork (1, 2), cutlery knife (1, 2), juice (1), kitchen table (1), light switch (3), mug (2), plate (2, 3), salad (1), water glass (2, 3) You hold carrot (1).
+Act: go to mug 2
+You arrive at the mug (2). You see bench (1, 2), carrot (1), chips (1), condiment shaker (1), cupcake (1), cutlery fork (1, 2), cutlery knife (1, 2), juice (1), kitchen table (1), light switch (3), mug (2), plate (2, 3), salad (1), water glass (2, 3) You hold carrot (1).
+Act: go to light switch 3
+You arrive at the light switch (3). You see bench (2), bucket (1), carrot (1), condiment shaker (1), cutlery knife (2), kitchen table (1), light switch (3), mug (2) You hold carrot (1).
+Act: go to bucket 1
+You arrive at the bucket (1). You see bucket (1), carrot (1), coffee pot (2), faucet (2), kitchen counter (1), milk (1, 2), sink (2), toaster (1), washing sponge (1) You hold carrot (1).
+Act: go to juice 1
+You arrive at the juice (1). You see bench (1), carrot (1), chips (1), condiment shaker (1), cupcake (1), cutlery fork (1, 2), cutlery knife (1, 2), juice (1), kitchen table (1), mug (2), plate (2, 3), salad (1), water glass (2, 3) You hold carrot (1).
+Act: go to salad 1
+You arrive at the salad (1). You see bench (1, 2), carrot (1), chips (1), condiment shaker (1), cupcake (1), cutlery fork (1, 2), cutlery knife (1, 2), juice (1), kitchen table (1), light switch (3), mug (2), plate (2, 3), salad (1), water glass (2, 3) You hold carrot (1).
+Act: go to chips 1
+You arrive at the chips (1). You see bench (1, 2), carrot (1), chips (1), clock (1), condiment shaker (1), cupcake (1), cutlery fork (1, 2), cutlery knife (1, 2), juice (1), kitchen table (1), mug (2), plate (2, 3), salad (1), water glass (2, 3) You hold carrot (1).
+Act: go to condiment shaker 1
+You arrive at the condiment shaker (1). You see bench (1, 2), carrot (1), chips (1), condiment shaker (1), cupcake (1), cutlery fork (1, 2), cutlery knife (1, 2), juice (1), kitchen table (1), light switch (3), mug (2), plate (2, 3), salad (1), water glass (2, 3) You hold carrot (1).
+Act: go to cupcake 1
+You arrive at the cupcake (1). You see bench (1), carrot (1), chips (1), condiment shaker (1), cupcake (1), cutlery fork (1), cutlery knife (1), juice (1), kitchen table (1), mug (2), plate (2), salad (1), water glass (2, 3) You hold carrot (1).
+Act: go to cutlery fork 1
+You arrive at the cutlery fork (1). You see bench (1, 2), carrot (1), chips (1), condiment shaker (1), cupcake (1), cutlery fork (1, 2), cutlery knife (1, 2), juice (1), kitchen table (1), light switch (3), mug (2), plate (2, 3), salad (1), water glass (2, 3) You hold carrot (1).
+Act: go to cutlery knife 1
+You arrive at the cutlery knife (1). You see bench (1), carrot (1), chips (1), condiment shaker (1), cupcake (1), cutlery fork (1, 2), cutlery knife (1), juice (1), kitchen table (1), mug (2), plate (2, 3), salad (1), water glass (2, 3) You hold carrot (1).
+Act: go to clock 1
+You arrive at the clock (1). You see carrot (1), clock (1), frying pan (1), oven tray (1), stove (1) You hold carrot (1).
+Act: go to cutlery fork 2
+You arrive at the cutlery fork (2). You see bench (2), carrot (1), chips (1), condiment shaker (1), cutlery fork (2), cutlery knife (2), frying pan (1), kitchen table (1), oven tray (1), plate (3), salad (1), stove (1), water glass (2, 3) You hold carrot (1).
+Act: go to cutlery knife 2
+You arrive at the cutlery knife (2). You see bench (1, 2), carrot (1), chips (1), condiment shaker (1), cupcake (1), cutlery fork (1, 2), cutlery knife (1, 2), juice (1), kitchen table (1), light switch (3), mug (2), plate (2, 3), salad (1), water glass (2, 3) You hold carrot (1).
+Act: go to frying pan 1
+You arrive at the frying pan (1). You see carrot (1), cutting board (2), fridge (1), frying pan (1), microwave oven (1), oven tray (1), stove (1) You hold carrot (1).
+Act: go to oven tray 1
+You arrive at the oven tray (1). You see bench (2), carrot (1), clock (1), cutlery fork (2), cutlery knife (2), frying pan (1), kitchen table (1), oven tray (1), plate (3), stove (1), water glass (3) You hold carrot (1).
+Act: go to stove 1
+You arrive at the stove (1). The stove (1) is open. You see bench (2), carrot (1), coffee pot (2), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), oven tray (1), plate (4), stove (1) You hold carrot (1).
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see bench (2), carrot (1), coffee pot (2), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), oven tray (1), plate (4), stove (1) You hold carrot (1).
+Act: go to microwave oven 1
+You arrive at the microwave oven (1). The microwave oven (1) is open. You see bench (2), carrot (1), coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), plate (4), sink (2) You hold carrot (1).
+Act: go to faucet 2
+You arrive at the faucet (2). You see bucket (1), carrot (1), coffee pot (2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), plate (4), sink (2), toaster (1), washing sponge (1) You hold carrot (1).
+Act: go to cutting board 2
+You arrive at the cutting board (2). You see carrot (1), coffee pot (2), cutting board (2), faucet (2), fridge (1), kitchen counter (1), microwave oven (1), milk (1, 2), plate (4), sink (2), toaster (1), washing sponge (1) You hold carrot (1).
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see carrot (1), coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), oven tray (1), plate (4), sink (2), stove (1) You hold carrot (1).
+Act: go to frying pan 1
+You arrive at the frying pan (1). You see carrot (1), cutting board (2), fridge (1), frying pan (1), microwave oven (1), oven tray (1), stove (1) You hold carrot (1).
+Act: go to oven tray 1
+You arrive at the oven tray (1). You see bench (2), carrot (1), clock (1), cutlery fork (2), cutlery knife (2), frying pan (1), kitchen table (1), oven tray (1), plate (3), stove (1), water glass (3) You hold carrot (1).
+Act: go to plate 4
+You arrive at the plate (4). You see carrot (1), coffee pot (2), cutting board (2), faucet (2), fridge (1), kitchen counter (1), microwave oven (1), milk (1, 2), plate (4), sink (2), toaster (1), washing sponge (1) You hold carrot (1).
+Act: go to milk 1
+You arrive at the milk (1). The milk (1) is closed. You see bucket (1), carrot (1), coffee pot (2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), plate (4), sink (2), toaster (1), washing sponge (1) You hold carrot (1).
+Act: open milk 1
+You open milk. You see bucket (1), carrot (1), coffee pot (2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), plate (4), sink (2), toaster (1), washing sponge (1) You hold carrot (1).
+Act: go to milk 2
+You arrive at the milk (2). The milk (2) is closed. You see bucket (1), carrot (1), coffee pot (2), faucet (2), kitchen counter (1), milk (1, 2), sink (2), toaster (1), washing sponge (1) You hold carrot (1).
+Act: open milk 2
+You open milk. You see bucket (1), carrot (1), coffee pot (2), faucet (2), kitchen counter (1), milk (1, 2), sink (2), toaster (1), washing sponge (1) You hold carrot (1).
+Act: go to toaster 1
+You arrive at the toaster (1). You see bucket (1), carrot (1), coffee pot (2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), plate (4), sink (2), toaster (1), washing sponge (1) You hold carrot (1).
+Act: go to washing sponge 1
+You arrive at the washing sponge (1). You see bucket (1), carrot (1), coffee pot (2), faucet (2), kitchen counter (1), milk (1, 2), sink (2), toaster (1), washing sponge (1) You hold carrot (1).
+Act: go to sink 2
+You arrive at the sink (2). You see bucket (1), carrot (1), coffee pot (2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), plate (4), sink (2), toaster (1), washing sponge (1) You hold carrot (1).
+Act: go to bucket 1
+You arrive at the bucket (1). You see bucket (1), carrot (1), coffee pot (2), faucet (2), kitchen counter (1), milk (1, 2), sink (2), toaster (1), washing sponge (1) You hold carrot (1).
+Act: go to bench 1
+You arrive at the bench (1). You see bench (1), carrot (1), chips (1), condiment shaker (1), cupcake (1), cutlery fork (1), cutlery knife (1), juice (1), kitchen table (1), mug (2), plate (2), salad (1), water glass (2, 3) You hold carrot (1).
+Act: go to bench 2
+You arrive at the bench (2). You see bench (2), carrot (1), chips (1), condiment shaker (1), cutlery fork (2), cutlery knife (2), kitchen table (1), mug (2), plate (3), salad (1), water glass (2, 3) You hold carrot (1).
+Act: go to bookshelf 2
+You arrive at the bookshelf (2). The bookshelf (2) is closed. You see bookshelf (2), carrot (1), folder (1, 2, 3) You hold carrot (1).
+Act: open bookshelf 2
+You open bookshelf. You see bookshelf (2), carrot (1), folder (1, 2, 3) You hold carrot (1).
+Act: go to folder 1
+You arrive at the folder (1). The folder (1) is closed. You see bookshelf (2), carrot (1), folder (1, 2, 3) You hold carrot (1).
+Act: open folder 1
+You open folder. You see bookshelf (2), carrot (1), folder (1, 2, 3) You hold carrot (1).
+Act: go to folder 2
+You arrive at the folder (2). The folder (2) is closed. You see bookshelf (2), carrot (1), folder (1, 2, 3) You hold carrot (1).
+Act: open folder 2
+You open folder. You see bookshelf (2), carrot (1), folder (1, 2, 3) You hold carrot (1).
+Act: go to folder 3
+You arrive at the folder (3). The folder (3) is closed. You see bookshelf (2), carrot (1), folder (1, 2, 3) You hold carrot (1).
+Act: open folder 3
+You open folder. You see bookshelf (2), carrot (1), folder (1, 2, 3) You hold carrot (1).
+Act: go to tv 1
+You arrive at the tv (1). You see carrot (1), cell phone (1), tv (1) You hold carrot (1).
+Act: go to cell phone 1
+You arrive at the cell phone (1). You see bookshelf (2), carrot (1), cell phone (1), tv (1) You hold carrot (1).
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bench (1, 2), carrot (1), chips (1), condiment shaker (1), cupcake (1), cutlery fork (1, 2), cutlery knife (1, 2), juice (1), kitchen table (1), light switch (3), mug (2), plate (2, 3), salad (1), water glass (2, 3) You hold carrot (1).
+Act: go to light switch 3
+You arrive at the light switch (3). You see bench (2), bucket (1), carrot (1), condiment shaker (1), cutlery knife (2), kitchen table (1), light switch (3), mug (2) You hold carrot (1).
+Act: go to bucket 1
+You arrive at the bucket (1). You see bucket (1), carrot (1), coffee pot (2), faucet (2), kitchen counter (1), milk (1, 2), sink (2), toaster (1), washing sponge (1) You hold carrot (1).
+Act: go to juice 1
+You arrive at the juice (1). You see bench (1), carrot (1), chips (1), condiment shaker (1), cupcake (1), cutlery fork (1, 2), cutlery knife (1, 2), juice (1), kitchen table (1), mug (2), plate (2, 3), salad (1), water glass (2, 3) You hold carrot (1).
+Act: go to salad 1
+You arrive at the salad (1). You see bench (1, 2), carrot (1), chips (1), condiment shaker (1), cupcake (1), cutlery fork (1, 2), cutlery knife (1, 2), juice (1), kitchen table (1), light switch (3), mug (2), plate (2, 3), salad (1), water glass (2, 3) You hold carrot (1).
+Act: go to chips 1
+You arrive at the chips (1). You see bench (1, 2), carrot (1), chips (1), clock (1), condiment shaker (1), cupcake (1), cutlery fork (1, 2), cutlery knife (1, 2), juice (1), kitchen table (1), mug (2), plate (2, 3), salad (1), water glass (2, 3) You hold carrot (1).
+Act: go to condiment shaker 1
+You arrive at the condiment shaker (1). You see bench (1, 2), carrot (1), chips (1), condiment shaker (1), cupcake (1), cutlery fork (1, 2), cutlery knife (1, 2), juice (1), kitchen table (1), light switch (3), mug (2), plate (2, 3), salad (1), water glass (2, 3) You hold carrot (1).
+Act: go to cupcake 1
+You arrive at the cupcake (1). You see bench (1), carrot (1), chips (1), condiment shaker (1), cupcake (1), cutlery fork (1), cutlery knife (1), juice (1), kitchen table (1), mug (2), plate (2), salad (1), water glass (2, 3) You hold carrot (1).
+Act: go to cutlery fork 1
+You arrive at the cutlery fork (1). You see bench (1, 2), carrot (1), chips (1), condiment shaker (1), cupcake (1), cutlery fork (1, 2), cutlery knife (1, 2), juice (1), kitchen table (1), light switch (3), mug (2), plate (2, 3), salad (1), water glass (2, 3) You hold carrot (1).
+Act: go to cutlery knife 1
+You arrive at the cutlery knife (1). You see bench (1), carrot (1), chips (1), condiment shaker (1), cupcake (1), cutlery fork (1, 2), cutlery knife (1), juice (1), kitchen table (1), mug (2), plate (2, 3), salad (1), water glass (2, 3) You hold carrot (1).
+Act: go to clock 1
+You arrive at the clock (1). You see carrot (1), clock (1), frying pan (1), oven tray (1), stove (1) You hold carrot (1).
+Act: go to cutlery fork 2
+You arrive at the cutlery fork (2). You see bench (2), carrot (1), chips (1), condiment shaker (1), cutlery fork (2), cutlery knife (2), frying pan (1), kitchen table (1), oven tray (1), plate (3), salad (1), stove (1), water glass (2, 3) You hold carrot (1).
+Act: go to cutlery knife 2
+You arrive at the cutlery knife (2). You see bench (1, 2), carrot (1), chips (1), condiment shaker (1), cupcake (1), cutlery fork (1, 2), cutlery knife (1, 2), juice (1), kitchen table (1), light switch (3), mug (2), plate (2, 3), salad (1), water glass (2, 3) You hold carrot (1).
+Act: go to frying pan 1
+You arrive at the frying pan (1). You see carrot (1), cutting board (2), fridge (1), frying pan (1), microwave oven (1), oven tray (1), stove (1) You hold carrot (1).
+Act: go to oven tray 1
+You arrive at the oven tray (1). You see bench (2), carrot (1), clock (1), cutlery fork (2), cutlery knife (2), frying pan (1), kitchen table (1), oven tray (1), plate (3), stove (1), water glass (3) You hold carrot (1).
+Act: go to stove 1
+You arrive at the stove (1). The stove (1) is open. You see bench (2), carrot (1), coffee pot (2), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), oven tray (1), plate (4), stove (1) You hold carrot (1).
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see bench (2), carrot (1), coffee pot (2), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), oven tray (1), plate (4), stove (1) You hold carrot (1).
+Act: go to microwave oven 1
+You arrive at the microwave oven (1). The microwave oven (1) is open. You see bench (2), carrot (1), coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), plate (4), sink (2) You hold carrot (1).
+Act: go to faucet 2
+You arrive at the faucet (2). You see bucket (1), carrot (1), coffee pot (2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), plate (4), sink (2), toaster (1), washing sponge (1) You hold carrot (1).
+Act: go to cutting board 2
+You arrive at the cutting board (2). You see carrot (1), coffee pot (2), cutting board (2), faucet (2), fridge (1), kitchen counter (1), microwave oven (1), milk (1, 2), plate (4), sink (2), toaster (1), washing sponge (1) You hold carrot (1).
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see carrot (1), coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), oven tray (1), plate (4), sink (2), stove (1) You hold carrot (1).
+Act: go to frying pan 1
+You arrive at the frying pan (1). You see carrot (1), cutting board (2), fridge (1), frying pan (1), microwave oven (1), oven tray (1), stove (1) You hold carrot (1).
+Act: go to oven tray 1
+You arrive at the oven tray (1). You see bench (2), carrot (1), clock (1), cutlery fork (2), cutlery knife (2), frying pan (1), kitchen table (1), oven tray (1), plate (3), stove (1), water glass (3) You hold carrot (1).
+Act: go to plate 4
+You arrive at the plate (4). You see carrot (1), coffee pot (2), cutting board (2), faucet (2), fridge (1), kitchen counter (1), microwave oven (1), milk (1, 2), plate (4), sink (2), toaster (1), washing sponge (1) You hold carrot (1).
+Max steps

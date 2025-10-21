@@ -1,0 +1,9 @@
+Your primary goal is to: move the cutlery fork on the kitchen table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up the cutlery fork, and find the kitchen table and put down the cutlery fork.
+Your task is to: find and pick up the cutlery fork
+You are in the house, and there are 5 rooms: bathroom (1), bedroom (1, 2), kitchen (1), living room (1). You are in the middle of a bedroom (2). Looking quickly around the room, you see bed (2), bookshelf (6), cabinet (1), chair (3), closet (1), computer (1), desk (2), garbage can (1), nightstand (2).
+Think: To solve the task, I need to find and pick up the cutlery fork in one of the rooms. The cutlery fork is more likely to appear in kitchen 1, living room 1, or bedroom 1. I can check each room one by one until I find and pick up the cutlery fork.
+OK.
+Expand:
+- control flow: fallback
+- subgoals: find and pick up the cutlery fork in kitchen 1, find and pick up the cutlery fork in living room 1, find and pick up the cutlery fork in bedroom 1

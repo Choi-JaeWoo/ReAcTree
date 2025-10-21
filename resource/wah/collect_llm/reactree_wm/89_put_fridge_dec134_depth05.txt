@@ -1,0 +1,15 @@
+Your primary goal is to: and get the juice
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up the juice, and find the fridge and put down the juice.
+Your task is to: find the fridge and put down the juice
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a kitchen (1). Looking quickly around the room, you see bookshelf (1), chair (2, 3, 4, 5), dishwasher (1), faucet (1), fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (1), kitchen table (1), microwave oven (1), sink (1), sofa (2), stove (1), toaster (1), tv (2). You hold condiment bottle (1).
+Think: I hold condiment bottle 1. Now, I need to find the fridge. I can see fridge 1.
+OK.
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (1), condiment bottle (1), condiment shaker (1, 2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), plate (3, 4, 5), pound cake (1), pudding (1, 2), sofa (2), wine (1) You hold condiment bottle (1).
+Think: Fridge 1 is open. Now, I need to put down condiment bottle 1.
+OK.
+Act: put down condiment bottle 1
+You put down condiment bottle in fridge
+Think: Now I accomplish the goal.
+OK.
+Act: done

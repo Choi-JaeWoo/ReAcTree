@@ -1,0 +1,19 @@
+Your primary goal is to: move the fork in the cupboard
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up the fork, and find the cupboard and put down the fork.
+Your task is to: find the cupboard and put down the fork
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a kitchen (1). Looking quickly around the room, you see bookshelf (1), chair (2, 3, 4, 5), dishwasher (1), faucet (1), fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (1), kitchen table (1), microwave oven (1), sink (1), sofa (2), stove (1), toaster (1), tv (2). You hold plate (1).
+Think: I hold plate 1. Now, I need to find the cupboard. The cupboard is more likely to appear in kitchen 1.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bookshelf (1), chair (2, 3, 4, 5), dishwasher (1), faucet (1), fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (1), kitchen table (1), microwave oven (1), sink (1), sofa (2), stove (1), toaster (1), tv (2). You hold plate (1).
+Think: I can see kitchen cabinet 1.
+OK.
+Act: go to kitchen cabinet 1
+You arrive at the kitchen cabinet (1). The kitchen cabinet (1) is open. You see cell phone (2), cereal (1), condiment bottle (1, 2), cutlets (1), dishwasher (1), dishwashing liquid (1), faucet (1), kitchen cabinet (1, 2, 3, 6, 7, 8), kitchen counter (1), microwave oven (1), minced meat (1), plate (1), sink (1), toaster (1), washing sponge (1), water glass (1, 2) You hold plate (1).
+Think: Kitchen cabinet 1 is open. Now, I need to put down plate 1.
+OK.
+Act: put down plate 1
+You put down plate in kitchen cabinet
+Think: Now I accomplish the goal.
+OK.
+Act: done

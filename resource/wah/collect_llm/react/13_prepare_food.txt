@@ -1,0 +1,75 @@
+Your task is to: Put 1 juice, 1 pudding, and 1 apple on the kitchen table
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a bedroom (1). Looking quickly around the room, you see bed (1), bookshelf (1), chair (1, 2), closet (1), coffee table (1), nightstand (1).
+Think: To solve the task, I need to find and pick up 1 juice, then put it on the kitchen table. And I need to find and pick up 1 pudding, then put it on the kitchen table. And I need to find and pick up 1 apple, then put it on the kitchen table.
+OK.
+Think: First, I need to find 1 juice. The juice is more likely to appear in kitchen 1.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (2), faucet (2), fridge (1), kitchen counter (1), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1), tv (1).
+Think: I move to kitchen 1. Now, I need to find 1 juice. The juice is more likely to appear on kitchen table (1), or in fridge (1). I can check each place one by one, starting from kitchen table 1, until I find 1 juice.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1, 2), bench (1, 2), chips (1), coffee pot (2), condiment shaker (1), cupcake (2), kitchen table (1), light switch (3), mug (2), pound cake (1), salad (1), wine (1)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is closed. You see bench (2), cupcake (2), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), stove (1), wine (1)
+Act: open fridge 1
+You open fridge. You see bench (2), coffee pot (1), cupcake (1, 2), cutting board (2), dishwashing liquid (1), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), pudding (2), stove (1), wine (1)
+Act: go to kitchen counter 1
+You arrive at the kitchen counter (1). You see bench (2), bucket (1), carrot (1), cupcake (2), cutting board (2), faucet (2), kitchen counter (1), microwave oven (1), milk (1, 2), sink (2), toaster (1), washing sponge (1), wine (1)
+Think: I cannot find 1 juice in kitchen 1. The juice is more likely to appear in living room 1.
+OK.
+Act: go to living room 1
+You move to the living room (1). Looking quickly around the room, you see bookshelf (3), cabinet (1), chair (3), closet (2), coffee table (2), computer (1), desk (1), sofa (1), tv (2).
+Think: I move to living room 1. The juice is more likely to appear on coffee table (2), desk (1). I can check each place one by one, starting from coffee table 2, until I find 1 juice.
+OK.
+Act: go to coffee table 2
+You arrive at the coffee table (2). You see cell phone (2), coffee table (2), juice (1), sofa (1), tv (2)
+Think: I find 1 juice. Now, I need to pick it up.
+OK.
+Act: pick up juice 1
+You pick up juice. You hold juice (1).
+Think: I hold 1 juice. Now, I need to put it on the kitchen table.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (2), faucet (2), fridge (1), kitchen counter (1), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1), tv (1). You hold juice (1).
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1, 2), bench (1, 2), chips (1), coffee pot (2), condiment shaker (1), cupcake (2), juice (1), kitchen table (1), light switch (3), mug (2), pound cake (1), salad (1), wine (1) You hold juice (1).
+Think: Now, I need to put down 1 juice.
+OK.
+Act: put down juice 1
+You put down juice on kitchen table
+Think: I put down 1 juice on kitchen table 1. Now, I need to find 1 pudding. The pudding is more likely to appear in fridge 1.
+OK.
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see bench (2), coffee pot (1), cupcake (1, 2), cutting board (2), dishwashing liquid (1), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), pudding (2), stove (1), wine (1)
+Think: I find 1 pudding. Now, I need to pick it up.
+OK.
+Act: pick up pudding 2
+You pick up pudding. You hold pudding (2).
+Think: I hold 1 pudding. Now, I need to put it on the kitchen table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1, 2), bench (1, 2), chips (1), coffee pot (2), condiment shaker (1), cupcake (2), juice (1), kitchen table (1), light switch (3), mug (2), pound cake (1), pudding (2), salad (1), wine (1) You hold pudding (2).
+Think: Now, I need to put down 1 pudding.
+OK.
+Act: put down pudding 2
+You put down pudding on kitchen table
+Think: I put down 1 pudding on kitchen table 1. Now, I need to find 1 apple. The apple is more likely to appear on kitchen table (1), or in fridge (1). I can check each place one by one, starting from kitchen table 1, until I find 1 apple.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1, 2), bench (1, 2), chips (1), coffee pot (2), condiment shaker (1), cupcake (2), juice (1), kitchen table (1), light switch (3), mug (2), pound cake (1), pudding (2), salad (1), wine (1)
+Think: I find 1 apple. Now, I need to pick it up.
+OK.
+Act: pick up apple 1
+You pick up apple. You hold apple (1).
+Think: I hold 1 apple. Now, I need to put it on the kitchen table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1, 2), bench (1, 2), chips (1), coffee pot (2), condiment shaker (1), cupcake (2), juice (1), kitchen table (1), light switch (3), mug (2), pound cake (1), pudding (2), salad (1), wine (1) You hold apple (1).
+Think: Now, I need to put down 1 apple.
+OK.
+Act: put down apple 1
+You put down apple on kitchen table
+Think: Now I accomplish the goal.
+OK.
+Act: done

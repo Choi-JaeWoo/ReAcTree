@@ -1,0 +1,13 @@
+Your primary goal is to: store the cupcake in the fridge
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up the cupcake, and find the fridge and put down the cupcake.
+Your task is to: find and pick up the cupcake
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a bathroom (1). Looking quickly around the room, you see bathroom cabinet (1), bathroom counter (1), faucet (1), sink (1), toilet (1), towel rack (1, 2, 3), washing machine (1).
+Think: To solve the task, I need to recall the location of the cupcake
+OK.
+Act: recall location of cupcake
+You have not seen cupcake before.
+Think: Now, I need to find and pick up the cupcake in one of the rooms. The cupcake is more likely to appear in kitchen 1, living room 1, or bedroom 1. I can check each room one by one until I find and pick up the cupcake.
+OK.
+Expand:
+- control flow: fallback
+- subgoals: find and pick up the cupcake in kitchen 1, find and pick up the cupcake in living room 1, find and pick up the cupcake in bedroom 1

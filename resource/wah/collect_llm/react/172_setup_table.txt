@@ -1,0 +1,161 @@
+Your task is to: take a fork, a wine glass, and a water glass and place them on the table
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a kitchen (1). Looking quickly around the room, you see bookshelf (1), chair (2, 3, 4, 5), dishwasher (1), faucet (1), fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (1), kitchen table (1), microwave oven (1), sink (1), sofa (2), stove (1), toaster (1), tv (2).
+Think: To solve the task, I need to find and pick up the cutlery fork, then put it on the kitchen table. And I need to find and pick up the wine glass, then put it on the kitchen table. And I need to find and pick up the water glass, then put it on the kitchen table.
+OK.
+Think: First, I need to find the cutlery fork. The cutlery fork is more likely to appear in kitchen 1.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bookshelf (1), chair (2, 3, 4, 5), dishwasher (1), faucet (1), fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (1), kitchen table (1), microwave oven (1), sink (1), sofa (2), stove (1), toaster (1), tv (2).
+Think: I move to kitchen 1. The cutlery fork is more likely to appear on kitchen table (1), or in dishwasher (1), fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8). I can check each place one by one, starting from kitchen table 1, until I find the cutlery fork.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (1), condiment shaker (1, 2), cupcake (2, 3), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pie (1), pudding (1)
+Act: go to dishwasher 1
+You arrive at the dishwasher (1). The dishwasher (1) is closed. You see cell phone (2), cereal (1), chair (2, 5), chocolate syrup (1), coffee pot (1), cupcake (2, 3), cutlets (1), dishwasher (1), kitchen cabinet (2, 3), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), mug (2, 3)
+Act: open dishwasher 1
+You open dishwasher. You see cell phone (2), cereal (1), chair (2, 5), chocolate syrup (1), coffee pot (1), cupcake (2, 3), cutlery fork (1), cutlets (1), dishwasher (1), kitchen cabinet (2, 3), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), mug (2, 3), wine glass (3)
+Think: I find cutlery fork 1. Now, I need to pick it up.
+OK.
+Act: pick up cutlery fork 1
+You pick up cutlery fork. You hold cutlery fork (1).
+Think: I hold cutlery fork 1. Now, I need to put it on the kitchen table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (1), condiment shaker (1, 2), cupcake (2, 3), cutlery fork (1), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pie (1), pudding (1) You hold cutlery fork (1).
+Think: Now, I need to put down cutlery fork 1.
+OK.
+Act: put down cutlery fork 1
+You put down cutlery fork on kitchen table
+Think: I put down cutlery fork 1 on kitchen table 1. Now, I need to find the wine glass. The wine glass is more likely to appear in kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8). I can check each place one by one, starting from kitchen cabinet 1, until I find the wine glass.
+OK.
+Act: go to kitchen cabinet 1
+You arrive at the kitchen cabinet (1). The kitchen cabinet (1) is closed. You see cell phone (2), cereal (1), condiment bottle (1, 2), cutlets (1), dishwasher (1), dishwashing liquid (1), faucet (1), kitchen cabinet (1, 2, 6, 7, 8), kitchen counter (1), microwave oven (1), minced meat (1), sink (1), toaster (1), washing sponge (1), wine glass (3)
+Act: open kitchen cabinet 1
+You open kitchen cabinet. You see cell phone (2), cereal (1), condiment bottle (1, 2), cutlets (1), dishwasher (1), dishwashing liquid (1), faucet (1), kitchen cabinet (1, 2, 6, 7, 8), kitchen counter (1), microwave oven (1), minced meat (1), sink (1), toaster (1), washing sponge (1), wine glass (3)
+Act: go to kitchen cabinet 2
+You arrive at the kitchen cabinet (2). The kitchen cabinet (2) is closed. You see cell phone (2), cereal (1), chocolate syrup (1), condiment bottle (1, 2), cutlets (1), dishwasher (1), kitchen cabinet (1, 2, 3, 7, 8), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), sink (1), toaster (1), washing sponge (1), wine glass (3)
+Act: open kitchen cabinet 2
+You open kitchen cabinet. You see cell phone (2), cereal (1), chocolate syrup (1), condiment bottle (1, 2), cutlets (1), dishwasher (1), kitchen cabinet (1, 2, 3, 7, 8), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), sink (1), toaster (1), washing sponge (1), wine glass (3)
+Act: go to kitchen cabinet 3
+You arrive at the kitchen cabinet (3). The kitchen cabinet (3) is closed. You see cell phone (2), cereal (1), chocolate syrup (1), condiment bottle (1, 2), cupcake (3), cutlets (1), dishwasher (1), kitchen cabinet (1, 2, 3, 4), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), mug (2), wine glass (3)
+Act: open kitchen cabinet 3
+You open kitchen cabinet. You see cell phone (2), cereal (1), chair (5), chocolate syrup (1), condiment bottle (1, 2), cupcake (3), cutlets (1), dishwasher (1), kitchen cabinet (1, 2, 3, 4), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), mug (2), wine glass (3)
+Act: go to kitchen cabinet 4
+You arrive at the kitchen cabinet (4). The kitchen cabinet (4) is closed. You see cereal (1), chocolate syrup (1), cooking pot (1), cutlets (1), dishwasher (1), kitchen cabinet (2, 3, 4), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), mug (2), stove (1), wine glass (3)
+Act: open kitchen cabinet 4
+You open kitchen cabinet. You see cereal (1), chocolate syrup (1), cooking pot (1), cutlets (1), dishwasher (1), kitchen cabinet (2, 3, 4), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), mug (2), stove (1), wine glass (3)
+Act: go to kitchen cabinet 5
+You arrive at the kitchen cabinet (5). The kitchen cabinet (5) is closed. You see bananas (1, 2), bowl (2), chair (4, 5), condiment shaker (1, 2), cupcake (2, 3), cutlery fork (1), dishwashing liquid (1), faucet (1), fridge (1), kitchen cabinet (5, 6), kitchen counter (1), kitchen table (1), mug (2, 3), pudding (1), sink (1)
+Act: open kitchen cabinet 5
+You open kitchen cabinet. You see bananas (1, 2), bowl (2), chair (4, 5), condiment shaker (1, 2), cupcake (2, 3), cutlery fork (1), dishwashing liquid (1), faucet (1), fridge (1), kitchen cabinet (5, 6), kitchen counter (1), kitchen table (1), mug (2, 3), pudding (1), sink (1)
+Act: go to kitchen cabinet 6
+You arrive at the kitchen cabinet (6). The kitchen cabinet (6) is closed. You see bananas (1, 2), bowl (2), cell phone (2), chair (4, 5), condiment shaker (1, 2), cupcake (2, 3), cutlery fork (1), dishwashing liquid (1), faucet (1), fridge (1), kitchen cabinet (5, 6, 7), kitchen counter (1), kitchen table (1), mug (2, 3), pudding (1), sink (1), washing sponge (1)
+Act: open kitchen cabinet 6
+You open kitchen cabinet. You see bananas (1, 2), bowl (2), cell phone (2), chair (4, 5), condiment shaker (1, 2), cupcake (2, 3), cutlery fork (1), dishwashing liquid (1), faucet (1), fridge (1), kitchen cabinet (5, 6, 7), kitchen counter (1), kitchen table (1), mug (2, 3), pudding (1), sink (1), washing sponge (1)
+Act: go to kitchen cabinet 7
+You arrive at the kitchen cabinet (7). The kitchen cabinet (7) is closed. You see bananas (1, 2), bowl (2), cell phone (2), chair (4, 5), condiment bottle (1, 2), condiment shaker (1, 2), cupcake (2, 3), cutlets (1), dishwashing liquid (1), faucet (1), kitchen cabinet (2, 5, 6, 7, 8), kitchen counter (1), kitchen table (1), minced meat (1), mug (2, 3), pudding (1), sink (1), toaster (1), washing sponge (1)
+Act: open kitchen cabinet 7
+You open kitchen cabinet. You see bananas (1, 2), bowl (2), cell phone (2), chair (4, 5), condiment bottle (1, 2), condiment shaker (1, 2), cupcake (2, 3), cutlets (1), dishwashing liquid (1), faucet (1), kitchen cabinet (2, 5, 6, 7, 8), kitchen counter (1), kitchen table (1), minced meat (1), mug (2, 3), pudding (1), sink (1), toaster (1), washing sponge (1)
+Act: go to kitchen cabinet 8
+You arrive at the kitchen cabinet (8). The kitchen cabinet (8) is closed. You see cell phone (2), cereal (1), chair (5), condiment bottle (1, 2), cupcake (3), cutlets (1), dishwasher (1), dishwashing liquid (1), faucet (1), kitchen cabinet (1, 2, 6, 7, 8), kitchen counter (1), microwave oven (1), minced meat (1), sink (1), toaster (1), washing sponge (1), wine glass (3)
+Act: open kitchen cabinet 8
+You open kitchen cabinet. You see cell phone (2), cereal (1), chair (5), condiment bottle (1, 2), cupcake (3), cutlets (1), dishwasher (1), dishwashing liquid (1), faucet (1), kitchen cabinet (1, 2, 6, 7, 8), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), sink (1), toaster (1), washing sponge (1), wine glass (3)
+Think: I cannot find the wine glass in kitchen 1. The wine glass is more likely to appear in living room 1.
+OK.
+Act: go to living room 1
+You move to the living room (1). Looking quickly around the room, you see chair (1), closet (1), computer (1), desk (1), nightstand (1), sofa (1), tv (1).
+Think: I move to living room 1. The wine glass is more likely to appear on desk (1), nightstand (1). I can check each place one by one, starting from desk 1, until I find the wine glass.
+OK.
+Act: go to desk 1
+You arrive at the desk (1). You see chair (1), computer (1), cupcake (1), desk (1), mug (1), nightstand (1)
+Act: go to nightstand 1
+You arrive at the nightstand (1). The nightstand (1) is closed. You see chair (1), closet (1), desk (1), nightstand (1)
+Act: open nightstand 1
+You open nightstand. You see chair (1), closet (1), desk (1), nightstand (1)
+Think: I cannot find the wine glass in living room 1. The wine glass is more likely to appear in bedroom 1.
+OK.
+Act: go to bedroom 1
+You move to the bedroom (1). Looking quickly around the room, you see bed (1), cabinet (1), chair (6), closet (2), nightstand (2), sofa (3).
+Think: I move to bedroom 1. The wine glass is more likely to appear on nightstand (2). I can check each place one by one, starting from nightstand 2, until I find the wine glass.
+OK.
+Act: go to nightstand 2
+You arrive at the nightstand (2). The nightstand (2) is closed. You see bed (1), light switch (3), nightstand (2)
+Act: open nightstand 2
+You open nightstand. You see bed (1), light switch (3), nightstand (2)
+Think: I cannot find the wine glass in bedroom 1. The wine glass is more likely to appear in bathroom 1.
+OK.
+Act: go to bathroom 1
+You move to the bathroom (1). Looking quickly around the room, you see bathroom cabinet (1), bathroom counter (1), closet (3, 4), faucet (2), sink (2), toilet (1), towel rack (1, 2), washing machine (1).
+Think: I move to bathroom 1. The wine glass is more likely to appear on bathroom cabinet (1), bathroom counter (1). I can check each place one by one, starting from bathroom cabinet 1, until I find the wine glass.
+OK.
+Act: go to bathroom cabinet 1
+You arrive at the bathroom cabinet (1). The bathroom cabinet (1) is closed. You see bar soap (1), bathroom cabinet (1), bathroom counter (1), face cream (4), faucet (2), sink (2), toilet paper (1)
+Act: open bathroom cabinet 1
+You open bathroom cabinet. You see bar soap (1), bathroom cabinet (1), bathroom counter (1), face cream (4), faucet (2), sink (2), toilet paper (1)
+Act: go to bathroom counter 1
+You arrive at the bathroom counter (1). You see bathroom cabinet (1), bathroom counter (1), face cream (4), faucet (2), sink (2), toilet (1), toilet paper (1)
+Think: I cannot find the wine glass in bathroom 1. The wine glass is more likely to appear in kitchen 1.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bookshelf (1), chair (2, 3, 4, 5), dishwasher (1), faucet (1), fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (1), kitchen table (1), microwave oven (1), sink (1), sofa (2), stove (1), toaster (1), tv (2).
+Think: I move to kitchen 1. The wine glass is more likely to appear on kitchen table (1), or in dishwasher (1), fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8). I can check each place one by one, starting from kitchen table 1, until I find the wine glass.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (1), condiment shaker (1, 2), cupcake (2, 3), cutlery fork (1), fridge (1), kitchen cabinet (5, 6), kitchen counter (1), kitchen table (1), mug (2, 3), pie (1), pudding (1)
+Act: go to dishwasher 1
+You arrive at the dishwasher (1). The dishwasher (1) is open. You see cell phone (2), cereal (1), chair (2, 5), chocolate syrup (1), coffee pot (1), cupcake (2, 3), cutlets (1), dishwasher (1), kitchen cabinet (2, 3, 4), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), mug (2, 3), wine glass (3)
+Think: I find wine glass 3. Now, I need to pick it up.
+OK.
+Act: pick up wine glass 3
+You pick up wine glass. You hold wine glass (3).
+Think: I hold wine glass 3. Now, I need to put it on the kitchen table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (1), condiment shaker (1, 2), cupcake (2, 3), cutlery fork (1), fridge (1), kitchen cabinet (5, 6), kitchen counter (1), kitchen table (1), mug (2, 3), pie (1), pudding (1), wine glass (3) You hold wine glass (3).
+Think: Now, I need to put down wine glass 3.
+OK.
+Act: put down wine glass 3
+You put down wine glass on kitchen table
+Think: I put down wine glass 3 on kitchen table 1. Now, I need to find the water glass. The water glass is more likely to appear in kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8). I can check each place one by one, starting from kitchen cabinet 1, until I find the water glass.
+OK.
+Act: go to kitchen cabinet 1
+You arrive at the kitchen cabinet (1). The kitchen cabinet (1) is open. You see cell phone (2), cereal (1), condiment bottle (1, 2), cutlets (1), dishwasher (1), dishwashing liquid (1), faucet (1), kitchen cabinet (1, 2, 6, 7, 8), kitchen counter (1), microwave oven (1), minced meat (1), sink (1), toaster (1), washing sponge (1)
+Act: go to kitchen cabinet 2
+You arrive at the kitchen cabinet (2). The kitchen cabinet (2) is open. You see cell phone (2), cereal (1), chocolate syrup (1), condiment bottle (1, 2), cutlets (1), dishwasher (1), kitchen cabinet (1, 2, 3, 6, 7, 8), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), sink (1), toaster (1), washing sponge (1)
+Act: go to kitchen cabinet 3
+You arrive at the kitchen cabinet (3). The kitchen cabinet (3) is open. You see cell phone (2), cereal (1), chocolate syrup (1), condiment bottle (1, 2), cupcake (3), cutlets (1), dishwasher (1), kitchen cabinet (1, 2, 3, 4), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), mug (2)
+Act: go to kitchen cabinet 4
+You arrive at the kitchen cabinet (4). The kitchen cabinet (4) is open. You see cereal (1), chocolate syrup (1), cooking pot (1), cutlets (1), dishwasher (1), kitchen cabinet (2, 3, 4), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), mug (2), stove (1)
+Act: go to kitchen cabinet 5
+You arrive at the kitchen cabinet (5). The kitchen cabinet (5) is open. You see bananas (1, 2), bowl (2), chair (4, 5), condiment shaker (1, 2), cupcake (2, 3), cutlery fork (1), dishwashing liquid (1), faucet (1), fridge (1), kitchen cabinet (5, 6), kitchen counter (1), kitchen table (1), mug (2, 3), pudding (1), sink (1), wine glass (3)
+Act: go to kitchen cabinet 6
+You arrive at the kitchen cabinet (6). The kitchen cabinet (6) is open. You see bananas (1, 2), bowl (2), cell phone (2), chair (4, 5), condiment shaker (1, 2), cupcake (2, 3), cutlery fork (1), dishwashing liquid (1), faucet (1), fridge (1), kitchen cabinet (5, 6, 7), kitchen counter (1), kitchen table (1), mug (2, 3), pudding (1), sink (1), washing sponge (1), wine glass (3)
+Act: go to kitchen cabinet 7
+You arrive at the kitchen cabinet (7). The kitchen cabinet (7) is open. You see bananas (1, 2), bowl (2), cell phone (2), chair (4, 5), condiment bottle (1, 2), condiment shaker (1, 2), cupcake (2, 3), cutlets (1), dishwashing liquid (1), faucet (1), kitchen cabinet (1, 2, 5, 6, 7, 8), kitchen counter (1), kitchen table (1), minced meat (1), mug (2, 3), pudding (1), sink (1), toaster (1), washing sponge (1), wine glass (3)
+Act: go to kitchen cabinet 8
+You arrive at the kitchen cabinet (8). The kitchen cabinet (8) is open. You see cell phone (2), cereal (1), chair (5), condiment bottle (1, 2), cupcake (3), cutlets (1), dishwasher (1), dishwashing liquid (1), faucet (1), kitchen cabinet (1, 2, 3, 6, 7, 8), kitchen counter (1), microwave oven (1), minced meat (1), sink (1), toaster (1), washing sponge (1)
+Think: I cannot find the water glass in kitchen 1. The water glass is more likely to appear in living room 1.
+OK.
+Act: go to living room 1
+You move to the living room (1). Looking quickly around the room, you see chair (1), closet (1), computer (1), desk (1), nightstand (1), sofa (1), tv (1).
+Think: I move to living room 1. The water glass is more likely to appear on desk (1), nightstand (1). I can check each place one by one, starting from desk 1, until I find the water glass.
+OK.
+Act: go to desk 1
+You arrive at the desk (1). You see chair (1), computer (1), cupcake (1), desk (1), mug (1), nightstand (1)
+Think: I find water glass 1. Now, I need to pick it up.
+OK.
+Act: pick up mug 1
+You pick up mug. You hold mug (1).
+Think: I hold mug 1. Now, I need to put it on the kitchen table.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bookshelf (1), chair (2, 3, 4, 5), dishwasher (1), faucet (1), fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (1), kitchen table (1), microwave oven (1), sink (1), sofa (2), stove (1), toaster (1), tv (2). You hold mug (1).
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (1), condiment shaker (1, 2), cupcake (2, 3), cutlery fork (1), fridge (1), kitchen cabinet (5, 6), kitchen counter (1), kitchen table (1), mug (1, 2, 3), pie (1), pudding (1), wine glass (3) You hold mug (1).
+Think: Now, I need to put down mug 1.
+OK.
+Act: put down mug 1
+You put down mug on kitchen table
+Think: Now I accomplish the goal.
+OK.
+Act: done

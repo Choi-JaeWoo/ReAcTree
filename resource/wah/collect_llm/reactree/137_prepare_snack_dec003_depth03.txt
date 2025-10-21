@@ -1,0 +1,9 @@
+Your primary goal is to: Get me a cupcake and a pudding and bring it to the coffee table.
+To achieve this, you should perform your sibling tasks in parallel. At this level, your sibling tasks are: move the cupcake on the coffee table, move the pudding on the coffee table, and and move the wine on the coffee table.
+Your task is to: move the cupcake on the coffee table
+You are in the house, and there are 5 rooms: bathroom (1), bedroom (1, 2), kitchen (1), living room (1). You are in the middle of a bathroom (1). Looking quickly around the room, you see bathroom cabinet (1), bathroom counter (1), faucet (2), sink (2), toilet (1), towel rack (1, 2, 3), washing machine (1).
+Think: To solve the task, I need to accomplish 2 subgoals sequentially. Find and pick up the cupcake, and find the coffee table and put down the cupcake.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up the cupcake, find the coffee table and put down the cupcake

@@ -1,0 +1,13 @@
+Your primary goal is to: get the pound cake
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up the pound cake, and find the fridge and put down the pound cake.
+Your task is to: find and pick up the pound cake
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a bedroom (1). Looking quickly around the room, you see bed (1), cabinet (1), chair (6), closet (2), nightstand (2), sofa (3).
+Think: To solve the task, I need to recall the location of the pound cake
+OK.
+Act: recall location of pound cake
+You saw pound cake 1 near cabinet 1 in bedroom 1.
+Think: Now, I need to find and pick up the pound cake in one of the rooms. The pound cake is more likely to appear in bedroom 1. I can check each room one by one until I find and pick up the pound cake.
+OK.
+Expand:
+- control flow: fallback
+- subgoals: find and pick up the pound cake in bedroom 1

@@ -1,0 +1,13 @@
+Your primary goal is to: Put the pudding on the coffee table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up the pudding, and find the coffee table and put down the pudding.
+Your task is to: find and pick up the pudding
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a bedroom (1). Looking quickly around the room, you see bed (1), bookshelf (1), chair (1, 2), closet (1, 2), coffee table (1), computer (1), desk (1), garbage can (1), nightstand (1, 2).
+Think: To solve the task, I need to recall the location of the pudding.
+OK.
+Act: recall location of pudding
+You have not seen pudding before.
+Think: Now, I need to find and pick up the pudding in one of the rooms. The pudding is more likely to appear in kitchen 1, living room 1, or bedroom 1. I can check each room one by one until I find and pick up the pudding.
+OK.
+Expand:
+- control flow: fallback
+- subgoals: find and pick up the pudding in kitchen 1, find and pick up the pudding in living room 1, find and pick up the pudding in bedroom 1

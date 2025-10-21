@@ -1,0 +1,7 @@
+Your task is to: Firstly, come to the drawer. You will find a cultlery fork that you are supposed to put on the table. Then take a water glass and put it next to the fork
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a bathroom (1). Looking quickly around the room, you see bathroom cabinet (1), bathroom counter (1), closet (3, 4), faucet (2), sink (2), toilet (1), towel rack (1, 2), washing machine (1).
+Think: To solve the task, I need to accomplish 3 subgoals sequentially. Find and open the drawer, move the cutlery fork on the table, and move the water glass on the table.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and open the drawer, move the cutlery fork on the table, and move the water glass on the table

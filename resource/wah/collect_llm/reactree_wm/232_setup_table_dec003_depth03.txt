@@ -1,0 +1,13 @@
+Your primary goal is to: Collect the fork and plate. Take both items to the kitchen table. Place fork and plate onto the kitchen table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up the fork, find and pick up the plate, and find the kitchen table and put down the fork and plate.
+Your task is to: find and pick up the fork
+You are in the house, and there are 5 rooms: bathroom (1), bedroom (1, 2), kitchen (1), living room (1). You are in the middle of a bedroom (2). Looking quickly around the room, you see bed (2), bookshelf (6), cabinet (1), chair (3), closet (1), computer (1), desk (2), garbage can (1), nightstand (2).
+Think: To solve the task, I need to recall the location of the fork.
+OK.
+Act: recall location of cutlery fork
+You have not seen cutlery fork before.
+Think: Now, I need to find and pick up the fork in one of the rooms. The fork is more likely to appear in kitchen 1, living room 1, bedroom 1, or bedroom 2. I can check each room one by one until I find and pick up the fork.
+OK.
+Expand:
+- control flow: fallback
+- subgoals: find and pick up the fork in kitchen 1, find and pick up the fork in living room 1, find and pick up the fork in bedroom 1, find and pick up the fork in bedroom 2

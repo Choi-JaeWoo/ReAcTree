@@ -1,0 +1,13 @@
+Your primary goal is to: prepare a pancake
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up the pancake, and find the kitchen table and put down the pancake.
+Your task is to: find and pick up the pancake
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a bathroom (1). Looking quickly around the room, you see bathroom cabinet (1), bathroom counter (1), faucet (1), sink (1), toilet (1), washing machine (1).
+Think: To solve the task, I need to recall the location of the pancake
+OK.
+Act: recall location of pancake
+You have not seen pancake before.
+Think: Now, I need to find and pick up the pancake in one of the rooms. The pancake is more likely to appear in kitchen 1, living room 1, or bedroom 1. I can check each room one by one until I find and pick up the pancake.
+OK.
+Expand:
+- control flow: fallback
+- subgoals: find and pick up the pancake in kitchen 1, find and pick up the pancake in living room 1, find and pick up the pancake in bedroom 1

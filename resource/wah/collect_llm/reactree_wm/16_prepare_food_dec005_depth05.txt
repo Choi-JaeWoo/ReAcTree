@@ -1,0 +1,15 @@
+Your primary goal is to: go get the cup cake and pound cake out of the fridge and put it on the kitchen table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up the cup cake and pound cake, and find the kitchen table and put down the cup cake and pound cake.
+Your task is to: find and pick up the cup cake and pound cake
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a living room (1). Looking quickly around the room, you see chair (1), closet (1), computer (1), desk (1), nightstand (1), sofa (1), tv (1).
+Think: To solve the task, I need to recall the location of the cup cake and pound cake
+OK.
+Act: recall location of cupcake
+You have not seen cupcake before.
+Act: recall location of pound cake
+You have not seen pound cake before.
+Think: Now, I need to find and pick up the cup cake and pound cake in one of the rooms. The cup cake and pound cake are more likely to appear in kitchen 1, living room 1, or bedroom 1. I can check each room one by one until I find and pick up the cup cake and pound cake.
+OK.
+Expand:
+- control flow: fallback
+- subgoals: find and pick up the cup cake and pound cake in kitchen 1, find and pick up the cup cake and pound cake in living room 1, find and pick up the cup cake and pound cake in bedroom 1

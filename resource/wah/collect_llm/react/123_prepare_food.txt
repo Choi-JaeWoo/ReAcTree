@@ -1,0 +1,145 @@
+Your task is to: Place one wine, one pudding, one apple, one pancake and one coffee pot on the kitchen table.
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a living room (1). Looking quickly around the room, you see bookshelf (3), cabinet (1), chair (3), closet (2), coffee table (2), computer (1), desk (1), sofa (1), tv (2).
+Think: To solve the task, I need to find and pick up the wine, then put it on the kitchen table. And I need to find and pick up the pudding, then put it on the kitchen table. And I need to find and pick up the apple, then put it on the kitchen table. And I need to find and pick up the pancake, then put it on the kitchen table. And I need to find and pick up the coffee pot, then put it on the kitchen table.
+OK.
+Think: First, I need to find the wine. The wine is more likely to appear in kitchen 1.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (2), faucet (2), fridge (1), kitchen counter (1), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1), tv (1).
+Think: I move to kitchen 1. Now, I need to find the wine. The wine is more likely to appear in fridge (1), or on kitchen table (1). I can check each place one by one, starting from fridge 1, until I find the wine.
+OK.
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is closed. You see bench (2), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), stove (1)
+Act: open fridge 1
+You open fridge. You see apple (1), bench (2), cutting board (2), dishwashing liquid (1), fridge (1), frying pan (1), juice (1), kitchen counter (1), microwave oven (1), stove (1)
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bench (1, 2), chips (1), condiment shaker (1), kitchen table (1), light switch (3), mug (2), salad (1)
+Think: I cannot find wine in kitchen 1. The wine is more likely to appear in living room 1.
+OK.
+Act: go to living room 1
+You move to the living room (1). Looking quickly around the room, you see bookshelf (3), cabinet (1), chair (3), closet (2), coffee table (2), computer (1), desk (1), sofa (1), tv (2).
+Think: I move to living room 1. Now, I need to find the wine. The wine is more likely to appear on coffee table (2), or on desk (1). I can check each place one by one, starting from coffee table 2, until I find the wine.
+OK.
+Act: go to coffee table 2
+You arrive at the coffee table (2). You see cell phone (2), coffee table (2), pudding (1), sofa (1), tv (2)
+Act: go to desk 1
+You arrive at the desk (1). You see chair (3), computer (1), desk (1), mug (3)
+Think: I cannot find wine in living room 1. The wine is more likely to appear in bedroom 1.
+OK.
+Act: go to bedroom 1
+You move to the bedroom (1). Looking quickly around the room, you see bed (1), bookshelf (1), chair (1, 2), closet (1), coffee table (1), nightstand (1).
+Think: I move to bedroom 1. Now, I need to find the wine. The wine is more likely to appear on coffee table (1), or on nightstand (1). I can check each place one by one, starting from coffee table 1, until I find the wine.
+OK.
+Act: go to coffee table 1
+You arrive at the coffee table (1). You see Chinese food (1), bed (1), coffee pot (1), coffee table (1), wine (1)
+Think: I find wine 1. Now, I need to pick it up.
+OK.
+Act: pick up wine 1
+You pick up wine. You hold wine (1).
+Think: I hold wine 1. Now, I need to put it on the kitchen table.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (2), faucet (2), fridge (1), kitchen counter (1), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1), tv (1). You hold wine (1).
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bench (1, 2), chips (1), condiment shaker (1), kitchen table (1), light switch (3), mug (2), salad (1), wine (1) You hold wine (1).
+Think: Now, I need to put down wine 1.
+OK.
+Act: put down wine 1
+You put down wine on kitchen table
+Think: I put down wine 1 on kitchen table 1. Now, I need to find the pudding. The pudding is more likely to appear in kitchen 1.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (2), faucet (2), fridge (1), kitchen counter (1), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1), tv (1).
+Think: I move to kitchen 1. Now, I need to find the pudding. The pudding is more likely to appear in fridge (1), or on kitchen table (1). I can check each place one by one, starting from fridge 1, until I find the pudding.
+OK.
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see apple (1), bench (2), cutting board (2), dishwashing liquid (1), fridge (1), frying pan (1), juice (1), kitchen counter (1), microwave oven (1), stove (1)
+Think: I find pudding 1. Now, I need to pick it up.
+OK.
+Act: pick up apple 1
+You pick up apple. You hold apple (1).
+Think: I hold apple 1. Now, I need to put it on the kitchen table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1), bench (1, 2), chips (1), condiment shaker (1), kitchen table (1), light switch (3), mug (2), salad (1), wine (1) You hold apple (1).
+Think: Now, I need to put down apple 1.
+OK.
+Act: put down apple 1
+You put down apple on kitchen table
+Think: I put down apple 1 on kitchen table 1. Now, I need to find the pancake. The pancake is more likely to appear in kitchen 1.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (2), faucet (2), fridge (1), kitchen counter (1), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1), tv (1).
+Think: I move to kitchen 1. Now, I need to find the pancake. The pancake is more likely to appear on kitchen table (1), or in fridge (1). I can check each place one by one, starting from kitchen table 1, until I find the pancake.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1), bench (1, 2), chips (1), condiment shaker (1), kitchen table (1), light switch (3), mug (2), salad (1), wine (1)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see bench (2), cutting board (2), dishwashing liquid (1), fridge (1), frying pan (1), juice (1), kitchen counter (1), microwave oven (1), stove (1)
+Think: I cannot find pancake in kitchen 1. The pancake is more likely to appear in living room 1.
+OK.
+Act: go to living room 1
+You move to the living room (1). Looking quickly around the room, you see bookshelf (3), cabinet (1), chair (3), closet (2), coffee table (2), computer (1), desk (1), sofa (1), tv (2).
+Think: I move to living room 1. Now, I need to find the pancake. The pancake is more likely to appear on coffee table (2), or on desk (1). I can check each place one by one, starting from coffee table 2, until I find the pancake.
+OK.
+Act: go to coffee table 2
+You arrive at the coffee table (2). You see cell phone (2), coffee table (2), pudding (1), sofa (1), tv (2)
+Think: I find pancake 1. Now, I need to pick it up.
+OK.
+Act: pick up pudding 1
+You pick up pudding. You hold pudding (1).
+Think: I hold pudding 1. Now, I need to put it on the kitchen table.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (2), faucet (2), fridge (1), kitchen counter (1), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1), tv (1). You hold pudding (1).
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1), bench (1, 2), chips (1), condiment shaker (1), kitchen table (1), light switch (3), mug (2), pudding (1), salad (1), wine (1) You hold pudding (1).
+Think: Now, I need to put down pudding 1.
+OK.
+Act: put down pudding 1
+You put down pudding on kitchen table
+Think: I put down pudding 1 on kitchen table 1. Now, I need to find the coffee pot. The coffee pot is more likely to appear in kitchen 1.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (2), faucet (2), fridge (1), kitchen counter (1), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1), tv (1).
+Think: I move to kitchen 1. Now, I need to find the coffee pot. The coffee pot is more likely to appear on kitchen table (1), or in fridge (1). I can check each place one by one, starting from kitchen table 1, until I find the coffee pot.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1), bench (1, 2), chips (1), condiment shaker (1), kitchen table (1), light switch (3), mug (2), pudding (1), salad (1), wine (1)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see bench (2), cutting board (2), dishwashing liquid (1), fridge (1), frying pan (1), juice (1), kitchen counter (1), microwave oven (1), stove (1)
+Think: I cannot find coffee pot in kitchen 1. The coffee pot is more likely to appear in living room 1.
+OK.
+Act: go to living room 1
+You move to the living room (1). Looking quickly around the room, you see bookshelf (3), cabinet (1), chair (3), closet (2), coffee table (2), computer (1), desk (1), sofa (1), tv (2).
+Think: I move to living room 1. Now, I need to find the coffee pot. The coffee pot is more likely to appear on coffee table (2), or on desk (1). I can check each place one by one, starting from coffee table 2, until I find the coffee pot.
+OK.
+Act: go to coffee table 2
+You arrive at the coffee table (2). You see cell phone (2), coffee table (2), sofa (1), tv (2)
+Act: go to desk 1
+You arrive at the desk (1). You see chair (3), computer (1), desk (1), mug (3)
+Think: I cannot find coffee pot in living room 1. The coffee pot is more likely to appear in bedroom 1.
+OK.
+Act: go to bedroom 1
+You move to the bedroom (1). Looking quickly around the room, you see bed (1), bookshelf (1), chair (1, 2), closet (1), coffee table (1), nightstand (1).
+Think: I move to bedroom 1. Now, I need to find the coffee pot. The coffee pot is more likely to appear on coffee table (1), or on nightstand (1). I can check each place one by one, starting from coffee table 1, until I find the coffee pot.
+OK.
+Act: go to coffee table 1
+You arrive at the coffee table (1). You see Chinese food (1), bed (1), coffee pot (1), coffee table (1)
+Think: I find coffee pot 1. Now, I need to pick it up.
+OK.
+Act: pick up coffee pot 1
+You pick up coffee pot. You hold coffee pot (1).
+Think: I hold coffee pot 1. Now, I need to put it on the kitchen table.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (2), faucet (2), fridge (1), kitchen counter (1), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1), tv (1). You hold coffee pot (1).
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1), bench (1, 2), chips (1), coffee pot (1), condiment shaker (1), kitchen table (1), light switch (3), mug (2), pudding (1), salad (1), wine (1) You hold coffee pot (1).
+Think: Now, I need to put down coffee pot 1.
+OK.
+Act: put down coffee pot 1
+You put down coffee pot on kitchen table
+Think: I put down coffee pot 1 on kitchen table 1. Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,63 @@
+Your task is to: Please put a cutlery fork and a glass of water in the dishwasher, then turn the diswasher on.
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (1), dishwasher (1), faucet (2), fridge (1), garbage can (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (1, 2), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1).
+Think: To solve the task, I need to find and open the dishwasher. And I need to find and pick up the cutlery fork, then put it in the dishwasher. And I need to find and pick up the glass of water, then put it in the dishwasher. And I need to close and turn on the dishwasher.
+OK.
+Think: First, I need to find the dishwasher. The dishwasher is more likely to appear in kitchen 1.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (1), dishwasher (1), faucet (2), fridge (1), garbage can (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (1, 2), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1).
+Think: I can see dishwasher 1.
+OK.
+Act: go to dishwasher 1
+You arrive at the dishwasher (1). The dishwasher (1) is closed. You see coffee pot (1), dishwasher (1), kitchen cabinet (6, 7), microwave oven (1), toaster (1)
+Think: Dishwasher 1 is closed. Now, I need to open it.
+OK.
+Act: open dishwasher 1
+You open dishwasher. You see coffee pot (1), dishwasher (1), kitchen cabinet (6, 7), microwave oven (1), toaster (1)
+Think: I open dishwasher 1. Now, I need to find the cutlery fork. The cutlery fork is more likely to appear on kitchen table (1) or in fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8). I can check each place one by one, starting from kitchen table 1, until I find the cutlery fork.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11), bench (2), book (1), bowl (6), cell phone (1), condiment shaker (1, 2), cutlery fork (2), kitchen table (1), plate (2), pound cake (1)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is closed. You see bench (1), fridge (1), kitchen table (1)
+Act: open fridge 1
+You open fridge. You see bench (1), cutlery fork (1), fridge (1), kitchen table (1), water glass (1)
+Think: I find cutlery fork 1. Now, I need to pick it up.
+OK.
+Act: pick up cutlery fork 1
+You pick up cutlery fork. You hold cutlery fork (1).
+Think: I hold cutlery fork 1. Now, I need to put it in the dishwasher.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (1), dishwasher (1), faucet (2), fridge (1), garbage can (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (1, 2), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1). You hold cutlery fork (1).
+Act: go to dishwasher 1
+You arrive at the dishwasher (1). The dishwasher (1) is open. You see coffee pot (1), cutlery fork (1), dishwasher (1), kitchen cabinet (6, 7), microwave oven (1), toaster (1) You hold cutlery fork (1).
+Think: Now, I need to put down cutlery fork 1.
+OK.
+Act: put down cutlery fork 1
+You put down cutlery fork in dishwasher
+Think: I put down cutlery fork 1 in dishwasher 1. Now, I need to find the glass of water. I already found the glass of water in fridge 1.
+OK.
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see bench (1), fridge (1), kitchen table (1), water glass (1)
+Think: I find water glass 1. Now, I need to pick it up.
+OK.
+Act: pick up water glass 1
+You pick up water glass. You hold water glass (1).
+Think: I hold water glass 1. Now, I need to put it in the dishwasher 1.
+OK.
+Act: go to dishwasher 1
+You arrive at the dishwasher (1). The dishwasher (1) is open. You see coffee pot (1), cutlery fork (1), dishwasher (1), kitchen cabinet (6, 7), microwave oven (1), toaster (1), water glass (1) You hold water glass (1).
+Think: Now, I need to put down water glass 1.
+OK.
+Act: put down water glass 1
+You put down water glass in dishwasher
+Think: I put down water glass 1 in dishwasher 1. Now, I need to close and turn on dishwasher 1.
+OK.
+Act: close dishwasher 1
+You close dishwasher.
+Act: turn on dishwasher 1
+You turn on dishwasher.
+Think: Now I accomplish the goal.
+OK.
+Act: done

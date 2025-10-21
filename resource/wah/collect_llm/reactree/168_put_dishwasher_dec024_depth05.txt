@@ -1,0 +1,15 @@
+Your primary goal is to: put the water glass in the dishwasher
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up the water glass, and find the dishwasher and put down the water glass.
+Your task is to: find the dishwasher and put down the water glass
+You are in the house, and there are 5 rooms: bathroom (1), bedroom (1, 2), kitchen (1), living room (1). You are in the middle of a kitchen (1). Looking quickly around the room, you see bench (1, 2, 3, 4), bookshelf (1, 2), chair (1), dishwasher (1), faucet (1), fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (1, 2), kitchen table (1, 2), microwave oven (1), sink (1), stove (1), toaster (1). You hold water glass (2).
+Think: I hold water glass 2. Now, I need to find the dishwasher. I can see dishwasher 1.
+OK.
+Act: go to dishwasher 1
+You arrive at the dishwasher (1). The dishwasher (1) is open. You see bananas (1, 2), bench (4), bowl (7), coffee pot (1), dishwasher (1), kitchen cabinet (6, 7), kitchen counter (1), toaster (1), water glass (2), wine glass (3) You hold water glass (2).
+Think: Dishwasher 1 is open. Now, I need to put down water glass 2.
+OK.
+Act: put down water glass 2
+You put down water glass in dishwasher
+Think: Now I accomplish the goal.
+OK.
+Act: done

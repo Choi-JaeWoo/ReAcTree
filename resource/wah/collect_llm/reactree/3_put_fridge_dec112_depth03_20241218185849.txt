@@ -1,0 +1,5 @@
+Your primary goal is to: put 1 cupcake, 1 juice, and 1 pancake in the fridge
+To achieve this, you should perform your sibling tasks using a fallback strategy. At this level, your sibling tasks are: put 1 cupcake, 1 juice, and 1 pancake in the fridge in kitchen 1, put 1 cupcake, 1 juice, and 1 pancake in the fridge in living room 1, put 1 cupcake, 1 juice, and and 1 pancake in the fridge in bedroom 1.
+Your task is to: and 1 pancake in the fridge in bedroom 1
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a living room (1). Looking quickly around the room, you see chair (1), closet (1), computer (1), desk (1), nightstand (1), sofa (1), tv (1).
+Max steps

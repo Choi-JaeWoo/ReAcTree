@@ -1,0 +1,69 @@
+Your task is to: locate 1 green apple, 1 pancake, 1 pound cake, and 1 grapefruit juice on the kitchen table.
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a bedroom (1). Looking quickly around the room, you see bed (1), bookshelf (2), cabinet (1), chair (1), coffee table (1), computer (1), desk (1), nightstand (1, 2), sofa (1).
+Think: To solve the task, I need to find and pick up the green apple, then put it on the kitchen table. And I need to find and pick up the pancake, then put it on the kitchen table. And I need to find and pick up the pound cake, then put it on the kitchen table. And I need to find and pick up the grapefruit juice, then put it on the kitchen table.
+OK.
+Think: First, I need to find the green apple. The green apple is more likely to appear in kitchen 1.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (1), dishwasher (1), faucet (2), fridge (1), garbage can (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (1, 3), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1).
+Think: I move to kitchen 1. Now, I need to find the green apple. The green apple is more likely to appear on kitchen table (1), or in fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8). I can check each place one by one, starting from kitchen table 1, until I find the green apple.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bench (2), book (1), bowl (6), cell phone (1), condiment shaker (1, 2), kitchen table (1)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is closed. You see bench (1), fridge (1), kitchen table (1)
+Act: open fridge 1
+You open fridge. You see bench (1), fridge (1), juice (1, 2), kitchen table (1)
+Act: go to kitchen cabinet 1
+You arrive at the kitchen cabinet (1). The kitchen cabinet (1) is closed. You see chicken (1), cooking pot (1), cutlery knife (1, 2), cutlets (1), dishwashing liquid (1), faucet (2), frying pan (1), kitchen cabinet (1, 2, 8), kitchen counter (1), sink (2), stove (1)
+Act: open kitchen cabinet 1
+You open kitchen cabinet. You see chicken (1), cooking pot (1), cutlery knife (1, 2), cutlets (1), dishwashing liquid (1), frying pan (1), kitchen cabinet (1, 2, 8), kitchen counter (1), pancake (1), sink (2), stove (1)
+Think: I find pancake 1. Now, I need to pick it up.
+OK.
+Act: pick up pancake 1
+You pick up pancake. You hold pancake (1).
+Think: I hold pancake 1. Now, I need to put it on the kitchen table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bench (2), book (1), bowl (6), cell phone (1), condiment shaker (1, 2), kitchen table (1), pancake (1) You hold pancake (1).
+Think: Now, I need to put down pancake 1.
+OK.
+Act: put down pancake 1
+You put down pancake on kitchen table
+Think: I put down pancake 1 on kitchen table 1. Now, I need to find the pound cake. The pound cake is more likely to appear in kitchen cabinet (6, 7, 8). I can check each place one by one, starting from kitchen cabinet 6, until I find the pound cake.
+OK.
+Act: go to kitchen cabinet 6
+You arrive at the kitchen cabinet (6). The kitchen cabinet (6) is closed. You see dishwasher (1), kitchen cabinet (5, 6, 7), microwave oven (1), toaster (1)
+Act: open kitchen cabinet 6
+You open kitchen cabinet. You see dishwasher (1), kitchen cabinet (5, 6, 7), microwave oven (1), pudding (1), toaster (1)
+Think: I find pudding 1. Now, I need to pick it up.
+OK.
+Act: pick up pudding 1
+You pick up pudding. You hold pudding (1).
+Think: I hold pudding 1. Now, I need to put it on the kitchen table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bench (2), book (1), bowl (6), cell phone (1), condiment shaker (1, 2), kitchen table (1), pancake (1), pudding (1) You hold pudding (1).
+Think: Now, I need to put down pudding 1.
+OK.
+Act: put down pudding 1
+You put down pudding on kitchen table
+Think: I put down pudding 1 on kitchen table 1. Now, I need to find the grapefruit juice. The grapefruit juice is more likely to appear in fridge 1.
+OK.
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see bench (1), fridge (1), juice (1, 2), kitchen table (1)
+Think: I find juice 1. Now, I need to pick it up.
+OK.
+Act: pick up juice 1
+You pick up juice. You hold juice (1).
+Think: I hold juice 1. Now, I need to put it on the kitchen table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bench (2), book (1), bowl (6), cell phone (1), condiment shaker (1, 2), juice (1), kitchen table (1), pancake (1), pudding (1) You hold juice (1).
+Think: Now, I need to put down juice 1.
+OK.
+Act: put down juice 1
+You put down juice on kitchen table
+Think: Now I accomplish the goal.
+OK.
+Act: done

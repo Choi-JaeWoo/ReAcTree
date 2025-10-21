@@ -1,0 +1,7 @@
+Your task is to: Open the fridge door and put in the following items on the shelves from the areas on the surfaces around the fridge in the kitchen:1 cupcake,1 juice drink,1 pound cake,1 pudding,1 apple and 1 pancake.When they are safely on the shelves of the fridge, shut the door.
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a bedroom (1). Looking quickly around the room, you see bed (1), bookshelf (1), chair (1, 2), closet (1), coffee table (1), nightstand (1).
+Think: To solve the task, I need to accomplish 2 subgoals sequentially. Find and open the fridge, and move the items in the fridge.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and open the fridge, move the items in the fridge

@@ -1,0 +1,12 @@
+Your task is to: get an apple
+open the fridge door
+put the apple in the fridge
+get a pudding
+put the pudding in the fridge
+close the fridge door
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a bedroom (1). Looking quickly around the room, you see bed (1), bookshelf (1), chair (1, 2), closet (1, 2), coffee table (1), computer (1), desk (1), garbage can (1), nightstand (1, 2).
+Think: To solve the task, I need to accomplish 6 subgoals sequentially. Get an apple, open the fridge door, put the apple in the fridge, get a pudding, put the pudding in the fridge, close the fridge door.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: get an apple, open the fridge door, put the apple in the fridge, get a pudding, put the pudding in the fridge, close the fridge door

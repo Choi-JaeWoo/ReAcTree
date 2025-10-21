@@ -1,0 +1,7 @@
+Your task is to: Open the dishwasher and put in a wine glass and a water glass. Close the door and turn the dishwasher on.
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a bathroom (1). Looking quickly around the room, you see bathroom cabinet (1), bathroom counter (1), faucet (1), sink (1), toilet (1), washing machine (1).
+Think: To solve the task, I need to accomplish 4 subgoals independently. Open the dishwasher, put in a wine glass, put in a water glass, and close the door and turn the dishwasher on.
+OK.
+Expand:
+- control flow: parallel
+- subgoals: open the dishwasher, put in a wine glass, put in a water glass, close the door and turn the dishwasher on

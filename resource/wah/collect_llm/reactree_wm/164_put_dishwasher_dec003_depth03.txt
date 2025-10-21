@@ -1,0 +1,19 @@
+Your primary goal is to: Please get the dirty fork and the two glasses and put them all in the dishwasher and turn it on.
+To achieve this, you should perform your sibling tasks in parallel. At this level, your sibling tasks are: find and open the dishwasher, move the cutlery fork in the dishwasher, move the wine glass in the dishwasher, and and close and turn on the dishwasher.
+Your task is to: find and open the dishwasher
+You are in the house, and there are 5 rooms: bathroom (1), bedroom (1, 2), kitchen (1), living room (1). You are in the middle of a bedroom (2). Looking quickly around the room, you see bed (2), bookshelf (6), cabinet (1), chair (3), closet (1), computer (1), desk (2), garbage can (1), nightstand (2).
+Think: Now, I need to find the dishwasher. The dishwasher is more likely to appear in kitchen 1.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bench (1, 2, 3, 4), bookshelf (1, 2), chair (1), dishwasher (1), faucet (1), fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (2), kitchen table (1, 2), microwave oven (1), sink (1), stove (1), toaster (1).
+Think: I can see dishwasher 1.
+OK.
+Act: go to dishwasher 1
+You arrive at the dishwasher (1). The dishwasher (1) is closed. You see bananas (1, 2), bench (4), bowl (7), coffee pot (1), dishwasher (1), kitchen cabinet (6, 7), toaster (1)
+Think: Dishwasher 1 is closed. Now, I need to open it.
+OK.
+Act: open dishwasher 1
+You open dishwasher. You see bananas (1, 2), bench (4), bowl (7), coffee pot (1), dishwasher (1), kitchen cabinet (6, 7), kitchen counter (1), toaster (1)
+Think: Now I accomplish the goal.
+OK.
+Act: done

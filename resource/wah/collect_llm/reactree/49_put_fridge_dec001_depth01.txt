@@ -1,0 +1,14 @@
+Your task is to: 1. find all of: 1 pudding, 1 apple, and 1 juice and remember their location.
+2. remove all that are already in the fridge.
+3. grab as much as you can hold by going to remembered locations
+4. go to the fridge.
+5. open it.
+6. put what you are holding into the fridge.
+7. close it
+8. if any elements aren't yet in the fridge go to step 3.
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a bathroom (1). Looking quickly around the room, you see bathroom cabinet (1), bathroom counter (1), faucet (1), sink (1), toilet (1), towel rack (1, 2, 3), washing machine (1).
+Think: To solve the task, I need to accomplish 8 subgoals sequentially. Find all of: 1 pudding, 1 apple, and 1 juice and remember their location, remove all that are already in the fridge, grab as much as you can hold by going to remembered locations, go to the fridge, open it, put what you are holding into the fridge, close it, if any elements aren't yet in the fridge go to step 3.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find all of: 1 pudding, 1 apple, and 1 juice and remember their location, remove all that are already in the fridge, grab as much as you can hold by going to remembered locations, go to the fridge, open it, put what you are holding into the fridge, close it, if any elements aren't yet in the fridge go to step 3

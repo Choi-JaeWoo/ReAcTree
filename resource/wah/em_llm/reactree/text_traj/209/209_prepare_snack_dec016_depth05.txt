@@ -1,0 +1,19 @@
+Your primary goal is to: move the pudding on the coffee table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up the pudding, and find the coffee table and put down the pudding.
+Your task is to: find the coffee table and put down the pudding
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (2), faucet (2), fridge (1), kitchen counter (1), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1), tv (1). You hold pudding (1).
+Think: I hold pudding 1. Now, I need to find the coffee table. The coffee table is more likely to appear in living room 1.
+OK.
+Act: go to living room 1
+You move to the living room (1). Looking quickly around the room, you see bookshelf (3), cabinet (1), chair (3), closet (2), coffee table (2), computer (1), desk (1), sofa (1). You hold pudding (1).
+Think: I can see coffee table 2.
+OK.
+Act: go to coffee table 2
+You arrive at the coffee table (2). You see coffee table (2), pudding (1), sofa (1) You hold pudding (1).
+Think: Now, I need to put down pudding 1.
+OK.
+Act: put down pudding 1
+You put down pudding on coffee table
+Think: Now I accomplish the goal.
+OK.
+Act: done

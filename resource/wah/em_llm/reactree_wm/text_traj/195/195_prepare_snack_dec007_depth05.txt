@@ -1,0 +1,31 @@
+Your primary goal is to: find and pick up the pudding
+To achieve this, you should perform your sibling tasks using a fallback strategy. At this level, your sibling tasks are: find and pick up the pudding in kitchen 1, find and pick up the pudding in living room 1, and find and pick up the pudding in bedroom 1.
+Your task is to: find and pick up the pudding in kitchen 1
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a bedroom (1). Looking quickly around the room, you see bed (1), bookshelf (1), chair (1, 2), closet (1, 2), coffee table (1), computer (1), desk (1), garbage can (1), nightstand (1, 2).
+Think: I am in bedroom 1. Now, I need to go to kitchen 1.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (2), faucet (2), fridge (1), kitchen cabinet (1, 2, 3, 4), kitchen counter (1), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1), tv (1).
+Think: Now, I need to find the pudding. The pudding is more likely to appear on kitchen table (1), or in fridge (1), kitchen cabinet (1, 2, 3, 4). I can check each place one by one, starting from kitchen table 1, until I find the pudding.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bench (1, 2), book (1), cereal (1), chips (1, 2), crackers (1), creamy buns (1), cutlery fork (2, 3, 4), cutlery knife (1, 2, 4), kitchen table (1), pie (1), plate (5, 7), water glass (3, 5), whipped cream (1), wine (1)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is closed. You see bell pepper (1, 2, 5, 6), bowl (3), clock (1), fridge (1), kitchen cabinet (4), kitchen counter (1), light switch (3), microwave oven (1), salmon (1)
+Act: open fridge 1
+You open fridge. You see bell pepper (1, 2, 5, 6), bowl (3), clock (1), fridge (1), kitchen cabinet (4), kitchen counter (1), light switch (3), microwave oven (1), pudding (1), salmon (1)
+Act: go to kitchen cabinet 1
+You arrive at the kitchen cabinet (1). The kitchen cabinet (1) is closed. You see candy bar (1), chips (1, 2), chocolate syrup (1), coffee pot (1), dishwashing liquid (1), faucet (2), frying pan (1), kitchen cabinet (1, 2), kitchen counter (1), sink (2), stove (1), toaster (1)
+Act: open kitchen cabinet 1
+You open kitchen cabinet. You see candy bar (1), chips (1, 2), chocolate syrup (1), coffee pot (1), dishwashing liquid (1), faucet (2), frying pan (1), kitchen cabinet (1, 2), kitchen counter (1), sink (2), stove (1), toaster (1)
+Act: go to kitchen cabinet 2
+You arrive at the kitchen cabinet (2). The kitchen cabinet (2) is closed. You see bell pepper (1, 2, 3, 4, 5, 6), bowl (3), chocolate syrup (1), coffee pot (1), dishwashing liquid (1), faucet (2), frying pan (1), kitchen cabinet (1, 2, 3), kitchen counter (1), sink (2), stove (1), toaster (1), washing sponge (1)
+Act: open kitchen cabinet 2
+You open kitchen cabinet. You see bell pepper (1, 2, 3, 4, 5, 6), bowl (3), chocolate syrup (1), coffee pot (1), dishwashing liquid (1), faucet (2), frying pan (1), kitchen cabinet (1, 2, 3), kitchen counter (1), pudding (2), sink (2), stove (1), toaster (1), washing sponge (1)
+Think: I find pudding 2. Now I need to pick it up.
+OK.
+Act: pick up pudding 2
+You pick up pudding. You hold pudding (2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

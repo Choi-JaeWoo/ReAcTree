@@ -1,0 +1,13 @@
+Your primary goal is to: move the apple on the kitchen table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up the apple, and find the kitchen table and put down the apple.
+Your task is to: find and pick up the apple
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a kitchen (1). Looking quickly around the room, you see bookshelf (1), chair (2, 3, 4, 5), dishwasher (1), faucet (1), fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (1), kitchen table (1), microwave oven (1), sink (1), sofa (2), stove (1), toaster (1), tv (2).
+Think: To solve the task, I need to recall the location of the apple.
+OK.
+Act: recall location of apple
+You have not seen apple before.
+Think: Now, I need to find and pick up the apple in one of the rooms. The apple is more likely to appear in kitchen 1, living room 1, or bedroom 1. I can check each room one by one until I find and pick up the apple.
+OK.
+Expand:
+- control flow: fallback
+- subgoals: find and pick up the apple in kitchen 1, find and pick up the apple in living room 1, find and pick up the apple in bedroom 1

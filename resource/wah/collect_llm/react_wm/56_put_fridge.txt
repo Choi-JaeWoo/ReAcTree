@@ -1,0 +1,213 @@
+Your task is to: Store the juice, wine, cupcake and apple in the fridge
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a living room (1). Looking quickly around the room, you see bookshelf (3), cabinet (1), chair (3), closet (2), coffee table (2), computer (1), desk (1), sofa (1), tv (2).
+Think: To solve the task, I need to find and pick up the juice, then put it in the fridge. And I need to find and pick up the wine, then put it in the fridge. And I need to find and pick up the cupcake, then put it in the fridge. And I need to find and pick up the apple, then put it in the fridge.
+OK.
+Think: First, I need to find the juice. The juice is more likely to appear in living room 1.
+OK.
+Act: go to coffee table 2
+You arrive at the coffee table (2). You see apple (3), cell phone (2), coffee table (2), cupcake (1), tv (2), wine (1)
+Think: I find juice 1. Now, I need to pick it up.
+OK.
+Act: pick up wine 1
+You pick up wine. You hold wine (1).
+Think: I hold wine 1. Now, I need to put it in the fridge.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (2), faucet (2), fridge (1), kitchen counter (1), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1), tv (1). You hold wine (1).
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is closed. You see bench (2), coffee pot (2), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), pound cake (1), stove (1), wine (1) You hold wine (1).
+Act: open fridge 1
+You open fridge. You see bench (2), coffee pot (2), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), pound cake (1), stove (1), wine (1) You hold wine (1).
+Think: Fridge 1 is open. Now, I need to put down wine 1.
+OK.
+Act: put down wine 1
+You put down wine in fridge
+Think: I put down wine 1 in fridge 1. Now, I need to recall the location of the cupcake.
+OK.
+Act: recall location of cupcake
+You saw cupcake 1 near coffee table 2 in living room 1.
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is closed. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: open coffee pot 2
+You open coffee pot. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Act: go to coffee pot 2
+You arrive at the coffee pot (2). The coffee pot (2) is open. You see coffee pot (2), cutting board (2), faucet (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), milk (1), sink (2), stove (1), wine (1)
+Max steps

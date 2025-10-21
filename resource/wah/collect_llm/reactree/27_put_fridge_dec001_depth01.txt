@@ -1,0 +1,7 @@
+Your task is to: Please put a bottle of wine, a cupcake and a pudding in the fridge.
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a bedroom (1). Looking quickly around the room, you see bed (1), cabinet (1), chair (6), closet (2), nightstand (2), sofa (3).
+Think: To solve the task, I need to accomplish 3 subgoals independently. Move the wine in the fridge, move the cupcake in the fridge, and move the pudding in the fridge.
+OK.
+Expand:
+- control flow: parallel
+- subgoals: move the wine in the fridge, move the cupcake in the fridge, and move the pudding in the fridge

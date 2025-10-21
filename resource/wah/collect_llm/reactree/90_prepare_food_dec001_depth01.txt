@@ -1,0 +1,7 @@
+Your task is to: Put the following on the kitchen table: 1 wine, 1 juice, 1 pound cake, 1 pancake, and 1 coffee pot
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a living room (1). Looking quickly around the room, you see bookshelf (3), chair (2), closet (1), coffee table (2), computer (2), desk (2), sofa (2), tv (1).
+Think: To solve the task, I need to accomplish 5 subgoals independently. Move the wine on the kitchen table, move the juice on the kitchen table, move the pound cake on the kitchen table, move the pancake on the kitchen table, and move the coffee pot on the kitchen table.
+OK.
+Expand:
+- control flow: parallel
+- subgoals: move the wine on the kitchen table, move the juice on the kitchen table, move the pound cake on the kitchen table, move the pancake on the kitchen table, and move the coffee pot on the kitchen table

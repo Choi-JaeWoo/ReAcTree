@@ -1,0 +1,7 @@
+Your task is to: Robot, could you please put the apple and cupcake inside the fridge?
+You are in the house, and there are 5 rooms: bathroom (1), bedroom (1, 2), kitchen (1), living room (1). You are in the middle of a bathroom (1). Looking quickly around the room, you see bathroom cabinet (1), bathroom counter (1), faucet (2), sink (2), toilet (1), towel rack (1, 2, 3), washing machine (1).
+Think: To solve the task, I need to accomplish 2 subgoals independently. Move the apple in the fridge, and move the cupcake in the fridge.
+OK.
+Expand:
+- control flow: parallel
+- subgoals: move the apple in the fridge, move the cupcake in the fridge

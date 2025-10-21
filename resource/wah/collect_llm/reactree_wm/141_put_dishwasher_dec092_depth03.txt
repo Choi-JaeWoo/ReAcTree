@@ -1,0 +1,17 @@
+Your primary goal is to: 1. find all of: 1 cutlery fork, 1 water glass, and 1 plate and remember their location.
+2. remove all that are already in the dishwasher.
+3. grab as much as you can hold by going to remembered locations
+4. go to the dishwasher.
+5. open it.
+6. put what you are holding into it.
+7. close it
+8. if any elements aren't yet in the dishwasher go to step 3.
+9. press the start button on the dishwasher.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find all of: 1 cutlery fork, 1 water glass, and 1 plate and remember their location, remove all that are already in the dishwasher, grab as much as you can hold by going to remembered locations, go to the dishwasher, open it, put what you are holding into it, close it, if any elements aren't yet in the dishwasher go to step 3, and press the start button on the dishwasher.
+Your task is to: put what you are holding into it
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a kitchen (1). Looking quickly around the room, you see bookshelf (1), chair (2, 3, 4, 5), dishwasher (1), faucet (1), fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (1), kitchen table (1), microwave oven (1), sink (1), sofa (2), stove (1), toaster (1), tv (2).
+Think: To solve the task, I need to accomplish 2 subgoals sequentially. Find the dishwasher, and put what you are holding into it.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find the dishwasher, put what you are holding into it

@@ -1,0 +1,9 @@
+Your primary goal is to: and move the juice on the coffee table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up the juice, and find the coffee table and put down the juice.
+Your task is to: find and pick up the juice
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a living room (1). Looking quickly around the room, you see bookshelf (3), cabinet (1), chair (3), closet (3), coffee table (2), computer (2), desk (2), sofa (1), tv (2).
+Think: To solve the task, I need to find and pick up the juice in one of the rooms. The juice is more likely to appear in kitchen 1, living room 1, or bedroom 1. I can check each room one by one until I find and pick up the juice.
+OK.
+Expand:
+- control flow: fallback
+- subgoals: find and pick up the juice in kitchen 1, find and pick up the juice in living room 1, find and pick up the juice in bedroom 1

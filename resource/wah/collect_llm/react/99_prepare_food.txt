@@ -1,0 +1,399 @@
+Your task is to: 1. find all of: 1 wine, 1 cupcake, 1 pound cake, 1 apple, and 1 coffee pot and remember their location.
+2. remove all that are already on the kitchen table
+3. grab as much as you can hold by going to remembered locations
+4. go to kitchen table deposit at the table.
+5. if any elements aren't yet on the table go to step 3.
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a living room (1). Looking quickly around the room, you see chair (1), closet (1), computer (1), desk (1), nightstand (1), sofa (1), tv (1).
+Think: To solve the task, I need to find and remember the location of 1 wine, 1 cupcake, 1 pound cake, 1 apple, and 1 coffee pot. Then, I need to remove all that are already on the kitchen table. Then, I need to grab as much as I can hold by going to remembered locations. Then, I need to go to kitchen table deposit at the table. If any elements aren't yet on the table, I need to go to step 3.
+OK.
+Think: First, I need to find and remember the location of 1 wine, 1 cupcake, 1 pound cake, 1 apple, and 1 coffee pot. The wine is more likely to appear in kitchen 1. The cupcake is more likely to appear in kitchen 1. The pound cake is more likely to appear in kitchen 1. The apple is more likely to appear in kitchen 1. The coffee pot is more likely to appear in kitchen 1. I can check each place one by one, starting from kitchen 1, until I find all of them.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bookshelf (1), chair (2, 3, 4, 5), dishwasher (1), faucet (1), fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (1), kitchen table (1), microwave oven (1), sink (1), sofa (2), stove (1), toaster (1), tv (2).
+Think: I move to kitchen 1. Now, I need to find and remember the location of 1 wine, 1 cupcake, 1 pound cake, 1 apple, and 1 coffee pot. The wine is more likely to appear in fridge 1. The cupcake is more likely to appear in kitchen cabinet 1. The pound cake is more likely to appear in kitchen cabinet 2. The apple is more likely to appear in kitchen cabinet 3. The coffee pot is more likely to appear in kitchen cabinet 4. I can check each place one by one, starting from fridge 1, until I find all of them.
+OK.
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is closed. You see bananas (1, 2), bowl (2), chair (4, 5), condiment shaker (1, 2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pie (1), sofa (2)
+Act: open fridge 1
+You open fridge. You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1), sofa (2)
+Think: I find wine 1. Now, I need to remember its location.
+OK.
+Act: go to kitchen cabinet 1
+You arrive at the kitchen cabinet (1). The kitchen cabinet (1) is closed. You see cell phone (2), cereal (1), condiment bottle (1, 2), cutlets (1), dishwasher (1), dishwashing liquid (1), faucet (1), kitchen cabinet (1, 2, 6, 7, 8), kitchen counter (1), microwave oven (1), minced meat (1), sink (1), toaster (1), washing sponge (1)
+Act: open kitchen cabinet 1
+You open kitchen cabinet. You see cell phone (2), cereal (1), condiment bottle (1, 2), cutlets (1), dishwasher (1), dishwashing liquid (1), faucet (1), kitchen cabinet (1, 2, 6, 7, 8), kitchen counter (1), microwave oven (1), minced meat (1), sink (1), toaster (1), washing sponge (1)
+Think: I find cupcake 1. Now, I need to remember its location.
+OK.
+Act: go to kitchen cabinet 2
+You arrive at the kitchen cabinet (2). The kitchen cabinet (2) is closed. You see cell phone (2), cereal (1), chocolate syrup (1), condiment bottle (1, 2), cutlets (1), dishwasher (1), kitchen cabinet (1, 2, 3, 7, 8), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), sink (1), toaster (1), washing sponge (1)
+Act: open kitchen cabinet 2
+You open kitchen cabinet. You see cell phone (2), cereal (1), chocolate syrup (1), condiment bottle (1, 2), cutlets (1), dishwasher (1), kitchen cabinet (1, 2, 3, 7, 8), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), sink (1), toaster (1), washing sponge (1)
+Think: I find pound cake 1. Now, I need to remember its location.
+OK.
+Act: go to kitchen cabinet 3
+You arrive at the kitchen cabinet (3). The kitchen cabinet (3) is closed. You see cell phone (2), cereal (1), chocolate syrup (1), condiment bottle (1, 2), cutlets (1), dishwasher (1), kitchen cabinet (1, 2, 3, 4), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), mug (2)
+Act: open kitchen cabinet 3
+You open kitchen cabinet. You see cell phone (2), cereal (1), chair (5), chocolate syrup (1), condiment bottle (1, 2), cutlets (1), dishwasher (1), kitchen cabinet (1, 2, 3, 4), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), mug (2), pancake (2)
+Think: I find apple 1. Now, I need to remember its location.
+OK.
+Act: go to kitchen cabinet 4
+You arrive at the kitchen cabinet (4). The kitchen cabinet (4) is closed. You see cereal (1), chocolate syrup (1), cooking pot (1), cutlets (1), dishwasher (1), kitchen cabinet (2, 3, 4), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), mug (2), pancake (2), stove (1)
+Act: open kitchen cabinet 4
+You open kitchen cabinet. You see cereal (1), chair (2), chocolate syrup (1), cooking pot (1), cutlets (1), dishwasher (1), kitchen cabinet (2, 3, 4), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), mug (2), pancake (2), stove (1)
+Think: I find coffee pot 1. Now, I need to remember its location.
+OK.
+Think: Now, I need to remove all that are already on the kitchen table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: Now, I need to grab as much as I can hold by going to remembered locations.
+OK.
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1), sofa (2)
+Think: I grab wine 1.
+OK.
+Act: go to kitchen cabinet 1
+You arrive at the kitchen cabinet (1). The kitchen cabinet (1) is open. You see cell phone (2), cereal (1), condiment bottle (1, 2), cutlets (1), dishwasher (1), dishwashing liquid (1), faucet (1), kitchen cabinet (1, 2, 6, 7, 8), kitchen counter (1), microwave oven (1), minced meat (1), sink (1), toaster (1), washing sponge (1)
+Think: I grab cupcake 1.
+OK.
+Act: go to kitchen cabinet 2
+You arrive at the kitchen cabinet (2). The kitchen cabinet (2) is open. You see cell phone (2), cereal (1), chocolate syrup (1), condiment bottle (1, 2), cutlets (1), dishwasher (1), kitchen cabinet (1, 2, 3, 7, 8), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), pancake (2), sink (1), toaster (1), washing sponge (1)
+Think: I grab pound cake 1.
+OK.
+Act: go to kitchen cabinet 3
+You arrive at the kitchen cabinet (3). The kitchen cabinet (3) is open. You see cell phone (2), cereal (1), chocolate syrup (1), condiment bottle (1, 2), cutlets (1), dishwasher (1), kitchen cabinet (1, 2, 3, 4), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), mug (2), pancake (2)
+Think: I grab apple 1.
+OK.
+Act: go to kitchen cabinet 4
+You arrive at the kitchen cabinet (4). The kitchen cabinet (4) is open. You see cereal (1), chocolate syrup (1), cooking pot (1), cutlets (1), dishwasher (1), kitchen cabinet (2, 3, 4), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), mug (2), pancake (2), stove (1)
+Think: I grab coffee pot 1.
+OK.
+Think: Now, I need to go to kitchen table deposit at the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: Now, I need to put down wine 1.
+OK.
+Act: put down coffee pot 2
+You do not grab the coffee pot.
+Think: Now, I need to put down cupcake 1.
+OK.
+Act: put down cupcake 2
+You do not grab the cupcake.
+Think: Now, I need to put down pound cake 1.
+OK.
+Act: put down pound cake 1
+You do not grab the pound cake.
+Think: Now, I need to put down apple 1.
+OK.
+Act: put down coffee pot 2
+You do not grab the coffee pot.
+Think: Now, I need to put down coffee pot 1.
+OK.
+Act: put down coffee pot 2
+You do not grab the coffee pot.
+Think: Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Think: I find wine 1, cupcake 1, pound cake 1, apple 1, and coffee pot 1 on the kitchen table. Now, I need to check if any elements aren't yet on the table.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (2), condiment shaker (1, 2), cupcake (2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (1)
+Max steps

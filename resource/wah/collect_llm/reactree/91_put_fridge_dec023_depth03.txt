@@ -1,0 +1,9 @@
+Your primary goal is to: Please store the cupcake and pudding in the fridge, Robot.
+To achieve this, you should perform your sibling tasks in parallel. At this level, your sibling tasks are: store the cupcake in the fridge, and store the pudding in the fridge.
+Your task is to: store the pudding in the fridge
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (2), faucet (2), fridge (1), kitchen cabinet (1, 2, 3, 4), kitchen counter (1), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1), tv (1).
+Think: To solve the task, I need to accomplish 2 subgoals sequentially. Find and pick up the pudding, and find the fridge and put down the pudding.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up the pudding, find the fridge and put down the pudding

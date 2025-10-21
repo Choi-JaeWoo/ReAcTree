@@ -1,0 +1,13 @@
+Your primary goal is to: load the wine glass into the dishwasher
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up the wine glass, and find the dishwasher and put down the wine glass.
+Your task is to: find and pick up the wine glass
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a bedroom (1). Looking quickly around the room, you see bed (1), bookshelf (2), cabinet (1), chair (1), coffee table (1), computer (1), desk (1), nightstand (1, 2), sofa (1).
+Think: To solve the task, I need to recall the location of the wine glass
+OK.
+Act: recall location of wine glass
+You have not seen wine glass before.
+Think: Now, I need to find and pick up the wine glass in one of the rooms. The wine glass is more likely to appear in kitchen 1, living room 1, or bedroom 1. I can check each room one by one until I find and pick up the wine glass.
+OK.
+Expand:
+- control flow: fallback
+- subgoals: find and pick up the wine glass in kitchen 1, find and pick up the wine glass in living room 1, find and pick up the wine glass in bedroom 1

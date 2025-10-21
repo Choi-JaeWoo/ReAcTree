@@ -1,0 +1,19 @@
+Your primary goal is to: find and pick up the cupcake
+To achieve this, you should perform your sibling tasks using a fallback strategy. At this level, your sibling tasks are: find and pick up the cupcake in kitchen 1, find and pick up the cupcake in living room 1, and find and pick up the cupcake in bedroom 1.
+Your task is to: find and pick up the cupcake in bedroom 1
+You are in the house, and there are 5 rooms: bathroom (1), bedroom (1, 2), kitchen (1), living room (1). You are in the middle of a living room (1). Looking quickly around the room, you see bookshelf (3, 4), coffee table (1), sofa (1), tv (1).
+Think: I am in living room 1. Now, I need to go to bedroom 1.
+OK.
+Act: go to bedroom 1
+You move to the bedroom (1). Looking quickly around the room, you see bed (1), bookshelf (5), chair (2), desk (1), nightstand (1).
+Think: Now, I need to find the cupcake. The cupcake is more likely to appear on desk (1), or in nightstand (1). I can check each place one by one until I find the cupcake.
+OK.
+Act: go to desk 1
+You arrive at the desk (1). You see book (18), bookshelf (5), chair (2), desk (1), folder (2, 3), plate (8)
+Act: go to nightstand 1
+You arrive at the nightstand (1). The nightstand (1) is closed. You see bed (1), nightstand (1)
+Act: open nightstand 1
+You open nightstand. You see bed (1), nightstand (1)
+Think: I cannot find the cupcake in bedroom 1.
+OK.
+Act: failure

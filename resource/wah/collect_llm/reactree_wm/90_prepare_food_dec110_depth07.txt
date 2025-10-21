@@ -1,0 +1,25 @@
+Your primary goal is to: find and pick up the pancake
+To achieve this, you should perform your sibling tasks using a fallback strategy. At this level, your sibling tasks are: find and pick up the pancake in kitchen 1, find and pick up the pancake in living room 1, and find and pick up the pancake in bedroom 1.
+Your task is to: find and pick up the pancake in bedroom 1
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a living room (1). Looking quickly around the room, you see bookshelf (3), chair (2), closet (1), coffee table (2), computer (2), desk (2), sofa (2), tv (1).
+Think: I am in living room 1. Now, I need to go to bedroom 1.
+OK.
+Act: go to bedroom 1
+You move to the bedroom (1). Looking quickly around the room, you see bed (1), bookshelf (2), cabinet (1), chair (1), coffee table (1), computer (1), desk (1), nightstand (1, 2), sofa (1).
+Think: Now, I need to find the pancake. The pancake is more likely to appear on nightstand (1, 2), or in cabinet (1). I can check each place one by one until I find the pancake.
+OK.
+Act: go to nightstand 1
+You arrive at the nightstand (1). The nightstand (1) is closed. You see bed (1), nightstand (1)
+Act: open nightstand 1
+You open nightstand. You see bed (1), nightstand (1)
+Act: go to nightstand 2
+You arrive at the nightstand (2). The nightstand (2) is closed. You see bed (1), chair (1), face cream (2), nightstand (2)
+Act: open nightstand 2
+You open nightstand. You see bed (1), chair (1), face cream (2), nightstand (2)
+Act: go to cabinet 1
+You arrive at the cabinet (1). The cabinet (1) is closed. You see bookshelf (2), cabinet (1), cell phone (2)
+Act: open cabinet 1
+You open cabinet. You see apple (3), bookshelf (2), cabinet (1), cell phone (2), wine (2)
+Think: I cannot find the pancake in bedroom 1.
+OK.
+Act: failure

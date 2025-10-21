@@ -1,0 +1,7 @@
+Your task is to: bring a pudding, a pound cake, a cup cake and a glass of juice and put them on the table
+You are in the house, and there are 5 rooms: bathroom (1), bedroom (1, 2), kitchen (1), living room (1). You are in the middle of a living room (1). Looking quickly around the room, you see bookshelf (3, 4), coffee table (1), sofa (1), tv (1).
+Think: To solve the task, I need to accomplish 4 subgoals independently. Move the pudding on the table, move the pound cake on the table, move the cup cake on the table, and move the glass of juice on the table.
+OK.
+Expand:
+- control flow: parallel
+- subgoals: move the pudding on the table, move the pound cake on the table, move the cup cake on the table, and move the glass of juice on the table

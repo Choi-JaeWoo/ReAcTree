@@ -1,0 +1,23 @@
+Your primary goal is to: find and pick up the cutlery fork
+To achieve this, you should perform your sibling tasks using a fallback strategy. At this level, your sibling tasks are: find and pick up the cutlery fork in kitchen 1, find and pick up the cutlery fork in living room 1, find and pick up the cutlery fork in bedroom 1, and find and pick up the cutlery fork in bedroom 2.
+Your task is to: find and pick up the cutlery fork in bedroom 2
+You are in the house, and there are 5 rooms: bathroom (1), bedroom (1, 2), kitchen (1), living room (1). You are in the middle of a bedroom (1). Looking quickly around the room, you see bed (1), bookshelf (5), chair (2), desk (1), nightstand (1).
+Think: I am in bedroom 1. Now, I need to go to bedroom 2.
+OK.
+Act: go to bedroom 2
+You move to the bedroom (2). Looking quickly around the room, you see bed (2), bookshelf (6), cabinet (1), chair (3), closet (1), computer (1), desk (2), garbage can (1), nightstand (2).
+Think: Now, I need to find the cutlery fork. The cutlery fork is more likely to appear on desk (2), or in cabinet (1). I can check each place one by one, starting from desk 2, until I find the cutlery fork.
+OK.
+Act: go to desk 2
+You arrive at the desk (2). You see chair (3), computer (1), cupcake (4), desk (2), mug (1)
+Act: go to cabinet 1
+You arrive at the cabinet (1). The cabinet (1) is closed. You see cabinet (1)
+Act: open cabinet 1
+You open cabinet. You see cabinet (1), cutlery fork (3), water glass (3)
+Think: I find cutlery fork 3. Now, I need to pick it up.
+OK.
+Act: pick up cutlery fork 3
+You pick up cutlery fork. You hold cutlery fork (3).
+Think: Now I accomplish the goal.
+OK.
+Act: done

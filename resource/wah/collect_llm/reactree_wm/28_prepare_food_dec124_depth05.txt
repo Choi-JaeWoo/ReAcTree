@@ -1,0 +1,21 @@
+Your primary goal is to: move the coffee on the table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up the coffee, and find the table and put down the coffee.
+Your task is to: find and pick up the coffee
+You are in the house, and there are 5 rooms: bathroom (1), bedroom (1, 2), kitchen (1), living room (1). You are in the middle of a bedroom (1). Looking quickly around the room, you see bed (1), bookshelf (5), chair (2), desk (1), nightstand (1).
+Think: To solve the task, I need to recall location of the coffee.
+OK.
+Act: recall location of coffee pot
+You saw coffee pot 1 near kitchen cabinet 6 in kitchen 1.
+Think: I can find coffee pot 1 near kitchen cabinet 6 in kitchen 1. I can see kitchen cabinet 6.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bench (1, 2, 3, 4), bookshelf (1, 2), chair (1), dishwasher (1), faucet (1), fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (1, 3), kitchen table (1, 2), microwave oven (1), sink (1), stove (1), toaster (1).
+Act: go to kitchen cabinet 6
+You arrive at the kitchen cabinet (6). The kitchen cabinet (6) is open. You see apple (1), coffee pot (1), dishwasher (1), fridge (1), kitchen cabinet (5, 6, 7), pancake (1, 2), pudding (1), toaster (1)
+Think: I find coffee pot 1. Now, I need to pick it up.
+OK.
+Act: pick up coffee pot 1
+You pick up coffee pot. You hold coffee pot (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,23 @@
+Your primary goal is to: find and pick up the pudding
+To achieve this, you should perform your sibling tasks using a fallback strategy. At this level, your sibling tasks are: find and pick up the pudding in kitchen 1, find and pick up the pudding in living room 1, and find and pick up the pudding in bedroom 1.
+Your task is to: find and pick up the pudding in living room 1
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (1), dishwasher (1), faucet (2), fridge (1), garbage can (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (1, 3), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1).
+Think: I am in kitchen 1. Now, I need to go to living room 1.
+OK.
+Act: go to living room 1
+You move to the living room (1). Looking quickly around the room, you see bookshelf (3), chair (2), closet (1), coffee table (2), computer (2), desk (2), sofa (2), tv (1).
+Think: Now, I need to find the pudding. The pudding is more likely to appear on coffee table (2), desk (2). I can check each place one by one, starting from coffee table 2, until I find the pudding.
+OK.
+Act: go to coffee table 2
+You arrive at the coffee table (2). You see coffee table (2), juice (1), pudding (3), sofa (2), wine (1)
+Act: go to desk 2
+You arrive at the desk (2). You see book (6), chair (2), computer (2), desk (2)
+Act: go to coffee table 2
+You arrive at the coffee table (2). You see coffee table (2), juice (1), pudding (3), sofa (2), wine (1)
+Think: I find pudding 3. Now, I need to pick it up.
+OK.
+Act: pick up pudding 3
+You pick up pudding. You hold pudding (3).
+Think: Now I accomplish the goal.
+OK.
+Act: done

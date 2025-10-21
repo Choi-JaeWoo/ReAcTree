@@ -1,0 +1,23 @@
+Your primary goal is to: and go get juice from the fridge and put it on the kitchen table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and open the fridge, and and move the juice on the kitchen table.
+Your task is to: find and open the fridge
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a kitchen (1). Looking quickly around the room, you see bookshelf (1), chair (2, 3, 4, 5), dishwasher (1), faucet (1), fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (1), kitchen table (1), microwave oven (1), sink (1), sofa (2), stove (1), toaster (1), tv (2).
+Think: Now, I need to find the fridge. The fridge is more likely to appear in kitchen 1.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bookshelf (1), chair (2, 3, 4, 5), dishwasher (1), faucet (1), fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (1), kitchen table (1), microwave oven (1), sink (1), sofa (2), stove (1), toaster (1), tv (2).
+Think: I can see fridge 1.
+OK.
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see apple (1), bananas (1, 2), bowl (2), chair (4, 5), coffee pot (1), condiment shaker (1, 2), cupcake (1), fridge (1), juice (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (2), pudding (1), sofa (2)
+Think: Fridge 1 is open. Now, I need to find the juice. The juice is more likely to appear on kitchen table (1), or in fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8). I can check each place one by one, starting from kitchen table 1, until I find the juice.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1), bananas (1, 2), bowl (2), chair (4, 5), coffee pot (1), condiment shaker (1, 2), cupcake (1), fridge (1), juice (1), kitchen cabinet (5, 6), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), pound cake (2), pudding (1)
+Think: I find juice 1. Now, I need to pick it up.
+OK.
+Act: pick up juice 1
+You pick up juice. You hold juice (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

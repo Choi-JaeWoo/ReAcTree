@@ -1,0 +1,7 @@
+Your task is to: Home service robot, please put 1 water glass and 1 plate into the dishwasher. Once done turn on the dishwasher.
+You are in the house, and there are 5 rooms: bathroom (1), bedroom (1, 2), kitchen (1), living room (1). You are in the middle of a kitchen (1). Looking quickly around the room, you see bench (1, 2, 3, 4), bookshelf (1, 2), chair (1), dishwasher (1), faucet (1), fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (2), kitchen table (1, 2), microwave oven (1), sink (1), stove (1), toaster (1).
+Think: To solve the task, I need to accomplish 2 subgoals independently. Move the water glass in the dishwasher, and move the plate in the dishwasher.
+OK.
+Expand:
+- control flow: parallel
+- subgoals: move the water glass in the dishwasher, move the plate in the dishwasher

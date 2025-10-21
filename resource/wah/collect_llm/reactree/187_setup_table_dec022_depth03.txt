@@ -1,0 +1,9 @@
+Your primary goal is to: Please set the table with one cutlery fork, one wine glass and one water glass
+To achieve this, you should perform your sibling tasks in parallel. At this level, your sibling tasks are: move the cutlery fork on the kitchen table, move the wine glass on the kitchen table, and and move the water glass on the kitchen table.
+Your task is to: move the wine glass on the kitchen table
+You are in the house, and there are 5 rooms: bathroom (1), bedroom (1, 2), kitchen (1), living room (1). You are in the middle of a kitchen (1). Looking quickly around the room, you see bench (1, 2, 3, 4), bookshelf (1, 2), chair (1), dishwasher (1), faucet (1), fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (1, 2, 3), kitchen table (1, 2), microwave oven (1), sink (1), stove (1), toaster (1).
+Think: To solve the task, I need to accomplish 2 subgoals sequentially. Find and pick up the wine glass, and find the kitchen table and put down the wine glass.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up the wine glass, find the kitchen table and put down the wine glass

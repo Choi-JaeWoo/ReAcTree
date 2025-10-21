@@ -1,0 +1,9 @@
+Your primary goal is to: For dinner get a glass of water , place the plates on the dinning table, then add 1 cutlery fork.
+To achieve this, you should perform your sibling tasks in parallel. At this level, your sibling tasks are: get a glass of water, place the plates on the dinning table, and add 1 cutlery fork.
+Your task is to: get a glass of water
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a living room (1). Looking quickly around the room, you see bookshelf (3), cabinet (1), chair (3), closet (2), coffee table (2), computer (1), desk (1), sofa (1), tv (2).
+Think: To solve the task, I need to find and pick up the glass of water in one of the rooms. The glass of water is more likely to appear in kitchen 1, living room 1, or bedroom 1. I can check each room one by one until I find and pick up the glass of water.
+OK.
+Expand:
+- control flow: fallback
+- subgoals: find and pick up the glass of water in kitchen 1, find and pick up the glass of water in living room 1, find and pick up the glass of water in bedroom 1

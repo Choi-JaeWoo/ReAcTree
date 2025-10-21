@@ -1,0 +1,9 @@
+Your primary goal is to: Please, put 1 wine glass, 1 water glass, and 1 plate on the table
+To achieve this, you should perform your sibling tasks in parallel. At this level, your sibling tasks are: move the wine glass on the table, move the water glass on the table, and move the plate on the table.
+Your task is to: move the plate on the table
+You are in the house, and there are 5 rooms: bathroom (1), bedroom (1, 2), kitchen (1), living room (1). You are in the middle of a living room (1). Looking quickly around the room, you see bookshelf (3, 4), coffee table (1), sofa (1), tv (1).
+Think: To solve the task, I need to accomplish 2 subgoals sequentially. Find and pick up the plate, and find the table and put down the plate.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up the plate, find the table and put down the plate

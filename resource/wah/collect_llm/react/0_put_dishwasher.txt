@@ -1,0 +1,345 @@
+Your task is to: Collect in the dishwasher the silverware, the plate and glass before turning it on
+You are in the house, and there are 5 rooms: bathroom (1), bedroom (1, 2), kitchen (1), living room (1). You are in the middle of a bathroom (1). Looking quickly around the room, you see bathroom cabinet (1), bathroom counter (1), faucet (2), sink (2), toilet (1), towel rack (1, 2, 3), washing machine (1).
+Think: To solve the task, I need to find and open the dishwasher. And I need to find and pick up the silverware, then put it in the dishwasher. And I need to find and pick up the plate, then put it in the dishwasher. And I need to find and pick up the glass, then put it in the dishwasher. And I need to close and turn on the dishwasher.
+OK.
+Think: First, I need to find the dishwasher. The dishwasher is more likely to appear in kitchen 1.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bench (1, 2, 3, 4), bookshelf (1, 2), chair (1), dishwasher (1), faucet (1), fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (2), kitchen table (1, 2), microwave oven (1), sink (1), stove (1), toaster (1).
+Think: I can see dishwasher 1.
+OK.
+Act: go to dishwasher 1
+You arrive at the dishwasher (1). The dishwasher (1) is closed. You see bananas (1, 2), bench (4), bowl (7), coffee pot (1), dishwasher (1), kitchen cabinet (6, 7), toaster (1)
+Think: Dishwasher 1 is closed. Now, I need to open it.
+OK.
+Act: open dishwasher 1
+You open dishwasher. You see bananas (1, 2), bench (4), bowl (7), coffee pot (1), dishwasher (1), kitchen cabinet (6, 7), kitchen counter (1), toaster (1)
+Think: I open dishwasher 1. Now, I need to find the silverware. The silverware is more likely to appear on kitchen table (1, 2) or in fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8). I can check each place one by one, starting from kitchen table 1, until I find the silverware.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bench (2), condiment bottle (1, 2), condiment shaker (3, 4), cutlery knife (3, 10), juice (2), kitchen table (1), water glass (1)
+Act: go to kitchen table 2
+You arrive at the kitchen table (2). You see bench (3), condiment bottle (3, 4), condiment shaker (1, 2), cutlery knife (4, 5), juice (1), kitchen table (2)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is closed. You see chair (1), fridge (1), kitchen cabinet (5), kitchen counter (1), toaster (1)
+Act: open fridge 1
+You open fridge. You see chair (1), cutlery fork (1), fridge (1), kitchen cabinet (5), kitchen counter (1), toaster (1), water glass (2)
+Act: go to kitchen cabinet 1
+You arrive at the kitchen cabinet (1). The kitchen cabinet (1) is closed. You see bananas (1, 2), bowl (7), cooking pot (1), cutlery knife (1, 2), faucet (1), frying pan (1), kitchen cabinet (1, 2, 8), kitchen counter (1, 2), minced meat (1), salmon (1), sink (1), stove (1)
+Act: open kitchen cabinet 1
+You open kitchen cabinet. You see bananas (1, 2), bowl (7), cooking pot (1), cutlery knife (1, 2), faucet (1), frying pan (1), kitchen cabinet (1, 2, 8), kitchen counter (1, 2), minced meat (1), salmon (1), sink (1), stove (1)
+Act: go to kitchen cabinet 2
+You arrive at the kitchen cabinet (2). The kitchen cabinet (2) is closed. You see cooking pot (1), cutlery knife (1, 2), faucet (1), kitchen cabinet (1, 2, 3), kitchen counter (2), milk (1, 2), minced meat (1), salmon (1), sink (1), stove (1)
+Act: open kitchen cabinet 2
+You open kitchen cabinet. You see cooking pot (1), cutlery knife (1, 2), faucet (1), kitchen cabinet (1, 2, 3), kitchen counter (2), milk (1, 2), minced meat (1), salmon (1), sink (1), stove (1), wine glass (1)
+Act: go to kitchen cabinet 3
+You arrive at the kitchen cabinet (3). The kitchen cabinet (3) is closed. You see cutlery knife (1, 2), cutlets (1), faucet (1), kitchen cabinet (1, 2, 3, 4), kitchen counter (2), microwave oven (1), milk (1, 2), minced meat (1), salmon (1), sink (1), wine glass (1)
+Act: open kitchen cabinet 3
+You open kitchen cabinet. You see cutlery knife (1, 2), cutlets (1), faucet (1), kitchen cabinet (1, 2, 3, 4), kitchen counter (2), microwave oven (1), milk (1, 2), minced meat (1), salmon (1), sink (1), wine glass (1)
+Act: go to kitchen cabinet 4
+You arrive at the kitchen cabinet (4). The kitchen cabinet (4) is closed. You see bowl (1, 2, 3, 4, 5), cutlets (1), faucet (1), kitchen cabinet (2, 3, 4), kitchen counter (2), microwave oven (1), milk (1, 2), minced meat (1), sink (1), wine glass (1)
+Act: open kitchen cabinet 4
+You open kitchen cabinet. You see bowl (1, 2, 3, 4, 5), cutlets (1), faucet (1), kitchen cabinet (2, 3, 4), kitchen counter (2), microwave oven (1), milk (1, 2), minced meat (1), sink (1), wine glass (1)
+Act: go to kitchen cabinet 5
+You arrive at the kitchen cabinet (5). The kitchen cabinet (5) is closed. You see chair (1), coffee pot (1), cutlery fork (1), dishwasher (1), fridge (1), kitchen cabinet (5, 6), kitchen counter (1), toaster (1), water glass (2)
+Act: open kitchen cabinet 5
+You open kitchen cabinet. You see chair (1), coffee pot (1), cutlery fork (1), dishwasher (1), fridge (1), kitchen cabinet (5, 6), kitchen counter (1), toaster (1), water glass (2)
+Act: go to kitchen cabinet 6
+You arrive at the kitchen cabinet (6). The kitchen cabinet (6) is closed. You see coffee pot (1), cutlery fork (1), dishwasher (1), fridge (1), kitchen cabinet (5, 6, 7), kitchen counter (1), toaster (1), water glass (2)
+Act: open kitchen cabinet 6
+You open kitchen cabinet. You see coffee pot (1), cutlery fork (1), dishwasher (1), fridge (1), kitchen cabinet (5, 6, 7), kitchen counter (1), toaster (1), water glass (2)
+Act: go to kitchen cabinet 7
+You arrive at the kitchen cabinet (7). The kitchen cabinet (7) is closed. You see bananas (1, 2), bowl (7), coffee pot (1), dishwasher (1), kitchen cabinet (5, 6, 7, 8), kitchen counter (1), toaster (1)
+Act: open kitchen cabinet 7
+You open kitchen cabinet. You see bananas (1, 2), bowl (7), coffee pot (1), dishwasher (1), kitchen cabinet (5, 6, 7, 8), kitchen counter (1), toaster (1)
+Act: go to kitchen cabinet 8
+You arrive at the kitchen cabinet (8). The kitchen cabinet (8) is closed. You see bananas (1, 2), bowl (7), coffee pot (1), cooking pot (1), dishwasher (1), frying pan (1), kitchen cabinet (6, 7, 8), kitchen counter (1), stove (1), toaster (1)
+Act: open kitchen cabinet 8
+You open kitchen cabinet. You see bananas (1, 2), bowl (7), coffee pot (1), cooking pot (1), dishwasher (1), frying pan (1), kitchen cabinet (6, 7, 8), kitchen counter (1), stove (1), toaster (1)
+Think: I cannot find the silverware in kitchen 1. The silverware is more likely to appear in living room 1.
+OK.
+Act: go to living room 1
+You move to the living room (1). Looking quickly around the room, you see bookshelf (3, 4), coffee table (1), sofa (1), tv (1).
+Think: I move to living room 1. The silverware is more likely to appear on coffee table (1).
+OK.
+Act: go to coffee table 1
+You arrive at the coffee table (1). You see coffee table (1), cupcake (1, 2, 3), plate (1)
+Think: I cannot find silverware in living room 1. The silverware is more likely to appear in bedroom 1.
+OK.
+Act: go to bedroom 1
+You move to the bedroom (1). Looking quickly around the room, you see bed (1), bookshelf (5), chair (2), desk (1), nightstand (1).
+Think: I move to bedroom 1. The silverware is more likely to appear on desk (1).
+OK.
+Act: go to desk 1
+You arrive at the desk (1). You see book (18), bookshelf (5), chair (2), desk (1), folder (2, 3), pound cake (1)
+Think: I cannot find silverware in bedroom 1. The silverware is more likely to appear in bedroom 2.
+OK.
+Act: go to bedroom 2
+You move to the bedroom (2). Looking quickly around the room, you see bed (2), bookshelf (6), cabinet (1), chair (3), closet (1), computer (1), desk (2), garbage can (1), nightstand (2).
+Think: I move to bedroom 2. The silverware is more likely to appear on desk (2), or in cabinet (1). I can check each place one by one, starting from desk 2, until I find the silverware.
+OK.
+Act: go to desk 2
+You arrive at the desk (2). You see chair (3), computer (1), cupcake (4), desk (2), light switch (5), mug (1)
+Act: go to cabinet 1
+You arrive at the cabinet (1). The cabinet (1) is closed. You see cabinet (1)
+Act: open cabinet 1
+You open cabinet. You see cabinet (1), plate (2)
+Think: I cannot find silverware in bedroom 2. The silverware is more likely to appear in bathroom 1.
+OK.
+Act: go to bathroom 1
+You move to the bathroom (1). Looking quickly around the room, you see bathroom cabinet (1), bathroom counter (1), faucet (2), sink (2), toilet (1), towel rack (1, 2, 3), washing machine (1).
+Think: I move to bathroom 1. The silverware is more likely to appear on bathroom counter (1).
+OK.
+Act: go to bathroom counter 1
+You arrive at the bathroom counter (1). You see bathroom cabinet (1), bathroom counter (1), face cream (2), faucet (2), sink (2)
+Think: I cannot find silverware in bathroom 1. The silverware is more likely to appear in living room 1.
+OK.
+Act: go to living room 1
+You move to the living room (1). Looking quickly around the room, you see bookshelf (3, 4), coffee table (1), sofa (1), tv (1).
+Think: I move to living room 1. The silverware is more likely to appear on coffee table (1).
+OK.
+Act: go to coffee table 1
+You arrive at the coffee table (1). You see coffee table (1), cupcake (1, 2, 3), plate (1)
+Think: I cannot find silverware in living room 1. The silverware is more likely to appear in bedroom 1.
+OK.
+Act: go to bedroom 1
+You move to the bedroom (1). Looking quickly around the room, you see bed (1), bookshelf (5), chair (2), desk (1), nightstand (1).
+Think: I move to bedroom 1. The silverware is more likely to appear on desk (1).
+OK.
+Act: go to desk 1
+You arrive at the desk (1). You see book (18), bookshelf (5), chair (2), desk (1), folder (2, 3), pound cake (1)
+Think: I cannot find silverware in bedroom 1. The silverware is more likely to appear in bedroom 2.
+OK.
+Act: go to bedroom 2
+You move to the bedroom (2). Looking quickly around the room, you see bed (2), bookshelf (6), cabinet (1), chair (3), closet (1), computer (1), desk (2), garbage can (1), nightstand (2).
+Think: I move to bedroom 2. The silverware is more likely to appear on desk (2), or in cabinet (1). I can check each place one by one, starting from desk 2, until I find the silverware.
+OK.
+Act: go to desk 2
+You arrive at the desk (2). You see chair (3), computer (1), cupcake (4), desk (2), mug (1)
+Act: go to cabinet 1
+You arrive at the cabinet (1). The cabinet (1) is open. You see cabinet (1), light switch (5), plate (2)
+Think: I cannot find silverware in bedroom 2. The silverware is more likely to appear in bathroom 1.
+OK.
+Act: go to bathroom 1
+You move to the bathroom (1). Looking quickly around the room, you see bathroom cabinet (1), bathroom counter (1), faucet (2), sink (2), toilet (1), towel rack (1, 2, 3), washing machine (1).
+Think: I move to bathroom 1. The silverware is more likely to appear on bathroom counter (1).
+OK.
+Act: go to bathroom counter 1
+You arrive at the bathroom counter (1). You see bathroom cabinet (1), bathroom counter (1), face cream (2), faucet (2), sink (2)
+Think: I cannot find silverware in bathroom 1. The silverware is more likely to appear in living room 1.
+OK.
+Act: go to living room 1
+You move to the living room (1). Looking quickly around the room, you see bookshelf (3, 4), coffee table (1), sofa (1), tv (1).
+Think: I move to living room 1. The silverware is more likely to appear on coffee table (1).
+OK.
+Act: go to coffee table 1
+You arrive at the coffee table (1). You see coffee table (1), cupcake (1, 2, 3), plate (1)
+Think: I cannot find silverware in living room 1. The silverware is more likely to appear in bedroom 1.
+OK.
+Act: go to bedroom 1
+You move to the bedroom (1). Looking quickly around the room, you see bed (1), bookshelf (5), chair (2), desk (1), nightstand (1).
+Think: I move to bedroom 1. The silverware is more likely to appear on desk (1).
+OK.
+Act: go to desk 1
+You arrive at the desk (1). You see book (18), bookshelf (5), chair (2), desk (1), folder (2, 3), pound cake (1)
+Think: I cannot find silverware in bedroom 1. The silverware is more likely to appear in bedroom 2.
+OK.
+Act: go to bedroom 2
+You move to the bedroom (2). Looking quickly around the room, you see bed (2), bookshelf (6), cabinet (1), chair (3), closet (1), computer (1), desk (2), garbage can (1), nightstand (2).
+Think: I move to bedroom 2. The silverware is more likely to appear on desk (2), or in cabinet (1). I can check each place one by one, starting from desk 2, until I find the silverware.
+OK.
+Act: go to desk 2
+You arrive at the desk (2). You see chair (3), computer (1), cupcake (4), desk (2), mug (1)
+Act: go to cabinet 1
+You arrive at the cabinet (1). The cabinet (1) is open. You see cabinet (1), light switch (5), plate (2)
+Think: I cannot find silverware in bedroom 2. The silverware is more likely to appear in bathroom 1.
+OK.
+Act: go to bathroom 1
+You move to the bathroom (1). Looking quickly around the room, you see bathroom cabinet (1), bathroom counter (1), faucet (2), sink (2), toilet (1), towel rack (1, 2, 3), washing machine (1).
+Think: I move to bathroom 1. The silverware is more likely to appear on bathroom counter (1).
+OK.
+Act: go to bathroom counter 1
+You arrive at the bathroom counter (1). You see bathroom cabinet (1), bathroom counter (1), face cream (2), faucet (2), sink (2)
+Think: I cannot find silverware in bathroom 1. The silverware is more likely to appear in living room 1.
+OK.
+Act: go to living room 1
+You move to the living room (1). Looking quickly around the room, you see bookshelf (3, 4), coffee table (1), sofa (1), tv (1).
+Think: I move to living room 1. The silverware is more likely to appear on coffee table (1).
+OK.
+Act: go to coffee table 1
+You arrive at the coffee table (1). You see coffee table (1), cupcake (1, 2, 3), plate (1)
+Think: I cannot find silverware in living room 1. The silverware is more likely to appear in bedroom 1.
+OK.
+Act: go to bedroom 1
+You move to the bedroom (1). Looking quickly around the room, you see bed (1), bookshelf (5), chair (2), desk (1), nightstand (1).
+Think: I move to bedroom 1. The silverware is more likely to appear on desk (1).
+OK.
+Act: go to desk 1
+You arrive at the desk (1). You see book (18), bookshelf (5), chair (2), desk (1), folder (2, 3), pound cake (1)
+Think: I cannot find silverware in bedroom 1. The silverware is more likely to appear in bedroom 2.
+OK.
+Act: go to bedroom 2
+You move to the bedroom (2). Looking quickly around the room, you see bed (2), bookshelf (6), cabinet (1), chair (3), closet (1), computer (1), desk (2), garbage can (1), nightstand (2).
+Think: I move to bedroom 2. The silverware is more likely to appear on desk (2), or in cabinet (1). I can check each place one by one, starting from desk 2, until I find the silverware.
+OK.
+Act: go to desk 2
+You arrive at the desk (2). You see chair (3), computer (1), cupcake (4), desk (2), mug (1)
+Act: go to cabinet 1
+You arrive at the cabinet (1). The cabinet (1) is open. You see cabinet (1), light switch (5), plate (2)
+Think: I cannot find silverware in bedroom 2. The silverware is more likely to appear in bathroom 1.
+OK.
+Act: go to bathroom 1
+You move to the bathroom (1). Looking quickly around the room, you see bathroom cabinet (1), bathroom counter (1), faucet (2), sink (2), toilet (1), towel rack (1, 2, 3), washing machine (1).
+Think: I move to bathroom 1. The silverware is more likely to appear on bathroom counter (1).
+OK.
+Act: go to bathroom counter 1
+You arrive at the bathroom counter (1). You see bathroom cabinet (1), bathroom counter (1), face cream (2), faucet (2), sink (2)
+Think: I cannot find silverware in bathroom 1. The silverware is more likely to appear in living room 1.
+OK.
+Act: go to living room 1
+You move to the living room (1). Looking quickly around the room, you see bookshelf (3, 4), coffee table (1), sofa (1), tv (1).
+Think: I move to living room 1. The silverware is more likely to appear on coffee table (1).
+OK.
+Act: go to coffee table 1
+You arrive at the coffee table (1). You see coffee table (1), cupcake (1, 2, 3), plate (1)
+Think: I cannot find silverware in living room 1. The silverware is more likely to appear in bedroom 1.
+OK.
+Act: go to bedroom 1
+You move to the bedroom (1). Looking quickly around the room, you see bed (1), bookshelf (5), chair (2), desk (1), nightstand (1).
+Think: I move to bedroom 1. The silverware is more likely to appear on desk (1).
+OK.
+Act: go to desk 1
+You arrive at the desk (1). You see book (18), bookshelf (5), chair (2), desk (1), folder (2, 3), pound cake (1)
+Think: I cannot find silverware in bedroom 1. The silverware is more likely to appear in bedroom 2.
+OK.
+Act: go to bedroom 2
+You move to the bedroom (2). Looking quickly around the room, you see bed (2), bookshelf (6), cabinet (1), chair (3), closet (1), computer (1), desk (2), garbage can (1), nightstand (2).
+Think: I move to bedroom 2. The silverware is more likely to appear on desk (2), or in cabinet (1). I can check each place one by one, starting from desk 2, until I find the silverware.
+OK.
+Act: go to desk 2
+You arrive at the desk (2). You see chair (3), computer (1), cupcake (4), desk (2), mug (1)
+Act: go to cabinet 1
+You arrive at the cabinet (1). The cabinet (1) is open. You see cabinet (1), light switch (5), plate (2)
+Think: I cannot find silverware in bedroom 2. The silverware is more likely to appear in bathroom 1.
+OK.
+Act: go to bathroom 1
+You move to the bathroom (1). Looking quickly around the room, you see bathroom cabinet (1), bathroom counter (1), faucet (2), sink (2), toilet (1), towel rack (1, 2, 3), washing machine (1).
+Think: I move to bathroom 1. The silverware is more likely to appear on bathroom counter (1).
+OK.
+Act: go to bathroom counter 1
+You arrive at the bathroom counter (1). You see bathroom cabinet (1), bathroom counter (1), face cream (2), faucet (2), sink (2)
+Think: I cannot find silverware in bathroom 1. The silverware is more likely to appear in living room 1.
+OK.
+Act: go to living room 1
+You move to the living room (1). Looking quickly around the room, you see bookshelf (3, 4), coffee table (1), sofa (1), tv (1).
+Think: I move to living room 1. The silverware is more likely to appear on coffee table (1).
+OK.
+Act: go to coffee table 1
+You arrive at the coffee table (1). You see coffee table (1), cupcake (1, 2, 3), plate (1)
+Think: I cannot find silverware in living room 1. The silverware is more likely to appear in bedroom 1.
+OK.
+Act: go to bedroom 1
+You move to the bedroom (1). Looking quickly around the room, you see bed (1), bookshelf (5), chair (2), desk (1), nightstand (1).
+Think: I move to bedroom 1. The silverware is more likely to appear on desk (1).
+OK.
+Act: go to desk 1
+You arrive at the desk (1). You see book (18), bookshelf (5), chair (2), desk (1), folder (2, 3), pound cake (1)
+Think: I cannot find silverware in bedroom 1. The silverware is more likely to appear in bedroom 2.
+OK.
+Act: go to bedroom 2
+You move to the bedroom (2). Looking quickly around the room, you see bed (2), bookshelf (6), cabinet (1), chair (3), closet (1), computer (1), desk (2), garbage can (1), nightstand (2).
+Think: I move to bedroom 2. The silverware is more likely to appear on desk (2), or in cabinet (1). I can check each place one by one, starting from desk 2, until I find the silverware.
+OK.
+Act: go to desk 2
+You arrive at the desk (2). You see chair (3), computer (1), cupcake (4), desk (2), mug (1)
+Act: go to cabinet 1
+You arrive at the cabinet (1). The cabinet (1) is open. You see cabinet (1), light switch (5), plate (2)
+Think: I cannot find silverware in bedroom 2. The silverware is more likely to appear in bathroom 1.
+OK.
+Act: go to bathroom 1
+You move to the bathroom (1). Looking quickly around the room, you see bathroom cabinet (1), bathroom counter (1), faucet (2), sink (2), toilet (1), towel rack (1, 2, 3), washing machine (1).
+Think: I move to bathroom 1. The silverware is more likely to appear on bathroom counter (1).
+OK.
+Act: go to bathroom counter 1
+You arrive at the bathroom counter (1). You see bathroom cabinet (1), bathroom counter (1), face cream (2), faucet (2), sink (2)
+Think: I cannot find silverware in bathroom 1. The silverware is more likely to appear in living room 1.
+OK.
+Act: go to living room 1
+You move to the living room (1). Looking quickly around the room, you see bookshelf (3, 4), coffee table (1), sofa (1), tv (1).
+Think: I move to living room 1. The silverware is more likely to appear on coffee table (1).
+OK.
+Act: go to coffee table 1
+You arrive at the coffee table (1). You see coffee table (1), cupcake (1, 2, 3), plate (1)
+Think: I cannot find silverware in living room 1. The silverware is more likely to appear in bedroom 1.
+OK.
+Act: go to bedroom 1
+You move to the bedroom (1). Looking quickly around the room, you see bed (1), bookshelf (5), chair (2), desk (1), nightstand (1).
+Think: I move to bedroom 1. The silverware is more likely to appear on desk (1).
+OK.
+Act: go to desk 1
+You arrive at the desk (1). You see book (18), bookshelf (5), chair (2), desk (1), folder (2, 3), pound cake (1)
+Think: I cannot find silverware in bedroom 1. The silverware is more likely to appear in bedroom 2.
+OK.
+Act: go to bedroom 2
+You move to the bedroom (2). Looking quickly around the room, you see bed (2), bookshelf (6), cabinet (1), chair (3), closet (1), computer (1), desk (2), garbage can (1), nightstand (2).
+Think: I move to bedroom 2. The silverware is more likely to appear on desk (2), or in cabinet (1). I can check each place one by one, starting from desk 2, until I find the silverware.
+OK.
+Act: go to desk 2
+You arrive at the desk (2). You see chair (3), computer (1), cupcake (4), desk (2), mug (1)
+Act: go to cabinet 1
+You arrive at the cabinet (1). The cabinet (1) is open. You see cabinet (1), light switch (5), plate (2)
+Think: I cannot find silverware in bedroom 2. The silverware is more likely to appear in bathroom 1.
+OK.
+Act: go to bathroom 1
+You move to the bathroom (1). Looking quickly around the room, you see bathroom cabinet (1), bathroom counter (1), faucet (2), sink (2), toilet (1), towel rack (1, 2, 3), washing machine (1).
+Think: I move to bathroom 1. The silverware is more likely to appear on bathroom counter (1).
+OK.
+Act: go to bathroom counter 1
+You arrive at the bathroom counter (1). You see bathroom cabinet (1), bathroom counter (1), face cream (2), faucet (2), sink (2)
+Think: I cannot find silverware in bathroom 1. The silverware is more likely to appear in living room 1.
+OK.
+Act: go to living room 1
+You move to the living room (1). Looking quickly around the room, you see bookshelf (3, 4), coffee table (1), sofa (1), tv (1).
+Think: I move to living room 1. The silverware is more likely to appear on coffee table (1).
+OK.
+Act: go to coffee table 1
+You arrive at the coffee table (1). You see coffee table (1), cupcake (1, 2, 3), plate (1)
+Think: I cannot find silverware in living room 1. The silverware is more likely to appear in bedroom 1.
+OK.
+Act: go to bedroom 1
+You move to the bedroom (1). Looking quickly around the room, you see bed (1), bookshelf (5), chair (2), desk (1), nightstand (1).
+Think: I move to bedroom 1. The silverware is more likely to appear on desk (1).
+OK.
+Act: go to desk 1
+You arrive at the desk (1). You see book (18), bookshelf (5), chair (2), desk (1), folder (2, 3), pound cake (1)
+Think: I cannot find silverware in bedroom 1. The silverware is more likely to appear in bedroom 2.
+OK.
+Act: go to bedroom 2
+You move to the bedroom (2). Looking quickly around the room, you see bed (2), bookshelf (6), cabinet (1), chair (3), closet (1), computer (1), desk (2), garbage can (1), nightstand (2).
+Think: I move to bedroom 2. The silverware is more likely to appear on desk (2), or in cabinet (1). I can check each place one by one, starting from desk 2, until I find the silverware.
+OK.
+Act: go to desk 2
+You arrive at the desk (2). You see chair (3), computer (1), cupcake (4), desk (2), mug (1)
+Act: go to cabinet 1
+You arrive at the cabinet (1). The cabinet (1) is open. You see cabinet (1), light switch (5), plate (2)
+Think: I cannot find silverware in bedroom 2. The silverware is more likely to appear in bathroom 1.
+OK.
+Act: go to bathroom 1
+You move to the bathroom (1). Looking quickly around the room, you see bathroom cabinet (1), bathroom counter (1), faucet (2), sink (2), toilet (1), towel rack (1, 2, 3), washing machine (1).
+Think: I move to bathroom 1. The silverware is more likely to appear on bathroom counter (1).
+OK.
+Act: go to bathroom counter 1
+You arrive at the bathroom counter (1). You see bathroom cabinet (1), bathroom counter (1), face cream (2), faucet (2), sink (2)
+Think: I cannot find silverware in bathroom 1. The silverware is more likely to appear in living room 1.
+OK.
+Act: go to living room 1
+You move to the living room (1). Looking quickly around the room, you see bookshelf (3, 4), coffee table (1), sofa (1), tv (1).
+Think: I move to living room 1. The silverware is more likely to appear on coffee table (1).
+OK.
+Act: go to coffee table 1
+You arrive at the coffee table (1). You see coffee table (1), cupcake (1, 2, 3), plate (1)
+Think: I cannot find silverware in living room 1. The silverware is more likely to appear in bedroom 1.
+OK.
+Act: go to bedroom 1
+You move to the bedroom (1). Looking quickly around the room, you see bed (1), bookshelf (5), chair (2), desk (1), nightstand (1).
+Max steps

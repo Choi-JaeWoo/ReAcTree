@@ -1,0 +1,19 @@
+Your primary goal is to: Take an apple from the basket, come to the fridge, open the door and put the apple into there. Then come back, take the 1 pound cake and 1 juice and also put them into the fridge.
+To achieve this, you should perform your sibling tasks in parallel. At this level, your sibling tasks are: Take an apple from the basket, come to the fridge, open the door and put the apple into there. Then come back, and take the 1 pound cake and 1 juice and also put them into the fridge..
+Your task is to: come to the fridge
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (2), faucet (2), fridge (1), kitchen counter (1), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1), tv (1). You hold apple (1).
+Think: I hold apple 1. Now, I need to find the fridge. I can see fridge 1.
+OK.
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is closed. You see apple (1), bench (2), coffee pot (2), cupcake (1), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), stove (1) You hold apple (1).
+Think: Fridge 1 is closed. Now, I need to open fridge 1.
+OK.
+Act: open fridge 1
+You open fridge. You see apple (1), bench (2), coffee pot (2), cupcake (1), cutting board (2), fridge (1), frying pan (1), kitchen counter (1), microwave oven (1), stove (1) You hold apple (1).
+Think: Now, I need to put down apple 1.
+OK.
+Act: put down apple 1
+You put down apple in fridge
+Think: Now I accomplish the goal.
+OK.
+Act: done

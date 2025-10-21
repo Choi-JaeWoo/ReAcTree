@@ -1,0 +1,37 @@
+Your primary goal is to: find and pick up the wine
+To achieve this, you should perform your sibling tasks using a fallback strategy. At this level, your sibling tasks are: find and pick up the wine in kitchen 1, find and pick up the wine in living room 1, and find and pick up the wine in bedroom 1.
+Your task is to: find and pick up the wine in kitchen 1
+You are in the house, and there are 5 rooms: bathroom (1), bedroom (1, 2), kitchen (1), living room (1). You are in the middle of a living room (1). Looking quickly around the room, you see bookshelf (3, 4), coffee table (1), sofa (1), tv (1).
+Think: I am in living room 1. Now, I need to go to kitchen 1.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bench (1, 2, 3, 4), bookshelf (1, 2), chair (1), dishwasher (1), faucet (1), fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (1, 3), kitchen table (1, 2), microwave oven (1), sink (1), stove (1), toaster (1).
+Think: Now, I need to find the wine. The wine is more likely to appear on kitchen table (1, 2), or in fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8). I can check each place one by one, starting from kitchen table 1, until I find the wine.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bench (2), condiment bottle (1, 2), condiment shaker (3, 4), cutlery fork (1, 8), cutlery knife (3, 10), kitchen table (1), plate (1, 8), water glass (1, 4, 5, 8)
+Act: go to kitchen table 2
+You arrive at the kitchen table (2). You see bench (3), condiment bottle (3, 4), condiment shaker (1, 2), cutlery fork (2, 3), cutlery knife (4, 5), kitchen table (2), plate (2, 3), water glass (2, 3, 6, 7)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see apple (1), chair (1), cupcake (3), fridge (1), kitchen cabinet (5), pudding (1), toaster (1)
+Act: go to kitchen cabinet 1
+You arrive at the kitchen cabinet (1). The kitchen cabinet (1) is open. You see bananas (1, 2), bowl (7), cooking pot (1), cutlery knife (1, 2), faucet (1), frying pan (1), kitchen cabinet (1, 2, 8), kitchen counter (3), minced meat (1), salmon (1), sink (1), stove (1)
+Act: go to kitchen cabinet 2
+You arrive at the kitchen cabinet (2). The kitchen cabinet (2) is open. You see cooking pot (1), cutlery knife (1, 2), faucet (1), kitchen cabinet (1, 2, 3), kitchen counter (3), milk (1, 2), minced meat (1), salmon (1), sink (1), stove (1)
+Act: go to kitchen cabinet 3
+You arrive at the kitchen cabinet (3). The kitchen cabinet (3) is open. You see cutlery knife (1, 2), cutlets (1), faucet (1), kitchen cabinet (1, 2, 3, 4), kitchen counter (3), microwave oven (1), milk (1, 2), minced meat (1), salmon (1), sink (1)
+Act: go to kitchen cabinet 4
+You arrive at the kitchen cabinet (4). The kitchen cabinet (4) is open. You see bowl (1, 2, 3, 4, 5), cutlets (1), faucet (1), kitchen cabinet (2, 3, 4), kitchen counter (1, 3), microwave oven (1), milk (1, 2), minced meat (1), sink (1)
+Act: go to kitchen cabinet 5
+You arrive at the kitchen cabinet (5). The kitchen cabinet (5) is open. You see apple (1), chair (1), coffee pot (1), cupcake (3), dishwasher (1), fridge (1), kitchen cabinet (5, 6), pudding (1), toaster (1)
+Act: go to kitchen cabinet 6
+You arrive at the kitchen cabinet (6). The kitchen cabinet (6) is closed. You see apple (1), coffee pot (1), cupcake (3), dishwasher (1), fridge (1), kitchen cabinet (5, 6, 7), pudding (1), toaster (1)
+Act: open kitchen cabinet 6
+You open kitchen cabinet. You see apple (1), coffee pot (1), cupcake (3), dishwasher (1), fridge (1), kitchen cabinet (5, 6, 7), pudding (1), toaster (1), wine (1)
+Think: I find wine 1. Now, I need to pick it up.
+OK.
+Act: pick up wine 1
+You pick up wine. You hold wine (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

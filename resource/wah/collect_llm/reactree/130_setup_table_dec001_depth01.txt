@@ -1,0 +1,7 @@
+Your task is to: Go into the kitchen and find 1 cutlery fork,1 water glass and 1 plate in the cupboards.When you have found them carry them and place each item on the kitchen table.
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a bathroom (1). Looking quickly around the room, you see bathroom cabinet (1), bathroom counter (1), faucet (1), sink (1), toilet (1), washing machine (1).
+Think: To solve the task, I need to accomplish 3 subgoals independently. Find and pick up the cutlery fork, find and pick up the water glass, and find and pick up the plate.
+OK.
+Expand:
+- control flow: parallel
+- subgoals: find and pick up the cutlery fork, find and pick up the water glass, find and pick up the plate

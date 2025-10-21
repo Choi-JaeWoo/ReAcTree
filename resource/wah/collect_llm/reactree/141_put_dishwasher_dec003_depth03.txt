@@ -1,0 +1,17 @@
+Your primary goal is to: 1. find all of: 1 cutlery fork, 1 water glass, and 1 plate and remember their location.
+2. remove all that are already in the dishwasher.
+3. grab as much as you can hold by going to remembered locations
+4. go to the dishwasher.
+5. open it.
+6. put what you are holding into it.
+7. close it
+8. if any elements aren't yet in the dishwasher go to step 3.
+9. press the start button on the dishwasher.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find all of: 1 cutlery fork, 1 water glass, and 1 plate and remember their location, remove all that are already in the dishwasher, grab as much as you can hold by going to remembered locations, go to the dishwasher, open it, put what you are holding into it, close it, if any elements aren't yet in the dishwasher go to step 3, and press the start button on the dishwasher.
+Your task is to: find all of: 1 cutlery fork
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a living room (1). Looking quickly around the room, you see chair (1), closet (1), computer (1), desk (1), nightstand (1), sofa (1), tv (1).
+Think: To solve the task, I need to find and remember the location of 1 cutlery fork. The cutlery fork is more likely to appear in kitchen 1, living room 1, or bedroom 1. I can check each room one by one until I find and remember the location of 1 cutlery fork.
+OK.
+Expand:
+- control flow: fallback
+- subgoals: find and remember the location of 1 cutlery fork in kitchen 1, find and remember the location of 1 cutlery fork in living room 1, find and remember the location of 1 cutlery fork in bedroom 1

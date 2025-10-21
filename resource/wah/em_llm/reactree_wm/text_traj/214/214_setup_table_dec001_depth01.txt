@@ -1,0 +1,7 @@
+Your task is to: Put 1 plate and 1 wine glass on the kitchen table.
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a living room (1). Looking quickly around the room, you see bookshelf (3), cabinet (1), chair (3), closet (2), coffee table (2), computer (1), desk (1), sofa (1), tv (2).
+Think: To solve the task, I need to accomplish 2 subgoals independently. Move the plate on the kitchen table, and move the wine glass on the kitchen table.
+OK.
+Expand:
+- control flow: parallel
+- subgoals: move the plate on the kitchen table, move the wine glass on the kitchen table

@@ -1,0 +1,7 @@
+Your task is to: Always get apple first ,then later in the day get cupcake,wine and pudding on the coffee table.
+You are in the house, and there are 5 rooms: bathroom (1), bedroom (1, 2), kitchen (1), living room (1). You are in the middle of a bathroom (1). Looking quickly around the room, you see bathroom cabinet (1), bathroom counter (1), faucet (2), sink (2), toilet (1), towel rack (1, 2, 3), washing machine (1).
+Think: To solve the task, I need to accomplish 4 subgoals sequentially. Find and pick up the apple, find and pick up the cupcake, find and pick up the wine, and find and pick up the pudding.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up the apple, find and pick up the cupcake, find and pick up the wine, and find and pick up the pudding

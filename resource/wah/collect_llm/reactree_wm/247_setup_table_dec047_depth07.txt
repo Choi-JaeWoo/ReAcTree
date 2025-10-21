@@ -1,0 +1,13 @@
+Your primary goal is to: get a wine glass and a water glass
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up the wine glass, and find and pick up the water glass.
+Your task is to: find and pick up the water glass
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a living room (1). Looking quickly around the room, you see bookshelf (3), chair (2), closet (1), coffee table (2), computer (2), desk (2), sofa (2), tv (1). You hold wine glass (1).
+Think: To solve the task, I need to recall the location of the water glass.
+OK.
+Act: recall location of water glass
+You saw water glass 1 near kitchen cabinet 4 in kitchen 1. You saw water glass 2 near kitchen cabinet 4 in kitchen 1.
+Think: Now, I need to find and pick up the water glass in one of the rooms. The water glass is more likely to appear in kitchen 1, living room 1, or bedroom 1. I can check each room one by one until I find and pick up the water glass.
+OK.
+Expand:
+- control flow: fallback
+- subgoals: find and pick up the water glass in kitchen 1, find and pick up the water glass in living room 1, find and pick up the water glass in bedroom 1

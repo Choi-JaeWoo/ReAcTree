@@ -1,0 +1,139 @@
+Your task is to: Please, take a 1 pound cake, 1 cupcake, and 1 pudding and put them in the fridge on an empty shelf
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a bathroom (1). Looking quickly around the room, you see bathroom cabinet (1), bathroom counter (1), closet (3, 4), faucet (2), sink (2), toilet (1), towel rack (1, 2), washing machine (1).
+Think: To solve the task, I need to find and open the fridge. And I need to find and pick up the 1 pound cake, then put it in the fridge. And I need to find and pick up the 1 cupcake, then put it in the fridge. And I need to find and pick up the 1 pudding, then put it in the fridge.
+OK.
+Think: First, I need to find the fridge. The fridge is more likely to appear in kitchen 1.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bookshelf (1), chair (2, 3, 4, 5), dishwasher (1), faucet (1), fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (1), kitchen table (1), microwave oven (1), sink (1), sofa (2), stove (1), toaster (1), tv (2).
+Think: I can see fridge 1.
+OK.
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is closed. You see apple (1), bananas (1, 2), bowl (2), chair (4, 5), coffee pot (1), condiment shaker (1, 2), fridge (1), juice (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), plate (3, 4, 5), sofa (2)
+Think: Fridge 1 is closed. Now, I need to open it.
+OK.
+Act: open fridge 1
+You open fridge. You see apple (1), bananas (1, 2), bowl (2), chair (4, 5), coffee pot (1), condiment shaker (1, 2), fridge (1), juice (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), plate (3, 4, 5), sofa (2)
+Think: I open fridge 1. Now, I need to recall the location of the 1 pound cake.
+OK.
+Act: recall location of cupcake
+You have not seen cupcake before.
+Think: Now, I need to find the 1 pound cake. The 1 pound cake is more likely to appear on kitchen table (1), or in fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8). I can check each place one by one, starting from kitchen table 1, until I find the 1 pound cake.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1), bananas (1, 2), bowl (2), cell phone (2), chair (4, 5), coffee pot (1), condiment shaker (1, 2), dishwashing liquid (1), faucet (1), fridge (1), juice (1), kitchen cabinet (5, 6), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), plate (3, 4, 5), sink (1)
+Think: I cannot find 1 pound cake in kitchen 1. The 1 pound cake is more likely to appear in living room 1.
+OK.
+Act: go to living room 1
+You move to the living room (1). Looking quickly around the room, you see chair (1), closet (1), computer (1), desk (1), nightstand (1), sofa (1), tv (1).
+Think: I move to living room 1. The 1 pound cake is more likely to appear on nightstand (1), or in closet (1). I can check each place one by one, starting from nightstand 1, until I find the 1 pound cake.
+OK.
+Act: go to nightstand 1
+You arrive at the nightstand (1). The nightstand (1) is closed. You see chair (1), closet (1), desk (1), nightstand (1), water glass (1)
+Act: open nightstand 1
+You open nightstand. You see chair (1), closet (1), desk (1), nightstand (1), water glass (1)
+Act: go to closet 1
+You arrive at the closet (1). The closet (1) is closed. You see closet (1), nightstand (1)
+Act: open closet 1
+You open closet. You see closet (1), nightstand (1)
+Think: I cannot find 1 pound cake in living room 1. The 1 pound cake is more likely to appear in bedroom 1.
+OK.
+Act: go to bedroom 1
+You move to the bedroom (1). Looking quickly around the room, you see bed (1), cabinet (1), chair (6), closet (2), nightstand (2), sofa (3).
+Think: I move to bedroom 1. The 1 pound cake is more likely to appear on nightstand (2), or in closet (2). I can check each place one by one, starting from nightstand 2, until I find the 1 pound cake.
+OK.
+Act: go to nightstand 2
+You arrive at the nightstand (2). The nightstand (2) is closed. You see bed (1), light switch (3), nightstand (2)
+Act: open nightstand 2
+You open nightstand. You see bed (1), light switch (3), nightstand (2)
+Act: go to closet 2
+You arrive at the closet (2). The closet (2) is closed. You see closet (2), light switch (3), nightstand (2), sofa (3)
+Act: open closet 2
+You open closet. You see closet (2), light switch (3), nightstand (2), sofa (3)
+Think: I cannot find 1 pound cake in bedroom 1. The 1 pound cake is more likely to appear in bathroom 1.
+OK.
+Act: go to bathroom 1
+You move to the bathroom (1). Looking quickly around the room, you see bathroom cabinet (1), bathroom counter (1), closet (3, 4), faucet (2), sink (2), toilet (1), towel rack (1, 2), washing machine (1).
+Think: I move to bathroom 1. The 1 pound cake is more likely to appear on bathroom counter (1), or in bathroom cabinet (1), closet (3, 4). I can check each place one by one, starting from bathroom counter 1, until I find the 1 pound cake.
+OK.
+Act: go to bathroom counter 1
+You arrive at the bathroom counter (1). You see bathroom cabinet (1), bathroom counter (1), face cream (4), faucet (2), sink (2), toilet (1), toilet paper (1), water glass (2)
+Act: go to bathroom cabinet 1
+You arrive at the bathroom cabinet (1). The bathroom cabinet (1) is closed. You see bar soap (1), bathroom cabinet (1), bathroom counter (1), face cream (4), faucet (2), sink (2), toilet paper (1), water glass (2)
+Act: open bathroom cabinet 1
+You open bathroom cabinet. You see bar soap (1), bathroom cabinet (1), bathroom counter (1), face cream (4), faucet (2), sink (2), toilet paper (1), water glass (2)
+Act: go to closet 3
+You arrive at the closet (3). The closet (3) is closed. You see closet (3, 4), light switch (4), towel rack (1)
+Act: open closet 3
+You open closet. You see closet (3, 4), light switch (4), towel rack (1)
+Act: go to closet 4
+You arrive at the closet (4). The closet (4) is closed. You see closet (3, 4), washing machine (1)
+Act: open closet 4
+You open closet. You see closet (3, 4), washing machine (1)
+Think: I cannot find 1 pound cake in bathroom 1. The 1 pound cake is more likely to appear in kitchen 1.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bookshelf (1), chair (2, 3, 4, 5), dishwasher (1), faucet (1), fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (1), kitchen table (1), microwave oven (1), sink (1), sofa (2), stove (1), toaster (1), tv (2).
+Think: I move to kitchen 1. The 1 pound cake is more likely to appear on kitchen table (1), or in fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8). I can check each place one by one, starting from kitchen table 1, until I find the 1 pound cake.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1), bananas (1, 2), bowl (2), cell phone (2), chair (4, 5), coffee pot (1), condiment shaker (1, 2), dishwashing liquid (1), faucet (1), fridge (1), juice (1), kitchen cabinet (5, 6, 7), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), plate (3, 4, 5), sink (1), washing sponge (1)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see apple (1), bananas (1, 2), bowl (2), chair (4, 5), coffee pot (1), condiment shaker (1, 2), fridge (1), juice (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), plate (3, 4, 5), sofa (2)
+Act: go to kitchen cabinet 1
+You arrive at the kitchen cabinet (1). The kitchen cabinet (1) is closed. You see cell phone (2), cereal (1), condiment bottle (1, 2), cutlets (1), dishwasher (1), dishwashing liquid (1), faucet (1), kitchen cabinet (1, 2, 6, 7, 8), kitchen counter (1), microwave oven (1), minced meat (1), sink (1), toaster (1), washing sponge (1)
+Act: open kitchen cabinet 1
+You open kitchen cabinet. You see cell phone (2), cereal (1), condiment bottle (1, 2), cutlets (1), dishwasher (1), dishwashing liquid (1), faucet (1), kitchen cabinet (1, 2, 6, 7, 8), kitchen counter (1), microwave oven (1), minced meat (1), sink (1), toaster (1), washing sponge (1)
+Act: go to kitchen cabinet 2
+You arrive at the kitchen cabinet (2). The kitchen cabinet (2) is closed. You see cell phone (2), cereal (1), chocolate syrup (1), condiment bottle (1, 2), cutlets (1), dishwasher (1), kitchen cabinet (1, 2, 3, 7, 8), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), sink (1), toaster (1), washing sponge (1)
+Act: open kitchen cabinet 2
+You open kitchen cabinet. You see cell phone (2), cereal (1), chocolate syrup (1), condiment bottle (1, 2), cupcake (3), cutlets (1), dishwasher (1), kitchen cabinet (1, 2, 3, 7, 8), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), sink (1), toaster (1), washing sponge (1)
+Think: I find cupcake 3. Now, I need to pick it up.
+OK.
+Act: pick up cupcake 3
+You pick up cupcake. You hold cupcake (3).
+Think: I hold cupcake 3. Now, I need to put it in the fridge.
+OK.
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see apple (1), bananas (1, 2), bowl (2), chair (4, 5), coffee pot (1), condiment shaker (1, 2), cupcake (3), fridge (1), juice (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), plate (3, 4, 5), sofa (2) You hold cupcake (3).
+Think: Fridge 1 is open. Now, I need to put down cupcake 3.
+OK.
+Act: put down cupcake 3
+You put down cupcake in fridge
+Think: I put down cupcake 3 in fridge 1. Now, I need to recall the location of the 1 pudding.
+OK.
+Act: recall location of pudding
+You have not seen pudding before.
+Think: Now, I need to find the 1 pudding. The 1 pudding is more likely to appear on kitchen table (1), or in fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8). I can check each place one by one, starting from kitchen table 1, until I find the 1 pudding.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1), bananas (1, 2), bowl (2), cell phone (2), chair (4, 5), coffee pot (1), condiment shaker (1, 2), cupcake (3), dishwashing liquid (1), faucet (1), fridge (1), juice (1), kitchen cabinet (5, 6), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), plate (3, 4, 5), sink (1)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see apple (1), bananas (1, 2), bowl (2), chair (4, 5), coffee pot (1), condiment shaker (1, 2), cupcake (3), fridge (1), juice (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), plate (3, 4, 5), sofa (2)
+Act: go to kitchen cabinet 3
+You arrive at the kitchen cabinet (3). The kitchen cabinet (3) is closed. You see cell phone (2), cereal (1), chocolate syrup (1), condiment bottle (1, 2), cutlets (1), dishwasher (1), kitchen cabinet (1, 2, 3, 4), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), mug (2)
+Act: open kitchen cabinet 3
+You open kitchen cabinet. You see cell phone (2), cereal (1), chocolate syrup (1), condiment bottle (1, 2), cutlets (1), dishwasher (1), kitchen cabinet (1, 2, 3, 4), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), mug (2)
+Act: go to kitchen cabinet 4
+You arrive at the kitchen cabinet (4). The kitchen cabinet (4) is closed. You see cereal (1), chocolate syrup (1), cooking pot (1), cutlets (1), dishwasher (1), kitchen cabinet (2, 3, 4), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), mug (2), stove (1)
+Act: open kitchen cabinet 4
+You open kitchen cabinet. You see cereal (1), chocolate syrup (1), cooking pot (1), cutlets (1), dishwasher (1), kitchen cabinet (2, 3, 4), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), mug (2), stove (1)
+Act: go to kitchen cabinet 5
+You arrive at the kitchen cabinet (5). The kitchen cabinet (5) is closed. You see bananas (1, 2), bowl (2), chair (4, 5), condiment shaker (1, 2), cupcake (3), dishwashing liquid (1), faucet (1), fridge (1), kitchen cabinet (5, 6), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), plate (4, 5), sink (1)
+Act: open kitchen cabinet 5
+You open kitchen cabinet. You see bananas (1, 2), bowl (2), chair (4, 5), condiment shaker (1, 2), cupcake (3), dishwashing liquid (1), faucet (1), fridge (1), kitchen cabinet (5, 6), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), plate (4, 5), pudding (1), sink (1)
+Think: I find pudding 1. Now, I need to pick it up.
+OK.
+Act: pick up pudding 1
+You pick up pudding. You hold pudding (1).
+Think: I hold pudding 1. Now, I need to put it in the fridge.
+OK.
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see apple (1), bananas (1, 2), bowl (2), chair (4, 5), coffee pot (1), condiment shaker (1, 2), cupcake (3), fridge (1), juice (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pancake (1), pie (1), plate (3, 4, 5), pudding (1), sofa (2) You hold pudding (1).
+Think: Fridge 1 is open. Now, I need to put down pudding 1.
+OK.
+Act: put down pudding 1
+You put down pudding in fridge
+Think: Now I accomplish the goal.
+OK.
+Act: done

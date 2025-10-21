@@ -1,0 +1,131 @@
+Your task is to: Put glasses and plate into the dishwasher and turn it on.
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a bedroom (1). Looking quickly around the room, you see bed (1), bookshelf (2), cabinet (1), chair (1), coffee table (1), computer (1), desk (1), nightstand (1, 2), sofa (1).
+Think: To solve the task, I need to find and open the dishwasher. And I need to find and pick up the glasses, then put them in the dishwasher. And I need to find and pick up the plate, then put it in the dishwasher. And I need to close and turn on the dishwasher.
+OK.
+Think: First, I need to find the dishwasher. The dishwasher is more likely to appear in kitchen 1.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (1), dishwasher (1), faucet (2), fridge (1), garbage can (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (1, 2), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1).
+Think: I can see dishwasher 1.
+OK.
+Act: go to dishwasher 1
+You arrive at the dishwasher (1). The dishwasher (1) is closed. You see coffee pot (1), dishwasher (1), kitchen cabinet (6, 7), microwave oven (1), toaster (1)
+Think: Dishwasher 1 is closed. Now, I need to open it.
+OK.
+Act: open dishwasher 1
+You open dishwasher. You see coffee pot (1), dishwasher (1), kitchen cabinet (5, 6, 7), microwave oven (1), toaster (1)
+Think: I open dishwasher 1. Now, I need to recall the location of the glasses.
+OK.
+Act: recall location of glasses
+You have not seen glasses before.
+Think: Now, I need to find the glasses. The glasses are more likely to appear on kitchen table (1) or in fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8). I can check each place one by one, starting from kitchen table 1, until I find the glasses.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11), bench (2), book (1), bowl (6), cell phone (1), condiment shaker (1, 2), kitchen table (1), plate (2), pound cake (1), water glass (1), wine glass (1, 2)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is closed. You see bench (1), fridge (1), kitchen table (1)
+Act: open fridge 1
+You open fridge. You see bench (1), fridge (1), kitchen table (1), plate (1)
+Act: go to kitchen cabinet 1
+You arrive at the kitchen cabinet (1). The kitchen cabinet (1) is closed. You see chicken (1), cooking pot (1), cutlery knife (1, 2), cutlets (1), dishwashing liquid (1), faucet (2), frying pan (1), kitchen cabinet (1, 2, 8), kitchen counter (1), sink (2), stove (1)
+Act: open kitchen cabinet 1
+You open kitchen cabinet. You see chicken (1), cooking pot (1), cutlery knife (1, 2), cutlets (1), dishwashing liquid (1), faucet (2), frying pan (1), kitchen cabinet (1, 2, 8), kitchen counter (1), sink (2), stove (1)
+Act: go to kitchen cabinet 2
+You arrive at the kitchen cabinet (2). The kitchen cabinet (2) is closed. You see bowl (1, 2, 3, 4, 5), chicken (1), cooking pot (1), cutlery knife (1, 2), cutlets (1), dishwashing liquid (1), faucet (2), kitchen cabinet (1, 2, 3), kitchen counter (1), sink (2), stove (1)
+Act: open kitchen cabinet 2
+You open kitchen cabinet. You see bowl (1, 2, 3, 4, 5), chicken (1), cooking pot (1), cutlery fork (2), cutlery knife (1, 2), cutlets (1), dishwashing liquid (1), faucet (2), kitchen cabinet (1, 2, 3), kitchen counter (1), sink (2), stove (1)
+Act: go to kitchen cabinet 3
+You arrive at the kitchen cabinet (3). The kitchen cabinet (3) is closed. You see bowl (1, 2, 3, 4, 5), chicken (1), cutlery fork (2), cutlery knife (1, 2), cutlets (1), dishwashing liquid (1), faucet (2), kitchen cabinet (1, 2, 3, 4), kitchen counter (1), sink (2)
+Act: open kitchen cabinet 3
+You open kitchen cabinet. You see bowl (1, 2, 3, 4, 5), chicken (1), cutlery fork (2), cutlery knife (1, 2), cutlets (1), dishwashing liquid (1), faucet (2), kitchen cabinet (1, 2, 3, 4), kitchen counter (1), sink (2)
+Act: go to kitchen cabinet 4
+You arrive at the kitchen cabinet (4). The kitchen cabinet (4) is closed. You see bowl (1, 2, 3, 4, 5), cutlery fork (2), dishwashing liquid (1), faucet (2), fridge (1), kitchen cabinet (2, 3, 4), kitchen counter (1, 2), plate (1), sink (2)
+Act: open kitchen cabinet 4
+You open kitchen cabinet. You see bowl (1, 2, 3, 4, 5), cutlery fork (2), cutlets (1), dishwashing liquid (1), faucet (2), fridge (1), kitchen cabinet (2, 3, 4), kitchen counter (1, 2), plate (1), sink (2), water glass (2)
+Act: go to kitchen cabinet 5
+You arrive at the kitchen cabinet (5). The kitchen cabinet (5) is closed. You see coffee pot (1), dishwasher (1), kitchen cabinet (5, 6), microwave oven (1)
+Act: open kitchen cabinet 5
+You open kitchen cabinet. You see coffee pot (1), dishwasher (1), kitchen cabinet (5, 6), microwave oven (1)
+Act: go to kitchen cabinet 6
+You arrive at the kitchen cabinet (6). The kitchen cabinet (6) is closed. You see coffee pot (1), dishwasher (1), kitchen cabinet (5, 6, 7), microwave oven (1), toaster (1)
+Act: open kitchen cabinet 6
+You open kitchen cabinet. You see coffee pot (1), cutlery fork (1), dishwasher (1), kitchen cabinet (5, 6, 7), microwave oven (1), toaster (1)
+Act: go to kitchen cabinet 7
+You arrive at the kitchen cabinet (7). The kitchen cabinet (7) is closed. You see coffee pot (1), cutlery fork (1), dishwasher (1), kitchen cabinet (5, 6, 7, 8), microwave oven (1), toaster (1)
+Act: open kitchen cabinet 7
+You open kitchen cabinet. You see coffee pot (1), cutlery fork (1), dishwasher (1), kitchen cabinet (5, 6, 7, 8), microwave oven (1), toaster (1)
+Act: go to kitchen cabinet 8
+You arrive at the kitchen cabinet (8). The kitchen cabinet (8) is closed. You see cooking pot (1), cutlery fork (1), dishwasher (1), frying pan (1), kitchen cabinet (6, 7, 8), microwave oven (1), stove (1), toaster (1)
+Act: open kitchen cabinet 8
+You open kitchen cabinet. You see cooking pot (1), cutlery fork (1), dishwasher (1), frying pan (1), kitchen cabinet (6, 7, 8), microwave oven (1), stove (1), toaster (1)
+Think: I cannot find the glasses in kitchen 1. The glasses are more likely to appear in living room 1.
+OK.
+Act: go to living room 1
+You move to the living room (1). Looking quickly around the room, you see bookshelf (3), chair (2), closet (1), coffee table (2), computer (2), desk (2), sofa (2), tv (1).
+Think: I move to living room 1. The glasses are more likely to appear on coffee table (2).
+OK.
+Act: go to coffee table 2
+You arrive at the coffee table (2). You see coffee table (2), plate (3), sofa (2), water glass (3)
+Think: I cannot find glasses in living room 1. The glasses are more likely to appear in bedroom 1.
+OK.
+Act: go to bedroom 1
+You move to the bedroom (1). Looking quickly around the room, you see bed (1), bookshelf (2), cabinet (1), chair (1), coffee table (1), computer (1), desk (1), nightstand (1, 2), sofa (1).
+Think: I move to bedroom 1. The glasses are more likely to appear on coffee table (1).
+OK.
+Act: go to coffee table 1
+You arrive at the coffee table (1). You see apple (12, 13), bananas (1), book (3), bowl (7), coffee table (1), lime (1), mug (1), plum (1, 2)
+Think: I cannot find glasses in bedroom 1. The glasses are more likely to appear in bathroom 1.
+OK.
+Act: go to bathroom 1
+You move to the bathroom (1). Looking quickly around the room, you see bathroom cabinet (1), bathroom counter (1), faucet (1), sink (1), toilet (1), washing machine (1).
+Think: I move to bathroom 1. The glasses are more likely to appear on bathroom counter (1).
+OK.
+Act: go to bathroom counter 1
+You arrive at the bathroom counter (1). You see bathroom cabinet (1), bathroom counter (1), face cream (1), faucet (1), sink (1)
+Think: I cannot find glasses in bathroom 1. The glasses are more likely to appear in kitchen 1.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bench (1, 2), bookshelf (1), dishwasher (1), faucet (2), fridge (1), garbage can (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (1, 2), kitchen table (1), microwave oven (1), sink (2), stove (1), toaster (1).
+Think: I move to kitchen 1. The glasses are more likely to appear on kitchen table (1).
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11), bench (2), book (1), bowl (6), cell phone (1), condiment shaker (1, 2), kitchen table (1), plate (2), pound cake (1), water glass (1), wine glass (1, 2)
+Think: I find wine glass 1. Now, I need to pick it up.
+OK.
+Act: pick up wine glass 1
+You pick up wine glass. You hold wine glass (1).
+Think: I hold wine glass 1. Now, I need to put it in the dishwasher 1.
+OK.
+Act: go to dishwasher 1
+You arrive at the dishwasher (1). The dishwasher (1) is open. You see coffee pot (1), cutlery fork (1), dishwasher (1), kitchen cabinet (6, 7, 8), microwave oven (1), toaster (1), wine glass (1) You hold wine glass (1).
+Think: Now, I need to put down wine glass 1.
+OK.
+Act: put down wine glass 1
+You put down wine glass in dishwasher
+Think: I put down wine glass 1 in dishwasher 1. Now, I need to recall the location of the plate.
+OK.
+Act: recall location of plate
+You saw plate 2 near kitchen table 1 in kitchen 1. You saw plate 1 near kitchen cabinet 4 in kitchen 1. You saw plate 3 near coffee table 2 in living room 1.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see apple (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11), bench (2), book (1), bowl (6), cell phone (1), condiment shaker (1, 2), kitchen table (1), plate (2), pound cake (1), water glass (1), wine glass (2)
+Think: I find plate 2. Now, I need to pick it up.
+OK.
+Act: pick up plate 2
+You pick up plate. You hold plate (2).
+Think: I hold plate 2. Now, I need to put it in the dishwasher 1.
+OK.
+Act: go to dishwasher 1
+You arrive at the dishwasher (1). The dishwasher (1) is open. You see coffee pot (1), cutlery fork (1), dishwasher (1), kitchen cabinet (6, 7, 8), microwave oven (1), plate (2), toaster (1), wine glass (1) You hold plate (2).
+Think: Now, I need to put down plate 2.
+OK.
+Act: put down plate 2
+You put down plate in dishwasher
+Think: I put down plate 2 in dishwasher 1. Now, I need to close and turn on dishwasher 1.
+OK.
+Act: close dishwasher 1
+You close dishwasher.
+Act: turn on dishwasher 1
+You turn on dishwasher.
+Think: Now I accomplish the goal.
+OK.
+Act: done

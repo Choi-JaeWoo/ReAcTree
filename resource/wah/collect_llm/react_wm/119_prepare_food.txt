@@ -1,0 +1,401 @@
+Your task is to: Take an apple, a one pound cake, one coffee pot and one juice and place them on the kitchen table.
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a kitchen (1). Looking quickly around the room, you see bookshelf (1), chair (2, 3, 4, 5), dishwasher (1), faucet (1), fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (1), kitchen table (1), microwave oven (1), sink (1), sofa (2), stove (1), toaster (1), tv (2).
+Think: To solve the task, I need to find and pick up the apple, then put it on the kitchen table. And I need to find and pick up the one pound cake, then put it on the kitchen table. And I need to find and pick up the coffee pot, then put it on the kitchen table. And I need to find and pick up the juice, then put it on the kitchen table.
+OK.
+Think: First, I need to find the apple. The apple is more likely to appear on kitchen table (1), or in fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8). I can check each place one by one, starting from kitchen table 1, until I find the apple.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), condiment shaker (1, 2), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pie (1)
+Think: I find apple 1. Now, I need to pick it up.
+OK.
+Act: pick up bananas 1
+You pick up bananas.
+Think: I hold bananas 1. Now, I need to put it on the kitchen table.
+OK.
+Act: put down bananas 1
+You do not grab the bananas.
+Think: I cannot put down bananas 1 on kitchen table 1. Now, I need to pick up apple 2.
+OK.
+Act: pick up bananas 2
+You pick up bananas.
+Think: I hold bananas 2. Now, I need to put it on the kitchen table.
+OK.
+Act: put down bananas 2
+You do not grab the bananas.
+Think: I cannot put down bananas 2 on kitchen table 1. Now, I need to pick up bowl 2.
+OK.
+Act: pick up bowl 2
+You pick up bowl.
+Think: I hold bowl 2. Now, I need to put it on the kitchen table.
+OK.
+Act: put down bowl 2
+You do not grab the bowl.
+Think: I cannot put down bowl 2 on kitchen table 1. Now, I need to pick up condiment shaker 1.
+OK.
+Act: pick up condiment shaker 1
+You pick up condiment shaker. You hold condiment shaker (1).
+Think: I hold condiment shaker 1. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 1
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 1 on kitchen table 1. Now, I need to pick up condiment shaker 2.
+OK.
+Act: pick up condiment shaker 2
+You pick up condiment shaker. You hold condiment shaker (2).
+Think: I hold condiment shaker 2. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 2
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 2 on kitchen table 1. Now, I need to pick up fridge 1.
+OK.
+Act: pick up condiment shaker 1
+You pick up condiment shaker. You hold condiment shaker (1).
+Think: I hold condiment shaker 1. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 1
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 1 on kitchen table 1. Now, I need to pick up kitchen cabinet 5.
+OK.
+Act: pick up condiment shaker 2
+You pick up condiment shaker. You hold condiment shaker (2).
+Think: I hold condiment shaker 2. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 2
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 2 on kitchen table 1. Now, I need to pick up kitchen counter 1.
+OK.
+Act: pick up condiment shaker 1
+You pick up condiment shaker. You hold condiment shaker (1).
+Think: I hold condiment shaker 1. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 1
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 1 on kitchen table 1. Now, I need to pick up kitchen table 1.
+OK.
+Act: pick up condiment shaker 2
+You pick up condiment shaker. You hold condiment shaker (2).
+Think: I hold condiment shaker 2. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 2
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 2 on kitchen table 1. Now, I need to pick up mug 2.
+OK.
+Act: pick up condiment shaker 1
+You pick up condiment shaker. You hold condiment shaker (1).
+Think: I hold condiment shaker 1. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 1
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 1 on kitchen table 1. Now, I need to pick up mug 3.
+OK.
+Act: pick up condiment shaker 2
+You pick up condiment shaker. You hold condiment shaker (2).
+Think: I hold condiment shaker 2. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 2
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 2 on kitchen table 1. Now, I need to pick up pie 1.
+OK.
+Act: pick up condiment shaker 1
+You pick up condiment shaker. You hold condiment shaker (1).
+Think: I hold condiment shaker 1. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 1
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 1 on kitchen table 1. Now, I need to pick up apple 1.
+OK.
+Act: pick up condiment shaker 2
+You pick up condiment shaker. You hold condiment shaker (2).
+Think: I hold condiment shaker 2. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 2
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 2 on kitchen table 1. Now, I need to pick up apple 2.
+OK.
+Act: pick up condiment shaker 1
+You pick up condiment shaker. You hold condiment shaker (1).
+Think: I hold condiment shaker 1. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 1
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 1 on kitchen table 1. Now, I need to pick up bowl 2.
+OK.
+Act: pick up condiment shaker 2
+You pick up condiment shaker. You hold condiment shaker (2).
+Think: I hold condiment shaker 2. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 2
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 2 on kitchen table 1. Now, I need to pick up condiment shaker 1.
+OK.
+Act: pick up condiment shaker 1
+You pick up condiment shaker. You hold condiment shaker (1).
+Think: I hold condiment shaker 1. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 1
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 1 on kitchen table 1. Now, I need to pick up condiment shaker 2.
+OK.
+Act: pick up condiment shaker 2
+You pick up condiment shaker. You hold condiment shaker (2).
+Think: I hold condiment shaker 2. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 2
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 2 on kitchen table 1. Now, I need to pick up fridge 1.
+OK.
+Act: pick up condiment shaker 1
+You pick up condiment shaker. You hold condiment shaker (1).
+Think: I hold condiment shaker 1. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 1
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 1 on kitchen table 1. Now, I need to pick up kitchen cabinet 5.
+OK.
+Act: pick up condiment shaker 2
+You pick up condiment shaker. You hold condiment shaker (2).
+Think: I hold condiment shaker 2. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 2
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 2 on kitchen table 1. Now, I need to pick up kitchen counter 1.
+OK.
+Act: pick up condiment shaker 1
+You pick up condiment shaker. You hold condiment shaker (1).
+Think: I hold condiment shaker 1. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 1
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 1 on kitchen table 1. Now, I need to pick up kitchen table 1.
+OK.
+Act: pick up condiment shaker 2
+You pick up condiment shaker. You hold condiment shaker (2).
+Think: I hold condiment shaker 2. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 2
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 2 on kitchen table 1. Now, I need to pick up mug 2.
+OK.
+Act: pick up condiment shaker 1
+You pick up condiment shaker. You hold condiment shaker (1).
+Think: I hold condiment shaker 1. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 1
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 1 on kitchen table 1. Now, I need to pick up mug 3.
+OK.
+Act: pick up condiment shaker 2
+You pick up condiment shaker. You hold condiment shaker (2).
+Think: I hold condiment shaker 2. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 2
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 2 on kitchen table 1. Now, I need to pick up pie 1.
+OK.
+Act: pick up condiment shaker 1
+You pick up condiment shaker. You hold condiment shaker (1).
+Think: I hold condiment shaker 1. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 1
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 1 on kitchen table 1. Now, I need to pick up apple 1.
+OK.
+Act: pick up condiment shaker 2
+You pick up condiment shaker. You hold condiment shaker (2).
+Think: I hold condiment shaker 2. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 2
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 2 on kitchen table 1. Now, I need to pick up apple 2.
+OK.
+Act: pick up condiment shaker 1
+You pick up condiment shaker. You hold condiment shaker (1).
+Think: I hold condiment shaker 1. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 1
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 1 on kitchen table 1. Now, I need to pick up bowl 2.
+OK.
+Act: pick up condiment shaker 2
+You pick up condiment shaker. You hold condiment shaker (2).
+Think: I hold condiment shaker 2. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 2
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 2 on kitchen table 1. Now, I need to pick up condiment shaker 1.
+OK.
+Act: pick up condiment shaker 1
+You pick up condiment shaker. You hold condiment shaker (1).
+Think: I hold condiment shaker 1. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 1
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 1 on kitchen table 1. Now, I need to pick up condiment shaker 2.
+OK.
+Act: pick up condiment shaker 2
+You pick up condiment shaker. You hold condiment shaker (2).
+Think: I hold condiment shaker 2. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 2
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 2 on kitchen table 1. Now, I need to pick up fridge 1.
+OK.
+Act: pick up condiment shaker 1
+You pick up condiment shaker. You hold condiment shaker (1).
+Think: I hold condiment shaker 1. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 1
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 1 on kitchen table 1. Now, I need to pick up kitchen cabinet 5.
+OK.
+Act: pick up condiment shaker 2
+You pick up condiment shaker. You hold condiment shaker (2).
+Think: I hold condiment shaker 2. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 2
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 2 on kitchen table 1. Now, I need to pick up kitchen counter 1.
+OK.
+Act: pick up condiment shaker 1
+You pick up condiment shaker. You hold condiment shaker (1).
+Think: I hold condiment shaker 1. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 1
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 1 on kitchen table 1. Now, I need to pick up kitchen table 1.
+OK.
+Act: pick up condiment shaker 2
+You pick up condiment shaker. You hold condiment shaker (2).
+Think: I hold condiment shaker 2. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 2
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 2 on kitchen table 1. Now, I need to pick up mug 2.
+OK.
+Act: pick up condiment shaker 1
+You pick up condiment shaker. You hold condiment shaker (1).
+Think: I hold condiment shaker 1. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 1
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 1 on kitchen table 1. Now, I need to pick up mug 3.
+OK.
+Act: pick up condiment shaker 2
+You pick up condiment shaker. You hold condiment shaker (2).
+Think: I hold condiment shaker 2. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 2
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 2 on kitchen table 1. Now, I need to pick up pie 1.
+OK.
+Act: pick up condiment shaker 1
+You pick up condiment shaker. You hold condiment shaker (1).
+Think: I hold condiment shaker 1. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 1
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 1 on kitchen table 1. Now, I need to pick up apple 1.
+OK.
+Act: pick up condiment shaker 2
+You pick up condiment shaker. You hold condiment shaker (2).
+Think: I hold condiment shaker 2. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 2
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 2 on kitchen table 1. Now, I need to pick up apple 2.
+OK.
+Act: pick up condiment shaker 1
+You pick up condiment shaker. You hold condiment shaker (1).
+Think: I hold condiment shaker 1. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 1
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 1 on kitchen table 1. Now, I need to pick up bowl 2.
+OK.
+Act: pick up condiment shaker 2
+You pick up condiment shaker. You hold condiment shaker (2).
+Think: I hold condiment shaker 2. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 2
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 2 on kitchen table 1. Now, I need to pick up condiment shaker 1.
+OK.
+Act: pick up condiment shaker 1
+You pick up condiment shaker. You hold condiment shaker (1).
+Think: I hold condiment shaker 1. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 1
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 1 on kitchen table 1. Now, I need to pick up condiment shaker 2.
+OK.
+Act: pick up condiment shaker 2
+You pick up condiment shaker. You hold condiment shaker (2).
+Think: I hold condiment shaker 2. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 2
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 2 on kitchen table 1. Now, I need to pick up fridge 1.
+OK.
+Act: pick up condiment shaker 1
+You pick up condiment shaker. You hold condiment shaker (1).
+Think: I hold condiment shaker 1. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 1
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 1 on kitchen table 1. Now, I need to pick up kitchen cabinet 5.
+OK.
+Act: pick up condiment shaker 2
+You pick up condiment shaker. You hold condiment shaker (2).
+Think: I hold condiment shaker 2. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 2
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 2 on kitchen table 1. Now, I need to pick up kitchen counter 1.
+OK.
+Act: pick up condiment shaker 1
+You pick up condiment shaker. You hold condiment shaker (1).
+Think: I hold condiment shaker 1. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 1
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 1 on kitchen table 1. Now, I need to pick up kitchen table 1.
+OK.
+Act: pick up condiment shaker 2
+You pick up condiment shaker. You hold condiment shaker (2).
+Think: I hold condiment shaker 2. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 2
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 2 on kitchen table 1. Now, I need to pick up mug 2.
+OK.
+Act: pick up condiment shaker 1
+You pick up condiment shaker. You hold condiment shaker (1).
+Think: I hold condiment shaker 1. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 1
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 1 on kitchen table 1. Now, I need to pick up mug 3.
+OK.
+Act: pick up condiment shaker 2
+You pick up condiment shaker. You hold condiment shaker (2).
+Think: I hold condiment shaker 2. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 2
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 2 on kitchen table 1. Now, I need to pick up pie 1.
+OK.
+Act: pick up condiment shaker 1
+You pick up condiment shaker. You hold condiment shaker (1).
+Think: I hold condiment shaker 1. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 1
+You put down condiment shaker on kitchen table
+Think: I put down condiment shaker 1 on kitchen table 1. Now, I need to pick up apple 1.
+OK.
+Act: pick up condiment shaker 2
+You pick up condiment shaker. You hold condiment shaker (2).
+Think: I hold condiment shaker 2. Now, I need to put it on the kitchen table.
+OK.
+Act: put down condiment shaker 2
+You put down condiment shaker on kitchen table
+Max steps

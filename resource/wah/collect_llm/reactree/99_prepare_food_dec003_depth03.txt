@@ -1,0 +1,13 @@
+Your primary goal is to: 1. find all of: 1 wine, 1 cupcake, 1 pound cake, 1 apple, and 1 coffee pot and remember their location.
+2. remove all that are already on the kitchen table
+3. grab as much as you can hold by going to remembered locations
+4. go to kitchen table deposit at the table.
+5. if any elements aren't yet on the table go to step 3.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find all of: 1 wine, 1 cupcake, 1 pound cake, 1 apple, and 1 coffee pot and remember their location, remove all that are already on the kitchen table, grab as much as you can hold by going to remembered locations, go to kitchen table deposit at the table, and if any elements aren't yet on the table go to step 3.
+Your task is to: find all of: 1 wine
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a living room (1). Looking quickly around the room, you see chair (1), closet (1), computer (1), desk (1), nightstand (1), sofa (1), tv (1).
+Think: To solve the task, I need to find and remember the location of 1 wine. The wine is more likely to appear in kitchen 1, living room 1, or bedroom 1. I can check each room one by one until I find and remember the location of 1 wine.
+OK.
+Expand:
+- control flow: fallback
+- subgoals: find and remember the location of 1 wine in kitchen 1, find and remember the location of 1 wine in living room 1, and find and remember the location of 1 wine in bedroom 1.

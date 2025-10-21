@@ -1,0 +1,7 @@
+Your task is to: Take 1 wine glass and 1 fork from the cupboard and place them on the kitchen table
+You are in the house, and there are 5 rooms: bathroom (1), bedroom (1, 2), kitchen (1), living room (1). You are in the middle of a kitchen (1). Looking quickly around the room, you see bench (1, 2, 3, 4), bookshelf (1, 2), chair (1), dishwasher (1), faucet (1), fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (1, 3), kitchen table (1, 2), microwave oven (1), sink (1), stove (1), toaster (1).
+Think: To solve the task, I need to accomplish 2 subgoals independently. Move the wine glass on the kitchen table, and move the fork on the kitchen table.
+OK.
+Expand:
+- control flow: parallel
+- subgoals: move the wine glass on the kitchen table, move the fork on the kitchen table

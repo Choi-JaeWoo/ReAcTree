@@ -1,0 +1,13 @@
+Your primary goal is to: store the pancake, the glass of wine, the cupcake and the glass of juice in the fridge
+To achieve this, you should perform your sibling tasks in parallel. At this level, your sibling tasks are: store the pancake in the fridge, store the glass of wine in the fridge, store the cupcake in the fridge, and store the glass of juice in the fridge.
+Your task is to: store the pancake in the fridge
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a bedroom (1). Looking quickly around the room, you see bed (1), bookshelf (1), chair (1, 2), closet (1), coffee table (1), nightstand (1).
+Think: To solve the task, I need to recall the location of the pancake
+OK.
+Act: recall location of pancake
+You have not seen pancake before.
+Think: Now, I need to find and pick up the pancake in one of the rooms. The pancake is more likely to appear in kitchen 1, living room 1, or bedroom 1. I can check each room one by one until I find and pick up the pancake.
+OK.
+Expand:
+- control flow: fallback
+- subgoals: find and pick up the pancake in kitchen 1, find and pick up the pancake in living room 1, find and pick up the pancake in bedroom 1

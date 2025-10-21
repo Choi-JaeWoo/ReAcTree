@@ -1,0 +1,11 @@
+Your primary goal is to: I need you to bring me the following food items and put them on the coffee table:
+- 1 apple 
+- 1 pudding
+To achieve this, you should perform your sibling tasks in parallel. At this level, your sibling tasks are: move the apple on the coffee table, and move the pudding on the coffee table.
+Your task is to: move the pudding on the coffee table
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a living room (1). Looking quickly around the room, you see bookshelf (3), chair (2), closet (1), coffee table (2), computer (2), desk (2), sofa (2), tv (1).
+Think: To solve the task, I need to accomplish 2 subgoals sequentially. Find and pick up the pudding, and find the coffee table and put down the pudding.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up the pudding, find the coffee table and put down the pudding

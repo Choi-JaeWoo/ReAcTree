@@ -1,0 +1,67 @@
+Your task is to: Put one cutlery fork and a plate in the dishwasher and turn the dishwasher on.
+You are in the house, and there are 4 rooms: bathroom (1), bedroom (1), kitchen (1), living room (1). You are in the middle of a bedroom (1). Looking quickly around the room, you see bed (1), cabinet (1), chair (6), closet (2), nightstand (2), sofa (3).
+Think: To solve the task, I need to find and open the dishwasher. And I need to find and pick up the cutlery fork, then put it in the dishwasher. And I need to find and pick up the plate, then put it in the dishwasher. And I need to close and turn on the dishwasher.
+OK.
+Think: First, I need to find the dishwasher. The dishwasher is more likely to appear in kitchen 1.
+OK.
+Act: go to kitchen 1
+You move to the kitchen (1). Looking quickly around the room, you see bookshelf (1), chair (2, 3, 4, 5), dishwasher (1), faucet (1), fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8), kitchen counter (1), kitchen table (1), microwave oven (1), sink (1), sofa (2), stove (1), toaster (1), tv (2).
+Think: I can see dishwasher 1.
+OK.
+Act: go to dishwasher 1
+You arrive at the dishwasher (1). The dishwasher (1) is closed. You see cell phone (2), cereal (1), chair (2, 5), chocolate syrup (1), coffee pot (1), cupcake (2, 3), cutlets (1), dishwasher (1), kitchen cabinet (2, 3), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), mug (2, 3)
+Think: Dishwasher 1 is closed. Now, I need to open it.
+OK.
+Act: open dishwasher 1
+You open dishwasher. You see cell phone (2), cereal (1), chair (2, 5), chocolate syrup (1), coffee pot (1), cupcake (2, 3), cutlets (1), dishwasher (1), kitchen cabinet (2, 3), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), mug (2, 3)
+Think: I open dishwasher 1. Now, I need to find the cutlery fork. The cutlery fork is more likely to appear on kitchen table (1) or in fridge (1), kitchen cabinet (1, 2, 3, 4, 5, 6, 7, 8). I can check each place one by one, starting from kitchen table 1, until I find the cutlery fork.
+OK.
+Act: go to kitchen table 1
+You arrive at the kitchen table (1). You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (1), condiment shaker (1, 2), cupcake (2, 3), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pie (1), plate (1, 2), pudding (1)
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is closed. You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (1), condiment shaker (1, 2), cupcake (2, 3), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pie (1), pudding (1), sofa (2)
+Act: open fridge 1
+You open fridge. You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (1), condiment shaker (1, 2), cupcake (2, 3), cutlery fork (1), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pie (1), plate (1, 2), pudding (1), sofa (2), wine glass (1, 2)
+Think: I find cutlery fork 1. Now, I need to pick it up.
+OK.
+Act: pick up cutlery fork 1
+You pick up cutlery fork. You hold cutlery fork (1).
+Think: I hold cutlery fork 1. Now, I need to put it in the dishwasher.
+OK.
+Act: go to dishwasher 1
+You arrive at the dishwasher (1). The dishwasher (1) is open. You see cell phone (2), cereal (1), chair (2, 5), chocolate syrup (1), coffee pot (1), cupcake (2, 3), cutlery fork (1), cutlets (1), dishwasher (1), kitchen cabinet (2, 3), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), mug (2, 3) You hold cutlery fork (1).
+Think: Now, I need to put down cutlery fork 1.
+OK.
+Act: put down cutlery fork 1
+You put down cutlery fork in dishwasher
+Think: I put down cutlery fork 1 in dishwasher 1. Now, I need to find the plate. I already found the plate in fridge 1.
+OK.
+Act: go to fridge 1
+You arrive at the fridge (1). The fridge (1) is open. You see bananas (1, 2), bowl (2), chair (4, 5), coffee pot (1), condiment shaker (1, 2), cupcake (2, 3), fridge (1), kitchen cabinet (5), kitchen counter (1), kitchen table (1), mug (2, 3), pie (1), pudding (1), sofa (2), wine glass (1, 2)
+Think: I find plate 1. Now, I need to pick it up.
+OK.
+Act: pick up plate 1
+The plate is not close to you.
+Act: go to plate 1
+You arrive at the plate (1). You see chair (2, 3), coffee pot (1), kitchen counter (1), kitchen table (1), mug (2, 3), pie (1), plate (1, 2)
+Think: Now, I need to pick up plate 1.
+OK.
+Act: pick up plate 1
+You pick up plate. You hold plate (1).
+Think: I hold plate 1. Now, I need to put it in the dishwasher 1.
+OK.
+Act: go to dishwasher 1
+You arrive at the dishwasher (1). The dishwasher (1) is open. You see cell phone (2), cereal (1), chair (2, 5), chocolate syrup (1), coffee pot (1), cupcake (2, 3), cutlery fork (1), cutlets (1), dishwasher (1), kitchen cabinet (2, 3), kitchen counter (1), kitchen table (1), microwave oven (1), minced meat (1), mug (2, 3), plate (1) You hold plate (1).
+Think: Now, I need to put down plate 1.
+OK.
+Act: put down plate 1
+You put down plate in dishwasher
+Think: I put down plate 1 in dishwasher 1. Now, I need to close and turn on dishwasher 1.
+OK.
+Act: close dishwasher 1
+You close dishwasher.
+Act: turn on dishwasher 1
+You turn on dishwasher.
+Think: Now I accomplish the goal.
+OK.
+Act: done
