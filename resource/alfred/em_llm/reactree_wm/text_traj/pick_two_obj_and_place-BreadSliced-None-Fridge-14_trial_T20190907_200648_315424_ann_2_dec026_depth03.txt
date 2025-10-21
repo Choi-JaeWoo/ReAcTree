@@ -1,0 +1,19 @@
+Your primary goal is to: Place slices of bread into the refrigerator.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, slice and pick up bread, place bread in fridge, find and pick up bread away from fridge, and place bread in fridge.
+Your task is to: find and pick up bread away from fridge
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8).
+Think: First, I need to recall location of the bread.
+OK.
+Act: recall location of Bread
+You saw Bread (3) near CounterTop (2). You saw Bread (4) near Fridge (1). You saw Bread (5) near CounterTop (1). You saw Bread (6) near CounterTop (1). You saw Bread (7) near CounterTop (1). You saw Bread (8) near CounterTop (1). You saw Bread (9) near CounterTop (1).
+Think: Bread (4) is in Fridge (1). I can find another bread, Bread (5), near CounterTop (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Tomato (2), Spatula (1), Pan (1), Lettuce (1), CounterTop (1), Chair (1, 2), Bread (5, 6, 7, 8, 9). 
+Think: I find Bread (5). Now, I need to pick it up.
+OK.
+Act: pick up Bread (5)
+You pick up Bread (5). You see Tomato (2), Spatula (1), Pan (1), Lettuce (1), CounterTop (1), Chair (1, 2), Bread (5, 6, 7, 8, 9). I am holding Bread (5) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

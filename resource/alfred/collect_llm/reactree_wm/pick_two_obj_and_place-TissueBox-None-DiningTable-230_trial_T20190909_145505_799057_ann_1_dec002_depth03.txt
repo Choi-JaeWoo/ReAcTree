@@ -1,0 +1,33 @@
+Your primary goal is to: place two paper boxes on the dining
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up paper box, place paper box on dining table, Find and pick up paper box away from dining table, and place paper box on dining table.
+Your task is to: find and pick up paper box
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2), GarbageCan (1), DiningTable (1), CoffeeTable (1, 2), ArmChair (1, 2).
+Think: First, I need to recall location of the paper box.
+OK.
+Act: recall location of Box
+You have not seen Box before.
+Think: Now, I need to find the paper box. The paper box is more likely to appear on DiningTable (1), CoffeeTable (1-2), SideTable (1-2), or in Sofa (1), ArmChair (1-2). I can check each place one by one, starting from DiningTable (1), until I find the paper box.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see RemoteControl (1), Newspaper (1), Laptop (1, 2), KeyChain (2), CreditCard (2), Chair (1, 2). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (1, 2), TissueBox (1, 2), Plate (2, 3), KeyChain (1), HousePlant (1), CoffeeTable (1), Box (2). 
+Act: go to CoffeeTable (2)
+You arrive at CoffeeTable (2). You see Television (1), RemoteControl (2), CreditCard (1), CoffeeTable (2), Candle (3). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Window (4, 6), SideTable (1), Lamp (2), Chair (4), Candle (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), Lamp (1), Candle (2). 
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1), Laptop (3). 
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Sofa (1), ArmChair (1, 2). 
+Act: go to ArmChair (2)
+You arrive at ArmChair (2). You see CreditCard (3), ArmChair (1, 2). 
+Think: I find Box (2). Now, I need to pick it up.
+OK.
+Act: pick up CreditCard (3)
+You pick up CreditCard (3). You see CreditCard (3), ArmChair (1, 2). I am holding CreditCard (3) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

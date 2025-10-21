@@ -1,0 +1,27 @@
+Your primary goal is to: Put a pan with a large knife in it on a white table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pan, place pan on table, find and pick up knife, and place knife on pan near table.
+Your task is to: find and pick up knife
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11).
+Think: First, I need to recall location of the knife.
+OK.
+Act: recall location of Knife
+You saw Knife (1) near Cabinet (7). You saw Knife (2) near Drawer (2). You saw Knife (3) near Drawer (2).
+Think: I can find Knife (1) near Cabinet (7). I can find Knife (2) near Drawer (2). I can find Knife (3) near Drawer (2).
+OK.
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Toaster (1), Sink (1), SinkBasin (1), Potato (2), Mug (2), Knife (1), Faucet (1), Egg (1), CounterTop (2), Cabinet (4, 5, 6, 7, 9), ButterKnife (2), Bowl (1). Cabinet (7) is closed. 
+Act: open Cabinet (7)
+You open Cabinet (7). You see GarbageCan (1), CounterTop (2), Cabinet (4, 5, 6, 7, 9).
+Act: close Cabinet (7)
+You close Cabinet (7). You see GarbageCan (1), CounterTop (2), Cabinet (4, 5, 6, 7, 9).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see WineBottle (2, 3), StoveBurner (1, 2), Spatula (1), Potato (1), PepperShaker (1), Pan (1), Mug (1), Lettuce (1), Kettle (1), Drawer (2), DishSponge (3), CounterTop (1), Cabinet (2), ButterKnife (3). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see WineBottle (2, 3), StoveBurner (1, 2), Potato (1), PepperShaker (1), Pan (1), Mug (1), Lettuce (1), Knife (2, 3), Kettle (1), Drawer (2), DishSponge (3), CounterTop (1), ButterKnife (3).
+Think: I find Knife (2). Now, I need to pick it up.
+OK.
+Act: pick up Knife (2)
+You pick up Knife (2). You see WineBottle (2, 3), StoveBurner (1, 2), Potato (1), PepperShaker (1), Pan (1), Mug (1), Lettuce (1), Knife (2, 3), Kettle (1), Drawer (2), DishSponge (3), CounterTop (1), ButterKnife (3). I am holding Knife (2) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

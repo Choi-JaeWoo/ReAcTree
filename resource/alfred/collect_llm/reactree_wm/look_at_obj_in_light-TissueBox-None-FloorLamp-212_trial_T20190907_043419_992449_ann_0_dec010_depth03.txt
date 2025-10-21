@@ -1,0 +1,39 @@
+Your primary goal is to: turn on the green lamp while holding a box of tissues
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up box of tissues, and find and turn on green lamp.
+Your task is to: find and turn on green lamp
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1, 2), Sofa (1), SideTable (1), Shelf (1, 2, 3, 4), GarbageCan (1), Drawer (1), CoffeeTable (1), ArmChair (1, 2). I am holding TissueBox (2) now.
+Think: First, I need to recall location of the green lamp.
+OK.
+Act: recall location of DeskLamp
+You have not seen DeskLamp before.
+Think: Now I need to find the green lamp. The green lamp is more likely to appear near TVStand (1-2), Sofa (1), SideTable (1), CoffeeTable (1), ArmChair (1-2), Shelf (1-5), or in Drawer (1). I can check each place one by one, starting from TVStand (1), until I find the green lamp.
+OK.
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see WateringCan (1), TissueBox (2), Television (1), TVStand (1), Shelf (1, 3), Pen (1, 2).  I am holding TissueBox (2) now.
+Act: go to TVStand (2)
+You arrive at TVStand (2). You see TissueBox (1, 2, 3), TVStand (2), Statue (2), Shelf (2, 4), Pen (3), Box (1).  I am holding TissueBox (2) now.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see TissueBox (2), Sofa (1), RemoteControl (1), Pillow (1).  I am holding TissueBox (2) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see TissueBox (2), SideTable (1), Drawer (1), Boots (1).  I am holding TissueBox (2) now.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see WateringCan (1), TissueBox (2), Television (1), TVStand (1), Shelf (1, 3), Pen (1, 2).  I am holding TissueBox (2) now.
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see TissueBox (1, 2, 3), TVStand (2), Statue (2), Shelf (2, 4), Pen (3), Box (1).  I am holding TissueBox (2) now.
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see WateringCan (1), TissueBox (2), Television (1), TVStand (1), Shelf (3), Pen (1, 2).  I am holding TissueBox (2) now.
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see TissueBox (1, 2, 3), TVStand (2), Statue (2), Shelf (4), Pen (3), Box (1).  I am holding TissueBox (2) now.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see WateringCan (1), TissueBox (2), Television (1), TVStand (1), Shelf (1, 3), Pen (1, 2).  I am holding TissueBox (2) now.
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see TissueBox (1, 2, 3), TVStand (2), Statue (2), Shelf (2, 4), Pen (3), Box (1).  I am holding TissueBox (2) now.
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see WateringCan (1), TissueBox (2), Television (1), TVStand (1), Shelf (3), Pen (1, 2).  I am holding TissueBox (2) now.
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see TissueBox (1, 2, 3), TVStand (2), Statue (2), Shelf (4), Pen (3), Box (1).  I am holding TissueBox (2) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see TissueBox (2), SideTable (1), FloorLamp (1), Drawer (1), Boots (1). Drawer (1) is closed.  I am holding TissueBox (2) now.
+Think: I cannot find the green lamp.
+OK.
+Act: failure

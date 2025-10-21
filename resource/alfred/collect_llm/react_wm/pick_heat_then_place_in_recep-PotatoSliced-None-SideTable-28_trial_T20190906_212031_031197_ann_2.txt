@@ -1,0 +1,114 @@
+Your task is to: Use knife to slice potato, cook potato in microwave, followed by placing on black table. 
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11).
+Think: To solve the task, I need to find and pick up the knife, then find and slice the potato. And I need to put down the knife and pick up the potato, then put it in the microwave. And I need to turn on and off the microwave. And I need to pick up the potato from the microwave, then put it on the black table.
+OK.
+Think: First, I need to recall location of the knife.
+OK.
+Act: recall location of Knife
+You have not seen Knife before.
+Think: Now I need to find the knife. The knife is more likely to appear on CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-11), Drawer (1-3). I can check each place one by one, starting from CounterTop (1), until I find the knife.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see StoveKnob (1), StoveBurner (3), Spoon (2, 3), SaltShaker (1), Pot (1), Fridge (1), Drawer (3), CounterTop (1), Cabinet (10). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Window (1), Toaster (1), GarbageCan (1), CounterTop (2), CoffeeMachine (1), ButterKnife (3). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (1), Sink (1), SinkBasin (1), Faucet (1), Drawer (1, 2), DishSponge (1), CounterTop (2), Cabinet (2, 4, 8). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Cabinet (10). Fridge (1) is closed. 
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Pot (1), Pan (1), Microwave (1), CounterTop (1). Microwave (1) is closed. 
+Think: I find Knife (1). Now, I need to pick it up.
+OK.
+Act: pick up Pot (1)
+You pick up Pot (1). You see Pot (1), Pan (1), Microwave (1), CounterTop (1). I am holding Pot (1) now.
+Think: I hold Pot (1). Now, I need to recall location of the potato.
+OK.
+Act: recall location of Potato
+You have not seen Potato before.
+Think: Now I need to find the potato. The potato is more likely to appear on CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-11), Drawer (1-3). I can check each place one by one, starting from CounterTop (1), until I find the potato.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see StoveKnob (1), StoveBurner (2, 3), Spoon (3), SaltShaker (1), Pot (1), Fridge (1), CounterTop (1).  I am holding Pot (1) now.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Window (1), Toaster (1), Pot (1), CounterTop (2), CoffeeMachine (1), ButterKnife (3).  I am holding Pot (1) now.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (1), Sink (1), SinkBasin (1), Pot (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (2).  I am holding Pot (1) now.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Pot (1), Fridge (1). Fridge (1) is closed.  I am holding Pot (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Pot (1), Pan (1), Microwave (1), CounterTop (1). Microwave (1) is closed.  I am holding Pot (1) now.
+Think: I find Potato (1). Now, I need to slice it.
+OK.
+Act: go to Pot (1)
+You arrive at Pot (1). You see Spatula (1), Pot (1), Pan (1), CounterTop (1).  I am holding Pot (1) now.
+Act: go to Pan (1)
+You arrive at Pan (1). You see StoveBurner (2), Spatula (1), Pot (1), Pan (1), CounterTop (1).  I am holding Pot (1) now.
+Act: go to StoveBurner (2)
+You arrive at StoveBurner (2). You see StoveBurner (2, 4), Spoon (3), SaltShaker (1), Pot (1), Pan (1), CounterTop (1).  I am holding Pot (1) now.
+Act: go to Spoon (3)
+You see StoveBurner (2, 2, 3, 4), Spoon (3, 3), SaltShaker (1, 1), Pot (1, 1), Pan (1), Fridge (1), CounterTop (1, 1).  I am holding Pot (1) now.
+Act: go to SaltShaker (1)
+You see StoveBurner (2, 2, 3, 3), Spoon (3), SaltShaker (1, 1), Pot (1, 1), Microwave (1), Fridge (1, 1), CounterTop (1), Cabinet (1).  I am holding Pot (1) now.
+Act: go to StoveBurner (3)
+You arrive at StoveBurner (3). You see StoveKnob (4), StoveBurner (1, 2, 3, 4), Spoon (2), SaltShaker (1), Pot (1), Pan (1), CounterTop (1).  I am holding Pot (1) now.
+Act: go to StoveKnob (4)
+You see StoveBurner (2, 3, 4), Spatula (1), Pot (1), Pan (1), Drawer (2), DishSponge (2), CounterTop (2), Cabinet (8).  I am holding Pot (1) now.
+Act: go to Spatula (1)
+You see StoveBurner (4), Sink (1), Pot (1), Pan (1), Microwave (1), Drawer (2), DishSponge (1, 2), Cabinet (8, 11).  I am holding Pot (1) now.
+Act: go to Sink (1)
+You see Tomato (1), Sink (1), SinkBasin (1), Pot (1), Faucet (1), DishSponge (1), CounterTop (2).  I am holding Pot (1) now.
+Act: go to Tomato (1)
+You see Sink (1), SinkBasin (1), Pot (1), Faucet (1), Drawer (2).  I am holding Pot (1) now.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (1), Sink (1), SinkBasin (1), Pot (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (2).  I am holding Pot (1) now.
+Act: go to Faucet (1)
+You see Sink (1), SinkBasin (1), Pot (1), DishSponge (1), CounterTop (2), Cabinet (3).  I am holding Pot (1) now.
+Act: go to DishSponge (1)
+You see Spatula (1), SinkBasin (1), Pot (1), Pan (1), Drawer (2), DishSponge (1, 2), CounterTop (2), Cabinet (2).  I am holding Pot (1) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Tomato (1), SoapBottle (1), Sink (1), SinkBasin (1), Pot (1), CounterTop (2), ButterKnife (3). Drawer (1) is closed.  I am holding Pot (1) now.
+Act: go to SoapBottle (1)
+You see Window (1), SoapBottle (1), Sink (1), SinkBasin (1), Pot (1), CounterTop (2).  I am holding Pot (1) now.
+Act: go to Window (1)
+You see Window (1), Toaster (1), Pot (1), Blinds (1).  I am holding Pot (1) now.
+Act: go to Toaster (1)
+You arrive at Toaster (1). You see Window (1), Toaster (1), Pot (1), Mug (1), GarbageCan (1), CoffeeMachine (1), ButterKnife (3).  I am holding Pot (1) now.
+Act: go to Mug (1)
+You arrive at Mug (1). You see Toaster (1), Pot (1), Mug (1), DiningTable (1), CoffeeMachine (1).  I am holding Pot (1) now.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Pot (1), Plate (1), Lettuce (1), DiningTable (1), Cup (2).  I am holding Pot (1) now.
+Act: go to Plate (1)
+You arrive at Plate (1). You see Pot (1), Lettuce (1), DiningTable (1), Cup (2).  I am holding Pot (1) now.
+Act: go to Lettuce (1)
+You see Pot (1), Lettuce (1), Fork (2), DiningTable (1), Cup (2).  I am holding Pot (1) now.
+Act: go to Fork (2)
+You see Pot (1), Plate (1), Lettuce (1), DiningTable (1), Cup (2), CounterTop (2).  I am holding Pot (1) now.
+Act: go to Cup (2)
+You arrive at Cup (2). You see Pot (1), Lettuce (1), Fork (2), DiningTable (1), Cup (2).  I am holding Pot (1) now.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Pot (1), Plate (1), Lettuce (1), DiningTable (1), Cup (2).  I am holding Pot (1) now.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Window (1), Toaster (1), Pot (1), CounterTop (2), CoffeeMachine (1), ButterKnife (3).  I am holding Pot (1) now.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see Toaster (1), Pot (1), CoffeeMachine (1).  I am holding Pot (1) now.
+Act: go to GarbageCan (1)
+You arrive at GarbageCan (1). You see Toaster (1), Pot (1), Mug (1), GarbageCan (1), CounterTop (2), CoffeeMachine (1).  I am holding Pot (1) now.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Window (1), Toaster (1), Pot (1), CounterTop (2), CoffeeMachine (1), ButterKnife (3).  I am holding Pot (1) now.
+Act: go to ButterKnife (3)
+You see Window (1), Toaster (1), SoapBottle (1), Pot (1), Drawer (1), Cabinet (4).  I am holding Pot (1) now.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see Tomato (1), SoapBottle (1), Sink (1), SinkBasin (1), Pot (1), Drawer (1, 2), CounterTop (2), Cabinet (2), ButterKnife (3). Cabinet (4) is closed.  I am holding Pot (1) now.
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see StoveKnob (3, 4), StoveBurner (4), Spatula (1), Pot (1), Pan (1), Drawer (2), DishSponge (1, 2), CounterTop (2), Cabinet (2, 8). Cabinet (2) is closed.  I am holding Pot (1) now.
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Tomato (1), Spatula (1), Sink (1), SinkBasin (1), Pot (1), Pan (1), Drawer (1, 2), DishSponge (1, 2), CounterTop (2), Cabinet (2). Cabinet (8) is closed.  I am holding Pot (1) now.
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see StoveKnob (3, 4), StoveBurner (4), Spatula (1), Pot (1), Pan (1), Drawer (2), DishSponge (1, 2), CounterTop (2), Cabinet (2, 8). Cabinet (2) is closed.  I am holding Pot (1) now.
+Act: go to StoveKnob (3)
+You see StoveKnob (1), StoveBurner (2, 3, 4), Spoon (2, 3), SaltShaker (1), Pot (1), Pan (1), Drawer (3), CounterTop (1, 2), Cabinet (2).  I am holding Pot (1) now.
+Act: go to StoveKnob (1)
+You see StoveKnob (3, 4), StoveBurner (1, 2, 3, 4), Spoon (2), SaltShaker (1), Pot (1), Pan (1), CounterTop (1).  I am holding Pot (1) now.
+Act: go to StoveBurner (1)
+You arrive at StoveBurner (1). You see StoveKnob (1), StoveBurner (2, 3), Spatula (1), Pot (1), Pan (1), CounterTop (1, 2).  I am holding Pot (1) now.

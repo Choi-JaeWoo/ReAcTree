@@ -1,0 +1,22 @@
+Your task is to: Put the mug with pen on the desk
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1), LaundryHamper (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5), Desk (1), Bed (1).
+Think: To solve the task, I need to find and pick up the mug, then put it on the desk. And I need to find and pick up the pen, then put it on the mug on the desk.
+OK.
+Think: First, I need to recall location of the mug.
+OK.
+Act: recall location of Mug
+You have not seen Mug before.
+Think: Now I need to find the mug. The mug is more likely to appear on Desk (1), or in Dresser (1), Drawer (1-5). I can check each place one by one, starting from Desk (1), until I find the mug.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), GarbageCan (1), Drawer (2, 3), Desk (1), Chair (1), CellPhone (1), CD (3), Bowl (1), AlarmClock (2, 3). 
+Think: I find Mug (1). Now, I need to pick it up.
+OK.
+Act: pick up Pen (1)
+You pick up Pen (1). You see Pen (1), GarbageCan (1), Drawer (2, 3), Desk (1), Chair (1), CellPhone (1), CD (3), Bowl (1), AlarmClock (2, 3). I am holding Pen (1) now.
+Think: I hold Pen (1). Now, I need to put it on the desk.
+OK.
+Act: put down Pen (1)
+You put down failed, drop it. You see Pen (1), GarbageCan (1), Drawer (2, 3), Desk (1), Chair (1), CellPhone (1), CD (3), Bowl (1), AlarmClock (2, 3).
+Think: I put Pen (1) on the Desk (1). Now, I need to recall location of the pen.
+OK.

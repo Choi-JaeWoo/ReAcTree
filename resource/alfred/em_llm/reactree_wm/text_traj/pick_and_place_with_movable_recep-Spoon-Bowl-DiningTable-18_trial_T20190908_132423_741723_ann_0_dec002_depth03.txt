@@ -1,0 +1,21 @@
+Your primary goal is to: Put a bowl with a spoon in it on the table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up bowl, place bowl on table, find and pick up spoon, and place spoon on bowl near table.
+Your task is to: find and pick up bowl
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Safe (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16).
+Think: First, I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: Now, I need to find the bowl. The bowl is more likely to appear on DiningTable (1), CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-16), Drawer (1-5). I can check each place one by one, starting from DiningTable (1), until I find the bowl.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spoon (3), SaltShaker (1), Potato (3), PepperShaker (1), Lettuce (2, 3), Knife (2, 3), HousePlant (1), DishSponge (1), DiningTable (1), Cup (1, 2), ButterKnife (2), Apple (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see CounterTop (1), CoffeeMachine (1), Bread (1), Bowl (1). 
+Think: I find Bowl (1). Now, I need to pick it up.
+OK.
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see CounterTop (1), CoffeeMachine (1), Bread (1), Bowl (1). I am holding Bowl (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,7 @@
+Your task is to: Put the box with statue on the desk
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1, 2), Shelf (1, 2, 3), Safe (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), Desk (1), CoffeeTable (1), ArmChair (1).
+Think: Since I’m not holding anything, I need to accomplish 3 subgoals sequentially to solve the task. Find and pick up box, find and pick up statue, and place box with statue on desk.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up box, find and pick up statue, place box with statue on desk

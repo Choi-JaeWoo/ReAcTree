@@ -1,0 +1,7 @@
+Your task is to: To put two tissue boxes on the night stand.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1, 2), GarbageCan (1), Drawer (1, 2), DiningTable (1), Bed (1), ArmChair (1).
+Think: Since I’m not holding the tissue box, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up tissue box, place tissue box on night stand, Find and pick up tissue box away from night stand, and place tissue box on night stand.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up tissue box, place tissue box on night stand, find and pick up tissue box away from night stand, place tissue box on night stand

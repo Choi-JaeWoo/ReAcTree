@@ -1,0 +1,49 @@
+Your primary goal is to: Put cooked potato slice in the sink.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up potato slice, cook and pick up potato slice, and place potato slice in sink basin.
+Your task is to: cook and pick up potato slice
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8). I am holding Potato (1) now.
+Think: I hold Potato (1). Now, I need to recall location of the stove.
+OK.
+Act: recall location of Statue
+You have not seen Statue before.
+Think: Now, I need to find the stove. The stove is more likely to appear on CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-8). I can check each place one by one, starting from CounterTop (1), until I find the stove.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Tomato (2, 3), Spoon (3), SaltShaker (2), Potato (1), Pan (1), Ladle (1), Knife (3), GarbageCan (1), Cup (1), CounterTop (1), Chair (1, 2), ButterKnife (1).  I am holding Potato (1) now.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Window (2), Sink (1), SinkBasin (1), SaltShaker (1), Potato (1, 2), Mug (1), Knife (2), Fork (1), Faucet (1), DishSponge (1), CounterTop (2), CoffeeMachine (1), Apple (1).  I am holding Potato (1) now.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Sink (1), SinkBasin (1), SaltShaker (1), Potato (1, 2), Knife (1, 2), Fork (1), Faucet (1), DishSponge (1), CounterTop (2), CoffeeMachine (1), Apple (1).  I am holding Potato (1) now.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1). Fridge (1) is closed.  I am holding Potato (1) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Potato (1), Lettuce (2), Fridge (1), Egg (2), Bowl (1). I am holding Potato (1) now.
+Act: close Fridge (1)
+You close Fridge (1). You see Potato (1), Fridge (1). I am holding Potato (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see StoveBurner (1, 2), Potato (1), Pot (2), Microwave (1), Knife (1), CounterTop (2). Microwave (1) is closed.  I am holding Potato (1) now.
+Act: open Microwave (1)
+You open Microwave (1). You see Potato (1), Pot (2), Microwave (1), Knife (1), Egg (1), CounterTop (2). I am holding Potato (1) now.
+Think: I find StoveBurner (1). Now, I need to turn it on.
+OK.
+Act: turn on Microwave (1)
+ I am holding Potato (1) now.
+Think: I turn on StoveBurner (1). Now, I need to put down the potato.
+OK.
+Act: recall location of Potato
+You saw Potato (1) near hand. You saw Potato (2) near SinkBasin (1).
+Think: I can find Potato (1) near hand.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Tomato (2, 3), Spoon (3), SaltShaker (2), Potato (1), Pan (1), Ladle (1), Knife (3), GarbageCan (1), Cup (1), CounterTop (1), Chair (1, 2), ButterKnife (1).  I am holding Potato (1) now.
+Think: I find Potato (1). Now, I need to put it down.
+OK.
+Act: put down Potato (1)
+You put Potato (1) on CounterTop (1). You see Tomato (2, 3), Spoon (3), SaltShaker (2), Potato (1), Pan (1), Ladle (1), Knife (3), GarbageCan (1), Cup (1), CounterTop (1), Chair (1, 2), ButterKnife (1).
+Think: Now I need to pick up Potato (1).
+OK.
+Act: pick up Potato (1)
+You pick up Potato (1). You see Tomato (2, 3), Spoon (3), SaltShaker (2), Potato (1), Pan (1), Ladle (1), Knife (3), GarbageCan (1), Cup (1), CounterTop (1), Chair (1, 2), ButterKnife (1). I am holding Potato (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

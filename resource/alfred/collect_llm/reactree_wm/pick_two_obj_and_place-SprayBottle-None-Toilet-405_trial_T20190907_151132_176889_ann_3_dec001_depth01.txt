@@ -1,0 +1,7 @@
+Your task is to: Put two spray bottles on a toilet tank.
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1), HandTowelHolder (1, 2), GarbageCan (1), CounterTop (1), Cabinet (1, 2, 3, 4, 5), Bathtub (1), BathtubBasin (1).
+Think: Since I’m not holding spray bottle, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up spray bottle, place spray bottle on toilet tank, Find and pick up spray bottle away from toilet tank, and place spray bottle on toilet tank.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up spray bottle, place spray bottle on toilet tank, Find and pick up spray bottle away from toilet tank, place spray bottle on toilet tank

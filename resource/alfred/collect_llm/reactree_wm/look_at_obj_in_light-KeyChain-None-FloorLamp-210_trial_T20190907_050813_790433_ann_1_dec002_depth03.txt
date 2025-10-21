@@ -1,0 +1,21 @@
+Your primary goal is to: Grab the key chain from the ottoman, turn on the floor lamp
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up key chain, and turn on floor lamp.
+Your task is to: find and pick up key chain
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), Ottoman (1), GarbageCan (1), Dresser (1, 2), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CoffeeTable (1, 2), ArmChair (1).
+Think: First, I need to recall location of the key chain.
+OK.
+Act: recall location of KeyChain
+You have not seen KeyChain before.
+Think: Now, I need to find the key chain. The key chain is more likely to appear on Sofa (1), Ottoman (1), CoffeeTable (1-2), or in Dresser (1-2), Drawer (1-8). I can check each place one by one, starting from Sofa (1), until I find the key chain.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1), Newspaper (2), Laptop (1). 
+Act: go to Ottoman (1)
+You arrive at Ottoman (1). You see Ottoman (1), Newspaper (1, 3), Laptop (2), KeyChain (1). 
+Think: I find KeyChain (1). Now, I need to pick it up.
+OK.
+Act: pick up KeyChain (1)
+You pick up KeyChain (1). You see Ottoman (1), Newspaper (1, 3), Laptop (2), KeyChain (1). I am holding KeyChain (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

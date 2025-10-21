@@ -1,0 +1,7 @@
+Your task is to: grab the disc on the table, turn on the lamp
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1), GarbageCan (1), Drawer (1, 2), Desk (1), Bed (1).
+Think: Since I’m not holding the disc, I need to accomplish 2 subgoals sequentially to solve the task. Find and pick up disc and turn on lamp.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up disc, turn on lamp

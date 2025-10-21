@@ -1,0 +1,21 @@
+Your primary goal is to: Put a pan with a cold tomato and a butter knife in it on a counter. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pan, place pan on counter, find and pick up tomato, cool and pick up tomato, and place tomato on pan near counter.
+Your task is to: cool and pick up tomato
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19). I am holding Tomato (1) now.
+Think: I hold Tomato (1). I need to cool it using the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (1), Potato (2, 3), Fridge (1), Egg (2), Bowl (1). Fridge (1) is open.  I am holding Tomato (1) now.
+Act: put down Tomato (1)
+You put Tomato (1) on Fridge (1). You see Tomato (1), Potato (2, 3), Fridge (1), Egg (2), Bowl (1).
+Act: close Fridge (1)
+You close Fridge (1). You see Pan (1), Fridge (1), Cabinet (11).
+Think: I cool Tomato (1) using Fridge (1). Now, I need to pick up the tomato from the fridge.
+OK.
+Act: open Fridge (1)
+You open Fridge (1). You see Tomato (1), Potato (2, 3), Fridge (1), Egg (2), Bowl (1).
+Act: pick up Tomato (1)
+You pick up Tomato (1). You see Tomato (1), Potato (2, 3), Fridge (1), Egg (2), Bowl (1). I am holding Tomato (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

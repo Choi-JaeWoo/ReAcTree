@@ -1,0 +1,161 @@
+Your primary goal is to: Place a kettle holding a spoon on a kitchen counter.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up kettle, place kettle on countertop, find and pick up spoon, and place spoon on kettle near countertop.
+Your task is to: place spoon on kettle near countertop
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20). I am holding Spoon (1) now.
+Think: I hold Spoon (1). Now, I need to recall location of the kettle.
+OK.
+Act: recall location of Kettle
+You saw Kettle (1) near CounterTop (1).
+Think: I can find Kettle (1) on CounterTop (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spoon (1), Plate (1, 2), Kettle (1), Fork (3), Drawer (2, 5), CounterTop (1), Cabinet (5, 16), Bowl (3).  I am holding Spoon (1) now.
+Think: I find Kettle (1). Now, I need to put down Spoon (1) on Kettle (1).
+OK.
+Act: go to Kettle (1)
+You see Spoon (1, 3), Plate (1, 2), Kettle (1), Fork (3), Drawer (2, 4, 5), CounterTop (1), Cabinet (1, 5, 14, 16), Bowl (3). Kettle (1) is closed.  I am holding Spoon (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Spoon (1, 3), Plate (1, 2), Kettle (1), Fork (3), Drawer (2, 4, 5), CounterTop (1), Cabinet (1, 5, 14, 16), Bowl (3). I am holding Spoon (1) now.
+Act: go to Kettle (1)
+You already arrive at Kettle (1). You see Spoon (1, 1, 3, 3), Plate (1, 1, 2, 2), Kettle (1, 1), Fork (3, 3), Drawer (2, 2, 4, 4, 5, 5), CounterTop (1, 1), Cabinet (1, 1, 5, 5, 14, 14, 16, 16), Bowl (3, 3). Kettle (1) is closed.  I am holding Spoon (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Spoon (1, 3), Plate (1, 2), Kettle (1), Fork (3), Drawer (2, 4, 5), CounterTop (1), Cabinet (1, 5, 14, 16), Bowl (3). I am holding Spoon (1) now.
+Act: go to Kettle (1)
+You already arrive at Kettle (1). You see Spoon (1, 1, 3, 3), Plate (1, 1, 2, 2), Kettle (1, 1), Fork (3, 3), Drawer (2, 2, 4, 4, 5, 5), CounterTop (1, 1), Cabinet (1, 1, 5, 5, 14, 14, 16, 16), Bowl (3, 3). Kettle (1) is closed.  I am holding Spoon (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Spoon (1, 3), Plate (1, 2), Kettle (1), Fork (3), Drawer (2, 4, 5), CounterTop (1), Cabinet (1, 5, 14, 16), Bowl (3). I am holding Spoon (1) now.
+Act: go to Kettle (1)
+You already arrive at Kettle (1). You see Spoon (1, 1, 3, 3), Plate (1, 1, 2, 2), Kettle (1, 1), Fork (3, 3), Drawer (2, 2, 4, 4, 5, 5), CounterTop (1, 1), Cabinet (1, 1, 5, 5, 14, 14, 16, 16), Bowl (3, 3). Kettle (1) is closed.  I am holding Spoon (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Spoon (1, 3), Plate (1, 2), Kettle (1), Fork (3), Drawer (2, 4, 5), CounterTop (1), Cabinet (1, 5, 14, 16), Bowl (3). I am holding Spoon (1) now.
+Act: go to Kettle (1)
+You already arrive at Kettle (1). You see Spoon (1, 1, 3, 3), Plate (1, 1, 2, 2), Kettle (1, 1), Fork (3, 3), Drawer (2, 2, 4, 4, 5, 5), CounterTop (1, 1), Cabinet (1, 1, 5, 5, 14, 14, 16, 16), Bowl (3, 3). Kettle (1) is closed.  I am holding Spoon (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Spoon (1, 3), Plate (1, 2), Kettle (1), Fork (3), Drawer (2, 4, 5), CounterTop (1), Cabinet (1, 5, 14, 16), Bowl (3). I am holding Spoon (1) now.
+Act: go to Kettle (1)
+You already arrive at Kettle (1). You see Spoon (1, 1, 3, 3), Plate (1, 1, 2, 2), Kettle (1, 1), Fork (3, 3), Drawer (2, 2, 4, 4, 5, 5), CounterTop (1, 1), Cabinet (1, 1, 5, 5, 14, 14, 16, 16), Bowl (3, 3). Kettle (1) is closed.  I am holding Spoon (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Spoon (1, 3), Plate (1, 2), Kettle (1), Fork (3), Drawer (2, 4, 5), CounterTop (1), Cabinet (1, 5, 14, 16), Bowl (3). I am holding Spoon (1) now.
+Act: go to Kettle (1)
+You already arrive at Kettle (1). You see Spoon (1, 1, 3, 3), Plate (1, 1, 2, 2), Kettle (1, 1), Fork (3, 3), Drawer (2, 2, 4, 4, 5, 5), CounterTop (1, 1), Cabinet (1, 1, 5, 5, 14, 14, 16, 16), Bowl (3, 3). Kettle (1) is closed.  I am holding Spoon (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Spoon (1, 3), Plate (1, 2), Kettle (1), Fork (3), Drawer (2, 4, 5), CounterTop (1), Cabinet (1, 5, 14, 16), Bowl (3). I am holding Spoon (1) now.
+Act: go to Kettle (1)
+You already arrive at Kettle (1). You see Spoon (1, 1, 3, 3), Plate (1, 1, 2, 2), Kettle (1, 1), Fork (3, 3), Drawer (2, 2, 4, 4, 5, 5), CounterTop (1, 1), Cabinet (1, 1, 5, 5, 14, 14, 16, 16), Bowl (3, 3). Kettle (1) is closed.  I am holding Spoon (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Spoon (1, 3), Plate (1, 2), Kettle (1), Fork (3), Drawer (2, 4, 5), CounterTop (1), Cabinet (1, 5, 14, 16), Bowl (3). I am holding Spoon (1) now.
+Act: go to Kettle (1)
+You already arrive at Kettle (1). You see Spoon (1, 1, 3, 3), Plate (1, 1, 2, 2), Kettle (1, 1), Fork (3, 3), Drawer (2, 2, 4, 4, 5, 5), CounterTop (1, 1), Cabinet (1, 1, 5, 5, 14, 14, 16, 16), Bowl (3, 3). Kettle (1) is closed.  I am holding Spoon (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Spoon (1, 3), Plate (1, 2), Kettle (1), Fork (3), Drawer (2, 4, 5), CounterTop (1), Cabinet (1, 5, 14, 16), Bowl (3). I am holding Spoon (1) now.
+Act: go to Kettle (1)
+You already arrive at Kettle (1). You see Spoon (1, 1, 3, 3), Plate (1, 1, 2, 2), Kettle (1, 1), Fork (3, 3), Drawer (2, 2, 4, 4, 5, 5), CounterTop (1, 1), Cabinet (1, 1, 5, 5, 14, 14, 16, 16), Bowl (3, 3). Kettle (1) is closed.  I am holding Spoon (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Spoon (1, 3), Plate (1, 2), Kettle (1), Fork (3), Drawer (2, 4, 5), CounterTop (1), Cabinet (1, 5, 14, 16), Bowl (3). I am holding Spoon (1) now.
+Act: go to Kettle (1)
+You already arrive at Kettle (1). You see Spoon (1, 1, 3, 3), Plate (1, 1, 2, 2), Kettle (1, 1), Fork (3, 3), Drawer (2, 2, 4, 4, 5, 5), CounterTop (1, 1), Cabinet (1, 1, 5, 5, 14, 14, 16, 16), Bowl (3, 3). Kettle (1) is closed.  I am holding Spoon (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Spoon (1, 3), Plate (1, 2), Kettle (1), Fork (3), Drawer (2, 4, 5), CounterTop (1), Cabinet (1, 5, 14, 16), Bowl (3). I am holding Spoon (1) now.
+Act: go to Kettle (1)
+You already arrive at Kettle (1). You see Spoon (1, 1, 3, 3), Plate (1, 1, 2, 2), Kettle (1, 1), Fork (3, 3), Drawer (2, 2, 4, 4, 5, 5), CounterTop (1, 1), Cabinet (1, 1, 5, 5, 14, 14, 16, 16), Bowl (3, 3). Kettle (1) is closed.  I am holding Spoon (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Spoon (1, 3), Plate (1, 2), Kettle (1), Fork (3), Drawer (2, 4, 5), CounterTop (1), Cabinet (1, 5, 14, 16), Bowl (3). I am holding Spoon (1) now.
+Act: go to Kettle (1)
+You already arrive at Kettle (1). You see Spoon (1, 1, 3, 3), Plate (1, 1, 2, 2), Kettle (1, 1), Fork (3, 3), Drawer (2, 2, 4, 4, 5, 5), CounterTop (1, 1), Cabinet (1, 1, 5, 5, 14, 14, 16, 16), Bowl (3, 3). Kettle (1) is closed.  I am holding Spoon (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Spoon (1, 3), Plate (1, 2), Kettle (1), Fork (3), Drawer (2, 4, 5), CounterTop (1), Cabinet (1, 5, 14, 16), Bowl (3). I am holding Spoon (1) now.
+Act: go to Kettle (1)
+You already arrive at Kettle (1). You see Spoon (1, 1, 3, 3), Plate (1, 1, 2, 2), Kettle (1, 1), Fork (3, 3), Drawer (2, 2, 4, 4, 5, 5), CounterTop (1, 1), Cabinet (1, 1, 5, 5, 14, 14, 16, 16), Bowl (3, 3). Kettle (1) is closed.  I am holding Spoon (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Spoon (1, 3), Plate (1, 2), Kettle (1), Fork (3), Drawer (2, 4, 5), CounterTop (1), Cabinet (1, 5, 14, 16), Bowl (3). I am holding Spoon (1) now.
+Act: go to Kettle (1)
+You already arrive at Kettle (1). You see Spoon (1, 1, 3, 3), Plate (1, 1, 2, 2), Kettle (1, 1), Fork (3, 3), Drawer (2, 2, 4, 4, 5, 5), CounterTop (1, 1), Cabinet (1, 1, 5, 5, 14, 14, 16, 16), Bowl (3, 3). Kettle (1) is closed.  I am holding Spoon (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Spoon (1, 3), Plate (1, 2), Kettle (1), Fork (3), Drawer (2, 4, 5), CounterTop (1), Cabinet (1, 5, 14, 16), Bowl (3). I am holding Spoon (1) now.
+Act: go to Kettle (1)
+You already arrive at Kettle (1). You see Spoon (1, 1, 3, 3), Plate (1, 1, 2, 2), Kettle (1, 1), Fork (3, 3), Drawer (2, 2, 4, 4, 5, 5), CounterTop (1, 1), Cabinet (1, 1, 5, 5, 14, 14, 16, 16), Bowl (3, 3). Kettle (1) is closed.  I am holding Spoon (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Spoon (1, 3), Plate (1, 2), Kettle (1), Fork (3), Drawer (2, 4, 5), CounterTop (1), Cabinet (1, 5, 14, 16), Bowl (3). I am holding Spoon (1) now.
+Act: go to Kettle (1)
+You already arrive at Kettle (1). You see Spoon (1, 1, 3, 3), Plate (1, 1, 2, 2), Kettle (1, 1), Fork (3, 3), Drawer (2, 2, 4, 4, 5, 5), CounterTop (1, 1), Cabinet (1, 1, 5, 5, 14, 14, 16, 16), Bowl (3, 3). Kettle (1) is closed.  I am holding Spoon (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Spoon (1, 3), Plate (1, 2), Kettle (1), Fork (3), Drawer (2, 4, 5), CounterTop (1), Cabinet (1, 5, 14, 16), Bowl (3). I am holding Spoon (1) now.
+Act: go to Kettle (1)
+You already arrive at Kettle (1). You see Spoon (1, 1, 3, 3), Plate (1, 1, 2, 2), Kettle (1, 1), Fork (3, 3), Drawer (2, 2, 4, 4, 5, 5), CounterTop (1, 1), Cabinet (1, 1, 5, 5, 14, 14, 16, 16), Bowl (3, 3). Kettle (1) is closed.  I am holding Spoon (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Spoon (1, 3), Plate (1, 2), Kettle (1), Fork (3), Drawer (2, 4, 5), CounterTop (1), Cabinet (1, 5, 14, 16), Bowl (3). I am holding Spoon (1) now.
+Act: go to Kettle (1)
+You already arrive at Kettle (1). You see Spoon (1, 1, 3, 3), Plate (1, 1, 2, 2), Kettle (1, 1), Fork (3, 3), Drawer (2, 2, 4, 4, 5, 5), CounterTop (1, 1), Cabinet (1, 1, 5, 5, 14, 14, 16, 16), Bowl (3, 3). Kettle (1) is closed.  I am holding Spoon (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Spoon (1, 3), Plate (1, 2), Kettle (1), Fork (3), Drawer (2, 4, 5), CounterTop (1), Cabinet (1, 5, 14, 16), Bowl (3). I am holding Spoon (1) now.
+Act: go to Kettle (1)
+You already arrive at Kettle (1). You see Spoon (1, 1, 3, 3), Plate (1, 1, 2, 2), Kettle (1, 1), Fork (3, 3), Drawer (2, 2, 4, 4, 5, 5), CounterTop (1, 1), Cabinet (1, 1, 5, 5, 14, 14, 16, 16), Bowl (3, 3). Kettle (1) is closed.  I am holding Spoon (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Spoon (1, 3), Plate (1, 2), Kettle (1), Fork (3), Drawer (2, 4, 5), CounterTop (1), Cabinet (1, 5, 14, 16), Bowl (3). I am holding Spoon (1) now.
+Act: go to Kettle (1)
+You already arrive at Kettle (1). You see Spoon (1, 1, 3, 3), Plate (1, 1, 2, 2), Kettle (1, 1), Fork (3, 3), Drawer (2, 2, 4, 4, 5, 5), CounterTop (1, 1), Cabinet (1, 1, 5, 5, 14, 14, 16, 16), Bowl (3, 3). Kettle (1) is closed.  I am holding Spoon (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Spoon (1, 3), Plate (1, 2), Kettle (1), Fork (3), Drawer (2, 4, 5), CounterTop (1), Cabinet (1, 5, 14, 16), Bowl (3). I am holding Spoon (1) now.
+Act: go to Kettle (1)
+You already arrive at Kettle (1). You see Spoon (1, 1, 3, 3), Plate (1, 1, 2, 2), Kettle (1, 1), Fork (3, 3), Drawer (2, 2, 4, 4, 5, 5), CounterTop (1, 1), Cabinet (1, 1, 5, 5, 14, 14, 16, 16), Bowl (3, 3). Kettle (1) is closed.  I am holding Spoon (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Spoon (1, 3), Plate (1, 2), Kettle (1), Fork (3), Drawer (2, 4, 5), CounterTop (1), Cabinet (1, 5, 14, 16), Bowl (3). I am holding Spoon (1) now.
+Act: go to Kettle (1)
+You already arrive at Kettle (1). You see Spoon (1, 1, 3, 3), Plate (1, 1, 2, 2), Kettle (1, 1), Fork (3, 3), Drawer (2, 2, 4, 4, 5, 5), CounterTop (1, 1), Cabinet (1, 1, 5, 5, 14, 14, 16, 16), Bowl (3, 3). Kettle (1) is closed.  I am holding Spoon (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Spoon (1, 3), Plate (1, 2), Kettle (1), Fork (3), Drawer (2, 4, 5), CounterTop (1), Cabinet (1, 5, 14, 16), Bowl (3). I am holding Spoon (1) now.
+Act: go to Kettle (1)
+You already arrive at Kettle (1). You see Spoon (1, 1, 3, 3), Plate (1, 1, 2, 2), Kettle (1, 1), Fork (3, 3), Drawer (2, 2, 4, 4, 5, 5), CounterTop (1, 1), Cabinet (1, 1, 5, 5, 14, 14, 16, 16), Bowl (3, 3). Kettle (1) is closed.  I am holding Spoon (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Spoon (1, 3), Plate (1, 2), Kettle (1), Fork (3), Drawer (2, 4, 5), CounterTop (1), Cabinet (1, 5, 14, 16), Bowl (3). I am holding Spoon (1) now.
+Act: go to Kettle (1)
+You already arrive at Kettle (1). You see Spoon (1, 1, 3, 3), Plate (1, 1, 2, 2), Kettle (1, 1), Fork (3, 3), Drawer (2, 2, 4, 4, 5, 5), CounterTop (1, 1), Cabinet (1, 1, 5, 5, 14, 14, 16, 16), Bowl (3, 3). Kettle (1) is closed.  I am holding Spoon (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Spoon (1, 3), Plate (1, 2), Kettle (1), Fork (3), Drawer (2, 4, 5), CounterTop (1), Cabinet (1, 5, 14, 16), Bowl (3). I am holding Spoon (1) now.
+Act: go to Kettle (1)
+You already arrive at Kettle (1). You see Spoon (1, 1, 3, 3), Plate (1, 1, 2, 2), Kettle (1, 1), Fork (3, 3), Drawer (2, 2, 4, 4, 5, 5), CounterTop (1, 1), Cabinet (1, 1, 5, 5, 14, 14, 16, 16), Bowl (3, 3). Kettle (1) is closed.  I am holding Spoon (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Spoon (1, 3), Plate (1, 2), Kettle (1), Fork (3), Drawer (2, 4, 5), CounterTop (1), Cabinet (1, 5, 14, 16), Bowl (3). I am holding Spoon (1) now.
+Act: go to Kettle (1)
+You already arrive at Kettle (1). You see Spoon (1, 1, 3, 3), Plate (1, 1, 2, 2), Kettle (1, 1), Fork (3, 3), Drawer (2, 2, 4, 4, 5, 5), CounterTop (1, 1), Cabinet (1, 1, 5, 5, 14, 14, 16, 16), Bowl (3, 3). Kettle (1) is closed.  I am holding Spoon (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Spoon (1, 3), Plate (1, 2), Kettle (1), Fork (3), Drawer (2, 4, 5), CounterTop (1), Cabinet (1, 5, 14, 16), Bowl (3). I am holding Spoon (1) now.
+Act: go to Kettle (1)
+You already arrive at Kettle (1). You see Spoon (1, 1, 3, 3), Plate (1, 1, 2, 2), Kettle (1, 1), Fork (3, 3), Drawer (2, 2, 4, 4, 5, 5), CounterTop (1, 1), Cabinet (1, 1, 5, 5, 14, 14, 16, 16), Bowl (3, 3). Kettle (1) is closed.  I am holding Spoon (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Spoon (1, 3), Plate (1, 2), Kettle (1), Fork (3), Drawer (2, 4, 5), CounterTop (1), Cabinet (1, 5, 14, 16), Bowl (3). I am holding Spoon (1) now.
+Act: go to Kettle (1)
+You already arrive at Kettle (1). You see Spoon (1, 1, 3, 3), Plate (1, 1, 2, 2), Kettle (1, 1), Fork (3, 3), Drawer (2, 2, 4, 4, 5, 5), CounterTop (1, 1), Cabinet (1, 1, 5, 5, 14, 14, 16, 16), Bowl (3, 3). Kettle (1) is closed.  I am holding Spoon (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Spoon (1, 3), Plate (1, 2), Kettle (1), Fork (3), Drawer (2, 4, 5), CounterTop (1), Cabinet (1, 5, 14, 16), Bowl (3). I am holding Spoon (1) now.
+Act: go to Kettle (1)
+You already arrive at Kettle (1). You see Spoon (1, 1, 3, 3), Plate (1, 1, 2, 2), Kettle (1, 1), Fork (3, 3), Drawer (2, 2, 4, 4, 5, 5), CounterTop (1, 1), Cabinet (1, 1, 5, 5, 14, 14, 16, 16), Bowl (3, 3). Kettle (1) is closed.  I am holding Spoon (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Spoon (1, 3), Plate (1, 2), Kettle (1), Fork (3), Drawer (2, 4, 5), CounterTop (1), Cabinet (1, 5, 14, 16), Bowl (3). I am holding Spoon (1) now.
+Act: go to Kettle (1)
+You already arrive at Kettle (1). You see Spoon (1, 1, 3, 3), Plate (1, 1, 2, 2), Kettle (1, 1), Fork (3, 3), Drawer (2, 2, 4, 4, 5, 5), CounterTop (1, 1), Cabinet (1, 1, 5, 5, 14, 14, 16, 16), Bowl (3, 3). Kettle (1) is closed.  I am holding Spoon (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Spoon (1, 3), Plate (1, 2), Kettle (1), Fork (3), Drawer (2, 4, 5), CounterTop (1), Cabinet (1, 5, 14, 16), Bowl (3). I am holding Spoon (1) now.
+Act: go to Kettle (1)
+You already arrive at Kettle (1). You see Spoon (1, 1, 3, 3), Plate (1, 1, 2, 2), Kettle (1, 1), Fork (3, 3), Drawer (2, 2, 4, 4, 5, 5), CounterTop (1, 1), Cabinet (1, 1, 5, 5, 14, 14, 16, 16), Bowl (3, 3). Kettle (1) is closed.  I am holding Spoon (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Spoon (1, 3), Plate (1, 2), Kettle (1), Fork (3), Drawer (2, 4, 5), CounterTop (1), Cabinet (1, 5, 14, 16), Bowl (3). I am holding Spoon (1) now.
+Act: go to Kettle (1)
+You already arrive at Kettle (1). You see Spoon (1, 1, 3, 3), Plate (1, 1, 2, 2), Kettle (1, 1), Fork (3, 3), Drawer (2, 2, 4, 4, 5, 5), CounterTop (1, 1), Cabinet (1, 1, 5, 5, 14, 14, 16, 16), Bowl (3, 3). Kettle (1) is closed.  I am holding Spoon (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Spoon (1, 3), Plate (1, 2), Kettle (1), Fork (3), Drawer (2, 4, 5), CounterTop (1), Cabinet (1, 5, 14, 16), Bowl (3). I am holding Spoon (1) now.
+Act: go to Kettle (1)
+You already arrive at Kettle (1). You see Spoon (1, 1, 3, 3), Plate (1, 1, 2, 2), Kettle (1, 1), Fork (3, 3), Drawer (2, 2, 4, 4, 5, 5), CounterTop (1, 1), Cabinet (1, 1, 5, 5, 14, 14, 16, 16), Bowl (3, 3). Kettle (1) is closed.  I am holding Spoon (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Spoon (1, 3), Plate (1, 2), Kettle (1), Fork (3), Drawer (2, 4, 5), CounterTop (1), Cabinet (1, 5, 14, 16), Bowl (3). I am holding Spoon (1) now.
+Act: go to Kettle (1)
+You already arrive at Kettle (1). You see Spoon (1, 1, 3, 3), Plate (1, 1, 2, 2), Kettle (1, 1), Fork (3, 3), Drawer (2, 2, 4, 4, 5, 5), CounterTop (1, 1), Cabinet (1, 1, 5, 5, 14, 14, 16, 16), Bowl (3, 3). Kettle (1) is closed.  I am holding Spoon (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Spoon (1, 3), Plate (1, 2), Kettle (1), Fork (3), Drawer (2, 4, 5), CounterTop (1), Cabinet (1, 5, 14, 16), Bowl (3). I am holding Spoon (1) now.
+Act: go to Kettle (1)
+You already arrive at Kettle (1). You see Spoon (1, 1, 3, 3), Plate (1, 1, 2, 2), Kettle (1, 1), Fork (3, 3), Drawer (2, 2, 4, 4, 5, 5), CounterTop (1, 1), Cabinet (1, 1, 5, 5, 14, 14, 16, 16), Bowl (3, 3). Kettle (1) is closed.  I am holding Spoon (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Spoon (1, 3), Plate (1, 2), Kettle (1), Fork (3), Drawer (2, 4, 5), CounterTop (1), Cabinet (1, 5, 14, 16), Bowl (3). I am holding Spoon (1) now.
+Act: go to Kettle (1)
+You already arrive at Kettle (1). You see Spoon (1, 1, 3, 3), Plate (1, 1, 2, 2), Kettle (1, 1), Fork (3, 3), Drawer (2, 2, 4, 4, 5, 5), CounterTop (1, 1), Cabinet (1, 1, 5, 5, 14, 14, 16, 16), Bowl (3, 3). Kettle (1) is closed.  I am holding Spoon (1) now.
+Max decisions

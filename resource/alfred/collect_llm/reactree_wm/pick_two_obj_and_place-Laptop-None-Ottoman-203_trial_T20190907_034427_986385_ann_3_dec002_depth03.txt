@@ -1,0 +1,19 @@
+Your primary goal is to: Move two lap tops to the foot stool.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up lap top, place lap top on foot stool, Find and pick up lap top away from foot stool, and place lap top on foot stool.
+Your task is to: find and pick up lap top
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1), Ottoman (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7), DiningTable (1), CoffeeTable (1), ArmChair (1).
+Think: First, I need to recall location of the lap top.
+OK.
+Act: recall location of Laptop
+You have not seen Laptop before.
+Think: Now, I need to find the lap top. The lap top is more likely to appear on CoffeeTable (1), SideTable (1), Sofa (1), ArmChair (1), or in Drawer (1-7). I can check each place one by one, starting from CoffeeTable (1), until I find the lap top.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (1), Vase (1), TissueBox (1, 2), Pencil (2), Laptop (1), Drawer (2, 6, 7), CreditCard (1), CoffeeTable (1), Bowl (1). 
+Think: I find Laptop (1). Now, I need to pick it up.
+OK.
+Act: pick up Laptop (1)
+You pick up Laptop (1). You see Vase (1), TissueBox (1, 2), Pencil (2), Laptop (1), Drawer (2, 7), CreditCard (1), CoffeeTable (1), Bowl (1). I am holding Laptop (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

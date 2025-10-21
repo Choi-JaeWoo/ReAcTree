@@ -1,0 +1,21 @@
+Your primary goal is to: Place a bowl with a watch in it on an end table between two beds
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up bowl, place watch in bowl, and place bowl on end table.
+Your task is to: find and pick up bowl
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14), GarbageCan (1), Drawer (1, 2), DiningTable (1), Bed (1, 2).
+Think: First, I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: Now, I need to find the bowl. The bowl is more likely to appear on SideTable (1), DiningTable (1), or in Drawer (1-2). I can check each place one by one, starting from SideTable (1), until I find the bowl.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Watch (1, 2), SideTable (1), Pen (1), KeyChain (1), Drawer (1, 2), CreditCard (3), Bed (1, 2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Shelf (9), Pencil (1), Lamp (1), DiningTable (1), CreditCard (2), Chair (2), CD (1), Bowl (1). 
+Think: I find Bowl (1). Now, I need to pick it up.
+OK.
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Shelf (9), Pencil (1), Lamp (1), DiningTable (1), CreditCard (2), Chair (2), CD (1), Bowl (1). I am holding Bowl (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

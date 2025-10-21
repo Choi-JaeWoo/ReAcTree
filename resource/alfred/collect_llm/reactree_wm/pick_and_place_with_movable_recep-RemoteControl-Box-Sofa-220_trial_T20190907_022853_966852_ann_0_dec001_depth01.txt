@@ -1,0 +1,7 @@
+Your task is to: Put a box with a remote in it on the couch.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1, 2), SideTable (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1, 2), CoffeeTable (1), ArmChair (1).
+Think: Since I’m not holding the box, I need to accomplish 3 subgoals sequentially to solve the task. Find and pick up box, place box on couch, Find and pick up box away from couch, and place box on couch.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up box, place box on couch, Find and pick up box away from couch, and place box on couch

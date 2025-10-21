@@ -1,0 +1,23 @@
+Your primary goal is to: Look at a candle by lamp light.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up candle, and find and turn on lamp.
+Your task is to: find and pick up candle
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), GarbageCan (1), DiningTable (1, 2), CoffeeTable (1), ArmChair (1, 2, 3).
+Think: First, I need to recall location of the candle.
+OK.
+Act: recall location of Candle
+You have not seen Candle before.
+Think: Now, I need to find the candle. The candle is more likely to appear on DiningTable (1-2), CoffeeTable (1), or in TVStand (1), GarbageCan (1). I can check each place one by one, starting from DiningTable (1), until I find the candle.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (2), Statue (1), Plate (2), Laptop (1, 2), KeyChain (1), DiningTable (1), CreditCard (1), Chair (1, 2), Box (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), RemoteControl (2), DiningTable (2). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (1), RemoteControl (1), CoffeeTable (1), Box (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), RemoteControl (2), DiningTable (2). 
+Act: go to GarbageCan (1)
+You arrive at GarbageCan (1). You see GarbageCan (1). 
+Think: I cannot find the candle.
+OK.
+Act: failure

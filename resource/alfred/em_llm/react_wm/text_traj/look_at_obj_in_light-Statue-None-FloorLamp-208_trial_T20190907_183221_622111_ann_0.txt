@@ -1,0 +1,49 @@
+Your task is to: examine a trophy with a lamp
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8), Ottoman (1), GarbageCan (1), Drawer (1), DiningTable (1), ArmChair (1).
+Think: To solve the task, I need to find and pick up the trophy. And I need to find and turn on the desk lamp.
+OK.
+Think: First, I need to recall location of the trophy.
+OK.
+Act: recall location of Statue
+You have not seen Statue before.
+Think: Now I need to find the trophy. The trophy is more likely to appear on DiningTable (1), SideTable (1), Shelf (1-8), or in Drawer (1). I can check each place one by one, starting from DiningTable (1), until I find the trophy.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1), Statue (1), Laptop (1), DiningTable (1), Chair (2). 
+Think: I find Statue (1). Now, I need to pick it up.
+OK.
+Act: pick up Statue (1)
+You pick up Statue (1). You see Vase (1), Statue (1), Laptop (1), DiningTable (1), Chair (2). I am holding Statue (1) now.
+Think: I hold Statue (1). Now, I need to recall location of the desk lamp.
+OK.
+Act: recall location of DeskLamp
+You have not seen DeskLamp before.
+Think: Now I need to find the desk lamp The desk lamp is more likely to appear on SideTable (1), Shelf (1-8), or in Drawer (1). I can check each place one by one, starting from SideTable (1), until I find the desk lamp.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Statue (1, 2), SideTable (1), FloorLamp (1), Drawer (1).  I am holding Statue (1) now.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Television (1), TVStand (1), Statue (1), Shelf (4, 5).  I am holding Statue (1) now.
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Television (1, 1), TVStand (1, 1), Statue (1, 1, 1, 3), Shelf (2, 4, 4, 5, 5, 8).  I am holding Statue (1) now.
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Television (1), TVStand (1), Statue (1), Shelf (1).  I am holding Statue (1) now.
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see Television (1), TVStand (1), Statue (1), Shelf (1, 3, 5, 7).  I am holding Statue (1) now.
+Act: go to Shelf (5)
+You arrive at Shelf (5). You see Television (1), TVStand (1), Statue (1), Shelf (1).  I am holding Statue (1) now.
+Act: go to Shelf (6)
+You arrive at Shelf (6). You see Television (1), TVStand (1), Statue (1), Shelf (4, 5).  I am holding Statue (1) now.
+Act: go to Shelf (7)
+You arrive at Shelf (7). You see Television (1), TVStand (1), Statue (1), Shelf (4, 5).  I am holding Statue (1) now.
+Act: go to Shelf (8)
+You arrive at Shelf (8). You see Statue (1, 3), Shelf (8).  I am holding Statue (1) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Statue (1, 2), SideTable (1), FloorLamp (1), Drawer (1). Drawer (1) is closed.  I am holding Statue (1) now.
+Think: I find DeskLamp (1). Now, I need to turn it on.
+OK.
+Act: turn on FloorLamp (1)
+You turn on FloorLamp (1). You see Statue (1, 2), SideTable (1), FloorLamp (1), Drawer (1). I am holding Statue (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

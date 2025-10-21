@@ -1,0 +1,7 @@
+Your task is to: Put two salt shakers on a shelf.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13).
+Think: Since I’m not holding salt shaker, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up salt shaker, place salt shaker on shelf, find and pick up salt shaker away from shelf, and place salt shaker on shelf.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up salt shaker, place salt shaker on shelf, find and pick up salt shaker away from shelf, place salt shaker on shelf

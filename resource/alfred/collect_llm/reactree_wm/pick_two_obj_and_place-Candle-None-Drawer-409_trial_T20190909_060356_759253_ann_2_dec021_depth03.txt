@@ -1,0 +1,13 @@
+Your primary goal is to: Put two candles in a drawer.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up candle, place candle in drawer, Find and pick up candle away from drawer, and place candle in drawer.
+Your task is to: place candle in drawer
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1, 2), Toilet (1), ToiletPaperHanger (1), SinkBasin (1), HandTowelHolder (1, 2), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), CounterTop (1). I am holding Candle (1) now.
+Think: I hold Candle (1). Now, I need to put it in the drawer. I can see Drawer (1-6).
+OK.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SprayBottle (2), Sink (1), SinkBasin (1), GarbageCan (1), Drawer (1, 3, 4, 6), CounterTop (1), Candle (1). Drawer (1) is open.  I am holding Candle (1) now.
+Act: put down Candle (1)
+You put Candle (1) on Drawer (1). You see SprayBottle (2), Sink (1), SinkBasin (1), GarbageCan (1), Drawer (1, 3, 4, 6), CounterTop (1), Candle (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

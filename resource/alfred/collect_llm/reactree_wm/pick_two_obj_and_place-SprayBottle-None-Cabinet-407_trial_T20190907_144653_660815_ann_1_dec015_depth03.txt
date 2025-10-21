@@ -1,0 +1,11 @@
+Your primary goal is to: place two spray bottles inside the bottom right bathroom cabinet
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up spray bottles, open bottom right bathroom cabinet, and place spray bottles inside bottom right bathroom cabinet.
+Your task is to: place spray bottles inside bottom right bathroom cabinet
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1, 2), HandTowelHolder (1), GarbageCan (1), CounterTop (1), Cabinet (1, 2, 3, 4), Bathtub (1), BathtubBasin (1).
+Think: I hold SprayBottle (1, 2). Now, I need to put them inside the bottom right bathroom cabinet. I can see Cabinet (4).
+OK.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see SprayBottle (3), SoapBottle (1), Sink (2), SinkBasin (2), ShowerCurtain (1), GarbageCan (1), CounterTop (1), Cloth (1), Cabinet (2, 4), Bathtub (1), BathtubBasin (1). Cabinet (4) is open. 
+Think: Now I accomplish the goal.
+OK.
+Act: done

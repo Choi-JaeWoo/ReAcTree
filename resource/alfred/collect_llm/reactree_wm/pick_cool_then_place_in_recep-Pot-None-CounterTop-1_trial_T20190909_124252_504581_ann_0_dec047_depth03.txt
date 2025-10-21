@@ -1,0 +1,13 @@
+Your primary goal is to: put chilled bowl and spoon on counter
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up bowl, cool and pick up bowl, find and pick up spoon, and place bowl and spoon on counter.
+Your task is to: place bowl and spoon on counter
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9). I am holding Bowl (1) now.
+Think: I hold Bowl (1). Now, I need to put it on the counter. I can see CounterTop (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Vase (1), Statue (2), Pot (2), PepperShaker (1), Lettuce (1, 2), Kettle (1), Fork (3), DishSponge (1), CreditCard (1), CounterTop (1), Bread (1), Bowl (1), Book (1), Apple (3).  I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put Bowl (1) on CounterTop (1). You see Vase (1), Statue (2), Spoon (3), Pot (2), PepperShaker (1), Lettuce (1, 2), Kettle (1), Fork (3), DishSponge (1), CreditCard (1), CounterTop (1), Bread (1), Bowl (1), Book (1), Apple (3).
+Think: Now I accomplish the goal.
+OK.
+Act: done

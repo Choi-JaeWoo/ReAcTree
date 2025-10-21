@@ -1,0 +1,23 @@
+Your primary goal is to: Put a plate with a fork on the counter by the toaster.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up plate, place plate on counter, find and pick up fork, and place fork on plate near counter.
+Your task is to: place fork on plate near counter
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11). I am holding Fork (4) now.
+Think: I hold Fork (4). Now, I need to recall location of the plate.
+OK.
+Act: recall location of Plate
+You saw Plate (3) near Microwave (1). You saw Plate (2) near hand.
+Think: I can find Plate (3) near Microwave (1).
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Spoon (2), Spatula (3), Pot (1), Pan (1), Microwave (1), Fork (4), CounterTop (1), ButterKnife (2). Microwave (1) is closed.  I am holding Fork (4) now.
+Act: open Microwave (1)
+You open Microwave (1). You see Spoon (2), Spatula (3), Potato (1), Pot (1), Plate (3), Pan (1), Microwave (1), Fork (4), CounterTop (1), ButterKnife (2). I am holding Fork (4) now.
+Act: go to Plate (3)
+You arrive at Plate (3). You see Spoon (2), Potato (1), Pot (1), Plate (3), Pan (1), Microwave (1), Fork (4), CounterTop (1), ButterKnife (2).  I am holding Fork (4) now.
+Think: I find Plate (3). Now, I need to put down Fork (4) on Plate (3).
+OK.
+Act: put down Fork (4)
+You put Fork (4) on Plate (3). You see Spoon (2), Potato (1), Pot (1), Plate (3), Pan (1), Microwave (1), Fork (4), CounterTop (1), ButterKnife (2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

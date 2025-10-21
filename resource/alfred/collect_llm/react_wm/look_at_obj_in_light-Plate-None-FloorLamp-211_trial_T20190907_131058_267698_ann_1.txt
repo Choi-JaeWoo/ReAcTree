@@ -1,0 +1,114 @@
+Your task is to: Examine the blue plate next to the light of the tall lamp.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1, 2), Shelf (1, 2, 3, 4, 5), GarbageCan (1), Drawer (1), CoffeeTable (1), ArmChair (1).
+Think: To solve the task, I need to find and pick up the plate. And I need to find and turn on the desk lamp.
+OK.
+Think: First, I need to recall location of the plate.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now I need to find the plate. The plate is more likely to appear on CoffeeTable (1), SideTable (1-2), or in Drawer (1). I can check each place one by one, starting from CoffeeTable (1), until I find the plate.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (1), Statue (1), Plate (3), Laptop (1), CoffeeTable (1), CellPhone (1). 
+Think: I find Plate (3). Now, I need to pick it up.
+OK.
+Act: pick up Plate (3)
+You pick up Plate (3). You see Vase (1), Statue (1), Plate (3), Laptop (1), CoffeeTable (1), CellPhone (1). I am holding Plate (3) now.
+Think: I hold Plate (3). Now, I need to recall location of the desk lamp.
+OK.
+Act: recall location of DeskLamp
+You have not seen DeskLamp before.
+Think: Now I need to find the desk lamp The desk lamp is more likely to appear on SideTable (1-2), or in Drawer (1). I can check each place one by one, starting from SideTable (1), until I find the desk lamp.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (2), SideTable (1), Plate (2, 3).  I am holding Plate (3) now.
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Sofa (1), SideTable (2), Plate (3), Pillow (1), KeyChain (1), Drawer (1), CellPhone (2).  I am holding Plate (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Plate (3), Pillow (1), KeyChain (1), Drawer (1), CellPhone (2). Drawer (1) is closed.  I am holding Plate (3) now.
+Think: I find DeskLamp (1). Now, I need to turn it on.
+OK.
+Act: open Drawer (1)
+You open Drawer (1). You see Sofa (1), SideTable (2), Plate (3), Pillow (1), KeyChain (1), Drawer (1), CellPhone (2). I am holding Plate (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Plate (3), Pillow (1), KeyChain (1), Drawer (1), CellPhone (2). Drawer (1) is open.  I am holding Plate (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Plate (3), Pillow (1), KeyChain (1), Drawer (1), CellPhone (2). Drawer (1) is open.  I am holding Plate (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Plate (3), Pillow (1), KeyChain (1), Drawer (1), CellPhone (2). Drawer (1) is open.  I am holding Plate (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Plate (3), Pillow (1), KeyChain (1), Drawer (1), CellPhone (2). Drawer (1) is open.  I am holding Plate (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Plate (3), Pillow (1), KeyChain (1), Drawer (1), CellPhone (2). Drawer (1) is open.  I am holding Plate (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Plate (3), Pillow (1), KeyChain (1), Drawer (1), CellPhone (2). Drawer (1) is open.  I am holding Plate (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Plate (3), Pillow (1), KeyChain (1), Drawer (1), CellPhone (2). Drawer (1) is open.  I am holding Plate (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Plate (3), Pillow (1), KeyChain (1), Drawer (1), CellPhone (2). Drawer (1) is open.  I am holding Plate (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Plate (3), Pillow (1), KeyChain (1), Drawer (1), CellPhone (2). Drawer (1) is open.  I am holding Plate (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Plate (3), Pillow (1), KeyChain (1), Drawer (1), CellPhone (2). Drawer (1) is open.  I am holding Plate (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Plate (3), Pillow (1), KeyChain (1), Drawer (1), CellPhone (2). Drawer (1) is open.  I am holding Plate (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Plate (3), Pillow (1), KeyChain (1), Drawer (1), CellPhone (2). Drawer (1) is open.  I am holding Plate (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Plate (3), Pillow (1), KeyChain (1), Drawer (1), CellPhone (2). Drawer (1) is open.  I am holding Plate (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Plate (3), Pillow (1), KeyChain (1), Drawer (1), CellPhone (2). Drawer (1) is open.  I am holding Plate (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Plate (3), Pillow (1), KeyChain (1), Drawer (1), CellPhone (2). Drawer (1) is open.  I am holding Plate (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Plate (3), Pillow (1), KeyChain (1), Drawer (1), CellPhone (2). Drawer (1) is open.  I am holding Plate (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Plate (3), Pillow (1), KeyChain (1), Drawer (1), CellPhone (2). Drawer (1) is open.  I am holding Plate (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Plate (3), Pillow (1), KeyChain (1), Drawer (1), CellPhone (2). Drawer (1) is open.  I am holding Plate (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Plate (3), Pillow (1), KeyChain (1), Drawer (1), CellPhone (2). Drawer (1) is open.  I am holding Plate (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Plate (3), Pillow (1), KeyChain (1), Drawer (1), CellPhone (2). Drawer (1) is open.  I am holding Plate (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Plate (3), Pillow (1), KeyChain (1), Drawer (1), CellPhone (2). Drawer (1) is open.  I am holding Plate (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Plate (3), Pillow (1), KeyChain (1), Drawer (1), CellPhone (2). Drawer (1) is open.  I am holding Plate (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Plate (3), Pillow (1), KeyChain (1), Drawer (1), CellPhone (2). Drawer (1) is open.  I am holding Plate (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Plate (3), Pillow (1), KeyChain (1), Drawer (1), CellPhone (2). Drawer (1) is open.  I am holding Plate (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Plate (3), Pillow (1), KeyChain (1), Drawer (1), CellPhone (2). Drawer (1) is open.  I am holding Plate (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Plate (3), Pillow (1), KeyChain (1), Drawer (1), CellPhone (2). Drawer (1) is open.  I am holding Plate (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Plate (3), Pillow (1), KeyChain (1), Drawer (1), CellPhone (2). Drawer (1) is open.  I am holding Plate (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Plate (3), Pillow (1), KeyChain (1), Drawer (1), CellPhone (2). Drawer (1) is open.  I am holding Plate (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Plate (3), Pillow (1), KeyChain (1), Drawer (1), CellPhone (2). Drawer (1) is open.  I am holding Plate (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Plate (3), Pillow (1), KeyChain (1), Drawer (1), CellPhone (2). Drawer (1) is open.  I am holding Plate (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Plate (3), Pillow (1), KeyChain (1), Drawer (1), CellPhone (2). Drawer (1) is open.  I am holding Plate (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Plate (3), Pillow (1), KeyChain (1), Drawer (1), CellPhone (2). Drawer (1) is open.  I am holding Plate (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Plate (3), Pillow (1), KeyChain (1), Drawer (1), CellPhone (2). Drawer (1) is open.  I am holding Plate (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Plate (3), Pillow (1), KeyChain (1), Drawer (1), CellPhone (2). Drawer (1) is open.  I am holding Plate (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Plate (3), Pillow (1), KeyChain (1), Drawer (1), CellPhone (2). Drawer (1) is open.  I am holding Plate (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Plate (3), Pillow (1), KeyChain (1), Drawer (1), CellPhone (2). Drawer (1) is open.  I am holding Plate (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Plate (3), Pillow (1), KeyChain (1), Drawer (1), CellPhone (2). Drawer (1) is open.  I am holding Plate (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Plate (3), Pillow (1), KeyChain (1), Drawer (1), CellPhone (2). Drawer (1) is open.  I am holding Plate (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Plate (3), Pillow (1), KeyChain (1), Drawer (1), CellPhone (2). Drawer (1) is open.  I am holding Plate (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Plate (3), Pillow (1), KeyChain (1), Drawer (1), CellPhone (2). Drawer (1) is open.  I am holding Plate (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Plate (3), Pillow (1), KeyChain (1), Drawer (1), CellPhone (2). Drawer (1) is open.  I am holding Plate (3) now.

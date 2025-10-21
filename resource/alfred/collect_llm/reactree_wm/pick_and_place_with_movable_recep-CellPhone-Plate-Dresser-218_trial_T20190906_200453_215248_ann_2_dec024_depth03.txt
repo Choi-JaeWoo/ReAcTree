@@ -1,0 +1,37 @@
+Your primary goal is to: Put the phone on a plate on the TV stand.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up phone, find and pick up plate, and place phone on plate.
+Your task is to: place phone on plate
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), DiningTable (1), CoffeeTable (1). I am holding Plate (1) now.
+Think: I hold Plate (1). Now, I need to recall location of the phone.
+OK.
+Act: recall location of CellPhone
+You saw CellPhone (1) near DiningTable (1).
+Think: I can find CellPhone (1) near DiningTable (1).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Plate (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3), CellPhone (1), Box (1).  I am holding Plate (1) now.
+Think: I find CellPhone (1). Now, I need to pick it up.
+OK.
+Act: pick up CellPhone (1)
+You are currently holding Plate (1). I am holding Plate (1) now.
+Think: I can't pick up CellPhone (1) because I am holding Plate (1). I need to put down Plate (1) first.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), RemoteControl (1), Plate (1), Newspaper (2), DeskLamp (1), Chair (4).  I am holding Plate (1) now.
+Act: put down Plate (1)
+You put Plate (1) on SideTable (1). You see SideTable (1), RemoteControl (1), Plate (1), Newspaper (2), DeskLamp (1), Chair (4).
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3), CellPhone (1), Box (1). 
+Act: pick up CellPhone (1)
+You pick up CellPhone (1). You see Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3), CellPhone (1), Box (1). I am holding CellPhone (1) now.
+Think: Now, I need to put down CellPhone (1) on Plate (1).
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), RemoteControl (1), Plate (1), Newspaper (2), DeskLamp (1), Chair (4), CellPhone (1).  I am holding CellPhone (1) now.
+Act: go to Plate (1)
+You arrive at Plate (1). You see SideTable (1), RemoteControl (1), Plate (1), Newspaper (2), DeskLamp (1), Chair (4), CellPhone (1).  I am holding CellPhone (1) now.
+Act: put down CellPhone (1)
+You put CellPhone (1) on Plate (1). You see SideTable (1), RemoteControl (1), Plate (1), Newspaper (2), DeskLamp (1), Chair (4), CellPhone (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

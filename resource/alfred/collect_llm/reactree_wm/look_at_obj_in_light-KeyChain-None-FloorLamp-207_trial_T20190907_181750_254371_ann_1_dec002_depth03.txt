@@ -1,0 +1,19 @@
+Your primary goal is to: examine keys with a lamp
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up keys, and find and turn on lamp.
+Your task is to: find and pick up keys
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8), GarbageCan (1), CoffeeTable (1, 2), ArmChair (1, 2).
+Think: First, I need to recall location of the keys.
+OK.
+Act: recall location of KeyChain
+You have not seen KeyChain before.
+Think: Now, I need to find the key chain. The key chain is more likely to appear on Sofa (1), CoffeeTable (1-2), or in TVStand (1), Shelf (1-8). I can check each place one by one, starting from Sofa (1), until I find the key chain.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), RemoteControl (1), Pillow (1), Laptop (2), KeyChain (3), CreditCard (2). 
+Think: I find KeyChain (3). Now, I need to pick it up.
+OK.
+Act: pick up KeyChain (3)
+You pick up KeyChain (3). You see Sofa (1), RemoteControl (1), Pillow (1), Laptop (2), KeyChain (3), CreditCard (2). I am holding KeyChain (3) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

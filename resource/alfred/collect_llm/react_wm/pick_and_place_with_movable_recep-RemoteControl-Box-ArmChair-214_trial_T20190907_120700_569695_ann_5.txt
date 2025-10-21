@@ -1,0 +1,37 @@
+Your task is to: Put a box holding a remote control on the seat of a chair.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1, 2), SideTable (1), Shelf (1, 2), GarbageCan (1), CoffeeTable (1), ArmChair (1).
+Think: To solve the task, I need to find and pick up the box, then put it on the chair.
+OK.
+Think: First, I need to recall location of the box.
+OK.
+Act: recall location of Box
+You have not seen Box before.
+Think: Now I need to find the box. The box is more likely to appear on Sofa (1-2), SideTable (1), CoffeeTable (1), ArmChair (1), Shelf (1-2), or in GarbageCan (1). I can check each place one by one, starting from Sofa (1), until I find the box.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Box (2). 
+Act: go to Sofa (2)
+You arrive at Sofa (2). You see Sofa (2), Pillow (1), KeyChain (1, 2), Curtains (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (2), Sofa (2), SideTable (1), Plate (1), Lamp (1), Curtains (2, 3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see WateringCan (1), Vase (3), Newspaper (1, 2), Laptop (1), KeyChain (3), HousePlant (1), CreditCard (1, 2), CoffeeTable (1). 
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see ArmChair (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Statue (1), Shelf (1), RemoteControl (1). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see WateringCan (2), Vase (1), Statue (2), Shelf (2), Box (1). 
+Think: I find Box (1). Now, I need to pick it up.
+OK.
+Act: pick up Box (1)
+You pick up Box (1). You see WateringCan (2), Vase (1), Statue (2), Shelf (2), Box (1). I am holding Box (1) now.
+Think: I hold Box (1). Now, I need to put it on the chair.
+OK.
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: put down Box (1)
+You put Box (1) on ArmChair (1). You see Box (1), ArmChair (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

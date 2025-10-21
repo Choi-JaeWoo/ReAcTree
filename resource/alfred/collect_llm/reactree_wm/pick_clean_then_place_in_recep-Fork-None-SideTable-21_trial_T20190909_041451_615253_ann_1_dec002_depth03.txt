@@ -1,0 +1,19 @@
+Your primary goal is to: Wash a fork and put it back on the black table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up fork, clean and pick up fork, and place fork on table.
+Your task is to: find and pick up fork
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1, 2, 3), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: First, I need to recall location of the fork.
+OK.
+Act: recall location of Fork
+You have not seen Fork before.
+Think: Now, I need to find the fork. The fork is more likely to appear on DiningTable (1-3), CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1). I can check each place one by one, starting from DiningTable (1), until I find the fork.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Fork (1, 2), DiningTable (1), ButterKnife (1), Bowl (1). 
+Think: I find Fork (1). Now, I need to pick it up.
+OK.
+Act: pick up Fork (1)
+You pick up Fork (1). You see Fork (1, 2), DiningTable (1), ButterKnife (1), Bowl (1). I am holding Fork (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

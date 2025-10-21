@@ -1,0 +1,25 @@
+Your task is to: Move a wine bottle to the shelf
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13).
+Think: To solve the task, I need to find and pick up the wine bottle, then put it on the shelf.
+OK.
+Think: First, I need to recall location of the wine bottle.
+OK.
+Act: recall location of WineBottle
+You have not seen WineBottle before.
+Think: Now I need to find the wine bottle. The wine bottle is more likely to appear on DiningTable (1), CounterTop (1-2), SinkBasin (1), or in Fridge (1), Cabinet (1-13), Drawer (1-4). I can check each place one by one, starting from DiningTable (1), until I find the wine bottle.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (1), Vase (1), Plate (1), Mug (1), Lettuce (1, 2), Knife (1), HousePlant (1), DiningTable (1), Bowl (2), Apple (2). 
+Think: I find WineBottle (1). Now, I need to pick it up.
+OK.
+Act: pick up WineBottle (1)
+You pick up WineBottle (1). You see WineBottle (1), Vase (1), Plate (1), Mug (1), Lettuce (2), Knife (1), HousePlant (1), DiningTable (1), Bowl (2), Apple (2). I am holding WineBottle (1) now.
+Think: I hold WineBottle (1). Now, I need to put it on the shelf.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see WineBottle (1), Statue (2), Shelf (1, 2, 3).  I am holding WineBottle (1) now.
+Act: put down WineBottle (1)
+You put WineBottle (1) on Shelf (1). You see WineBottle (1), Statue (2), Shelf (1, 2, 3).
+Think: Now I accomplish the goal.
+OK.
+Act: done

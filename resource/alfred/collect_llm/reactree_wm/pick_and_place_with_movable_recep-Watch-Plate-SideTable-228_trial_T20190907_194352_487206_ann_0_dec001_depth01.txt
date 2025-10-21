@@ -1,0 +1,7 @@
+Your task is to: Put a plate with a watch on a end table.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1, 2), SideTable (1, 2), GarbageCan (1), Drawer (1), DiningTable (1), CoffeeTable (1).
+Think: Since I’m not holding anything, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up plate, place plate on end table, find and pick up watch, and place watch on plate near end table.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up plate, place plate on end table, find and pick up watch, place watch on plate near end table

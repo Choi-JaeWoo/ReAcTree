@@ -1,0 +1,19 @@
+Your primary goal is to: Put the clean plate in the fridge
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up plate, clean and pick up plate, and place plate in fridge.
+Your task is to: clean and pick up plate
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2).
+Think: I hold Plate (1). Now, I need to clean it using sink basin.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Spoon (1), Spatula (2), Sink (1), SinkBasin (1), Plate (1, 2), Faucet (1), Drawer (3), CounterTop (1, 3), Cabinet (1, 2), ButterKnife (1). 
+Act: turn on Faucet (1)
+You turn on Faucet (1). You see Window (2), Spoon (1), Spatula (2), Sink (1), SinkBasin (1), Plate (1, 2), Faucet (1), Drawer (3), CounterTop (1, 3), Cabinet (1, 2), ButterKnife (1).
+Act: turn off Faucet (1)
+You turn off Faucet (1). You see Window (2), Spoon (1), Spatula (2), Sink (1), SinkBasin (1), Plate (1, 2), Faucet (1), Drawer (3), CounterTop (1, 3), Cabinet (1, 2), ButterKnife (1).
+Think: I clean Plate (1) using SinkBasin (1). Now, I need to pick up the plate from the sink basin.
+OK.
+Act: pick up Plate (1)
+You pick up Plate (1). You see Window (2), Spoon (1), Spatula (2), Sink (1), SinkBasin (1), Plate (1, 2), Faucet (1), Drawer (3), CounterTop (1, 3), Cabinet (1, 2), ButterKnife (1). I am holding Plate (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

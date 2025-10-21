@@ -1,0 +1,43 @@
+Your task is to: Put the pan with ladle on the counter
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7), CounterTop (1, 2, 3, 4), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18).
+Think: To solve the task, I need to find and pick up the pan, then put it on the counter. And I need to find and pick up the ladle, then put it on the pan on the counter.
+OK.
+Think: First, I need to recall location of the pan.
+OK.
+Act: recall location of Pan
+You have not seen Pan before.
+Think: Now I need to find the pan. The pan is more likely to appear on CounterTop (1-4), or in Fridge (1), Microwave (1), Cabinet (1-18), Drawer (1-7). I can check each place one by one, starting from CounterTop (1), until I find the pan.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Pen (1), Ladle (3), CounterTop (1), Chair (1), ButterKnife (1, 2), Bread (3). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Toaster (1), StoveKnob (1, 2, 4), StoveBurner (1, 2, 3, 4), SprayBottle (1), Pot (1), Pan (1, 2), Knife (1), Kettle (1), Fork (1), Cup (2), CounterTop (2). 
+Think: I find Pan (1). Now, I need to pick it up.
+OK.
+Act: pick up Pan (1)
+You pick up Pan (1). You see Toaster (1), StoveKnob (1, 2, 4), StoveBurner (1, 2, 3, 4), SprayBottle (1), Pot (1), Pan (1, 2), Knife (1), Kettle (1), Fork (1), Cup (2), CounterTop (2). I am holding Pan (1) now.
+Think: I hold Pan (1). Now, I need to put it on the countertop.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Pen (1), Pan (1), Ladle (3), CounterTop (1), Chair (1), ButterKnife (1, 2), Bread (3).  I am holding Pan (1) now.
+Act: put down Pan (1)
+You put down failed, drop it. You see Pen (1), Pan (1), Ladle (3), CounterTop (1), Chair (1), ButterKnife (1, 2), Bread (3).
+Think: I put Pan (1) on the CounterTop (1). Now, I need to recall location of the ladle.
+OK.
+Act: recall location of Ladle
+You saw Ladle (3) near CounterTop (1).
+Think: Ladle (3) is on the CounterTop (1). Now, I need to pick it up.
+OK.
+Act: pick up Ladle (3)
+You pick up Ladle (3). You see Pen (1), Ladle (3), CounterTop (1), Chair (1), ButterKnife (1, 2), Bread (3). I am holding Ladle (3) now.
+Think: I hold Ladle (3). Now, I need to put it on Pan (1) on the CounterTop (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Pen (1), Ladle (3), CounterTop (1), Chair (1), ButterKnife (1, 2), Bread (3).  I am holding Ladle (3) now.
+Act: go to Ladle (3)
+You already arrive at Ladle (3). You see Pen (1, 1), Pan (1), Ladle (3, 3), CounterTop (1, 1), Chair (1, 1), ButterKnife (1, 1, 2, 2), Bread (3, 3).  I am holding Ladle (3) now.
+Act: put down Ladle (3)
+You put down failed, drop it. You see Pen (1), Pan (1), Ladle (3), CounterTop (1), Chair (1), ButterKnife (1, 2), Bread (3).
+Think: Now I accomplish the goal.
+OK.
+Act: done

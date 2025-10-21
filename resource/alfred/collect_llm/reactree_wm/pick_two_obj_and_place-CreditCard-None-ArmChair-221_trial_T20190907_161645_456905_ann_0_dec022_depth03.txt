@@ -1,0 +1,13 @@
+Your primary goal is to: Place two blue credit cards on the yellow chair.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up credit card, place credit card on chair, find and pick up credit card away from chair, and place credit card on chair.
+Your task is to: place credit card on chair
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1), GarbageCan (1), Drawer (1), DiningTable (1), CoffeeTable (1, 2), ArmChair (1). I am holding CreditCard (1) now.
+Think: I hold CreditCard (1). Now, I need to put it on the chair. I can see ArmChair (1).
+OK.
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see SideTable (1), Pillow (1), HousePlant (1, 2), CreditCard (1, 2), Chair (6), ArmChair (1).  I am holding CreditCard (1) now.
+Act: put down CreditCard (1)
+You put CreditCard (1) on ArmChair (1). You see SideTable (1), Pillow (1), HousePlant (1, 2), CreditCard (1, 2), Chair (6), ArmChair (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

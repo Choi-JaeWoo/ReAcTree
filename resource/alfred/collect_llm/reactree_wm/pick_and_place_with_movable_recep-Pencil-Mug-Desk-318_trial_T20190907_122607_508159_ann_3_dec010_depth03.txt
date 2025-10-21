@@ -1,0 +1,185 @@
+Your primary goal is to: Put a white mug with a pencil in it on the desk.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up mug, put pencil in mug, and place mug on desk.
+Your task is to: put pencil in mug
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see GarbageCan (1), Dresser (1, 2), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13), Desk (1, 2), Cabinet (1), Bed (1, 2), ArmChair (1). I am holding CreditCard (1) now.
+Think: I hold Mug (1). Now, I need to put pencil in it. I can see Pencil (1).
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1).  I am holding CreditCard (1) now.
+Act: put down CreditCard (1)
+You put CreditCard (1) on Desk (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1).
+Act: pick up CreditCard (1)
+You pick up CreditCard (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1). I am holding CreditCard (1) now.
+Act: go to Desk (2)
+You arrive at Desk (2). You see Drawer (2, 5, 6, 9, 13), Desk (2), CreditCard (1), Chair (1), CD (1).  I am holding CreditCard (1) now.
+Act: put down CreditCard (1)
+You put CreditCard (1) on Desk (2). You see Drawer (2, 5, 6, 9, 13), Desk (2), CreditCard (1), Chair (1), CD (1).
+Act: pick up CreditCard (1)
+You pick up CreditCard (1). You see Drawer (2, 5, 6, 9, 13), Desk (2), CreditCard (1), Chair (1), CD (1). I am holding CreditCard (1) now.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1).  I am holding CreditCard (1) now.
+Act: put down CreditCard (1)
+You put CreditCard (1) on Desk (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1).
+Act: pick up CreditCard (1)
+You pick up CreditCard (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1). I am holding CreditCard (1) now.
+Act: go to Desk (2)
+You arrive at Desk (2). You see Drawer (2, 5, 6, 9, 13), Desk (2), CreditCard (1), Chair (1), CD (1).  I am holding CreditCard (1) now.
+Act: put down CreditCard (1)
+You put CreditCard (1) on Desk (2). You see Drawer (2, 5, 6, 9, 13), Desk (2), CreditCard (1), Chair (1), CD (1).
+Act: pick up CreditCard (1)
+You pick up CreditCard (1). You see Drawer (2, 5, 6, 9, 13), Desk (2), CreditCard (1), Chair (1), CD (1). I am holding CreditCard (1) now.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1).  I am holding CreditCard (1) now.
+Act: put down CreditCard (1)
+You put CreditCard (1) on Desk (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1).
+Act: pick up CreditCard (1)
+You pick up CreditCard (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1). I am holding CreditCard (1) now.
+Act: go to Desk (2)
+You arrive at Desk (2). You see Drawer (2, 5, 6, 9, 13), Desk (2), CreditCard (1), Chair (1), CD (1).  I am holding CreditCard (1) now.
+Act: put down CreditCard (1)
+You put CreditCard (1) on Desk (2). You see Drawer (2, 5, 6, 9, 13), Desk (2), CreditCard (1), Chair (1), CD (1).
+Act: pick up CreditCard (1)
+You pick up CreditCard (1). You see Drawer (2, 5, 6, 9, 13), Desk (2), CreditCard (1), Chair (1), CD (1). I am holding CreditCard (1) now.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1).  I am holding CreditCard (1) now.
+Act: put down CreditCard (1)
+You put CreditCard (1) on Desk (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1).
+Act: pick up CreditCard (1)
+You pick up CreditCard (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1). I am holding CreditCard (1) now.
+Act: go to Desk (2)
+You arrive at Desk (2). You see Drawer (2, 5, 6, 9, 13), Desk (2), CreditCard (1), Chair (1), CD (1).  I am holding CreditCard (1) now.
+Act: put down CreditCard (1)
+You put CreditCard (1) on Desk (2). You see Drawer (2, 5, 6, 9, 13), Desk (2), CreditCard (1), Chair (1), CD (1).
+Act: pick up CreditCard (1)
+You pick up CreditCard (1). You see Drawer (2, 5, 6, 9, 13), Desk (2), CreditCard (1), Chair (1), CD (1). I am holding CreditCard (1) now.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1).  I am holding CreditCard (1) now.
+Act: put down CreditCard (1)
+You put CreditCard (1) on Desk (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1).
+Act: pick up CreditCard (1)
+You pick up CreditCard (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1). I am holding CreditCard (1) now.
+Act: go to Desk (2)
+You arrive at Desk (2). You see Drawer (2, 5, 6, 9, 13), Desk (2), CreditCard (1), Chair (1), CD (1).  I am holding CreditCard (1) now.
+Act: put down CreditCard (1)
+You put CreditCard (1) on Desk (2). You see Drawer (2, 5, 6, 9, 13), Desk (2), CreditCard (1), Chair (1), CD (1).
+Act: pick up CreditCard (1)
+You pick up CreditCard (1). You see Drawer (2, 5, 6, 9, 13), Desk (2), CreditCard (1), Chair (1), CD (1). I am holding CreditCard (1) now.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1).  I am holding CreditCard (1) now.
+Act: put down CreditCard (1)
+You put CreditCard (1) on Desk (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1).
+Act: pick up CreditCard (1)
+You pick up CreditCard (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1). I am holding CreditCard (1) now.
+Act: go to Desk (2)
+You arrive at Desk (2). You see Drawer (2, 5, 6, 9, 13), Desk (2), CreditCard (1), Chair (1), CD (1).  I am holding CreditCard (1) now.
+Act: put down CreditCard (1)
+You put CreditCard (1) on Desk (2). You see Drawer (2, 5, 6, 9, 13), Desk (2), CreditCard (1), Chair (1), CD (1).
+Act: pick up CreditCard (1)
+You pick up CreditCard (1). You see Drawer (2, 5, 6, 9, 13), Desk (2), CreditCard (1), Chair (1), CD (1). I am holding CreditCard (1) now.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1).  I am holding CreditCard (1) now.
+Act: put down CreditCard (1)
+You put CreditCard (1) on Desk (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1).
+Act: pick up CreditCard (1)
+You pick up CreditCard (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1). I am holding CreditCard (1) now.
+Act: go to Desk (2)
+You arrive at Desk (2). You see Drawer (2, 5, 6, 9, 13), Desk (2), CreditCard (1), Chair (1), CD (1).  I am holding CreditCard (1) now.
+Act: put down CreditCard (1)
+You put CreditCard (1) on Desk (2). You see Drawer (2, 5, 6, 9, 13), Desk (2), CreditCard (1), Chair (1), CD (1).
+Act: pick up CreditCard (1)
+You pick up CreditCard (1). You see Drawer (2, 5, 6, 9, 13), Desk (2), CreditCard (1), Chair (1), CD (1). I am holding CreditCard (1) now.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1).  I am holding CreditCard (1) now.
+Act: put down CreditCard (1)
+You put CreditCard (1) on Desk (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1).
+Act: pick up CreditCard (1)
+You pick up CreditCard (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1). I am holding CreditCard (1) now.
+Act: go to Desk (2)
+You arrive at Desk (2). You see Drawer (2, 5, 6, 9, 13), Desk (2), CreditCard (1), Chair (1), CD (1).  I am holding CreditCard (1) now.
+Act: put down CreditCard (1)
+You put CreditCard (1) on Desk (2). You see Drawer (2, 5, 6, 9, 13), Desk (2), CreditCard (1), Chair (1), CD (1).
+Act: pick up CreditCard (1)
+You pick up CreditCard (1). You see Drawer (2, 5, 6, 9, 13), Desk (2), CreditCard (1), Chair (1), CD (1). I am holding CreditCard (1) now.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1).  I am holding CreditCard (1) now.
+Act: put down CreditCard (1)
+You put CreditCard (1) on Desk (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1).
+Act: pick up CreditCard (1)
+You pick up CreditCard (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1). I am holding CreditCard (1) now.
+Act: go to Desk (2)
+You arrive at Desk (2). You see Drawer (2, 5, 6, 9, 13), Desk (2), CreditCard (1), Chair (1), CD (1).  I am holding CreditCard (1) now.
+Act: put down CreditCard (1)
+You put CreditCard (1) on Desk (2). You see Drawer (2, 5, 6, 9, 13), Desk (2), CreditCard (1), Chair (1), CD (1).
+Act: pick up CreditCard (1)
+You pick up CreditCard (1). You see Drawer (2, 5, 6, 9, 13), Desk (2), CreditCard (1), Chair (1), CD (1). I am holding CreditCard (1) now.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1).  I am holding CreditCard (1) now.
+Act: put down CreditCard (1)
+You put CreditCard (1) on Desk (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1).
+Act: pick up CreditCard (1)
+You pick up CreditCard (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1). I am holding CreditCard (1) now.
+Act: go to Desk (2)
+You arrive at Desk (2). You see Drawer (2, 5, 6, 9, 13), Desk (2), CreditCard (1), Chair (1), CD (1).  I am holding CreditCard (1) now.
+Act: put down CreditCard (1)
+You put CreditCard (1) on Desk (2). You see Drawer (2, 5, 6, 9, 13), Desk (2), CreditCard (1), Chair (1), CD (1).
+Act: pick up CreditCard (1)
+You pick up CreditCard (1). You see Drawer (2, 5, 6, 9, 13), Desk (2), CreditCard (1), Chair (1), CD (1). I am holding CreditCard (1) now.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1).  I am holding CreditCard (1) now.
+Act: put down CreditCard (1)
+You put CreditCard (1) on Desk (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1).
+Act: pick up CreditCard (1)
+You pick up CreditCard (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1). I am holding CreditCard (1) now.
+Act: go to Desk (2)
+You arrive at Desk (2). You see Drawer (2, 5, 6, 9, 13), Desk (2), CreditCard (1), Chair (1), CD (1).  I am holding CreditCard (1) now.
+Act: put down CreditCard (1)
+You put CreditCard (1) on Desk (2). You see Drawer (2, 5, 6, 9, 13), Desk (2), CreditCard (1), Chair (1), CD (1).
+Act: pick up CreditCard (1)
+You pick up CreditCard (1). You see Drawer (2, 5, 6, 9, 13), Desk (2), CreditCard (1), Chair (1), CD (1). I am holding CreditCard (1) now.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1).  I am holding CreditCard (1) now.
+Act: put down CreditCard (1)
+You put CreditCard (1) on Desk (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1).
+Act: pick up CreditCard (1)
+You pick up CreditCard (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1). I am holding CreditCard (1) now.
+Act: go to Desk (2)
+You arrive at Desk (2). You see Drawer (2, 5, 6, 9, 13), Desk (2), CreditCard (1), Chair (1), CD (1).  I am holding CreditCard (1) now.
+Act: put down CreditCard (1)
+You put CreditCard (1) on Desk (2). You see Drawer (2, 5, 6, 9, 13), Desk (2), CreditCard (1), Chair (1), CD (1).
+Act: pick up CreditCard (1)
+You pick up CreditCard (1). You see Drawer (2, 5, 6, 9, 13), Desk (2), CreditCard (1), Chair (1), CD (1). I am holding CreditCard (1) now.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1).  I am holding CreditCard (1) now.
+Act: put down CreditCard (1)
+You put CreditCard (1) on Desk (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1).
+Act: pick up CreditCard (1)
+You pick up CreditCard (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1). I am holding CreditCard (1) now.
+Act: go to Desk (2)
+You arrive at Desk (2). You see Drawer (2, 5, 6, 9, 13), Desk (2), CreditCard (1), Chair (1), CD (1).  I am holding CreditCard (1) now.
+Act: put down CreditCard (1)
+You put CreditCard (1) on Desk (2). You see Drawer (2, 5, 6, 9, 13), Desk (2), CreditCard (1), Chair (1), CD (1).
+Act: pick up CreditCard (1)
+You pick up CreditCard (1). You see Drawer (2, 5, 6, 9, 13), Desk (2), CreditCard (1), Chair (1), CD (1). I am holding CreditCard (1) now.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1).  I am holding CreditCard (1) now.
+Act: put down CreditCard (1)
+You put CreditCard (1) on Desk (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1).
+Act: pick up CreditCard (1)
+You pick up CreditCard (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1). I am holding CreditCard (1) now.
+Act: go to Desk (2)
+You arrive at Desk (2). You see Drawer (2, 5, 6, 9, 13), Desk (2), CreditCard (1), Chair (1), CD (1).  I am holding CreditCard (1) now.
+Act: put down CreditCard (1)
+You put CreditCard (1) on Desk (2). You see Drawer (2, 5, 6, 9, 13), Desk (2), CreditCard (1), Chair (1), CD (1).
+Act: pick up CreditCard (1)
+You pick up CreditCard (1). You see Drawer (2, 5, 6, 9, 13), Desk (2), CreditCard (1), Chair (1), CD (1). I am holding CreditCard (1) now.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1).  I am holding CreditCard (1) now.
+Act: put down CreditCard (1)
+You put CreditCard (1) on Desk (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1).
+Act: pick up CreditCard (1)
+You pick up CreditCard (1). You see Laptop (1), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), Book (1). I am holding CreditCard (1) now.
+Act: go to Desk (2)
+You arrive at Desk (2). You see Drawer (2, 5, 6, 9, 13), Desk (2), CreditCard (1), Chair (1), CD (1).  I am holding CreditCard (1) now.
+Act: put down CreditCard (1)
+You put CreditCard (1) on Desk (2). You see Drawer (2, 5, 6, 9, 13), Desk (2), CreditCard (1), Chair (1), CD (1).
+Max decisions

@@ -1,0 +1,47 @@
+Your task is to: Put the credit cards on the blue sofa
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1, 2), Sofa (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14), GarbageCan (1), CoffeeTable (1), ArmChair (1).
+Think: To solve the task, I need to find and pick up the credit cards, then put it on the blue sofa.
+OK.
+Think: First, I need to recall location of the credit cards.
+OK.
+Act: recall location of CreditCard
+You have not seen CreditCard before.
+Think: Now I need to find the credit cards. The credit cards is more likely to appear on TVStand (1-2), Sofa (1), CoffeeTable (1), ArmChair (1), or in Shelf (1-14). I can check each place one by one, starting from TVStand (1), until I find the credit cards.
+OK.
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Vase (2, 3, 4), TVStand (1), Statue (3), Shelf (8, 9, 10, 14), Box (2), Bowl (1). 
+Act: go to TVStand (2)
+You arrive at TVStand (2). You see Television (1), TVStand (2), Shelf (1, 3, 4, 6, 11, 13), CreditCard (3, 4). 
+Think: I find CreditCard (3). Now, I need to pick it up.
+OK.
+Act: pick up CreditCard (3)
+You pick up CreditCard (3). You see Television (1), TVStand (2), Shelf (1, 3, 4, 6, 11, 13), CreditCard (3, 4). I am holding CreditCard (3) now.
+Think: I hold CreditCard (3). Now, I need to put it on the blue sofa.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), RemoteControl (1), Pillow (1), Laptop (1), KeyChain (1), CreditCard (3).  I am holding CreditCard (3) now.
+Act: put down CreditCard (3)
+You put CreditCard (3) on Sofa (1). You see Sofa (1), Pillow (1), Laptop (1), KeyChain (1), CreditCard (3).
+Think: I put CreditCard (3) on the Sofa (1). Now, I need to recall location of CreditCard.
+OK.
+Act: recall location of CreditCard
+You saw CreditCard (3) near Sofa (1). You saw CreditCard (4) near TVStand (2).
+Think: CreditCard (4) is on TVStand (2). Now, I need to find CreditCard (4). The credit cards is more likely to appear on TVStand (1), Sofa (1), CoffeeTable (1), ArmChair (1), or in Shelf (1-14). I can check each place one by one, starting from TVStand (1), until I find the credit cards.
+OK.
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Vase (2, 3, 4), TVStand (1), Statue (3), Shelf (8, 9, 10, 14), Box (2), Bowl (1). 
+Act: go to TVStand (2)
+You arrive at TVStand (2). You see Television (1), TVStand (2), Shelf (1, 3, 4, 6, 11, 13), CreditCard (4). 
+Think: I find CreditCard (4). Now, I need to pick it up.
+OK.
+Act: pick up CreditCard (4)
+You pick up CreditCard (4). You see Television (1), TVStand (2), Shelf (1, 3, 4, 6, 11, 13), CreditCard (4). I am holding CreditCard (4) now.
+Think: I hold CreditCard (4). Now, I need to put it on the blue sofa.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1), Laptop (1), KeyChain (1), CreditCard (3, 4).  I am holding CreditCard (4) now.
+Act: put down CreditCard (4)
+You put CreditCard (4) on Sofa (1). You see Sofa (1), Pillow (1), Laptop (1), KeyChain (1), CreditCard (3, 4).
+Think: Now I accomplish the goal.
+OK.
+Act: done

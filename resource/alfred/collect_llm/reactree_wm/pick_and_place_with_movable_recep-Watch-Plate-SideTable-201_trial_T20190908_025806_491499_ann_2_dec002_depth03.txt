@@ -1,0 +1,27 @@
+Your primary goal is to: Place a watch on a plate to present it on a table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up watch, find and pick up plate, and place watch on plate near table.
+Your task is to: find and pick up watch
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1, 2), GarbageCan (1), Drawer (1, 2), DiningTable (1, 2), CoffeeTable (1), ArmChair (1, 2).
+Think: First, I need to recall location of the watch.
+OK.
+Act: recall location of Watch
+You have not seen Watch before.
+Think: Now, I need to find the watch. The watch is more likely to appear on TVStand (1), Sofa (1), SideTable (1-2), CoffeeTable (1), ArmChair (1-2), or in Drawer (1-2). I can check each place one by one, starting from TVStand (1), until I find the watch.
+OK.
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Vase (2), Television (1), TVStand (1), Statue (1), Pencil (1). 
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1), Newspaper (1), Laptop (1, 2). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see TissueBox (2), SideTable (1), RemoteControl (1), KeyChain (1), Drawer (1), DiningTable (2). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see TissueBox (1), SideTable (2), Lamp (1), Drawer (2), Curtains (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (1), Vase (3), Sofa (1), Pen (2), KeyChain (2), CoffeeTable (1), Bowl (1), Book (2). 
+Think: I find Watch (1). Now, I need to pick it up.
+OK.
+Act: pick up Watch (1)
+You pick up Watch (1). You see Watch (1), Vase (3), Sofa (1), Pen (2), KeyChain (2), CoffeeTable (1), Bowl (1), Book (2). I am holding Watch (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

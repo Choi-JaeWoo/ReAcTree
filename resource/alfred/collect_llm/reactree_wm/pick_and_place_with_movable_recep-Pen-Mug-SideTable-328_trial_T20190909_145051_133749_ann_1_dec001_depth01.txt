@@ -1,0 +1,7 @@
+Your task is to: To put a pen in a cup plus move it to the side table.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1), GarbageCan (1), Drawer (1, 2), Desk (1), Bed (1).
+Think: Since I’m not holding pen, I need to accomplish 3 subgoals sequentially to solve the task. Find and pick up pen, place pen in cup, and move cup to side table.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up pen, place pen in cup, move cup to side table

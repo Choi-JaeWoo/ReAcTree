@@ -1,0 +1,35 @@
+Your primary goal is to: Look at a laptop by the light of a lamp.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up laptop, and find and turn on lamp.
+Your task is to: find and turn on lamp
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1, 2), Shelf (1, 2, 3, 4, 5), GarbageCan (1), Drawer (1), CoffeeTable (1), ArmChair (1). I am holding Laptop (1) now.
+Think: First, I need to recall location of the lamp.
+OK.
+Act: recall location of DeskLamp
+You have not seen DeskLamp before.
+Think: Now I need to find the lamp. The lamp is more likely to appear near Sofa (1), SideTable (1-2), CoffeeTable (1), ArmChair (1), Shelf (1-5), or in Drawer (1). I can check each place one by one, starting from Sofa (1), until I find the lamp.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1), Newspaper (3), Laptop (1), KeyChain (1).  I am holding Laptop (1) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (3), SideTable (1), Laptop (1), KeyChain (2), CellPhone (2).  I am holding Laptop (1) now.
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Sofa (1), SideTable (2), Pillow (1), Laptop (1), Drawer (1).  I am holding Laptop (1) now.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), RemoteControl (2), Laptop (1), CreditCard (2), CoffeeTable (1).  I am holding Laptop (1) now.
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Laptop (1), CreditCard (3), ArmChair (1).  I am holding Laptop (1) now.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Vase (1), Statue (1), Shelf (5), Laptop (1).  I am holding Laptop (1) now.
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Television (1), TVStand (1), Shelf (3), Newspaper (2), Laptop (1), CellPhone (1).  I am holding Laptop (1) now.
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Television (1), TVStand (1), Shelf (3), Newspaper (2), Laptop (1), CellPhone (1).  I am holding Laptop (1) now.
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see Statue (1), Shelf (5), Laptop (1).  I am holding Laptop (1) now.
+Act: go to Shelf (5)
+You arrive at Shelf (5). You see Statue (1), Shelf (5), Laptop (1).  I am holding Laptop (1) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Pillow (1), Laptop (1), Drawer (1). Drawer (1) is open.  I am holding Laptop (1) now.
+Think: I cannot find the lamp.
+OK.
+Act: failure

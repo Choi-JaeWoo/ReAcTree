@@ -1,0 +1,129 @@
+Your primary goal is to: Reposition two clocks on a desk.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up clock, place clock on desk, Find and pick up clock away from desk, and place clock on desk.
+Your task is to: place clock on desk
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see GarbageCan (1), Dresser (1, 2), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13), Desk (1, 2), Cabinet (1), Bed (1, 2), ArmChair (1).
+Think: I hold Clock (1). Now, I need to put it on the desk. I can see Desk (1).
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Mug (2), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), AlarmClock (1, 2, 4). 
+Act: go to Desk (2)
+You arrive at Desk (2). You see Pen (2), Laptop (2), Drawer (2, 5, 6, 9, 13), Desk (2), Chair (1), AlarmClock (3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Mug (2), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), AlarmClock (1, 2, 4). 
+Act: go to Desk (2)
+You arrive at Desk (2). You see Pen (2), Laptop (2), Drawer (2, 5, 6, 9, 13), Desk (2), Chair (1), AlarmClock (3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Mug (2), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), AlarmClock (1, 2, 4). 
+Act: go to Desk (2)
+You arrive at Desk (2). You see Pen (2), Laptop (2), Drawer (2, 5, 6, 9, 13), Desk (2), Chair (1), AlarmClock (3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Mug (2), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), AlarmClock (1, 2, 4). 
+Act: go to Desk (2)
+You arrive at Desk (2). You see Pen (2), Laptop (2), Drawer (2, 5, 6, 9, 13), Desk (2), Chair (1), AlarmClock (3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Mug (2), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), AlarmClock (1, 2, 4). 
+Act: go to Desk (2)
+You arrive at Desk (2). You see Pen (2), Laptop (2), Drawer (2, 5, 6, 9, 13), Desk (2), Chair (1), AlarmClock (3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Mug (2), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), AlarmClock (1, 2, 4). 
+Act: go to Desk (2)
+You arrive at Desk (2). You see Pen (2), Laptop (2), Drawer (2, 5, 6, 9, 13), Desk (2), Chair (1), AlarmClock (3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Mug (2), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), AlarmClock (1, 2, 4). 
+Act: go to Desk (2)
+You arrive at Desk (2). You see Pen (2), Laptop (2), Drawer (2, 5, 6, 9, 13), Desk (2), Chair (1), AlarmClock (3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Mug (2), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), AlarmClock (1, 2, 4). 
+Act: go to Desk (2)
+You arrive at Desk (2). You see Pen (2), Laptop (2), Drawer (2, 5, 6, 9, 13), Desk (2), Chair (1), AlarmClock (3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Mug (2), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), AlarmClock (1, 2, 4). 
+Act: go to Desk (2)
+You arrive at Desk (2). You see Pen (2), Laptop (2), Drawer (2, 5, 6, 9, 13), Desk (2), Chair (1), AlarmClock (3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Mug (2), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), AlarmClock (1, 2, 4). 
+Act: go to Desk (2)
+You arrive at Desk (2). You see Pen (2), Laptop (2), Drawer (2, 5, 6, 9, 13), Desk (2), Chair (1), AlarmClock (3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Mug (2), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), AlarmClock (1, 2, 4). 
+Act: go to Desk (2)
+You arrive at Desk (2). You see Pen (2), Laptop (2), Drawer (2, 5, 6, 9, 13), Desk (2), Chair (1), AlarmClock (3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Mug (2), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), AlarmClock (1, 2, 4). 
+Act: go to Desk (2)
+You arrive at Desk (2). You see Pen (2), Laptop (2), Drawer (2, 5, 6, 9, 13), Desk (2), Chair (1), AlarmClock (3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Mug (2), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), AlarmClock (1, 2, 4). 
+Act: go to Desk (2)
+You arrive at Desk (2). You see Pen (2), Laptop (2), Drawer (2, 5, 6, 9, 13), Desk (2), Chair (1), AlarmClock (3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Mug (2), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), AlarmClock (1, 2, 4). 
+Act: go to Desk (2)
+You arrive at Desk (2). You see Pen (2), Laptop (2), Drawer (2, 5, 6, 9, 13), Desk (2), Chair (1), AlarmClock (3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Mug (2), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), AlarmClock (1, 2, 4). 
+Act: go to Desk (2)
+You arrive at Desk (2). You see Pen (2), Laptop (2), Drawer (2, 5, 6, 9, 13), Desk (2), Chair (1), AlarmClock (3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Mug (2), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), AlarmClock (1, 2, 4). 
+Act: go to Desk (2)
+You arrive at Desk (2). You see Pen (2), Laptop (2), Drawer (2, 5, 6, 9, 13), Desk (2), Chair (1), AlarmClock (3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Mug (2), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), AlarmClock (1, 2, 4). 
+Act: go to Desk (2)
+You arrive at Desk (2). You see Pen (2), Laptop (2), Drawer (2, 5, 6, 9, 13), Desk (2), Chair (1), AlarmClock (3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Mug (2), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), AlarmClock (1, 2, 4). 
+Act: go to Desk (2)
+You arrive at Desk (2). You see Pen (2), Laptop (2), Drawer (2, 5, 6, 9, 13), Desk (2), Chair (1), AlarmClock (3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Mug (2), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), AlarmClock (1, 2, 4). 
+Act: go to Desk (2)
+You arrive at Desk (2). You see Pen (2), Laptop (2), Drawer (2, 5, 6, 9, 13), Desk (2), Chair (1), AlarmClock (3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Mug (2), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), AlarmClock (1, 2, 4). 
+Act: go to Desk (2)
+You arrive at Desk (2). You see Pen (2), Laptop (2), Drawer (2, 5, 6, 9, 13), Desk (2), Chair (1), AlarmClock (3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Mug (2), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), AlarmClock (1, 2, 4). 
+Act: go to Desk (2)
+You arrive at Desk (2). You see Pen (2), Laptop (2), Drawer (2, 5, 6, 9, 13), Desk (2), Chair (1), AlarmClock (3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Mug (2), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), AlarmClock (1, 2, 4). 
+Act: go to Desk (2)
+You arrive at Desk (2). You see Pen (2), Laptop (2), Drawer (2, 5, 6, 9, 13), Desk (2), Chair (1), AlarmClock (3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Mug (2), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), AlarmClock (1, 2, 4). 
+Act: go to Desk (2)
+You arrive at Desk (2). You see Pen (2), Laptop (2), Drawer (2, 5, 6, 9, 13), Desk (2), Chair (1), AlarmClock (3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Mug (2), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), AlarmClock (1, 2, 4). 
+Act: go to Desk (2)
+You arrive at Desk (2). You see Pen (2), Laptop (2), Drawer (2, 5, 6, 9, 13), Desk (2), Chair (1), AlarmClock (3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Mug (2), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), AlarmClock (1, 2, 4). 
+Act: go to Desk (2)
+You arrive at Desk (2). You see Pen (2), Laptop (2), Drawer (2, 5, 6, 9, 13), Desk (2), Chair (1), AlarmClock (3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Mug (2), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), AlarmClock (1, 2, 4). 
+Act: go to Desk (2)
+You arrive at Desk (2). You see Pen (2), Laptop (2), Drawer (2, 5, 6, 9, 13), Desk (2), Chair (1), AlarmClock (3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Mug (2), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), AlarmClock (1, 2, 4). 
+Act: go to Desk (2)
+You arrive at Desk (2). You see Pen (2), Laptop (2), Drawer (2, 5, 6, 9, 13), Desk (2), Chair (1), AlarmClock (3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Mug (2), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), AlarmClock (1, 2, 4). 
+Act: go to Desk (2)
+You arrive at Desk (2). You see Pen (2), Laptop (2), Drawer (2, 5, 6, 9, 13), Desk (2), Chair (1), AlarmClock (3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Mug (2), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), AlarmClock (1, 2, 4). 
+Act: go to Desk (2)
+You arrive at Desk (2). You see Pen (2), Laptop (2), Drawer (2, 5, 6, 9, 13), Desk (2), Chair (1), AlarmClock (3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Mug (2), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), AlarmClock (1, 2, 4). 
+Act: go to Desk (2)
+You arrive at Desk (2). You see Pen (2), Laptop (2), Drawer (2, 5, 6, 9, 13), Desk (2), Chair (1), AlarmClock (3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Mug (2), Drawer (7, 10), Desk (1), CreditCard (1), Chair (2), Cabinet (1), AlarmClock (1, 2, 4). 
+Max decisions

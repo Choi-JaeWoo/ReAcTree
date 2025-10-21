@@ -1,0 +1,7 @@
+Your task is to: Put the tray with wrist watch at the back of the tv stand
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1, 2), SideTable (1, 2), GarbageCan (1), Drawer (1), DiningTable (1), CoffeeTable (1).
+Think: Since I’m not holding anything, I need to accomplish 5 subgoals sequentially to solve the task. Find and pick up tray, place tray on tv stand, find and pick up wrist watch, place wrist watch on tray near tv stand, and place tray with wrist watch at the back of the tv stand.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up tray, place tray on tv stand, find and pick up wrist watch, place wrist watch on tray near tv stand, and place tray with wrist watch at the back of the tv stand

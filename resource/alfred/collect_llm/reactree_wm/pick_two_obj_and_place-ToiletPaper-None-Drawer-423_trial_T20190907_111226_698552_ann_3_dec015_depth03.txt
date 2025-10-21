@@ -1,0 +1,37 @@
+Your primary goal is to: Place a tube and a toilet paper roll in the left drawer below the sink next to the bathtub.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up tube, place tube in drawer, find and pick up toilet paper roll, place toilet paper roll in drawer, find and pick up tube away from drawer, and place tube in drawer.
+Your task is to: find and pick up toilet paper roll
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1, 2), HandTowelHolder (1, 2, 3, 4), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1, 2), Bathtub (1), BathtubBasin (1).
+Think: First, I need to recall location of the toilet paper roll.
+OK.
+Act: recall location of ToiletPaper
+You have not seen ToiletPaper before.
+Think: Now, I need to find the toilet paper roll. The toilet paper roll is more likely to appear on CounterTop (1-2), SinkBasin (1-2), or in Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the toilet paper roll.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see SoapBottle (2), Sink (2), SinkBasin (2), ShowerGlass (1), Mirror (1, 2), HandTowel (2), Faucet (2), Drawer (3, 5, 7, 8), CounterTop (1), Candle (2). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see SoapBottle (1), Sink (1), SinkBasin (1), GarbageCan (1), Faucet (3), Drawer (1), CounterTop (2). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see SoapBottle (1), Sink (1), SinkBasin (1), GarbageCan (1), Faucet (3), Drawer (1, 2), CounterTop (2). 
+Act: go to SinkBasin (2)
+You arrive at SinkBasin (2). You see SoapBottle (2), Sink (2), SinkBasin (2), ShowerGlass (1), ShowerDoor (1), Mirror (1, 2), HandTowel (2), Faucet (2), Drawer (3, 5, 7, 8), CounterTop (1), Candle (2). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Towel (1), SoapBottle (1), SoapBar (1), Sink (1), SinkBasin (1), GarbageCan (1), Faucet (3), Drawer (1, 2), CounterTop (2). Drawer (1) is open. 
+Act: close Drawer (1)
+You close Drawer (1). You see Towel (1), SoapBottle (1), Sink (1), SinkBasin (1), GarbageCan (1), Faucet (3), Drawer (1, 2), CounterTop (2).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Sink (1), SinkBasin (1), HandTowel (1), Faucet (3), Drawer (1, 2), CounterTop (2), Bathtub (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see Sink (1), SinkBasin (1), Faucet (3), Drawer (2), CounterTop (2), Candle (3), Bathtub (1), BathtubBasin (1).
+Act: close Drawer (2)
+You close Drawer (2). You see Sink (1), SinkBasin (1), Faucet (3), Drawer (1, 2), CounterTop (2), Candle (3), Bathtub (1), BathtubBasin (1).
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see ToiletPaper (3), Sink (2), SinkBasin (2), Mirror (1, 2), HandTowel (2), Drawer (3, 4, 5, 6, 7, 8), CounterTop (1), Cloth (1). Drawer (3) is closed. 
+Think: I find ToiletPaper (3). Now, I need to pick it up.
+OK.
+Act: pick up ToiletPaper (3)
+You pick up ToiletPaper (3). You see ToiletPaper (3), Sink (2), SinkBasin (2), Mirror (1, 2), HandTowel (2), Drawer (3, 4, 5, 6, 7, 8), CounterTop (1), Cloth (1). I am holding ToiletPaper (3) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

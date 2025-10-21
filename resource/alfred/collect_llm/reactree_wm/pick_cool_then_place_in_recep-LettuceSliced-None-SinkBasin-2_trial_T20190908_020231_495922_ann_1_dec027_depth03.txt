@@ -1,0 +1,151 @@
+Your primary goal is to: Move a cold piece of lettuce to the sink by a knife.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, find and pick up lettuce, place lettuce in sink basin, and place knife on lettuce near sink basin.
+Your task is to: place knife on lettuce near sink basin
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4, 5, 6), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9).
+Think: I hold Knife (1). Now, I need to recall location of the lettuce.
+OK.
+Act: recall location of Lettuce
+You saw Lettuce (1) near SinkBasin (1). You saw Lettuce (2) near CounterTop (2).
+Think: I can find Lettuce (1) near SinkBasin (1).
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Think: I find Lettuce (1). Now, I need to put down Knife (1) on Lettuce (1).
+OK.
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Act: go to Lettuce (1)
+You see Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Drawer (1, 6), CounterTop (1), Cabinet (1, 8). 
+Max decisions

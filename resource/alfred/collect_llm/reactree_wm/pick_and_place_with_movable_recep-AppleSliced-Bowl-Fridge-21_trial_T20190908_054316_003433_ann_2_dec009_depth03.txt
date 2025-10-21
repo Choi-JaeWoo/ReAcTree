@@ -1,0 +1,37 @@
+Your primary goal is to: Place the bowl with the apple inside of the refrigerator.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up bowl, put apple in bowl, and place bowl in fridge.
+Your task is to: put apple in bowl
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1, 2, 3), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4). I am holding Bowl (1) now.
+Think: I hold Bowl (1). Now, I need to recall location of the apple.
+OK.
+Act: recall location of Apple
+You have not seen Apple before.
+Think: Now, I need to find the apple. The apple is more likely to appear on CounterTop (1), SideTable (1), or in Fridge (1), Microwave (1), Cabinet (1-4). I can check each place one by one, starting from CounterTop (1), until I find the apple.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Tomato (1, 2), Spoon (1), Sink (1), SinkBasin (1), SideTable (1), Fork (1), Faucet (1), Drawer (1), Cup (1), CounterTop (1), Cabinet (2), Bowl (1).  I am holding Bowl (1) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Tomato (1), SideTable (1), PepperShaker (3), Knife (1), Fork (1), DiningTable (2), CounterTop (1), Bowl (1).  I am holding Bowl (1) now.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Bowl (1). Fridge (1) is closed.  I am holding Bowl (1) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Fridge (1), Egg (3), Bowl (1), Apple (1, 2). I am holding Bowl (1) now.
+Think: I find Apple (1). Now, I need to put it in the bowl.
+OK.
+Act: pick up Apple (1)
+You are currently holding Bowl (1). I am holding Bowl (1) now.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Egg (3), Bowl (1), Apple (1, 2). Fridge (1) is open.  I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put Bowl (1) on Fridge (1). You see Fridge (1), Egg (3), Bowl (1), Apple (1, 2).
+Act: pick up Apple (1)
+You pick up Apple (1). You see Fridge (1), Egg (3), Bowl (1), Apple (1, 2). I am holding Apple (1) now.
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Potato (1, 2), Fridge (1), Egg (3), Bowl (1), Apple (1, 2).  I am holding Apple (1) now.
+Act: put down Apple (1)
+You put Apple (1) on Bowl (1). You see Potato (1, 2), Fridge (1), Egg (3), Bowl (1), Apple (1, 2).
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Potato (1, 2), Fridge (1), Egg (3), Bowl (1), Apple (1, 2). I am holding Bowl (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

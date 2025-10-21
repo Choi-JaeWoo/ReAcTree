@@ -1,0 +1,19 @@
+Your primary goal is to: To move two heads of lettuce into the fridge.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, slice and pick up lettuce, place lettuce in fridge, find and pick up lettuce away from fridge, and place lettuce in fridge.
+Your task is to: find and pick up lettuce away from fridge
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11).
+Think: First, I need to recall location of the lettuce.
+OK.
+Act: recall location of Lettuce
+You saw Lettuce (2) near DiningTable (1). You saw Lettuce (8) near Fridge (1). You saw Lettuce (9) near DiningTable (1). You saw Lettuce (10) near DiningTable (1).
+Think: Lettuce (8) is in Fridge (1). I can find another lettuce, Lettuce (9), near DiningTable (1).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (1, 2, 3), Window (1), Tomato (3), Spatula (2), Lettuce (2, 7, 9, 10), Knife (1), Fork (1, 2), Egg (1), DiningTable (1), Cup (1), Chair (1), ButterKnife (2), Bowl (1). 
+Think: I find Lettuce (9). Now, I need to pick it up.
+OK.
+Act: pick up Lettuce (9)
+You pick up Lettuce (9). You see WineBottle (1, 2, 3), Window (1), Tomato (3), Spatula (2), Lettuce (2, 7, 9, 10), Knife (1), Fork (1, 2), Egg (1), DiningTable (1), Cup (1), Chair (1), ButterKnife (2), Bowl (1). I am holding Lettuce (9) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

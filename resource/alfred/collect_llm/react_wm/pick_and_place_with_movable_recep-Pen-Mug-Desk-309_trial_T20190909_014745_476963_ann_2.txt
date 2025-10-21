@@ -1,0 +1,37 @@
+Your task is to: Put a pen in a cup to move them to the desk.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Safe (1), LaundryHamper (1), GarbageCan (1), Drawer (1, 2, 3, 4), Desk (1), Cabinet (1, 2), Bed (1), ArmChair (1, 2, 3).
+Think: To solve the task, I need to find and pick up the pen, then put it in the cup. And I need to pick up the cup, then put it on the desk.
+OK.
+Think: First, I need to recall location of the pen.
+OK.
+Act: recall location of Pen
+You have not seen Pen before.
+Think: Now I need to find the pen. The pen is more likely to appear on Desk (1), or in Drawer (1-4), Cabinet (1-2). I can check each place one by one, starting from Desk (1), until I find the pen.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pencil (3), Drawer (4), Desk (1), Chair (1), CellPhone (1), CD (1), Book (1). 
+Think: I find Pen (1). Now, I need to pick it up.
+OK.
+Act: pick up Pencil (3)
+You pick up Pencil (3). You see Pencil (3), Drawer (4), Desk (1), Chair (1), CellPhone (1), CD (1), Book (1). I am holding Pencil (3) now.
+Think: I hold Pencil (3). Now, I need to put it in the cup.
+OK.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Pencil (3), Drawer (1, 2, 3, 4), Desk (1), Chair (1), CellPhone (1), Book (1). Drawer (4) is closed.  I am holding Pencil (3) now.
+Act: open Drawer (4)
+You open Drawer (4). You see Pencil (3), Pen (2), HousePlant (1), Drawer (2, 4), Desk (1), Chair (1), CellPhone (1), Book (1). I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put Pencil (3) on Drawer (4). You see Pen (2), HousePlant (1), Drawer (2, 4), Desk (1), Chair (1), CellPhone (1), Book (1).
+Think: I put Pencil (3) in Drawer (4). Now, I need to pick up the cup.
+OK.
+Act: pick up Pen (2)
+You pick up Pen (2). You see Pen (2), HousePlant (1), Drawer (2, 4), Desk (1), Chair (1), CellPhone (1), Book (1). I am holding Pen (2) now.
+Think: I pick up Pen (2) from Drawer (4). Now, I need to put it on the desk.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Window (2, 4), Pen (2), CD (1), Book (1).  I am holding Pen (2) now.
+Act: put down Pen (2)
+You put down failed, drop it. You see Window (2, 4), Pen (2), CD (1), Book (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

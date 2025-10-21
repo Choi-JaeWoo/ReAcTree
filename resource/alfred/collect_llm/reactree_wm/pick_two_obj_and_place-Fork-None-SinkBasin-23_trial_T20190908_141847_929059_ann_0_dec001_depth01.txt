@@ -1,0 +1,7 @@
+Your task is to: put forks into the sink and clean them up
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2), DiningTable (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10).
+Think: Since I’m not holding anything, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up fork, place fork in sink basin, find and pick up fork away from sink basin, and place fork in sink basin.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up fork, place fork in sink basin, find and pick up fork away from sink basin, place fork in sink basin

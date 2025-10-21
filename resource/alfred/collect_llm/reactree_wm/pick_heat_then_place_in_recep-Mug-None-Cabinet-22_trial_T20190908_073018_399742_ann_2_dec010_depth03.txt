@@ -1,0 +1,185 @@
+Your primary goal is to: Putting a mug in a cabinet
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up mug, and place mug in cabinet.
+Your task is to: place mug in cabinet
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20).
+Think: I hold Mug (3). Now, I need to put it in the cabinet. I can see Cabinet (1-20).
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1, 17). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see Cabinet (1, 17).
+Act: go to Cabinet (17)
+You arrive at Cabinet (17). You see Cabinet (1, 5, 17). Cabinet (17) is closed. 
+Act: open Cabinet (17)
+You open Cabinet (17). You see SaltShaker (2), Cabinet (1, 5, 17).
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Cabinet (5, 9, 16, 17). Cabinet (5) is closed. 
+Act: open Cabinet (5)
+You open Cabinet (5). You see Cabinet (5, 16, 17).
+Act: go to Cabinet (16)
+You arrive at Cabinet (16). You see Cabinet (3, 5, 16). Cabinet (16) is closed. 
+Act: open Cabinet (16)
+You open Cabinet (16). You see SaltShaker (3), Cabinet (3, 5, 16).
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see Cabinet (3, 14, 16). Cabinet (3) is closed. 
+Act: open Cabinet (3)
+You open Cabinet (3). You see Cabinet (3, 14, 16).
+Act: go to Cabinet (14)
+You arrive at Cabinet (14). You see Fridge (1), Cabinet (6, 14). Cabinet (14) is closed. 
+Act: open Cabinet (14)
+You open Cabinet (14). You see Fridge (1), Cabinet (6, 12, 14).
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Fridge (1, 1), Cabinet (6, 6, 12, 14, 14). Cabinet (6) is closed. 
+Act: open Cabinet (6)
+You open Cabinet (6). You see Fridge (1), Cabinet (6, 14).
+Act: go to Cabinet (14)
+You arrive at Cabinet (14). You see Fridge (1), Cabinet (14). Cabinet (14) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see GarbageCan (1), Fridge (1), Drawer (3), CounterTop (2), Cabinet (7), Apple (1). Fridge (1) is closed. 
+Act: open Fridge (1)
+You open Fridge (1). You see Toaster (1), Lettuce (1), Fridge (1), Egg (2), Drawer (3), CounterTop (2), Cabinet (7), Apple (1).
+Act: go to Toaster (1)
+You arrive at Toaster (1). You see Toaster (1, 1), StoveBurner (4), Spatula (2), SoapBottle (2), SaltShaker (1), Lettuce (1), Fridge (1, 1), Egg (1, 2, 2), Drawer (3, 3), CreditCard (1), CounterTop (2, 2), Cabinet (7, 7), Apple (1, 1). 
+Act: go to StoveBurner (4)
+You arrive at StoveBurner (4). You see Toaster (1), StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Spatula (2), SaltShaker (1), Pot (1), Kettle (1), Egg (1), Drawer (3), CreditCard (1), CounterTop (2, 3), Cabinet (7). 
+Act: go to StoveKnob (4)
+You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), SoapBottle (1), Pot (1), Pan (1), Kettle (1), CounterTop (3), Cabinet (19), ButterKnife (1). 
+Act: go to StoveKnob (3)
+You already arrive at StoveKnob (3). You see StoveKnob (1, 1, 2, 2, 3, 3, 4, 4), StoveBurner (1, 1, 2, 2, 3, 3), SoapBottle (1), SaltShaker (1), Pot (1, 1), Pan (1, 1), Kettle (1, 1), Drawer (3), CreditCard (1), CounterTop (2, 3, 3), Cabinet (7, 19, 19), ButterKnife (1, 1). 
+Act: go to StoveKnob (2)
+You already arrive at StoveKnob (2). You see Toaster (1), StoveKnob (1, 1, 2, 2, 3, 3, 4, 4), StoveBurner (1, 1, 2, 2, 3, 3), Spatula (2), SaltShaker (1, 1), Pot (1, 1), Pan (1), Kettle (1, 1), Egg (1), Drawer (3, 3), CreditCard (1, 1), CounterTop (2, 2, 3, 3), Cabinet (7, 7, 19, 19), ButterKnife (1). 
+Act: go to StoveKnob (1)
+You already arrive at StoveKnob (1). You see Toaster (1, 1), StoveKnob (1, 1, 2, 2, 3, 3, 4, 4), StoveBurner (1, 1, 2, 2, 3, 3), Spatula (2, 2), SoapBottle (2), SaltShaker (1, 1), Pot (1, 1), Kettle (1, 1), Egg (1, 1), Drawer (3, 3), CreditCard (1, 1), CounterTop (2, 2, 3), Cabinet (7, 7, 19, 19). 
+Act: go to Toaster (1)
+You arrive at Toaster (1). You see Toaster (1), StoveBurner (4), Spatula (2), SoapBottle (2), SaltShaker (1), Fridge (1), Egg (1, 2), Drawer (3), CreditCard (1), CounterTop (2), Cabinet (7), Apple (1). 
+Act: go to StoveBurner (4)
+You arrive at StoveBurner (4). You see Toaster (1), StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Spatula (2), SaltShaker (1), Pot (1), Kettle (1), Egg (1), Drawer (3), CreditCard (1), CounterTop (2, 3), Cabinet (7). 
+Act: go to StoveKnob (4)
+You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), SoapBottle (1), Pot (1), Pan (1), Kettle (1), CounterTop (3), Cabinet (19), ButterKnife (1). 
+Act: go to StoveKnob (3)
+You already arrive at StoveKnob (3). You see StoveKnob (1, 1, 2, 2, 3, 3, 4, 4), StoveBurner (1, 1, 2, 2, 3, 3), SoapBottle (1), SaltShaker (1), Pot (1, 1), Pan (1, 1), Kettle (1, 1), Drawer (3), CreditCard (1), CounterTop (2, 3, 3), Cabinet (7, 19, 19), ButterKnife (1, 1). 
+Act: go to StoveKnob (2)
+You already arrive at StoveKnob (2). You see Toaster (1), StoveKnob (1, 1, 2, 2, 3, 3, 4, 4), StoveBurner (1, 1, 2, 2, 3, 3), Spatula (2), SaltShaker (1, 1), Pot (1, 1), Pan (1), Kettle (1, 1), Egg (1), Drawer (3, 3), CreditCard (1, 1), CounterTop (2, 2, 3, 3), Cabinet (7, 7, 19, 19), ButterKnife (1). 
+Act: go to StoveKnob (1)
+You already arrive at StoveKnob (1). You see Toaster (1, 1), StoveKnob (1, 1, 2, 2, 3, 3, 4, 4), StoveBurner (1, 1, 2, 2, 3, 3), Spatula (2, 2), SoapBottle (2), SaltShaker (1, 1), Pot (1, 1), Kettle (1, 1), Egg (1, 1), Drawer (3, 3), CreditCard (1, 1), CounterTop (2, 2, 3), Cabinet (7, 7, 19, 19). 
+Act: go to Toaster (1)
+You arrive at Toaster (1). You see Toaster (1), StoveBurner (4), Spatula (2), SoapBottle (2), SaltShaker (1), Fridge (1), Egg (1, 2), Drawer (3), CreditCard (1), CounterTop (2), Cabinet (7), Apple (1). 
+Act: go to StoveBurner (4)
+You arrive at StoveBurner (4). You see Toaster (1), StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Spatula (2), SaltShaker (1), Pot (1), Kettle (1), Egg (1), Drawer (3), CreditCard (1), CounterTop (2, 3), Cabinet (7). 
+Act: go to StoveKnob (4)
+You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), SoapBottle (1), Pot (1), Pan (1), Kettle (1), CounterTop (3), Cabinet (19), ButterKnife (1). 
+Act: go to StoveKnob (3)
+You already arrive at StoveKnob (3). You see StoveKnob (1, 1, 2, 2, 3, 3, 4, 4), StoveBurner (1, 1, 2, 2, 3, 3), SoapBottle (1), SaltShaker (1), Pot (1, 1), Pan (1, 1), Kettle (1, 1), Drawer (3), CreditCard (1), CounterTop (2, 3, 3), Cabinet (7, 19, 19), ButterKnife (1, 1). 
+Act: go to StoveKnob (2)
+You already arrive at StoveKnob (2). You see Toaster (1), StoveKnob (1, 1, 2, 2, 3, 3, 4, 4), StoveBurner (1, 1, 2, 2, 3, 3), Spatula (2), SaltShaker (1, 1), Pot (1, 1), Pan (1), Kettle (1, 1), Egg (1), Drawer (3, 3), CreditCard (1, 1), CounterTop (2, 2, 3, 3), Cabinet (7, 7, 19, 19), ButterKnife (1). 
+Act: go to StoveKnob (1)
+You already arrive at StoveKnob (1). You see Toaster (1, 1), StoveKnob (1, 1, 2, 2, 3, 3, 4, 4), StoveBurner (1, 1, 2, 2, 3, 3), Spatula (2, 2), SoapBottle (2), SaltShaker (1, 1), Pot (1, 1), Kettle (1, 1), Egg (1, 1), Drawer (3, 3), CreditCard (1, 1), CounterTop (2, 2, 3), Cabinet (7, 7, 19, 19). 
+Act: go to Toaster (1)
+You arrive at Toaster (1). You see Toaster (1), StoveBurner (4), Spatula (2), SoapBottle (2), SaltShaker (1), Fridge (1), Egg (1, 2), Drawer (3), CreditCard (1), CounterTop (2), Cabinet (7), Apple (1). 
+Act: go to StoveBurner (4)
+You arrive at StoveBurner (4). You see Toaster (1), StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Spatula (2), SaltShaker (1), Pot (1), Kettle (1), Egg (1), Drawer (3), CreditCard (1), CounterTop (2, 3), Cabinet (7). 
+Act: go to StoveKnob (4)
+You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), SoapBottle (1), Pot (1), Pan (1), Kettle (1), CounterTop (3), Cabinet (19), ButterKnife (1). 
+Act: go to StoveKnob (3)
+You already arrive at StoveKnob (3). You see StoveKnob (1, 1, 2, 2, 3, 3, 4, 4), StoveBurner (1, 1, 2, 2, 3, 3), SoapBottle (1), SaltShaker (1), Pot (1, 1), Pan (1, 1), Kettle (1, 1), Drawer (3), CreditCard (1), CounterTop (2, 3, 3), Cabinet (7, 19, 19), ButterKnife (1, 1). 
+Act: go to StoveKnob (2)
+You already arrive at StoveKnob (2). You see Toaster (1), StoveKnob (1, 1, 2, 2, 3, 3, 4, 4), StoveBurner (1, 1, 2, 2, 3, 3), Spatula (2), SaltShaker (1, 1), Pot (1, 1), Pan (1), Kettle (1, 1), Egg (1), Drawer (3, 3), CreditCard (1, 1), CounterTop (2, 2, 3, 3), Cabinet (7, 7, 19, 19), ButterKnife (1). 
+Act: go to StoveKnob (1)
+You already arrive at StoveKnob (1). You see Toaster (1, 1), StoveKnob (1, 1, 2, 2, 3, 3, 4, 4), StoveBurner (1, 1, 2, 2, 3, 3), Spatula (2, 2), SoapBottle (2), SaltShaker (1, 1), Pot (1, 1), Kettle (1, 1), Egg (1, 1), Drawer (3, 3), CreditCard (1, 1), CounterTop (2, 2, 3), Cabinet (7, 7, 19, 19). 
+Act: go to Toaster (1)
+You arrive at Toaster (1). You see Toaster (1), StoveBurner (4), Spatula (2), SoapBottle (2), SaltShaker (1), Fridge (1), Egg (1, 2), Drawer (3), CreditCard (1), CounterTop (2), Cabinet (7), Apple (1). 
+Act: go to StoveBurner (4)
+You arrive at StoveBurner (4). You see Toaster (1), StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Spatula (2), SaltShaker (1), Pot (1), Kettle (1), Egg (1), Drawer (3), CreditCard (1), CounterTop (2, 3), Cabinet (7). 
+Act: go to StoveKnob (4)
+You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), SoapBottle (1), Pot (1), Pan (1), Kettle (1), CounterTop (3), Cabinet (19), ButterKnife (1). 
+Act: go to StoveKnob (3)
+You already arrive at StoveKnob (3). You see StoveKnob (1, 1, 2, 2, 3, 3, 4, 4), StoveBurner (1, 1, 2, 2, 3, 3), SoapBottle (1), SaltShaker (1), Pot (1, 1), Pan (1, 1), Kettle (1, 1), Drawer (3), CreditCard (1), CounterTop (2, 3, 3), Cabinet (7, 19, 19), ButterKnife (1, 1). 
+Act: go to StoveKnob (2)
+You already arrive at StoveKnob (2). You see Toaster (1), StoveKnob (1, 1, 2, 2, 3, 3, 4, 4), StoveBurner (1, 1, 2, 2, 3, 3), Spatula (2), SaltShaker (1, 1), Pot (1, 1), Pan (1), Kettle (1, 1), Egg (1), Drawer (3, 3), CreditCard (1, 1), CounterTop (2, 2, 3, 3), Cabinet (7, 7, 19, 19), ButterKnife (1). 
+Act: go to StoveKnob (1)
+You already arrive at StoveKnob (1). You see Toaster (1, 1), StoveKnob (1, 1, 2, 2, 3, 3, 4, 4), StoveBurner (1, 1, 2, 2, 3, 3), Spatula (2, 2), SoapBottle (2), SaltShaker (1, 1), Pot (1, 1), Kettle (1, 1), Egg (1, 1), Drawer (3, 3), CreditCard (1, 1), CounterTop (2, 2, 3), Cabinet (7, 7, 19, 19). 
+Act: go to Toaster (1)
+You arrive at Toaster (1). You see Toaster (1), StoveBurner (4), Spatula (2), SoapBottle (2), SaltShaker (1), Fridge (1), Egg (1, 2), Drawer (3), CreditCard (1), CounterTop (2), Cabinet (7), Apple (1). 
+Act: go to StoveBurner (4)
+You arrive at StoveBurner (4). You see Toaster (1), StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Spatula (2), SaltShaker (1), Pot (1), Kettle (1), Egg (1), Drawer (3), CreditCard (1), CounterTop (2, 3), Cabinet (7). 
+Act: go to StoveKnob (4)
+You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), SoapBottle (1), Pot (1), Pan (1), Kettle (1), CounterTop (3), Cabinet (19), ButterKnife (1). 
+Act: go to StoveKnob (3)
+You already arrive at StoveKnob (3). You see StoveKnob (1, 1, 2, 2, 3, 3, 4, 4), StoveBurner (1, 1, 2, 2, 3, 3), SoapBottle (1), SaltShaker (1), Pot (1, 1), Pan (1, 1), Kettle (1, 1), Drawer (3), CreditCard (1), CounterTop (2, 3, 3), Cabinet (7, 19, 19), ButterKnife (1, 1). 
+Act: go to StoveKnob (2)
+You already arrive at StoveKnob (2). You see Toaster (1), StoveKnob (1, 1, 2, 2, 3, 3, 4, 4), StoveBurner (1, 1, 2, 2, 3, 3), Spatula (2), SaltShaker (1, 1), Pot (1, 1), Pan (1), Kettle (1, 1), Egg (1), Drawer (3, 3), CreditCard (1, 1), CounterTop (2, 2, 3, 3), Cabinet (7, 7, 19, 19), ButterKnife (1). 
+Act: go to StoveKnob (1)
+You already arrive at StoveKnob (1). You see Toaster (1, 1), StoveKnob (1, 1, 2, 2, 3, 3, 4, 4), StoveBurner (1, 1, 2, 2, 3, 3), Spatula (2, 2), SoapBottle (2), SaltShaker (1, 1), Pot (1, 1), Kettle (1, 1), Egg (1, 1), Drawer (3, 3), CreditCard (1, 1), CounterTop (2, 2, 3), Cabinet (7, 7, 19, 19). 
+Act: go to Toaster (1)
+You arrive at Toaster (1). You see Toaster (1), StoveBurner (4), Spatula (2), SoapBottle (2), SaltShaker (1), Fridge (1), Egg (1, 2), Drawer (3), CreditCard (1), CounterTop (2), Cabinet (7), Apple (1). 
+Act: go to StoveBurner (4)
+You arrive at StoveBurner (4). You see Toaster (1), StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Spatula (2), SaltShaker (1), Pot (1), Kettle (1), Egg (1), Drawer (3), CreditCard (1), CounterTop (2, 3), Cabinet (7). 
+Act: go to StoveKnob (4)
+You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), SoapBottle (1), Pot (1), Pan (1), Kettle (1), CounterTop (3), Cabinet (19), ButterKnife (1). 
+Act: go to StoveKnob (3)
+You already arrive at StoveKnob (3). You see StoveKnob (1, 1, 2, 2, 3, 3, 4, 4), StoveBurner (1, 1, 2, 2, 3, 3), SoapBottle (1), SaltShaker (1), Pot (1, 1), Pan (1, 1), Kettle (1, 1), Drawer (3), CreditCard (1), CounterTop (2, 3, 3), Cabinet (7, 19, 19), ButterKnife (1, 1). 
+Act: go to StoveKnob (2)
+You already arrive at StoveKnob (2). You see Toaster (1), StoveKnob (1, 1, 2, 2, 3, 3, 4, 4), StoveBurner (1, 1, 2, 2, 3, 3), Spatula (2), SaltShaker (1, 1), Pot (1, 1), Pan (1), Kettle (1, 1), Egg (1), Drawer (3, 3), CreditCard (1, 1), CounterTop (2, 2, 3, 3), Cabinet (7, 7, 19, 19), ButterKnife (1). 
+Act: go to StoveKnob (1)
+You already arrive at StoveKnob (1). You see Toaster (1, 1), StoveKnob (1, 1, 2, 2, 3, 3, 4, 4), StoveBurner (1, 1, 2, 2, 3, 3), Spatula (2, 2), SoapBottle (2), SaltShaker (1, 1), Pot (1, 1), Kettle (1, 1), Egg (1, 1), Drawer (3, 3), CreditCard (1, 1), CounterTop (2, 2, 3), Cabinet (7, 7, 19, 19). 
+Act: go to Toaster (1)
+You arrive at Toaster (1). You see Toaster (1), StoveBurner (4), Spatula (2), SoapBottle (2), SaltShaker (1), Fridge (1), Egg (1, 2), Drawer (3), CreditCard (1), CounterTop (2), Cabinet (7), Apple (1). 
+Act: go to StoveBurner (4)
+You arrive at StoveBurner (4). You see Toaster (1), StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Spatula (2), SaltShaker (1), Pot (1), Kettle (1), Egg (1), Drawer (3), CreditCard (1), CounterTop (2, 3), Cabinet (7). 
+Act: go to StoveKnob (4)
+You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), SoapBottle (1), Pot (1), Pan (1), Kettle (1), CounterTop (3), Cabinet (19), ButterKnife (1). 
+Act: go to StoveKnob (3)
+You already arrive at StoveKnob (3). You see StoveKnob (1, 1, 2, 2, 3, 3, 4, 4), StoveBurner (1, 1, 2, 2, 3, 3), SoapBottle (1), SaltShaker (1), Pot (1, 1), Pan (1, 1), Kettle (1, 1), Drawer (3), CreditCard (1), CounterTop (2, 3, 3), Cabinet (7, 19, 19), ButterKnife (1, 1). 
+Act: go to StoveKnob (2)
+You already arrive at StoveKnob (2). You see Toaster (1), StoveKnob (1, 1, 2, 2, 3, 3, 4, 4), StoveBurner (1, 1, 2, 2, 3, 3), Spatula (2), SaltShaker (1, 1), Pot (1, 1), Pan (1), Kettle (1, 1), Egg (1), Drawer (3, 3), CreditCard (1, 1), CounterTop (2, 2, 3, 3), Cabinet (7, 7, 19, 19), ButterKnife (1). 
+Act: go to StoveKnob (1)
+You already arrive at StoveKnob (1). You see Toaster (1, 1), StoveKnob (1, 1, 2, 2, 3, 3, 4, 4), StoveBurner (1, 1, 2, 2, 3, 3), Spatula (2, 2), SoapBottle (2), SaltShaker (1, 1), Pot (1, 1), Kettle (1, 1), Egg (1, 1), Drawer (3, 3), CreditCard (1, 1), CounterTop (2, 2, 3), Cabinet (7, 7, 19, 19). 
+Act: go to Toaster (1)
+You arrive at Toaster (1). You see Toaster (1), StoveBurner (4), Spatula (2), SoapBottle (2), SaltShaker (1), Fridge (1), Egg (1, 2), Drawer (3), CreditCard (1), CounterTop (2), Cabinet (7), Apple (1). 
+Act: go to StoveBurner (4)
+You arrive at StoveBurner (4). You see Toaster (1), StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Spatula (2), SaltShaker (1), Pot (1), Kettle (1), Egg (1), Drawer (3), CreditCard (1), CounterTop (2, 3), Cabinet (7). 
+Act: go to StoveKnob (4)
+You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), SoapBottle (1), Pot (1), Pan (1), Kettle (1), CounterTop (3), Cabinet (19), ButterKnife (1). 
+Act: go to StoveKnob (3)
+You already arrive at StoveKnob (3). You see StoveKnob (1, 1, 2, 2, 3, 3, 4, 4), StoveBurner (1, 1, 2, 2, 3, 3), SoapBottle (1), SaltShaker (1), Pot (1, 1), Pan (1, 1), Kettle (1, 1), Drawer (3), CreditCard (1), CounterTop (2, 3, 3), Cabinet (7, 19, 19), ButterKnife (1, 1). 
+Act: go to StoveKnob (2)
+You already arrive at StoveKnob (2). You see Toaster (1), StoveKnob (1, 1, 2, 2, 3, 3, 4, 4), StoveBurner (1, 1, 2, 2, 3, 3), Spatula (2), SaltShaker (1, 1), Pot (1, 1), Pan (1), Kettle (1, 1), Egg (1), Drawer (3, 3), CreditCard (1, 1), CounterTop (2, 2, 3, 3), Cabinet (7, 7, 19, 19), ButterKnife (1). 
+Act: go to StoveKnob (1)
+You already arrive at StoveKnob (1). You see Toaster (1, 1), StoveKnob (1, 1, 2, 2, 3, 3, 4, 4), StoveBurner (1, 1, 2, 2, 3, 3), Spatula (2, 2), SoapBottle (2), SaltShaker (1, 1), Pot (1, 1), Kettle (1, 1), Egg (1, 1), Drawer (3, 3), CreditCard (1, 1), CounterTop (2, 2, 3), Cabinet (7, 7, 19, 19). 
+Act: go to Toaster (1)
+You arrive at Toaster (1). You see Toaster (1), StoveBurner (4), Spatula (2), SoapBottle (2), SaltShaker (1), Fridge (1), Egg (1, 2), Drawer (3), CreditCard (1), CounterTop (2), Cabinet (7), Apple (1). 
+Act: go to StoveBurner (4)
+You arrive at StoveBurner (4). You see Toaster (1), StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Spatula (2), SaltShaker (1), Pot (1), Kettle (1), Egg (1), Drawer (3), CreditCard (1), CounterTop (2, 3), Cabinet (7). 
+Act: go to StoveKnob (4)
+You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), SoapBottle (1), Pot (1), Pan (1), Kettle (1), CounterTop (3), Cabinet (19), ButterKnife (1). 
+Act: go to StoveKnob (3)
+You already arrive at StoveKnob (3). You see StoveKnob (1, 1, 2, 2, 3, 3, 4, 4), StoveBurner (1, 1, 2, 2, 3, 3), SoapBottle (1), SaltShaker (1), Pot (1, 1), Pan (1, 1), Kettle (1, 1), Drawer (3), CreditCard (1), CounterTop (2, 3, 3), Cabinet (7, 19, 19), ButterKnife (1, 1). 
+Act: go to StoveKnob (2)
+You already arrive at StoveKnob (2). You see Toaster (1), StoveKnob (1, 1, 2, 2, 3, 3, 4, 4), StoveBurner (1, 1, 2, 2, 3, 3), Spatula (2), SaltShaker (1, 1), Pot (1, 1), Pan (1), Kettle (1, 1), Egg (1), Drawer (3, 3), CreditCard (1, 1), CounterTop (2, 2, 3, 3), Cabinet (7, 7, 19, 19), ButterKnife (1). 
+Act: go to StoveKnob (1)
+You already arrive at StoveKnob (1). You see Toaster (1, 1), StoveKnob (1, 1, 2, 2, 3, 3, 4, 4), StoveBurner (1, 1, 2, 2, 3, 3), Spatula (2, 2), SoapBottle (2), SaltShaker (1, 1), Pot (1, 1), Kettle (1, 1), Egg (1, 1), Drawer (3, 3), CreditCard (1, 1), CounterTop (2, 2, 3), Cabinet (7, 7, 19, 19). 
+Act: go to Toaster (1)
+You arrive at Toaster (1). You see Toaster (1), StoveBurner (4), Spatula (2), SoapBottle (2), SaltShaker (1), Fridge (1), Egg (1, 2), Drawer (3), CreditCard (1), CounterTop (2), Cabinet (7), Apple (1). 
+Act: go to StoveBurner (4)
+You arrive at StoveBurner (4). You see Toaster (1), StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Spatula (2), SaltShaker (1), Pot (1), Kettle (1), Egg (1), Drawer (3), CreditCard (1), CounterTop (2, 3), Cabinet (7). 
+Act: go to StoveKnob (4)
+You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), SoapBottle (1), Pot (1), Pan (1), Kettle (1), CounterTop (3), Cabinet (19), ButterKnife (1). 
+Act: go to StoveKnob (3)
+You already arrive at StoveKnob (3). You see StoveKnob (1, 1, 2, 2, 3, 3, 4, 4), StoveBurner (1, 1, 2, 2, 3, 3), SoapBottle (1), SaltShaker (1), Pot (1, 1), Pan (1, 1), Kettle (1, 1), Drawer (3), CreditCard (1), CounterTop (2, 3, 3), Cabinet (7, 19, 19), ButterKnife (1, 1). 
+Act: go to StoveKnob (2)
+You already arrive at StoveKnob (2). You see Toaster (1), StoveKnob (1, 1, 2, 2, 3, 3, 4, 4), StoveBurner (1, 1, 2, 2, 3, 3), Spatula (2), SaltShaker (1, 1), Pot (1, 1), Pan (1), Kettle (1, 1), Egg (1), Drawer (3, 3), CreditCard (1, 1), CounterTop (2, 2, 3, 3), Cabinet (7, 7, 19, 19), ButterKnife (1). 
+Act: go to StoveKnob (1)
+You already arrive at StoveKnob (1). You see Toaster (1, 1), StoveKnob (1, 1, 2, 2, 3, 3, 4, 4), StoveBurner (1, 1, 2, 2, 3, 3), Spatula (2, 2), SoapBottle (2), SaltShaker (1, 1), Pot (1, 1), Kettle (1, 1), Egg (1, 1), Drawer (3, 3), CreditCard (1, 1), CounterTop (2, 2, 3), Cabinet (7, 7, 19, 19). 
+Act: go to Toaster (1)
+You arrive at Toaster (1). You see Toaster (1), StoveBurner (4), Spatula (2), SoapBottle (2), SaltShaker (1), Fridge (1), Egg (1, 2), Drawer (3), CreditCard (1), CounterTop (2), Cabinet (7), Apple (1). 
+Act: go to StoveBurner (4)
+You arrive at StoveBurner (4). You see Toaster (1), StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Spatula (2), SaltShaker (1), Pot (1), Kettle (1), Egg (1), Drawer (3), CreditCard (1), CounterTop (2, 3), Cabinet (7). 
+Act: go to StoveKnob (4)
+You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), SoapBottle (1), Pot (1), Pan (1), Kettle (1), CounterTop (3), Cabinet (19), ButterKnife (1). 
+Act: go to StoveKnob (3)
+You already arrive at StoveKnob (3). You see StoveKnob (1, 1, 2, 2, 3, 3, 4, 4), StoveBurner (1, 1, 2, 2, 3, 3), SoapBottle (1), SaltShaker (1), Pot (1, 1), Pan (1, 1), Kettle (1, 1), Drawer (3), CreditCard (1), CounterTop (2, 3, 3), Cabinet (7, 19, 19), ButterKnife (1, 1). 
+Act: go to StoveKnob (2)
+You already arrive at StoveKnob (2). You see Toaster (1), StoveKnob (1, 1, 2, 2, 3, 3, 4, 4), StoveBurner (1, 1, 2, 2, 3, 3), Spatula (2), SaltShaker (1, 1), Pot (1, 1), Pan (1), Kettle (1, 1), Egg (1), Drawer (3, 3), CreditCard (1, 1), CounterTop (2, 2, 3, 3), Cabinet (7, 7, 19, 19), ButterKnife (1). 
+Act: go to StoveKnob (1)
+You already arrive at StoveKnob (1). You see Toaster (1, 1), StoveKnob (1, 1, 2, 2, 3, 3, 4, 4), StoveBurner (1, 1, 2, 2, 3, 3), Spatula (2, 2), SoapBottle (2), SaltShaker (1, 1), Pot (1, 1), Kettle (1, 1), Egg (1, 1), Drawer (3, 3), CreditCard (1, 1), CounterTop (2, 2, 3), Cabinet (7, 7, 19, 19). 
+Max decisions

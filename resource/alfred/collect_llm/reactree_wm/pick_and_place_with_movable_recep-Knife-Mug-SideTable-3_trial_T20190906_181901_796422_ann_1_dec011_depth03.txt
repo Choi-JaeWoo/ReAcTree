@@ -1,0 +1,23 @@
+Your primary goal is to: put a chilled mug and knife near the microwave
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up mug, cool and pick up mug, find and pick up knife, and place knife and mug near microwave.
+Your task is to: cool and pick up mug
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4). I am holding Cup (3) now.
+Think: I hold Cup (3). Now, I need to cool it using the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Drawer (1), Cup (3). Fridge (1) is closed.  I am holding Cup (3) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Fridge (1), Drawer (1), Cup (3). I am holding Cup (3) now.
+Act: put down Cup (3)
+You put down failed, drop it. You see Fridge (1), Drawer (1), Cup (3).
+Act: close Fridge (1)
+You close Fridge (1). You see Fridge (1), Drawer (1), Cup (3).
+Think: I cool Cup (3) using Fridge (1). Now, I need to pick up the cup from the fridge.
+OK.
+Act: open Fridge (1)
+You open Fridge (1). You see Fridge (1), Drawer (1), Cup (3).
+Act: pick up Cup (3)
+You pick up Cup (3). You see Fridge (1), Drawer (1), Cup (3). I am holding Cup (3) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

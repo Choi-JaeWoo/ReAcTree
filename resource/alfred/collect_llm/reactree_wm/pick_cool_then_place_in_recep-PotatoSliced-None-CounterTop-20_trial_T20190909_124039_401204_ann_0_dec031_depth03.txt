@@ -1,0 +1,17 @@
+Your primary goal is to: Place a chilled potato slice in front of the toaster.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, slice and pick up potato, cool and pick up potato, place potato in front of toaster, and place potato on toaster.
+Your task is to: place potato in front of toaster
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13). I am holding Potato (5) now.
+Think: I hold Potato (5). Now, I need to put it in front of the toaster. I can see Toaster (1).
+OK.
+Act: go to Toaster (1)
+You arrive at Toaster (1). You see Toaster (1), Spoon (2), Spatula (2), Potato (5), Mug (2), CounterTop (1), CoffeeMachine (1), Cabinet (4).  I am holding Potato (5) now.
+Act: put down Potato (5)
+You put down failed, drop it. You see Toaster (1), Spoon (2), Spatula (2), Potato (5), Mug (2), CounterTop (1), CoffeeMachine (1), Cabinet (4).
+Think: Now I need to pick up Potato (5).
+OK.
+Act: pick up Potato (5)
+You pick up Potato (5). You see Toaster (1), Spoon (2), Spatula (2), Potato (5), Mug (2), CounterTop (1), CoffeeMachine (1), Cabinet (4). I am holding Potato (5) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

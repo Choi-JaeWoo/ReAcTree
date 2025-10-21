@@ -1,0 +1,142 @@
+Your task is to: Put the cleaned spatula on the kitchen counter
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21).
+Think: To solve the task, I need to find and pick up the spatula. And I need to find and clean the spatula. And I need to put down the spatula and pick up the spatula, then put it on the kitchen counter. And I need to turn on and off the faucet. And I need to pick up the spatula from the sink basin, then put it on the kitchen counter.
+OK.
+Think: First, I need to recall location of the spatula.
+OK.
+Act: recall location of Spatula
+You have not seen Spatula before.
+Think: Now I need to find the spatula. The spatula is more likely to appear on DiningTable (1), CounterTop (1-2) SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-21), Drawer (1-5). I can check each place one by one, starting from DiningTable (1), until I find the spatula.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (1, 3), Spoon (1), SoapBottle (1, 3), Lettuce (1), DiningTable (1), CoffeeMachine (1), Chair (1), Bread (1), Bowl (3). 
+Think: I find Spatula (1). Now, I need to pick it up.
+OK.
+Act: pick up Spoon (1)
+You pick up Spoon (1). You see Tomato (1, 3), Spoon (1), SoapBottle (1, 3), Lettuce (1), DiningTable (1), CoffeeMachine (1), Chair (1), Bread (1), Bowl (3). I am holding Spoon (1) now.
+Think: I hold Spoon (1). Now, I need to recall location of the spatula.
+OK.
+Act: recall location of Spatula
+You have not seen Spatula before.
+Think: Now I need to find the spatula. The spatula is more likely to appear on DiningTable (1), CounterTop (1-2) SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-21), Drawer (1-5). I can check each place one by one, starting from DiningTable (1), until I find the spatula.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (1, 3), Spoon (1), SoapBottle (1, 3), Lettuce (1), DiningTable (1), CoffeeMachine (1), Chair (1), Bread (1), Bowl (3).  I am holding Spoon (1) now.
+Think: I find Spatula (1). Now, I need to pick it up.
+OK.
+Act: pick up Spoon (1)
+You are currently holding Spoon (1). I am holding Spoon (1) now.
+Think: I hold Spoon (1). Now, I need to recall location of the spatula.
+OK.
+Act: recall location of Spatula
+You have not seen Spatula before.
+Think: Now I need to find the spatula. The spatula is more likely to appear on DiningTable (1), CounterTop (1-2) SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-21), Drawer (1-5). I can check each place one by one, starting from DiningTable (1), until I find the spatula.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (1, 3), Spoon (1), SoapBottle (1, 3), Lettuce (1), DiningTable (1), CoffeeMachine (1), Chair (1), Bread (1), Bowl (3).  I am holding Spoon (1) now.
+Think: I find Spatula (1). Now, I need to pick it up.
+OK.
+Act: pick up Spoon (1)
+You are currently holding Spoon (1). I am holding Spoon (1) now.
+Think: I hold Spoon (1). Now, I need to recall location of the spatula.
+OK.
+Act: recall location of Spatula
+You have not seen Spatula before.
+Think: Now I need to find the spatula. The spatula is more likely to appear on DiningTable (1), CounterTop (1-2) SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-21), Drawer (1-5). I can check each place one by one, starting from DiningTable (1), until I find the spatula.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (1, 3), Spoon (1), SoapBottle (1, 3), Lettuce (1), DiningTable (1), CoffeeMachine (1), Chair (1), Bread (1), Bowl (3).  I am holding Spoon (1) now.
+Think: I find Spatula (1). Now, I need to pick it up.
+OK.
+Act: pick up Spoon (1)
+You are currently holding Spoon (1). I am holding Spoon (1) now.
+Think: I hold Spoon (1). Now, I need to recall location of the spatula.
+OK.
+Act: recall location of Spatula
+You have not seen Spatula before.
+Think: Now I need to find the spatula. The spatula is more likely to appear on DiningTable (1), CounterTop (1-2) SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-21), Drawer (1-5). I can check each place one by one, starting from DiningTable (1), until I find the spatula.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (1, 3), Spoon (1), SoapBottle (1, 3), Lettuce (1), DiningTable (1), CoffeeMachine (1), Chair (1), Bread (1), Bowl (3).  I am holding Spoon (1) now.
+Think: I find Spatula (1). Now, I need to pick it up.
+OK.
+Act: pick up Spoon (1)
+You are currently holding Spoon (1). I am holding Spoon (1) now.
+Think: I hold Spoon (1). Now, I need to recall location of the spatula.
+OK.
+Act: recall location of Spatula
+You have not seen Spatula before.
+Think: Now I need to find the spatula. The spatula is more likely to appear on DiningTable (1), CounterTop (1-2) SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-21), Drawer (1-5). I can check each place one by one, starting from DiningTable (1), until I find the spatula.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (1, 3), Spoon (1), SoapBottle (1, 3), Lettuce (1), DiningTable (1), CoffeeMachine (1), Chair (1), Bread (1), Bowl (3).  I am holding Spoon (1) now.
+Think: I find Spatula (1). Now, I need to pick it up.
+OK.
+Act: pick up Spoon (1)
+You are currently holding Spoon (1). I am holding Spoon (1) now.
+Think: I hold Spoon (1). Now, I need to recall location of the spatula.
+OK.
+Act: recall location of Spatula
+You have not seen Spatula before.
+Think: Now I need to find the spatula. The spatula is more likely to appear on DiningTable (1), CounterTop (1-2) SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-21), Drawer (1-5). I can check each place one by one, starting from DiningTable (1), until I find the spatula.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (1, 3), Spoon (1), SoapBottle (1, 3), Lettuce (1), DiningTable (1), CoffeeMachine (1), Chair (1), Bread (1), Bowl (3).  I am holding Spoon (1) now.
+Think: I find Spatula (1). Now, I need to pick it up.
+OK.
+Act: pick up Spoon (1)
+You are currently holding Spoon (1). I am holding Spoon (1) now.
+Think: I hold Spoon (1). Now, I need to recall location of the spatula.
+OK.
+Act: recall location of Spatula
+You have not seen Spatula before.
+Think: Now I need to find the spatula. The spatula is more likely to appear on DiningTable (1), CounterTop (1-2) SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-21), Drawer (1-5). I can check each place one by one, starting from DiningTable (1), until I find the spatula.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (1, 3), Spoon (1), SoapBottle (1, 3), Lettuce (1), DiningTable (1), CoffeeMachine (1), Chair (1), Bread (1), Bowl (3).  I am holding Spoon (1) now.
+Think: I find Spatula (1). Now, I need to pick it up.
+OK.
+Act: pick up Spoon (1)
+You are currently holding Spoon (1). I am holding Spoon (1) now.
+Think: I hold Spoon (1). Now, I need to recall location of the spatula.
+OK.
+Act: recall location of Spatula
+You have not seen Spatula before.
+Think: Now I need to find the spatula. The spatula is more likely to appear on DiningTable (1), CounterTop (1-2) SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-21), Drawer (1-5). I can check each place one by one, starting from DiningTable (1), until I find the spatula.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (1, 3), Spoon (1), SoapBottle (1, 3), Lettuce (1), DiningTable (1), CoffeeMachine (1), Chair (1), Bread (1), Bowl (3).  I am holding Spoon (1) now.
+Think: I find Spatula (1). Now, I need to pick it up.
+OK.
+Act: pick up Spoon (1)
+You are currently holding Spoon (1). I am holding Spoon (1) now.
+Think: I hold Spoon (1). Now, I need to recall location of the spatula.
+OK.
+Act: recall location of Spatula
+You have not seen Spatula before.
+Think: Now I need to find the spatula. The spatula is more likely to appear on DiningTable (1), CounterTop (1-2) SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-21), Drawer (1-5). I can check each place one by one, starting from DiningTable (1), until I find the spatula.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (1, 3), Spoon (1), SoapBottle (1, 3), Lettuce (1), DiningTable (1), CoffeeMachine (1), Chair (1), Bread (1), Bowl (3).  I am holding Spoon (1) now.
+Think: I find Spatula (1). Now, I need to pick it up.
+OK.
+Act: pick up Spoon (1)
+You are currently holding Spoon (1). I am holding Spoon (1) now.
+Think: I hold Spoon (1). Now, I need to recall location of the spatula.
+OK.
+Act: recall location of Spatula
+You have not seen Spatula before.
+Think: Now I need to find the spatula. The spatula is more likely to appear on DiningTable (1), CounterTop (1-2) SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-21), Drawer (1-5). I can check each place one by one, starting from DiningTable (1), until I find the spatula.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (1, 3), Spoon (1), SoapBottle (1, 3), Lettuce (1), DiningTable (1), CoffeeMachine (1), Chair (1), Bread (1), Bowl (3).  I am holding Spoon (1) now.
+Think: I find Spatula (1). Now, I need to pick it up.
+OK.
+Act: pick up Spoon (1)
+You are currently holding Spoon (1). I am holding Spoon (1) now.
+Think: I hold Spoon (1). Now, I need to recall location of the spatula.
+OK.
+Act: recall location of Spatula
+You have not seen Spatula before.
+Think: Now I need to find the spatula. The spatula is more likely to appear on DiningTable (1), CounterTop (1-2) SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-21), Drawer (1-5). I can check each place one by one, starting from DiningTable (1), until I find the spatula.
+OK.

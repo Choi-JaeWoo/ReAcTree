@@ -1,0 +1,25 @@
+Your primary goal is to: put two cloth in the tub
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up cloth, find and pick up cloth, and place cloth in tub.
+Your task is to: find and pick up cloth
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), Sink (1), SinkBasin (1), HandTowelHolder (1), GarbageCan (1), CounterTop (1), Cabinet (1, 2), Bathtub (1), BathtubBasin (1).
+Think: First, I need to recall location of the cloth.
+OK.
+Act: recall location of Cloth
+You have not seen Cloth before.
+Think: Now, I need to find the cloth. The cloth is more likely to appear on BathtubBasin (1), SinkBasin (1), or in Cabinet (1-2). I can check each place one by one, starting from BathtubBasin (1), until I find the cloth.
+OK.
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see SoapBar (2), Faucet (1), Bathtub (1), BathtubBasin (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), Mirror (1), Faucet (2, 3), CounterTop (1), Cabinet (1). 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Sink (1), GarbageCan (1), CounterTop (1), Cabinet (1, 2). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see GarbageCan (1), Cloth (1, 4), Cabinet (1, 2).
+Think: I find Cloth (1). Now, I need to pick it up.
+OK.
+Act: pick up Cloth (1)
+You pick up Cloth (1). You see GarbageCan (1), Cloth (1, 4), Cabinet (1, 2). I am holding Cloth (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

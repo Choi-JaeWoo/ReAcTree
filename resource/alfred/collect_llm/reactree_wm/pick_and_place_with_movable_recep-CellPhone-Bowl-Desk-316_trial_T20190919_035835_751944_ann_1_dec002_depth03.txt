@@ -1,0 +1,31 @@
+Your primary goal is to: put a container and phone onto a desk
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up container, place container on desk, find and pick up phone, and place phone on desk.
+Your task is to: find and pick up container
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1), GarbageCan (1), Drawer (1, 2), Desk (1), Bed (1).
+Think: First, I need to recall location of the container.
+OK.
+Act: recall location of Vase
+You have not seen Vase before.
+Think: Now, I need to find the container. The container is more likely to appear on Desk (1), SideTable (1), or in Drawer (1-2), Shelf (1). I can check each place one by one, starting from Desk (1), until I find the container.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pencil (2), Pen (1), Desk (1), Chair (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Drawer (1, 2), Bowl (1), Bed (1), AlarmClock (2). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pencil (2), GarbageCan (1), Desk (1), Chair (1), CellPhone (2), CD (1), AlarmClock (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (1), Drawer (1, 2), Bowl (1), Bed (1), AlarmClock (2). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see SideTable (1), Drawer (1), Bowl (1), Bed (1), AlarmClock (2).
+Act: close Drawer (1)
+You close Drawer (1). You see SideTable (1), Drawer (1, 2), Bowl (1), Bed (1), AlarmClock (2).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (1), Drawer (1, 2), Bowl (1), Bed (1), AlarmClock (2). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see SideTable (1), Drawer (1, 2), Bowl (1), Bed (1), AlarmClock (2).
+Act: close Drawer (2)
+You close Drawer (2). You see SideTable (1), Drawer (1, 2), Bowl (1), Bed (1), AlarmClock (2).
+Think: I cannot find the container. I fail.
+OK.
+Act: failure

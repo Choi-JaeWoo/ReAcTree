@@ -1,0 +1,51 @@
+Your task is to: Put a coffee cup containing a knife on the kitchen stand. 
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1, 2, 3), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: To solve the task, I need to find and pick up the coffee cup, then put it on the kitchen stand. And I need to find and pick up the knife, then put it in the coffee cup on the kitchen stand.
+OK.
+Think: First, I need to recall location of the coffee cup.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the coffee cup. The coffee cup is more likely to appear on CoffeeMachine (1), DiningTable (1-3), CounterTop (1), SideTable (1), SinkBasin (1) or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1). I can check each place one by one, starting from CoffeeMachine (1), until I find the coffee cup.
+OK.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see Sink (1), SinkBasin (1), Potato (3), Fridge (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (2), Apple (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Knife (1), Egg (3), DiningTable (1), Bowl (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Toaster (1), Spatula (2), Fork (3), Egg (1), Cup (3), Bread (1, 2). 
+Think: I find Cup (3). Now, I need to pick it up.
+OK.
+Act: pick up Cup (3)
+You pick up Cup (3). You see Toaster (1), Spatula (2), Fork (3), Egg (1), Cup (3), Bread (1, 2). I am holding Cup (3) now.
+Think: I hold Cup (3). Now, I need to put it on the kitchen stand.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), SaltShaker (1), DiningTable (2), Cup (1, 2, 3), CounterTop (1), Cabinet (4), ButterKnife (1).  I am holding Cup (3) now.
+Act: put down Cup (3)
+You put down failed, drop it. You see Tomato (2), SideTable (1), SaltShaker (1), PepperShaker (2), Fork (2), Drawer (1), DiningTable (2), Cup (1, 3), CounterTop (1), Cabinet (4), ButterKnife (1, 3).
+Think: I put Cup (3) on the SideTable (1). Now, I need to recall location of the knife.
+OK.
+Act: recall location of Knife
+You saw Knife (1) near DiningTable (1).
+Think: Knife (1) is on the DiningTable (1). Now, I need to pick it up.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Knife (1), Egg (3), DiningTable (1), Bowl (1). 
+Act: pick up Knife (1)
+You pick up Knife (1). You see Knife (1), Egg (3), DiningTable (1), Bowl (1). I am holding Knife (1) now.
+Think: I hold Knife (1). Now, I need to recall location of the coffee cup.
+OK.
+Act: recall location of Cup
+You dropped Cup due to fail to put it on the receptacle. You need to find it again. You saw Cup (1) near SideTable (1). You saw Cup (2) near SideTable (1).
+Think: Cup (1) is on the SideTable (1). Now, I need to put Knife (1) in Cup (1).
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Tomato (2), SideTable (1), SaltShaker (1), PepperShaker (2), Knife (1), Fork (2), Drawer (1), DiningTable (2), Cup (1, 2, 3), CounterTop (1), Cabinet (4), ButterKnife (1, 3).  I am holding Knife (1) now.
+Act: go to Cup (1)
+You arrive at Cup (1). You see Tomato (2), SideTable (1), SaltShaker (1), PepperShaker (2), Knife (1), Fork (2), Drawer (1), Cup (1, 2, 3), CounterTop (1), Cabinet (4), ButterKnife (1, 3).  I am holding Knife (1) now.
+Act: put down Knife (1)
+You put down failed, drop it. You see Tomato (2), SideTable (1), SaltShaker (1), PepperShaker (2), Knife (1), Fork (2), Drawer (1), Cup (1, 2, 3), CounterTop (1), Cabinet (4), ButterKnife (1, 3).
+Think: I put Knife (1) in Cup (1). Now I accomplish the goal.
+OK.
+Act: done

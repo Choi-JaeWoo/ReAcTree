@@ -1,0 +1,7 @@
+Your task is to: Gather they keys and put them in the box
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7), DiningTable (1), CoffeeTable (1, 2), Cabinet (1, 2, 3, 4, 5, 6, 7, 8), ArmChair (1, 2).
+Think: Since I’m not holding anything, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up keys, place keys in box, find and pick up keys away from box, and place keys in box.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up keys, place keys in box, find and pick up keys away from box, place keys in box

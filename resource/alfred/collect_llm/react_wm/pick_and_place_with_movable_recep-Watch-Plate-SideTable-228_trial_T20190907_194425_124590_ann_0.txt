@@ -1,0 +1,22 @@
+Your task is to: Put a plate with a watch on it on the table.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1, 2), SideTable (1, 2), GarbageCan (1), Drawer (1), DiningTable (1), CoffeeTable (1).
+Think: To solve the task, I need to find and pick up the plate, then put it on the table. And I need to find and pick up the watch, then put it on the plate on the table.
+OK.
+Think: First, I need to recall location of the plate.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now I need to find the plate. The plate is more likely to appear on DiningTable (1), CoffeeTable (1), SideTable (1-2), or in Drawer (1). I can check each place one by one, starting from DiningTable (1), until I find the plate.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Watch (1, 4), Vase (2), Statue (2, 3), DiningTable (1), Chair (2, 4). 
+Think: I find Plate (1). Now, I need to pick it up.
+OK.
+Act: pick up Watch (1)
+You pick up Watch (1). You see Watch (1, 4), Vase (2), Statue (2, 3), DiningTable (1), Chair (2, 4). I am holding Watch (1) now.
+Think: I hold Watch (1). Now, I need to put it on the table.
+OK.
+Act: put down Watch (1)
+You put down failed, drop it. You see Watch (4), Vase (2), Statue (2, 3), DiningTable (1), Chair (2, 4).
+Think: I put Watch (1) on the table. Now, I need to recall location of the watch.
+OK.

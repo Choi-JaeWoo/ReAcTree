@@ -1,0 +1,91 @@
+Your task is to: To cut a tomato slice plus putting it into a pot as well as moving the pot from the stove to a table.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10).
+Think: To solve the task, I need to find and pick up the pot, then put it on the stove. And I need to find and pick up the knife. And I need to find and slice the tomato. And I need to put down the knife and pick up the tomato, then put it in the pot on the stove. And I need to pick up the pot, then put it on the table.
+OK.
+Think: First, I need to recall location of pot.
+OK.
+Act: recall location of Pot
+You have not seen Pot before.
+Think: Now I need to find the pot. The pot is more likely to appear on StoveBurner (1-4), CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-10), Drawer (1-6). I can check each place one by one, starting from StoveBurner (1), until I find the pot.
+OK.
+Act: go to StoveBurner (1)
+You arrive at StoveBurner (1). You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3, 4), Pot (1, 2), Drawer (1), CounterTop (1), CoffeeMachine (1), Cabinet (4). 
+Think: I find Pot (1). Now, I need to pick it up.
+OK.
+Act: pick up Pot (1)
+You pick up Pot (1). You see StoveKnob (2), StoveBurner (3), Pot (1, 2), CounterTop (1), CoffeeMachine (1). I am holding Pot (1) now.
+Think: I hold Pot (1). Now, I need to put it on the stove.
+OK.
+Act: go to StoveBurner (1)
+You arrive at StoveBurner (1). You see StoveKnob (2), StoveBurner (3), Pot (1, 2), CounterTop (1), CoffeeMachine (1).  I am holding Pot (1) now.
+Act: put down Pot (1)
+You put down failed, drop it. You see StoveKnob (2, 3), StoveBurner (1, 2, 3), Pot (1, 2), Drawer (1), CounterTop (1), CoffeeMachine (1), Cabinet (4).
+Think: Now I put Pot (1) on StoveBurner (1). Now, I need to recall location of the knife.
+OK.
+Act: recall location of Knife
+You have not seen Knife before.
+Think: Now I need to find the knife. The knife is more likely to appear on StoveBurner (1-4), CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-10), Drawer (1-6). I can check each place one by one, starting from StoveBurner (1), until I find the knife.
+OK.
+Act: go to StoveBurner (1)
+You arrive at StoveBurner (1). You see Toaster (1), StoveKnob (2, 2), StoveBurner (1, 1, 2, 2, 3, 3, 4, 4), Spatula (2), Pot (1, 1, 2, 2), Drawer (1, 1), CounterTop (1, 1), CoffeeMachine (1, 1), Cabinet (4, 4). 
+Act: go to StoveBurner (2)
+You arrive at StoveBurner (2). You see Tomato (1), Toaster (1), StoveKnob (2), StoveBurner (1, 1, 2, 2, 3, 3, 4, 4), Spatula (2, 2, 3), Pot (1, 1, 2, 2), Drawer (1), DishSponge (1, 2), CounterTop (1, 3), CoffeeMachine (1, 1), Cabinet (4). 
+Act: go to StoveBurner (3)
+You arrive at StoveBurner (3). You see Tomato (1, 1), StoveKnob (1, 1, 2, 2, 3, 3, 4), StoveBurner (1, 1, 2, 2, 3, 3, 4, 4), Spatula (2, 2, 3, 3), Pot (2, 2), Drawer (3), DishSponge (1, 1, 2, 2), CounterTop (3, 3), CoffeeMachine (1, 1), Cabinet (9). 
+Act: go to StoveBurner (4)
+You arrive at StoveBurner (4). You see Tomato (1, 1, 1), StoveKnob (1, 1, 1, 2, 2, 2, 3, 3, 3, 4, 4, 4), StoveBurner (1, 1, 1, 2, 2, 2, 3, 3, 3, 4, 4, 4), Spatula (2, 2, 2, 3, 3, 3), Pot (2, 2, 2), Drawer (1, 3, 3), DishSponge (1, 1, 2, 2, 2), CounterTop (1, 3, 3, 3), CoffeeMachine (1, 1, 1), Cabinet (4, 9, 9). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Tomato (2), Toaster (1), Spoon (2), SaltShaker (1), PaperTowelRoll (1), GarbageCan (1), Drawer (1, 4), CounterTop (1), CoffeeMachine (1), Cabinet (2, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Plate (1), Microwave (1), Drawer (2, 5, 6), CounterTop (2), Cabinet (3, 7, 8, 10). 
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Tomato (1), StoveKnob (2), StoveBurner (2, 3), Spatula (2, 3), Pot (2), Drawer (3), DishSponge (1, 2), CounterTop (3), Cabinet (9). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (1), Spatula (1), Sink (1), SinkBasin (1), Plate (1), Faucet (1), Drawer (2), CounterTop (2), Cabinet (1, 3, 6), ButterKnife (2), Bowl (1). 
+Think: I find Knife (1). Now, I need to pick it up.
+OK.
+Act: pick up Spatula (1)
+You pick up Spatula (1). You see Window (1), Spatula (1), Sink (1), SinkBasin (1), Plate (1), Faucet (1), Drawer (2), CounterTop (2), Cabinet (1, 3, 6), ButterKnife (2), Bowl (1). I am holding Spatula (1) now.
+Think: I hold Spatula (1). Now, I need to recall location of the tomato.
+OK.
+Act: recall location of Tomato
+You saw Tomato (1) near CounterTop (3). You saw Tomato (2) near CounterTop (1).
+Think: I can find Tomato (1) near CounterTop (3).
+OK.
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Tomato (1), StoveBurner (2, 3), Spatula (1, 2, 3), Pot (2), Drawer (3), DishSponge (1, 2), CounterTop (3), Cabinet (9).  I am holding Spatula (1) now.
+Think: I find Tomato (1). Now, I need to slice it.
+OK.
+Act: slice Tomato (1)
+You slice Tomato (1). You see Tomato (3, 4, 5, 6, 7, 8, 9), StoveBurner (2, 3), Spatula (1, 2, 3), Pot (2), Drawer (3), DishSponge (1, 2), CounterTop (3), Cabinet (9). Tomato (3, 4, 5, 6, 7, 8, 9) are sliced. I am holding Spatula (1) now.
+Think: I slice Tomato (1). Now, I need to put down the knife.
+OK.
+Act: put down Spatula (1)
+You put down failed, drop it. You see Tomato (3, 4, 5, 6, 7, 8, 9), StoveKnob (2), StoveBurner (2, 3), Spatula (2, 3), Pot (2), Drawer (3), DishSponge (1, 2), CounterTop (3), Cabinet (9).
+Think: Now I need to pick up Tomato (3).
+OK.
+Act: pick up Tomato (3)
+You pick up Tomato (3). You see Tomato (3, 4, 5, 6, 7, 8, 9), StoveKnob (2), StoveBurner (2, 3), Spatula (2, 3), Pot (2), Drawer (3), DishSponge (1, 2), CounterTop (3), Cabinet (9). I am holding Tomato (3) now.
+Think: I hold Tomato (3). Now, I need to recall location of the pot.
+OK.
+Act: recall location of Pot
+You saw Pot (1) near StoveBurner (2). You saw Pot (2) near CounterTop (3).
+Think: I can find Pot (2) near CounterTop (3). Now, I need to put Tomato (3) in Pot (2).
+OK.
+Act: go to Pot (2)
+You arrive at Pot (2). You see Tomato (3, 3, 4, 4, 5, 5, 6, 6, 7, 7, 8, 8, 9, 9), StoveKnob (1, 2, 3), StoveBurner (1, 2, 2, 3, 3, 4), Spatula (2, 2, 3, 3), Pot (2, 2), Drawer (3), DishSponge (1, 1, 2, 2), CounterTop (3, 3), CoffeeMachine (1), Cabinet (9).  I am holding Tomato (3) now.
+Act: put down Tomato (3)
+You put Tomato (3) on Pot (2). You see Tomato (3, 4, 5, 6, 7, 8, 9), StoveKnob (1, 2, 3), StoveBurner (1, 2, 3, 4), Spatula (2, 3), Pot (2), DishSponge (1, 2), CounterTop (3), CoffeeMachine (1).
+Think: Now I put Tomato (3) in Pot (2). Now, I need to pick up the pot.
+OK.
+Act: pick up Pot (2)
+You pick up Pot (2). You see Tomato (3, 4, 5, 6, 7, 9), StoveBurner (1, 4), Pot (2), DishSponge (1), CounterTop (3), CoffeeMachine (1). I am holding Pot (2) now.
+Think: I pick up Pot (2). Now, I need to put it on the table.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (3), Pot (2), DiningTable (1).  I am holding Pot (2) now.
+Act: put down Pot (2)
+You put down failed, drop it. You see Tomato (3), Pot (2), DiningTable (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

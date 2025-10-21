@@ -1,0 +1,49 @@
+Your task is to: Put the bowl with pen on the tv stand
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), LaundryHamper (1), GarbageCan (1), Dresser (1), Drawer (1, 2), DiningTable (1), CounterTop (1), Bed (1), ArmChair (1, 2).
+Think: To solve the task, I need to find and pick up the bowl, then put it on the tv stand. And I need to find and pick up the pen, then put it on the bowl on the tv stand.
+OK.
+Think: First, I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: Now I need to find the bowl. The bowl is more likely to appear on CounterTop (1), SideTable (1), or in Drawer (1-2), Dresser (1). I can check each place one by one, starting from CounterTop (1), until I find the bowl.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Pen (1), Mug (1, 2), Mirror (1), GarbageCan (1), CounterTop (1), CellPhone (1), Bowl (4). 
+Think: I find Bowl (4). Now, I need to pick it up.
+OK.
+Act: pick up Bowl (4)
+You pick up Bowl (4). You see Pen (1), Mug (1, 2), Mirror (1), GarbageCan (1), CounterTop (1), CellPhone (1), Bowl (4). I am holding Bowl (4) now.
+Think: I hold Bowl (4). Now, I need to put it on the tv stand.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Mug (3), Lamp (2), KeyChain (1), Bowl (3, 4), ArmChair (2), AlarmClock (1).  I am holding Bowl (4) now.
+Act: put down Bowl (4)
+You put down failed, drop it. You see SideTable (1), Mug (3), Lamp (2), KeyChain (1), Bowl (3, 4), ArmChair (2), AlarmClock (1).
+Think: Now I need to recall location of the pen.
+OK.
+Act: recall location of Pen
+You saw Pen (1) near CounterTop (1).
+Think: Pen (1) is near CounterTop (1). Now, I need to pick it up.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Pen (1), Mug (1, 2), Mirror (1), GarbageCan (1), CounterTop (1), CellPhone (1). 
+Act: pick up Pen (1)
+You pick up Pen (1). You see Pen (1), Mug (1, 2), Mirror (1), GarbageCan (1), CounterTop (1), CellPhone (1). I am holding Pen (1) now.
+Think: I hold Pen (1). Now, I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You dropped Bowl due to fail to put it on the receptacle. You need to find it again. You saw Bowl (3) near SideTable (1).
+Think: I can find Bowl (3) near SideTable (1).
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pen (1), Mug (3), Lamp (2), KeyChain (1), Bowl (3, 4), ArmChair (2), AlarmClock (1).  I am holding Pen (1) now.
+Think: I find Bowl (3). Now, I need to put Pen (1) on Bowl (3).
+OK.
+Act: go to Bowl (3)
+You arrive at Bowl (3). You see SideTable (1), Pen (1), Mug (3), Lamp (2), KeyChain (1), Bowl (3, 4), ArmChair (2), AlarmClock (1).  I am holding Pen (1) now.
+Act: put down Pen (1)
+You put Pen (1) on Bowl (3). You see SideTable (1), Pen (1), Mug (3), Lamp (2), KeyChain (1), Bowl (3, 4), ArmChair (2), AlarmClock (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

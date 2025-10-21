@@ -1,0 +1,47 @@
+Your task is to: move phone from the dresser to the bed
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1, 2), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6), Cabinet (1, 2, 3, 4), Bed (1), ArmChair (1).
+Think: To solve the task, I need to find and pick up the phone, then put it on the bed.
+OK.
+Think: First, I need to recall location of the phone.
+OK.
+Act: recall location of CellPhone
+You have not seen CellPhone before.
+Think: Now I need to find the phone. The phone is more likely to appear on Bed (1), ArmChair (1), SideTable (1-2), or in Drawer (1-6), Cabinet (1-4). I can check each place one by one, starting from Bed (1), until I find the phone.
+OK.
+Act: go to Bed (1)
+You arrive at Bed (1). You see Pillow (1, 2), Laptop (3), Book (1), Bed (1). 
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see KeyChain (2), Dresser (1), CreditCard (3), Cabinet (1), Book (2), BaseballBat (2), ArmChair (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Lamp (2), KeyChain (1), Drawer (1), Bed (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), Mug (1), Lamp (1), Drawer (6), CD (1), Bed (1), AlarmClock (2). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (1), Lamp (2), KeyChain (1), Drawer (1), Bed (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see SideTable (1), Lamp (2), KeyChain (1), Drawer (1), Bed (1).
+Act: close Drawer (1)
+You close Drawer (1). You see SideTable (1), Lamp (2), KeyChain (1), Drawer (1), Bed (1).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Pencil (1), Dresser (1), Drawer (2), Cabinet (1, 2), ArmChair (1), AlarmClock (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see Pencil (1), Dresser (1), Drawer (2, 4), Cabinet (1, 2, 3), Book (2), ArmChair (1), AlarmClock (1).
+Act: close Drawer (2)
+You close Drawer (2). You see Pencil (1), Dresser (1), Drawer (2, 4), Cabinet (1, 2, 3), Book (2), ArmChair (1), AlarmClock (1).
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Laptop (1), Dresser (1), Drawer (3), CellPhone (1), Cabinet (3, 4). Drawer (3) is closed. 
+Think: I find CellPhone (1). Now, I need to pick it up.
+OK.
+Act: open Drawer (3)
+You open Drawer (3). You see Laptop (1), Dresser (1), Drawer (3, 5), CellPhone (1), Cabinet (2, 3, 4), CD (3).
+Act: pick up CellPhone (1)
+You pick up CellPhone (1). You see Laptop (1), Dresser (1), Drawer (3, 5), CellPhone (1), Cabinet (2, 3, 4), CD (3). I am holding CellPhone (1) now.
+Think: I hold CellPhone (1). Now, I need to put it on the bed.
+OK.
+Act: go to Bed (1)
+You arrive at Bed (1). You see Pillow (1, 2), Laptop (3), CellPhone (1), Book (1), Bed (1).  I am holding CellPhone (1) now.
+Act: put down CellPhone (1)
+You put CellPhone (1) on Bed (1). You see Pillow (1, 2), Laptop (3), CellPhone (1), Book (1), Bed (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,7 @@
+Your task is to: Putting pencils inside of a cabinet
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1), GarbageCan (1), Drawer (1, 2), Desk (1), Bed (1).
+Think: Since I’m not holding pencils, I need to accomplish 2 subgoals sequentially to solve the task. Find and pick up pencils and place pencils in cabinet.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up pencils, place pencils in cabinet

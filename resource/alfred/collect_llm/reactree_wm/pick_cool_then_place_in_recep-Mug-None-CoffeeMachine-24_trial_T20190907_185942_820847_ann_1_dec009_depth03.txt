@@ -1,0 +1,23 @@
+Your primary goal is to: Put a cold mug into a coffee machine.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up mug, cool and pick up mug, and place mug on coffee maker.
+Your task is to: cool and pick up mug
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), DiningTable (1), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23). I am holding Spoon (2) now.
+Think: I hold Spoon (2). Now, I need to cool it using the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Spoon (2), Fridge (1). Fridge (1) is closed.  I am holding Spoon (2) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Spoon (2), Fridge (1), Bowl (1). I am holding Spoon (2) now.
+Act: put down Spoon (2)
+You put Spoon (2) on Fridge (1). You see Spoon (2), Fridge (1), Bowl (1).
+Act: close Fridge (1)
+You close Fridge (1). You see Fridge (1).
+Think: I cool Spoon (2) using Fridge (1). Now, I need to pick up the spoon from the fridge.
+OK.
+Act: open Fridge (1)
+You open Fridge (1). You see Spoon (2), Fridge (1), Bowl (1).
+Act: pick up Spoon (2)
+You pick up Spoon (2). You see Spoon (2), Fridge (1), Bowl (1). I am holding Spoon (2) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

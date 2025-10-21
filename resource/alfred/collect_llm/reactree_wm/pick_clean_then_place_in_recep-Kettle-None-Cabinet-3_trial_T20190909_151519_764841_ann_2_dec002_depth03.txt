@@ -1,0 +1,45 @@
+Your primary goal is to: Wash a teapot to put it away in a cabinet.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up teapot, clean and pick up teapot, and place teapot in cabinet.
+Your task is to: find and pick up teapot
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: First, I need to recall location of the teapot.
+OK.
+Act: recall location of TennisRacket
+You have not seen TennisRacket before.
+Think: Now, I need to find the teapot. The teapot is more likely to appear on CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the teapot.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1, 2), Pot (3), CounterTop (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), Lettuce (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Drawer (1). Fridge (1) is closed. 
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Tomato (1), SideTable (1), Microwave (1), Fridge (1), Egg (1, 2). Microwave (1) is closed. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see SoapBottle (1), CounterTop (1), CoffeeMachine (1), Chair (1), Cabinet (1). Cabinet (1) is closed. 
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Pot (3), GarbageCan (1), CounterTop (1), Cabinet (2, 4). Cabinet (2) is closed. 
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see Toaster (1), Pan (1), Kettle (1), Drawer (2), CounterTop (1), Cabinet (3). Cabinet (3) is closed. 
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see Spatula (1), HousePlant (1), Fork (1), Drawer (4), CounterTop (1), Cabinet (2, 4). Cabinet (4) is closed. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Tomato (1), SideTable (1), PepperShaker (2), Microwave (1), Fridge (1), Egg (1, 2), Drawer (1, 3, 5, 6, 7, 8). Drawer (1) is closed. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Sink (1), Lettuce (1), Kettle (1), Faucet (1), Drawer (2, 4), CounterTop (1), Cabinet (3), Apple (1). Drawer (2) is closed. 
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Tomato (1), SideTable (1), PepperShaker (2), Microwave (1), Fridge (1), Egg (1, 2), Drawer (1, 3, 5, 6, 7, 8). Drawer (3) is closed. 
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Sink (1), SinkBasin (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1), Cabinet (4). Drawer (4) is closed. 
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (5) is closed. 
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (6) is closed. 
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (7) is closed. 
+Act: go to Drawer (8)
+You arrive at Drawer (8). You see Tomato (1), SideTable (1), PepperShaker (2), Microwave (1), Fridge (1), Egg (1, 2), Drawer (1, 3, 5, 6, 7, 8). Drawer (8) is closed. 
+Think: I cannot find the teapot.
+OK.
+Act: failure

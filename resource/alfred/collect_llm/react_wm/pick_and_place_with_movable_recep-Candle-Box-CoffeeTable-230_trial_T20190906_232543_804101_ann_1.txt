@@ -1,0 +1,43 @@
+Your task is to: Place a cardboard box with a candle in it on the coffee table.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2), GarbageCan (1), DiningTable (1), CoffeeTable (1, 2), ArmChair (1, 2).
+Think: To solve the task, I need to find and pick up the cardboard box, then put it on the coffee table. And I need to find and pick up the candle, then put it in the cardboard box on the coffee table.
+OK.
+Think: First, I need to recall location of the cardboard box.
+OK.
+Act: recall location of Box
+You have not seen Box before.
+Think: Now I need to find the cardboard box. The cardboard box is more likely to appear on CoffeeTable (1-2), SideTable (1-2), or in GarbageCan (1). I can check each place one by one, starting from CoffeeTable (1), until I find the cardboard box.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see RemoteControl (1), HousePlant (1), CoffeeTable (1). 
+Act: go to CoffeeTable (2)
+You arrive at CoffeeTable (2). You see Television (1), KeyChain (2), CoffeeTable (2), Candle (3). 
+Think: I find Box (3). Now, I need to pick it up.
+OK.
+Act: pick up Candle (3)
+You pick up Candle (3). You see Television (1), KeyChain (2), CoffeeTable (2), Candle (3). I am holding Candle (3) now.
+Think: I hold Candle (3). Now, I need to put it on the coffee table.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see RemoteControl (1), HousePlant (1), CoffeeTable (1), Candle (3).  I am holding Candle (3) now.
+Act: put down Candle (3)
+You put Candle (3) on CoffeeTable (1). You see RemoteControl (1), HousePlant (1), CoffeeTable (1), Candle (3).
+Think: I put Candle (3) on the CoffeeTable (1). Now, I need to recall location of the candle.
+OK.
+Act: recall location of Candle
+You saw Candle (3) near CoffeeTable (1).
+Think: Candle (3) is on the CoffeeTable (1). Now, I need to put Candle (3) in Box (3).
+OK.
+Act: go to Candle (3)
+You see RemoteControl (1), HousePlant (1), CoffeeTable (1), Candle (3). 
+Act: pick up Candle (3)
+You pick up Candle (3). You see RemoteControl (1), HousePlant (1), CoffeeTable (1), Candle (3). I am holding Candle (3) now.
+Act: go to CoffeeTable (2)
+You arrive at CoffeeTable (2). You see Television (1), KeyChain (2), CoffeeTable (2), Candle (3).  I am holding Candle (3) now.
+Act: go to Candle (3)
+You already arrive at Candle (3). You see Television (1, 1), KeyChain (2, 2), CoffeeTable (2, 2), Candle (3, 3).  I am holding Candle (3) now.
+Act: put down Candle (3)
+You put down failed, drop it. You see Television (1), KeyChain (2), CoffeeTable (2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

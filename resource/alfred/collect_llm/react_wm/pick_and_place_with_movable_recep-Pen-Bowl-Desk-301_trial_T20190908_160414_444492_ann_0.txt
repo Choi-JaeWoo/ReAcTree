@@ -1,0 +1,61 @@
+Your task is to: Put a grey bowl with a black pen in it on the desk.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1, 2, 3, 4, 5, 6), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17), Desk (1), Bed (1).
+Think: To solve the task, I need to find and pick up the bowl, then put it on the desk.
+OK.
+Think: First, I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: Now I need to find the bowl. The bowl is more likely to appear on Desk (1), Shelf (1-6), or in Drawer (1-17). I can check each place one by one, starting from Desk (1), until I find the bowl.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Watch (2), Shelf (1, 3, 4, 6), Pencil (1), Pen (1), Mug (1), Drawer (1, 2, 6, 7, 9, 10, 14, 16, 17), Desk (1), Chair (1), CD (2). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Watch (1, 2), Statue (1), Shelf (1, 3, 4, 6), Desk (1), CD (2), AlarmClock (2). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Shelf (2, 3, 6), Mug (1), CreditCard (1). 
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Watch (2), Statue (1), Shelf (1, 2, 3, 4, 5, 6), Pencil (1), Pen (1), Mug (1), Drawer (17), Desk (1), CreditCard (1), Chair (1). 
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see Watch (1, 2), Statue (1), Shelf (1, 3, 4, 6), Pen (1), Drawer (1, 2, 7, 16, 17), Desk (1), Chair (1), CD (2), AlarmClock (2). 
+Act: go to Shelf (5)
+You arrive at Shelf (5). You see Statue (1), Shelf (1, 2, 3, 4, 5, 6), Pencil (1), Pen (1), Mug (1), CreditCard (1). 
+Act: go to Shelf (6)
+You arrive at Shelf (6). You see Watch (2), Statue (1), Shelf (1, 2, 3, 4, 5, 6), Pencil (1), Pen (1), Mug (1), Drawer (10, 17), Desk (1), CreditCard (1), Chair (1), CD (2). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Watch (1), Statue (1), Shelf (1, 4), Drawer (1, 2, 6, 7, 16, 17), Desk (1), Chair (1), CD (2), BasketBall (1), AlarmClock (2). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Watch (1), Shelf (1, 4), Drawer (1, 2, 7, 16, 17), Desk (1), Chair (1), CD (2), BasketBall (1), AlarmClock (2).
+Act: close Drawer (1)
+You close Drawer (1). You see Watch (1), Shelf (1, 4), Drawer (1, 2, 6, 7, 16, 17), Desk (1), Chair (1), CD (2), BasketBall (1), AlarmClock (2).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 2), Statue (1), Shelf (1, 3, 4, 6), Pen (1), Drawer (1, 2, 6, 7, 16, 17), Desk (1), Chair (1), CD (2), AlarmClock (2). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see Watch (2), Statue (1), Shelf (1, 3, 4, 6), Pen (1), Drawer (2), Desk (1), Chair (1), CD (2), BasketBall (1), AlarmClock (2).
+Act: close Drawer (2)
+You close Drawer (2). You see Watch (2), Statue (1), Shelf (1, 3, 4, 6), Pen (1), Drawer (1, 2, 6, 7, 16, 17), Desk (1), Chair (1), CD (2), BasketBall (1), AlarmClock (2).
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see TissueBox (2), Dresser (1), Drawer (3, 4, 5, 8, 11, 12, 13, 15), DeskLamp (1), CreditCard (2), Boots (1), Bed (1), AlarmClock (1). Drawer (3) is closed. 
+Act: open Drawer (3)
+You open Drawer (3). You see TissueBox (2), Dresser (1), Drawer (3, 4, 5, 8, 11, 12, 13, 15), DeskLamp (1), CreditCard (2), Boots (1), Bed (1), AlarmClock (1).
+Act: close Drawer (3)
+You close Drawer (3). You see TissueBox (2), Dresser (1), Drawer (3, 4, 5, 8, 11, 12, 13, 15), DeskLamp (1), CreditCard (2), Boots (1), Bed (1), AlarmClock (1).
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see TissueBox (2), KeyChain (1), Dresser (1), Drawer (3, 4, 5, 8, 11, 12, 13, 15), DeskLamp (1), CreditCard (2), Bowl (1), Boots (1), Bed (1), AlarmClock (1). Drawer (4) is closed. 
+Think: I find Bowl (1). Now, I need to pick it up.
+OK.
+Act: open Drawer (4)
+You open Drawer (4). You see TissueBox (2), KeyChain (1), Dresser (1), Drawer (3, 4, 8, 11, 12, 13), DeskLamp (1), CreditCard (2), Bowl (1), Boots (1), Bed (1), AlarmClock (1).
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see TissueBox (2), KeyChain (1), Dresser (1), Drawer (3, 4, 8, 11, 12, 13), DeskLamp (1), CreditCard (2), Bowl (1), Boots (1), Bed (1), AlarmClock (1). I am holding Bowl (1) now.
+Act: close Drawer (4)
+You close Drawer (4). You see TissueBox (2), KeyChain (1), Dresser (1), Drawer (3, 4, 8, 11, 12, 13), DeskLamp (1), CreditCard (2), Bowl (1), Boots (1), Bed (1), AlarmClock (1). I am holding Bowl (1) now.
+Think: I hold Bowl (1). Now, I need to put it on the desk.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Watch (2), Shelf (1, 3, 4, 6), Pencil (1), Pen (1), Mug (1), Drawer (1, 2, 9, 10, 14, 16, 17), Desk (1), Chair (1), CD (2), Bowl (1).  I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put Bowl (1) on Desk (1). You see Watch (2), Shelf (1, 3, 4, 6), Pencil (1), Pen (1), Mug (1), Drawer (1, 2, 6, 7, 9, 10, 14, 16, 17), Desk (1), Chair (1), CD (2), Bowl (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

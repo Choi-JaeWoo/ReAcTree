@@ -1,0 +1,7 @@
+Your task is to: place a cooled coffee cup underneath the coffee maker spout
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13).
+Think: Since I’m not holding the coffee cup, I need to accomplish 3 subgoals sequentially to solve the task. Find and pick up coffee cup, cool and pick up coffee cup, and place coffee cup under coffee maker spout.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up coffee cup, cool and pick up coffee cup, place coffee cup under coffee maker spout

@@ -1,0 +1,77 @@
+Your task is to: Put a heated potato in the sink.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8).
+Think: To solve the task, I need to find and pick up the potato, then put it in the microwave. And I need to turn on and off the microwave. And I need to pick up the potato from the microwave, then put it in the sink basin.
+OK.
+Think: First, I need to recall location of the potato.
+OK.
+Act: recall location of Potato
+You have not seen Potato before.
+Think: Now I need to find the potato. The potato is more likely to appear on CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-8). I can check each place one by one, starting from CounterTop (1), until I find the potato.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Potato (1), PepperShaker (2), Lettuce (1), GarbageCan (1), Egg (3), DishSponge (1), CounterTop (1), Chair (1, 2), Bowl (2). 
+Think: I find Potato (1). Now, I need to pick it up.
+OK.
+Act: pick up Potato (1)
+You pick up Potato (1). You see Spatula (1), Potato (1), PepperShaker (2), Lettuce (1), GarbageCan (1), Egg (3), DishSponge (1), CounterTop (1), Chair (1, 2), Bowl (2). I am holding Potato (1) now.
+Think: I hold Potato (1). Now, I need to put it in the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see StoveBurner (1, 2), Potato (1), Plate (1), Pan (1), Microwave (1). Microwave (1) is closed.  I am holding Potato (1) now.
+Act: put down Potato (1)
+You put down failed, drop it. You see StoveBurner (1, 2), Potato (1), Plate (1), Pan (1), Microwave (1).
+Think: Now I need to recall location of the potato.
+OK.
+Act: recall location of Potato
+You dropped Potato due to fail to put it on the receptacle. You need to find it again.
+Think: Now I need to find the potato. The potato is more likely to appear on CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-8). I can check each place one by one, starting from CounterTop (1), until I find the potato.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), PepperShaker (2), Lettuce (1), GarbageCan (1), Egg (3), DishSponge (1), CounterTop (1), Chair (1, 2), Bowl (2). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Window (2), Spoon (1, 2), Spatula (1), SoapBottle (2), Sink (1), SinkBasin (1), Potato (2), Plate (1), PepperShaker (2), Lettuce (1), GarbageCan (1), Fork (3), Faucet (1), Egg (1, 3), DishSponge (1), Cup (1), CounterTop (1, 2), CoffeeMachine (1), Chair (1, 2), Bowl (2), Apple (2). 
+Think: I find Potato (2). Now, I need to pick it up.
+OK.
+Act: pick up Potato (2)
+You pick up Potato (2). You see Window (2), Spoon (1, 2), SoapBottle (2), Sink (1), SinkBasin (1), Potato (2), Plate (1), Fork (3), Faucet (1), Egg (1), Cup (1), CounterTop (2), CoffeeMachine (1), Apple (2). I am holding Potato (2) now.
+Think: I hold Potato (2). Now, I need to put it in the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Window (2), StoveKnob (4), StoveBurner (1, 2), Spoon (1, 2), SoapBottle (2), Sink (1, 1), SinkBasin (1), Potato (2, 2), Plate (1, 1), Pan (1), Microwave (1), Fork (3), Faucet (1), Egg (1), Cup (1), CounterTop (2), CoffeeMachine (1), Apple (2). Microwave (1) is closed.  I am holding Potato (2) now.
+Act: put down Potato (2)
+You put down failed, drop it. You see StoveKnob (4), StoveBurner (1, 2), Sink (1), Potato (2), Plate (1), Pan (1), Microwave (1).
+Think: Now I need to recall location of the potato.
+OK.
+Act: recall location of Potato
+You dropped Potato due to fail to put it on the receptacle. You need to find it again. You dropped Potato due to fail to put it on the receptacle. You need to find it again.
+Think: Now I need to find the potato. The potato is more likely to appear on CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-8). I can check each place one by one, starting from CounterTop (1), until I find the potato.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), PepperShaker (2), Lettuce (1), GarbageCan (1), Egg (3), DishSponge (1), CounterTop (1), Chair (1, 2), Bowl (2). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Window (2), Spoon (1, 2), Spatula (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (2), Lettuce (1), GarbageCan (1), Fork (3), Faucet (1), Egg (1, 3), DishSponge (1), Cup (1), CounterTop (1, 2), CoffeeMachine (1), Chair (1, 2), Bowl (2), Apple (2). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2, 2), Spoon (1, 1, 2, 2), SoapBottle (2, 2), Sink (1, 1), SinkBasin (1, 1), Plate (1, 1), Fork (3), Faucet (1, 1), Egg (1, 1), Cup (1, 1), CounterTop (2, 2), CoffeeMachine (1, 1), Apple (2, 2). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1). Fridge (1) is closed. 
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see StoveKnob (4), StoveBurner (1, 2), Sink (1), Plate (1), Pan (1), Microwave (1), Fridge (1). Microwave (1) is closed. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). There are no visible objects.. Cabinet (1) is closed. 
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Window (2), Cabinet (2, 4, 5). Cabinet (2) is closed. 
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see Cabinet (1, 3, 8). Cabinet (3) is closed. 
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see Window (2), Cabinet (1, 2, 3, 4, 5, 8). Cabinet (4) is closed. 
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Cabinet (5, 6, 7). Cabinet (5) is closed. 
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Cabinet (3, 6, 7, 8). Cabinet (6) is closed. 
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Cabinet (5, 6, 7). Cabinet (7) is closed. 
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Cabinet (1, 3, 8). Cabinet (8) is closed. 
+Think: I cannot find the potato. I fail to accomplish the goal.
+OK.
+Act: failure

@@ -1,0 +1,133 @@
+Your task is to: To cut a potato, wash a slice, as well as place the slice in front of the microwave.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: To solve the task, I need to find and pick up the potato, then slice it. And I need to find and pick up the knife. And I need to find and wash the slice. And I need to put down the knife and pick up the slice, then put it in front of the microwave.
+OK.
+Think: First, I need to recall location of the potato.
+OK.
+Act: recall location of Potato
+You have not seen Potato before.
+Think: Now I need to find the potato. The potato is more likely to appear on CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the potato.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see CounterTop (1), Bread (1, 2). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Spoon (1), Spatula (2), Sink (1), SinkBasin (1), Potato (1), Knife (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1). 
+Think: I find Potato (1). Now, I need to pick it up.
+OK.
+Act: pick up Potato (1)
+You pick up Potato (1). You see Spoon (1), Spatula (2), Sink (1), SinkBasin (1), Potato (1), Knife (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1). I am holding Potato (1) now.
+Think: I hold Potato (1). Now, I need to slice it.
+OK.
+Act: slice Potato (1)
+The Potato (1) slice failed. I am holding Potato (1) now.
+Think: Now I need to recall location of the knife.
+OK.
+Act: recall location of Knife
+You saw Knife (1) near SinkBasin (1).
+Think: I can find Knife (1) near SinkBasin (1).
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Spoon (1), Spatula (2), Sink (1), SinkBasin (1), Potato (1), Knife (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1).  I am holding Potato (1) now.
+Think: I find Knife (1). Now, I need to pick it up.
+OK.
+Act: pick up Knife (1)
+You are currently holding Potato (1). I am holding Potato (1) now.
+Think: I hold Knife (1). Now, I need to slice Potato (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Potato (1), CounterTop (1), Bread (1, 2).  I am holding Potato (1) now.
+Act: slice Potato (1)
+The Potato (1) slice failed. I am holding Potato (1) now.
+Think: Now I need to recall location of the slice.
+OK.
+Act: recall location of Potato
+You have not seen Potato before.
+Think: Now I need to find the slice. The slice is more likely to appear on CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the slice.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Potato (1), CounterTop (1), Bread (1, 2).  I am holding Potato (1) now.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Spoon (1), Spatula (2), Sink (1), SinkBasin (1), Potato (1), Knife (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1).  I am holding Potato (1) now.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Drawer (1). Fridge (1) is closed.  I am holding Potato (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see SideTable (1), Potato (1), PepperShaker (1), Microwave (1), Fridge (1), Egg (2). Microwave (1) is closed.  I am holding Potato (1) now.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Potato (1), Knife (2), Cup (2), CounterTop (1), CoffeeMachine (1), Chair (1), Cabinet (1). Cabinet (1) is closed.  I am holding Potato (1) now.
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Potato (1), GarbageCan (1), CounterTop (1), Cabinet (2, 4), Bread (2), Apple (1). Cabinet (2) is closed.  I am holding Potato (1) now.
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see Toaster (1), Potato (1), Drawer (2), CounterTop (1), Cabinet (3). Cabinet (3) is closed.  I am holding Potato (1) now.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see Tomato (1), Potato (1), Plate (1), HousePlant (1), Drawer (4), CounterTop (1), Cabinet (2, 4), Bread (1). Cabinet (4) is closed.  I am holding Potato (1) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (1), SaltShaker (2), Potato (1), PepperShaker (1), Microwave (1), Fridge (1), Egg (2), Drawer (1, 3, 5, 6, 7, 8). Drawer (1) is closed.  I am holding Potato (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Spoon (1), Spatula (2), Sink (1), Potato (1), Knife (1), Faucet (1), Drawer (2, 4), CounterTop (1), Cabinet (3). Drawer (2) is closed.  I am holding Potato (1) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see SideTable (1), SaltShaker (2), Potato (1), PepperShaker (1), Microwave (1), Fridge (1), Egg (2), Drawer (1, 3, 5, 6, 7, 8). Drawer (3) is closed.  I am holding Potato (1) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Sink (1), SinkBasin (1), Potato (1), PaperTowelRoll (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1), Cabinet (4). Drawer (4) is closed.  I am holding Potato (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see SideTable (1), Potato (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (5) is closed.  I am holding Potato (1) now.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see SideTable (1), Potato (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (6) is closed.  I am holding Potato (1) now.
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see SideTable (1), Potato (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (7) is closed.  I am holding Potato (1) now.
+Act: go to Drawer (8)
+You arrive at Drawer (8). You see SideTable (1), SaltShaker (2), Potato (1), PepperShaker (1), Microwave (1), Fridge (1), Egg (2), Drawer (1, 3, 5, 6, 7, 8). Drawer (8) is closed.  I am holding Potato (1) now.
+Think: Now I need to put down the knife.
+OK.
+Act: put down Potato (1)
+You put down failed, drop it. You see SideTable (1), SaltShaker (2), Potato (1), PepperShaker (1), Microwave (1), Fridge (1), Egg (2), Drawer (1, 3, 5, 6, 7, 8).
+Think: Now I need to pick up Potato (1).
+OK.
+Act: pick up Potato (1)
+You pick up Potato (1). You see SideTable (1), SaltShaker (2), Potato (1), PepperShaker (1), Microwave (1), Fridge (1), Egg (2), Drawer (1, 3, 5, 6, 7, 8). I am holding Potato (1) now.
+Think: I hold Potato (1). Now, I need to recall location of the microwave.
+OK.
+Act: recall location of Potato
+You have not seen Potato before.
+Think: Now I need to find the microwave. The microwave is more likely to appear on CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the microwave.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Potato (1), CounterTop (1), Bread (1, 2).  I am holding Potato (1) now.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Spoon (1), Spatula (2), Sink (1), SinkBasin (1), Potato (1), Knife (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1).  I am holding Potato (1) now.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Drawer (1). Fridge (1) is closed.  I am holding Potato (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see SideTable (1), Potato (1), PepperShaker (1), Microwave (1), Fridge (1), Egg (2). Microwave (1) is closed.  I am holding Potato (1) now.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Potato (1), Knife (2), Cup (2), CounterTop (1), CoffeeMachine (1), Chair (1), Cabinet (1). Cabinet (1) is closed.  I am holding Potato (1) now.
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Potato (1), GarbageCan (1), CounterTop (1), Cabinet (2, 4), Bread (2), Apple (1). Cabinet (2) is closed.  I am holding Potato (1) now.
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see Toaster (1), Potato (1), Drawer (2), CounterTop (1), Cabinet (3). Cabinet (3) is closed.  I am holding Potato (1) now.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see Tomato (1), Potato (1), Plate (1), HousePlant (1), Drawer (4), CounterTop (1), Cabinet (2, 4), Bread (1). Cabinet (4) is closed.  I am holding Potato (1) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (1), SaltShaker (2), Potato (1), PepperShaker (1), Microwave (1), Fridge (1), Egg (2), Drawer (1, 3, 5, 6, 7, 8). Drawer (1) is closed.  I am holding Potato (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Spoon (1), Spatula (2), Sink (1), Potato (1), Knife (1), Faucet (1), Drawer (2, 4), CounterTop (1), Cabinet (3). Drawer (2) is closed.  I am holding Potato (1) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see SideTable (1), SaltShaker (2), Potato (1), PepperShaker (1), Microwave (1), Fridge (1), Egg (2), Drawer (1, 3, 5, 6, 7, 8). Drawer (3) is closed.  I am holding Potato (1) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Sink (1), SinkBasin (1), Potato (1), PaperTowelRoll (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1), Cabinet (4). Drawer (4) is closed.  I am holding Potato (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see SideTable (1), Potato (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (5) is closed.  I am holding Potato (1) now.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see SideTable (1), Potato (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (6) is closed.  I am holding Potato (1) now.
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see SideTable (1), Potato (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (7) is closed.  I am holding Potato (1) now.
+Act: go to Drawer (8)
+You arrive at Drawer (8). You see SideTable (1), SaltShaker (2), Potato (1), PepperShaker (1), Microwave (1), Fridge (1), Egg (2), Drawer (1, 3, 5, 6, 7, 8). Drawer (8) is closed.  I am holding Potato (1) now.
+Think: I can find Microwave (1) near SideTable (1). Now, I need to put Potato (1) in front of Microwave (1).
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Potato (1), PepperShaker (1), Microwave (1), Fridge (1), Egg (2).  I am holding Potato (1) now.
+Act: put down Potato (1)
+You put down failed, drop it. You see SideTable (1), Potato (1), PepperShaker (1), Microwave (1), Fridge (1), Egg (2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

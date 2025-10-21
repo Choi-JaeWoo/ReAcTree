@@ -1,0 +1,21 @@
+Your primary goal is to: Wash a spoon and put it away.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up spoon, clean and pick up spoon, and place spoon in drawer.
+Your task is to: clean and pick up spoon
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4, 5, 6), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9). I am holding Spoon (1) now.
+Think: I hold Spoon (1). Now, I need to clean it using sink basin.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (1), Spoon (1), Sink (1), SinkBasin (1), Lettuce (2), Ladle (2), Knife (2, 3), Faucet (1), Drawer (1, 6), DishSponge (2), CounterTop (1), Cabinet (1, 8).  I am holding Spoon (1) now.
+Act: put down Spoon (1)
+You put Spoon (1) on SinkBasin (1). You see Tomato (1), Spoon (1), Sink (1), SinkBasin (1), Lettuce (2), Ladle (2), Knife (2, 3), Faucet (1), Drawer (1, 6), DishSponge (2), CounterTop (1), Cabinet (1, 8).
+Act: turn on Faucet (1)
+You turn on Faucet (1). You see Tomato (1), Spoon (1), Sink (1), SinkBasin (1), Lettuce (2), Ladle (2), Knife (2, 3), Faucet (1), Drawer (1, 6), DishSponge (2), CounterTop (1), Cabinet (1, 8).
+Act: turn off Faucet (1)
+You turn off Faucet (1). You see Tomato (1), Spoon (1), Sink (1), SinkBasin (1), Lettuce (2), Ladle (2), Knife (2, 3), Faucet (1), Drawer (1, 6), DishSponge (2), CounterTop (1), Cabinet (1, 8).
+Think: I clean Spoon (1) using SinkBasin (1). Now, I need to pick up the spoon from the sink basin.
+OK.
+Act: pick up Spoon (1)
+You pick up Spoon (1). You see Tomato (1), Spoon (1), Sink (1), SinkBasin (1), Lettuce (2), Ladle (2), Knife (2, 3), Faucet (1), Drawer (1, 6), DishSponge (2), CounterTop (1), Cabinet (1, 8). I am holding Spoon (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

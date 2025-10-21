@@ -1,0 +1,7 @@
+Your task is to: Grab two pen and put them on the bedside table
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14), GarbageCan (1), Drawer (1, 2), DiningTable (1), Bed (1, 2).
+Think: Since I’m not holding pen, I need to accomplish 3 subgoals sequentially to solve the task. Find and pick up pen, Find and pick up pen away from the first pen, and place pen on bedside table.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up pen, Find and pick up pen away from the first pen, place pen on bedside table

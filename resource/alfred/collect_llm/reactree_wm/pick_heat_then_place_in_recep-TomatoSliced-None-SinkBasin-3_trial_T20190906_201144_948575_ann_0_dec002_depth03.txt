@@ -1,0 +1,9 @@
+Your primary goal is to: Heat up a piece of slice tomato.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up slice tomato, heat up and pick up slice tomato, and place slice tomato on counter.
+Your task is to: find and pick up slice tomato
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: Since I’m not holding anything, I need to accomplish 2 subgoals sequentially to solve the task. Recall location of slice tomato, and go to slice tomato.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: recall location of slice tomato, and go to slice tomato

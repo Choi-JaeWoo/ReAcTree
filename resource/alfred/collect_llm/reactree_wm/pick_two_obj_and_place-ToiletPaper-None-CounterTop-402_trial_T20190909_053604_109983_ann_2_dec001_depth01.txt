@@ -1,0 +1,7 @@
+Your task is to: Put a full and one empty roll of toilet paper on a counter.
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1, 2), Toilet (1), ToiletPaperHanger (1), SinkBasin (1, 2), Shelf (1), HandTowelHolder (1, 2), GarbageCan (1), CounterTop (1), Cabinet (1, 2, 3, 4), Bathtub (1), BathtubBasin (1).
+Think: Since I’m not holding toilet paper, I need to accomplish 2 subgoals sequentially to solve the task. Find and pick up toilet paper, and place toilet paper on counter.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up toilet paper, place toilet paper on counter

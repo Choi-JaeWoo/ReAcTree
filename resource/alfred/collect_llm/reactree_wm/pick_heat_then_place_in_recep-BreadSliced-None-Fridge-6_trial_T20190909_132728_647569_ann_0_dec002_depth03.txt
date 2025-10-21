@@ -1,0 +1,21 @@
+Your primary goal is to: Put slice of cooked bread in fridge.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up bread, cook and pick up bread, find and pick up knife, and slice and pick up bread.
+Your task is to: find and pick up bread
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), CounterTop (1, 2, 3, 4), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15).
+Think: First, I need to recall location of the bread.
+OK.
+Act: recall location of Bread
+You have not seen Bread before.
+Think: Now, I need to find the bread. The bread is more likely to appear on CounterTop (1-4), or in Fridge (1), Microwave (1), Cabinet (1-15), Drawer (1-4). I can check each place one by one, starting from CounterTop (1), until I find the bread.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (2), StoveKnob (3), StoveBurner (2, 3), SoapBottle (1), Pot (1, 2), GarbageCan (1), Egg (3), Cup (1), CounterTop (1), Apple (3). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Spoon (2, 3), Spatula (1), SaltShaker (2), PepperShaker (1, 2), Pan (1), Lettuce (3), CounterTop (2), ButterKnife (1, 2), Bread (1, 2). 
+Think: I find Bread (1). Now, I need to pick it up.
+OK.
+Act: pick up Bread (1)
+You pick up Bread (1). You see Spoon (2, 3), Spatula (1), SaltShaker (2), PepperShaker (1, 2), Pan (1), Lettuce (3), CounterTop (2), ButterKnife (1, 2), Bread (1, 2). I am holding Bread (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

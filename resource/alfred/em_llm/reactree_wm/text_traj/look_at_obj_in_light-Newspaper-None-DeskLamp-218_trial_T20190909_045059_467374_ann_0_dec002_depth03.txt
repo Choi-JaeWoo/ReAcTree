@@ -1,0 +1,21 @@
+Your primary goal is to: Pick up a newspaper and turn a lamp on.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up newspaper, and find and turn on lamp.
+Your task is to: find and pick up newspaper
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), DiningTable (1), CoffeeTable (1).
+Think: First, I need to recall location of the newspaper.
+OK.
+Act: recall location of Newspaper
+You have not seen Newspaper before.
+Think: Now, I need to find the newspaper. The newspaper is more likely to appear on DiningTable (1), CoffeeTable (1), SideTable (1-2), or in Drawer (1-4). I can check each place one by one, starting from DiningTable (1), until I find the newspaper.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Laptop (1), DiningTable (1), CreditCard (2), Chair (1, 3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Statue (1), Sofa (1), Plate (1), Newspaper (1), CoffeeTable (1), Box (1). 
+Think: I find Newspaper (1). Now, I need to pick it up.
+OK.
+Act: pick up Newspaper (1)
+You pick up Newspaper (1). You see Statue (1), Sofa (1), Plate (1), Newspaper (1), CoffeeTable (1), Box (1). I am holding Newspaper (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

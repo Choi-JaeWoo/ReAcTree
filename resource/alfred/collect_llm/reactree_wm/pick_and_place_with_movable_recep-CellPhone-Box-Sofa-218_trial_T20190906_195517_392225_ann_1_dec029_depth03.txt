@@ -1,0 +1,13 @@
+Your primary goal is to: place a box with a cellphone in it down on the couch
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up box, open and pick up cellphone, and place box on couch.
+Your task is to: place box on couch
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), DiningTable (1), CoffeeTable (1). I am holding CellPhone (1) now.
+Think: I hold CellPhone (1). Now, I need to put it on the couch. I can see Sofa (1).
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), RemoteControl (1), Pillow (1), CellPhone (1), Box (2).  I am holding CellPhone (1) now.
+Act: put down CellPhone (1)
+You put CellPhone (1) on Sofa (1). You see Sofa (1), RemoteControl (1), Pillow (1), CellPhone (1), Box (2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

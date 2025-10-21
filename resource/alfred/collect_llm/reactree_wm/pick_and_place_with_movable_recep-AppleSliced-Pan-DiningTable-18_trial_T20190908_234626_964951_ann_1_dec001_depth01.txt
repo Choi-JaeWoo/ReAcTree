@@ -1,0 +1,7 @@
+Your task is to: Put a pan with apple and a knife in it on a table.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Safe (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16).
+Think: Since I’m not holding anything, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up pan, place pan on countertop, find and pick up knife, and place knife on pan near countertop.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up pan, place pan on countertop, find and pick up knife, place knife on pan near countertop

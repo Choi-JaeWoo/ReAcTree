@@ -1,0 +1,116 @@
+Your task is to: Place a watch on a plate as well as place it on the black end table.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1, 2), GarbageCan (1), Drawer (1, 2), DiningTable (1, 2), CoffeeTable (1), ArmChair (1, 2).
+Think: To solve the task, I need to find and pick up the watch, then put it on the plate. And I need to find and pick up the plate, then put it on the black end table.
+OK.
+Think: First, I need to recall location of the watch.
+OK.
+Act: recall location of Watch
+You have not seen Watch before.
+Think: Now I need to find the watch. The watch is more likely to appear on CoffeeTable (1), DiningTable (1-2), SideTable (1-2), or in Drawer (1-2). I can check each place one by one, starting from CoffeeTable (1), until I find the watch.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (1), Vase (3), Sofa (1), Pen (2), KeyChain (2), CoffeeTable (1), Bowl (1), Book (2). 
+Think: I find Watch (1). Now, I need to pick it up.
+OK.
+Act: pick up Watch (1)
+You pick up Watch (1). You see Watch (1), Vase (3), Sofa (1), Pen (2), KeyChain (2), CoffeeTable (1), Bowl (1), Book (2). I am holding Watch (1) now.
+Think: I hold Watch (1). Now, I need to recall location of the plate.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now I need to find the plate. The plate is more likely to appear on CoffeeTable (1), DiningTable (1-2), SideTable (1-2), or in Drawer (1-2). I can check each place one by one, starting from CoffeeTable (1), until I find the plate.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Watch (1), Statue (2, 3), Plate (1, 2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (2), Book (1).  I am holding Watch (1) now.
+Think: I find Plate (1). Now, I need to pick it up.
+OK.
+Act: pick up Plate (1)
+You are currently holding Watch (1). I am holding Watch (1) now.
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Watch (1), SideTable (1), RemoteControl (1), HousePlant (1), Drawer (1), DiningTable (2).  I am holding Watch (1) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Watch (1), TissueBox (2), SideTable (1), RemoteControl (1), KeyChain (1), Drawer (1), DiningTable (2).  I am holding Watch (1) now.
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Watch (1), TissueBox (1), SideTable (2), Lamp (1), Drawer (2), Curtains (1).  I am holding Watch (1) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Watch (1), TissueBox (2), SideTable (1), RemoteControl (1), Painting (1), KeyChain (1), Drawer (1), DiningTable (2). Drawer (1) is closed.  I am holding Watch (1) now.
+Act: open Drawer (1)
+You open Drawer (1). You see Watch (1), TissueBox (2), SideTable (1), RemoteControl (1), Painting (1), KeyChain (1), Drawer (1), DiningTable (2). I am holding Watch (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1), TissueBox (1), SideTable (2), Lamp (1), Drawer (2), Curtains (1). Drawer (2) is closed.  I am holding Watch (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Watch (1), TissueBox (1), SideTable (2), Lamp (1), Drawer (2), Curtains (1). I am holding Watch (1) now.
+Think: I find Plate (1). Now, I need to pick it up.
+OK.
+Act: pick up Watch (1)
+You are currently holding Watch (1). I am holding Watch (1) now.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Watch (1), Statue (2, 3), Plate (1, 2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (2), Book (1).  I am holding Watch (1) now.
+Act: pick up Plate (1)
+You are currently holding Watch (1). I am holding Watch (1) now.
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Watch (1), SideTable (1), RemoteControl (1), HousePlant (1), Drawer (1), DiningTable (2).  I am holding Watch (1) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Watch (1), TissueBox (2), SideTable (1), RemoteControl (1), KeyChain (1), Drawer (1).  I am holding Watch (1) now.
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Watch (1), TissueBox (1), SideTable (2), Lamp (1), Drawer (2), Curtains (1).  I am holding Watch (1) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Watch (1), TissueBox (2), SideTable (1), RemoteControl (1), KeyChain (1), Drawer (1), DiningTable (2). Drawer (1) is open.  I am holding Watch (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1), TissueBox (1), SideTable (2), Lamp (1), Drawer (2), Curtains (1). Drawer (2) is open.  I am holding Watch (1) now.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Watch (1), Statue (2, 3), Plate (1, 2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (2), Book (1).  I am holding Watch (1) now.
+Act: pick up Plate (1)
+You are currently holding Watch (1). I am holding Watch (1) now.
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Watch (1), SideTable (1), RemoteControl (1), HousePlant (1), Drawer (1), DiningTable (2).  I am holding Watch (1) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Watch (1), TissueBox (2), SideTable (1), RemoteControl (1), KeyChain (1), Drawer (1).  I am holding Watch (1) now.
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Watch (1), TissueBox (1), SideTable (2), Lamp (1), Drawer (2), Curtains (1).  I am holding Watch (1) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Watch (1), TissueBox (2), SideTable (1), RemoteControl (1), KeyChain (1), Drawer (1), DiningTable (2). Drawer (1) is open.  I am holding Watch (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1), TissueBox (1), SideTable (2), Lamp (1), Drawer (2), Curtains (1). Drawer (2) is open.  I am holding Watch (1) now.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Watch (1), Statue (2, 3), Plate (1, 2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (2), Book (1).  I am holding Watch (1) now.
+Act: pick up Plate (1)
+You are currently holding Watch (1). I am holding Watch (1) now.
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Watch (1), SideTable (1), RemoteControl (1), HousePlant (1), Drawer (1), DiningTable (2).  I am holding Watch (1) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Watch (1), TissueBox (2), SideTable (1), RemoteControl (1), KeyChain (1), Drawer (1).  I am holding Watch (1) now.
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Watch (1), TissueBox (1), SideTable (2), Lamp (1), Drawer (2), Curtains (1).  I am holding Watch (1) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Watch (1), TissueBox (2), SideTable (1), RemoteControl (1), KeyChain (1), Drawer (1), DiningTable (2). Drawer (1) is open.  I am holding Watch (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1), TissueBox (1), SideTable (2), Lamp (1), Drawer (2), Curtains (1). Drawer (2) is open.  I am holding Watch (1) now.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Watch (1), Statue (2, 3), Plate (1, 2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (2), Book (1).  I am holding Watch (1) now.
+Act: pick up Plate (1)
+You are currently holding Watch (1). I am holding Watch (1) now.
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Watch (1), SideTable (1), RemoteControl (1), HousePlant (1), Drawer (1), DiningTable (2).  I am holding Watch (1) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Watch (1), TissueBox (2), SideTable (1), RemoteControl (1), KeyChain (1), Drawer (1).  I am holding Watch (1) now.
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Watch (1), TissueBox (1), SideTable (2), Lamp (1), Drawer (2), Curtains (1).  I am holding Watch (1) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Watch (1), TissueBox (2), SideTable (1), RemoteControl (1), KeyChain (1), Drawer (1), DiningTable (2). Drawer (1) is open.  I am holding Watch (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1), TissueBox (1), SideTable (2), Lamp (1), Drawer (2), Curtains (1). Drawer (2) is open.  I am holding Watch (1) now.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Watch (1), Statue (2, 3), Plate (1, 2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (2), Book (1).  I am holding Watch (1) now.
+Act: pick up Plate (1)
+You are currently holding Watch (1). I am holding Watch (1) now.
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Watch (1), SideTable (1), RemoteControl (1), HousePlant (1), Drawer (1), DiningTable (2).  I am holding Watch (1) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Watch (1), TissueBox (2), SideTable (1), RemoteControl (1), KeyChain (1), Drawer (1).  I am holding Watch (1) now.
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Watch (1), TissueBox (1), SideTable (2), Lamp (1), Drawer (2), Curtains (1).  I am holding Watch (1) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Watch (1), TissueBox (2), SideTable (1), RemoteControl (1), KeyChain (1), Drawer (1), DiningTable (2). Drawer (1) is open.  I am holding Watch (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1), TissueBox (1), SideTable (2), Lamp (1), Drawer (2), Curtains (1). Drawer (2) is open.  I am holding Watch (1) now.

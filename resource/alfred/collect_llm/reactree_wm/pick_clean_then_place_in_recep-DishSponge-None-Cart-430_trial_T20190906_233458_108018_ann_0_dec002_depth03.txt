@@ -1,0 +1,201 @@
+Your primary goal is to: place a green sponge on the drying racks
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up green sponge, and place green sponge on drying racks.
+Your task is to: find and pick up green sponge
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1), Shelf (1), HandTowelHolder (1), GarbageCan (1), Drawer (1, 2, 3, 4), CounterTop (1), Cart (1), BathtubBasin (1).
+Think: First, I need to recall location of the green sponge.
+OK.
+Act: recall location of DishSponge
+You have not seen DishSponge before.
+Think: Now, I need to find the green sponge. The green sponge is more likely to appear on CounterTop (1), BathtubBasin (1), SinkBasin (1), Shelf (1), or in Drawer (1-4). I can check each place one by one, starting from CounterTop (1), until I find the green sponge.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see ToiletPaper (1), TissueBox (2), SprayBottle (2, 3), SoapBar (1), Mirror (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Bathtub (1), BathtubBasin (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (3), SoapBottle (3), Sink (1), SinkBasin (1), Faucet (1, 2), Cloth (2), Cart (1), Candle (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TissueBox (2), ShowerHead (1), ShowerGlass (1), CounterTop (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see ToiletPaper (1), TissueBox (2), SoapBar (1), Mirror (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1), CounterTop (1).
+Act: close Drawer (1)
+You close Drawer (1). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3), CounterTop (1).
+Act: close Drawer (2)
+You close Drawer (2). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1).
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see ToiletPaper (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1). Drawer (3) is closed. 
+Act: open Drawer (3)
+You open Drawer (3). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 3), CounterTop (1).
+Act: close Drawer (3)
+You close Drawer (3). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1).
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1). Drawer (4) is closed. 
+Act: open Drawer (4)
+You open Drawer (4). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1).
+Think: I have not found the green sponge. I need to search for it in other rooms.
+OK.
+Act: go to Toilet (1)
+You arrive at Toilet (1). You see Toilet (1), ToiletPaper (2), SoapBottle (1), ShowerDoor (1), ScrubBrush (1), Plunger (1), DishSponge (1). Toilet (1) is closed. 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (3), SoapBottle (3), Sink (1), SinkBasin (1), Faucet (1, 2), Cloth (2), Cart (1), Candle (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TissueBox (2), ShowerHead (1), ShowerGlass (1), CounterTop (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see ToiletPaper (1), TissueBox (2), SoapBar (1), Mirror (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1), CounterTop (1).
+Act: close Drawer (1)
+You close Drawer (1). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3), CounterTop (1).
+Act: close Drawer (2)
+You close Drawer (2). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1).
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see ToiletPaper (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1). Drawer (3) is closed. 
+Act: open Drawer (3)
+You open Drawer (3). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 3), CounterTop (1).
+Act: close Drawer (3)
+You close Drawer (3). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1).
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1). Drawer (4) is closed. 
+Act: open Drawer (4)
+You open Drawer (4). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1).
+Act: go to Toilet (1)
+You arrive at Toilet (1). You see Toilet (1), ToiletPaper (2), SoapBottle (1), ShowerDoor (1), ScrubBrush (1), Plunger (1), DishSponge (1). Toilet (1) is closed. 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (3), SoapBottle (3), Sink (1), SinkBasin (1), Faucet (1, 2), Cloth (2), Cart (1), Candle (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TissueBox (2), ShowerHead (1), ShowerGlass (1), CounterTop (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see ToiletPaper (1), TissueBox (2), SoapBar (1), Mirror (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1), CounterTop (1).
+Act: close Drawer (1)
+You close Drawer (1). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3), CounterTop (1).
+Act: close Drawer (2)
+You close Drawer (2). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1).
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see ToiletPaper (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1). Drawer (3) is closed. 
+Act: open Drawer (3)
+You open Drawer (3). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 3), CounterTop (1).
+Act: close Drawer (3)
+You close Drawer (3). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1).
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1). Drawer (4) is closed. 
+Act: open Drawer (4)
+You open Drawer (4). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1).
+Act: go to Toilet (1)
+You arrive at Toilet (1). You see Toilet (1), ToiletPaper (2), SoapBottle (1), ShowerDoor (1), ScrubBrush (1), Plunger (1), DishSponge (1). Toilet (1) is closed. 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (3), SoapBottle (3), Sink (1), SinkBasin (1), Faucet (1, 2), Cloth (2), Cart (1), Candle (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TissueBox (2), ShowerHead (1), ShowerGlass (1), CounterTop (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see ToiletPaper (1), TissueBox (2), SoapBar (1), Mirror (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1), CounterTop (1).
+Act: close Drawer (1)
+You close Drawer (1). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3), CounterTop (1).
+Act: close Drawer (2)
+You close Drawer (2). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1).
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see ToiletPaper (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1). Drawer (3) is closed. 
+Act: open Drawer (3)
+You open Drawer (3). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 3), CounterTop (1).
+Act: close Drawer (3)
+You close Drawer (3). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1).
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1). Drawer (4) is closed. 
+Act: open Drawer (4)
+You open Drawer (4). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1).
+Act: go to Toilet (1)
+You arrive at Toilet (1). You see Toilet (1), ToiletPaper (2), SoapBottle (1), ShowerDoor (1), ScrubBrush (1), Plunger (1), DishSponge (1). Toilet (1) is closed. 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (3), SoapBottle (3), Sink (1), SinkBasin (1), Faucet (1, 2), Cloth (2), Cart (1), Candle (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TissueBox (2), ShowerHead (1), ShowerGlass (1), CounterTop (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see ToiletPaper (1), TissueBox (2), SoapBar (1), Mirror (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1), CounterTop (1).
+Act: close Drawer (1)
+You close Drawer (1). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3), CounterTop (1).
+Act: close Drawer (2)
+You close Drawer (2). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1).
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see ToiletPaper (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1). Drawer (3) is closed. 
+Act: open Drawer (3)
+You open Drawer (3). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 3), CounterTop (1).
+Act: close Drawer (3)
+You close Drawer (3). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1).
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1). Drawer (4) is closed. 
+Act: open Drawer (4)
+You open Drawer (4). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1).
+Act: go to Toilet (1)
+You arrive at Toilet (1). You see Toilet (1), ToiletPaper (2), SoapBottle (1), ShowerDoor (1), ScrubBrush (1), Plunger (1), DishSponge (1). Toilet (1) is closed. 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (3), SoapBottle (3), Sink (1), SinkBasin (1), Faucet (1, 2), Cloth (2), Cart (1), Candle (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TissueBox (2), ShowerHead (1), ShowerGlass (1), CounterTop (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see ToiletPaper (1), TissueBox (2), SoapBar (1), Mirror (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1), CounterTop (1).
+Act: close Drawer (1)
+You close Drawer (1). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3), CounterTop (1).
+Act: close Drawer (2)
+You close Drawer (2). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1).
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see ToiletPaper (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1). Drawer (3) is closed. 
+Act: open Drawer (3)
+You open Drawer (3). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 3), CounterTop (1).
+Act: close Drawer (3)
+You close Drawer (3). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1).
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1). Drawer (4) is closed. 
+Act: open Drawer (4)
+You open Drawer (4). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Towel (1), TowelHolder (1), TissueBox (2), SoapBar (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1).
+Act: go to Toilet (1)
+You arrive at Toilet (1). You see Toilet (1), ToiletPaper (2), SoapBottle (1), ShowerDoor (1), ScrubBrush (1), Plunger (1), DishSponge (1). Toilet (1) is closed. 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (3), SoapBottle (3), Sink (1), SinkBasin (1), Faucet (1, 2), Cloth (2), Cart (1), Candle (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TissueBox (2), ShowerHead (1), ShowerGlass (1), CounterTop (1). 
+Max decisions

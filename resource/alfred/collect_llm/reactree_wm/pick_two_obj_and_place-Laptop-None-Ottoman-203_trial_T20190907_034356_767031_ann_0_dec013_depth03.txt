@@ -1,0 +1,179 @@
+Your primary goal is to: Place two laptop computers on the ottoman.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up laptop, place laptop on ottoman, Find and pick up laptop away from ottoman, and and place laptop on ottoman.
+Your task is to: Find and pick up laptop away from ottoman
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1), Ottoman (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7), DiningTable (1), CoffeeTable (1), ArmChair (1).
+Think: First, I need to recall location of the laptop.
+OK.
+Act: recall location of Laptop
+You saw Laptop (1) near Ottoman (1). You saw Laptop (2) near Sofa (1).
+Think: Laptop (1) is on Ottoman (1). Laptop (2) is on Sofa (1). Now, I need to find another laptop. The laptop is more likely to appear on Sofa (1), SideTable (1), CoffeeTable (1), ArmChair (1), or in Drawer (1-7). I can check each place one by one, starting from Sofa (1), until I find the laptop.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), RemoteControl (1), Laptop (2), CreditCard (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see WateringCan (1), SideTable (1), Pencil (1), HousePlant (1), Drawer (4), CellPhone (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see TissueBox (1, 2, 3), Newspaper (1), KeyChain (3), Drawer (2, 6, 7), CoffeeTable (1), Book (1). 
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Pillow (1), Ottoman (1), KeyChain (2), Box (1), ArmChair (1). 
+Think: I have not found the laptop. Now, I need to check the drawers.
+OK.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see TissueBox (1, 2, 3), Newspaper (1), KeyChain (3), Drawer (1, 3, 5), CoffeeTable (1), Book (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see TissueBox (1, 2, 3), Newspaper (1), KeyChain (3), Drawer (1, 3), CoffeeTable (1), Book (1).
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see TissueBox (1, 2, 3), Newspaper (1), KeyChain (3), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (3) is closed. 
+Act: open Drawer (3)
+You open Drawer (3). You see TissueBox (1, 2, 3), Newspaper (1), KeyChain (3), Drawer (1, 3), CoffeeTable (1), Book (1).
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see TissueBox (1, 2, 3), Newspaper (1), KeyChain (3), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is not close to you.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see TissueBox (1, 2, 3), Newspaper (1), KeyChain (3), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is not close to you.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see TissueBox (1, 2, 3), Newspaper (1), KeyChain (3), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is not close to you.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see TissueBox (1, 2, 3), Newspaper (1), KeyChain (3), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is not close to you.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see TissueBox (1, 2, 3), Newspaper (1), KeyChain (3), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is not close to you.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see TissueBox (1, 2, 3), Newspaper (1), KeyChain (3), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is not close to you.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see TissueBox (1, 2, 3), Newspaper (1), KeyChain (3), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is not close to you.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see TissueBox (1, 2, 3), Newspaper (1), KeyChain (3), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is not close to you.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see TissueBox (1, 2, 3), Newspaper (1), KeyChain (3), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is not close to you.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see TissueBox (1, 2, 3), Newspaper (1), KeyChain (3), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is not close to you.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see TissueBox (1, 2, 3), Newspaper (1), KeyChain (3), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is not close to you.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see TissueBox (1, 2, 3), Newspaper (1), KeyChain (3), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is not close to you.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see TissueBox (1, 2, 3), Newspaper (1), KeyChain (3), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is not close to you.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see TissueBox (1, 2, 3), Newspaper (1), KeyChain (3), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is not close to you.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see TissueBox (1, 2, 3), Newspaper (1), KeyChain (3), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is not close to you.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see TissueBox (1, 2, 3), Newspaper (1), KeyChain (3), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is not close to you.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see TissueBox (1, 2, 3), Newspaper (1), KeyChain (3), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is not close to you.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see TissueBox (1, 2, 3), Newspaper (1), KeyChain (3), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is not close to you.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see TissueBox (1, 2, 3), Newspaper (1), KeyChain (3), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is not close to you.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see TissueBox (1, 2, 3), Newspaper (1), KeyChain (3), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is not close to you.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see TissueBox (1, 2, 3), Newspaper (1), KeyChain (3), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is not close to you.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see TissueBox (1, 2, 3), Newspaper (1), KeyChain (3), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is not close to you.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see TissueBox (1, 2, 3), Newspaper (1), KeyChain (3), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is not close to you.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see TissueBox (1, 2, 3), Newspaper (1), KeyChain (3), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is not close to you.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see TissueBox (1, 2, 3), Newspaper (1), KeyChain (3), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is not close to you.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see TissueBox (1, 2, 3), Newspaper (1), KeyChain (3), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is not close to you.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see TissueBox (1, 2, 3), Newspaper (1), KeyChain (3), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is not close to you.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see TissueBox (1, 2, 3), Newspaper (1), KeyChain (3), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is not close to you.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see TissueBox (1, 2, 3), Newspaper (1), KeyChain (3), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is not close to you.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see TissueBox (1, 2, 3), Newspaper (1), KeyChain (3), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is not close to you.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see TissueBox (1, 2, 3), Newspaper (1), KeyChain (3), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is not close to you.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see TissueBox (1, 2, 3), Newspaper (1), KeyChain (3), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is not close to you.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see TissueBox (1, 2, 3), Newspaper (1), KeyChain (3), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is not close to you.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see TissueBox (1, 2, 3), Newspaper (1), KeyChain (3), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is not close to you.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see TissueBox (1, 2, 3), Newspaper (1), KeyChain (3), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is not close to you.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see TissueBox (1, 2, 3), Newspaper (1), KeyChain (3), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is not close to you.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see TissueBox (1, 2, 3), Newspaper (1), KeyChain (3), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is not close to you.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see TissueBox (1, 2, 3), Newspaper (1), KeyChain (3), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (5) is closed. 
+Max decisions

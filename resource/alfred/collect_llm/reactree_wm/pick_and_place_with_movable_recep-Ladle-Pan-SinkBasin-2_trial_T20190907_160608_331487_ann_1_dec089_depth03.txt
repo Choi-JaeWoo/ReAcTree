@@ -1,0 +1,27 @@
+Your primary goal is to: Put a frying pan with an ice cream scoop in it in the frying pan.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pan, place pan on countertop, find and pick up ice cream scoop, and place ice cream scoop on pan near countertop.
+Your task is to: place pan on countertop
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4, 5, 6), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9).
+Think: I hold Pan (1). Now, I need to put it on the countertop. I can see CounterTop (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (2), SoapBottle (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), Cabinet (1, 8). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see SoapBottle (1), Plate (1), Lettuce (1), Ladle (1), Kettle (1), CounterTop (1, 2), ButterKnife (1), Bowl (2, 3), Apple (2). 
+Think: I can put Pan (1) on CounterTop (2).
+OK.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see SoapBottle (1), Plate (1), Lettuce (1), Ladle (1), Kettle (1), CounterTop (1, 2), ButterKnife (1), Bowl (2, 3), Apple (2). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see SoapBottle (1), Plate (1), Lettuce (1), Ladle (1), Kettle (1), CounterTop (1, 2), ButterKnife (1), Bowl (2, 3), Apple (2). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see SoapBottle (1), Plate (1), Lettuce (1), Ladle (1), Kettle (1), CounterTop (1, 2), ButterKnife (1), Bowl (2, 3), Apple (2). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see SoapBottle (1), Plate (1), Lettuce (1), Ladle (1), Kettle (1), CounterTop (1, 2), ButterKnife (1), Bowl (2, 3), Apple (2). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see SoapBottle (1), Plate (1), Lettuce (1), Ladle (1), Kettle (1), CounterTop (1, 2), ButterKnife (1), Bowl (2, 3), Apple (2). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see SoapBottle (1), Plate (1), Lettuce (1), Ladle (1), Kettle (1), CounterTop (1, 2), ButterKnife (1), Bowl (2, 3), Apple (2). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see SoapBottle (1), Plate (1), Lettuce (1), Ladle (1), Kettle (1), CounterTop (1, 2), ButterKnife (1), Bowl (2, 3), Apple (2). 
+Max decisions

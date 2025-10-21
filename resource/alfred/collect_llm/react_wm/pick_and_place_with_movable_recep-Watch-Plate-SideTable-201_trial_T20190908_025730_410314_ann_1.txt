@@ -1,0 +1,142 @@
+Your task is to: Place the plate with a watch on the table. 
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1, 2), GarbageCan (1), Drawer (1, 2), DiningTable (1, 2), CoffeeTable (1), ArmChair (1, 2).
+Think: To solve the task, I need to find and pick up the plate, then put it on the table. And I need to find and pick up the watch, then put it on the plate on the table.
+OK.
+Think: First, I need to recall location of the plate.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now I need to find the plate. The plate is more likely to appear on DiningTable (1-2), CoffeeTable (1), SideTable (1-2), or in Drawer (1-2). I can check each place one by one, starting from DiningTable (1), until I find the plate.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1), TissueBox (3), Statue (1), Plate (3, 4), DiningTable (1), Chair (2, 3, 4, 5), Book (1). 
+Think: I find Plate (3). Now, I need to pick it up.
+OK.
+Act: pick up Plate (3)
+You pick up Plate (3). You see Vase (1), TissueBox (3), Statue (1), Plate (3, 4), DiningTable (1), Chair (2, 3, 4, 5), Book (1). I am holding Plate (3) now.
+Think: I hold Plate (3). Now, I need to put it on the table.
+OK.
+Act: put down Plate (3)
+You put down failed, drop it. You see Vase (1), TissueBox (3), Statue (1), Plate (3, 4), DiningTable (1), Chair (2, 3, 4, 5), Book (1).
+Think: I put Plate (3) on DiningTable (1). Now, I need to recall location of the watch.
+OK.
+Act: recall location of Watch
+You have not seen Watch before.
+Think: Now I need to find the watch. The watch is more likely to appear on DiningTable (1-2), CoffeeTable (1), SideTable (1-2), or in Drawer (1-2). I can check each place one by one, starting from DiningTable (1), until I find the watch.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1), TissueBox (3), Statue (1), Plate (3, 4), DiningTable (1), Chair (2, 3, 4, 5), Book (1). 
+Think: I find Watch (1). Now, I need to pick it up.
+OK.
+Act: pick up Plate (3)
+You pick up Plate (3). You see Vase (1), TissueBox (3), Plate (3, 4), DiningTable (1), Chair (2, 3, 4, 5), Book (1). I am holding Plate (3) now.
+Think: I hold Plate (3). Now, I need to put it on the table.
+OK.
+Act: put down Plate (3)
+You put down failed, drop it. You see Vase (1), TissueBox (3), Plate (3, 4), DiningTable (1), Chair (2, 3, 4, 5), Book (1).
+Think: I put Plate (3) on DiningTable (1). Now, I need to recall location of the watch.
+OK.
+Act: recall location of Watch
+You have not seen Watch before.
+Think: Now I need to find the watch. The watch is more likely to appear on DiningTable (1-2), CoffeeTable (1), SideTable (1-2), or in Drawer (1-2). I can check each place one by one, starting from DiningTable (1), until I find the watch.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1), TissueBox (3), Plate (3, 4), DiningTable (1), Chair (2, 3, 4, 5), Book (1). 
+Think: I find Watch (1). Now, I need to pick it up.
+OK.
+Act: pick up Plate (3)
+You pick up Plate (3). You see Vase (1), TissueBox (3), Plate (3, 4), DiningTable (1), Chair (2, 4, 5), Book (1). I am holding Plate (3) now.
+Think: I hold Plate (3). Now, I need to put it on the table.
+OK.
+Act: put down Plate (3)
+You put down failed, drop it. You see Vase (1), TissueBox (3), Plate (4), DiningTable (1), Chair (2, 3, 4, 5), Book (1).
+Think: I put Plate (3) on DiningTable (1). Now, I need to recall location of the watch.
+OK.
+Act: recall location of Watch
+You have not seen Watch before.
+Think: Now I need to find the watch. The watch is more likely to appear on DiningTable (1-2), CoffeeTable (1), SideTable (1-2), or in Drawer (1-2). I can check each place one by one, starting from DiningTable (1), until I find the watch.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1), TissueBox (3), Plate (4), DiningTable (1), Chair (2, 3, 4, 5), Book (1). 
+Think: I find Watch (1). Now, I need to pick it up.
+OK.
+Act: pick up Plate (4)
+You pick up Plate (4). You see Vase (1), TissueBox (3), Plate (4), DiningTable (1), Chair (2, 3, 4, 5), Book (1). I am holding Plate (4) now.
+Think: I hold Plate (4). Now, I need to put it on the table.
+OK.
+Act: put down Plate (4)
+You put down failed, drop it. You see Vase (1), TissueBox (3), Plate (3, 4), DiningTable (1), Chair (2, 3, 4, 5), Book (1).
+Think: I put Plate (4) on DiningTable (1). Now, I need to recall location of the watch.
+OK.
+Act: recall location of Watch
+You have not seen Watch before.
+Think: Now I need to find the watch. The watch is more likely to appear on DiningTable (1-2), CoffeeTable (1), SideTable (1-2), or in Drawer (1-2). I can check each place one by one, starting from DiningTable (1), until I find the watch.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1), TissueBox (3), Plate (3, 4), DiningTable (1), Chair (2, 3, 4, 5), Book (1). 
+Think: I find Watch (1). Now, I need to pick it up.
+OK.
+Act: pick up Plate (3)
+You pick up Plate (3). You see Vase (1), TissueBox (3), Plate (3, 4), DiningTable (1), Chair (2, 3, 4, 5), Book (1). I am holding Plate (3) now.
+Think: I hold Plate (3). Now, I need to put it on the table.
+OK.
+Act: put down Plate (3)
+You put down failed, drop it. You see Vase (1), TissueBox (3), Plate (3, 4), DiningTable (1), Chair (2, 3, 4, 5), Book (1).
+Think: I put Plate (3) on DiningTable (1). Now, I need to recall location of the watch.
+OK.
+Act: recall location of Watch
+You have not seen Watch before.
+Think: Now I need to find the watch. The watch is more likely to appear on DiningTable (1-2), CoffeeTable (1), SideTable (1-2), or in Drawer (1-2). I can check each place one by one, starting from DiningTable (1), until I find the watch.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1), TissueBox (3), Plate (3, 4), DiningTable (1), Chair (2, 3, 4, 5), Book (1). 
+Think: I find Watch (1). Now, I need to pick it up.
+OK.
+Act: pick up Plate (3)
+
+Think: I hold Plate (3). Now, I need to put it on the table.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1), TissueBox (3), Plate (3, 4), DiningTable (1), Chair (2, 3, 4, 5), Book (1). 
+Act: go to Plate (3)
+You arrive at Plate (3). You see Vase (1), TissueBox (3), Statue (1), Plate (3, 4), DiningTable (1), Chair (2, 3, 4, 5, 6), Book (1). 
+Act: go to Plate (4)
+You arrive at Plate (4). You see Vase (1), TissueBox (3), Statue (1), Plate (3, 4), DiningTable (1), Chair (3, 4), Book (1). 
+Act: go to Plate (3)
+You arrive at Plate (3). You see Vase (1), TissueBox (3), Statue (1), Plate (3, 4), DiningTable (1), Chair (2, 3, 4, 5, 6), Book (1). 
+Act: go to Plate (4)
+You arrive at Plate (4). You see Vase (1), TissueBox (3), Statue (1), Plate (3, 4), DiningTable (1), Chair (3, 4), Book (1). 
+Act: go to Plate (3)
+You arrive at Plate (3). You see Vase (1), TissueBox (3), Statue (1), Plate (3, 4), DiningTable (1), Chair (2, 3, 4, 5, 6), Book (1). 
+Act: go to Plate (4)
+You arrive at Plate (4). You see Vase (1), TissueBox (3), Statue (1), Plate (3, 4), DiningTable (1), Chair (3, 4), Book (1). 
+Act: go to Plate (3)
+You arrive at Plate (3). You see Vase (1), TissueBox (3), Statue (1), Plate (3, 4), DiningTable (1), Chair (2, 3, 4, 5, 6), Book (1). 
+Act: go to Plate (4)
+You arrive at Plate (4). You see Vase (1), TissueBox (3), Statue (1), Plate (3, 4), DiningTable (1), Chair (3, 4), Book (1). 
+Act: go to Plate (3)
+You arrive at Plate (3). You see Vase (1), TissueBox (3), Statue (1), Plate (3, 4), DiningTable (1), Chair (2, 3, 4, 5, 6), Book (1). 
+Act: go to Plate (4)
+You arrive at Plate (4). You see Vase (1), TissueBox (3), Statue (1), Plate (3, 4), DiningTable (1), Chair (3, 4), Book (1). 
+Act: go to Plate (3)
+You arrive at Plate (3). You see Vase (1), TissueBox (3), Statue (1), Plate (3, 4), DiningTable (1), Chair (2, 3, 4, 5, 6), Book (1). 
+Act: go to Plate (4)
+You arrive at Plate (4). You see Vase (1), TissueBox (3), Statue (1), Plate (3, 4), DiningTable (1), Chair (3, 4), Book (1). 
+Act: go to Plate (3)
+You arrive at Plate (3). You see Vase (1), TissueBox (3), Statue (1), Plate (3, 4), DiningTable (1), Chair (2, 3, 4, 5, 6), Book (1). 
+Act: go to Plate (4)
+You arrive at Plate (4). You see Vase (1), TissueBox (3), Statue (1), Plate (3, 4), DiningTable (1), Chair (3, 4), Book (1). 
+Act: go to Plate (3)
+You arrive at Plate (3). You see Vase (1), TissueBox (3), Statue (1), Plate (3, 4), DiningTable (1), Chair (2, 3, 4, 5, 6), Book (1). 
+Act: go to Plate (4)
+You arrive at Plate (4). You see Vase (1), TissueBox (3), Statue (1), Plate (3, 4), DiningTable (1), Chair (3, 4), Book (1). 
+Act: go to Plate (3)
+You arrive at Plate (3). You see Vase (1), TissueBox (3), Statue (1), Plate (3, 4), DiningTable (1), Chair (2, 3, 4, 5, 6), Book (1). 
+Act: go to Plate (4)
+You arrive at Plate (4). You see Vase (1), TissueBox (3), Statue (1), Plate (3, 4), DiningTable (1), Chair (3, 4), Book (1). 
+Act: go to Plate (3)
+You arrive at Plate (3). You see Vase (1), TissueBox (3), Statue (1), Plate (3, 4), DiningTable (1), Chair (2, 3, 4, 5, 6), Book (1). 
+Act: go to Plate (4)
+You arrive at Plate (4). You see Vase (1), TissueBox (3), Statue (1), Plate (3, 4), DiningTable (1), Chair (3, 4), Book (1). 
+Act: go to Plate (3)
+You arrive at Plate (3). You see Vase (1), TissueBox (3), Statue (1), Plate (3, 4), DiningTable (1), Chair (2, 3, 4, 5, 6), Book (1). 

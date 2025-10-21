@@ -1,0 +1,19 @@
+Your primary goal is to: Put two books in the bottom drawer of the large desk.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up book, place book in drawer, find and pick up book away from drawer, and place book in drawer.
+Your task is to: find and pick up book
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2), LaundryHamper (1), GarbageCan (1), Drawer (1, 2, 3), Desk (1), Bed (1).
+Think: First, I need to recall location of the book.
+OK.
+Act: recall location of Book
+You have not seen Book before.
+Think: Now, I need to find the book. The book is more likely to appear on SideTable (1), Shelf (1-2), or in Drawer (1-3). I can check each place one by one, starting from SideTable (1), until I find the book.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (3), Pen (3), Desk (1), DeskLamp (1), Chair (1, 2), CD (3), Book (1). 
+Think: I find Book (1). Now, I need to pick it up.
+OK.
+Act: pick up Book (1)
+You pick up Book (1). You see SideTable (1), Pencil (3), Pen (3), Desk (1), DeskLamp (1), Chair (1, 2), CD (3), Book (1). I am holding Book (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

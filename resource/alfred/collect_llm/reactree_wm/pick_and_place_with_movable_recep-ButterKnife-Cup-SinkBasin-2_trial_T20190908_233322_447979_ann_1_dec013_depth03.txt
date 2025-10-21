@@ -1,0 +1,21 @@
+Your primary goal is to: Clean up the butter knife and cup into the sink.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, place knife in sink basin, find and pick up cup, and place cup in sink basin.
+Your task is to: find and pick up cup
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4, 5, 6), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9).
+Think: First, I need to recall location of the cup.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now, I need to find the cup. The cup is more likely to appear on CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-9), Drawer (1-13). I can check each place one by one, starting from CounterTop (1), until I find the cup.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (2), Sink (1), SinkBasin (1), Knife (3), Faucet (1), Egg (1, 2), DishSponge (3), CounterTop (1), Cabinet (1, 8), Apple (3). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Spoon (2), Spatula (1), SoapBottle (2), Plate (2), Lettuce (2, 3), Knife (1, 2), Fork (1, 2), Egg (3), Cup (2), CounterTop (1, 2), CellPhone (1). 
+Think: I find Cup (2). Now, I need to pick it up.
+OK.
+Act: pick up Cup (2)
+You pick up Cup (2). You see Spoon (2), Spatula (1), SoapBottle (2), Plate (2), Lettuce (2, 3), Knife (1, 2), Fork (1, 2), Egg (3), Cup (2), CounterTop (1, 2), CellPhone (1). I am holding Cup (2) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

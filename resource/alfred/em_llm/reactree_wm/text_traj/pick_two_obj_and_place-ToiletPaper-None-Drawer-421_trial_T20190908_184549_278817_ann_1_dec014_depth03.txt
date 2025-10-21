@@ -1,0 +1,23 @@
+Your primary goal is to: Put the two empty toilet roll in the drawer 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up toilet roll, place toilet roll in drawer, find and pick up toilet roll away from drawer, and place toilet roll in drawer.
+Your task is to: find and pick up toilet roll away from drawer
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1, 2), HandTowelHolder (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1).
+Think: First, I need to recall location of the toilet roll.
+OK.
+Act: recall location of ToiletPaper
+You saw ToiletPaper (3) near Drawer (1).
+Think: Now, I need to find the toilet roll. The toilet roll is more likely to appear on CounterTop (1), SinkBasin (1-2), Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the toilet roll.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Towel (1), TowelHolder (1), ToiletPaper (3, 3, 3), SprayBottle (1), SoapBottle (1, 1, 1), Sink (1, 1, 1, 2, 2), SinkBasin (1, 1, 1, 2, 2), ShowerGlass (1, 1, 1), Faucet (1, 1, 1, 2, 2), Drawer (1, 1, 1, 2, 4, 4, 4, 5, 5, 6, 6, 7, 7, 7, 8, 8), DishSponge (3, 3, 3), CounterTop (1, 1, 1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Towel (1, 1, 1), TowelHolder (1, 1, 1), ToiletPaper (3, 3, 3, 3), SprayBottle (1, 1, 1, 1), SoapBottle (1, 1, 1, 1), Sink (1, 1, 1, 1), SinkBasin (1, 1, 1, 1), ShowerGlass (1, 1, 1, 1), Mirror (1), Faucet (1, 1, 1, 1), Drawer (1, 1, 1, 1, 2, 2, 2, 2, 4, 4, 4, 4, 6, 7, 7, 7, 7), DishSponge (3, 3, 3, 3), CounterTop (1, 1, 1, 1). 
+Act: go to SinkBasin (2)
+You arrive at SinkBasin (2). You see ToiletPaper (4), SoapBar (3), Sink (2), SinkBasin (2), Mirror (1), Faucet (2), Drawer (1, 2, 3, 5, 6, 8), CounterTop (1), Cloth (1). 
+Think: I find ToiletPaper (4). Now, I need to pick it up.
+OK.
+Act: pick up ToiletPaper (4)
+You pick up ToiletPaper (4). You see ToiletPaper (4), SoapBar (3), Sink (2), SinkBasin (2), Mirror (1), Faucet (2), Drawer (1, 2, 3, 5, 6, 8), CounterTop (1), Cloth (1). I am holding ToiletPaper (4) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

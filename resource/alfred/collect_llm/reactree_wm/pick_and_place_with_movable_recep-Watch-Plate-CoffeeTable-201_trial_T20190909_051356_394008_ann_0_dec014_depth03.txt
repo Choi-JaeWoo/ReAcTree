@@ -1,0 +1,19 @@
+Your primary goal is to: Move the white plate with a wrist watch to the coffee table. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up plate, place plate on coffee table, find and pick up watch, and place watch on plate near coffee table.
+Your task is to: find and pick up watch
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1, 2), GarbageCan (1), Drawer (1, 2), DiningTable (1, 2), CoffeeTable (1), ArmChair (1, 2).
+Think: First, I need to recall location of the watch.
+OK.
+Act: recall location of Watch
+You saw Watch (1) near CoffeeTable (1). You saw Watch (3) near SideTable (1).
+Think: I can find Watch (1) near CoffeeTable (1). I can find Watch (3) near SideTable (1).
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (1), TissueBox (1), Sofa (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Think: I find Watch (1). Now, I need to pick it up.
+OK.
+Act: pick up Watch (1)
+You pick up Watch (1). You see Watch (1), TissueBox (1), Sofa (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). I am holding Watch (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

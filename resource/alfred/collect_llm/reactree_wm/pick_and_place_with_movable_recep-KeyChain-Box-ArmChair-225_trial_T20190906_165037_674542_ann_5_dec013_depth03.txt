@@ -1,0 +1,17 @@
+Your primary goal is to: Put a box with keys on it on the chair.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up box, place keys on box, and place box on chair.
+Your task is to: place keys on box
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1, 2), SideTable (1), Shelf (1, 2, 3, 4, 5, 6), GarbageCan (1), Drawer (1), CoffeeTable (1), ArmChair (1). I am holding Box (1) now.
+Think: I hold Box (1). Now, I need to recall location of the keys.
+OK.
+Act: recall location of KeyChain
+You saw KeyChain (1) near Sofa (2).
+Think: I can find KeyChain (1) on Sofa (2).
+OK.
+Act: go to Sofa (2)
+You arrive at Sofa (2). You see Sofa (2), Pillow (1), KeyChain (1), Box (1).  I am holding Box (1) now.
+Act: put down Box (1)
+You put Box (1) on Sofa (2). You see Sofa (2), Pillow (1), KeyChain (1), Box (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

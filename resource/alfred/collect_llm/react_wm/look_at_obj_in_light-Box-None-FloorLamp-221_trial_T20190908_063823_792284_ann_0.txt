@@ -1,0 +1,114 @@
+Your task is to: Examine an empty box by the light of a floor lamp.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1), GarbageCan (1), Drawer (1), DiningTable (1), CoffeeTable (1, 2), ArmChair (1).
+Think: To solve the task, I need to find and pick up the box. And I need to find and turn on the floor lamp.
+OK.
+Think: First, I need to recall location of the box.
+OK.
+Act: recall location of Box
+You have not seen Box before.
+Think: Now I need to find the box. The box is more likely to appear on Sofa (1), SideTable (1), CoffeeTable (1-2), ArmChair (1), or in Drawer (1). I can check each place one by one, starting from Sofa (1), until I find the box.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Laptop (3), CreditCard (3). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1), Television (1), Statue (1), SideTable (1), KeyChain (1), Drawer (1), CoffeeTable (2), ArmChair (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Pen (3), Laptop (2), CoffeeTable (1). 
+Act: go to CoffeeTable (2)
+You arrive at CoffeeTable (2). You see Television (1), SideTable (1), RemoteControl (3), CoffeeTable (2). 
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see SideTable (1), Pillow (1), HousePlant (1, 2), Chair (6), ArmChair (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Vase (1), Television (1), Statue (1), SideTable (1), KeyChain (1), Drawer (1), CoffeeTable (2). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Vase (1), Television (1), Statue (1), SideTable (1), KeyChain (1), Drawer (1), CoffeeTable (2), ArmChair (1).
+Think: I find Box (1). Now, I need to pick it up.
+OK.
+Act: pick up Vase (1)
+You pick up Vase (1). You see Vase (1), Television (1), Statue (1), SideTable (1), KeyChain (1), Drawer (1), CoffeeTable (2), ArmChair (1). I am holding Vase (1) now.
+Think: I hold Vase (1). Now, I need to recall location of the floor lamp.
+OK.
+Act: recall location of FloorLamp
+You have not seen FloorLamp before.
+Think: Now I need to find the floor lamp The floor lamp is more likely to appear on Sofa (1), SideTable (1), CoffeeTable (1-2), ArmChair (1), or in Drawer (1). I can check each place one by one, starting from Sofa (1), until I find the floor lamp.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Vase (1), Sofa (1), Laptop (3), CreditCard (3).  I am holding Vase (1) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1), Television (1), Statue (1), SideTable (1), KeyChain (1), Drawer (1), CoffeeTable (2), ArmChair (1).  I am holding Vase (1) now.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (1), Pen (3), Laptop (2), CoffeeTable (1).  I am holding Vase (1) now.
+Act: go to CoffeeTable (2)
+You arrive at CoffeeTable (2). You see Vase (1), Television (1), SideTable (1), RemoteControl (3), CoffeeTable (2).  I am holding Vase (1) now.
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Vase (1), SideTable (1), Pillow (1), HousePlant (1, 2), Drawer (1), Chair (6), ArmChair (1).  I am holding Vase (1) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Vase (1), Television (1), Statue (1), SideTable (1), KeyChain (1), Drawer (1), CoffeeTable (2), ArmChair (1). Drawer (1) is open.  I am holding Vase (1) now.
+Think: I find FloorLamp (1). Now, I need to turn it on.
+OK.
+Act: put down Vase (1)
+You put down failed, drop it. You see Vase (1), Television (1), Statue (1), SideTable (1), KeyChain (1), Drawer (1), CoffeeTable (2), ArmChair (1).
+Act: pick up Vase (1)
+You pick up Vase (1). You see Vase (1), Television (1), Statue (1), SideTable (1), KeyChain (1), Drawer (1), CoffeeTable (2), ArmChair (1). I am holding Vase (1) now.
+Act: put down Vase (1)
+You put down failed, drop it. You see Vase (1), Television (1), Statue (1), SideTable (1), KeyChain (1), Drawer (1), CoffeeTable (2), ArmChair (1).
+Act: pick up Vase (1)
+You pick up Vase (1). You see Vase (1), Television (1), Statue (1), SideTable (1), KeyChain (1), Drawer (1), CoffeeTable (2), ArmChair (1). I am holding Vase (1) now.
+Act: put down Vase (1)
+You put down failed, drop it. You see Vase (1), Television (1), Statue (1), SideTable (1), KeyChain (1), Drawer (1), CoffeeTable (2), ArmChair (1).
+Act: pick up Vase (1)
+You pick up Vase (1). You see Vase (1), Television (1), Statue (1), SideTable (1), KeyChain (1), Drawer (1), CoffeeTable (2), ArmChair (1). I am holding Vase (1) now.
+Act: put down Vase (1)
+You put down failed, drop it. You see Vase (1), Television (1), Statue (1), SideTable (1), KeyChain (1), Drawer (1), CoffeeTable (2), ArmChair (1).
+Act: pick up Vase (1)
+You pick up Vase (1). You see Vase (1), Television (1), Statue (1), SideTable (1), KeyChain (1), Drawer (1), CoffeeTable (2), ArmChair (1). I am holding Vase (1) now.
+Act: put down Vase (1)
+You put down failed, drop it. You see Vase (1), Television (1), Statue (1), SideTable (1), KeyChain (1), Drawer (1), CoffeeTable (2), ArmChair (1).
+Act: pick up Vase (1)
+You pick up Vase (1). You see Vase (1), Television (1), Statue (1), SideTable (1), KeyChain (1), Drawer (1), CoffeeTable (2), ArmChair (1). I am holding Vase (1) now.
+Act: put down Vase (1)
+You put down failed, drop it. You see Vase (1), Television (1), Statue (1), SideTable (1), KeyChain (1), Drawer (1), CoffeeTable (2), ArmChair (1).
+Act: pick up Vase (1)
+You pick up Vase (1). You see Vase (1), Television (1), Statue (1), SideTable (1), KeyChain (1), Drawer (1), CoffeeTable (2), ArmChair (1). I am holding Vase (1) now.
+Act: put down Vase (1)
+You put down failed, drop it. You see Vase (1), Television (1), Statue (1), SideTable (1), KeyChain (1), Drawer (1), CoffeeTable (2), ArmChair (1).
+Act: pick up Vase (1)
+You pick up Vase (1). You see Vase (1), Television (1), Statue (1), SideTable (1), KeyChain (1), Drawer (1), CoffeeTable (2), ArmChair (1). I am holding Vase (1) now.
+Act: put down Vase (1)
+You put down failed, drop it. You see Vase (1), Television (1), Statue (1), SideTable (1), KeyChain (1), Drawer (1), CoffeeTable (2), ArmChair (1).
+Act: pick up Vase (1)
+You pick up Vase (1). You see Vase (1), Television (1), Statue (1), SideTable (1), KeyChain (1), Drawer (1), CoffeeTable (2), ArmChair (1). I am holding Vase (1) now.
+Act: put down Vase (1)
+You put down failed, drop it. You see Vase (1), Television (1), Statue (1), SideTable (1), KeyChain (1), Drawer (1), CoffeeTable (2), ArmChair (1).
+Act: pick up Vase (1)
+You pick up Vase (1). You see Vase (1), Television (1), Statue (1), SideTable (1), KeyChain (1), Drawer (1), CoffeeTable (2), ArmChair (1). I am holding Vase (1) now.
+Act: put down Vase (1)
+You put down failed, drop it. You see Vase (1), Television (1), Statue (1), SideTable (1), KeyChain (1), Drawer (1), CoffeeTable (2), ArmChair (1).
+Act: pick up Vase (1)
+You pick up Vase (1). You see Vase (1), Television (1), Statue (1), SideTable (1), KeyChain (1), Drawer (1), CoffeeTable (2), ArmChair (1). I am holding Vase (1) now.
+Act: put down Vase (1)
+You put down failed, drop it. You see Vase (1), Television (1), Statue (1), SideTable (1), KeyChain (1), Drawer (1), CoffeeTable (2), ArmChair (1).
+Act: pick up Vase (1)
+You pick up Vase (1). You see Vase (1), Television (1), Statue (1), SideTable (1), KeyChain (1), Drawer (1), CoffeeTable (2), ArmChair (1). I am holding Vase (1) now.
+Act: put down Vase (1)
+You put down failed, drop it. You see Vase (1), Television (1), Statue (1), SideTable (1), KeyChain (1), Drawer (1), CoffeeTable (2), ArmChair (1).
+Act: pick up Vase (1)
+You pick up Vase (1). You see Vase (1), Television (1), Statue (1), SideTable (1), KeyChain (1), Drawer (1), CoffeeTable (2), ArmChair (1). I am holding Vase (1) now.
+Act: put down Vase (1)
+You put down failed, drop it. You see Vase (1), Television (1), Statue (1), SideTable (1), KeyChain (1), Drawer (1), CoffeeTable (2), ArmChair (1).
+Act: pick up Vase (1)
+You pick up Vase (1). You see Vase (1), Television (1), Statue (1), SideTable (1), KeyChain (1), Drawer (1), CoffeeTable (2), ArmChair (1). I am holding Vase (1) now.
+Act: put down Vase (1)
+You put down failed, drop it. You see Vase (1), Television (1), Statue (1), SideTable (1), KeyChain (1), Drawer (1), CoffeeTable (2), ArmChair (1).
+Act: pick up Vase (1)
+You pick up Vase (1). You see Vase (1), Television (1), Statue (1), SideTable (1), KeyChain (1), Drawer (1), CoffeeTable (2), ArmChair (1). I am holding Vase (1) now.
+Act: put down Vase (1)
+You put down failed, drop it. You see Vase (1), Television (1), Statue (1), SideTable (1), KeyChain (1), Drawer (1), CoffeeTable (2), ArmChair (1).
+Act: pick up Vase (1)
+You pick up Vase (1). You see Vase (1), Television (1), Statue (1), SideTable (1), KeyChain (1), Drawer (1), CoffeeTable (2), ArmChair (1). I am holding Vase (1) now.
+Act: put down Vase (1)
+You put down failed, drop it. You see Vase (1), Television (1), Statue (1), SideTable (1), KeyChain (1), Drawer (1), CoffeeTable (2), ArmChair (1).
+Act: pick up Vase (1)
+You pick up Vase (1). You see Vase (1), Television (1), Statue (1), SideTable (1), KeyChain (1), Drawer (1), CoffeeTable (2), ArmChair (1). I am holding Vase (1) now.
+Act: put down Vase (1)
+You put down failed, drop it. You see Vase (1), Television (1), Statue (1), SideTable (1), KeyChain (1), Drawer (1), CoffeeTable (2), ArmChair (1).

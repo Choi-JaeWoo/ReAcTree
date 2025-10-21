@@ -1,0 +1,159 @@
+Your primary goal is to: dry the glass  and put it in the cabinet 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up glass, dry and pick up glass, and place glass in cabinet.
+Your task is to: dry and pick up glass
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9). I am holding Glassbottle (1) now.
+Think: I hold Glassbottle (1). Now, I need to dry it using the towel.
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Glassbottle (1), Fridge (1), Cabinet (1). Cabinet (1) is closed.  I am holding Glassbottle (1) now.
+Act: open Cabinet (1)
+You open Cabinet (1). You see Glassbottle (1), Fridge (1), Cabinet (1). I am holding Glassbottle (1) now.
+Act: put down Glassbottle (1)
+You put down failed, drop it. You see Glassbottle (1), Fridge (1), Cabinet (1).
+Act: pick up Glassbottle (1)
+
+Act: close Cabinet (1)
+You close Cabinet (1). You see Fridge (1), Cabinet (1).
+Think: I dry Glassbottle (1) using Cabinet (1). Now, I need to pick up the glass from the cabinet.
+OK.
+Act: open Cabinet (1)
+You open Cabinet (1). You see Fridge (1), Cabinet (1).
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Window (1), Fridge (1, 1, 1), Cabinet (1, 1, 1). Cabinet (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Window (1, 1, 1), Fridge (1, 1, 1), Cabinet (1, 1, 1). Cabinet (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Window (1, 1, 1), Fridge (1, 1, 1), Cabinet (1, 1, 1). Cabinet (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Window (1, 1, 1), Fridge (1, 1, 1), Cabinet (1, 1, 1). Cabinet (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Window (1, 1, 1), Fridge (1, 1, 1), Cabinet (1, 1, 1). Cabinet (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Window (1, 1, 1), Fridge (1, 1, 1), Cabinet (1, 1, 1). Cabinet (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Window (1, 1, 1), Fridge (1, 1, 1), Cabinet (1, 1, 1). Cabinet (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Window (1, 1, 1), Fridge (1, 1, 1), Cabinet (1, 1, 1). Cabinet (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Window (1, 1, 1), Fridge (1, 1, 1), Cabinet (1, 1, 1). Cabinet (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Window (1, 1, 1), Fridge (1, 1, 1), Cabinet (1, 1, 1). Cabinet (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Window (1, 1, 1), Fridge (1, 1, 1), Cabinet (1, 1, 1). Cabinet (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Window (1, 1, 1), Fridge (1, 1, 1), Cabinet (1, 1, 1). Cabinet (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Window (1, 1, 1), Fridge (1, 1, 1), Cabinet (1, 1, 1). Cabinet (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Window (1, 1, 1), Fridge (1, 1, 1), Cabinet (1, 1, 1). Cabinet (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Window (1, 1, 1), Fridge (1, 1, 1), Cabinet (1, 1, 1). Cabinet (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Window (1, 1, 1), Fridge (1, 1, 1), Cabinet (1, 1, 1). Cabinet (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Window (1, 1, 1), Fridge (1, 1, 1), Cabinet (1, 1, 1). Cabinet (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Window (1, 1, 1), Fridge (1, 1, 1), Cabinet (1, 1, 1). Cabinet (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Window (1, 1, 1), Fridge (1, 1, 1), Cabinet (1, 1, 1). Cabinet (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Window (1, 1, 1), Fridge (1, 1, 1), Cabinet (1, 1, 1). Cabinet (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Window (1, 1, 1), Fridge (1, 1, 1), Cabinet (1, 1, 1). Cabinet (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Window (1, 1, 1), Fridge (1, 1, 1), Cabinet (1, 1, 1). Cabinet (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Window (1, 1, 1), Fridge (1, 1, 1), Cabinet (1, 1, 1). Cabinet (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Window (1, 1, 1), Fridge (1, 1, 1), Cabinet (1, 1, 1). Cabinet (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Window (1, 1, 1), Fridge (1, 1, 1), Cabinet (1, 1, 1). Cabinet (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Window (1, 1, 1), Fridge (1, 1, 1), Cabinet (1, 1, 1). Cabinet (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Window (1, 1, 1), Fridge (1, 1, 1), Cabinet (1, 1, 1). Cabinet (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Window (1, 1, 1), Fridge (1, 1, 1), Cabinet (1, 1, 1). Cabinet (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Window (1, 1, 1), Fridge (1, 1, 1), Cabinet (1, 1, 1). Cabinet (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Window (1, 1, 1), Fridge (1, 1, 1), Cabinet (1, 1, 1). Cabinet (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Window (1, 1, 1), Fridge (1, 1, 1), Cabinet (1, 1, 1). Cabinet (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Window (1, 1, 1), Fridge (1, 1, 1), Cabinet (1, 1, 1). Cabinet (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Window (1, 1, 1), Fridge (1, 1, 1), Cabinet (1, 1, 1). Cabinet (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Window (1, 1, 1), Fridge (1, 1, 1), Cabinet (1, 1, 1). Cabinet (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Max decisions

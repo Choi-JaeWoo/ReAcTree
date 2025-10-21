@@ -1,0 +1,27 @@
+Your primary goal is to: place a carton with a watch in it on the table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up carton, place carton on table, and find and pick up watch.
+Your task is to: find and pick up carton
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1, 2), SideTable (1, 2), GarbageCan (1), Drawer (1), DiningTable (1), CoffeeTable (1).
+Think: First, I need to recall location of the carton.
+OK.
+Act: recall location of Box
+You have not seen Box before.
+Think: Now, I need to find the carton. The carton is more likely to appear on Sofa (1-2), SideTable (1-2), CoffeeTable (1), or in Drawer (1). I can check each place one by one, starting from Sofa (1), until I find the carton.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Newspaper (3). 
+Act: go to Sofa (2)
+You arrive at Sofa (2). You see Sofa (2), RemoteControl (1), Pillow (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (3), SideTable (1, 2), Drawer (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Television (1), SideTable (2), Plate (2), Newspaper (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Plate (3), Laptop (1), KeyChain (1), CreditCard (1), CoffeeTable (1), Box (1). 
+Think: I find Box (1). Now, I need to pick it up.
+OK.
+Act: pick up Box (1)
+You pick up Box (1). You see Plate (3), Laptop (1), KeyChain (1), CoffeeTable (1), Box (1). I am holding Box (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

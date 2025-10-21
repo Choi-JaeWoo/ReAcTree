@@ -1,0 +1,21 @@
+Your primary goal is to: Put a cardboard box with a remote in it on a chair.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up cardboard box, place remote in cardboard box, and place cardboard box on chair.
+Your task is to: find and pick up cardboard box
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1), GarbageCan (1), CoffeeTable (1), ArmChair (1).
+Think: First, I need to recall location of the cardboard box.
+OK.
+Act: recall location of Box
+You have not seen Box before.
+Think: Now, I need to find the cardboard box. The cardboard box is more likely to appear on CoffeeTable (1), SideTable (1), TVStand (1), or in GarbageCan (1). I can check each place one by one, starting from CoffeeTable (1), until I find the cardboard box.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see KeyChain (3), HousePlant (1), CreditCard (1), CoffeeTable (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Sofa (1), SideTable (1), RemoteControl (1, 4), Book (1). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Watch (1), Television (1), TVStand (1), Statue (1), KeyChain (2). 
+Act: go to GarbageCan (1)
+You arrive at GarbageCan (1). You see Television (1), TVStand (1), GarbageCan (1). 
+Think: I can't find the cardboard box. I need to ask for help.
+OK.
+Act: failure

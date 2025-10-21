@@ -1,0 +1,29 @@
+Your task is to: Place the box with the credit card to the left of the pillow on the sofa.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), CoffeeTable (1), Cabinet (1, 2, 3, 4), ArmChair (1, 2).
+Think: To solve the task, I need to find and pick up the box, then put it to the left of the pillow on the sofa.
+OK.
+Think: First, I need to recall location of the box.
+OK.
+Act: recall location of Box
+You have not seen Box before.
+Think: Now I need to find the box. The box is more likely to appear on Sofa (1), SideTable (1), CoffeeTable (1), ArmChair (1-2), or in Drawer (1-4), Cabinet (1-4). I can check each place one by one, starting from Sofa (1), until I find the box.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1, 2). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see WateringCan (1), Sofa (1, 1), SideTable (1), Pillow (1, 1, 2, 2), Lamp (1), CreditCard (1), ArmChair (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Statue (1, 2), CoffeeTable (1), Box (1). 
+Think: I find Box (1). Now, I need to pick it up.
+OK.
+Act: pick up Box (1)
+You pick up Box (1). You see Statue (1, 2), CoffeeTable (1), Box (1). I am holding Box (1) now.
+Think: I hold Box (1). Now, I need to put it to the left of the pillow on the sofa.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1, 2), Box (1).  I am holding Box (1) now.
+Act: put down Box (1)
+You put Box (1) on Sofa (1). You see Sofa (1), Pillow (1, 2), Box (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,7 @@
+Your task is to: Place the pen in the bowl on the table.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1), LaundryHamper (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5), Desk (1), Bed (1).
+Think: Since I’m not holding anything, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up pen, place pen in bowl, find and pick up bowl, and place bowl on table.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up pen, place pen in bowl, find and pick up bowl, place bowl on table

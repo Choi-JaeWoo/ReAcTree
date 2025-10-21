@@ -1,0 +1,41 @@
+Your task is to: Turn on the lamp while holding a trophy.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2, 3, 4, 5), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21), Cabinet (1), ArmChair (1).
+Think: To solve the task, I need to find and pick up the trophy. And I need to find and turn on the lamp.
+OK.
+Think: First, I need to recall location of the trophy.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the trophy. The trophy is more likely to appear on SideTable (1-5), or in Drawer (1-21), Cabinet (1). I can check each place one by one, starting from SideTable (1), until I find the trophy.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), GarbageCan (1), Drawer (3, 5, 19), DeskLamp (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Statue (3), SideTable (2), Painting (2), Drawer (15). 
+Act: go to SideTable (3)
+You arrive at SideTable (3). You see Window (2), SideTable (3), Cabinet (1). 
+Act: go to SideTable (4)
+You arrive at SideTable (4). You see SideTable (4), GarbageCan (1), Drawer (3, 11, 16, 19, 20), Box (2). 
+Act: go to SideTable (5)
+You arrive at SideTable (5). You see Statue (1, 2), SideTable (5), Drawer (3, 11, 16, 20), Chair (4). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Television (1), Dresser (1), Drawer (1, 2, 6, 7, 9, 10, 14, 17, 21), Box (1), Book (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Television (1), Dresser (1), Drawer (1, 2, 6, 7, 9, 10, 21), CellPhone (1), Box (1), Book (1).
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: pick up CellPhone (1)
+You pick up CellPhone (1). You see Television (1), Dresser (1), Drawer (1, 2, 6, 7, 9, 10, 21), CellPhone (1), Box (1), Book (1). I am holding CellPhone (1) now.
+Think: I hold CellPhone (1). Now, I need to recall location of the lamp.
+OK.
+Act: recall location of DeskLamp
+You saw DeskLamp (1) near SideTable (1).
+Think: I can find DeskLamp (1) near SideTable (1). Now, I need to go to SideTable (1) and turn on DeskLamp (1).
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), GarbageCan (1), Drawer (3, 5, 19), DeskLamp (1), CellPhone (1).  I am holding CellPhone (1) now.
+Act: turn on DeskLamp (1)
+The DeskLamp (1) already turn on. I am holding CellPhone (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

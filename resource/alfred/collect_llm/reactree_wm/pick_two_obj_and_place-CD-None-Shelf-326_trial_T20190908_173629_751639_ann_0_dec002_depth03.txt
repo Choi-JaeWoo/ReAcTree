@@ -1,0 +1,21 @@
+Your primary goal is to: To move two disks on the desk to the shelf on the bottom right of the desk.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up disk, place disk on shelf, Find and pick up disk away from shelf, and place disk on shelf.
+Your task is to: find and pick up disk
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14), GarbageCan (1), Drawer (1, 2), DiningTable (1), Bed (1, 2).
+Think: First, I need to recall location of the disk.
+OK.
+Act: recall location of CD
+You have not seen CD before.
+Think: Now, I need to find the disk. The disk is more likely to appear on SideTable (1), DiningTable (1), Bed (1-2), or in Drawer (1-2). I can check each place one by one, starting from SideTable (1), until I find the disk.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Pencil (3), Mug (1), KeyChain (1), Drawer (1, 2), Bed (1, 2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Shelf (9), Pencil (1, 2), Mug (2), DiningTable (1), Chair (2), CD (3), AlarmClock (1). 
+Think: I find CD (3). Now, I need to pick it up.
+OK.
+Act: pick up CD (3)
+You pick up CD (3). You see Shelf (9), Pencil (1, 2), Mug (2), DiningTable (1), Chair (2), CD (3), AlarmClock (1). I am holding CD (3) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

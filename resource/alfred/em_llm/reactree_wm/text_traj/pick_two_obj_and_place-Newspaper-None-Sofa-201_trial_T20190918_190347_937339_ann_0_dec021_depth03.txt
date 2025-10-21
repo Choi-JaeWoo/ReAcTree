@@ -1,0 +1,13 @@
+Your primary goal is to: Move two newspapers to the sofa. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up newspaper, place newspaper on sofa, Find and pick up newspaper away from sofa, and place newspaper on sofa.
+Your task is to: place newspaper on sofa
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1, 2), GarbageCan (1), Drawer (1, 2), DiningTable (1, 2), CoffeeTable (1), ArmChair (1, 2). I am holding Newspaper (2) now.
+Think: I hold Newspaper (2). Now, I need to put it on the sofa. I can see Sofa (1).
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), RemoteControl (1), Pillow (1), Newspaper (1, 2), Laptop (1), Box (1).  I am holding Newspaper (2) now.
+Act: put down Newspaper (2)
+You put Newspaper (2) on Sofa (1). You see Sofa (1), RemoteControl (1), Pillow (1), Newspaper (1, 2), Laptop (1), Box (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

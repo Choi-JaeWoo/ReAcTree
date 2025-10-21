@@ -1,0 +1,13 @@
+Your primary goal is to: Put both green sponges on either side of the empty sink.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up green sponge, place green sponge on left side of sink, find and pick up green sponge, and place green sponge on right side of sink.
+Your task is to: place green sponge on right side of sink
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1, 2), HandTowelHolder (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1). I am holding DishSponge (1) now.
+Think: I hold DishSponge (1). Now, I need to put it on the right side of the sink. I can see SinkBasin (2).
+OK.
+Act: go to SinkBasin (2)
+You arrive at SinkBasin (2). You see ToiletPaper (2), SprayBottle (1, 2), SoapBar (1), Sink (2), SinkBasin (2), Mirror (1), Faucet (2), Drawer (1, 2, 3, 5, 6, 8), DishSponge (1), CounterTop (1).  I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put DishSponge (1) on SinkBasin (2). You see ToiletPaper (2), SprayBottle (1, 2), SoapBar (1), Sink (2), SinkBasin (2), Mirror (1), Faucet (2), Drawer (1, 2, 3, 5, 6, 8), DishSponge (1), CounterTop (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

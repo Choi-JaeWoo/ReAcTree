@@ -1,0 +1,23 @@
+Your primary goal is to: Place a pot with a pear in it in a fridge.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pot, place pear in pot, and place pot in fridge.
+Your task is to: find and pick up pot
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13).
+Think: First, I need to recall location of the pot.
+OK.
+Act: recall location of Pot
+You have not seen Pot before.
+Think: Now, I need to find the pot. The pot is more likely to appear on DiningTable (1), CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1-4). I can check each place one by one, starting from DiningTable (1), until I find the pot.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Statue (3), Spoon (1), Spatula (1), Mug (1), Lettuce (1, 2), Knife (2), Kettle (3), HousePlant (1), DishSponge (1), DiningTable (1), Cup (1), Book (1, 2). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Statue (2), Lettuce (3), Drawer (3), CounterTop (1), Cabinet (2), Bowl (1). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Toaster (1), StoveKnob (3, 4), StoveBurner (2, 3, 4), SaltShaker (2, 3), Kettle (2), Drawer (2), CounterTop (2), Cabinet (11). 
+Think: I find Pot (1). Now, I need to pick it up.
+OK.
+Act: pick up SaltShaker (2)
+You pick up SaltShaker (2). You see Toaster (1), StoveKnob (3, 4), StoveBurner (2, 3, 4), SaltShaker (2, 3), Kettle (2), CounterTop (2), Cabinet (11). I am holding SaltShaker (2) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

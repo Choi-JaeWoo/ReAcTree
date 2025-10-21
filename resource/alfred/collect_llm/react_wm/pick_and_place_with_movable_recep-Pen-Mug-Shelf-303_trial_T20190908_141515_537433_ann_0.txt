@@ -1,0 +1,111 @@
+Your task is to: Put a cup with a pencil in it on the shelf.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5), Desk (1), Bed (1).
+Think: To solve the task, I need to find and pick up the cup, then put it on the shelf. And I need to find and pick up the pencil, then put it in the cup on the shelf.
+OK.
+Think: First, I need to recall location of the cup.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the cup. The cup is more likely to appear on SideTable (1), or in Drawer (1-5), Dresser (1). I can check each place one by one, starting from SideTable (1), until I find the cup.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1), SideTable (1), Pencil (1), Drawer (1, 2, 5), Desk (1), DeskLamp (1), CreditCard (2), Chair (1), Book (2), Bed (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Vase (1), SideTable (1), Pencil (1), Drawer (1, 2, 5), Desk (1), DeskLamp (1), CreditCard (2), Chair (1), Book (2), Bed (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Vase (1), SideTable (1), Pencil (1), KeyChain (1), Drawer (1, 2), Desk (1), DeskLamp (1), CreditCard (2), Chair (1), Book (2), Bed (1).
+Act: close Drawer (1)
+You close Drawer (1). You see Vase (1), SideTable (1), Pencil (1), KeyChain (1), Drawer (1, 2, 5), Desk (1), DeskLamp (1), CreditCard (2), Chair (1), Book (2), Bed (1).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Vase (1), SideTable (1), Pencil (1), KeyChain (1), Drawer (1, 2, 5), Desk (1), DeskLamp (1), CreditCard (2), Chair (1), Book (2), Bed (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see Vase (1), SideTable (1), Pencil (1), Drawer (1, 2, 5), Desk (1), DeskLamp (1), CreditCard (2), Chair (1), Book (2), Bed (1).
+Act: close Drawer (2)
+You close Drawer (2). You see Vase (1), SideTable (1), Pencil (1), KeyChain (1), Drawer (1, 2, 5), Desk (1), DeskLamp (1), CreditCard (2), Chair (1), Book (2), Bed (1).
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Window (1), Pen (2, 3), Mug (1), Dresser (1), Drawer (3, 4), CellPhone (1), CD (2), Bed (1), AlarmClock (2). Drawer (3) is closed. 
+Act: open Drawer (3)
+You open Drawer (3). You see Shelf (12), Pen (1, 2, 3), Mug (1), Dresser (1), Drawer (3, 4), CellPhone (1), CD (2), Bed (1), AlarmClock (2).
+Act: close Drawer (3)
+You close Drawer (3). You see Shelf (12), Pen (2, 3), Mug (1), Dresser (1), Drawer (3, 4), CellPhone (1), CD (2), Bed (1), AlarmClock (2).
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Window (1), Poster (1), Pen (2, 3), Mug (1), Dresser (1), Drawer (3, 4), CellPhone (1), CD (2), Bed (1), AlarmClock (2). Drawer (4) is closed. 
+Act: open Drawer (4)
+You open Drawer (4). You see Window (1), Shelf (12), Pen (2, 3), Mug (1), Dresser (1), Drawer (4), CellPhone (1), CD (2), Bed (1), AlarmClock (2).
+Act: close Drawer (4)
+You close Drawer (4). You see Window (1), Shelf (12), Pen (2, 3), Mug (1), Dresser (1), Drawer (3, 4), CellPhone (1), CD (2), Bed (1), AlarmClock (2).
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Vase (1), SideTable (1), Pencil (1), KeyChain (1), Drawer (1, 2, 5), Desk (1), DeskLamp (1), CreditCard (2), Chair (1), Book (2), Bed (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+You open Drawer (5). You see Vase (1), SideTable (1), Pencil (1), Drawer (1, 2, 5), Desk (1), DeskLamp (1), CreditCard (2), Chair (1), CD (1), Book (2), Bed (1).
+Act: close Drawer (5)
+You close Drawer (5). You see Vase (1), SideTable (1), Pencil (1), KeyChain (1), Drawer (1, 2, 5), Desk (1), DeskLamp (1), CreditCard (2), Chair (1), Book (2), Bed (1).
+Act: go to Dresser (1)
+You arrive at Dresser (1). You see Window (1), Pen (2, 3), Mug (1), Dresser (1), Drawer (3, 4), CellPhone (1), CD (2), Bed (1), AlarmClock (2). 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: pick up Mug (1)
+You pick up Mug (1). You see Window (1), Pen (2, 3), Mug (1), Dresser (1), Drawer (3, 4), CellPhone (1), CD (2), Bed (1), AlarmClock (2). I am holding Mug (1) now.
+Think: I hold Mug (1). Now, I need to put it on the shelf.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TennisRacket (1), Shelf (1, 4, 6, 7, 8, 9, 10, 11, 12), Mug (1), CreditCard (1).  I am holding Mug (1) now.
+Act: put down Mug (1)
+You put down failed, drop it. You see TennisRacket (1), Shelf (1, 4, 6, 7, 8, 9, 10, 11, 12), Pen (4), CreditCard (1).
+Think: I put Mug (1) on the Shelf (1). Now, I need to recall location of the pencil.
+OK.
+Act: recall location of Pencil
+You saw Pencil (1) near Drawer (5).
+Think: Pencil (1) is on the Drawer (5). Now, I need to pick up Pencil (1).
+OK.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Vase (1), SideTable (1), Pencil (1), KeyChain (1), Drawer (1, 2, 5), Desk (1), DeskLamp (1), CreditCard (2), Chair (1), Book (2), Bed (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+You open Drawer (5). You see Vase (1), SideTable (1), Pencil (1), Drawer (1, 2, 5), Desk (1), DeskLamp (1), CreditCard (2), Chair (1), CD (1), Book (2), Bed (1).
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see Vase (1), SideTable (1), Pencil (1), Drawer (1, 2, 5), Desk (1), DeskLamp (1), CreditCard (2), Chair (1), CD (1), Book (2), Bed (1). I am holding Pencil (1) now.
+Think: I hold Pencil (1). Now, I need to recall location of the cup.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the cup. The cup is more likely to appear on SideTable (1), or in Drawer (1-5), Dresser (1). I can check each place one by one, starting from SideTable (1), until I find the cup.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1), SideTable (1), Pencil (1), Drawer (1, 2, 5), Desk (1), DeskLamp (1), CreditCard (2), Chair (1), CD (1), Book (2), Bed (1).  I am holding Pencil (1) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Vase (1), SideTable (1), Pencil (1), Drawer (1, 2, 5), Desk (1), DeskLamp (1), CreditCard (2), Chair (1), CD (1), Book (2), Bed (1). Drawer (1) is closed.  I am holding Pencil (1) now.
+Act: open Drawer (1)
+You open Drawer (1). You see Vase (1), SideTable (1), Pencil (1), Drawer (1, 2, 5), Desk (1), DeskLamp (1), CreditCard (2), Chair (1), Book (2), Bed (1). I am holding Pencil (1) now.
+Act: close Drawer (1)
+You close Drawer (1). You see Vase (1), SideTable (1), Pencil (1), Drawer (1, 2, 5), Desk (1), DeskLamp (1), CreditCard (2), Chair (1), CD (1), Book (2), Bed (1). I am holding Pencil (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Vase (1), SideTable (1), Pencil (1), Drawer (1, 2, 5), Desk (1), DeskLamp (1), CreditCard (2), Chair (1), CD (1), Book (2), Bed (1). Drawer (2) is closed.  I am holding Pencil (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Vase (1), SideTable (1), Pencil (1), Drawer (1, 2, 5), Desk (1), DeskLamp (1), CreditCard (2), Chair (1), Book (2), Bed (1). I am holding Pencil (1) now.
+Act: close Drawer (2)
+You close Drawer (2). You see Vase (1), SideTable (1), Pencil (1), Drawer (1, 2, 5), Desk (1), DeskLamp (1), CreditCard (2), Chair (1), CD (1), Book (2), Bed (1). I am holding Pencil (1) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Window (1), Pencil (1), Pen (2, 3), Dresser (1), Drawer (3, 4), CellPhone (1), CD (2), Bed (1), AlarmClock (2). Drawer (3) is closed.  I am holding Pencil (1) now.
+Act: open Drawer (3)
+You open Drawer (3). You see Shelf (12), Pencil (1), Pen (1, 2, 3), Dresser (1), Drawer (3, 4), CellPhone (1), CD (2), Bed (1), AlarmClock (2). I am holding Pencil (1) now.
+Act: close Drawer (3)
+You close Drawer (3). You see Shelf (12), Pencil (1), Pen (2, 3), Dresser (1), Drawer (3, 4), CellPhone (1), CD (2), Bed (1), AlarmClock (2). I am holding Pencil (1) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Window (1), Poster (1), Pencil (1), Pen (2, 3), Dresser (1), Drawer (3, 4), CellPhone (1), CD (2), Bed (1), AlarmClock (2). Drawer (4) is closed.  I am holding Pencil (1) now.
+Act: open Drawer (4)
+You open Drawer (4). You see Window (1), Shelf (12), Pencil (1), Pen (2, 3), Dresser (1), Drawer (4), CellPhone (1), CD (2), Bed (1), AlarmClock (2). I am holding Pencil (1) now.
+Act: close Drawer (4)
+You close Drawer (4). You see Window (1), Shelf (12), Pencil (1), Pen (2, 3), Dresser (1), Drawer (3, 4), CellPhone (1), CD (2), Bed (1), AlarmClock (2). I am holding Pencil (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Vase (1), SideTable (1), Pencil (1), Drawer (1, 2, 5), Desk (1), DeskLamp (1), CreditCard (2), Chair (1), CD (1), Book (2), Bed (1). Drawer (5) is open.  I am holding Pencil (1) now.
+Act: go to Dresser (1)
+You arrive at Dresser (1). You see Window (1), Pencil (1), Pen (2, 3), Dresser (1), Drawer (3, 4), CellPhone (1), CD (2), Bed (1), AlarmClock (2).  I am holding Pencil (1) now.
+Think: I find Cup (1). Now, I need to put Pencil (1) in it.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Window (1, 1), TennisRacket (1), Shelf (1, 4, 6, 7, 8, 9, 10, 12), Pencil (1, 1, 1), Pen (2, 2, 3, 3, 4), Dresser (1, 1), Drawer (3, 3, 4, 4), CreditCard (1), CellPhone (1, 1), CD (2, 2), Bed (1, 1), AlarmClock (2, 2).  I am holding Pencil (1) now.
+Act: put down Pencil (1)
+You put Pencil (1) on Shelf (1). You see TennisRacket (1), Shelf (1, 4, 6, 7, 8, 9, 10, 12), Pencil (1), Pen (4), CreditCard (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

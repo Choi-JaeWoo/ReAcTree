@@ -1,0 +1,49 @@
+Your task is to: Heat up an egg in the microwave to put back in the sink.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: To solve the task, I need to find and pick up the egg, then put it in the microwave. And I need to turn on and off the microwave. And I need to pick up the egg from the microwave, then put it in the sink basin.
+OK.
+Think: First, I need to recall location of the egg.
+OK.
+Act: recall location of Egg
+You have not seen Egg before.
+Think: Now I need to find the egg. The egg is more likely to appear on CounterTop (1), SinkBasin (1) or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the egg.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (1), Lettuce (2), Kettle (2), CounterTop (1), Bread (1), Bowl (2), Apple (2). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (2), Spoon (2, 3), Sink (1), SinkBasin (1), Knife (3), HousePlant (1), Fork (1), Faucet (1), Egg (4), Drawer (2, 4), CounterTop (1). 
+Think: I find Egg (4). Now, I need to pick it up.
+OK.
+Act: pick up Egg (4)
+You pick up Egg (4). You see Tomato (2), Spoon (2, 3), Sink (1), SinkBasin (1), Knife (3), HousePlant (1), Fork (1), Faucet (1), Egg (4), Drawer (2, 4), CounterTop (1). I am holding Egg (4) now.
+Think: I hold Egg (4). Now, I need to put it in the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see SoapBottle (3), SideTable (1), PepperShaker (1), PaperTowelRoll (1), Microwave (1), Fridge (1), Egg (4). Microwave (1) is closed.  I am holding Egg (4) now.
+Act: open Microwave (1)
+You open Microwave (1). You see SideTable (1), Microwave (1), Fridge (1), Egg (4), Bowl (1). I am holding Egg (4) now.
+Act: put down Egg (4)
+You put Egg (4) on Microwave (1). You see SideTable (1), Microwave (1), Fridge (1), Egg (4), Bowl (1).
+Act: close Microwave (1)
+You close Microwave (1). You see SoapBottle (3), SideTable (1), PepperShaker (1), PaperTowelRoll (1), Microwave (1), Fridge (1).
+Think: I put Egg (4) in Microwave (1). Now, I need to turn on and off Microwave (1).
+OK.
+Act: turn on Microwave (1)
+You turn on Microwave (1). You see SoapBottle (3), SideTable (1), PepperShaker (1), PaperTowelRoll (1), Microwave (1), Fridge (1).
+Act: turn off Microwave (1)
+You turn off Microwave (1). You see SoapBottle (3), SideTable (1), PepperShaker (1), PaperTowelRoll (1), Microwave (1), Fridge (1).
+Think: Now, I need to pick up the egg from the microwave.
+OK.
+Act: open Microwave (1)
+You open Microwave (1). You see SideTable (1), Microwave (1), Fridge (1), Egg (4), Bowl (1).
+Act: pick up Egg (4)
+You pick up Egg (4). You see SideTable (1), Microwave (1), Fridge (1), Egg (4), Bowl (1). I am holding Egg (4) now.
+Think: I pick up Egg (4) from Microwave (1). Now, I need to put it in the sink basin.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (2), Spoon (2, 3), Sink (1), SinkBasin (1), Knife (3), HousePlant (1), Fork (1), Faucet (1), Egg (4), Drawer (2, 4), CounterTop (1).  I am holding Egg (4) now.
+Act: put down Egg (4)
+You put Egg (4) on SinkBasin (1). You see Tomato (2), Spoon (2, 3), Sink (1), SinkBasin (1), Knife (3), HousePlant (1), Fork (1), Faucet (1), Egg (4), Drawer (2, 4), CounterTop (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

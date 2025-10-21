@@ -1,0 +1,173 @@
+Your primary goal is to: Put a bowl with a credit card down on a table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up bowl, place credit card in bowl, and place bowl on table.
+Your task is to: place bowl on table
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1, 2), GarbageCan (1), Drawer (1, 2), DiningTable (1, 2), CoffeeTable (1), ArmChair (1, 2).
+Think: I hold Bowl (1). Now, I need to put it on the table. I can see DiningTable (1).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Book (1). 
+Act: recall location of CreditCard
+You saw CreditCard (1) near CoffeeTable (1).
+Think: I can find CreditCard (1) in CoffeeTable (1).
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (1), TissueBox (1, 2), Sofa (1), RemoteControl (1), Plate (1, 2), Newspaper (1, 2), CreditCard (1), CoffeeTable (1), Bowl (1). 
+Act: pick up CreditCard (1)
+
+Think: I hold CreditCard (1). Now, I need to put it in the bowl. I can see Bowl (1).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Book (1). 
+Act: recall location of Bowl
+You saw Bowl (1) near CoffeeTable (1).
+Think: I can find Bowl (1) in CoffeeTable (1).
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (1), TissueBox (1, 2), Sofa (1), RemoteControl (1), Plate (1, 2), Newspaper (1, 2), CreditCard (1), CoffeeTable (1), Bowl (1). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Watch (1), TissueBox (1, 2), Sofa (1), RemoteControl (1), Plate (1, 2), Newspaper (1, 2), CreditCard (1), CoffeeTable (1), Bowl (1). 
+Act: recall location of CreditCard
+You saw CreditCard (1) near CoffeeTable (1).
+Think: I can find CreditCard (1) in CoffeeTable (1).
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (1), TissueBox (1, 2), Sofa (1), RemoteControl (1), Plate (1, 2), Newspaper (1, 2), CreditCard (1), CoffeeTable (1), Bowl (1). 
+Act: pick up CreditCard (1)
+
+Think: I hold CreditCard (1). Now, I need to put it in the bowl. I can see Bowl (1).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Book (1). 
+Act: recall location of Bowl
+You saw Bowl (1) near CoffeeTable (1).
+Think: I can find Bowl (1) in CoffeeTable (1).
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (1), TissueBox (1, 2), Sofa (1), RemoteControl (1), Plate (1, 2), Newspaper (1, 2), CreditCard (1), CoffeeTable (1), Bowl (1). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Watch (1), TissueBox (1, 2), Sofa (1), RemoteControl (1), Plate (1, 2), Newspaper (1, 2), CreditCard (1), CoffeeTable (1), Bowl (1). 
+Act: recall location of CreditCard
+You saw CreditCard (1) near CoffeeTable (1).
+Think: I can find CreditCard (1) in CoffeeTable (1).
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (1), TissueBox (1, 2), Sofa (1), RemoteControl (1), Plate (1, 2), Newspaper (1, 2), CreditCard (1), CoffeeTable (1), Bowl (1). 
+Act: pick up CreditCard (1)
+
+Think: I hold CreditCard (1). Now, I need to put it in the bowl. I can see Bowl (1).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Book (1). 
+Act: recall location of Bowl
+You saw Bowl (1) near CoffeeTable (1).
+Think: I can find Bowl (1) in CoffeeTable (1).
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (1), TissueBox (1, 2), Sofa (1), RemoteControl (1), Plate (1, 2), Newspaper (1, 2), CreditCard (1), CoffeeTable (1), Bowl (1). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Watch (1), TissueBox (1, 2), Sofa (1), RemoteControl (1), Plate (1, 2), Newspaper (1, 2), CreditCard (1), CoffeeTable (1), Bowl (1). 
+Act: recall location of CreditCard
+You saw CreditCard (1) near CoffeeTable (1).
+Think: I can find CreditCard (1) in CoffeeTable (1).
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (1), TissueBox (1, 2), Sofa (1), RemoteControl (1), Plate (1, 2), Newspaper (1, 2), CreditCard (1), CoffeeTable (1), Bowl (1). 
+Act: pick up CreditCard (1)
+
+Think: I hold CreditCard (1). Now, I need to put it in the bowl. I can see Bowl (1).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Book (1). 
+Act: recall location of Bowl
+You saw Bowl (1) near CoffeeTable (1).
+Think: I can find Bowl (1) in CoffeeTable (1).
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (1), TissueBox (1, 2), Sofa (1), RemoteControl (1), Plate (1, 2), Newspaper (1, 2), CreditCard (1), CoffeeTable (1), Bowl (1). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Watch (1), TissueBox (1, 2), Sofa (1), RemoteControl (1), Plate (1, 2), Newspaper (1, 2), CreditCard (1), CoffeeTable (1), Bowl (1). 
+Act: recall location of CreditCard
+You saw CreditCard (1) near CoffeeTable (1).
+Think: I can find CreditCard (1) in CoffeeTable (1).
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (1), TissueBox (1, 2), Sofa (1), RemoteControl (1), Plate (1, 2), Newspaper (1, 2), CreditCard (1), CoffeeTable (1), Bowl (1). 
+Act: pick up CreditCard (1)
+
+Think: I hold CreditCard (1). Now, I need to put it in the bowl. I can see Bowl (1).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Book (1). 
+Act: recall location of Bowl
+You saw Bowl (1) near CoffeeTable (1).
+Think: I can find Bowl (1) in CoffeeTable (1).
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (1), TissueBox (1, 2), Sofa (1), RemoteControl (1), Plate (1, 2), Newspaper (1, 2), CreditCard (1), CoffeeTable (1), Bowl (1). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Watch (1), TissueBox (1, 2), Sofa (1), RemoteControl (1), Plate (1, 2), Newspaper (1, 2), CreditCard (1), CoffeeTable (1), Bowl (1). 
+Act: recall location of CreditCard
+You saw CreditCard (1) near CoffeeTable (1).
+Think: I can find CreditCard (1) in CoffeeTable (1).
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (1), TissueBox (1, 2), Sofa (1), RemoteControl (1), Plate (1, 2), Newspaper (1, 2), CreditCard (1), CoffeeTable (1), Bowl (1). 
+Act: pick up CreditCard (1)
+
+Think: I hold CreditCard (1). Now, I need to put it in the bowl. I can see Bowl (1).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Book (1). 
+Act: recall location of Bowl
+You saw Bowl (1) near CoffeeTable (1).
+Think: I can find Bowl (1) in CoffeeTable (1).
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (1), TissueBox (1, 2), Sofa (1), RemoteControl (1), Plate (1, 2), Newspaper (1, 2), CreditCard (1), CoffeeTable (1), Bowl (1). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Watch (1), TissueBox (1, 2), Sofa (1), RemoteControl (1), Plate (1, 2), Newspaper (1, 2), CreditCard (1), CoffeeTable (1), Bowl (1). 
+Act: recall location of CreditCard
+You saw CreditCard (1) near CoffeeTable (1).
+Think: I can find CreditCard (1) in CoffeeTable (1).
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (1), TissueBox (1, 2), Sofa (1), RemoteControl (1), Plate (1, 2), Newspaper (1, 2), CreditCard (1), CoffeeTable (1), Bowl (1). 
+Act: pick up CreditCard (1)
+
+Think: I hold CreditCard (1). Now, I need to put it in the bowl. I can see Bowl (1).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Book (1). 
+Act: recall location of Bowl
+You saw Bowl (1) near CoffeeTable (1).
+Think: I can find Bowl (1) in CoffeeTable (1).
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (1), TissueBox (1, 2), Sofa (1), RemoteControl (1), Plate (1, 2), Newspaper (1, 2), CreditCard (1), CoffeeTable (1), Bowl (1). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Watch (1), TissueBox (1, 2), Sofa (1), RemoteControl (1), Plate (1, 2), Newspaper (1, 2), CreditCard (1), CoffeeTable (1), Bowl (1). 
+Act: recall location of CreditCard
+You saw CreditCard (1) near CoffeeTable (1).
+Think: I can find CreditCard (1) in CoffeeTable (1).
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (1), TissueBox (1, 2), Sofa (1), RemoteControl (1), Plate (1, 2), Newspaper (1, 2), CreditCard (1), CoffeeTable (1), Bowl (1). 
+Act: pick up CreditCard (1)
+
+Think: I hold CreditCard (1). Now, I need to put it in the bowl. I can see Bowl (1).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Book (1). 
+Act: recall location of Bowl
+You saw Bowl (1) near CoffeeTable (1).
+Think: I can find Bowl (1) in CoffeeTable (1).
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (1), TissueBox (1, 2), Sofa (1), RemoteControl (1), Plate (1, 2), Newspaper (1, 2), CreditCard (1), CoffeeTable (1), Bowl (1). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Watch (1), TissueBox (1, 2), Sofa (1), RemoteControl (1), Plate (1, 2), Newspaper (1, 2), CreditCard (1), CoffeeTable (1), Bowl (1). 
+Act: recall location of CreditCard
+You saw CreditCard (1) near CoffeeTable (1).
+Think: I can find CreditCard (1) in CoffeeTable (1).
+OK.
+Max decisions

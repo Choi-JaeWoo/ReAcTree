@@ -1,0 +1,19 @@
+Your primary goal is to: Move a chilled slice of apple to the table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up apple, cool and pick up apple, and place apple on table..
+Your task is to: find and pick up apple
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12).
+Think: First, I need to recall location of the apple.
+OK.
+Act: recall location of Apple
+You have not seen Apple before.
+Think: Now, I need to find the apple. The apple is more likely to appear on DiningTable (1), CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-12), Drawer (1-3). I can check each place one by one, starting from DiningTable (1), until I find the apple.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see SaltShaker (1), Plate (1), PepperShaker (1), Mug (3), Knife (2), Fork (1), DishSponge (1), DiningTable (1), Chair (1), ButterKnife (2), Bread (1), Apple (4). 
+Think: I find Apple (4). Now, I need to pick it up.
+OK.
+Act: pick up Apple (4)
+You pick up Apple (4). You see SaltShaker (1), Plate (1), PepperShaker (1), Mug (3), Knife (2), Fork (1), DishSponge (1), DiningTable (1), Chair (1), ButterKnife (2), Bread (1), Apple (4). I am holding Apple (4) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

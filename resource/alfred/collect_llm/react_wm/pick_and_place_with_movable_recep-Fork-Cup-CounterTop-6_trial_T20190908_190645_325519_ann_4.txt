@@ -1,0 +1,105 @@
+Your task is to: Put a glass with a metal fork inside of it on the counter.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), CounterTop (1, 2, 3, 4), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15).
+Think: To solve the task, I need to find and pick up the glass, then put it on the counter. And I need to find and pick up the fork, then put it in the glass.
+OK.
+Think: First, I need to recall location of the glass.
+OK.
+Act: recall location of Glassbottle
+You have not seen Glassbottle before.
+Think: Now I need to find the glass. The glass is more likely to appear on CounterTop (1-4), Sink (1), or in Fridge (1), Microwave (1), Cabinet (1-15), Drawer (1-4). I can check each place one by one, starting from CounterTop (1), until I find the glass.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (2), StoveKnob (3), StoveBurner (2, 3), SaltShaker (1), Potato (1), Pot (1), PaperTowelRoll (1), GarbageCan (1), CounterTop (1). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Tomato (1), Spatula (2), PepperShaker (2), Lettuce (1), Kettle (1), Fork (1), CounterTop (2), Bread (2), Apple (2). 
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Mug (1, 2), CounterTop (3), CoffeeMachine (1). 
+Act: go to CounterTop (4)
+You arrive at CounterTop (4). You see Chair (1), Cabinet (2, 3). 
+Act: go to Sink (1)
+You arrive at Sink (1). You see Window (1), Spatula (1), Sink (1), SinkBasin (1), Faucet (1), CounterTop (3), ButterKnife (2). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1). Fridge (1) is closed. 
+Act: open Fridge (1)
+You open Fridge (1). You see Tomato (2), Fridge (1), Cabinet (12), Apple (1).
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Toaster (1), Microwave (1), Chair (1). Microwave (1) is closed. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Pot (2), Drawer (2, 3, 4), CounterTop (4), Cabinet (1, 2, 3, 12), Bread (3). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see Pot (2), Drawer (2, 3, 4), CounterTop (4), Cabinet (1, 2, 3, 12), Bread (3).
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Toaster (1), SaltShaker (2), Potato (2), Pan (2), Microwave (1), Drawer (1, 3), CounterTop (4), Chair (1), Cabinet (2, 3), Bread (1). Cabinet (2) is closed. 
+Act: open Cabinet (2)
+You open Cabinet (2). You see Toaster (1), SaltShaker (2), Pan (2), Drawer (1, 3), CounterTop (4), Chair (1), Cabinet (2, 3), Bread (1).
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see Pot (2), Drawer (1, 2, 3), CounterTop (4), Cabinet (1, 2, 3, 12), Bread (1, 3). Cabinet (3) is closed. 
+Act: open Cabinet (3)
+The Cabinet (3) is open failed.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see Window (2), Cabinet (4). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+You open Cabinet (4). You see Window (2), SoapBottle (3), Cabinet (4).
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Window (1), Cabinet (5). Cabinet (5) is closed. 
+Act: open Cabinet (5)
+You open Cabinet (5). You see Cabinet (5).
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Cabinet (6, 8). Cabinet (6) is closed. 
+Act: open Cabinet (6)
+The Cabinet (6) is open failed.
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Cabinet (7, 11). Cabinet (7) is closed. 
+Act: open Cabinet (7)
+You open Cabinet (7). You see Cabinet (7, 11).
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Cabinet (6, 8). Cabinet (8) is closed. 
+Act: open Cabinet (8)
+The Cabinet (8) is open failed.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Cabinet (9, 13). Cabinet (9) is closed. 
+Act: open Cabinet (9)
+You open Cabinet (9). You see Cabinet (9, 13).
+Act: go to Cabinet (10)
+You arrive at Cabinet (10). You see Cabinet (10). Cabinet (10) is closed. 
+Act: open Cabinet (10)
+You open Cabinet (10). You see Cabinet (10).
+Act: go to Cabinet (11)
+You arrive at Cabinet (11). You see Cabinet (7, 10). Cabinet (11) is closed. 
+Act: open Cabinet (11)
+The Cabinet (11) is not close to you.
+Act: go to Cabinet (12)
+You arrive at Cabinet (12). You see Fridge (1), Drawer (2, 4), CounterTop (4), Cabinet (1, 12), Apple (1). Cabinet (12) is closed. 
+Act: open Cabinet (12)
+You open Cabinet (12). You see Fridge (1), Drawer (2, 4), Cup (1), CounterTop (4), Cabinet (1, 12), Apple (1).
+Think: I find Glassbottle (1). Now, I need to pick it up.
+OK.
+Act: pick up Cup (1)
+You pick up Cup (1). You see Fridge (1), Drawer (2, 4), Cup (1), CounterTop (4), Cabinet (1, 12), Apple (1). I am holding Cup (1) now.
+Think: I hold Cup (1). Now, I need to put it on the counter.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (2), StoveKnob (1, 2, 3), StoveBurner (1, 2, 3, 4), SaltShaker (1), Potato (1), Pot (1), PaperTowelRoll (1), Pan (1), GarbageCan (1), Fridge (1), Drawer (2, 4), Cup (1, 1), CounterTop (1, 4), Cabinet (1, 12), Apple (1).  I am holding Cup (1) now.
+Act: put down Cup (1)
+You put Cup (1) on CounterTop (1). You see Window (2), StoveKnob (1, 2, 3), StoveBurner (1, 2, 3, 4), SaltShaker (1), Potato (1), Pot (1), PaperTowelRoll (1), Pan (1), GarbageCan (1), Cup (1), CounterTop (1).
+Think: I put Cup (1) on CounterTop (1). Now, I need to recall location of the fork.
+OK.
+Act: recall location of Fork
+You saw Fork (1) near CounterTop (2).
+Think: Fork (1) is near CounterTop (2). Now, I need to pick it up.
+OK.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Tomato (1), Spatula (2), PepperShaker (2), Lettuce (1), Kettle (1), Fork (1), CounterTop (2), Bread (2), Apple (2). 
+Act: pick up Fork (1)
+You pick up Fork (1). You see Tomato (1), Spatula (2), PepperShaker (2), Lettuce (1), Kettle (1), Fork (1), CounterTop (2), Bread (2), Apple (2). I am holding Fork (1) now.
+Think: I hold Fork (1). Now, I need to put it in the glass.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (2), Tomato (1), StoveKnob (1, 2, 3), StoveBurner (1, 2, 3, 4), Spatula (2), SaltShaker (1), Potato (1), Pot (1), PepperShaker (2), PaperTowelRoll (1), Pan (1), Lettuce (1), Kettle (1), GarbageCan (1), Fork (1, 1), Cup (1), CounterTop (1, 2), Bread (2), Apple (2).  I am holding Fork (1) now.
+Act: go to Cup (1)
+You arrive at Cup (1). You see Window (2), StoveKnob (1, 2, 3, 3), StoveBurner (1, 1, 2, 2, 3, 3, 4, 4), SaltShaker (1, 1), Potato (1, 1), Pot (1, 1), PaperTowelRoll (1, 1), Pan (1, 1), GarbageCan (1, 1), Fork (1, 1), Cup (1, 1), CounterTop (1, 1, 3).  I am holding Fork (1) now.
+Act: put down Fork (1)
+You put Fork (1) on Cup (1). You see StoveKnob (3), StoveBurner (1, 2, 3, 4), SaltShaker (1), Potato (1), Pot (1), PaperTowelRoll (1), Pan (1), GarbageCan (1), Fork (1), Cup (1), CounterTop (1, 3).
+Think: Now I accomplish the goal.
+OK.
+Act: done

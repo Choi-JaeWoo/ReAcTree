@@ -1,0 +1,35 @@
+Your task is to: Place a heated plate on a table.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11).
+Think: To solve the task, I need to find and pick up the plate, then put it on the stove burner. And I need to pick up the plate from the stove burner, then put it on the table.
+OK.
+Think: First, I need to recall location of the plate.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now I need to find the plate. The plate is more likely to appear on DiningTable (1-2), CounterTop (1-2), SinkBasin (1) or in Fridge (1), Microwave (1), Cabinet (1-11), Drawer (1-3). I can check each place one by one, starting from DiningTable (1-2), until I find the plate.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see SaltShaker (1), Pot (2), Plate (1, 3), Pan (1), Egg (2), DiningTable (1). 
+Think: I find Plate (1). Now, I need to pick it up.
+OK.
+Act: pick up Plate (1)
+You pick up Plate (1). You see SaltShaker (1), Pot (2), Plate (1, 3), Pan (1), Egg (2), DiningTable (1). I am holding Plate (1) now.
+Think: I hold Plate (1). Now, I need to put it on the stove burner.
+OK.
+Act: go to StoveBurner (1)
+You arrive at StoveBurner (1). You see StoveKnob (1, 2), StoveBurner (2, 3, 4), Plate (1), PepperShaker (1), Pan (2), Fork (1), Drawer (2), CounterTop (1, 2).  I am holding Plate (1) now.
+Act: put down Plate (1)
+You put down failed, drop it. You see StoveKnob (1, 2), StoveBurner (2, 3, 4), Plate (1), PepperShaker (1), Pan (2), Fork (1), Drawer (2), CounterTop (1, 2).
+Think: I put Plate (1) on StoveBurner (1). Now, I need to pick up the plate from the stove burner.
+OK.
+Act: pick up Plate (1)
+You pick up Plate (1). You see StoveKnob (1, 2), StoveBurner (2, 3, 4), Plate (1), PepperShaker (1), Pan (2), Fork (1), Drawer (2), CounterTop (1, 2). I am holding Plate (1) now.
+Think: I pick up Plate (1) from StoveBurner (1). Now, I need to put it on the table.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see SaltShaker (1), Pot (2), Plate (1, 3), Pan (1), Egg (2), DiningTable (1).  I am holding Plate (1) now.
+Act: put down Plate (1)
+You put Plate (1) on DiningTable (1). You see SaltShaker (1), Pot (2), Plate (1, 3), Pan (1), Egg (2), DiningTable (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,39 @@
+Your primary goal is to: Put a warm egg in the sink.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up egg, heat and pick up egg, and place egg in sink.
+Your task is to: heat and pick up egg
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13). I am holding Bowl (1) now.
+Think: I hold Bowl (1). Now, I need to heat it using the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Sink (1), SaltShaker (1), Potato (1), Microwave (1), Fridge (1), Fork (1), Drawer (1), CounterTop (1), Cabinet (3, 12, 13), Bowl (1). Microwave (1) is closed.  I am holding Bowl (1) now.
+Act: open Microwave (1)
+You open Microwave (1). You see Microwave (1), Fridge (1), Drawer (1), Cabinet (3), Bowl (1). I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put down failed, drop it. You see Microwave (1), Fridge (1), Drawer (1), Cabinet (3).
+Act: close Microwave (1)
+You close Microwave (1). You see SaltShaker (1), Microwave (1), Fridge (1), Drawer (1), Cabinet (3).
+Act: turn on Microwave (1)
+You turn on Microwave (1). You see SaltShaker (1), Microwave (1), Fridge (1), Drawer (1), Cabinet (3).
+Act: turn off Microwave (1)
+You turn off Microwave (1). You see SaltShaker (1), Microwave (1), Fridge (1), Drawer (1), Cabinet (3).
+Think: I heat Bowl (1) using Microwave (1). Now, I need to pick up the bowl from the microwave.
+OK.
+Act: open Microwave (1)
+You open Microwave (1). You see Microwave (1), Fridge (1), Drawer (1), Cabinet (3).
+Act: recall location of Bowl
+You dropped Bowl due to fail to put it on the receptacle. You need to find it again.
+Think: Now, I need to find the bowl. The bowl is more likely to appear on DiningTable (1), CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1). I can check each place one by one, starting from DiningTable (1), until I find the bowl.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (1), Plate (1), Ladle (1), Knife (3), DishSponge (1), DiningTable (1), ButterKnife (2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), Spatula (1, 2), Sink (1), SinkBasin (1), Knife (1), Fork (1), Faucet (1), Egg (2, 3), CounterTop (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Spatula (1, 2), Sink (1), SinkBasin (1), Microwave (1), Knife (1), Fork (1), Faucet (1), Egg (2, 3), Drawer (1), CounterTop (1), Cabinet (10). 
+Think: I find Bowl (1). Now, I need to pick it up.
+OK.
+Act: pick up Egg (2)
+You pick up Egg (2). You see Spatula (1, 2), Sink (1), SinkBasin (1), Microwave (1), Knife (1), Fork (1), Faucet (1), Egg (2, 3), Drawer (1), CounterTop (1), Cabinet (10). I am holding Egg (2) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

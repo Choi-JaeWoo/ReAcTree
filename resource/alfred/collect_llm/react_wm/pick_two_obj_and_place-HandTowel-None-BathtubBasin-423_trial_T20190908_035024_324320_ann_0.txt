@@ -1,0 +1,112 @@
+Your task is to: Place two towels in a bath tub.
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1, 2), HandTowelHolder (1, 2, 3, 4), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1, 2), Bathtub (1), BathtubBasin (1).
+Think: To solve the task, I need to find and pick up two towels, then put them in the bath tub.
+OK.
+Think: First, I need to recall location of the towels.
+OK.
+Act: recall location of HandTowel
+You have not seen HandTowel before.
+Think: Now I need to find the towels. The towels are more likely to appear on CounterTop (1-2), BathtubBasin (1), SinkBasin (1-2), or in Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the towels.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see SprayBottle (1), Sink (2), SinkBasin (2), ShowerGlass (1), Mirror (1, 2), HandTowel (2), Faucet (2), Drawer (3, 5, 7, 8), CounterTop (1), Cloth (1), Candle (2). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see SoapBar (1), Sink (1), SinkBasin (1), Faucet (3), Drawer (1, 2), CounterTop (2). 
+Act: go to SinkBasin (2)
+You arrive at SinkBasin (2). You see SprayBottle (1), Sink (2), SinkBasin (2), ShowerGlass (1), ShowerDoor (1), Mirror (1, 2), HandTowel (2), Faucet (2), Drawer (3, 5, 7, 8), CounterTop (1), Cloth (1), Candle (2). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SoapBar (1), Sink (1), SinkBasin (1), GarbageCan (1), Faucet (3), Drawer (1, 2), CounterTop (2). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see SoapBar (1), Sink (1), SinkBasin (1), GarbageCan (1), Faucet (3), Drawer (1, 2), CounterTop (2).
+Act: close Drawer (1)
+You close Drawer (1). You see SoapBar (1), Sink (1), SinkBasin (1), GarbageCan (1), Faucet (3), Drawer (1, 2), CounterTop (2).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Sink (1), SinkBasin (1), Faucet (3), Drawer (1, 2), CounterTop (2), Bathtub (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see Sink (1), SinkBasin (1), Faucet (3), Drawer (2), CounterTop (2), Bathtub (1), BathtubBasin (1).
+Act: close Drawer (2)
+You close Drawer (2). You see Sink (1), SinkBasin (1), Faucet (3), Drawer (1, 2), CounterTop (2), Bathtub (1), BathtubBasin (1).
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see SoapBottle (1), Sink (2), SinkBasin (2), Mirror (1, 2), HandTowel (1), Drawer (3, 4, 5, 6, 7, 8), CounterTop (1), Cloth (1), Candle (2). Drawer (3) is closed. 
+Act: open Drawer (3)
+You open Drawer (3). You see SoapBottle (1), Sink (2), SinkBasin (2), Mirror (1, 2), Faucet (2), Drawer (3, 4, 6, 7, 8), CounterTop (1), Cloth (1), Candle (2).
+Act: close Drawer (3)
+You close Drawer (3). You see SoapBottle (1), Sink (2), SinkBasin (2), Mirror (1, 2), Faucet (2), Drawer (3, 4, 5, 6, 7, 8), CounterTop (1), Cloth (1), Candle (2).
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see SoapBottle (1), Mirror (2), HandTowel (1), Drawer (3, 4, 5, 6, 7), CounterTop (1), Cloth (1). Drawer (4) is closed. 
+Act: open Drawer (4)
+You open Drawer (4). You see SoapBottle (1), Mirror (2), LightSwitch (1), Drawer (3, 4, 5, 7), CounterTop (1), Cloth (1), Candle (2).
+Act: close Drawer (4)
+You close Drawer (4). You see SoapBottle (1), Mirror (2), LightSwitch (1), Drawer (3, 4, 5, 6, 7), CounterTop (1), Cloth (1), Candle (2).
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see SoapBottle (1), Sink (2), SinkBasin (2), Mirror (1, 2), Drawer (3, 4, 5, 6, 7, 8), CounterTop (1), Cloth (1), Candle (2). Drawer (5) is closed. 
+Act: open Drawer (5)
+You open Drawer (5). You see SoapBottle (1), Sink (2), SinkBasin (2), Drawer (3, 4, 5, 6, 7, 8), CounterTop (1), Cloth (1), Candle (2).
+Act: close Drawer (5)
+You close Drawer (5). You see SoapBottle (1), Sink (2), SinkBasin (2), Drawer (3, 4, 5, 6, 7, 8), CounterTop (1), Cloth (1), Candle (2).
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see SoapBottle (1), Mirror (2), Drawer (3, 4, 5, 6, 7), CounterTop (1), Cloth (1). Drawer (6) is closed. 
+Act: open Drawer (6)
+You open Drawer (6). You see SoapBottle (1), LightSwitch (1), Drawer (3, 4, 5, 6, 7), CounterTop (1), Cloth (1), Candle (2).
+Act: close Drawer (6)
+You close Drawer (6). You see SoapBottle (1), LightSwitch (1), Drawer (3, 4, 5, 6, 7), CounterTop (1), Cloth (1), Candle (2).
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see SprayBottle (1), Sink (2), SinkBasin (2), Mirror (1, 2), Faucet (2), Drawer (3, 4, 5, 6, 7, 8), CounterTop (1), Cloth (1), Candle (2). Drawer (7) is closed. 
+Act: open Drawer (7)
+You open Drawer (7). You see SprayBottle (1), Sink (2), SinkBasin (2), ShowerDoor (1), Faucet (2), Drawer (3, 4, 5, 6, 7, 8), CounterTop (1), Cloth (1), Candle (2).
+Act: close Drawer (7)
+You close Drawer (7). You see SprayBottle (1), Sink (2), SinkBasin (2), ShowerDoor (1), Faucet (2), Drawer (3, 4, 5, 6, 7, 8), CounterTop (1), Cloth (1), Candle (2).
+Act: go to Drawer (8)
+You arrive at Drawer (8). You see SprayBottle (1), Sink (2), SinkBasin (2), ShowerGlass (1), ShowerDoor (1), Mirror (1), Faucet (2), Drawer (3, 5, 7, 8), CounterTop (1), Candle (2). Drawer (8) is closed. 
+Act: open Drawer (8)
+You open Drawer (8). You see SprayBottle (1), Sink (2), SinkBasin (2), ShowerHead (1), ShowerGlass (1), ShowerDoor (1), Faucet (2), Drawer (3, 5, 7, 8), CounterTop (1), Candle (2).
+Act: close Drawer (8)
+You close Drawer (8). You see SprayBottle (1), Sink (2), SinkBasin (2), ShowerHead (1), ShowerGlass (1), ShowerDoor (1), Faucet (2), Drawer (3, 5, 7, 8), CounterTop (1), Candle (2).
+Think: I find HandTowel (1). Now, I need to pick it up.
+OK.
+Act: pick up SprayBottle (1)
+You pick up SprayBottle (1). You see SprayBottle (1), Sink (2), SinkBasin (2), ShowerHead (1), ShowerGlass (1), ShowerDoor (1), Faucet (2), Drawer (3, 5, 7, 8), CounterTop (1), Candle (2). I am holding SprayBottle (1) now.
+Think: I hold SprayBottle (1). Now, I need to put it in the bath tub.
+OK.
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), SprayBottle (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1).  I am holding SprayBottle (1) now.
+Act: put down SprayBottle (1)
+You put SprayBottle (1) on BathtubBasin (1). You see Window (1), SprayBottle (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1).
+Think: I put SprayBottle (1) in BathtubBasin (1). Now, I need to find another towel.
+OK.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see SoapBottle (1), Sink (2), SinkBasin (2), Mirror (1, 2), HandTowel (1), Drawer (3, 4, 5, 6, 7, 8), CounterTop (1), Cloth (1), Candle (2). Drawer (3) is closed. 
+Act: open Drawer (3)
+You open Drawer (3). You see SoapBottle (1), Sink (2), SinkBasin (2), Mirror (1, 2), Faucet (2), Drawer (3, 4, 6, 7, 8), CounterTop (1), Cloth (1), Candle (2).
+Act: close Drawer (3)
+You close Drawer (3). You see SoapBottle (1), Sink (2), SinkBasin (2), Mirror (1, 2), Faucet (2), Drawer (3, 4, 5, 6, 7, 8), CounterTop (1), Cloth (1), Candle (2).
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see SoapBottle (1), Mirror (2), HandTowel (1), Drawer (3, 4, 5, 6, 7), CounterTop (1), Cloth (1). Drawer (4) is closed. 
+Act: open Drawer (4)
+You open Drawer (4). You see SoapBottle (1), Mirror (2), LightSwitch (1), Drawer (3, 4, 5, 7), CounterTop (1), Cloth (1), Candle (2).
+Act: close Drawer (4)
+You close Drawer (4). You see SoapBottle (1), Mirror (2), LightSwitch (1), Drawer (3, 4, 5, 6, 7), CounterTop (1), Cloth (1), Candle (2).
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see SoapBottle (1), Sink (2), SinkBasin (2), Mirror (1, 2), Drawer (3, 4, 5, 6, 7, 8), CounterTop (1), Cloth (1), Candle (2). Drawer (5) is closed. 
+Act: open Drawer (5)
+You open Drawer (5). You see SoapBottle (1), Sink (2), SinkBasin (2), Drawer (3, 4, 5, 6, 7, 8), CounterTop (1), Cloth (1), Candle (2).
+Act: close Drawer (5)
+You close Drawer (5). You see SoapBottle (1), Sink (2), SinkBasin (2), Drawer (3, 4, 5, 6, 7, 8), CounterTop (1), Cloth (1), Candle (2).
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see SoapBottle (1), Mirror (2), Drawer (3, 4, 5, 6, 7), CounterTop (1), Cloth (1). Drawer (6) is closed. 
+Act: open Drawer (6)
+You open Drawer (6). You see SoapBottle (1), LightSwitch (1), Drawer (3, 4, 5, 6, 7), CounterTop (1), Cloth (1), Candle (2).
+Act: close Drawer (6)
+You close Drawer (6). You see SoapBottle (1), LightSwitch (1), Drawer (3, 4, 5, 6, 7), CounterTop (1), Cloth (1), Candle (2).
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see Sink (2), SinkBasin (2), Mirror (1, 2), Faucet (2), Drawer (3, 4, 5, 6, 7, 8), CounterTop (1), Cloth (1), Candle (2). Drawer (7) is closed. 
+Act: open Drawer (7)
+You open Drawer (7). You see Sink (2), SinkBasin (2), ShowerGlass (1), ShowerDoor (1), Faucet (2), Drawer (3, 4, 5, 6, 7, 8), CounterTop (1), Cloth (1), Candle (2).
+Act: close Drawer (7)
+You close Drawer (7). You see Sink (2), SinkBasin (2), ShowerGlass (1), ShowerDoor (1), Faucet (2), Drawer (3, 4, 5, 6, 7, 8), CounterTop (1), Cloth (1), Candle (2).
+Act: go to Drawer (8)
+You arrive at Drawer (8). You see Sink (2), SinkBasin (2), ShowerGlass (1), ShowerDoor (1), Mirror (1), Faucet (2), Drawer (3, 5, 7, 8), CounterTop (1), Candle (2). Drawer (8) is closed. 
+Act: open Drawer (8)
+You open Drawer (8). You see Sink (2), SinkBasin (2), ShowerHead (1), ShowerGlass (1), ShowerDoor (1), Faucet (2), Drawer (3, 5, 7, 8), CounterTop (1), Candle (2).

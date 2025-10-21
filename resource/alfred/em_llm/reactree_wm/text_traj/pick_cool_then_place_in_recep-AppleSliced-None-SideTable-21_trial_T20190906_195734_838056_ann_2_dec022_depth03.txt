@@ -1,0 +1,23 @@
+Your primary goal is to: Put a cold piece of apple on a stand.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, slice and pick up apple, cool and pick up apple, and place apple on stand.
+Your task is to: cool and pick up apple
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1, 2, 3), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4). I am holding Apple (3) now.
+Think: I hold Apple (3). I need to cool it using the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Apple (3). Fridge (1) is closed.  I am holding Apple (3) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Fridge (1), Egg (3), Bowl (1), Apple (3). I am holding Apple (3) now.
+Act: put down Apple (3)
+You put Apple (3) on Fridge (1). You see Fridge (1), Egg (3), Bowl (1), Apple (3).
+Act: close Fridge (1)
+You close Fridge (1). You see Fridge (1).
+Think: I cool Apple (3) using Fridge (1). Now, I need to pick up the apple from the fridge.
+OK.
+Act: open Fridge (1)
+You open Fridge (1). You see Fridge (1), Egg (3), Bowl (1), Apple (3).
+Act: pick up Apple (3)
+You pick up Apple (3). You see Fridge (1), Egg (3), Bowl (1), Apple (3). I am holding Apple (3) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

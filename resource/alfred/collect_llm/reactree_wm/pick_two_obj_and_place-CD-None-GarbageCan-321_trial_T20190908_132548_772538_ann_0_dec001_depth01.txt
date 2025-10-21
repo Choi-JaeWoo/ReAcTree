@@ -1,0 +1,7 @@
+Your task is to: Move two discs into a small silver bin.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1, 2), GarbageCan (1), Drawer (1, 2), DiningTable (1), Bed (1), ArmChair (1).
+Think: Since I’m not holding anything, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up disc, place disc in bin, find and pick up disc away from bin, and place disc in bin.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up disc, place disc in bin, find and pick up disc away from bin, place disc in bin

@@ -1,0 +1,7 @@
+Your task is to: Put a clean apple on a table. 
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1, 2, 3), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: Since I’m not holding apple, I need to accomplish 3 subgoals sequentially to solve the task. Find and pick up apple, clean and pick up apple, and place apple on table.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up apple, clean and pick up apple, and place apple on table

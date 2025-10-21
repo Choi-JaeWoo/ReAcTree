@@ -1,0 +1,47 @@
+Your task is to: Put a warm mug at the coffee maker.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10).
+Think: To solve the task, I need to find and pick up the mug, then put it in the microwave. And I need to turn on and off the microwave. And I need to pick up the mug from the microwave, then put it on the coffee maker.
+OK.
+Think: First, I need to recall location of mug.
+OK.
+Act: recall location of Mug
+You have not seen Mug before.
+Think: Now I need to find the mug. The mug is more likely to appear on CoffeeMachine (1), CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-10), Drawer (1-6). I can check each place one by one, starting from CoffeeMachine (1), until I find the mug.
+OK.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see Tomato (2), Toaster (1), StoveBurner (1, 2, 4), Spoon (2), Spatula (2), Pot (1, 2), PepperShaker (1), Pan (1), Drawer (1, 4), CounterTop (1), CoffeeMachine (1), Cabinet (4). 
+Think: I find Mug (1). Now, I need to pick it up.
+OK.
+Act: pick up Pot (1)
+You pick up Pot (1). You see Toaster (1), StoveBurner (1, 2), Spoon (2), Spatula (2), Pot (1, 2), Pan (1), CoffeeMachine (1). I am holding Pot (1) now.
+Think: I hold Pot (1). Now, I need to put it in the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Pot (1), Microwave (1), Drawer (5), Cabinet (8). Microwave (1) is closed.  I am holding Pot (1) now.
+Act: open Microwave (1)
+You open Microwave (1). You see Pot (1), Microwave (1), Cabinet (8), Bowl (1). I am holding Pot (1) now.
+Act: put down Pot (1)
+You put down failed, drop it. You see Pot (1), Microwave (1), Drawer (5, 6), Cabinet (7, 8, 10), Bowl (1).
+Act: close Microwave (1)
+You close Microwave (1). You see Microwave (1), Drawer (5, 6), Cabinet (7, 8, 10).
+Think: I put Pot (1) in Microwave (1). Now, I need to turn on and off Microwave (1).
+OK.
+Act: turn on Microwave (1)
+You turn on Microwave (1). You see Microwave (1), Drawer (5, 6), Cabinet (7, 8, 10).
+Act: turn off Microwave (1)
+You turn off Microwave (1). You see Microwave (1), Drawer (5, 6), Cabinet (7, 8, 10).
+Think: Now, I need to pick up the mug from the microwave.
+OK.
+Act: open Microwave (1)
+You open Microwave (1). You see Microwave (1), Drawer (5, 6), Cabinet (7, 8, 10), Bowl (1).
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Microwave (1), Drawer (5, 6), Cabinet (7, 8, 10), Bowl (1). I am holding Bowl (1) now.
+Think: I pick up Bowl (1) from Microwave (1). Now, I need to put it on the coffee maker.
+OK.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see Tomato (2), Toaster (1), StoveBurner (1, 2, 4), Spoon (2), Spatula (2), Pot (2), PepperShaker (1), Pan (1), Drawer (1, 4), CounterTop (1), CoffeeMachine (1), Cabinet (4), Bowl (1).  I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put down failed, drop it. You see Tomato (2), Toaster (1), StoveBurner (1, 2, 4), Spoon (2), Spatula (2), Pot (2), PepperShaker (1), Pan (1), Drawer (1, 4), CounterTop (1), CoffeeMachine (1), Cabinet (4), Bowl (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

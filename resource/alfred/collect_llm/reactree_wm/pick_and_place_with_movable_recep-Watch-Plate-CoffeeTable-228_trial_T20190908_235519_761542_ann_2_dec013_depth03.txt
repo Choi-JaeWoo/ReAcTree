@@ -1,0 +1,13 @@
+Your primary goal is to: Put a plate with a watch on it on the coffee table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up plate, place plate on coffee table, find and pick up watch, and place watch on plate near coffee table.
+Your task is to: place plate on coffee table
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1, 2), SideTable (1, 2), GarbageCan (1), Drawer (1), DiningTable (1), CoffeeTable (1). I am holding CreditCard (1) now.
+Think: I hold CreditCard (1). Now, I need to put it on the coffee table. I can see CoffeeTable (1).
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (1), Laptop (1), CreditCard (1), CoffeeTable (1), Box (1).  I am holding CreditCard (1) now.
+Act: put down CreditCard (1)
+You put CreditCard (1) on CoffeeTable (1). You see Watch (1), Laptop (1), CreditCard (1), CoffeeTable (1), Box (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

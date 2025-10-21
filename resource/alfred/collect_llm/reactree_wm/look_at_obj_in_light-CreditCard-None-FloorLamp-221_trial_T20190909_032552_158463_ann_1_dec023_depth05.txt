@@ -1,0 +1,27 @@
+Your primary goal is to: turn on lamp
+To achieve this, you should perform your sibling tasks using a fallback strategy. At this level, your sibling tasks are: find and turn on the floor lamp, and find and turn on the desk lamp.
+Your task is to: find and turn on the desk lamp
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1), GarbageCan (1), Drawer (1), DiningTable (1), CoffeeTable (1, 2), ArmChair (1). I am holding CreditCard (2) now.
+Think: First, I need to recall location of the desk lamp.
+OK.
+Act: recall location of DeskLamp
+You have not seen DeskLamp before.
+Think: Now I need to find the desk lamp. The desk lamp is more likely to appear near Sofa (1), SideTable (1), Drawer (1), DiningTable (1), CoffeeTable (1-2), ArmChair (1). I can check each place one by one, starting from Sofa (1), until I find the desk lamp.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), RemoteControl (2), CreditCard (1, 2).  I am holding CreditCard (2) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (2), Television (1), Statue (1), SideTable (1), Drawer (1), CreditCard (2), CoffeeTable (2), ArmChair (1).  I am holding CreditCard (2) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Vase (2), Television (1), Statue (1), SideTable (1), Drawer (1), CreditCard (2), CoffeeTable (2). Drawer (1) is closed.  I am holding CreditCard (2) now.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Plate (1), KeyChain (3), DiningTable (1), CreditCard (2), Chair (1, 3, 4, 5), Box (1).  I am holding CreditCard (2) now.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (1), Laptop (1), CreditCard (2), CoffeeTable (1).  I am holding CreditCard (2) now.
+Act: go to CoffeeTable (2)
+You arrive at CoffeeTable (2). You see Television (1), SideTable (1), CreditCard (2), CoffeeTable (2).  I am holding CreditCard (2) now.
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see SideTable (1), Pillow (1), HousePlant (1, 2), CreditCard (2), Chair (6), ArmChair (1).  I am holding CreditCard (2) now.
+Think: I cannot find the desk lamp.
+OK.
+Act: failure

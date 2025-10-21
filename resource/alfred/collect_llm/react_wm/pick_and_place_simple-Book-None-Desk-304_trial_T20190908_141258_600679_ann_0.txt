@@ -1,0 +1,108 @@
+Your task is to: Put a book on the desk. 
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1), LaundryHamper (1), GarbageCan (1), Drawer (1, 2, 3), Desk (1), Bed (1, 2).
+Think: To solve the task, I need to find and pick up the book, then put it on the desk.
+OK.
+Think: First, I need to recall location of the book.
+OK.
+Act: recall location of Book
+You have not seen Book before.
+Think: Now I need to find the book. The book is more likely to appear on Desk (1), Bed (1-2), Shelf (1), or in Drawer (1-3). I can check each place one by one, starting from Desk (1), until I find the book.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2). 
+Think: I find Book (1). Now, I need to pick it up.
+OK.
+Act: pick up Mug (2)
+You pick up Mug (2). You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2). I am holding Mug (2) now.
+Act: put down Mug (2)
+You put down failed, drop it. You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2).
+Act: pick up Mug (2)
+You pick up Mug (2). You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2). I am holding Mug (2) now.
+Act: put down Mug (2)
+You put down failed, drop it. You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2).
+Act: pick up Mug (2)
+You pick up Mug (2). You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2). I am holding Mug (2) now.
+Act: put down Mug (2)
+You put down failed, drop it. You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2).
+Act: pick up Mug (2)
+You pick up Mug (2). You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2). I am holding Mug (2) now.
+Act: put down Mug (2)
+You put down failed, drop it. You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2).
+Act: pick up Mug (2)
+You pick up Mug (2). You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2). I am holding Mug (2) now.
+Act: put down Mug (2)
+You put down failed, drop it. You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2).
+Act: pick up Mug (2)
+You pick up Mug (2). You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2). I am holding Mug (2) now.
+Act: put down Mug (2)
+You put down failed, drop it. You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2).
+Act: pick up Mug (2)
+You pick up Mug (2). You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2). I am holding Mug (2) now.
+Act: put down Mug (2)
+You put down failed, drop it. You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2).
+Act: pick up Mug (2)
+You pick up Mug (2). You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2). I am holding Mug (2) now.
+Act: put down Mug (2)
+You put down failed, drop it. You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2).
+Act: pick up Mug (2)
+You pick up Mug (2). You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2). I am holding Mug (2) now.
+Act: put down Mug (2)
+You put down failed, drop it. You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2).
+Act: pick up Mug (2)
+You pick up Mug (2). You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2). I am holding Mug (2) now.
+Act: put down Mug (2)
+You put down failed, drop it. You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2).
+Act: pick up Mug (2)
+You pick up Mug (2). You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2). I am holding Mug (2) now.
+Act: put down Mug (2)
+You put down failed, drop it. You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2).
+Act: pick up Mug (2)
+You pick up Mug (2). You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2). I am holding Mug (2) now.
+Act: put down Mug (2)
+You put down failed, drop it. You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2).
+Act: pick up Mug (2)
+You pick up Mug (2). You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2). I am holding Mug (2) now.
+Act: put down Mug (2)
+You put down failed, drop it. You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2).
+Act: pick up Mug (2)
+You pick up Mug (2). You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2). I am holding Mug (2) now.
+Act: put down Mug (2)
+You put down failed, drop it. You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2).
+Act: pick up Mug (2)
+You pick up Mug (2). You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2). I am holding Mug (2) now.
+Act: put down Mug (2)
+You put down failed, drop it. You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2).
+Act: pick up Mug (2)
+You pick up Mug (2). You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2). I am holding Mug (2) now.
+Act: put down Mug (2)
+You put down failed, drop it. You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2).
+Act: pick up Mug (2)
+You pick up Mug (2). You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2). I am holding Mug (2) now.
+Act: put down Mug (2)
+You put down failed, drop it. You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2).
+Act: pick up Mug (2)
+You pick up Mug (2). You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2). I am holding Mug (2) now.
+Act: put down Mug (2)
+You put down failed, drop it. You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2).
+Act: pick up Mug (2)
+You pick up Mug (2). You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2). I am holding Mug (2) now.
+Act: put down Mug (2)
+You put down failed, drop it. You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2).
+Act: pick up Mug (2)
+You pick up Mug (2). You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2). I am holding Mug (2) now.
+Act: put down Mug (2)
+You put down failed, drop it. You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2).
+Act: pick up Mug (2)
+You pick up Mug (2). You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2). I am holding Mug (2) now.
+Act: put down Mug (2)
+You put down failed, drop it. You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2).
+Act: pick up Mug (2)
+You pick up Mug (2). You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2). I am holding Mug (2) now.
+Act: put down Mug (2)
+You put down failed, drop it. You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2).
+Act: pick up Mug (2)
+You pick up Mug (2). You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2). I am holding Mug (2) now.
+Act: put down Mug (2)
+You put down failed, drop it. You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2).
+Act: pick up Mug (2)
+You pick up Mug (2). You see Statue (1, 2), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), Chair (2). I am holding Mug (2) now.

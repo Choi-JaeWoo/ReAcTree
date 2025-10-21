@@ -1,0 +1,21 @@
+Your primary goal is to: To move two media devices from the desk to the bed.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up media device, place media device on bed, Find and pick up media device away from bed, and place media device on bed.
+Your task is to: Find and pick up media device away from bed
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5), Desk (1), Bed (1).
+Think: First, I need to recall location of the media device.
+OK.
+Act: recall location of CellPhone
+You saw CellPhone (2) near Drawer (5). You saw CellPhone (1) near Drawer (5).
+Think: CellPhone (1) is on Drawer (5). CellPhone (2) is on Drawer (5). Now, I need to find another media device. The media device is more likely to appear on Bed (1), Desk (1), Dresser (1), or in Drawer (1-5). I can check each place one by one, starting from Bed (1), until I find the media device.
+OK.
+Act: go to Bed (1)
+You arrive at Bed (1). You see Pillow (1), Pen (2), Laptop (1), Bed (1). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pencil (1), Pen (1), Drawer (2, 4, 5), Desk (1), CreditCard (3), Chair (1), CellPhone (2). 
+Think: I find CellPhone (2). Now, I need to pick it up.
+OK.
+Act: pick up CellPhone (2)
+You pick up CellPhone (2). You see Pencil (1), Pen (1), Drawer (2, 4, 5), Desk (1), CreditCard (3), Chair (1), CellPhone (2). I am holding CellPhone (2) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

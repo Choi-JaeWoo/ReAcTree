@@ -1,0 +1,19 @@
+Your primary goal is to: Place a bowl with a knife and a slice of potato inside a fridge.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up bowl, place bowl in fridge, find and pick up knife, slice and pick up potato, and and place potato on bowl near fridge.
+Your task is to: and place potato on bowl near fridge
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1, 2, 3), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4). I am holding Potato (3) now.
+Think: I hold Potato (3). Now, I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You saw Bowl (1) near DiningTable (2). You saw Bowl (2) near DiningTable (2).
+Think: I can find Bowl (1) near DiningTable (2). 
+OK.
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Toaster (1), Potato (2, 3, 4, 5, 6), Mug (2), Knife (1), ButterKnife (1), Bread (1), Bowl (1, 2).  I am holding Potato (3) now.
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Toaster (1), StoveBurner (2), Potato (3), Mug (2), Lettuce (1), Knife (1), DiningTable (2), ButterKnife (1), Bowl (1).  I am holding Potato (3) now.
+Act: put down Potato (3)
+You put Potato (3) on Bowl (1). You see Toaster (1), StoveBurner (2), Potato (3), Mug (2), Lettuce (1), Knife (1), DiningTable (2), ButterKnife (1), Bowl (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

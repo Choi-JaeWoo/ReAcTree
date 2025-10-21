@@ -1,0 +1,19 @@
+Your primary goal is to: To move two tubes to the cabinet below the sink. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up tube, place tube in cabinet, find and pick up tube away from cabinet, and place tube in cabinet.
+Your task is to: find and pick up tube away from cabinet
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1, 2), Toilet (1), ToiletPaperHanger (1), SinkBasin (1, 2), Shelf (1), HandTowelHolder (1, 2), GarbageCan (1), CounterTop (1), Cabinet (1, 2, 3, 4), Bathtub (1), BathtubBasin (1).
+Think: First, I need to recall location of the tube.
+OK.
+Act: recall location of SprayBottle
+You saw SprayBottle (1) near Cabinet (1).
+Think: SprayBottle (1) is in Cabinet (1). I can find another tube, SprayBottle (2), near CounterTop (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see SprayBottle (1), Sink (1, 2), SinkBasin (2), Mirror (1), Faucet (1, 2), CounterTop (1), Cabinet (1, 2, 4). 
+Think: I find SprayBottle (1). Now, I need to pick it up.
+OK.
+Act: pick up SprayBottle (1)
+You pick up SprayBottle (1). You see SprayBottle (1), Sink (1, 2), SinkBasin (2), Mirror (1), Faucet (1, 2), CounterTop (1), Cabinet (1, 2, 4). I am holding SprayBottle (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

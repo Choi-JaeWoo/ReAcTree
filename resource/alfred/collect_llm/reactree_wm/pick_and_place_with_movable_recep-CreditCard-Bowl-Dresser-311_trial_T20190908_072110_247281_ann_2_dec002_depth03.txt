@@ -1,0 +1,21 @@
+Your primary goal is to: To put a credit card in a bowl and move the bowl to the television stand. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up credit card, place credit card in bowl, and move bowl to television stand.
+Your task is to: find and pick up credit card
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), LaundryHamper (1), GarbageCan (1), Dresser (1), Drawer (1, 2), DiningTable (1), CounterTop (1), Bed (1), ArmChair (1, 2).
+Think: First, I need to recall location of the credit card.
+OK.
+Act: recall location of CreditCard
+You have not seen CreditCard before.
+Think: Now, I need to find the credit card. The credit card is more likely to appear on SideTable (1), CounterTop (1), or in Dresser (1), Drawer (1-2). I can check each place one by one, starting from SideTable (1), until I find the credit card.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), RemoteControl (3), Pen (1), Mug (1), Lamp (2), CellPhone (2), ArmChair (2), AlarmClock (2). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Mirror (1), GarbageCan (1), CreditCard (1), CounterTop (1), Bowl (1), Book (1). 
+Think: I find CreditCard (1). Now, I need to pick it up.
+OK.
+Act: pick up CreditCard (1)
+You pick up CreditCard (1). You see Mirror (1), GarbageCan (1), CreditCard (1), CounterTop (1), Bowl (1), Book (1). I am holding CreditCard (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

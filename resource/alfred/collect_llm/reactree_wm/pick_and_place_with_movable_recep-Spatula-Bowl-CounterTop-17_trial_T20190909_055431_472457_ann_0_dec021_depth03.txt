@@ -1,0 +1,21 @@
+Your primary goal is to: Put a glass bowl with a spatula in it on the counter.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up bowl, place bowl in sink basin, find and pick up spatula, and place spatula in bowl near sink basin.
+Your task is to: place spatula in bowl near sink basin
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20). I am holding Spatula (1) now.
+Think: I hold Spatula (1). Now, I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You dropped Bowl due to fail to put it on the receptacle. You need to find it again.
+Think: I can find Bowl in SinkBasin (1).
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (1, 2), StoveKnob (1, 3, 4), StoveBurner (1, 2, 3), SprayBottle (1, 2), Spoon (1), Spatula (1, 1), Sink (1), SinkBasin (1), Potato (3), Pot (1), Plate (1, 3), PepperShaker (2), Lettuce (2), Knife (1), Kettle (1), Glassbottle (2), Fork (1), Faucet (1), Egg (2), DishSponge (1), DiningTable (1), Cup (2), CounterTop (2), Chair (1), CellPhone (1), Cabinet (9, 11), Bowl (1), Apple (3).  I am holding Spatula (1) now.
+Think: I find Bowl (1). Now, I need to put down Spatula (1) on Bowl (1).
+OK.
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Window (1), StoveKnob (1, 3, 4), StoveBurner (1, 2, 3), Spoon (1, 1), Spatula (1, 1), Sink (1, 1), SinkBasin (1, 1), Pot (1), Plate (1, 1), Knife (1), Kettle (1), Glassbottle (2, 2), Faucet (1, 1), Egg (2, 2), CounterTop (2, 2), Cabinet (9, 9, 11, 11, 17), Bowl (1, 1), Apple (3, 3).  I am holding Spatula (1) now.
+Act: put down Spatula (1)
+You put Spatula (1) on Bowl (1). You see Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Plate (1), Glassbottle (2), Faucet (1), Egg (2), CounterTop (2), Cabinet (9, 11, 17), Bowl (1), Apple (3).
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,11 @@
+Your primary goal is to: Put two bottles of lotion in the cabinet under the sink.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up lotion, place lotion in cabinet, find and pick up lotion away from cabinet, and place lotion in cabinet.
+Your task is to: place lotion in cabinet
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1), HandTowelHolder (1), GarbageCan (1), Drawer (1), CounterTop (1, 2), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9), BathtubBasin (1). I am holding Candle (3) now.
+Think: I hold Candle (3). Now, I need to put it in the cabinet. I can see Cabinet (1).
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Sink (1), SinkBasin (1), Mirror (1), Faucet (1), Drawer (1), DishSponge (1), Candle (3), Cabinet (1, 2, 4, 7, 9). Cabinet (1) is closed.  I am holding Candle (3) now.
+Act: open Cabinet (1)
+The Cabinet (1) is open failed. I am holding Candle (3) now.
+Act: failure

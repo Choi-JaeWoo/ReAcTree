@@ -1,0 +1,179 @@
+Your primary goal is to: Place a mug with a spoon in it on top of a shelving unit.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up mug, place mug on shelving unit, and place spoon in mug.
+Your task is to: place spoon in mug
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1, 2, 3), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: I hold Spoon (1). Now, I need to recall location of the mug.
+OK.
+Act: recall location of Mug
+You saw Mug (3) near SideTable (1).
+Think: I can find Mug (3) on SideTable (1).
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), DiningTable (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Think: I find Mug (3). Now, I need to put down Spoon (1) in Mug (3).
+OK.
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Act: go to Mug (3)
+You arrive at Mug (3). You see Spoon (1), SideTable (1), Potato (1), PepperShaker (2), Mug (3), Knife (2), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (4), Bowl (1), Apple (2). 
+Max decisions

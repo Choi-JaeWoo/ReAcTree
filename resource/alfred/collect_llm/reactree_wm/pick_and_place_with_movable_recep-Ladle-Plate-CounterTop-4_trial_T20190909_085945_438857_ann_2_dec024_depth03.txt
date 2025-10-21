@@ -1,0 +1,13 @@
+Your primary goal is to: Move a plate and ladle to the counter.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up plate, place plate on counter, find and pick up ladle, and place ladle on counter.
+Your task is to: place ladle on counter
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2). I am holding Ladle (1) now.
+Think: I hold Ladle (1). Now, I need to put it on the counter. I can see CounterTop (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1, 2), Spatula (1), Plate (4), Mug (2), Ladle (1, 4), HousePlant (1), Drawer (1, 5), CounterTop (1).  I am holding Ladle (1) now.
+Act: put down Ladle (1)
+You put Ladle (1) on CounterTop (1). You see Window (1, 2), Spatula (1), Plate (4), Mug (2), Ladle (1, 4), HousePlant (1), Drawer (1, 5), CounterTop (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

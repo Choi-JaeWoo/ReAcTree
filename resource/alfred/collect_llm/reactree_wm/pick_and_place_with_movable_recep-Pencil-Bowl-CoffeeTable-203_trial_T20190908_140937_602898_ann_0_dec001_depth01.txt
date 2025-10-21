@@ -1,0 +1,7 @@
+Your task is to: Putting a bowl with a pencil in it on the coffee table
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1), Ottoman (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7), DiningTable (1), CoffeeTable (1), ArmChair (1).
+Think: Since I’m not holding anything, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up bowl, place bowl on coffee table, find and pick up pencil, and place pencil in bowl.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up bowl, place bowl on coffee table, find and pick up pencil, place pencil in bowl

@@ -1,0 +1,25 @@
+Your primary goal is to: Put egg in microwave and then throw it away.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up egg, heat and pick up egg, and place egg in trash can.
+Your task is to: place egg in trash can
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9). I am holding Knife (1) now.
+Think: I hold Knife (1). Now, I need to recall location of the egg.
+OK.
+Act: recall location of Egg
+You saw Egg (1) near CounterTop (1).
+Think: I can find Egg (1) near CounterTop (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Tomato (2), Statue (1), Spoon (2), SoapBottle (2), Pot (2), Plate (2), Lettuce (1), Knife (1, 2), Egg (1), CounterTop (1), ButterKnife (3), Bread (1), Book (1).  I am holding Knife (1) now.
+Think: I find Egg (1). Now, I need to pick it up.
+OK.
+Act: pick up Egg (1)
+You are currently holding Knife (1). I am holding Knife (1) now.
+Think: I pick up Egg (1). Now, I need to put it in the trash can. I can see GarbageCan (1).
+OK.
+Act: go to GarbageCan (1)
+You arrive at GarbageCan (1). You see WineBottle (3), Knife (1), GarbageCan (1), Fridge (1), DishSponge (3).  I am holding Knife (1) now.
+Act: put down Knife (1)
+You put Knife (1) on GarbageCan (1). You see WineBottle (3), Knife (1), GarbageCan (1), Fridge (1), DishSponge (3).
+Think: Now I accomplish the goal.
+OK.
+Max decisions

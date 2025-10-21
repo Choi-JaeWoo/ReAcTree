@@ -1,0 +1,23 @@
+Your primary goal is to: Take a pot from the stove to the fridge.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pot, cool and pick up pot, and place pot in fridge.
+Your task is to: cool and pick up pot
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13). I am holding Spoon (3) now.
+Think: I hold Spoon (3). Now, I need to cool it using the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Spoon (3), PepperShaker (1), Mug (1), Fridge (1), Drawer (1), Cabinet (4). Fridge (1) is closed.  I am holding Spoon (3) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Spoon (3), Fridge (1). I am holding Spoon (3) now.
+Act: put down Spoon (3)
+You put Spoon (3) on Fridge (1). You see Spoon (3), Fridge (1).
+Act: close Fridge (1)
+You close Fridge (1). You see PepperShaker (1), Mug (1), Fridge (1), Drawer (1), Cabinet (4).
+Think: I cool Spoon (3) using Fridge (1). Now, I need to pick up the spoon from the fridge.
+OK.
+Act: open Fridge (1)
+You open Fridge (1). You see Spoon (3), Fridge (1).
+Act: pick up Spoon (3)
+You pick up Spoon (3). You see Spoon (3), Fridge (1). I am holding Spoon (3) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,19 @@
+Your primary goal is to: Put a coffee cup containing a knife on the kitchen stand. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up cup, place cup on countertop, find and pick up knife, and and place knife on cup near countertop.
+Your task is to: find and pick up cup
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1, 2, 3), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: First, I need to recall location of the cup.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now, I need to find the cup. The cup is more likely to appear on SideTable (1), DiningTable (1-3), CounterTop (1), or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1). I can check each place one by one, starting from SideTable (1), until I find the cup.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Tomato (2), SideTable (1), SaltShaker (1), PepperShaker (2), Fork (2), Drawer (1), DiningTable (2), Cup (1, 2), CounterTop (1), Cabinet (4), ButterKnife (1, 3). 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: pick up Cup (1)
+You pick up Cup (1). You see SideTable (1), SaltShaker (1), Drawer (1), DiningTable (2), Cup (1, 2), CounterTop (1), Cabinet (4). I am holding Cup (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

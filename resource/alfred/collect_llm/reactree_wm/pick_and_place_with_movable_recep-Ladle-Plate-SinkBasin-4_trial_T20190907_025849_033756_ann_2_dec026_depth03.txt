@@ -1,0 +1,31 @@
+Your primary goal is to: Put the plate from the fridge with the ladle on it in the sink.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up plate, place plate in sink basin, find and pick up ladle, and place ladle on plate near sink basin.
+Your task is to: place ladle on plate near sink basin
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2). I am holding Ladle (1) now.
+Think: I hold Ladle (1). Now, I need to recall location of the plate.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now, I need to find the plate. The plate is more likely to appear on DiningTable (1), CounterTop (1-3), SinkBasin (1), or in Fridge (1), Mircowave (1), Cabinet (1-2), Drawer (1-6). I can check each place one by one, starting from DiningTable (1), until I find the plate.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see PepperShaker (1), Ladle (1), Knife (2), Fork (1), DiningTable (1), Cup (3), ButterKnife (2), Bread (2).  I am holding Ladle (1) now.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1, 2), Ladle (1), Knife (3), HousePlant (1), Fork (2), Drawer (1, 5), Cup (1), CounterTop (1), ButterKnife (1, 3).  I am holding Ladle (1) now.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Window (1), StoveKnob (4), StoveBurner (2, 4), Pot (1), Ladle (1), CounterTop (2).  I am holding Ladle (1) now.
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Microwave (1), Ladle (1, 2), CounterTop (3).  I am holding Ladle (1) now.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Spoon (1), Spatula (2), Sink (1), SinkBasin (1), Mug (1), Ladle (1), Knife (1), Faucet (1), Drawer (3), DishSponge (2), CounterTop (1, 3), Cabinet (1, 2), Apple (1).  I am holding Ladle (1) now.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Ladle (1), GarbageCan (1), Fridge (1). Fridge (1) is open.  I am holding Ladle (1) now.
+Think: I find Plate (1). Now, I need to put down Ladle (1) on Plate (1).
+OK.
+Act: go to Ladle (1)
+You already arrive at Ladle (1). You see Tomato (3), Ladle (1, 1), GarbageCan (1, 1), Fridge (1, 1), Egg (1).  I am holding Ladle (1) now.
+Act: put down Ladle (1)
+You put down failed, drop it. You see Tomato (3), GarbageCan (1), Fridge (1), Egg (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

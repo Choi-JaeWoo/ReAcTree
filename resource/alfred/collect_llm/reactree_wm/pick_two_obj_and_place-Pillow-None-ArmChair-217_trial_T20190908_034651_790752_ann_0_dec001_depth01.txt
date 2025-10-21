@@ -1,0 +1,7 @@
+Your task is to: Move pillows to the chair.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), CoffeeTable (1), Cabinet (1, 2, 3, 4), ArmChair (1, 2).
+Think: Since I’m not holding the pillow, I need to accomplish 2 subgoals sequentially to solve the task. Find and pick up pillow and place pillow on chair.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up pillow, place pillow on chair

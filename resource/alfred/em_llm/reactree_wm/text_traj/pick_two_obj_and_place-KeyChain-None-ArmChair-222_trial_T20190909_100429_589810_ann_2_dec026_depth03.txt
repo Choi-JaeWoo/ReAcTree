@@ -1,0 +1,13 @@
+Your primary goal is to: Put two sets of keys on the chair.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up keys, place keys on chair, Find and pick up keys away from chair, and place keys on chair.
+Your task is to: place keys on chair
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1, 2), SideTable (1, 2, 3), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7), CoffeeTable (1), ArmChair (1). I am holding KeyChain (1) now.
+Think: I hold KeyChain (1). Now, I need to put it on the chair. I can see ArmChair (1).
+OK.
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see SideTable (2), Newspaper (1), KeyChain (1, 2), GarbageCan (1), Curtains (1), CreditCard (1), ArmChair (1).  I am holding KeyChain (1) now.
+Act: put down KeyChain (1)
+You put KeyChain (1) on ArmChair (1). You see SideTable (2), Newspaper (1), KeyChain (1, 2), GarbageCan (1), Curtains (1), CreditCard (1), ArmChair (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

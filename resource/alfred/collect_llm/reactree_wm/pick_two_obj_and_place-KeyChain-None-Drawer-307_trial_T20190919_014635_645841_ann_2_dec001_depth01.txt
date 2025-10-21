@@ -1,0 +1,7 @@
+Your task is to: Put two sets of keys in a drawer.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2), LaundryHamper (1), GarbageCan (1), Drawer (1, 2, 3), Desk (1), Bed (1).
+Think: Since I’m not holding the keys, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up keys, place keys in drawer, Find and pick up keys away from drawer, and place keys in drawer.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up keys, place keys in drawer, Find and pick up keys away from drawer, place keys in drawer

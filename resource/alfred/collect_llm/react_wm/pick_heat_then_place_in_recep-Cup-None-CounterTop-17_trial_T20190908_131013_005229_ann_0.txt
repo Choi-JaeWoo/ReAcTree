@@ -1,0 +1,116 @@
+Your task is to: To heat a cup and put it on the counter next to the sink. 
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20).
+Think: To solve the task, I need to find and pick up the mug, then put it in the microwave. And I need to turn on and off the microwave. And I need to pick up the mug from the microwave, then put it on the counter next to the sink.
+OK.
+Think: First, I need to recall location of mug.
+OK.
+Act: recall location of Mug
+You have not seen Mug before.
+Think: Now I need to find the mug. The mug is more likely to appear on CoffeeMachine (1), DiningTable (1-2), CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-20), Drawer (1-6). I can check each place one by one, starting from CoffeeMachine (1), until I find the mug.
+OK.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see WineBottle (3), StoveKnob (2), SoapBottle (2), Pot (2), Plate (3), Kettle (1), CounterTop (1), CoffeeMachine (1). 
+Think: I find Mug (3). Now, I need to pick it up.
+OK.
+Act: pick up WineBottle (3)
+You pick up WineBottle (3). You see WineBottle (3), StoveKnob (2), SoapBottle (2), Pot (2), Plate (3), Kettle (1), CounterTop (1), CoffeeMachine (1). I am holding WineBottle (3) now.
+Think: I hold WineBottle (3). Now, I need to put it in the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see WineBottle (3), Microwave (1), Fridge (1), Drawer (1, 3), CellPhone (2), Cabinet (8, 17). Microwave (1) is closed.  I am holding WineBottle (3) now.
+Act: open Microwave (1)
+You open Microwave (1). You see WineBottle (3), Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17). I am holding WineBottle (3) now.
+Act: put down WineBottle (3)
+You put down failed, drop it. You see WineBottle (3), Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17).
+Act: close Microwave (1)
+You close Microwave (1). You see Microwave (1), Fridge (1), Drawer (1, 3), CellPhone (2), Cabinet (8, 17).
+Think: I put WineBottle (3) in Microwave (1). Now, I need to turn on and off Microwave (1).
+OK.
+Act: turn on Microwave (1)
+You turn on Microwave (1). You see Microwave (1), Fridge (1), Drawer (1, 3), CellPhone (2), Cabinet (8, 17).
+Act: turn off Microwave (1)
+You turn off Microwave (1). You see Microwave (1), Fridge (1), Drawer (1, 3), CellPhone (2), Cabinet (8, 17).
+Think: Now, I need to pick up the mug from the microwave.
+OK.
+Act: open Microwave (1)
+You open Microwave (1). You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17).
+Act: recall location of Mug
+You have not seen Mug before.
+Think: Now I need to find the mug. The mug is more likely to appear on CoffeeMachine (1), DiningTable (1-2), CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-20), Drawer (1-6). I can check each place one by one, starting from CoffeeMachine (1), until I find the mug.
+OK.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see StoveKnob (2), SoapBottle (2), Pot (2), Plate (3), Kettle (1), CounterTop (1), CoffeeMachine (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (1), Window (2), Tomato (2), SprayBottle (2), Spatula (3), SaltShaker (2), PepperShaker (1), Knife (3), Fork (2), DiningTable (1), Chair (1), CellPhone (1, 3), ButterKnife (1, 2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Spoon (1, 2), SoapBottle (1), Lettuce (1, 2), Knife (2), Fork (1), Egg (2), DishSponge (1), DiningTable (2), ButterKnife (3). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see SoapBottle (2), Plate (2, 3), Lettuce (3), Knife (1), Drawer (2, 5), CounterTop (1), Cabinet (5, 16). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see SoapBottle (2, 2), Plate (2, 2, 3, 3), Mug (3), Microwave (1), Lettuce (3, 3), Knife (1, 1), Glassbottle (1), Drawer (1, 2, 2, 5, 5), CounterTop (1, 1, 2), Cabinet (5, 5, 16, 16, 17). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (1), StoveKnob (1), StoveBurner (2), Spatula (1), Sink (1), SinkBasin (1), Potato (1), Pan (1), Faucet (1), Egg (1), DishSponge (2), CounterTop (2), Cabinet (9, 11). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1). Fridge (1) is closed. 
+Act: open Fridge (1)
+You open Fridge (1). You see WineBottle (2), Tomato (3), Pot (1), Fridge (1), Cup (1), Cabinet (8).
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see WineBottle (2), Tomato (3), Pot (1), Microwave (1), Fridge (1), Drawer (1, 3), Cup (1), Cabinet (8, 8, 17). Microwave (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Toaster (1), SprayBottle (3), Plate (1), GarbageCan (1), Drawer (4, 6), CounterTop (1), Cabinet (1, 5, 14), Apple (1). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see Glassbottle (2), GarbageCan (1), Fridge (1), Drawer (4, 6), CounterTop (1), Cabinet (1, 5, 14).
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Glassbottle (2), GarbageCan (1), Fridge (1), Drawer (4, 6), CounterTop (1), Cabinet (1, 2, 5, 6, 7, 10, 14, 15). Cabinet (2) is closed. 
+Act: open Cabinet (2)
+You open Cabinet (2). You see Cabinet (2, 6, 7, 10, 15).
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see Fridge (1), Cabinet (3, 6, 12). Cabinet (3) is closed. 
+Act: open Cabinet (3)
+You open Cabinet (3). You see Fridge (1), Cabinet (3, 6, 12).
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see Cabinet (4, 19). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+You open Cabinet (4). You see Cabinet (4, 18, 19, 20).
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Plate (1, 2), Lettuce (3), Knife (1), Drawer (2, 4, 5, 6), CounterTop (1), Cabinet (1, 4, 5, 14, 16, 18, 19, 20). Cabinet (5) is closed. 
+Act: open Cabinet (5)
+You open Cabinet (5). You see Plate (1, 2), Lettuce (3), Knife (1), Drawer (2, 4, 5, 6), CounterTop (1), Cabinet (1, 5, 14, 16).
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Fridge (1), Cabinet (3, 6, 12). Cabinet (6) is closed. 
+Act: open Cabinet (6)
+You open Cabinet (6). You see SaltShaker (3), Mug (2), Fridge (1), Cabinet (3, 6, 7, 12), Bowl (2).
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see SaltShaker (3, 3, 3), Mug (2, 2, 2), Fridge (1, 1, 1), Cabinet (2, 3, 3, 3, 6, 6, 6, 6, 7, 7, 7, 7, 10, 12, 12, 12), Bowl (2, 2, 2). Cabinet (7) is closed. 
+Act: open Cabinet (7)
+You open Cabinet (7). You see Fridge (1), Cabinet (3).
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see WineBottle (2, 3), Tomato (3), Pot (1), Microwave (1), Fridge (1, 1, 1), Drawer (1, 3), Cup (1), Cabinet (3, 3, 8, 17). Cabinet (8) is closed. 
+Act: open Cabinet (8)
+You open Cabinet (8). You see WineBottle (2, 3), Tomato (3), Pot (1), Microwave (1), Fridge (1), Drawer (1, 3), Cup (1), Cabinet (8, 17), Bowl (1).
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see StoveBurner (1, 2, 3, 4), Spatula (1), Sink (1), SinkBasin (1), Potato (1), Pot (2), Pan (1), Kettle (1), Faucet (1), Egg (1), DishSponge (2), CounterTop (2), Cabinet (9, 11, 16). Cabinet (9) is closed. 
+Act: open Cabinet (9)
+You open Cabinet (9). You see StoveBurner (2, 4), Spatula (1), Sink (1), SinkBasin (1), Potato (1), Pot (2), Egg (1), DishSponge (2), CounterTop (2), Cabinet (5, 9, 11, 16).
+Act: go to Cabinet (10)
+You arrive at Cabinet (10). You see StoveBurner (2, 2, 2, 4, 4, 4), Spatula (1, 1, 1), Sink (1, 1, 1), SinkBasin (1, 1, 1), Potato (1, 1, 1), Pot (2, 2, 2), Egg (1, 1, 1), DishSponge (2, 2, 2), CounterTop (2, 2, 2), Cabinet (2, 5, 5, 5, 7, 9, 9, 9, 10, 11, 11, 11, 15, 16, 16, 16). Cabinet (10) is closed. 
+Act: open Cabinet (10)
+You open Cabinet (10). You see SprayBottle (1), Cabinet (2, 7, 10, 15).
+Act: go to Cabinet (11)
+You arrive at Cabinet (11). You see WineBottle (3), Spatula (1), Sink (1), SinkBasin (1), Potato (1), Microwave (1), Glassbottle (1), Faucet (1), Egg (1), DishSponge (2), CounterTop (2), Cabinet (8, 9, 11, 17). Cabinet (11) is closed. 
+Act: open Cabinet (11)
+You open Cabinet (11). You see WineBottle (3), Spatula (1), Sink (1), SinkBasin (1), Potato (1), Microwave (1), Glassbottle (1), Egg (1), Drawer (1), DishSponge (2), CounterTop (2), Cabinet (8, 9, 11, 17), Bowl (1).
+Act: go to Cabinet (12)
+You arrive at Cabinet (12). You see Potato (2), Mug (2), Fridge (1), Cabinet (3, 12). Cabinet (12) is closed. 
+Act: open Cabinet (12)
+You open Cabinet (12). You see Potato (2), Fridge (1), Cabinet (12).
+Act: go to Cabinet (13)
+You arrive at Cabinet (13). You see Window (1), Cabinet (13). Cabinet (13) is closed. 
+Act: open Cabinet (13)
+You open Cabinet (13). You see Window (1), Cabinet (13).
+Act: go to Cabinet (14)
+You arrive at Cabinet (14). You see Window (1), Plate (1, 2), Lettuce (3), Knife (1), Drawer (2, 4, 5, 6), CounterTop (1), Cabinet (1, 5, 13, 14, 16). Cabinet (14) is closed. 
+Act: open Cabinet (14)
+You open Cabinet (14). You see Plate (1, 2), Lettuce (3), Knife (1), Drawer (2, 4, 5, 6), CounterTop (1), Cabinet (1, 5, 14, 16).
+Act: go to Cabinet (15)
+You arrive at Cabinet (15). You see Window (1), SprayBottle (1), Plate (1, 1, 2, 2), Lettuce (3, 3), Knife (1, 1), Drawer (2, 2, 4, 4, 5, 5, 6, 6), CounterTop (1, 1), Cabinet (1, 1, 5, 5, 10, 14, 14, 15, 16, 16). Cabinet (15) is closed. 

@@ -1,0 +1,181 @@
+Your primary goal is to: Place a pot containing lettuce on a counter
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pot, put lettuce in pot, and place pot on counter.
+Your task is to: put lettuce in pot
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20). I am holding PepperShaker (2) now.
+Think: I hold PepperShaker (2). Now, I need to recall location of the lettuce.
+OK.
+Act: recall location of Lettuce
+You saw Lettuce (2) near DiningTable (2). You saw Lettuce (1) near CounterTop (1).
+Think: I can find Lettuce (2) near DiningTable (2).
+OK.
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see WineBottle (2), Spoon (2), SaltShaker (1), Potato (3), PepperShaker (1, 2), Mug (1), Lettuce (2), Fork (1), Egg (1, 3), DiningTable (2), Cup (1), ButterKnife (1), Bowl (3).  I am holding PepperShaker (2) now.
+Think: I find Lettuce (2). Now, I need to put down the pepper shaker.
+OK.
+Act: put down PepperShaker (2)
+You put PepperShaker (2) on DiningTable (2). You see WineBottle (2), Spoon (2), SaltShaker (1), Potato (3), PepperShaker (1, 2), Mug (1), Lettuce (2), Fork (1), Egg (1, 3), DiningTable (2), Cup (1), ButterKnife (1), Bowl (3).
+Think: Now I need to pick up Lettuce (2).
+OK.
+Act: pick up Lettuce (2)
+You pick up Lettuce (2). You see WineBottle (2), Spoon (2), SaltShaker (1), Potato (3), PepperShaker (1, 2), Mug (1), Lettuce (2), Fork (1), Egg (1, 3), DiningTable (2), Cup (1), ButterKnife (1), Bowl (3). I am holding Lettuce (2) now.
+Think: Now I need to recall location of the pot.
+OK.
+Act: recall location of Pot
+You have not seen Pot before.
+Think: I have not seen Pot before. I need to find it.
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Toaster (1), Spatula (1), Lettuce (2), GarbageCan (1), Drawer (4, 6), CounterTop (1), Cabinet (1, 5, 14). Cabinet (1) is closed.  I am holding Lettuce (2) now.
+Act: open Cabinet (1)
+You open Cabinet (1). You see Lettuce (2), GarbageCan (1), Drawer (4, 6), CounterTop (1), Cabinet (1, 5, 14). I am holding Lettuce (2) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Toaster (1), Spatula (1), Lettuce (1, 2), Drawer (4, 5, 6), CounterTop (1), CellPhone (1), Cabinet (1, 5, 14, 16), ButterKnife (3). Drawer (4) is closed.  I am holding Lettuce (2) now.
+Act: open Drawer (4)
+You open Drawer (4). You see Toaster (1), Spatula (1), Lettuce (1, 2), Drawer (4, 5, 6), CounterTop (1), CellPhone (1), Cabinet (1, 5, 16), ButterKnife (3). I am holding Lettuce (2) now.
+Act: go to Lettuce (1)
+You see Plate (1), Mug (2), Lettuce (1, 2), Knife (1), Glassbottle (1), Drawer (2), CounterTop (1), CellPhone (1), Cabinet (16), Bread (1).  I am holding Lettuce (2) now.
+Act: go to Plate (1)
+You arrive at Plate (1). You see Spoon (1), Plate (1), Mug (2), Lettuce (1, 2), Knife (1), Glassbottle (1), CounterTop (1), CoffeeMachine (1), CellPhone (1), Bread (1).  I am holding Lettuce (2) now.
+Act: go to Mug (2)
+You arrive at Mug (2). You see Spoon (1), Plate (1), Mug (2), Lettuce (1, 2), Knife (1), Glassbottle (1), Drawer (2, 4, 5), CounterTop (1), CoffeeMachine (1), CellPhone (1), Cabinet (5, 14, 16), Bread (1).  I am holding Lettuce (2) now.
+Act: go to Knife (1)
+You see Spoon (1), Plate (1), Mug (2), Lettuce (1, 2), Knife (1), Glassbottle (1), Drawer (2, 4, 5), CounterTop (1), CellPhone (1), Cabinet (5, 16), Bread (1).  I am holding Lettuce (2) now.
+Act: go to Glassbottle (1)
+You see StoveBurner (4), Spoon (1), Plate (1), Mug (2), Lettuce (1, 2), Knife (1), Glassbottle (1), CounterTop (1), CoffeeMachine (1), CellPhone (1), Bread (1).  I am holding Lettuce (2) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Spoon (1), Plate (1), Mug (2), Lettuce (1, 2), Knife (1), Glassbottle (1), Drawer (2, 5), CounterTop (1), CoffeeMachine (1), CellPhone (1), Cabinet (5, 14, 16), Bread (1). Drawer (2) is closed.  I am holding Lettuce (2) now.
+Act: open Drawer (2)
+You open Drawer (2). You see StoveBurner (4), Spoon (1), Plate (1, 2), Mug (2), Lettuce (1, 2), Knife (1), Glassbottle (1), Drawer (2, 5), CounterTop (1), CoffeeMachine (1), Cabinet (5, 14), Bread (1). I am holding Lettuce (2) now.
+Act: go to Plate (2)
+You arrive at Plate (2). You see Toaster (1), Spatula (1), Lettuce (2), Drawer (4, 5, 6), CounterTop (1), Cabinet (1, 5, 16), ButterKnife (3).  I am holding Lettuce (2) now.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), Spoon (1), Spatula (1), Plate (1), Mug (2), Lettuce (1, 2, 2), Knife (1), Glassbottle (1), Drawer (2, 4, 5, 6), CounterTop (1, 1), CoffeeMachine (1), CellPhone (1), Cabinet (1, 5, 16), ButterKnife (3), Bread (1).  I am holding Lettuce (2) now.
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Toaster (1), Spatula (1), Mug (2), Lettuce (1, 2), Knife (1), Drawer (2, 4, 5, 6), CounterTop (1), CellPhone (1), Cabinet (1, 5, 14, 16), ButterKnife (3). Cabinet (5) is closed.  I am holding Lettuce (2) now.
+Act: open Cabinet (5)
+The Cabinet (5) is open failed. I am holding Lettuce (2) now.
+Act: go to Cabinet (14)
+You arrive at Cabinet (14). You see Toaster (1), Spatula (1), Lettuce (2), Drawer (2, 4, 5, 6), CounterTop (1), Cabinet (1, 5, 14, 16), ButterKnife (3). Cabinet (14) is closed.  I am holding Lettuce (2) now.
+Act: open Cabinet (14)
+The Cabinet (14) is open failed. I am holding Lettuce (2) now.
+Act: go to Cabinet (16)
+You arrive at Cabinet (16). You see StoveBurner (1, 2, 4), Spoon (1), Plate (1), Mug (2), Lettuce (2), Knife (1), Drawer (2, 5), CounterTop (1), Cabinet (5, 9), Bread (1). Cabinet (16) is closed.  I am holding Lettuce (2) now.
+Act: open Cabinet (16)
+You open Cabinet (16). You see StoveBurner (1, 2, 4), Spoon (1), Plate (1), Mug (2), Lettuce (2), Knife (1), Drawer (2, 5), CounterTop (1), Cabinet (5, 9, 16), Bread (1). I am holding Lettuce (2) now.
+Act: go to StoveBurner (1)
+You arrive at StoveBurner (1). You see Window (1), StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3, 4), Spatula (2), Sink (1), SinkBasin (1), Pot (1), Lettuce (2), Faucet (1), CounterTop (1, 2), CoffeeMachine (1).  I am holding Lettuce (2) now.
+Act: go to StoveBurner (2)
+You arrive at StoveBurner (2). You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3, 4), Spatula (2), Sink (1), SinkBasin (1), Potato (1), Pot (1), Lettuce (2), Faucet (1), Drawer (2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (9, 11).  I am holding Lettuce (2) now.
+Act: go to StoveBurner (3)
+You arrive at StoveBurner (3). You see Window (1), StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3, 4), Spatula (2), Sink (1), SinkBasin (1), Potato (1), Pot (1), Lettuce (2), Faucet (1), CounterTop (1, 2), CoffeeMachine (1).  I am holding Lettuce (2) now.
+Act: go to StoveBurner (4)
+You arrive at StoveBurner (4). You see Window (1), StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3, 4), Spatula (2), Sink (1), SinkBasin (1), Pot (1), Lettuce (2), Drawer (2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (9, 11).  I am holding Lettuce (2) now.
+Act: go to StoveKnob (1)
+You see Window (1), StoveKnob (1, 2, 3, 4), StoveBurner (1, 4), Spatula (2), Sink (1), SinkBasin (1), Potato (1), Pot (1), Lettuce (2), Faucet (1).  I am holding Lettuce (2) now.
+Act: go to StoveKnob (2)
+You see Window (1), StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 4), Spatula (2), Sink (1), SinkBasin (1), Pot (1), Lettuce (2), CounterTop (1), CoffeeMachine (1).  I am holding Lettuce (2) now.
+Act: go to StoveKnob (3)
+You see Window (1), StoveKnob (1, 2, 3, 4), StoveBurner (1, 4), Spatula (2), Sink (1), SinkBasin (1), Pot (1), Lettuce (2), Faucet (1), CounterTop (1), CoffeeMachine (1).  I am holding Lettuce (2) now.
+Act: go to StoveKnob (4)
+You see Window (1), StoveKnob (1, 2, 3, 4), StoveBurner (1, 4), Spatula (2), Sink (1), SinkBasin (1), Pot (1), Lettuce (2), Faucet (1), CounterTop (1), CoffeeMachine (1).  I am holding Lettuce (2) now.
+Act: go to Spatula (2)
+You see Window (1), StoveKnob (1, 3), StoveBurner (2, 3), Spatula (2), Sink (1), SinkBasin (1), Potato (1), Pot (1), Lettuce (2), Faucet (1), CounterTop (2), Cabinet (9, 11), ButterKnife (2).  I am holding Lettuce (2) now.
+Act: go to Sink (1)
+You see Window (1), StoveKnob (1, 3), StoveBurner (2, 3), Spatula (2), Sink (1), SinkBasin (1), Potato (1), Pot (1), Lettuce (2), Faucet (1), CounterTop (2), Cabinet (9, 11), ButterKnife (2).  I am holding Lettuce (2) now.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (1), StoveKnob (1), StoveBurner (2), Spatula (2), Sink (1), SinkBasin (1), Potato (1), Pot (1), Lettuce (2), Faucet (1), CounterTop (2), Cabinet (9, 11), ButterKnife (2).  I am holding Lettuce (2) now.
+Act: go to Potato (1)
+You see StoveKnob (1), StoveBurner (2), Spatula (2), Sink (1), SinkBasin (1), Potato (1), Pot (1), Lettuce (2), Faucet (1), CounterTop (2), Cabinet (9, 11), ButterKnife (2).  I am holding Lettuce (2) now.
+Act: go to Pot (1)
+You arrive at Pot (1). You see Window (1), StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3, 4), Spatula (2), Sink (1), SinkBasin (1), Potato (1), Pot (1), Lettuce (2), Faucet (1), CounterTop (1, 2), CoffeeMachine (1).  I am holding Lettuce (2) now.
+Act: go to Faucet (1)
+You see Window (1), StoveKnob (1, 3), StoveBurner (2), Spatula (2), Sink (1), SinkBasin (1), Pot (1), Lettuce (2), Faucet (1), CounterTop (2), ButterKnife (2).  I am holding Lettuce (2) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see StoveBurner (4), Spoon (1), Plate (2), Mug (2), Lettuce (2), Knife (1), Drawer (2, 5), CounterTop (1), Cabinet (5, 9, 14, 16), Bread (1). Drawer (2) is open.  I am holding Lettuce (2) now.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see SprayBottle (1), Microwave (1), Lettuce (2), CounterTop (2).  I am holding Lettuce (2) now.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see StoveBurner (1, 2, 3, 4), Spatula (2), Sink (1), SinkBasin (1), Potato (1), Pot (1), Lettuce (2), Faucet (1), Drawer (2), CounterTop (2), Cabinet (9, 11, 16), ButterKnife (2). Cabinet (9) is closed.  I am holding Lettuce (2) now.
+Act: open Cabinet (9)
+You open Cabinet (9). You see StoveBurner (2, 4), Spatula (2), Sink (1), SinkBasin (1), Potato (1), Lettuce (2), Drawer (2), CounterTop (2), Cabinet (5, 9, 11, 16), ButterKnife (2), Bowl (2). I am holding Lettuce (2) now.
+Act: go to Cabinet (11)
+You arrive at Cabinet (11). You see Spatula (2), Sink (1), SinkBasin (1), Potato (1), Lettuce (2), Faucet (1), CounterTop (2), Cabinet (8, 9, 11, 17), ButterKnife (2), Bowl (2). Cabinet (11) is closed.  I am holding Lettuce (2) now.
+Act: open Cabinet (11)
+You open Cabinet (11). You see Spatula (2), Sink (1), SinkBasin (1), Potato (1), Lettuce (2), Fridge (1), Drawer (1), CounterTop (2), Cabinet (8, 9, 11, 17), ButterKnife (2), Bowl (2). I am holding Lettuce (2) now.
+Act: go to Cabinet (16)
+You arrive at Cabinet (16). You see StoveBurner (1, 2, 4), Spoon (1), Spatula (2), Sink (1), SinkBasin (1), Potato (1), Plate (1), Mug (2), Lettuce (1, 2, 2), Knife (1), Glassbottle (1), Fridge (1), Drawer (1, 2, 5), CounterTop (1, 2), CoffeeMachine (1), Cabinet (5, 8, 9, 9, 11, 16, 17), ButterKnife (2), Bread (1), Bowl (2). Cabinet (16) is open.  I am holding Lettuce (2) now.
+Act: go to StoveBurner (1)
+You arrive at StoveBurner (1). You see Window (1), StoveKnob (1, 2, 3, 4), StoveBurner (1, 1, 1, 2, 2, 2, 3, 4, 4, 4), Spoon (1, 1, 1), Sink (1), SinkBasin (1), Pot (1), Plate (1, 1), Mug (2, 2), Lettuce (1, 1, 2, 2, 2), Knife (1, 1), Glassbottle (1, 1, 1), Drawer (2, 2, 2, 5, 5), CounterTop (1, 1, 1), CoffeeMachine (1, 1, 1), Cabinet (5, 5, 9, 9, 16, 16), Bread (1, 1, 1).  I am holding Lettuce (2) now.
+Act: go to StoveBurner (2)
+You arrive at StoveBurner (2). You see Window (1, 1, 1), StoveKnob (1, 1, 1, 2, 2, 2, 3, 3, 3, 4, 4, 4), StoveBurner (1, 1, 1, 2, 2, 2, 3, 3, 3, 4, 4, 4), Spoon (1, 1, 1), Spatula (2), Sink (1, 1, 1), SinkBasin (1, 1, 1), Potato (1), Pot (1, 1, 1), Lettuce (2, 2, 2), Glassbottle (1, 1), Drawer (2, 2, 2), CounterTop (1, 1, 1, 2), CoffeeMachine (1, 1, 1), Cabinet (9, 16), Bread (1, 1), Bowl (2).  I am holding Lettuce (2) now.
+Act: go to StoveBurner (3)
+You arrive at StoveBurner (3). You see Window (1, 1, 1), StoveKnob (1, 1, 1, 2, 2, 2, 3, 3, 3, 4, 4, 4), StoveBurner (1, 1, 1, 2, 2, 2, 3, 3, 3, 4, 4, 4), Spoon (1, 1), Spatula (2, 2, 2), Sink (1, 1, 1), SinkBasin (1, 1, 1), Potato (1, 1, 1), Pot (1, 1, 1), Lettuce (2, 2, 2), Faucet (1), Drawer (2, 2), CounterTop (1, 1, 1, 2, 2), CoffeeMachine (1, 1, 1), Cabinet (9, 9, 16, 16), Bowl (2, 2).  I am holding Lettuce (2) now.
+Act: go to StoveBurner (4)
+You arrive at StoveBurner (4). You see Window (1, 1, 1), StoveKnob (1, 1, 1, 2, 2, 2, 3, 3, 3, 4, 4, 4), StoveBurner (1, 1, 1, 2, 2, 2, 3, 3, 3, 4, 4, 4), Spoon (1), Spatula (2, 2), Sink (1, 1, 1), SinkBasin (1, 1, 1), Potato (1, 1), Pot (1, 1, 1), Lettuce (2, 2, 2), Glassbottle (1), Faucet (1, 1), Drawer (2), CounterTop (1, 1, 1), CoffeeMachine (1, 1, 1), Cabinet (9), Bread (1), Bowl (2).  I am holding Lettuce (2) now.
+Act: go to Spoon (1)
+You see Window (1), StoveKnob (1, 2, 2, 3, 4), StoveBurner (1, 1, 2, 3, 4, 4), Spoon (1, 1), Sink (1), SinkBasin (1), Pot (1), Plate (1), Mug (2), Lettuce (1, 2, 2), Knife (1), Glassbottle (1, 1), Drawer (2, 2), CounterTop (1, 1), CoffeeMachine (1, 1), Cabinet (9), Bread (1, 1), Bowl (2).  I am holding Lettuce (2) now.
+Act: go to Spoon (1)
+You see StoveKnob (2, 2), StoveBurner (1, 1, 4, 4), Spoon (1, 1), Plate (1, 1), Mug (2, 2), Lettuce (1, 1, 2, 2), Knife (1, 1), Glassbottle (1, 1), Drawer (2, 2), CounterTop (1, 1), CoffeeMachine (1, 1), Bread (1, 1).  I am holding Lettuce (2) now.
+Act: go to Spoon (1)
+You see StoveKnob (2, 2), StoveBurner (1, 1, 4, 4), Spoon (1, 1), Plate (1, 1), Mug (2, 2), Lettuce (1, 1, 2, 2), Knife (1, 1), Glassbottle (1, 1), Drawer (2, 2), CounterTop (1, 1), CoffeeMachine (1, 1), Bread (1, 1).  I am holding Lettuce (2) now.
+Act: go to Spoon (1)
+You see StoveKnob (2, 2), StoveBurner (1, 1, 4, 4), Spoon (1, 1), Plate (1, 1), Mug (2, 2), Lettuce (1, 1, 2, 2), Knife (1, 1), Glassbottle (1, 1), Drawer (2, 2), CounterTop (1, 1), CoffeeMachine (1, 1), Bread (1, 1).  I am holding Lettuce (2) now.
+Act: go to Spoon (1)
+You see StoveKnob (2, 2), StoveBurner (1, 1, 4, 4), Spoon (1, 1), Plate (1, 1), Mug (2, 2), Lettuce (1, 1, 2, 2), Knife (1, 1), Glassbottle (1, 1), Drawer (2, 2), CounterTop (1, 1), CoffeeMachine (1, 1), Bread (1, 1).  I am holding Lettuce (2) now.
+Act: go to Spoon (1)
+You see StoveKnob (2, 2), StoveBurner (1, 1, 4, 4), Spoon (1, 1), Plate (1, 1), Mug (2, 2), Lettuce (1, 1, 2, 2), Knife (1, 1), Glassbottle (1, 1), Drawer (2, 2), CounterTop (1, 1), CoffeeMachine (1, 1), Bread (1, 1).  I am holding Lettuce (2) now.
+Act: go to Spoon (1)
+You see StoveKnob (2, 2), StoveBurner (1, 1, 4, 4), Spoon (1, 1), Plate (1, 1), Mug (2, 2), Lettuce (1, 1, 2, 2), Knife (1, 1), Glassbottle (1, 1), Drawer (2, 2), CounterTop (1, 1), CoffeeMachine (1, 1), Bread (1, 1).  I am holding Lettuce (2) now.
+Act: go to Spoon (1)
+You see StoveKnob (2, 2), StoveBurner (1, 1, 4, 4), Spoon (1, 1), Plate (1, 1), Mug (2, 2), Lettuce (1, 1, 2, 2), Knife (1, 1), Glassbottle (1, 1), Drawer (2, 2), CounterTop (1, 1), CoffeeMachine (1, 1), Bread (1, 1).  I am holding Lettuce (2) now.
+Act: go to Spoon (1)
+You see StoveKnob (2, 2), StoveBurner (1, 1, 4, 4), Spoon (1, 1), Plate (1, 1), Mug (2, 2), Lettuce (1, 1, 2, 2), Knife (1, 1), Glassbottle (1, 1), Drawer (2, 2), CounterTop (1, 1), CoffeeMachine (1, 1), Bread (1, 1).  I am holding Lettuce (2) now.
+Act: go to Spoon (1)
+You see StoveKnob (2, 2), StoveBurner (1, 1, 4, 4), Spoon (1, 1), Plate (1, 1), Mug (2, 2), Lettuce (1, 1, 2, 2), Knife (1, 1), Glassbottle (1, 1), Drawer (2, 2), CounterTop (1, 1), CoffeeMachine (1, 1), Bread (1, 1).  I am holding Lettuce (2) now.
+Act: go to Spoon (1)
+You see StoveKnob (2, 2), StoveBurner (1, 1, 4, 4), Spoon (1, 1), Plate (1, 1), Mug (2, 2), Lettuce (1, 1, 2, 2), Knife (1, 1), Glassbottle (1, 1), Drawer (2, 2), CounterTop (1, 1), CoffeeMachine (1, 1), Bread (1, 1).  I am holding Lettuce (2) now.
+Act: go to Spoon (1)
+You see StoveKnob (2, 2), StoveBurner (1, 1, 4, 4), Spoon (1, 1), Plate (1, 1), Mug (2, 2), Lettuce (1, 1, 2, 2), Knife (1, 1), Glassbottle (1, 1), Drawer (2, 2), CounterTop (1, 1), CoffeeMachine (1, 1), Bread (1, 1).  I am holding Lettuce (2) now.
+Act: go to Spoon (1)
+You see StoveKnob (2, 2), StoveBurner (1, 1, 4, 4), Spoon (1, 1), Plate (1, 1), Mug (2, 2), Lettuce (1, 1, 2, 2), Knife (1, 1), Glassbottle (1, 1), Drawer (2, 2), CounterTop (1, 1), CoffeeMachine (1, 1), Bread (1, 1).  I am holding Lettuce (2) now.
+Act: go to Spoon (1)
+You see StoveKnob (2, 2), StoveBurner (1, 1, 4, 4), Spoon (1, 1), Plate (1, 1), Mug (2, 2), Lettuce (1, 1, 2, 2), Knife (1, 1), Glassbottle (1, 1), Drawer (2, 2), CounterTop (1, 1), CoffeeMachine (1, 1), Bread (1, 1).  I am holding Lettuce (2) now.
+Act: go to Spoon (1)
+You see StoveKnob (2, 2), StoveBurner (1, 1, 4, 4), Spoon (1, 1), Plate (1, 1), Mug (2, 2), Lettuce (1, 1, 2, 2), Knife (1, 1), Glassbottle (1, 1), Drawer (2, 2), CounterTop (1, 1), CoffeeMachine (1, 1), Bread (1, 1).  I am holding Lettuce (2) now.
+Act: go to Spoon (1)
+You see StoveKnob (2, 2), StoveBurner (1, 1, 4, 4), Spoon (1, 1), Plate (1, 1), Mug (2, 2), Lettuce (1, 1, 2, 2), Knife (1, 1), Glassbottle (1, 1), Drawer (2, 2), CounterTop (1, 1), CoffeeMachine (1, 1), Bread (1, 1).  I am holding Lettuce (2) now.
+Act: go to Spoon (1)
+You see StoveKnob (2, 2), StoveBurner (1, 1, 4, 4), Spoon (1, 1), Plate (1, 1), Mug (2, 2), Lettuce (1, 1, 2, 2), Knife (1, 1), Glassbottle (1, 1), Drawer (2, 2), CounterTop (1, 1), CoffeeMachine (1, 1), Bread (1, 1).  I am holding Lettuce (2) now.
+Act: go to Spoon (1)
+You see StoveKnob (2, 2), StoveBurner (1, 1, 4, 4), Spoon (1, 1), Plate (1, 1), Mug (2, 2), Lettuce (1, 1, 2, 2), Knife (1, 1), Glassbottle (1, 1), Drawer (2, 2), CounterTop (1, 1), CoffeeMachine (1, 1), Bread (1, 1).  I am holding Lettuce (2) now.
+Act: go to Spoon (1)
+You see StoveKnob (2, 2), StoveBurner (1, 1, 4, 4), Spoon (1, 1), Plate (1, 1), Mug (2, 2), Lettuce (1, 1, 2, 2), Knife (1, 1), Glassbottle (1, 1), Drawer (2, 2), CounterTop (1, 1), CoffeeMachine (1, 1), Bread (1, 1).  I am holding Lettuce (2) now.
+Act: go to Spoon (1)
+You see StoveKnob (2, 2), StoveBurner (1, 1, 4, 4), Spoon (1, 1), Plate (1, 1), Mug (2, 2), Lettuce (1, 1, 2, 2), Knife (1, 1), Glassbottle (1, 1), Drawer (2, 2), CounterTop (1, 1), CoffeeMachine (1, 1), Bread (1, 1).  I am holding Lettuce (2) now.
+Act: go to Spoon (1)
+You see StoveKnob (2, 2), StoveBurner (1, 1, 4, 4), Spoon (1, 1), Plate (1, 1), Mug (2, 2), Lettuce (1, 1, 2, 2), Knife (1, 1), Glassbottle (1, 1), Drawer (2, 2), CounterTop (1, 1), CoffeeMachine (1, 1), Bread (1, 1).  I am holding Lettuce (2) now.
+Act: go to Spoon (1)
+You see StoveKnob (2, 2), StoveBurner (1, 1, 4, 4), Spoon (1, 1), Plate (1, 1), Mug (2, 2), Lettuce (1, 1, 2, 2), Knife (1, 1), Glassbottle (1, 1), Drawer (2, 2), CounterTop (1, 1), CoffeeMachine (1, 1), Bread (1, 1).  I am holding Lettuce (2) now.
+Act: go to Spoon (1)
+You see StoveKnob (2, 2), StoveBurner (1, 1, 4, 4), Spoon (1, 1), Plate (1, 1), Mug (2, 2), Lettuce (1, 1, 2, 2), Knife (1, 1), Glassbottle (1, 1), Drawer (2, 2), CounterTop (1, 1), CoffeeMachine (1, 1), Bread (1, 1).  I am holding Lettuce (2) now.
+Act: go to Spoon (1)
+You see StoveKnob (2, 2), StoveBurner (1, 1, 4, 4), Spoon (1, 1), Plate (1, 1), Mug (2, 2), Lettuce (1, 1, 2, 2), Knife (1, 1), Glassbottle (1, 1), Drawer (2, 2), CounterTop (1, 1), CoffeeMachine (1, 1), Bread (1, 1).  I am holding Lettuce (2) now.
+Act: go to Spoon (1)
+You see StoveKnob (2, 2), StoveBurner (1, 1, 4, 4), Spoon (1, 1), Plate (1, 1), Mug (2, 2), Lettuce (1, 1, 2, 2), Knife (1, 1), Glassbottle (1, 1), Drawer (2, 2), CounterTop (1, 1), CoffeeMachine (1, 1), Bread (1, 1).  I am holding Lettuce (2) now.
+Act: go to Spoon (1)
+You see StoveKnob (2, 2), StoveBurner (1, 1, 4, 4), Spoon (1, 1), Plate (1, 1), Mug (2, 2), Lettuce (1, 1, 2, 2), Knife (1, 1), Glassbottle (1, 1), Drawer (2, 2), CounterTop (1, 1), CoffeeMachine (1, 1), Bread (1, 1).  I am holding Lettuce (2) now.
+Act: go to Spoon (1)
+You see StoveKnob (2, 2), StoveBurner (1, 1, 4, 4), Spoon (1, 1), Plate (1, 1), Mug (2, 2), Lettuce (1, 1, 2, 2), Knife (1, 1), Glassbottle (1, 1), Drawer (2, 2), CounterTop (1, 1), CoffeeMachine (1, 1), Bread (1, 1).  I am holding Lettuce (2) now.
+Act: go to Spoon (1)
+You see StoveKnob (2, 2), StoveBurner (1, 1, 4, 4), Spoon (1, 1), Plate (1, 1), Mug (2, 2), Lettuce (1, 1, 2, 2), Knife (1, 1), Glassbottle (1, 1), Drawer (2, 2), CounterTop (1, 1), CoffeeMachine (1, 1), Bread (1, 1).  I am holding Lettuce (2) now.
+Act: go to Spoon (1)
+You see StoveKnob (2, 2), StoveBurner (1, 1, 4, 4), Spoon (1, 1), Plate (1, 1), Mug (2, 2), Lettuce (1, 1, 2, 2), Knife (1, 1), Glassbottle (1, 1), Drawer (2, 2), CounterTop (1, 1), CoffeeMachine (1, 1), Bread (1, 1).  I am holding Lettuce (2) now.
+Act: go to Spoon (1)
+You see StoveKnob (2, 2), StoveBurner (1, 1, 4, 4), Spoon (1, 1), Plate (1, 1), Mug (2, 2), Lettuce (1, 1, 2, 2), Knife (1, 1), Glassbottle (1, 1), Drawer (2, 2), CounterTop (1, 1), CoffeeMachine (1, 1), Bread (1, 1).  I am holding Lettuce (2) now.
+Act: go to Spoon (1)
+You see StoveKnob (2, 2), StoveBurner (1, 1, 4, 4), Spoon (1, 1), Plate (1, 1), Mug (2, 2), Lettuce (1, 1, 2, 2), Knife (1, 1), Glassbottle (1, 1), Drawer (2, 2), CounterTop (1, 1), CoffeeMachine (1, 1), Bread (1, 1).  I am holding Lettuce (2) now.
+Act: go to Spoon (1)
+You see StoveKnob (2, 2), StoveBurner (1, 1, 4, 4), Spoon (1, 1), Plate (1, 1), Mug (2, 2), Lettuce (1, 1, 2, 2), Knife (1, 1), Glassbottle (1, 1), Drawer (2, 2), CounterTop (1, 1), CoffeeMachine (1, 1), Bread (1, 1).  I am holding Lettuce (2) now.
+Act: go to Spoon (1)
+You see StoveKnob (2, 2), StoveBurner (1, 1, 4, 4), Spoon (1, 1), Plate (1, 1), Mug (2, 2), Lettuce (1, 1, 2, 2), Knife (1, 1), Glassbottle (1, 1), Drawer (2, 2), CounterTop (1, 1), CoffeeMachine (1, 1), Bread (1, 1).  I am holding Lettuce (2) now.
+Max decisions

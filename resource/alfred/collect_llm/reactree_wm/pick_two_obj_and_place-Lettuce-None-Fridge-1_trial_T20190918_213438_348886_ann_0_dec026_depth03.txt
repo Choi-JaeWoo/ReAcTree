@@ -1,0 +1,19 @@
+Your primary goal is to: Put two heads of lettuce on the top shelf in the fridge.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, slice and pick up lettuce, place lettuce in fridge, find and pick up lettuce away from fridge, and place lettuce in fridge.
+Your task is to: find and pick up lettuce away from fridge
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9).
+Think: First, I need to recall location of the lettuce.
+OK.
+Act: recall location of Lettuce
+You saw Lettuce (1) near CounterTop (2). You saw Lettuce (4) near Fridge (1). You saw Lettuce (5) near CounterTop (1). You saw Lettuce (6) near CounterTop (1). You saw Lettuce (7) near CounterTop (1). You saw Lettuce (8) near CounterTop (1). You saw Lettuce (9) near CounterTop (1). You saw Lettuce (10) near CounterTop (1). You saw Lettuce (11) near CounterTop (1).
+Think: Lettuce (4) is in Fridge (1). I can find another lettuce, Lettuce (5), near CounterTop (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (2), Vase (2), Statue (1), Spatula (2), SoapBottle (1, 2), SaltShaker (1, 3), PepperShaker (2), Mug (3), Lettuce (5, 6, 7, 8, 9, 10, 11), CounterTop (1), ButterKnife (3), Bread (1), Book (1), Apple (1). 
+Think: I find Lettuce (5). Now, I need to pick it up.
+OK.
+Act: pick up Lettuce (5)
+You pick up Lettuce (5). You see WineBottle (2), Vase (2), Statue (1), Spatula (2), SoapBottle (1, 2), SaltShaker (1, 3), PepperShaker (2), Mug (3), Lettuce (5, 6, 7, 8, 9, 10, 11), CounterTop (1), ButterKnife (3), Bread (1), Book (1), Apple (1). I am holding Lettuce (5) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

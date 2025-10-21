@@ -1,0 +1,49 @@
+Your task is to: To put a watch on a plate plus move them to the living room table.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1, 2), SideTable (1, 2), GarbageCan (1), Drawer (1), DiningTable (1), CoffeeTable (1).
+Think: To solve the task, I need to find and pick up the watch, then put it on the plate. And I need to find and pick up the plate, then put it on the living room table.
+OK.
+Think: First, I need to recall location of the watch.
+OK.
+Act: recall location of Watch
+You have not seen Watch before.
+Think: Now I need to find the watch. The watch is more likely to appear on Sofa (1-2), SideTable (1-2), CoffeeTable (1), or in Drawer (1). I can check each place one by one, starting from Sofa (1), until I find the watch.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), RemoteControl (2), Box (2). 
+Act: go to Sofa (2)
+You arrive at Sofa (2). You see Sofa (2), Pillow (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1, 2), Drawer (1), CreditCard (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Television (1), Statue (1), SideTable (2), CreditCard (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (1), Laptop (1), CoffeeTable (1), Box (1). 
+Think: I find Watch (1). Now, I need to pick it up.
+OK.
+Act: pick up Watch (1)
+You pick up Watch (1). You see Watch (1), Laptop (1), CoffeeTable (1), Box (1). I am holding Watch (1) now.
+Think: I hold Watch (1). Now, I need to put it on the plate.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Watch (1), Vase (1), Statue (2), RemoteControl (1, 3), Plate (1, 2), Newspaper (1), KeyChain (1), DiningTable (1), CreditCard (2), Chair (2, 4), Box (3).  I am holding Watch (1) now.
+Act: go to Plate (1)
+You arrive at Plate (1). You see Watch (1), Vase (1), Statue (2), RemoteControl (1, 3), Plate (1, 2), Newspaper (1), KeyChain (1), DiningTable (1), CreditCard (2), Chair (4), Box (3).  I am holding Watch (1) now.
+Act: put down Watch (1)
+You put Watch (1) on Plate (1). You see Watch (1), Vase (1), Statue (2), RemoteControl (1, 3), Plate (1, 2), Newspaper (1), KeyChain (1), DiningTable (1), CreditCard (2), Chair (4), Box (3).
+Think: I put Watch (1) on the Plate (1). Now, I need to recall location of the plate.
+OK.
+Act: recall location of Plate
+You saw Plate (1) near DiningTable (1). You saw Plate (2) near DiningTable (1).
+Think: Plate (1) is on DiningTable (1). Now, I need to pick it up.
+OK.
+Act: pick up Plate (1)
+You pick up Plate (1). You see Watch (1), Vase (1), Statue (2), RemoteControl (1, 3), Plate (1, 2), Newspaper (1), KeyChain (1), DiningTable (1), CreditCard (2), Chair (4), Box (3). I am holding Plate (1) now.
+Think: I hold Plate (1). Now, I need to put it on the living room table.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (1), Plate (1), Laptop (1), CoffeeTable (1), Box (1).  I am holding Plate (1) now.
+Act: put down Plate (1)
+You put Plate (1) on CoffeeTable (1). You see Watch (1), Plate (1), Laptop (1), CoffeeTable (1), Box (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

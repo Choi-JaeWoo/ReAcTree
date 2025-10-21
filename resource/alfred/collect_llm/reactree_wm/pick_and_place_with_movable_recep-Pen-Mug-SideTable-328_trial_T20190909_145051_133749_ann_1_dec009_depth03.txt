@@ -1,0 +1,13 @@
+Your primary goal is to: To put a pen in a cup plus move it to the side table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pen, place pen in cup, and move cup to side table.
+Your task is to: place pen in cup
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1), GarbageCan (1), Drawer (1, 2), Desk (1), Bed (1). I am holding Pen (1) now.
+Think: I hold Pen (1). Now, I need to put it in the cup. I can see Cup (1).
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Window (2), TissueBox (2), Pen (1, 2), Mug (1), Desk (1), Chair (1), Book (1), AlarmClock (1, 2).  I am holding Pen (1) now.
+Act: put down Pen (1)
+You put Pen (1) on Desk (1). You see Window (2), TissueBox (2), Pen (1, 2), Mug (1), Desk (1), Chair (1), Book (1), AlarmClock (1, 2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

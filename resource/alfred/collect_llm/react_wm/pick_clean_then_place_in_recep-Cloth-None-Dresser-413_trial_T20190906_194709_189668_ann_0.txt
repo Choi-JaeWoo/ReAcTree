@@ -1,0 +1,41 @@
+Your task is to: Clean the dirty towel on top of the dresser.
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1, 2), HandTowelHolder (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), CounterTop (1), Cabinet (1, 2, 3, 4), Bathtub (1), BathtubBasin (1).
+Think: To solve the task, I need to find and pick up the towel, then put it in the sink basin. And I need to turn on and off the faucet. And I need to pick up the towel from the sink basin, then put it in the tub.
+OK.
+Think: First, I need to recall location of the towel.
+OK.
+Act: recall location of HandTowel
+You have not seen HandTowel before.
+Think: Now I need to find the towel. The towel is more likely to appear on Dresser (1), BathtubBasin (1), SinkBasin (1-2), Drawer (1-4), or in Cabinet (1-4). I can check each place one by one, starting from Dresser (1), until I find the towel.
+OK.
+Act: go to Dresser (1)
+You arrive at Dresser (1). You see SprayBottle (1), Dresser (1), Drawer (1, 2, 3, 4), Cloth (2). 
+Think: I find HandTowel (1). Now, I need to pick it up.
+OK.
+Act: pick up Cloth (2)
+You pick up Cloth (2). You see SprayBottle (1), Dresser (1), Drawer (1, 2, 3, 4), Cloth (2). I am holding Cloth (2) now.
+Think: I hold Cloth (2). Now, I need to put it in the sink basin.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see ToiletPaperHanger (1), SoapBottle (1), Sink (1, 2), SinkBasin (1, 2), Mirror (1), GarbageCan (1), Faucet (1, 2), CounterTop (1), Cloth (2), Cabinet (1, 2, 3, 4).  I am holding Cloth (2) now.
+Act: put down Cloth (2)
+You put Cloth (2) on SinkBasin (1). You see ToiletPaperHanger (1), SoapBottle (1), Sink (1, 2), SinkBasin (1, 2), Mirror (1), GarbageCan (1), Faucet (1, 2), CounterTop (1), Cloth (2), Cabinet (1, 2, 3, 4).
+Think: I put Cloth (2) in SinkBasin (1). Now, I need to turn on and off Faucet (1).
+OK.
+Act: turn on Faucet (1)
+You turn on Faucet (1). You see ToiletPaperHanger (1), SoapBottle (1), Sink (1, 2), SinkBasin (1, 2), Mirror (1), GarbageCan (1), Faucet (1, 2), CounterTop (1), Cloth (2), Cabinet (1, 2, 3, 4).
+Act: turn off Faucet (1)
+You turn off Faucet (1). You see ToiletPaperHanger (1), SoapBottle (1), Sink (1, 2), SinkBasin (1, 2), Mirror (1), GarbageCan (1), Faucet (1, 2), CounterTop (1), Cloth (2), Cabinet (1, 2, 3, 4).
+Think: Now, I need to pick up the towel from the sink basin.
+OK.
+Act: pick up Cloth (2)
+You pick up Cloth (2). You see ToiletPaperHanger (1), SoapBottle (1), Sink (1, 2), SinkBasin (1, 2), Mirror (1), GarbageCan (1), Faucet (1, 2), CounterTop (1), Cloth (2), Cabinet (1, 2, 3, 4). I am holding Cloth (2) now.
+Think: I pick up Cloth (2) from SinkBasin (1). Now, I need to put it in the tub.
+OK.
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1, 2), SoapBar (1), Faucet (3), Cloth (1, 2, 3), Bathtub (1), BathtubBasin (1).  I am holding Cloth (2) now.
+Act: put down Cloth (2)
+You put Cloth (2) on BathtubBasin (1). You see Window (1, 2), SoapBar (1), Faucet (3), Cloth (1, 2, 3), Bathtub (1), BathtubBasin (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

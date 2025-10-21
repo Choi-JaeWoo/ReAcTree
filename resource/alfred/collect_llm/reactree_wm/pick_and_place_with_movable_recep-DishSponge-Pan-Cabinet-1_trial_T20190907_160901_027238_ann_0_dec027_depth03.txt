@@ -1,0 +1,115 @@
+Your primary goal is to: Place the pan with the sponge in the cabinet under the sink.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pan, place pan in cabinet, find and pick up sponge, and place sponge on pan near cabinet.
+Your task is to: place sponge on pan near cabinet
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9). I am holding DishSponge (1) now.
+Think: I hold DishSponge (1). Now, I need to recall location of the pan.
+OK.
+Act: recall location of Pan
+You dropped Pan due to fail to put it on the receptacle. You need to find it again.
+Think: Now, I need to find the pan. The pan is more likely to appear on CounterTop (1-3), SinkBasin (1), or in Cabinet (1-9). I can check each place one by one, starting from CounterTop (1), until I find the pan.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Statue (1), SaltShaker (1), Potato (2), Knife (1, 2), Fork (1), DishSponge (1), CounterTop (1), Bread (1), Book (1).  I am holding DishSponge (1) now.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Window (1), Spatula (2), Sink (1), SinkBasin (1), Fork (2), Faucet (1), DishSponge (1), CounterTop (2), Cabinet (2), ButterKnife (1).  I am holding DishSponge (1) now.
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Tomato (2), StoveBurner (3), Spatula (1), Potato (1), Lettuce (1), Drawer (4, 8, 9), DishSponge (1), Cup (2), CounterTop (3), Cabinet (3).  I am holding DishSponge (1) now.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (1), Spatula (2), Sink (1), SinkBasin (1), Fork (2), Faucet (1), DishSponge (1), CounterTop (2), Cabinet (2), ButterKnife (1).  I am holding DishSponge (1) now.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Window (1, 1, 1), Spatula (2, 2), Sink (1, 1), SinkBasin (1, 1), Fridge (1), Fork (2, 2), Faucet (1, 1), DishSponge (1, 1, 1), CounterTop (2, 2), Cabinet (1, 2, 2), ButterKnife (1, 1). Cabinet (1) is open.  I am holding DishSponge (1) now.
+Act: close Cabinet (1)
+You close Cabinet (1). You see Window (1), Fridge (1), DishSponge (1), Cabinet (1). I am holding DishSponge (1) now.
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Window (1), Vase (2), Sink (1), SinkBasin (1), Fork (2), DishSponge (1), CounterTop (2), Cabinet (2, 9). Cabinet (2) is closed.  I am holding DishSponge (1) now.
+Act: open Cabinet (2)
+You open Cabinet (2). You see Window (1), Vase (2), Sink (1), SinkBasin (1), Fork (2), DishSponge (1), CounterTop (2), Cabinet (2, 9). I am holding DishSponge (1) now.
+Act: close Cabinet (2)
+You close Cabinet (2). You see Window (1), Vase (2), Sink (1), SinkBasin (1), Fork (2), DishSponge (1), CounterTop (2), Cabinet (2, 9). I am holding DishSponge (1) now.
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see Tomato (2), StoveBurner (3), Spatula (1), Potato (1), Pot (1), Lettuce (1), Drawer (2, 3, 4, 8, 9), DishSponge (1), Cup (2), CounterTop (3), Cabinet (3). Cabinet (3) is closed.  I am holding DishSponge (1) now.
+Act: open Cabinet (3)
+You open Cabinet (3). You see Tomato (2), Spatula (1), Lettuce (1), Drawer (2, 3, 4, 8, 9), DishSponge (1), Cup (2), CounterTop (3), Cabinet (3). I am holding DishSponge (1) now.
+Act: close Cabinet (3)
+You close Cabinet (3). You see Tomato (2), Spatula (1), Lettuce (1), Drawer (2, 3, 4, 8, 9), DishSponge (1), Cup (2), CounterTop (3), Cabinet (3). I am holding DishSponge (1) now.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see HousePlant (1), DishSponge (1), Cabinet (4). Cabinet (4) is closed.  I am holding DishSponge (1) now.
+Act: open Cabinet (4)
+You open Cabinet (4). You see HousePlant (1), DishSponge (1), Cabinet (4). I am holding DishSponge (1) now.
+Act: close Cabinet (4)
+You close Cabinet (4). You see HousePlant (1), DishSponge (1), Cabinet (4). I am holding DishSponge (1) now.
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Microwave (1), DishSponge (1), Cabinet (4, 5). Cabinet (5) is closed.  I am holding DishSponge (1) now.
+Act: open Cabinet (5)
+You open Cabinet (5). You see Microwave (1), DishSponge (1), Cabinet (4, 5). I am holding DishSponge (1) now.
+Act: close Cabinet (5)
+You close Cabinet (5). You see Microwave (1), DishSponge (1), Cabinet (4, 5). I am holding DishSponge (1) now.
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Toaster (1), Pan (1), Mug (1), Microwave (1, 1), Fridge (1), Drawer (1, 5, 6, 7), DishSponge (1, 1, 1), CounterTop (2), CoffeeMachine (1), Cabinet (4, 4, 5, 5, 6). Cabinet (6) is closed.  I am holding DishSponge (1) now.
+Act: open Cabinet (6)
+You open Cabinet (6). You see Toaster (1), Mug (1), Fridge (1), Drawer (1, 5, 6, 7), DishSponge (1), CounterTop (2), CoffeeMachine (1), Cabinet (6). I am holding DishSponge (1) now.
+Act: close Cabinet (6)
+You close Cabinet (6). You see Toaster (1), Pan (1), Mug (1), Fridge (1), Drawer (1, 5, 6, 7), DishSponge (1), CounterTop (2), CoffeeMachine (1), Cabinet (6). I am holding DishSponge (1) now.
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see DishSponge (1), Cabinet (7, 8). Cabinet (7) is closed.  I am holding DishSponge (1) now.
+Act: open Cabinet (7)
+You open Cabinet (7). You see Microwave (1), DishSponge (1), Cabinet (7, 8). I am holding DishSponge (1) now.
+Act: close Cabinet (7)
+You close Cabinet (7). You see Microwave (1), DishSponge (1), Cabinet (7, 8). I am holding DishSponge (1) now.
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see DishSponge (1), Cabinet (7, 8). Cabinet (8) is closed.  I am holding DishSponge (1) now.
+Act: open Cabinet (8)
+You open Cabinet (8). You see DishSponge (1), Cabinet (7, 8). I am holding DishSponge (1) now.
+Act: close Cabinet (8)
+You close Cabinet (8). You see DishSponge (1), Cabinet (7, 8). I am holding DishSponge (1) now.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Vase (2), StoveBurner (2), SoapBottle (3), Plate (1), PepperShaker (1), Kettle (1), DishSponge (1), CounterTop (2), Cabinet (2, 9). Cabinet (9) is closed.  I am holding DishSponge (1) now.
+Act: open Cabinet (9)
+You open Cabinet (9). You see Vase (2), StoveBurner (2), SoapBottle (3), Plate (1), PepperShaker (1), Kettle (1), DishSponge (1), CounterTop (2), Cabinet (2, 9). I am holding DishSponge (1) now.
+Act: close Cabinet (9)
+You close Cabinet (9). You see Vase (2), StoveBurner (2), SoapBottle (3), Plate (1), PepperShaker (1), Kettle (1), DishSponge (1), CounterTop (2), Cabinet (2, 9). I am holding DishSponge (1) now.
+Think: I can't find Pan. I need to recall location of the pan again.
+OK.
+Act: recall location of Pan
+You saw Pan (1) near Cabinet (6).
+Think: I can find Pan (1) in Cabinet (6).
+OK.
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Vase (2, 2), Toaster (1), StoveBurner (2, 2), SoapBottle (3, 3), Plate (1, 1), PepperShaker (1, 1), Pan (1), Mug (1), Kettle (1, 1), Fridge (1), Drawer (1, 5, 6, 7), DishSponge (1, 1, 1), CounterTop (2, 2, 2), CoffeeMachine (1), Cabinet (2, 2, 6, 9, 9). Cabinet (6) is closed.  I am holding DishSponge (1) now.
+Act: open Cabinet (6)
+You open Cabinet (6). You see Toaster (1), Mug (1), Fridge (1), Drawer (1, 5, 6, 7), DishSponge (1), CounterTop (2), CoffeeMachine (1), Cabinet (6). I am holding DishSponge (1) now.
+Think: I find Pan (1). Now, I need to put down DishSponge (1) on Pan (1).
+OK.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Window (1), Spatula (2), Sink (1), SinkBasin (1), Fork (2), Faucet (1), DishSponge (1), CounterTop (2), Cabinet (2), ButterKnife (1).  I am holding DishSponge (1) now.
+Act: go to DishSponge (1)
+You already arrive at DishSponge (1). You see Window (1, 1), Spatula (2, 2), Sink (1, 1), SinkBasin (1, 1), Fork (2, 2), Faucet (1, 1), DishSponge (1, 1), CounterTop (2, 2), Cabinet (2, 2), ButterKnife (1, 1).  I am holding DishSponge (1) now.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Window (1), Spatula (2), Sink (1), SinkBasin (1), Fork (2), Faucet (1), DishSponge (1), CounterTop (2), Cabinet (2), ButterKnife (1).  I am holding DishSponge (1) now.
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Window (1), Vase (2), Sink (1), SinkBasin (1), Fork (2), DishSponge (1), CounterTop (2), Cabinet (2, 9). Cabinet (2) is closed.  I am holding DishSponge (1) now.
+Act: open Cabinet (2)
+You open Cabinet (2). You see Window (1), Vase (2), Sink (1), SinkBasin (1), Fork (2), DishSponge (1), CounterTop (2), Cabinet (2, 9). I am holding DishSponge (1) now.
+Act: go to DishSponge (1)
+You already arrive at DishSponge (1). You see Window (1), Vase (2), Sink (1, 1), SinkBasin (1, 1), Fork (2, 2), DishSponge (1, 1), CounterTop (2, 2), Cabinet (2, 2, 9, 9).  I am holding DishSponge (1) now.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Window (1), Spatula (2), Sink (1), SinkBasin (1), Fork (2), Faucet (1), DishSponge (1), CounterTop (2), Cabinet (2), ButterKnife (1).  I am holding DishSponge (1) now.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Vase (2), StoveBurner (2), SoapBottle (3), Plate (1), PepperShaker (1), Kettle (1), DishSponge (1), CounterTop (2), Cabinet (2, 9). Cabinet (9) is closed.  I am holding DishSponge (1) now.
+Act: open Cabinet (9)
+You open Cabinet (9). You see Vase (2), StoveBurner (2), SoapBottle (3), Plate (1), PepperShaker (1), Kettle (1), DishSponge (1), CounterTop (2), Cabinet (2, 9). I am holding DishSponge (1) now.
+Act: go to DishSponge (1)
+You already arrive at DishSponge (1). You see Vase (2), StoveBurner (2), SoapBottle (3), Plate (1), PepperShaker (1), Kettle (1), DishSponge (1, 1), CounterTop (2, 2), Cabinet (2, 2, 9, 9).  I am holding DishSponge (1) now.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Window (1), Spatula (2), Sink (1), SinkBasin (1), Fork (2), Faucet (1), DishSponge (1), CounterTop (2), Cabinet (2), ButterKnife (1).  I am holding DishSponge (1) now.
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Toaster (1), Mug (1), Fridge (1), Drawer (1, 5, 6, 7), DishSponge (1), CounterTop (2), CoffeeMachine (1), Cabinet (6). Cabinet (6) is open.  I am holding DishSponge (1) now.
+Act: go to DishSponge (1)
+You already arrive at DishSponge (1). You see Toaster (1, 1), Pan (1), Mug (1), Fridge (1, 1), Drawer (1, 1, 5, 5, 6, 6, 7, 7), DishSponge (1, 1), CounterTop (2, 2), CoffeeMachine (1), Cabinet (6, 6).  I am holding DishSponge (1) now.
+Act: go to Pan (1)
+You arrive at Pan (1). You see Toaster (1), Pan (1), Fridge (1), Drawer (1, 5, 6, 7), DishSponge (1), CounterTop (2), Cabinet (6).  I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put DishSponge (1) on Pan (1). You see Toaster (1), Pan (1), Fridge (1), Drawer (1, 5, 6, 7), DishSponge (1), CounterTop (2), Cabinet (6).
+Think: Now I accomplish the goal.
+OK.
+Act: done

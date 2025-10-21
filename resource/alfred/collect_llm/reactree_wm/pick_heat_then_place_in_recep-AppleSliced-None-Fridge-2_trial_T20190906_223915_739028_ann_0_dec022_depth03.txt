@@ -1,0 +1,21 @@
+Your primary goal is to: place a microwaved apple slice inside of the fridge
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up apple, heat and pick up apple, find and pick up apple slice, and place apple slice in fridge.
+Your task is to: find and pick up apple slice
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4, 5, 6), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9). I am holding Apple (1) now.
+Think: First, I need to recall location of the apple slice.
+OK.
+Act: recall location of Apple
+You saw Apple (1) near hand.
+Think: I can find Apple (1) near hand.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), Egg (2, 3), Cup (2), CounterTop (1), Cabinet (1, 8), Apple (1).  I am holding Apple (1) now.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Spoon (1, 2), SoapBottle (3), Plate (1, 2, 3), PepperShaker (1), Mug (2), Lettuce (2), Fork (2), CounterTop (1, 2), Bread (1), Apple (1).  I am holding Apple (1) now.
+Think: I find Apple (1). Now, I need to pick it up.
+OK.
+Act: pick up Apple (1)
+You are currently holding Apple (1). I am holding Apple (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

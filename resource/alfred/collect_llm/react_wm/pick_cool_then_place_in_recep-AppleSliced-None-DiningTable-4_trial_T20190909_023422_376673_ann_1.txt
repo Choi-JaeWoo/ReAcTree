@@ -1,0 +1,65 @@
+Your task is to: Put a chilled slice of apple on the table.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2).
+Think: To solve the task, I need to find and pick up the apple, then put it in the fridge. And I need to pick up the apple from the fridge, then put it on the table.
+OK.
+Think: First, I need to recall location of the apple.
+OK.
+Act: recall location of Apple
+You have not seen Apple before.
+Think: Now I need to find the apple. The apple is more likely to appear on DiningTable (1), CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-2), Drawer (1-6). I can check each place one by one, starting from DiningTable (1), until I find the apple.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (1), Plate (2), Ladle (1, 2), Fork (2), DiningTable (1), ButterKnife (2), Bread (2), Bowl (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1, 2), Lettuce (1), HousePlant (1), Fork (1), Drawer (1, 5), DishSponge (1), CounterTop (1), Apple (4). 
+Think: I find Apple (4). Now, I need to pick it up.
+OK.
+Act: pick up Apple (4)
+You pick up Apple (4). You see Window (1, 2), Lettuce (1), HousePlant (1), Fork (1), DishSponge (1), CounterTop (1), Apple (4). I am holding Apple (4) now.
+Think: I hold Apple (4). Now, I need to put it in the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see GarbageCan (1), Fridge (1), Apple (1, 4). Fridge (1) is closed.  I am holding Apple (4) now.
+Act: open Fridge (1)
+You open Fridge (1). You see GarbageCan (1), Fridge (1), Apple (1, 4). I am holding Apple (4) now.
+Act: put down Apple (4)
+You put down failed, drop it. You see GarbageCan (1), Fridge (1), Apple (1, 4).
+Think: Now I need to pick up Apple (1).
+OK.
+Act: pick up Apple (1)
+
+Think: I pick up Apple (1) from Fridge (1). Now, I need to put it on the table.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (1), Plate (2), Ladle (1, 2), Fork (2), DiningTable (1), ButterKnife (2), Bread (2), Bowl (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1, 2), Lettuce (1), HousePlant (1), Fork (1), Drawer (1, 5), DishSponge (1), CounterTop (1). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Window (1), StoveKnob (4), StoveBurner (2, 4), Pot (1), CounterTop (2). 
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Microwave (1), CounterTop (3), ButterKnife (3). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Spoon (2), Spatula (1, 2), Sink (1), SinkBasin (1), SaltShaker (1), Knife (1), Fork (3), Faucet (1), Drawer (3), Cup (1), CounterTop (1, 3), Cabinet (1, 2), ButterKnife (3), Apple (2, 3). 
+Think: I find Apple (2). Now, I need to pick it up.
+OK.
+Act: pick up Apple (2)
+You pick up Apple (2). You see Window (2), Spoon (2), Spatula (1, 2), Sink (1), SinkBasin (1), SaltShaker (1), Knife (1), Fork (3), Faucet (1), Drawer (3), Cup (1), CounterTop (1, 3), Cabinet (1, 2), ButterKnife (3), Apple (2, 3). I am holding Apple (2) now.
+Think: I hold Apple (2). Now, I need to put it in the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see GarbageCan (1), Fridge (1), Apple (1, 2). Fridge (1) is open.  I am holding Apple (2) now.
+Act: put down Apple (2)
+You put down failed, drop it. You see GarbageCan (1), Fridge (1), Apple (1, 2, 4).
+Think: Now I need to pick up Apple (1).
+OK.
+Act: pick up Apple (1)
+You pick up Apple (1). You see GarbageCan (1), Fridge (1), Apple (1). I am holding Apple (1) now.
+Think: I pick up Apple (1) from Fridge (1). Now, I need to put it on the table.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (1), Plate (2), Ladle (1, 2), Fork (2), DiningTable (1), ButterKnife (2), Bread (2), Bowl (1), Apple (1).  I am holding Apple (1) now.
+Act: put down Apple (1)
+You put Apple (1) on DiningTable (1). You see Tomato (1), Plate (2), Ladle (1, 2), Fork (2), DiningTable (1), ButterKnife (2), Bread (2), Bowl (1), Apple (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

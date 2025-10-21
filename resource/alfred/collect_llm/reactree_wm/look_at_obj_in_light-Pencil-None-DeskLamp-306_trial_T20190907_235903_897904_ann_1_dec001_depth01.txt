@@ -1,0 +1,7 @@
+Your task is to: Turn on the lamp while holding the pencil.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1), LaundryHamper (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5), Desk (1), Bed (1).
+Think: Since I’m not holding pencil, I need to accomplish 2 subgoals sequentially to solve the task. Find and pick up pencil and find and turn on lamp.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up pencil, find and turn on lamp

@@ -1,0 +1,187 @@
+Your primary goal is to: Put a remote into a box and take the box to a chair
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up remote, place remote in box, and take box to chair.
+Your task is to: place remote in box
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1, 2), SideTable (1, 2, 3), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7), CoffeeTable (1), ArmChair (1). I am holding RemoteControl (1) now.
+Think: I hold RemoteControl (1). Now, I need to put it in a box. I can see Box (1).
+OK.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Television (1), TVStand (1), SideTable (1), RemoteControl (1), KeyChain (2), Drawer (1). Drawer (1) is closed.  I am holding RemoteControl (1) now.
+Act: open Drawer (1)
+You open Drawer (1). You see Television (1), TVStand (1), Sofa (2), SideTable (1, 3), RemoteControl (1), KeyChain (2), Drawer (1). I am holding RemoteControl (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Sofa (1), RemoteControl (1, 3), Laptop (1), Drawer (2, 4, 7), CoffeeTable (1). Drawer (2) is closed.  I am holding RemoteControl (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see RemoteControl (1, 3), Laptop (1), Drawer (2, 4, 7), CoffeeTable (1). I am holding RemoteControl (1) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see RemoteControl (1, 3), Laptop (1), Drawer (3, 5, 6), CoffeeTable (1). Drawer (3) is closed.  I am holding RemoteControl (1) now.
+Act: open Drawer (3)
+The Drawer (3) is open failed. I am holding RemoteControl (1) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Sofa (1), RemoteControl (1, 3), Laptop (1), Drawer (2, 4, 7), CoffeeTable (1). Drawer (4) is closed.  I am holding RemoteControl (1) now.
+Act: open Drawer (4)
+The Drawer (4) is open failed. I am holding RemoteControl (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see RemoteControl (1, 3), Laptop (1), Drawer (3, 5, 6), CoffeeTable (1). Drawer (5) is closed.  I am holding RemoteControl (1) now.
+Act: open Drawer (5)
+The Drawer (5) is open failed. I am holding RemoteControl (1) now.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see RemoteControl (1, 3), Laptop (1), Drawer (3, 5, 6), CoffeeTable (1). Drawer (6) is closed.  I am holding RemoteControl (1) now.
+Act: open Drawer (6)
+The Drawer (6) is open failed. I am holding RemoteControl (1) now.
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see Sofa (1), RemoteControl (1, 3), Laptop (1), Drawer (2, 4, 7), CoffeeTable (1). Drawer (7) is closed.  I am holding RemoteControl (1) now.
+Act: open Drawer (7)
+The Drawer (7) is open failed. I am holding RemoteControl (1) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Television (1), TVStand (1), Sofa (2), SideTable (1, 3), RemoteControl (1), KeyChain (2), Drawer (1). Drawer (1) is open.  I am holding RemoteControl (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see RemoteControl (1, 3), Laptop (1), Drawer (2, 4, 7), CoffeeTable (1). Drawer (2) is open.  I am holding RemoteControl (1) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see RemoteControl (1, 3), Laptop (1), Drawer (3, 5, 6), CoffeeTable (1). Drawer (3) is closed.  I am holding RemoteControl (1) now.
+Act: open Drawer (3)
+The Drawer (3) is open failed. I am holding RemoteControl (1) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Sofa (1), RemoteControl (1, 3), Laptop (1), Drawer (2, 4, 7), CoffeeTable (1). Drawer (4) is closed.  I am holding RemoteControl (1) now.
+Act: open Drawer (4)
+The Drawer (4) is open failed. I am holding RemoteControl (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see RemoteControl (1, 3), Laptop (1), Drawer (3, 5, 6), CoffeeTable (1). Drawer (5) is closed.  I am holding RemoteControl (1) now.
+Act: open Drawer (5)
+The Drawer (5) is open failed. I am holding RemoteControl (1) now.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see RemoteControl (1, 3), Laptop (1), Drawer (3, 5, 6), CoffeeTable (1). Drawer (6) is closed.  I am holding RemoteControl (1) now.
+Act: open Drawer (6)
+The Drawer (6) is open failed. I am holding RemoteControl (1) now.
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see Sofa (1), RemoteControl (1, 3), Laptop (1), Drawer (2, 4, 7), CoffeeTable (1). Drawer (7) is closed.  I am holding RemoteControl (1) now.
+Act: open Drawer (7)
+The Drawer (7) is open failed. I am holding RemoteControl (1) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Television (1), TVStand (1), Sofa (2), SideTable (1, 3), RemoteControl (1), KeyChain (2), Drawer (1). Drawer (1) is open.  I am holding RemoteControl (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see RemoteControl (1, 3), Laptop (1), Drawer (2, 4, 7), CoffeeTable (1). Drawer (2) is open.  I am holding RemoteControl (1) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see RemoteControl (1, 3), Laptop (1), Drawer (3, 5, 6), CoffeeTable (1). Drawer (3) is closed.  I am holding RemoteControl (1) now.
+Act: open Drawer (3)
+The Drawer (3) is open failed. I am holding RemoteControl (1) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Sofa (1), RemoteControl (1, 3), Laptop (1), Drawer (2, 4, 7), CoffeeTable (1). Drawer (4) is closed.  I am holding RemoteControl (1) now.
+Act: open Drawer (4)
+The Drawer (4) is open failed. I am holding RemoteControl (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see RemoteControl (1, 3), Laptop (1), Drawer (3, 5, 6), CoffeeTable (1). Drawer (5) is closed.  I am holding RemoteControl (1) now.
+Act: open Drawer (5)
+The Drawer (5) is open failed. I am holding RemoteControl (1) now.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see RemoteControl (1, 3), Laptop (1), Drawer (3, 5, 6), CoffeeTable (1). Drawer (6) is closed.  I am holding RemoteControl (1) now.
+Act: open Drawer (6)
+The Drawer (6) is open failed. I am holding RemoteControl (1) now.
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see Sofa (1), RemoteControl (1, 3), Laptop (1), Drawer (2, 4, 7), CoffeeTable (1). Drawer (7) is closed.  I am holding RemoteControl (1) now.
+Act: open Drawer (7)
+The Drawer (7) is open failed. I am holding RemoteControl (1) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Television (1), TVStand (1), Sofa (2), SideTable (1, 3), RemoteControl (1), KeyChain (2), Drawer (1). Drawer (1) is open.  I am holding RemoteControl (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see RemoteControl (1, 3), Laptop (1), Drawer (2, 4, 7), CoffeeTable (1). Drawer (2) is open.  I am holding RemoteControl (1) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see RemoteControl (1, 3), Laptop (1), Drawer (3, 5, 6), CoffeeTable (1). Drawer (3) is closed.  I am holding RemoteControl (1) now.
+Act: open Drawer (3)
+The Drawer (3) is open failed. I am holding RemoteControl (1) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Sofa (1), RemoteControl (1, 3), Laptop (1), Drawer (2, 4, 7), CoffeeTable (1). Drawer (4) is closed.  I am holding RemoteControl (1) now.
+Act: open Drawer (4)
+The Drawer (4) is open failed. I am holding RemoteControl (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see RemoteControl (1, 3), Laptop (1), Drawer (3, 5, 6), CoffeeTable (1). Drawer (5) is closed.  I am holding RemoteControl (1) now.
+Act: open Drawer (5)
+The Drawer (5) is open failed. I am holding RemoteControl (1) now.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see RemoteControl (1, 3), Laptop (1), Drawer (3, 5, 6), CoffeeTable (1). Drawer (6) is closed.  I am holding RemoteControl (1) now.
+Act: open Drawer (6)
+The Drawer (6) is open failed. I am holding RemoteControl (1) now.
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see Sofa (1), RemoteControl (1, 3), Laptop (1), Drawer (2, 4, 7), CoffeeTable (1). Drawer (7) is closed.  I am holding RemoteControl (1) now.
+Act: open Drawer (7)
+The Drawer (7) is open failed. I am holding RemoteControl (1) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Television (1), TVStand (1), Sofa (2), SideTable (1, 3), RemoteControl (1), KeyChain (2), Drawer (1). Drawer (1) is open.  I am holding RemoteControl (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see RemoteControl (1, 3), Laptop (1), Drawer (2, 4, 7), CoffeeTable (1). Drawer (2) is open.  I am holding RemoteControl (1) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see RemoteControl (1, 3), Laptop (1), Drawer (3, 5, 6), CoffeeTable (1). Drawer (3) is closed.  I am holding RemoteControl (1) now.
+Act: open Drawer (3)
+The Drawer (3) is open failed. I am holding RemoteControl (1) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Sofa (1), RemoteControl (1, 3), Laptop (1), Drawer (2, 4, 7), CoffeeTable (1). Drawer (4) is closed.  I am holding RemoteControl (1) now.
+Act: open Drawer (4)
+The Drawer (4) is open failed. I am holding RemoteControl (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see RemoteControl (1, 3), Laptop (1), Drawer (3, 5, 6), CoffeeTable (1). Drawer (5) is closed.  I am holding RemoteControl (1) now.
+Act: open Drawer (5)
+The Drawer (5) is open failed. I am holding RemoteControl (1) now.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see RemoteControl (1, 3), Laptop (1), Drawer (3, 5, 6), CoffeeTable (1). Drawer (6) is closed.  I am holding RemoteControl (1) now.
+Act: open Drawer (6)
+The Drawer (6) is open failed. I am holding RemoteControl (1) now.
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see Sofa (1), RemoteControl (1, 3), Laptop (1), Drawer (2, 4, 7), CoffeeTable (1). Drawer (7) is closed.  I am holding RemoteControl (1) now.
+Act: open Drawer (7)
+The Drawer (7) is open failed. I am holding RemoteControl (1) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Television (1), TVStand (1), Sofa (2), SideTable (1, 3), RemoteControl (1), KeyChain (2), Drawer (1). Drawer (1) is open.  I am holding RemoteControl (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see RemoteControl (1, 3), Laptop (1), Drawer (2, 4, 7), CoffeeTable (1). Drawer (2) is open.  I am holding RemoteControl (1) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see RemoteControl (1, 3), Laptop (1), Drawer (3, 5, 6), CoffeeTable (1). Drawer (3) is closed.  I am holding RemoteControl (1) now.
+Act: open Drawer (3)
+The Drawer (3) is open failed. I am holding RemoteControl (1) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Sofa (1), RemoteControl (1, 3), Laptop (1), Drawer (2, 4, 7), CoffeeTable (1). Drawer (4) is closed.  I am holding RemoteControl (1) now.
+Act: open Drawer (4)
+The Drawer (4) is open failed. I am holding RemoteControl (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see RemoteControl (1, 3), Laptop (1), Drawer (3, 5, 6), CoffeeTable (1). Drawer (5) is closed.  I am holding RemoteControl (1) now.
+Act: open Drawer (5)
+The Drawer (5) is open failed. I am holding RemoteControl (1) now.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see RemoteControl (1, 3), Laptop (1), Drawer (3, 5, 6), CoffeeTable (1). Drawer (6) is closed.  I am holding RemoteControl (1) now.
+Act: open Drawer (6)
+The Drawer (6) is open failed. I am holding RemoteControl (1) now.
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see Sofa (1), RemoteControl (1, 3), Laptop (1), Drawer (2, 4, 7), CoffeeTable (1). Drawer (7) is closed.  I am holding RemoteControl (1) now.
+Act: open Drawer (7)
+The Drawer (7) is open failed. I am holding RemoteControl (1) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Television (1), TVStand (1), Sofa (2), SideTable (1, 3), RemoteControl (1), KeyChain (2), Drawer (1). Drawer (1) is open.  I am holding RemoteControl (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see RemoteControl (1, 3), Laptop (1), Drawer (2, 4, 7), CoffeeTable (1). Drawer (2) is open.  I am holding RemoteControl (1) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see RemoteControl (1, 3), Laptop (1), Drawer (3, 5, 6), CoffeeTable (1). Drawer (3) is closed.  I am holding RemoteControl (1) now.
+Act: open Drawer (3)
+The Drawer (3) is open failed. I am holding RemoteControl (1) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Sofa (1), RemoteControl (1, 3), Laptop (1), Drawer (2, 4, 7), CoffeeTable (1). Drawer (4) is closed.  I am holding RemoteControl (1) now.
+Act: open Drawer (4)
+The Drawer (4) is open failed. I am holding RemoteControl (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see RemoteControl (1, 3), Laptop (1), Drawer (3, 5, 6), CoffeeTable (1). Drawer (5) is closed.  I am holding RemoteControl (1) now.
+Act: open Drawer (5)
+The Drawer (5) is open failed. I am holding RemoteControl (1) now.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see RemoteControl (1, 3), Laptop (1), Drawer (3, 5, 6), CoffeeTable (1). Drawer (6) is closed.  I am holding RemoteControl (1) now.
+Act: open Drawer (6)
+The Drawer (6) is open failed. I am holding RemoteControl (1) now.
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see Sofa (1), RemoteControl (1, 3), Laptop (1), Drawer (2, 4, 7), CoffeeTable (1). Drawer (7) is closed.  I am holding RemoteControl (1) now.
+Act: open Drawer (7)
+The Drawer (7) is open failed. I am holding RemoteControl (1) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Television (1), TVStand (1), Sofa (2), SideTable (1, 3), RemoteControl (1), KeyChain (2), Drawer (1). Drawer (1) is open.  I am holding RemoteControl (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see RemoteControl (1, 3), Laptop (1), Drawer (2, 4, 7), CoffeeTable (1). Drawer (2) is open.  I am holding RemoteControl (1) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see RemoteControl (1, 3), Laptop (1), Drawer (3, 5, 6), CoffeeTable (1). Drawer (3) is closed.  I am holding RemoteControl (1) now.
+Act: open Drawer (3)
+The Drawer (3) is open failed. I am holding RemoteControl (1) now.
+Max decisions

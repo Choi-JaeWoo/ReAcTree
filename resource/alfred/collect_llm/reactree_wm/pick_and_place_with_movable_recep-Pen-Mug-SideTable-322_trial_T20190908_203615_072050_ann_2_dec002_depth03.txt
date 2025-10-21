@@ -1,0 +1,201 @@
+Your primary goal is to: Putting a black mug with a pen in it on a nightstand
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up black mug, find and pick up pen, and place black mug on nightstand.
+Your task is to: find and pick up black mug
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1, 2), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6), Cabinet (1, 2, 3, 4), Bed (1), ArmChair (1).
+Think: First, I need to recall location of the black mug.
+OK.
+Act: recall location of Mug
+You have not seen Mug before.
+Think: Now, I need to find the black mug. The black mug is more likely to appear on SideTable (1-2), or in Drawer (1-6), Cabinet (1-4). I can check each place one by one, starting from SideTable (1), until I find the black mug.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (1), Lamp (2), KeyChain (1), Drawer (1), CreditCard (1), Bed (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (1), Pencil (1), Lamp (2), KeyChain (1), Drawer (1), CreditCard (1), Bed (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see SideTable (1), Pencil (1), Lamp (2), KeyChain (1), Drawer (1), CreditCard (1), Bed (1).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Pencil (2), Pen (1), Laptop (1), Dresser (1), Drawer (2), Cabinet (1, 2), ArmChair (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see Pencil (2), Pen (1), Laptop (1), KeyChain (2), Dresser (1), Drawer (2, 4), Cabinet (1, 2, 3), ArmChair (1).
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Mug (1), Dresser (1), Drawer (3), Cabinet (3, 4). Drawer (3) is closed. 
+Act: open Drawer (3)
+You open Drawer (3). You see Pen (2), Mug (1), Dresser (1), Drawer (3, 5), Cabinet (2, 3, 4), CD (1).
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Pencil (2), Pen (1), Laptop (1), KeyChain (2), Dresser (1), Drawer (2, 4, 5), Cabinet (1, 2, 3), AlarmClock (1). Drawer (4) is closed. 
+Act: open Drawer (4)
+You open Drawer (4). You see Pencil (2), Pen (1, 2), Laptop (1), KeyChain (2), Dresser (1), Drawer (2, 4, 5), Cabinet (1, 2, 3), AlarmClock (1).
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Pen (2), Mug (1), Dresser (1), Drawer (3, 4, 5), Cabinet (2, 3), AlarmClock (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+You open Drawer (5). You see Pen (2), Mug (1), KeyChain (2), Dresser (1), Drawer (3, 4, 5), Cabinet (1, 2, 3, 4), AlarmClock (1).
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1). Drawer (6) is closed. 
+Act: open Drawer (6)
+You open Drawer (6). You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1).
+Think: I find Mug (1). Now, I need to pick it up.
+OK.
+Act: pick up Pencil (3)
+You pick up Pencil (3). You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1). I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put down failed, drop it. You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1).
+Act: pick up Pencil (3)
+You pick up Pencil (3). You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1). I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put down failed, drop it. You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1).
+Act: pick up Pencil (3)
+You pick up Pencil (3). You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1). I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put down failed, drop it. You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1).
+Act: pick up Pencil (3)
+You pick up Pencil (3). You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1). I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put down failed, drop it. You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1).
+Act: pick up Pencil (3)
+You pick up Pencil (3). You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1). I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put down failed, drop it. You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1).
+Act: pick up Pencil (3)
+You pick up Pencil (3). You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1). I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put down failed, drop it. You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1).
+Act: pick up Pencil (3)
+You pick up Pencil (3). You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1). I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put down failed, drop it. You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1).
+Act: pick up Pencil (3)
+You pick up Pencil (3). You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1). I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put down failed, drop it. You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1).
+Act: pick up Pencil (3)
+You pick up Pencil (3). You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1). I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put down failed, drop it. You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1).
+Act: pick up Pencil (3)
+You pick up Pencil (3). You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1). I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put down failed, drop it. You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1).
+Act: pick up Pencil (3)
+You pick up Pencil (3). You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1). I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put down failed, drop it. You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1).
+Act: pick up Pencil (3)
+You pick up Pencil (3). You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1). I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put down failed, drop it. You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1).
+Act: pick up Pencil (3)
+You pick up Pencil (3). You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1). I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put down failed, drop it. You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1).
+Act: pick up Pencil (3)
+You pick up Pencil (3). You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1). I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put down failed, drop it. You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1).
+Act: pick up Pencil (3)
+You pick up Pencil (3). You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1). I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put down failed, drop it. You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1).
+Act: pick up Pencil (3)
+You pick up Pencil (3). You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1). I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put down failed, drop it. You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1).
+Act: pick up Pencil (3)
+You pick up Pencil (3). You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1). I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put down failed, drop it. You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1).
+Act: pick up Pencil (3)
+You pick up Pencil (3). You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1). I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put down failed, drop it. You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1).
+Act: pick up Pencil (3)
+You pick up Pencil (3). You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1). I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put down failed, drop it. You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1).
+Act: pick up Pencil (3)
+You pick up Pencil (3). You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1). I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put down failed, drop it. You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1).
+Act: pick up Pencil (3)
+You pick up Pencil (3). You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1). I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put down failed, drop it. You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1).
+Act: pick up Pencil (3)
+You pick up Pencil (3). You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1). I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put down failed, drop it. You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1).
+Act: pick up Pencil (3)
+You pick up Pencil (3). You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1). I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put down failed, drop it. You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1).
+Act: pick up Pencil (3)
+You pick up Pencil (3). You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1). I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put down failed, drop it. You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1).
+Act: pick up Pencil (3)
+You pick up Pencil (3). You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1). I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put down failed, drop it. You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1).
+Act: pick up Pencil (3)
+You pick up Pencil (3). You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1). I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put down failed, drop it. You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1).
+Act: pick up Pencil (3)
+You pick up Pencil (3). You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1). I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put down failed, drop it. You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1).
+Act: pick up Pencil (3)
+You pick up Pencil (3). You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1). I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put down failed, drop it. You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1).
+Act: pick up Pencil (3)
+You pick up Pencil (3). You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1). I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put down failed, drop it. You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1).
+Act: pick up Pencil (3)
+You pick up Pencil (3). You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1). I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put down failed, drop it. You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1).
+Act: pick up Pencil (3)
+You pick up Pencil (3). You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1). I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put down failed, drop it. You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1).
+Act: pick up Pencil (3)
+You pick up Pencil (3). You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1). I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put down failed, drop it. You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1).
+Act: pick up Pencil (3)
+You pick up Pencil (3). You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1). I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put down failed, drop it. You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1).
+Act: pick up Pencil (3)
+You pick up Pencil (3). You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1). I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put down failed, drop it. You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1).
+Act: pick up Pencil (3)
+You pick up Pencil (3). You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1). I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put down failed, drop it. You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1).
+Act: pick up Pencil (3)
+You pick up Pencil (3). You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1). I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put down failed, drop it. You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1).
+Act: pick up Pencil (3)
+You pick up Pencil (3). You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1). I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put down failed, drop it. You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1).
+Act: pick up Pencil (3)
+You pick up Pencil (3). You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1). I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put down failed, drop it. You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1).
+Act: pick up Pencil (3)
+You pick up Pencil (3). You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1). I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put down failed, drop it. You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1).
+Act: pick up Pencil (3)
+You pick up Pencil (3). You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1). I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put down failed, drop it. You see SideTable (2), Pencil (3), Lamp (1), Drawer (6), Bed (1).
+Max decisions

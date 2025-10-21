@@ -1,0 +1,13 @@
+Your primary goal is to: Place a box with a CD in it on a dresser.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up box, put CD in box, and place box on dresser.
+Your task is to: put CD in box
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1, 2), SideTable (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1, 2), CoffeeTable (1), ArmChair (1). I am holding Box (1) now.
+Think: I hold Box (1). Now, I need to put CD in it. I can see CD (1).
+OK.
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), Statue (2), DiningTable (1, 2), Box (1).  I am holding Box (1) now.
+Act: put down Box (1)
+You put down failed, drop it. You see Television (1), TVStand (1), Statue (2), DiningTable (1, 2).
+Think: I failed to put CD in box.
+OK.
+Act: failure

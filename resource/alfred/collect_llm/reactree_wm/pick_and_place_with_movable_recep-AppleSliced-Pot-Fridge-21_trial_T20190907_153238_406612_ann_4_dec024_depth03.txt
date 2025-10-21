@@ -1,0 +1,157 @@
+Your primary goal is to: Slice apple, place in pot and put in refrigerator.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, slice and pick up apple, place apple in pot, and place pot in fridge.
+Your task is to: place apple in pot
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1, 2, 3), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4). I am holding Apple (1) now.
+Think: I hold Apple (1). Now, I need to put it in the pot. I can see Pot (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1), Apple (1, 2, 3).  I am holding Apple (1) now.
+Act: put down Apple (1)
+You put Apple (1) on CounterTop (1). You see Spatula (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1), Apple (1, 2, 3).
+Act: pick up Apple (2)
+You pick up Apple (2). You see Spatula (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1), Apple (1, 2, 3). I am holding Apple (2) now.
+Act: put down Apple (2)
+You put down failed, drop it. You see Spatula (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1), Apple (1, 2, 3).
+Act: pick up Apple (3)
+You pick up Apple (3). You see Spatula (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1), Apple (1, 2, 3). I am holding Apple (3) now.
+Act: put down Apple (3)
+You put down failed, drop it. You see Spatula (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1), Apple (1, 3).
+Act: pick up Apple (1)
+You pick up Apple (1). You see Spatula (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1), Apple (1, 3). I am holding Apple (1) now.
+Act: put down Apple (1)
+You put down failed, drop it. You see Spatula (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1), Apple (1, 3).
+Act: pick up Apple (3)
+You pick up Apple (3). You see Spatula (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1), Apple (2, 3). I am holding Apple (3) now.
+Act: put down Apple (3)
+You put down failed, drop it. You see Spatula (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1), Apple (2, 3).
+Act: pick up Apple (2)
+You pick up Apple (2). You see Spatula (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1), Apple (2, 3). I am holding Apple (2) now.
+Act: put down Apple (2)
+You put down failed, drop it. You see Spatula (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1), Apple (2).
+Act: pick up Apple (2)
+You pick up Apple (2). You see Spatula (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1), Apple (2). I am holding Apple (2) now.
+Act: put down Apple (2)
+You put down failed, drop it. You see Spatula (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1), Apple (2).
+Act: pick up Apple (2)
+You pick up Apple (2). You see Spatula (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1), Apple (2). I am holding Apple (2) now.
+Act: put down Apple (2)
+You put down failed, drop it. You see Spatula (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1).
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2), Bowl (1). I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1).
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2), Bowl (1). I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1).
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2), Bowl (1). I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1).
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2), Bowl (1). I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1).
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2), Bowl (1). I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1).
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2), Bowl (1). I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1).
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2), Bowl (1). I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1).
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2), Bowl (1). I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1).
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2), Bowl (1). I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1).
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2), Bowl (1). I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1).
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2), Bowl (1). I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1).
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2), Bowl (1). I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1).
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2), Bowl (1). I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1).
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2), Bowl (1). I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1).
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2), Bowl (1). I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1).
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2), Bowl (1). I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1).
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2), Bowl (1). I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1).
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2), Bowl (1). I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1).
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2), Bowl (1). I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1).
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2), Bowl (1). I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1).
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2), Bowl (1). I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1).
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2), Bowl (1). I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1).
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2), Bowl (1). I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1).
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2), Bowl (1). I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1).
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2), Bowl (1). I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1).
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2), Bowl (1). I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1).
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2), Bowl (1). I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1).
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2), Bowl (1). I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1).
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2), Bowl (1). I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bowl (1).
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (1), Mug (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2), Bowl (1). I am holding Bowl (1) now.
+Max decisions

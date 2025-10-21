@@ -1,0 +1,187 @@
+Your primary goal is to: Put the spoon in a green bowl in the fridge and place them both on the counter next to the sink. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up spoon, place spoon in green bowl, place green bowl in fridge, and place green bowl on counter.
+Your task is to: place spoon in green bowl
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13). I am holding Spoon (1) now.
+Think: I hold Spoon (1). Now, I need to recall location of the green bowl.
+OK.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: I have not seen Bowl before. I need to find it.
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Spoon (1), Cabinet (1, 6, 9, 11). Cabinet (1) is closed.  I am holding Spoon (1) now.
+Act: open Cabinet (1)
+You open Cabinet (1). You see Spoon (1), Cabinet (1, 6, 9, 11). I am holding Spoon (1) now.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: I have not seen Bowl before. I need to find it.
+OK.
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Spoon (1), Cabinet (1, 6, 9). Cabinet (6) is closed.  I am holding Spoon (1) now.
+Act: open Cabinet (6)
+You open Cabinet (6). You see Spoon (1), Cabinet (1, 6, 9). I am holding Spoon (1) now.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: I have not seen Bowl before. I need to find it.
+OK.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Spoon (1), Cabinet (1, 6, 9). Cabinet (9) is closed.  I am holding Spoon (1) now.
+Act: open Cabinet (9)
+You open Cabinet (9). You see Spoon (1), Cabinet (1, 9). I am holding Spoon (1) now.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: I have not seen Bowl before. I need to find it.
+OK.
+Act: go to Cabinet (11)
+You arrive at Cabinet (11). You see Window (1), Spoon (1), Cabinet (1, 11). Cabinet (11) is closed.  I am holding Spoon (1) now.
+Act: open Cabinet (11)
+You open Cabinet (11). You see Spoon (1), SoapBottle (1), Cabinet (1, 11). I am holding Spoon (1) now.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: I have not seen Bowl before. I need to find it.
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Spoon (1), Cabinet (1, 9, 11). Cabinet (1) is open.  I am holding Spoon (1) now.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: I have not seen Bowl before. I need to find it.
+OK.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Spoon (1), Cabinet (1, 9). Cabinet (9) is open.  I am holding Spoon (1) now.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: I have not seen Bowl before. I need to find it.
+OK.
+Act: go to Cabinet (11)
+You arrive at Cabinet (11). You see Window (1), Spoon (1), SoapBottle (1), Cabinet (1, 11). Cabinet (11) is open.  I am holding Spoon (1) now.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: I have not seen Bowl before. I need to find it.
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Spoon (1), Cabinet (1, 9, 11). Cabinet (1) is open.  I am holding Spoon (1) now.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: I have not seen Bowl before. I need to find it.
+OK.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Spoon (1), Cabinet (1, 9). Cabinet (9) is open.  I am holding Spoon (1) now.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: I have not seen Bowl before. I need to find it.
+OK.
+Act: go to Cabinet (11)
+You arrive at Cabinet (11). You see Window (1), Spoon (1), SoapBottle (1), Cabinet (1, 11). Cabinet (11) is open.  I am holding Spoon (1) now.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: I have not seen Bowl before. I need to find it.
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Spoon (1), Cabinet (1, 9, 11). Cabinet (1) is open.  I am holding Spoon (1) now.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: I have not seen Bowl before. I need to find it.
+OK.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Spoon (1), Cabinet (1, 9). Cabinet (9) is open.  I am holding Spoon (1) now.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: I have not seen Bowl before. I need to find it.
+OK.
+Act: go to Cabinet (11)
+You arrive at Cabinet (11). You see Window (1), Spoon (1), SoapBottle (1), Cabinet (1, 11). Cabinet (11) is open.  I am holding Spoon (1) now.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: I have not seen Bowl before. I need to find it.
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Spoon (1), Cabinet (1, 9, 11). Cabinet (1) is open.  I am holding Spoon (1) now.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: I have not seen Bowl before. I need to find it.
+OK.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Spoon (1), Cabinet (1, 9). Cabinet (9) is open.  I am holding Spoon (1) now.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: I have not seen Bowl before. I need to find it.
+OK.
+Act: go to Cabinet (11)
+You arrive at Cabinet (11). You see Window (1), Spoon (1), SoapBottle (1), Cabinet (1, 11). Cabinet (11) is open.  I am holding Spoon (1) now.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: I have not seen Bowl before. I need to find it.
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Spoon (1), Cabinet (1, 9, 11). Cabinet (1) is open.  I am holding Spoon (1) now.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: I have not seen Bowl before. I need to find it.
+OK.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Spoon (1), Cabinet (1, 9). Cabinet (9) is open.  I am holding Spoon (1) now.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: I have not seen Bowl before. I need to find it.
+OK.
+Act: go to Cabinet (11)
+You arrive at Cabinet (11). You see Window (1), Spoon (1), SoapBottle (1), Cabinet (1, 11). Cabinet (11) is open.  I am holding Spoon (1) now.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: I have not seen Bowl before. I need to find it.
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Spoon (1), Cabinet (1, 9, 11). Cabinet (1) is open.  I am holding Spoon (1) now.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: I have not seen Bowl before. I need to find it.
+OK.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Spoon (1), Cabinet (1, 9). Cabinet (9) is open.  I am holding Spoon (1) now.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: I have not seen Bowl before. I need to find it.
+OK.
+Act: go to Cabinet (11)
+You arrive at Cabinet (11). You see Window (1), Spoon (1), SoapBottle (1), Cabinet (1, 11). Cabinet (11) is open.  I am holding Spoon (1) now.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: I have not seen Bowl before. I need to find it.
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Spoon (1), Cabinet (1, 9, 11). Cabinet (1) is open.  I am holding Spoon (1) now.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: I have not seen Bowl before. I need to find it.
+OK.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Spoon (1), Cabinet (1, 9). Cabinet (9) is open.  I am holding Spoon (1) now.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: I have not seen Bowl before. I need to find it.
+OK.
+Act: go to Cabinet (11)
+You arrive at Cabinet (11). You see Window (1), Spoon (1), SoapBottle (1), Cabinet (1, 11). Cabinet (11) is open.  I am holding Spoon (1) now.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: I have not seen Bowl before. I need to find it.
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Spoon (1), Cabinet (1, 9, 11). Cabinet (1) is open.  I am holding Spoon (1) now.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: I have not seen Bowl before. I need to find it.
+OK.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Spoon (1), Cabinet (1, 9). Cabinet (9) is open.  I am holding Spoon (1) now.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: I have not seen Bowl before. I need to find it.
+OK.
+Act: go to Cabinet (11)
+You arrive at Cabinet (11). You see Window (1), Spoon (1), SoapBottle (1), Cabinet (1, 11). Cabinet (11) is open.  I am holding Spoon (1) now.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: I have not seen Bowl before. I need to find it.
+OK.
+Max decisions

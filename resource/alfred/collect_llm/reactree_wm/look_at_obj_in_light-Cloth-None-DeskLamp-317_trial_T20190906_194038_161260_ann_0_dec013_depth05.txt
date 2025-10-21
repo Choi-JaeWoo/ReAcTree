@@ -1,0 +1,19 @@
+Your primary goal is to: turn on light
+To achieve this, you should perform your sibling tasks using a fallback strategy. At this level, your sibling tasks are: find and turn on the desk lamp, and find and turn on the floor lamp.
+Your task is to: find and turn on the desk lamp
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Safe (1), LaundryHamper (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11), Bed (1). I am holding AlarmClock (1) now.
+Think: First, I need to recall location of the desk lamp.
+OK.
+Act: recall location of DeskLamp
+You saw DeskLamp (1) near Drawer (2).
+Think: I can find DeskLamp (1) near Drawer (2).
+OK.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (1), DeskLamp (1), CreditCard (1), CellPhone (2), Bed (1), AlarmClock (1). Drawer (2) is closed.  I am holding AlarmClock (1) now.
+Think: I find DeskLamp (1). Now, I need to turn it on.
+OK.
+Act: turn on DeskLamp (1)
+You turn on DeskLamp (1). You see SideTable (1), DeskLamp (1), CreditCard (1), CellPhone (2), Bed (1), AlarmClock (1). I am holding AlarmClock (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

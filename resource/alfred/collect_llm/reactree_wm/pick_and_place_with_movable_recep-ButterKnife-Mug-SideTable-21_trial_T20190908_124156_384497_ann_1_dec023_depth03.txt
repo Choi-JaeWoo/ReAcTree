@@ -1,0 +1,21 @@
+Your primary goal is to: place a cup with a knife in it down on the kitchen table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up cup, place cup on table, find and pick up knife, and place knife in cup near table.
+Your task is to: place knife in cup near table
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1, 2, 3), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4). I am holding Knife (1) now.
+Think: I hold Knife (1). Now, I need to recall location of the cup.
+OK.
+Act: recall location of Cup
+You saw Cup (3) near DiningTable (2). You saw Cup (1) near DiningTable (1).
+Think: I can find Cup (3) on DiningTable (2).
+OK.
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Toaster (1), Spatula (2), Knife (1), Fork (3), Egg (1), Cup (3), Bread (1, 2).  I am holding Knife (1) now.
+Think: I find Cup (3). Now, I need to put down Knife (1) in Cup (3).
+OK.
+Act: go to Cup (3)
+You arrive at Cup (3). You see Toaster (1), Spatula (1, 2), SoapBottle (1), Knife (1), Fork (3), DiningTable (2), Cup (3), Bread (1, 2).  I am holding Knife (1) now.
+Act: put down Knife (1)
+You put down failed, drop it. You see Toaster (1), Spatula (1, 2), SoapBottle (1), Fork (3), DiningTable (2), Cup (3), Bread (1, 2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

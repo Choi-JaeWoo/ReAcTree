@@ -1,0 +1,7 @@
+Your task is to: Examine a watch by the light of a floor lamp.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1, 2), SideTable (1, 2), GarbageCan (1), Drawer (1), DiningTable (1), CoffeeTable (1).
+Think: Since I’m not holding watch, I need to accomplish 2 subgoals sequentially to solve the task. Find and pick up watch and find and turn on lamp.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up watch, find and turn on lamp

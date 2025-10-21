@@ -1,0 +1,61 @@
+Your primary goal is to: Move the coffee cup from the desk to the bookshelf. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up coffee cup, place coffee cup on bookshelf, and place coffee cup on desk.
+Your task is to: place coffee cup on bookshelf
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5), Desk (1), Bed (1). I am holding Mug (1) now.
+Think: I hold Mug (1). Now, I need to put it on the bookshelf. I can see Shelf (1-12).
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TennisRacket (1), Shelf (1, 4, 6, 7, 8, 9, 10, 11, 12), Pen (1), Mug (1), KeyChain (1), CreditCard (3).  I am holding Mug (1) now.
+Act: put down Mug (1)
+You put down failed, drop it. You see TennisRacket (1), Shelf (1, 4, 6, 7, 8, 9, 10, 11, 12), Pen (1), Mug (1), KeyChain (1), CreditCard (3).
+Think: I failed to put Mug (1) on Shelf (1). I need to try another shelf.
+OK.
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see TennisRacket (1, 1), Shelf (1, 1, 4, 4, 5, 6, 6, 7, 7, 8, 8, 9, 9, 10, 10, 11, 11, 12, 12), Pen (1, 1), Mug (1, 1), KeyChain (1, 1), CreditCard (3, 3). 
+Think: I find Mug (1) on Shelf (4). Now, I need to pick it up.
+OK.
+Act: pick up Mug (1)
+You pick up Mug (1). You see TennisRacket (1), Shelf (1, 4, 5, 6, 7, 8, 9, 10, 11, 12), Pen (1), Mug (1), KeyChain (1), CreditCard (3). I am holding Mug (1) now.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TennisRacket (1), Shelf (1, 4, 6, 7, 8, 9, 10, 11, 12), Pen (1), Mug (1), KeyChain (1), CreditCard (3).  I am holding Mug (1) now.
+Act: put down Mug (1)
+You put down failed, drop it. You see TennisRacket (1), Shelf (1, 4, 6, 7, 8, 9, 10, 11, 12), Pen (1), Mug (1), KeyChain (1), CreditCard (3).
+Think: I failed to put Mug (1) on Shelf (1). I need to try another shelf.
+OK.
+Act: go to Shelf (6)
+You arrive at Shelf (6). You see Shelf (1, 4, 5, 6, 7, 9, 12), Pen (1), Mug (1), KeyChain (1), Drawer (3, 4), CreditCard (3). 
+Think: I find Mug (1) on Shelf (6). Now, I need to pick it up.
+OK.
+Act: pick up Mug (1)
+You pick up Mug (1). You see Shelf (1, 4, 5, 6, 7, 9), Pen (1), Mug (1), Drawer (3, 4), CreditCard (3). I am holding Mug (1) now.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TennisRacket (1), Shelf (1, 4, 6, 7, 8, 9, 10, 11, 12), Pen (1), Mug (1), KeyChain (1), CreditCard (3).  I am holding Mug (1) now.
+Act: put down Mug (1)
+You put down failed, drop it. You see TennisRacket (1), Shelf (1, 4, 6, 7, 8, 9, 10, 11, 12), Pen (1), KeyChain (1), CreditCard (3).
+Think: I failed to put Mug (1) on Shelf (1). I need to try another shelf.
+OK.
+Act: go to Shelf (7)
+You arrive at Shelf (7). You see Shelf (1, 4, 5, 6, 7, 9, 12), Pen (1), KeyChain (1), Drawer (3, 4), CreditCard (3). 
+Think: I find Mug (1) on Shelf (7). Now, I need to pick it up.
+OK.
+Act: pick up KeyChain (1)
+You pick up KeyChain (1). You see Shelf (1, 4, 5, 6, 7, 9, 12), Pen (1), KeyChain (1), Drawer (3, 4), CreditCard (3). I am holding KeyChain (1) now.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TennisRacket (1), Shelf (1, 4, 6, 7, 8, 9, 10, 11, 12), Pen (1), KeyChain (1), CreditCard (3).  I am holding KeyChain (1) now.
+Act: put down KeyChain (1)
+You put down failed, drop it. You see TennisRacket (1), Shelf (1, 4, 6, 7, 8, 9, 10, 11, 12), Pen (1), KeyChain (1), CreditCard (3).
+Think: I failed to put KeyChain (1) on Shelf (1). I need to try another shelf.
+OK.
+Act: go to Shelf (9)
+You arrive at Shelf (9). You see Shelf (1, 4, 5, 6, 7, 9, 12), Pen (1), Drawer (3, 4), CreditCard (3). 
+Think: I find KeyChain (1) on Shelf (9). Now, I need to pick it up.
+OK.
+Act: pick up Pen (1)
+You pick up Pen (1). You see Shelf (1, 4, 5, 6, 7, 9, 12), Pen (1), Drawer (3, 4), CreditCard (3). I am holding Pen (1) now.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TennisRacket (1), Shelf (1, 4, 6, 7, 8, 9, 10, 11, 12), Pen (1), KeyChain (1), CreditCard (3).  I am holding Pen (1) now.
+Act: put down Pen (1)
+You put Pen (1) on Shelf (1). You see TennisRacket (1), Shelf (1, 4, 6, 7, 8, 9, 10, 11, 12), Pen (1), KeyChain (1), CreditCard (3).
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,13 @@
+Your primary goal is to: Grab coffee mug, clean, put it back under machine. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up coffee mug, clean and pick up coffee mug, and place coffee mug on coffee machine.
+Your task is to: place coffee mug on coffee machine
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8). I am holding Mug (3) now.
+Think: I hold Mug (3). Now, I need to put it on the coffee machine. I can see CoffeeMachine (1).
+OK.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see Toaster (1), Sink (1), SinkBasin (1), Potato (3), PepperShaker (3), Mug (3), Knife (1), Fridge (1), Fork (3), Faucet (1), CounterTop (2), CoffeeMachine (1), ButterKnife (1), Apple (3).  I am holding Mug (3) now.
+Act: put down Mug (3)
+You put Mug (3) on CoffeeMachine (1). You see Toaster (1), Sink (1), SinkBasin (1), Potato (3), PepperShaker (3), Mug (3), Knife (1), Fridge (1), Fork (3), Faucet (1), CounterTop (2), CoffeeMachine (1), ButterKnife (1), Apple (3).
+Think: Now I accomplish the goal.
+OK.
+Act: done

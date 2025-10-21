@@ -1,0 +1,187 @@
+Your primary goal is to: Put a box with watch inside on the chair 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up box, place watch in box, and place box on chair.
+Your task is to: place watch in box
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2, 3), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12), DiningTable (1), CoffeeTable (1), ArmChair (1, 2). I am holding Box (3) now.
+Think: I hold Box (3). Now, I need to put watch in it. I can see Watch (1).
+OK.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Television (1), RemoteControl (3), Dresser (1), Drawer (4, 5, 6, 7, 9, 11), Box (2, 3), Book (1). Drawer (1) is closed.  I am holding Box (3) now.
+Act: open Drawer (1)
+You open Drawer (1). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 2, 4, 5, 6, 7, 9, 11), Box (2, 3), Book (1). I am holding Box (3) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 7), Box (2, 3). Drawer (2) is closed.  I am holding Box (3) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 2, 7), Box (2, 3). I am holding Box (3) now.
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 2), Box (2, 3), Book (1). Drawer (7) is closed.  I am holding Box (3) now.
+Act: open Drawer (7)
+You open Drawer (7). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 2, 7), Box (2, 3), Book (1). I am holding Box (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Dresser (1), Drawer (1, 2, 4, 5, 6, 7, 9, 11), Box (2, 3), Book (1). Drawer (1) is open.  I am holding Box (3) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Dresser (1), Drawer (1, 2, 7, 9), Box (2, 3). Drawer (2) is open.  I am holding Box (3) now.
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see Dresser (1), Drawer (1, 7, 9), Box (2, 3). Drawer (7) is open.  I am holding Box (3) now.
+Act: go to Drawer (9)
+You arrive at Drawer (9). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 4, 5, 6, 7, 9, 11), Box (2, 3), Book (1). Drawer (9) is closed.  I am holding Box (3) now.
+Act: open Drawer (9)
+You open Drawer (9). You see Television (1), RemoteControl (3), Dresser (1), Drawer (4, 6, 7, 9, 11), Box (2, 3), Book (1). I am holding Box (3) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Television (1), Laptop (1), KeyChain (2), Dresser (1), Drawer (3, 6, 9, 10, 12), Box (2, 3), Book (1). Drawer (4) is closed.  I am holding Box (3) now.
+Act: open Drawer (4)
+The Drawer (4) is not close to you. I am holding Box (3) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Television (1), Laptop (1), KeyChain (2), Dresser (1), Drawer (1, 3, 4, 6, 11, 12), Box (2, 3), Book (1). Drawer (3) is closed.  I am holding Box (3) now.
+Act: open Drawer (3)
+You open Drawer (3). You see Television (1), Laptop (1), KeyChain (2), Dresser (1), Drawer (1, 3, 4, 6, 11, 12), Box (2, 3), Book (1). I am holding Box (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Dresser (1), Drawer (1, 2, 3, 4, 6, 7, 9, 11), Box (2, 3), Book (1). Drawer (1) is open.  I am holding Box (3) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Dresser (1), Drawer (1, 2, 7, 9), Box (2, 3). Drawer (2) is open.  I am holding Box (3) now.
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see Dresser (1), Drawer (1, 7, 9), Box (2, 3). Drawer (7) is open.  I am holding Box (3) now.
+Act: go to Drawer (9)
+You arrive at Drawer (9). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 2, 3, 4, 6, 7, 9, 11), Box (2, 3), Book (1). Drawer (9) is open.  I am holding Box (3) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Television (1), Laptop (1), KeyChain (2), Dresser (1), Drawer (3, 6, 9, 12), Box (2, 3), Book (1). Drawer (4) is closed.  I am holding Box (3) now.
+Act: open Drawer (4)
+The Drawer (4) is not close to you. I am holding Box (3) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Laptop (1), Dresser (1), Drawer (3, 4, 6, 11, 12), Box (3), Book (1). Drawer (3) is open.  I am holding Box (3) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Television (1), Laptop (1), KeyChain (2), Dresser (1), Drawer (3, 6, 9, 12), Box (2, 3), Book (1). Drawer (4) is closed.  I am holding Box (3) now.
+Act: open Drawer (4)
+The Drawer (4) is not close to you. I am holding Box (3) now.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Television (1), Laptop (1), KeyChain (2), Dresser (1), Drawer (3, 6, 9, 12), Box (2, 3), Book (1). Drawer (6) is closed.  I am holding Box (3) now.
+Act: open Drawer (6)
+The Drawer (6) is open failed. I am holding Box (3) now.
+Act: go to Drawer (9)
+You arrive at Drawer (9). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 2, 3, 4, 6, 7, 9, 11), Box (2, 3), Book (1). Drawer (9) is open.  I am holding Box (3) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Television (1), Laptop (1), KeyChain (2), Dresser (1), Drawer (3, 6, 9, 12), Box (2, 3), Book (1). Drawer (4) is closed.  I am holding Box (3) now.
+Act: open Drawer (4)
+The Drawer (4) is not close to you. I am holding Box (3) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Laptop (1), Dresser (1), Drawer (3, 4, 6, 11, 12), Box (3), Book (1). Drawer (3) is open.  I am holding Box (3) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Television (1), Laptop (1), KeyChain (2), Dresser (1), Drawer (3, 6, 9, 12), Box (2, 3), Book (1). Drawer (4) is closed.  I am holding Box (3) now.
+Act: open Drawer (4)
+The Drawer (4) is not close to you. I am holding Box (3) now.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Television (1), Laptop (1), KeyChain (2), Dresser (1), Drawer (3, 6, 9, 12), Box (2, 3), Book (1). Drawer (6) is closed.  I am holding Box (3) now.
+Act: open Drawer (6)
+The Drawer (6) is open failed. I am holding Box (3) now.
+Act: go to Drawer (9)
+You arrive at Drawer (9). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 2, 3, 4, 6, 7, 9, 11), Box (2, 3), Book (1). Drawer (9) is open.  I am holding Box (3) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Television (1), Laptop (1), KeyChain (2), Dresser (1), Drawer (3, 6, 9, 12), Box (2, 3), Book (1). Drawer (4) is closed.  I am holding Box (3) now.
+Act: open Drawer (4)
+The Drawer (4) is not close to you. I am holding Box (3) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Laptop (1), Dresser (1), Drawer (3, 4, 6, 11, 12), Box (3), Book (1). Drawer (3) is open.  I am holding Box (3) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Television (1), Laptop (1), KeyChain (2), Dresser (1), Drawer (3, 6, 9, 12), Box (2, 3), Book (1). Drawer (4) is closed.  I am holding Box (3) now.
+Act: open Drawer (4)
+The Drawer (4) is not close to you. I am holding Box (3) now.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Television (1), Laptop (1), KeyChain (2), Dresser (1), Drawer (3, 6, 9, 12), Box (2, 3), Book (1). Drawer (6) is closed.  I am holding Box (3) now.
+Act: open Drawer (6)
+The Drawer (6) is open failed. I am holding Box (3) now.
+Act: go to Drawer (9)
+You arrive at Drawer (9). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 2, 3, 4, 6, 7, 9, 11), Box (2, 3), Book (1). Drawer (9) is open.  I am holding Box (3) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Television (1), Laptop (1), KeyChain (2), Dresser (1), Drawer (3, 6, 9, 12), Box (2, 3), Book (1). Drawer (4) is closed.  I am holding Box (3) now.
+Act: open Drawer (4)
+The Drawer (4) is not close to you. I am holding Box (3) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Laptop (1), Dresser (1), Drawer (3, 4, 6, 11, 12), Box (3), Book (1). Drawer (3) is open.  I am holding Box (3) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Television (1), Laptop (1), KeyChain (2), Dresser (1), Drawer (3, 6, 9, 12), Box (2, 3), Book (1). Drawer (4) is closed.  I am holding Box (3) now.
+Act: open Drawer (4)
+The Drawer (4) is not close to you. I am holding Box (3) now.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Television (1), Laptop (1), KeyChain (2), Dresser (1), Drawer (3, 6, 9, 12), Box (2, 3), Book (1). Drawer (6) is closed.  I am holding Box (3) now.
+Act: open Drawer (6)
+The Drawer (6) is open failed. I am holding Box (3) now.
+Act: go to Drawer (9)
+You arrive at Drawer (9). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 2, 3, 4, 6, 7, 9, 11), Box (2, 3), Book (1). Drawer (9) is open.  I am holding Box (3) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Television (1), Laptop (1), KeyChain (2), Dresser (1), Drawer (3, 6, 9, 12), Box (2, 3), Book (1). Drawer (4) is closed.  I am holding Box (3) now.
+Act: open Drawer (4)
+The Drawer (4) is not close to you. I am holding Box (3) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Laptop (1), Dresser (1), Drawer (3, 4, 6, 11, 12), Box (3), Book (1). Drawer (3) is open.  I am holding Box (3) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Television (1), Laptop (1), KeyChain (2), Dresser (1), Drawer (3, 6, 9, 12), Box (2, 3), Book (1). Drawer (4) is closed.  I am holding Box (3) now.
+Act: open Drawer (4)
+The Drawer (4) is not close to you. I am holding Box (3) now.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Television (1), Laptop (1), KeyChain (2), Dresser (1), Drawer (3, 6, 9, 12), Box (2, 3), Book (1). Drawer (6) is closed.  I am holding Box (3) now.
+Act: open Drawer (6)
+The Drawer (6) is open failed. I am holding Box (3) now.
+Act: go to Drawer (9)
+You arrive at Drawer (9). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 2, 3, 4, 6, 7, 9, 11), Box (2, 3), Book (1). Drawer (9) is open.  I am holding Box (3) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Television (1), Laptop (1), KeyChain (2), Dresser (1), Drawer (3, 6, 9, 12), Box (2, 3), Book (1). Drawer (4) is closed.  I am holding Box (3) now.
+Act: open Drawer (4)
+The Drawer (4) is not close to you. I am holding Box (3) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Laptop (1), Dresser (1), Drawer (3, 4, 6, 11, 12), Box (3), Book (1). Drawer (3) is open.  I am holding Box (3) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Television (1), Laptop (1), KeyChain (2), Dresser (1), Drawer (3, 6, 9, 12), Box (2, 3), Book (1). Drawer (4) is closed.  I am holding Box (3) now.
+Act: open Drawer (4)
+The Drawer (4) is not close to you. I am holding Box (3) now.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Television (1), Laptop (1), KeyChain (2), Dresser (1), Drawer (3, 6, 9, 12), Box (2, 3), Book (1). Drawer (6) is closed.  I am holding Box (3) now.
+Act: open Drawer (6)
+The Drawer (6) is open failed. I am holding Box (3) now.
+Act: go to Drawer (9)
+You arrive at Drawer (9). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 2, 3, 4, 6, 7, 9, 11), Box (2, 3), Book (1). Drawer (9) is open.  I am holding Box (3) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Television (1), Laptop (1), KeyChain (2), Dresser (1), Drawer (3, 6, 9, 12), Box (2, 3), Book (1). Drawer (4) is closed.  I am holding Box (3) now.
+Act: open Drawer (4)
+The Drawer (4) is not close to you. I am holding Box (3) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Laptop (1), Dresser (1), Drawer (3, 4, 6, 11, 12), Box (3), Book (1). Drawer (3) is open.  I am holding Box (3) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Television (1), Laptop (1), KeyChain (2), Dresser (1), Drawer (3, 6, 9, 12), Box (2, 3), Book (1). Drawer (4) is closed.  I am holding Box (3) now.
+Act: open Drawer (4)
+The Drawer (4) is not close to you. I am holding Box (3) now.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Television (1), Laptop (1), KeyChain (2), Dresser (1), Drawer (3, 6, 9, 12), Box (2, 3), Book (1). Drawer (6) is closed.  I am holding Box (3) now.
+Act: open Drawer (6)
+The Drawer (6) is open failed. I am holding Box (3) now.
+Act: go to Drawer (9)
+You arrive at Drawer (9). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 2, 3, 4, 6, 7, 9, 11), Box (2, 3), Book (1). Drawer (9) is open.  I am holding Box (3) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Television (1), Laptop (1), KeyChain (2), Dresser (1), Drawer (3, 6, 9, 12), Box (2, 3), Book (1). Drawer (4) is closed.  I am holding Box (3) now.
+Act: open Drawer (4)
+The Drawer (4) is not close to you. I am holding Box (3) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Laptop (1), Dresser (1), Drawer (3, 4, 6, 11, 12), Box (3), Book (1). Drawer (3) is open.  I am holding Box (3) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Television (1), Laptop (1), KeyChain (2), Dresser (1), Drawer (3, 6, 9, 12), Box (2, 3), Book (1). Drawer (4) is closed.  I am holding Box (3) now.
+Act: open Drawer (4)
+The Drawer (4) is not close to you. I am holding Box (3) now.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Television (1), Laptop (1), KeyChain (2), Dresser (1), Drawer (3, 6, 9, 12), Box (2, 3), Book (1). Drawer (6) is closed.  I am holding Box (3) now.
+Act: open Drawer (6)
+The Drawer (6) is open failed. I am holding Box (3) now.
+Act: go to Drawer (9)
+You arrive at Drawer (9). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 2, 3, 4, 6, 7, 9, 11), Box (2, 3), Book (1). Drawer (9) is open.  I am holding Box (3) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Television (1), Laptop (1), KeyChain (2), Dresser (1), Drawer (3, 6, 9, 12), Box (2, 3), Book (1). Drawer (4) is closed.  I am holding Box (3) now.
+Act: open Drawer (4)
+The Drawer (4) is not close to you. I am holding Box (3) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Laptop (1), Dresser (1), Drawer (3, 4, 6, 11, 12), Box (3), Book (1). Drawer (3) is open.  I am holding Box (3) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Television (1), Laptop (1), KeyChain (2), Dresser (1), Drawer (3, 6, 9, 12), Box (2, 3), Book (1). Drawer (4) is closed.  I am holding Box (3) now.
+Act: open Drawer (4)
+The Drawer (4) is not close to you. I am holding Box (3) now.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Television (1), Laptop (1), KeyChain (2), Dresser (1), Drawer (3, 6, 9, 12), Box (2, 3), Book (1). Drawer (6) is closed.  I am holding Box (3) now.
+Act: open Drawer (6)
+The Drawer (6) is open failed. I am holding Box (3) now.
+Max decisions

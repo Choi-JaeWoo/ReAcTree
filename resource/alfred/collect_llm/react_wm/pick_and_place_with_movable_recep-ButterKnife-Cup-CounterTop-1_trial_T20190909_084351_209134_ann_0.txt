@@ -1,0 +1,115 @@
+Your task is to:  Put The Knife  into a cup  and  put it next to the sink
+
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9).
+Think: To solve the task, I need to find and pick up the knife, then put it in a cup. And I need to find and put the cup next to the sink.
+OK.
+Think: First, I need to recall location of the knife.
+OK.
+Act: recall location of Knife
+You have not seen Knife before.
+Think: Now I need to find the knife. The knife is more likely to appear on CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-9), Drawer (1-9). I can check each place one by one, starting from CounterTop (1), until I find the knife.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Statue (1), SaltShaker (1, 3), Pan (2), Kettle (1), Fork (1), DishSponge (2), CounterTop (1), Book (1), Apple (2). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Window (1), Spoon (2), Sink (1), SinkBasin (1), Kettle (2), Glassbottle (1), Faucet (1), CounterTop (2), Cabinet (2), ButterKnife (2). 
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Tomato (1, 2), StoveBurner (3), Knife (1), Drawer (4, 8, 9), CounterTop (3), Cabinet (3), Book (2). 
+Think: I find Knife (1). Now, I need to pick it up.
+OK.
+Act: pick up Knife (1)
+You pick up Knife (1). You see Tomato (1, 2), StoveBurner (3), Knife (1), Drawer (4, 8, 9), CounterTop (3), Cabinet (3), Book (2). I am holding Knife (1) now.
+Think: I hold Knife (1). Now, I need to find a cup.
+OK.
+Think: I need to recall location of the cup.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the cup. The cup is more likely to appear on CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-9), Drawer (1-9). I can check each place one by one, starting from CounterTop (1), until I find the cup.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Statue (1), SaltShaker (1, 3), Pan (2), Knife (1), Kettle (1), Fork (1), DishSponge (2), CounterTop (1), Book (1), Apple (2).  I am holding Knife (1) now.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Window (1), Spoon (2), Sink (1), SinkBasin (1), Knife (1), Kettle (2), Glassbottle (1), Faucet (1), CounterTop (2), Cabinet (2), ButterKnife (2).  I am holding Knife (1) now.
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Tomato (1, 2), StoveBurner (3), Knife (1), Drawer (4, 8, 9), CounterTop (3), Cabinet (3), Book (2).  I am holding Knife (1) now.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (1), Vase (1), Spoon (2), Sink (1), SinkBasin (1), PaperTowelRoll (1), Knife (1), Kettle (2), Glassbottle (1), Faucet (1), CounterTop (2), Cabinet (2), ButterKnife (2).  I am holding Knife (1) now.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Knife (1), Fridge (1), Cabinet (6). Fridge (1) is closed.  I am holding Knife (1) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Knife (1), GarbageCan (1), Fridge (1). I am holding Knife (1) now.
+Act: close Fridge (1)
+You close Fridge (1). You see Knife (1), Fridge (1), Cabinet (6). I am holding Knife (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1), Knife (1). Microwave (1) is closed.  I am holding Knife (1) now.
+Act: open Microwave (1)
+You open Microwave (1). You see Microwave (1), Knife (1). I am holding Knife (1) now.
+Act: close Microwave (1)
+You close Microwave (1). You see Microwave (1), Knife (1). I am holding Knife (1) now.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Knife (1), Fridge (1), Cabinet (1). Cabinet (1) is closed.  I am holding Knife (1) now.
+Act: open Cabinet (1)
+You open Cabinet (1). You see Knife (1), Fridge (1), Cabinet (1). I am holding Knife (1) now.
+Act: close Cabinet (1)
+You close Cabinet (1). You see Knife (1), Fridge (1), Cabinet (1). I am holding Knife (1) now.
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Window (1), Vase (1), Spoon (2), SoapBottle (3), Sink (1), SinkBasin (1), PaperTowelRoll (1), Knife (1), Glassbottle (1), CounterTop (2), Cabinet (2, 9), ButterKnife (2), Apple (1). Cabinet (2) is closed.  I am holding Knife (1) now.
+Act: open Cabinet (2)
+You open Cabinet (2). You see Window (1), Vase (1), Spoon (2), SoapBottle (1, 3), Sink (1), SinkBasin (1), PaperTowelRoll (1), Knife (1), Glassbottle (1), CounterTop (2), Cabinet (2, 9), ButterKnife (2), Apple (1). I am holding Knife (1) now.
+Act: close Cabinet (2)
+You close Cabinet (2). You see Window (1), Vase (1), Spoon (2), SoapBottle (3), Sink (1), SinkBasin (1), PaperTowelRoll (1), Knife (1), Glassbottle (1), CounterTop (2), Cabinet (2, 9), ButterKnife (2), Apple (1). I am holding Knife (1) now.
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see Tomato (1, 2), StoveBurner (3), Pot (1), Knife (1), Drawer (2, 3, 4, 8, 9), CounterTop (3), Cabinet (3), Book (2). Cabinet (3) is closed.  I am holding Knife (1) now.
+Act: open Cabinet (3)
+You open Cabinet (3). You see Tomato (1, 2), Knife (1), Drawer (2, 3, 4, 8, 9), DishSponge (1), CounterTop (3), Cabinet (3), Book (2). I am holding Knife (1) now.
+Act: close Cabinet (3)
+You close Cabinet (3). You see Tomato (1, 2), Knife (1), Drawer (2, 3, 4, 8, 9), CounterTop (3), Cabinet (3), Book (2). I am holding Knife (1) now.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see Knife (1), HousePlant (1), Cabinet (4). Cabinet (4) is closed.  I am holding Knife (1) now.
+Act: open Cabinet (4)
+You open Cabinet (4). You see Vase (3), Knife (1), HousePlant (1), Cabinet (4), Bowl (1). I am holding Knife (1) now.
+Act: close Cabinet (4)
+You close Cabinet (4). You see Knife (1), HousePlant (1), Cabinet (4). I am holding Knife (1) now.
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Microwave (1), Knife (1), Cabinet (4, 5). Cabinet (5) is closed.  I am holding Knife (1) now.
+Act: open Cabinet (5)
+You open Cabinet (5). You see WineBottle (1), Microwave (1), Knife (1), Cabinet (4, 5). I am holding Knife (1) now.
+Act: close Cabinet (5)
+You close Cabinet (5). You see Microwave (1), Knife (1), Cabinet (4, 5). I am holding Knife (1) now.
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Toaster (1), Knife (1), Fridge (1), Drawer (1, 5, 6, 7), CounterTop (2), CoffeeMachine (1), Cabinet (6). Cabinet (6) is closed.  I am holding Knife (1) now.
+Act: open Cabinet (6)
+You open Cabinet (6). You see Toaster (1), Knife (1), Fridge (1), Drawer (1, 5, 6, 7), CounterTop (2), CoffeeMachine (1), Cabinet (6). I am holding Knife (1) now.
+Act: close Cabinet (6)
+You close Cabinet (6). You see Toaster (1), Knife (1), Fridge (1), Drawer (1, 5, 6, 7), CounterTop (2), CoffeeMachine (1), Cabinet (6). I am holding Knife (1) now.
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Knife (1), Cabinet (7, 8). Cabinet (7) is closed.  I am holding Knife (1) now.
+Act: open Cabinet (7)
+You open Cabinet (7). You see Knife (1), Cabinet (7, 8). I am holding Knife (1) now.
+Act: close Cabinet (7)
+You close Cabinet (7). You see Knife (1), Cabinet (7, 8). I am holding Knife (1) now.
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Knife (1), Cabinet (7, 8). Cabinet (8) is closed.  I am holding Knife (1) now.
+Act: open Cabinet (8)
+You open Cabinet (8). You see Knife (1), Cabinet (7, 8). I am holding Knife (1) now.
+Act: close Cabinet (8)
+You close Cabinet (8). You see Knife (1), Cabinet (7, 8). I am holding Knife (1) now.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see StoveBurner (2), SoapBottle (3), Pan (1), Lettuce (1), Knife (1), CounterTop (2), Cabinet (2, 9), ButterKnife (1), Apple (1). Cabinet (9) is closed.  I am holding Knife (1) now.
+Act: open Cabinet (9)
+You open Cabinet (9). You see StoveBurner (2), SoapBottle (3), Plate (2), Pan (1), Mug (1), Lettuce (1), Knife (1), CounterTop (2), Cabinet (2, 9), ButterKnife (1), Apple (1). I am holding Knife (1) now.
+Act: close Cabinet (9)
+You close Cabinet (9). You see StoveBurner (2), SoapBottle (3), Pan (1), Lettuce (1), Knife (1), CounterTop (2), Cabinet (2, 9), ButterKnife (1), Apple (1). I am holding Knife (1) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Toaster (1), Knife (1), Fridge (1), Drawer (1, 5, 6, 7), CounterTop (2), CoffeeMachine (1), Cabinet (6). Drawer (1) is closed.  I am holding Knife (1) now.
+Act: open Drawer (1)
+You open Drawer (1). You see Toaster (1), Knife (1), Fridge (1), Drawer (1, 5, 6, 7), CounterTop (2), CoffeeMachine (1). I am holding Knife (1) now.
+Act: close Drawer (1)
+You close Drawer (1). You see Toaster (1), Knife (1), Fridge (1), Drawer (1, 5, 6, 7), CounterTop (2), CoffeeMachine (1), Cabinet (6). I am holding Knife (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Tomato (1, 2), Shelf (2, 3), SaltShaker (2), Knife (1), Drawer (2, 3, 4, 8, 9), CounterTop (3), Cabinet (3), Book (2). Drawer (2) is closed.  I am holding Knife (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Tomato (1, 2), Shelf (1, 2), SaltShaker (2), Knife (1), Drawer (2, 3, 4, 8, 9), CounterTop (3), Cabinet (3), Book (2). I am holding Knife (1) now.
+Act: close Drawer (2)
+You close Drawer (2). You see Tomato (1, 2), Shelf (1, 2), SaltShaker (2), Knife (1), Drawer (2, 3, 4, 8, 9), CounterTop (3), Cabinet (3), Book (2). I am holding Knife (1) now.

@@ -1,0 +1,7 @@
+Your task is to: Place two tv remotes on the gray sofa chair.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1, 2), SideTable (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1, 2), CoffeeTable (1), ArmChair (1).
+Think: Since I’m not holding the tv remote, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up tv remote, place tv remote on sofa, Find and pick up tv remote away from sofa, and place tv remote on sofa.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up tv remote, place tv remote on sofa, Find and pick up tv remote away from sofa, place tv remote on sofa

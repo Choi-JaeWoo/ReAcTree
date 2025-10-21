@@ -1,0 +1,114 @@
+Your task is to: Pick up a bed and turn a lamp on.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1), LaundryHamper (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5), Desk (1), Bed (1).
+Think: To solve the task, I need to find and pick up the bed. And I need to find and turn on the desk lamp.
+OK.
+Think: First, I need to recall location of the bed.
+OK.
+Act: recall location of Pillow
+You have not seen Pillow before.
+Think: Now I need to find the bed. The bed is more likely to appear on Bed (1), Desk (1), Shelf (1), or in Drawer (1-5). I can check each place one by one, starting from Bed (1), until I find the bed.
+OK.
+Act: go to Bed (1)
+You arrive at Bed (1). You see Pillow (1), Bed (1). 
+Think: I find Pillow (1). Now, I need to pick it up.
+OK.
+Act: pick up Pillow (1)
+You pick up Pillow (1). You see Pillow (1), Bed (1). I am holding Pillow (1) now.
+Think: I hold Pillow (1). Now, I need to recall location of the desk lamp.
+OK.
+Act: recall location of DeskLamp
+You have not seen DeskLamp before.
+Think: Now I need to find the desk lamp The desk lamp is more likely to appear on Shelf (1), or in Drawer (1-5). I can check each place one by one, starting from Shelf (1), until I find the desk lamp.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pillow (1), Pencil (1), KeyChain (2), Desk (1), CreditCard (1), Bowl (1), AlarmClock (1).  I am holding Pillow (1) now.
+Think: I find DeskLamp (1). Now, I need to turn it on.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pillow (1), Pencil (2), Pen (3), Mug (1, 2, 3), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), AlarmClock (1).  I am holding Pillow (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Shelf (1), Pillow (1), Pencil (2), Pen (3), Mug (1, 2, 3), KeyChain (2), Desk (1), CreditCard (1, 2), CD (1). Drawer (2) is closed.  I am holding Pillow (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Pillow (1), Pencil (2), Pen (3), Mug (1, 2, 3), Drawer (5), Desk (1), Chair (1), CD (1). I am holding Pillow (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Shelf (1), Pillow (1), Pencil (2), Pen (3), Mug (1, 2, 3), KeyChain (2), Desk (1), CreditCard (1, 2), CD (1). Drawer (5) is closed.  I am holding Pillow (1) now.
+Act: open Drawer (5)
+The Drawer (5) is not close to you. I am holding Pillow (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Shelf (1), Pillow (1), Pencil (2), Pen (3), Mug (1, 2, 3), KeyChain (2), Desk (1), CreditCard (1, 2), CD (1). Drawer (5) is closed.  I am holding Pillow (1) now.
+Act: open Drawer (5)
+The Drawer (5) is not close to you. I am holding Pillow (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Shelf (1), Pillow (1), Pencil (2), Pen (3), Mug (1, 2, 3), KeyChain (2), Desk (1), CreditCard (1, 2), CD (1). Drawer (5) is closed.  I am holding Pillow (1) now.
+Act: open Drawer (5)
+The Drawer (5) is not close to you. I am holding Pillow (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Shelf (1), Pillow (1), Pencil (2), Pen (3), Mug (1, 2, 3), KeyChain (2), Desk (1), CreditCard (1, 2), CD (1). Drawer (5) is closed.  I am holding Pillow (1) now.
+Act: open Drawer (5)
+The Drawer (5) is not close to you. I am holding Pillow (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Shelf (1), Pillow (1), Pencil (2), Pen (3), Mug (1, 2, 3), KeyChain (2), Desk (1), CreditCard (1, 2), CD (1). Drawer (5) is closed.  I am holding Pillow (1) now.
+Act: open Drawer (5)
+The Drawer (5) is not close to you. I am holding Pillow (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Shelf (1), Pillow (1), Pencil (2), Pen (3), Mug (1, 2, 3), KeyChain (2), Desk (1), CreditCard (1, 2), CD (1). Drawer (5) is closed.  I am holding Pillow (1) now.
+Act: open Drawer (5)
+The Drawer (5) is not close to you. I am holding Pillow (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Shelf (1), Pillow (1), Pencil (2), Pen (3), Mug (1, 2, 3), KeyChain (2), Desk (1), CreditCard (1, 2), CD (1). Drawer (5) is closed.  I am holding Pillow (1) now.
+Act: open Drawer (5)
+The Drawer (5) is not close to you. I am holding Pillow (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Shelf (1), Pillow (1), Pencil (2), Pen (3), Mug (1, 2, 3), KeyChain (2), Desk (1), CreditCard (1, 2), CD (1). Drawer (5) is closed.  I am holding Pillow (1) now.
+Act: open Drawer (5)
+The Drawer (5) is not close to you. I am holding Pillow (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Shelf (1), Pillow (1), Pencil (2), Pen (3), Mug (1, 2, 3), KeyChain (2), Desk (1), CreditCard (1, 2), CD (1). Drawer (5) is closed.  I am holding Pillow (1) now.
+Act: open Drawer (5)
+The Drawer (5) is not close to you. I am holding Pillow (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Shelf (1), Pillow (1), Pencil (2), Pen (3), Mug (1, 2, 3), KeyChain (2), Desk (1), CreditCard (1, 2), CD (1). Drawer (5) is closed.  I am holding Pillow (1) now.
+Act: open Drawer (5)
+The Drawer (5) is not close to you. I am holding Pillow (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Shelf (1), Pillow (1), Pencil (2), Pen (3), Mug (1, 2, 3), KeyChain (2), Desk (1), CreditCard (1, 2), CD (1). Drawer (5) is closed.  I am holding Pillow (1) now.
+Act: open Drawer (5)
+The Drawer (5) is not close to you. I am holding Pillow (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Shelf (1), Pillow (1), Pencil (2), Pen (3), Mug (1, 2, 3), KeyChain (2), Desk (1), CreditCard (1, 2), CD (1). Drawer (5) is closed.  I am holding Pillow (1) now.
+Act: open Drawer (5)
+The Drawer (5) is not close to you. I am holding Pillow (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Shelf (1), Pillow (1), Pencil (2), Pen (3), Mug (1, 2, 3), KeyChain (2), Desk (1), CreditCard (1, 2), CD (1). Drawer (5) is closed.  I am holding Pillow (1) now.
+Act: open Drawer (5)
+The Drawer (5) is not close to you. I am holding Pillow (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Shelf (1), Pillow (1), Pencil (2), Pen (3), Mug (1, 2, 3), KeyChain (2), Desk (1), CreditCard (1, 2), CD (1). Drawer (5) is closed.  I am holding Pillow (1) now.
+Act: open Drawer (5)
+The Drawer (5) is not close to you. I am holding Pillow (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Shelf (1), Pillow (1), Pencil (2), Pen (3), Mug (1, 2, 3), KeyChain (2), Desk (1), CreditCard (1, 2), CD (1). Drawer (5) is closed.  I am holding Pillow (1) now.
+Act: open Drawer (5)
+The Drawer (5) is not close to you. I am holding Pillow (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Shelf (1), Pillow (1), Pencil (2), Pen (3), Mug (1, 2, 3), KeyChain (2), Desk (1), CreditCard (1, 2), CD (1). Drawer (5) is closed.  I am holding Pillow (1) now.
+Act: open Drawer (5)
+The Drawer (5) is not close to you. I am holding Pillow (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Shelf (1), Pillow (1), Pencil (2), Pen (3), Mug (1, 2, 3), KeyChain (2), Desk (1), CreditCard (1, 2), CD (1). Drawer (5) is closed.  I am holding Pillow (1) now.
+Act: open Drawer (5)
+The Drawer (5) is not close to you. I am holding Pillow (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Shelf (1), Pillow (1), Pencil (2), Pen (3), Mug (1, 2, 3), KeyChain (2), Desk (1), CreditCard (1, 2), CD (1). Drawer (5) is closed.  I am holding Pillow (1) now.
+Act: open Drawer (5)
+The Drawer (5) is not close to you. I am holding Pillow (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Shelf (1), Pillow (1), Pencil (2), Pen (3), Mug (1, 2, 3), KeyChain (2), Desk (1), CreditCard (1, 2), CD (1). Drawer (5) is closed.  I am holding Pillow (1) now.
+Act: open Drawer (5)
+The Drawer (5) is not close to you. I am holding Pillow (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Shelf (1), Pillow (1), Pencil (2), Pen (3), Mug (1, 2, 3), KeyChain (2), Desk (1), CreditCard (1, 2), CD (1). Drawer (5) is closed.  I am holding Pillow (1) now.
+Act: open Drawer (5)
+The Drawer (5) is not close to you. I am holding Pillow (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Shelf (1), Pillow (1), Pencil (2), Pen (3), Mug (1, 2, 3), KeyChain (2), Desk (1), CreditCard (1, 2), CD (1). Drawer (5) is closed.  I am holding Pillow (1) now.

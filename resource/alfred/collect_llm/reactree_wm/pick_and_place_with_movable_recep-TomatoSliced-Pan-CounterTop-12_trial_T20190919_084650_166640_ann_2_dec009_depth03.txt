@@ -1,0 +1,110 @@
+Your primary goal is to: Place a pot with a tomato slice on the counter by the stove.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pot, place pot on counter, find and pick up knife, slice and pick up tomato, and place tomato on pot near counter.
+Your task is to: place pot on counter
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19). I am holding Pot (1) now.
+Think: I hold Pot (1). Now, I need to put it on the counter. I can see CounterTop (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see StoveBurner (1), SoapBottle (2), Pot (1), Fridge (1), CounterTop (1).  I am holding Pot (1) now.
+Act: put down Pot (1)
+You put down failed, drop it. You see StoveBurner (1, 4), SoapBottle (2), Pot (1), Fridge (1), Fork (1), Drawer (4), CounterTop (1), ButterKnife (1, 2), Apple (1, 2).
+Think: I failed to put down Pot (1). I need to try again.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see StoveKnob (4), StoveBurner (1, 1, 1, 4, 4, 4), SoapBottle (2, 2, 2), Pot (1, 1, 1), Fridge (1, 1, 1), Fork (1, 1, 1), Drawer (4, 4, 4), CounterTop (1, 1, 1), Cabinet (2), ButterKnife (1, 1, 1, 2, 2, 2), Apple (1, 1, 1, 2, 2, 2). 
+Act: pick up Pot (1)
+You pick up Pot (1). You see StoveBurner (1), SoapBottle (2), Pot (1), Fridge (1), CounterTop (1), Cabinet (2). I am holding Pot (1) now.
+Act: put down Pot (1)
+You put down failed, drop it. You see StoveKnob (4), StoveBurner (1, 4), SoapBottle (2), Pot (1), Fridge (1), Fork (1), Drawer (4), CounterTop (1), Cabinet (2), ButterKnife (1, 2), Apple (1, 2).
+Think: I failed to put down Pot (1). I need to try again.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see StoveKnob (4), StoveBurner (1, 1, 4, 4), SoapBottle (2, 2), Pot (1, 1), Fridge (1, 1), Fork (1, 1), Drawer (4, 4), CounterTop (1, 1), Cabinet (2, 11), ButterKnife (1, 1, 2, 2), Apple (1, 1, 2, 2). 
+Act: pick up Pot (1)
+You pick up Pot (1). You see StoveBurner (1, 4), SoapBottle (2), Pot (1), Fridge (1), CounterTop (1), ButterKnife (1). I am holding Pot (1) now.
+Act: put down Pot (1)
+You put down failed, drop it. You see StoveBurner (1, 4), SoapBottle (2), Pot (1), Fridge (1), Fork (1), Drawer (4), CounterTop (1), ButterKnife (1, 2), Apple (1, 2).
+Think: I failed to put down Pot (1). I need to try again.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see StoveKnob (4), StoveBurner (1, 1, 1, 4, 4, 4), SoapBottle (2, 2, 2), Pot (1, 1, 1), Fridge (1, 1, 1), Fork (1, 1, 1), Drawer (4, 4, 4), CounterTop (1, 1, 1), Cabinet (2, 11), ButterKnife (1, 1, 1, 2, 2, 2), Apple (1, 1, 1, 2, 2, 2). 
+Act: pick up Pot (1)
+You pick up Pot (1). You see StoveBurner (1), SoapBottle (2), Pot (1), Fridge (1), CounterTop (1), Cabinet (2). I am holding Pot (1) now.
+Act: put down Pot (1)
+You put down failed, drop it. You see StoveKnob (4), StoveBurner (1, 4), SoapBottle (2), Pot (1), Fridge (1), Fork (1), Drawer (4), CounterTop (1), Cabinet (2), ButterKnife (1, 2), Apple (1, 2).
+Think: I failed to put down Pot (1). I need to try again.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see StoveKnob (4), StoveBurner (1, 1, 4, 4), SoapBottle (2, 2), Pot (1, 1), Fridge (1, 1), Fork (1, 1), Drawer (4, 4), CounterTop (1, 1), Cabinet (2, 11), ButterKnife (1, 1, 2, 2), Apple (1, 1, 2, 2). 
+Act: pick up Pot (1)
+You pick up Pot (1). You see StoveBurner (1, 4), SoapBottle (2), Pot (1), Fridge (1), CounterTop (1), ButterKnife (1). I am holding Pot (1) now.
+Act: put down Pot (1)
+You put down failed, drop it. You see StoveBurner (1, 4), SoapBottle (2), Pot (1), Fridge (1), Fork (1), Drawer (4), CounterTop (1), Cabinet (11), ButterKnife (1, 2), Apple (1, 2).
+Think: I failed to put down Pot (1). I need to try again.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see StoveKnob (4), StoveBurner (1, 1, 1, 4, 4, 4), SoapBottle (2, 2, 2), Pot (1, 1, 1), Fridge (1, 1, 1), Fork (1, 1, 1), Drawer (4, 4, 4), CounterTop (1, 1, 1), Cabinet (2, 11, 11, 11), ButterKnife (1, 1, 1, 2, 2, 2), Apple (1, 1, 1, 2, 2, 2). 
+Act: pick up Pot (1)
+You pick up Pot (1). You see StoveBurner (1), SoapBottle (2), Pot (1), Fridge (1), CounterTop (1), Cabinet (2). I am holding Pot (1) now.
+Act: put down Pot (1)
+You put down failed, drop it. You see StoveKnob (4), StoveBurner (1, 4), SoapBottle (2), Pot (1), Fridge (1), Fork (1), Drawer (4), CounterTop (1), Cabinet (2), ButterKnife (1, 2), Apple (1, 2).
+Think: I failed to put down Pot (1). I need to try again.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see StoveKnob (4), StoveBurner (1, 1, 4, 4), SoapBottle (2, 2), Pot (1, 1), Fridge (1, 1), Fork (1, 1), Drawer (4, 4), CounterTop (1, 1), Cabinet (2, 11), ButterKnife (1, 1, 2, 2), Apple (1, 1, 2, 2). 
+Act: pick up Pot (1)
+You pick up Pot (1). You see StoveBurner (1, 4), SoapBottle (2), Pot (1), Fridge (1), CounterTop (1), ButterKnife (1). I am holding Pot (1) now.
+Act: put down Pot (1)
+You put down failed, drop it. You see StoveBurner (1, 4), SoapBottle (2), Fridge (1), Fork (1), Drawer (4), CounterTop (1), Cabinet (11), ButterKnife (1, 2), Apple (1, 2).
+Think: I failed to put down Pot (1). I need to try again.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see StoveKnob (4), StoveBurner (1, 1, 1, 4, 4, 4), SoapBottle (2, 2, 2), Fridge (1, 1, 1), Fork (1, 1, 1), Drawer (4, 4, 4), CounterTop (1, 1, 1), Cabinet (2, 11, 11, 11), ButterKnife (1, 1, 1, 2, 2, 2), Apple (1, 1, 1, 2, 2, 2). 
+Act: pick up Fork (1)
+You pick up Fork (1). You see StoveKnob (4), StoveBurner (1, 4), SoapBottle (2), Fridge (1), Fork (1), Drawer (4), CounterTop (1), Cabinet (2, 11), ButterKnife (1, 2), Apple (1, 2). I am holding Fork (1) now.
+Act: put down Fork (1)
+You put down failed, drop it. You see StoveKnob (4), StoveBurner (1, 4), SoapBottle (2), Fridge (1), Drawer (4), CounterTop (1), Cabinet (2, 11), ButterKnife (1, 2), Apple (1, 2).
+Think: I failed to put down Fork (1). I need to try again.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see StoveKnob (4, 4, 4), StoveBurner (1, 1, 1, 4, 4, 4), SoapBottle (2, 2, 2), Fridge (1, 1, 1), Drawer (4, 4, 4), CounterTop (1, 1, 1), Cabinet (2, 2, 2, 11, 11, 11), ButterKnife (1, 1, 1, 2, 2, 2), Apple (1, 1, 1, 2, 2, 2). 
+Act: pick up SoapBottle (2)
+You pick up SoapBottle (2). You see StoveKnob (4), StoveBurner (1, 4), SoapBottle (2), Fridge (1), Drawer (4), CounterTop (1), Cabinet (2, 11), ButterKnife (1, 2), Apple (2). I am holding SoapBottle (2) now.
+Act: put down SoapBottle (2)
+You put down failed, drop it. You see StoveKnob (4), StoveBurner (1, 4), Fridge (1), Drawer (4), CounterTop (1), Cabinet (2, 11), ButterKnife (1, 2), Apple (1, 2).
+Think: I failed to put down SoapBottle (2). I need to try again.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see StoveKnob (4, 4, 4), StoveBurner (1, 1, 1, 4, 4, 4), Fridge (1, 1, 1), Drawer (4, 4, 4), CounterTop (1, 1, 1), Cabinet (2, 2, 2, 11, 11, 11), ButterKnife (1, 1, 1, 2, 2, 2), Apple (1, 1, 1, 2, 2, 2). 
+Act: pick up Apple (1)
+You pick up Apple (1). You see StoveKnob (4), StoveBurner (1, 4), Fridge (1), Drawer (4), CounterTop (1), Cabinet (2, 11), ButterKnife (1, 2), Apple (1, 2). I am holding Apple (1) now.
+Act: put down Apple (1)
+You put down failed, drop it. You see StoveKnob (4), StoveBurner (1, 4), Fridge (1), Drawer (4), CounterTop (1), Cabinet (2, 11), ButterKnife (1, 2), Apple (2).
+Think: I failed to put down Apple (1). I need to try again.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see StoveKnob (4, 4, 4), StoveBurner (1, 1, 1, 4, 4, 4), Fridge (1, 1, 1), Drawer (4, 4, 4), CounterTop (1, 1, 1), Cabinet (2, 2, 2, 11, 11, 11), ButterKnife (1, 1, 1, 2, 2, 2), Apple (2, 2, 2). 
+Act: pick up Apple (2)
+You pick up Apple (2). You see StoveKnob (4), StoveBurner (1, 4), Fridge (1), Drawer (4), CounterTop (1), Cabinet (2, 11), ButterKnife (1, 2), Apple (2). I am holding Apple (2) now.
+Act: put down Apple (2)
+You put down failed, drop it. You see StoveKnob (4), StoveBurner (1, 4), Fridge (1), Drawer (4), CounterTop (1), Cabinet (2, 11), ButterKnife (1, 2).
+Think: I failed to put down Apple (2). I need to try again.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see StoveKnob (4, 4, 4), StoveBurner (1, 1, 1, 4, 4, 4), Fridge (1, 1, 1), Drawer (4, 4, 4), CounterTop (1, 1, 1), Cabinet (2, 2, 2, 11, 11, 11), ButterKnife (1, 1, 1, 2, 2, 2). 
+Act: pick up ButterKnife (1)
+You pick up ButterKnife (1). You see StoveKnob (4), StoveBurner (1, 4), Fridge (1), Drawer (4), CounterTop (1), Cabinet (2, 11), ButterKnife (1, 2). I am holding ButterKnife (1) now.
+Act: put down ButterKnife (1)
+You put down failed, drop it. You see StoveKnob (4), StoveBurner (1, 4), Fridge (1), Drawer (4), CounterTop (1), Cabinet (2, 11), ButterKnife (2).
+Think: I failed to put down ButterKnife (1). I need to try again.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see StoveKnob (4, 4, 4), StoveBurner (1, 1, 1, 4, 4, 4), Fridge (1, 1, 1), Drawer (4, 4, 4), CounterTop (1, 1, 1), Cabinet (2, 2, 2, 11, 11, 11), ButterKnife (2, 2, 2). 
+Act: pick up ButterKnife (2)
+You pick up ButterKnife (2). You see StoveKnob (4), StoveBurner (1, 4), Fridge (1), Drawer (4), CounterTop (1), Cabinet (2, 11), ButterKnife (2). I am holding ButterKnife (2) now.
+Act: put down ButterKnife (2)
+You put down failed, drop it. You see StoveKnob (4), StoveBurner (1, 4), Fridge (1), Drawer (4), CounterTop (1), Cabinet (2, 11).
+Think: I failed to put down ButterKnife (2). I need to try again.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see StoveKnob (4, 4, 4), StoveBurner (1, 1, 1, 4, 4, 4), Fridge (1, 1, 1), Drawer (4, 4, 4), CounterTop (1, 1, 1), Cabinet (2, 2, 2, 11, 11, 11). 

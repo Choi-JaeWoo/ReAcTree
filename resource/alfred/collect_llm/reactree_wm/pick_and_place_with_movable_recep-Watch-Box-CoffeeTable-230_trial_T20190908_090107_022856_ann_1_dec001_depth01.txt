@@ -1,0 +1,7 @@
+Your task is to: put a box with a watch in it on top of a coffee table
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2), GarbageCan (1), DiningTable (1), CoffeeTable (1, 2), ArmChair (1, 2).
+Think: Since I’m not holding the box, I need to accomplish 3 subgoals sequentially to solve the task. Find and pick up box, put watch in box, and place box on coffee table.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up box, put watch in box, place box on coffee table

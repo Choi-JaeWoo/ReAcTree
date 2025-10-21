@@ -1,0 +1,25 @@
+Your primary goal is to: Heat up a potato, bring it to the table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up potato, heat and pick up potato, and place potato on table.
+Your task is to: find and pick up potato
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13).
+Think: First, I need to recall location of the potato.
+OK.
+Act: recall location of Potato
+You have not seen Potato before.
+Think: Now, I need to find the potato. The potato is more likely to appear on DiningTable (1), CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1-4). I can check each place one by one, starting from DiningTable (1), until I find the potato.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (2), Statue (1), Spoon (1), Plate (1), PepperShaker (1), Knife (1), HousePlant (1), Fork (2), DishSponge (1), DiningTable (1), Bowl (2), Book (1), Apple (2, 3). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Statue (2), Spatula (1), Lettuce (1), Kettle (2), Drawer (3), CounterTop (1), Cabinet (2). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see WineBottle (1), Toaster (1), StoveKnob (3, 4), StoveBurner (2, 3), Pot (1, 2), Knife (3), Kettle (1), Drawer (2), CounterTop (2), Cabinet (11). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Spoon (2), Sink (1), SinkBasin (1), Potato (1), Fork (1), Faucet (1), Cup (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13), ButterKnife (1), Book (2). 
+Think: I find Potato (1). Now, I need to pick it up.
+OK.
+Act: pick up Potato (1)
+You pick up Potato (1). You see Window (2), Spoon (2), Sink (1), SinkBasin (1), Potato (1), Fork (1), Faucet (1), Cup (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13), ButterKnife (1), Book (2). I am holding Potato (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

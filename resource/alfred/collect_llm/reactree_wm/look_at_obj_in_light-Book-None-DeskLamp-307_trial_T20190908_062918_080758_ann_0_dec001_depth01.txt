@@ -1,0 +1,7 @@
+Your task is to: Inspect a book with a lamp.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2), LaundryHamper (1), GarbageCan (1), Drawer (1, 2, 3), Desk (1), Bed (1).
+Think: Since I’m not holding book, I need to accomplish 2 subgoals sequentially to solve the task. Find and pick up book and find and turn on lamp.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up book, find and turn on lamp

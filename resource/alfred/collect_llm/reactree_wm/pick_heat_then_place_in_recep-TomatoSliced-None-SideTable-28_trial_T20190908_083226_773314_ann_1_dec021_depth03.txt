@@ -1,0 +1,27 @@
+Your primary goal is to: To Put a tomato slice on the black end table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up plate, place plate on black end table, find and pick up knife, slice and pick up tomato, and and place tomato on plate near black end table.
+Your task is to: slice and pick up tomato
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11). I am holding Knife (1) now.
+Think: I hold Knife (1). Now, I need to recall location of the tomato.
+OK.
+Act: recall location of Tomato
+You saw Tomato (2) near DiningTable (1).
+Think: I can find Tomato (2) near DiningTable (1).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (2), Spoon (1), Spatula (2), SoapBottle (1), SaltShaker (1), Knife (1), DiningTable (1), Bread (3).  I am holding Knife (1) now.
+Think: I find Tomato (2). Now, I need to slice it.
+OK.
+Act: slice Tomato (2)
+You slice Tomato (2). You see Tomato (6, 7, 8, 9, 10), Spoon (1), Spatula (2), SoapBottle (1), SaltShaker (1), Knife (1), DiningTable (1), Bread (3). Tomato (4, 5, 6, 7, 8, 9, 10) are sliced. I am holding Knife (1) now.
+Think: I slice Tomato (2). Now, I need to put down the knife.
+OK.
+Act: put down Knife (1)
+You put down failed, drop it. You see Tomato (6, 7, 8, 9, 10), Spoon (1), Spatula (2), SoapBottle (1), SaltShaker (1), DiningTable (1), Bread (3).
+Think: Now I need to pick up Tomato (6).
+OK.
+Act: pick up Tomato (6)
+You pick up Tomato (6). You see Tomato (5, 6, 7, 8, 9, 10), Spoon (1), Spatula (2), SoapBottle (1), SaltShaker (1), DiningTable (1), Bread (3). I am holding Tomato (6) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

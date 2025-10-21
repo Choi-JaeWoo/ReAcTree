@@ -1,0 +1,29 @@
+Your primary goal is to: Place a rinsed fork in a drawer.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up fork, clean and pick up fork, find and pick up drawer, and place fork in drawer.
+Your task is to: find and pick up fork
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13).
+Think: First, I need to recall location of the fork.
+OK.
+Act: recall location of Fork
+You have not seen Fork before.
+Think: Now, I need to find the fork. The fork is more likely to appear on CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1-5). I can check each place one by one, starting from CounterTop (1), until I find the fork.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), Spoon (1), Sink (1), SinkBasin (1), Faucet (1), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (2), Bread (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (1), Spoon (1), Sink (1), SinkBasin (1), Faucet (1), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (2). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Drawer (1), Cabinet (4). Fridge (1) is closed. 
+Act: open Fridge (1)
+You open Fridge (1). You see Plate (2, 3), Fridge (1), Cup (1).
+Act: close Fridge (1)
+You close Fridge (1). You see Fridge (1), Drawer (1), Cabinet (4).
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1), Fridge (1), Fork (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (4). Microwave (1) is closed. 
+Think: I find Fork (1). Now, I need to pick it up.
+OK.
+Act: pick up Fork (1)
+You pick up Fork (1). You see Microwave (1), Fridge (1), Fork (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (4). I am holding Fork (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

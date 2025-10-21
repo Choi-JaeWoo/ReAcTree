@@ -1,0 +1,19 @@
+Your primary goal is to: Grab the watch from the table, turn on the floor lamp
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up watch, and find and turn on floor lamp.
+Your task is to: find and turn on floor lamp
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), CoffeeTable (1), ArmChair (1). I am holding Watch (1) now.
+Think: First, I need to recall location of the floor lamp.
+OK.
+Act: recall location of FloorLamp
+You saw FloorLamp (1) near SideTable (2).
+Think: I can find FloorLamp (1) near SideTable (2).
+OK.
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Watch (1), Vase (3), SideTable (2), HousePlant (1), FloorLamp (1), Dresser (1), Drawer (4).  I am holding Watch (1) now.
+Think: I find FloorLamp (1). Now, I need to turn it on.
+OK.
+Act: turn on FloorLamp (1)
+You turn on FloorLamp (1). You see Watch (1), Vase (3), SideTable (2), HousePlant (1), FloorLamp (1), Dresser (1), Drawer (4). I am holding Watch (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

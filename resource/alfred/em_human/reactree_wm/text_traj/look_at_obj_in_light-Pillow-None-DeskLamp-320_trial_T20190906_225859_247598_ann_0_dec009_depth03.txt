@@ -1,0 +1,9 @@
+Your primary goal is to: Examine the middle pillow from the bed under the light of a small lamp.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pillow, and find and turn on lamp.
+Your task is to: find and turn on lamp
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1, 2, 3, 4, 5), GarbageCan (1), Desk (1, 2), Bed (1). I am holding Pillow (1) now.
+Think: I hold Pillow (1). Now, I need to find and turn on either the desk lamp or the floor lamp.
+OK.
+Expand:
+- control flow: fallback
+- subgoals: find and turn on the desk lamp, find and turn on the floor lamp

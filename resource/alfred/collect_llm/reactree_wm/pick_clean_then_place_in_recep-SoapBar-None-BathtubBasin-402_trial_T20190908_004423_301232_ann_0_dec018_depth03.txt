@@ -1,0 +1,13 @@
+Your primary goal is to: Rinse a bar of soap and move it to the bath tub.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up soap, clean and pick up soap, and place soap in tub.
+Your task is to: place soap in tub
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1, 2), Toilet (1), ToiletPaperHanger (1), SinkBasin (1, 2), Shelf (1), HandTowelHolder (1, 2), GarbageCan (1), CounterTop (1), Cabinet (1, 2, 3, 4), Bathtub (1), BathtubBasin (1). I am holding SoapBar (3) now.
+Think: I hold SoapBar (3). Now, I need to put it in the tub. I can see BathtubBasin (1).
+OK.
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see SoapBar (3), Faucet (3), Cloth (2), Bathtub (1), BathtubBasin (1).  I am holding SoapBar (3) now.
+Act: put down SoapBar (3)
+You put SoapBar (3) on BathtubBasin (1). You see SoapBar (3), Faucet (3), Cloth (2), Bathtub (1), BathtubBasin (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,27 @@
+Your task is to: Put the glasses away on the shelf.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9).
+Think: To solve the task, I need to find and pick up the glasses, then put them on the shelf.
+OK.
+Think: First, I need to recall location of the glasses.
+OK.
+Act: recall location of Glassbottle
+You have not seen Glassbottle before.
+Think: Now I need to find the glasses. The glasses are more likely to appear on CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-9), Drawer (1-9). I can check each place one by one, starting from CounterTop (1), until I find the glasses.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Statue (2), Pot (1), Plate (2), Lettuce (1, 2), Egg (2), Cup (4), CounterTop (1), Bread (1, 2), Bowl (1), Book (1). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Window (1), Tomato (1), Sink (1), SinkBasin (1), Glassbottle (1), Faucet (1), Cup (3), CounterTop (2), Cabinet (2), ButterKnife (2). 
+Think: I find Glassbottle (1). Now, I need to pick it up.
+OK.
+Act: pick up Glassbottle (1)
+You pick up Glassbottle (1). You see Window (1), Tomato (1), Sink (1), SinkBasin (1), Glassbottle (1), Faucet (1), Cup (3), CounterTop (2), Cabinet (2), ButterKnife (2). I am holding Glassbottle (1) now.
+Think: I hold Glassbottle (1). Now, I need to put it on the shelf.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see WineBottle (1), Vase (1), Statue (1), Shelf (3), SaltShaker (1), Glassbottle (1, 2), Drawer (2, 3).  I am holding Glassbottle (1) now.
+Act: put down Glassbottle (1)
+You put down failed, drop it. You see WineBottle (1), Vase (1), Statue (1), Shelf (3), SaltShaker (1), Glassbottle (1, 2), Drawer (2, 3).
+Think: Now I accomplish the goal.
+OK.
+Act: done

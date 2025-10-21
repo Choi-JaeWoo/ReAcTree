@@ -1,0 +1,27 @@
+Your primary goal is to: trash a heated bread slice
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, slice and pick up bread, heat and pick up bread, and place bread in trash.
+Your task is to: slice and pick up bread
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27). I am holding Knife (1) now.
+Think: I hold Knife (1). Now, I need to recall location of the bread.
+OK.
+Act: recall location of Bread
+You saw Bread (1) near CounterTop (1).
+Think: I can find Bread (1) near CounterTop (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Knife (1), DishSponge (1), CounterTop (1), Bread (1).  I am holding Knife (1) now.
+Think: I find Bread (1). Now, I need to slice it.
+OK.
+Act: slice Bread (1)
+You slice Bread (1). You see Knife (1), DishSponge (1), CounterTop (1), Bread (10). Bread (2, 3, 4, 5, 6, 7, 8, 9, 10) are sliced. I am holding Knife (1) now.
+Think: I slice Bread (1). Now, I need to put down the knife.
+OK.
+Act: put down Knife (1)
+You put down failed, drop it. You see DishSponge (1), CounterTop (1), Bread (10).
+Think: Now I need to pick up Bread (10).
+OK.
+Act: pick up Bread (10)
+You pick up Bread (10). You see DishSponge (1), CounterTop (1), Bread (10). I am holding Bread (10) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

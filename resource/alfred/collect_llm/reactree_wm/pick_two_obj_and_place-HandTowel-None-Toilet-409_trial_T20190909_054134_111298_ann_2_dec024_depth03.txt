@@ -1,0 +1,13 @@
+Your primary goal is to: Place the two hand towel on the toilet cover. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up hand towel, place hand towel on toilet cover, Find and pick up hand towel away from toilet cover, and place hand towel on toilet cover.
+Your task is to: place hand towel on toilet cover
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1, 2), Toilet (1), ToiletPaperHanger (1), SinkBasin (1), HandTowelHolder (1, 2), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), CounterTop (1). I am holding HandTowel (1) now.
+Think: I hold HandTowel (1). Now, I need to put it on the toilet cover. I can see Toilet (1).
+OK.
+Act: go to Toilet (1)
+You arrive at Toilet (1). You see Towel (1), Toilet (1), ToiletPaper (2), ToiletPaperHanger (1), ShowerGlass (1), ScrubBrush (1), Plunger (1), HandTowel (1, 2), Drawer (2, 4, 5), CounterTop (1). Toilet (1) is closed.  I am holding HandTowel (1) now.
+Act: put down HandTowel (1)
+You put HandTowel (1) on Toilet (1). You see Towel (1), Toilet (1), ToiletPaper (2), ToiletPaperHanger (1), ShowerGlass (1), ScrubBrush (1), Plunger (1), HandTowel (1, 2), Drawer (2, 4, 5), CounterTop (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

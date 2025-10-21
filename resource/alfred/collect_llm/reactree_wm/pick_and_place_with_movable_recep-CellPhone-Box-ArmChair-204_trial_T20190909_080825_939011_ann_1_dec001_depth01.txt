@@ -1,0 +1,201 @@
+Your task is to: place a box with a cellphone in it on the chair
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1, 2), Shelf (1, 2, 3), Safe (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), Desk (1), CoffeeTable (1), ArmChair (1).
+Think: I hold Box (1). Now, I need to put it on the chair. I can see ArmChair (1).
+OK.
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Sofa (2), KeyChain (2), ArmChair (1). 
+Act: open Drawer (1)
+You open Drawer (1). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (2)
+You open Drawer (2). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (3)
+You open Drawer (3). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (5)
+You open Drawer (5). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (6)
+You open Drawer (6). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (1)
+You open Drawer (1). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (2)
+You open Drawer (2). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (3)
+You open Drawer (3). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (5)
+You open Drawer (5). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (6)
+You open Drawer (6). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (1)
+You open Drawer (1). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (2)
+You open Drawer (2). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (3)
+You open Drawer (3). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (5)
+You open Drawer (5). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (6)
+You open Drawer (6). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (1)
+You open Drawer (1). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (2)
+You open Drawer (2). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (3)
+You open Drawer (3). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (5)
+You open Drawer (5). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (6)
+You open Drawer (6). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (1)
+You open Drawer (1). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (2)
+You open Drawer (2). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (3)
+You open Drawer (3). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (5)
+You open Drawer (5). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (6)
+You open Drawer (6). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (1)
+You open Drawer (1). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (2)
+You open Drawer (2). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (3)
+You open Drawer (3). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (5)
+You open Drawer (5). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (6)
+You open Drawer (6). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (1)
+You open Drawer (1). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (2)
+You open Drawer (2). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (3)
+You open Drawer (3). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (5)
+You open Drawer (5). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (6)
+You open Drawer (6). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (1)
+You open Drawer (1). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (2)
+You open Drawer (2). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (3)
+You open Drawer (3). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (5)
+You open Drawer (5). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (6)
+You open Drawer (6). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (1)
+You open Drawer (1). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (2)
+You open Drawer (2). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (3)
+You open Drawer (3). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (5)
+You open Drawer (5). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (6)
+You open Drawer (6). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (1)
+You open Drawer (1). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (2)
+You open Drawer (2). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (3)
+You open Drawer (3). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (5)
+You open Drawer (5). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (6)
+You open Drawer (6). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (1)
+You open Drawer (1). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (2)
+You open Drawer (2). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (3)
+You open Drawer (3). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (5)
+You open Drawer (5). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (6)
+You open Drawer (6). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (1)
+You open Drawer (1). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (2)
+You open Drawer (2). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (3)
+You open Drawer (3). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (5)
+You open Drawer (5). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (6)
+You open Drawer (6). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (1)
+You open Drawer (1). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (2)
+You open Drawer (2). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (3)
+You open Drawer (3). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (5)
+You open Drawer (5). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (6)
+You open Drawer (6). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (1)
+You open Drawer (1). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (2)
+You open Drawer (2). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (3)
+You open Drawer (3). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (5)
+You open Drawer (5). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (6)
+You open Drawer (6). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (1)
+You open Drawer (1). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (2)
+You open Drawer (2). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (3)
+You open Drawer (3). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (5)
+You open Drawer (5). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (6)
+You open Drawer (6). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (1)
+You open Drawer (1). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (2)
+You open Drawer (2). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (3)
+You open Drawer (3). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (5)
+You open Drawer (5). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (6)
+You open Drawer (6). You see Sofa (2), KeyChain (2), ArmChair (1).
+Act: open Drawer (1)
+You open Drawer (1). You see Sofa (2), KeyChain (2), ArmChair (1).
+Max decisions

@@ -1,0 +1,7 @@
+Your task is to: place two CD's in the dresser pullout drawer
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1, 2, 3, 4, 5, 6, 7, 8, 9), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10), Bed (1).
+Think: Since I’m not holding the CD, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up CD, place CD in dresser pullout drawer, find and pick up CD away from dresser pullout drawer, and place CD in dresser pullout drawer.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up CD, place CD in dresser pullout drawer, find and pick up CD away from dresser pullout drawer, place CD in dresser pullout drawer

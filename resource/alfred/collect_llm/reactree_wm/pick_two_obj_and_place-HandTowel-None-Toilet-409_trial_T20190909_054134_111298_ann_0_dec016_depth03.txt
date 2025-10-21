@@ -1,0 +1,19 @@
+Your primary goal is to: put two towels on toilet tank top
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up towel, place towel on toilet tank top, Find and pick up towel away from toilet tank top, and place towel on toilet tank top.
+Your task is to: Find and pick up towel away from toilet tank top
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1, 2), Toilet (1), ToiletPaperHanger (1), SinkBasin (1), HandTowelHolder (1, 2), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), CounterTop (1).
+Think: First, I need to recall location of the towel.
+OK.
+Act: recall location of HandTowel
+You saw HandTowel (2) near Toilet (1).
+Think: Now, I need to find the towel. The towel is more likely to appear on Toilet (1), Drawer (1-6), CounterTop (1). I can check each place one by one, starting from Toilet (1), until I find the towel.
+OK.
+Act: go to Toilet (1)
+You arrive at Toilet (1). You see Towel (1), Toilet (1), ToiletPaper (2), ToiletPaperHanger (1), ShowerGlass (1), ScrubBrush (1), Plunger (1), HandTowel (2), Drawer (2, 4, 5), CounterTop (1). Toilet (1) is closed. 
+Think: I find HandTowel (2). Now, I need to pick it up.
+OK.
+Act: pick up HandTowel (2)
+You pick up HandTowel (2). You see Towel (1), Toilet (1), ToiletPaper (2), ToiletPaperHanger (1), ShowerGlass (1), ScrubBrush (1), Plunger (1), HandTowel (2), Drawer (2, 4, 5), CounterTop (1). I am holding HandTowel (2) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,21 @@
+Your primary goal is to: Clean the tea kettle to place it on the burner on the stove.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up tea kettle, clean and pick up tea kettle, and place tea kettle on stove burner.
+Your task is to: clean and pick up tea kettle
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Safe (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16). I am holding Kettle (2) now.
+Think: I hold Kettle (2). Now, I need to clean it using sink basin.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), Kettle (2), Faucet (1), CounterTop (1), Cabinet (2, 10, 13).  I am holding Kettle (2) now.
+Act: put down Kettle (2)
+You put Kettle (2) on SinkBasin (1). You see Sink (1), SinkBasin (1), Kettle (2), Faucet (1), CounterTop (1), Cabinet (2, 10, 13).
+Act: turn on Faucet (1)
+You turn on Faucet (1). You see Sink (1), SinkBasin (1), Kettle (2), Faucet (1), CounterTop (1), Cabinet (2, 10, 13).
+Act: turn off Faucet (1)
+You turn off Faucet (1). You see Sink (1), SinkBasin (1), Kettle (2), Faucet (1), CounterTop (1), Cabinet (2, 10, 13).
+Think: I clean Kettle (2) using SinkBasin (1). Now, I need to pick up the tea kettle from the sink basin.
+OK.
+Act: pick up Kettle (2)
+You pick up Kettle (2). You see Sink (1), SinkBasin (1), Kettle (2), Faucet (1), CounterTop (1), Cabinet (2, 10, 13). I am holding Kettle (2) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

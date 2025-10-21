@@ -1,0 +1,19 @@
+Your primary goal is to: Put the clean cabbage on the island
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up cabbage, clean and pick up cabbage, place cabbage on island, and and place cabbage on island.
+Your task is to: and place cabbage on island
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1, 2, 3), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: I need to recall location of the cabbage.
+OK.
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Think: Now, I need to find the cabbage. The cabbage is more likely to appear on CounterTop (1), or in Fridge (1), Microwave (1), Cabinet (1-4). I can check each place one by one, starting from CounterTop (1), until I find the cabbage.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Tomato (2), Spoon (2, 3), SoapBottle (1), Sink (1), SinkBasin (1), SideTable (1), SaltShaker (2, 3), Knife (2), Fork (3), Faucet (1), Drawer (1), CounterTop (1), Cabinet (2, 4), ButterKnife (1, 2), Apple (1). 
+Think: I find Lettuce (1). Now, I need to pick it up.
+OK.
+Act: pick up Tomato (2)
+You pick up Tomato (2). You see Tomato (2), Spoon (2, 3), SoapBottle (1), Sink (1), SinkBasin (1), SideTable (1), SaltShaker (2, 3), Knife (2), Fork (3), Faucet (1), Drawer (1), CounterTop (1), Cabinet (2, 4), ButterKnife (1, 2), Apple (1). I am holding Tomato (2) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

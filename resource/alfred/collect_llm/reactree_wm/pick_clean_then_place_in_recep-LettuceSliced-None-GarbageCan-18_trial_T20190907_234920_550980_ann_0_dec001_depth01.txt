@@ -1,0 +1,7 @@
+Your task is to: Place a slice of cabbage into the trash.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Safe (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16).
+Think: Since I’m not holding a slice of cabbage, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up knife, slice and pick up cabbage, clean and pick up cabbage, and place cabbage in trash.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up knife, slice and pick up cabbage, clean and pick up cabbage, place cabbage in trash

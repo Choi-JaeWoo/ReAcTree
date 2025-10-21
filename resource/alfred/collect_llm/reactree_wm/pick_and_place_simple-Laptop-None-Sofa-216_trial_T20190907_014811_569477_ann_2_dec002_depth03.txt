@@ -1,0 +1,23 @@
+Your primary goal is to: Move the laptop from the desk to the sofa.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up laptop, and place laptop on sofa.
+Your task is to: find and pick up laptop
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2, 3), Shelf (1), GarbageCan (1), Drawer (1, 2, 3, 4), DiningTable (1), ArmChair (1).
+Think: First, I need to recall location of the laptop.
+OK.
+Act: recall location of Laptop
+You have not seen Laptop before.
+Think: Now, I need to find the laptop. The laptop is more likely to appear on Sofa (1), SideTable (1-3), Shelf (1), or in Drawer (1-4). I can check each place one by one, starting from Sofa (1), until I find the laptop.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), RemoteControl (1), CreditCard (2). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1, 2, 3), Statue (3), SideTable (1), KeyChain (3), Drawer (2, 4). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Window (1), Statue (1), SideTable (2), Laptop (1), HousePlant (1), Drawer (1), CreditCard (3). 
+Think: I find Laptop (1). Now, I need to pick it up.
+OK.
+Act: pick up Laptop (1)
+You pick up Laptop (1). You see Window (1), Statue (1), SideTable (2), Laptop (1), HousePlant (1), CreditCard (3). I am holding Laptop (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,21 @@
+Your primary goal is to: Slice potato, put in fridge and on counter.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, slice and pick up potato, place potato in fridge, find and pick up potato away from fridge, and place potato on counter.
+Your task is to: find and pick up knife
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13).
+Think: First, I need to recall location of the knife.
+OK.
+Act: recall location of Knife
+You have not seen Knife before.
+Think: Now, I need to find the knife. The knife is more likely to appear on DiningTable (1), CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1). I can check each place one by one, starting from DiningTable (1), until I find the knife.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (1), Tomato (1, 2), SoapBottle (1), Plate (3), Lettuce (2), Fork (2), DishSponge (1), DiningTable (1), Bread (1), Bowl (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), Sink (1), SinkBasin (1), Knife (1), Fork (1), Faucet (1), Egg (2, 3), CounterTop (1), ButterKnife (1, 2). 
+Think: I find Knife (1). Now, I need to pick it up.
+OK.
+Act: pick up Knife (1)
+You pick up Knife (1). You see Toaster (1), Sink (1), SinkBasin (1), Knife (1), Fork (1), Faucet (1), Egg (2, 3), CounterTop (1), ButterKnife (1, 2). I am holding Knife (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

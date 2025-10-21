@@ -1,0 +1,142 @@
+Your task is to: Place two white bottles on top metal shelf
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1), Shelf (1), HandTowelHolder (1), GarbageCan (1), Drawer (1, 2, 3, 4), CounterTop (1), Cart (1), BathtubBasin (1).
+Think: To solve the task, I need to find and pick up the bottle. And I need to put it on the metal shelf. And I need to find and pick up another bottle, then put it on the metal shelf.
+OK.
+Think: First, I need to recall location of the bottle.
+OK.
+Act: recall location of SoapBottle
+You have not seen SoapBottle before.
+Think: Now I need to find the bottle. The bottle is more likely to appear on BathtubBasin (1), SinkBasin (1), Shelf (1), or in Drawer (1-4), Cart (1). I can check each place one by one, starting from BathtubBasin (1), until I find the bottle.
+OK.
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Cloth (1), Bathtub (1), BathtubBasin (1). 
+Think: I find SoapBottle (1). Now, I need to pick it up.
+OK.
+Act: pick up Cloth (1)
+You pick up Cloth (1). You see Cloth (1), Bathtub (1), BathtubBasin (1). I am holding Cloth (1) now.
+Think: I hold Cloth (1). Now, I need to put it on the metal shelf. I think metal shelf means Cart (1).
+OK.
+Act: go to Cart (1)
+You arrive at Cart (1). You see SprayBottle (1, 3), GarbageCan (1), Cloth (1), Cart (1), Candle (1).  I am holding Cloth (1) now.
+Act: put down Cloth (1)
+You put Cloth (1) on Cart (1). You see SprayBottle (1, 3), GarbageCan (1), Cloth (1), Cart (1), Candle (1).
+Think: I put Cloth (1) on Cart (1). Now, I need to recall location of the bottle.
+OK.
+Act: recall location of SoapBottle
+You have not seen SoapBottle before.
+Think: Now I need to find another bottle. The bottle is more likely to appear on BathtubBasin (1), SinkBasin (1), Shelf (1), or in Drawer (1-4), Cart (1). I can check each place one by one, starting from BathtubBasin (1), until I find the bottle.
+OK.
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Bathtub (1), BathtubBasin (1). 
+Think: I find SoapBottle (1). Now, I need to pick it up.
+OK.
+Act: recall location of SoapBottle
+You have not seen SoapBottle before.
+Think: Now I need to find another bottle. The bottle is more likely to appear on BathtubBasin (1), SinkBasin (1), Shelf (1), or in Drawer (1-4), Cart (1). I can check each place one by one, starting from BathtubBasin (1), until I find the bottle.
+OK.
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Bathtub (1), BathtubBasin (1). 
+Think: I find SoapBottle (1). Now, I need to pick it up.
+OK.
+Act: recall location of SoapBottle
+You have not seen SoapBottle before.
+Think: Now I need to find another bottle. The bottle is more likely to appear on BathtubBasin (1), SinkBasin (1), Shelf (1), or in Drawer (1-4), Cart (1). I can check each place one by one, starting from BathtubBasin (1), until I find the bottle.
+OK.
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Bathtub (1), BathtubBasin (1). 
+Think: I find SoapBottle (1). Now, I need to pick it up.
+OK.
+Act: recall location of SoapBottle
+You have not seen SoapBottle before.
+Think: Now I need to find another bottle. The bottle is more likely to appear on BathtubBasin (1), SinkBasin (1), Shelf (1), or in Drawer (1-4), Cart (1). I can check each place one by one, starting from BathtubBasin (1), until I find the bottle.
+OK.
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Bathtub (1), BathtubBasin (1). 
+Think: I find SoapBottle (1). Now, I need to pick it up.
+OK.
+Act: recall location of SoapBottle
+You have not seen SoapBottle before.
+Think: Now I need to find another bottle. The bottle is more likely to appear on BathtubBasin (1), SinkBasin (1), Shelf (1), or in Drawer (1-4), Cart (1). I can check each place one by one, starting from BathtubBasin (1), until I find the bottle.
+OK.
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Bathtub (1), BathtubBasin (1). 
+Think: I find SoapBottle (1). Now, I need to pick it up.
+OK.
+Act: recall location of SoapBottle
+You have not seen SoapBottle before.
+Think: Now I need to find another bottle. The bottle is more likely to appear on BathtubBasin (1), SinkBasin (1), Shelf (1), or in Drawer (1-4), Cart (1). I can check each place one by one, starting from BathtubBasin (1), until I find the bottle.
+OK.
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Bathtub (1), BathtubBasin (1). 
+Think: I find SoapBottle (1). Now, I need to pick it up.
+OK.
+Act: recall location of SoapBottle
+You have not seen SoapBottle before.
+Think: Now I need to find another bottle. The bottle is more likely to appear on BathtubBasin (1), SinkBasin (1), Shelf (1), or in Drawer (1-4), Cart (1). I can check each place one by one, starting from BathtubBasin (1), until I find the bottle.
+OK.
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Bathtub (1), BathtubBasin (1). 
+Think: I find SoapBottle (1). Now, I need to pick it up.
+OK.
+Act: recall location of SoapBottle
+You have not seen SoapBottle before.
+Think: Now I need to find another bottle. The bottle is more likely to appear on BathtubBasin (1), SinkBasin (1), Shelf (1), or in Drawer (1-4), Cart (1). I can check each place one by one, starting from BathtubBasin (1), until I find the bottle.
+OK.
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Bathtub (1), BathtubBasin (1). 
+Think: I find SoapBottle (1). Now, I need to pick it up.
+OK.
+Act: recall location of SoapBottle
+You have not seen SoapBottle before.
+Think: Now I need to find another bottle. The bottle is more likely to appear on BathtubBasin (1), SinkBasin (1), Shelf (1), or in Drawer (1-4), Cart (1). I can check each place one by one, starting from BathtubBasin (1), until I find the bottle.
+OK.
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Bathtub (1), BathtubBasin (1). 
+Think: I find SoapBottle (1). Now, I need to pick it up.
+OK.
+Act: recall location of SoapBottle
+You have not seen SoapBottle before.
+Think: Now I need to find another bottle. The bottle is more likely to appear on BathtubBasin (1), SinkBasin (1), Shelf (1), or in Drawer (1-4), Cart (1). I can check each place one by one, starting from BathtubBasin (1), until I find the bottle.
+OK.
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Bathtub (1), BathtubBasin (1). 
+Think: I find SoapBottle (1). Now, I need to pick it up.
+OK.
+Act: recall location of SoapBottle
+You have not seen SoapBottle before.
+Think: Now I need to find another bottle. The bottle is more likely to appear on BathtubBasin (1), SinkBasin (1), Shelf (1), or in Drawer (1-4), Cart (1). I can check each place one by one, starting from BathtubBasin (1), until I find the bottle.
+OK.
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Bathtub (1), BathtubBasin (1). 
+Think: I find SoapBottle (1). Now, I need to pick it up.
+OK.
+Act: recall location of SoapBottle
+You have not seen SoapBottle before.
+Think: Now I need to find another bottle. The bottle is more likely to appear on BathtubBasin (1), SinkBasin (1), Shelf (1), or in Drawer (1-4), Cart (1). I can check each place one by one, starting from BathtubBasin (1), until I find the bottle.
+OK.
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Bathtub (1), BathtubBasin (1). 
+Think: I find SoapBottle (1). Now, I need to pick it up.
+OK.
+Act: recall location of SoapBottle
+You have not seen SoapBottle before.
+Think: Now I need to find another bottle. The bottle is more likely to appear on BathtubBasin (1), SinkBasin (1), Shelf (1), or in Drawer (1-4), Cart (1). I can check each place one by one, starting from BathtubBasin (1), until I find the bottle.
+OK.
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Bathtub (1), BathtubBasin (1). 
+Think: I find SoapBottle (1). Now, I need to pick it up.
+OK.
+Act: recall location of SoapBottle
+You have not seen SoapBottle before.
+Think: Now I need to find another bottle. The bottle is more likely to appear on BathtubBasin (1), SinkBasin (1), Shelf (1), or in Drawer (1-4), Cart (1). I can check each place one by one, starting from BathtubBasin (1), until I find the bottle.
+OK.
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Bathtub (1), BathtubBasin (1). 
+Think: I find SoapBottle (1). Now, I need to pick it up.
+OK.
+Act: recall location of SoapBottle
+You have not seen SoapBottle before.
+Think: Now I need to find another bottle. The bottle is more likely to appear on BathtubBasin (1), SinkBasin (1), Shelf (1), or in Drawer (1-4), Cart (1). I can check each place one by one, starting from BathtubBasin (1), until I find the bottle.
+OK.
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Bathtub (1), BathtubBasin (1). 

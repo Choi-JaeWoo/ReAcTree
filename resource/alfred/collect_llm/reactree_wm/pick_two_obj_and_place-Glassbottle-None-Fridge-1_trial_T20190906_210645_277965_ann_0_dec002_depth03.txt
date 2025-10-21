@@ -1,0 +1,27 @@
+Your primary goal is to: Put two wine glasses in the fridge.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up wine glass, place wine glass in fridge, find and pick up wine glass away from fridge, and place wine glass in fridge.
+Your task is to: find and pick up wine glass
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9).
+Think: First, I need to recall location of the wine glass.
+OK.
+Act: recall location of WineBottle
+You have not seen WineBottle before.
+Think: Now, I need to find the wine glass. The wine glass is more likely to appear on Shelf (1-3), CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-9), Drawer (1-9). I can check each place one by one, starting from Shelf (1), until I find the wine glass.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Statue (1), SoapBottle (1), Shelf (3), PaperTowelRoll (1), Drawer (2, 3), Bowl (1). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Statue (1), SoapBottle (1), Shelf (3), PaperTowelRoll (1), Drawer (2, 3), Bowl (1). 
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Statue (1), SoapBottle (1), Shelf (3), PaperTowelRoll (1), Bowl (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Vase (1), Tomato (2), Statue (2), Spoon (1), Potato (2), Lettuce (1), Glassbottle (3), CounterTop (1), Bread (2), Book (1). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Window (1), Spatula (2, 3), Sink (1), SinkBasin (1), Knife (2), Glassbottle (1, 4), Faucet (1), Egg (2), CounterTop (2), Cabinet (2). 
+Think: I find Glassbottle (1). Now, I need to pick it up.
+OK.
+Act: pick up Glassbottle (1)
+You pick up Glassbottle (1). You see Window (1), Spatula (2, 3), Sink (1), SinkBasin (1), Knife (2), Glassbottle (1, 4), Faucet (1), Egg (2), CounterTop (2), Cabinet (2). I am holding Glassbottle (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

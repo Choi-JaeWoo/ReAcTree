@@ -1,0 +1,13 @@
+Your primary goal is to: Put a cup with a fork on it on the kitchen counter
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up cup, place cup on countertop, find and pick up fork, and place fork on cup near countertop.
+Your task is to: place cup on countertop
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), CounterTop (1, 2, 3, 4), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15). I am holding Cup (1) now.
+Think: I hold Cup (1). Now, I need to put it on the countertop. I can see CounterTop (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (2), Tomato (2, 3), StoveKnob (3), StoveBurner (2, 3), Pot (1, 3), GarbageCan (1), Cup (1), CounterTop (1), ButterKnife (1).  I am holding Cup (1) now.
+Act: put down Cup (1)
+You put Cup (1) on CounterTop (1). You see Window (2), Tomato (2, 3), StoveKnob (3), StoveBurner (2, 3), Pot (1, 3), GarbageCan (1), Cup (1), CounterTop (1), ButterKnife (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

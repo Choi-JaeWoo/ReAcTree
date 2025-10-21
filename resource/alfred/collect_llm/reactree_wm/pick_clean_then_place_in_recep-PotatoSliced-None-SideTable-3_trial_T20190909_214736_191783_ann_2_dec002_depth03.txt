@@ -1,0 +1,35 @@
+Your primary goal is to: Place a clean potato slice on a plate.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, slice and pick up potato, clean and pick up potato, and place potato on plate.
+Your task is to: find and pick up knife
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: First, I need to recall location of the knife.
+OK.
+Act: recall location of Knife
+You have not seen Knife before.
+Think: Now, I need to find the knife. The knife is more likely to appear on CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the knife.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (2), Kettle (2), CounterTop (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Drawer (1). Fridge (1) is closed. 
+Act: open Fridge (1)
+You open Fridge (1). You see Fridge (1), Drawer (1).
+Act: close Fridge (1)
+You close Fridge (1). You see Fridge (1), Drawer (1).
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Tomato (2), Spoon (1), SideTable (1), Microwave (1), Fridge (1). Microwave (1) is closed. 
+Act: open Microwave (1)
+You open Microwave (1). You see SideTable (1), Potato (3), Microwave (1), Fridge (1).
+Act: close Microwave (1)
+You close Microwave (1). You see Tomato (2), Spoon (1), SideTable (1), Microwave (1), Fridge (1).
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Spatula (3), Plate (1), Mug (2), Knife (1), CounterTop (1), CoffeeMachine (1), Chair (1), Cabinet (1). Cabinet (1) is closed. 
+Think: I find Knife (1). Now, I need to pick it up.
+OK.
+Act: pick up Knife (1)
+You pick up Knife (1). You see Spatula (3), Plate (1), Mug (2), Knife (1), CounterTop (1), CoffeeMachine (1), Chair (1), Cabinet (1). I am holding Knife (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

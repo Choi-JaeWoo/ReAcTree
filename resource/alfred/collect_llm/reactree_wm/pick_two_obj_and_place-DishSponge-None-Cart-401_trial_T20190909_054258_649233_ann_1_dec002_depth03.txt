@@ -1,0 +1,19 @@
+Your primary goal is to: Move two sponges to a metal shelving unit.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up sponges, and place sponges on metal shelving unit.
+Your task is to: find and pick up sponges
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1, 2), Toilet (1), ToiletPaperHanger (1), Sink (1), SinkBasin (1), Shelf (1, 2, 3, 4), HandTowelHolder (1, 2), GarbageCan (1), Cart (1), Bathtub (1), BathtubBasin (1).
+Think: First, I need to recall location of the sponges.
+OK.
+Act: recall location of DishSponge
+You have not seen DishSponge before.
+Think: Now, I need to find the sponges. The sponges are more likely to appear on BathtubBasin (1), SinkBasin (1), Shelf (1-4). I can check each place one by one, starting from BathtubBasin (1), until I find the sponges.
+OK.
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see DishSponge (3), Cloth (1), Bathtub (1), BathtubBasin (1). 
+Think: I find DishSponge (3). Now, I need to pick it up.
+OK.
+Act: pick up DishSponge (3)
+You pick up DishSponge (3). You see DishSponge (3), Cloth (1), Bathtub (1), BathtubBasin (1). I am holding DishSponge (3) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

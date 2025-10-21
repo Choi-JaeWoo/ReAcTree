@@ -1,0 +1,116 @@
+Your task is to: Put a blue container in a box and place the box on the table. 
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1, 2), Shelf (1, 2, 3), Safe (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), Desk (1), CoffeeTable (1), ArmChair (1).
+Think: To solve the task, I need to find and pick up the blue container, then put it in the box. And I need to pick up the box, then put it on the table.
+OK.
+Think: First, I need to recall location of the blue container.
+OK.
+Act: recall location of Box
+You have not seen Box before.
+Think: Now I need to find the blue container. The blue container is more likely to appear on DiningTable (1), CoffeeTable (1), or in Drawer (1-6). I can check each place one by one, starting from DiningTable (1), until I find the blue container.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Laptop (1, 2, 3), DiningTable (1), Chair (1, 2, 5, 6). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (1, 3), Statue (2, 3), KeyChain (2), CoffeeTable (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Lamp (1), KeyChain (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), Chair (4), CellPhone (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Lamp (1), KeyChain (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), Chair (4), CellPhone (1).
+Act: close Drawer (1)
+You close Drawer (1). You see Lamp (1), KeyChain (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), Chair (4), CellPhone (1).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Lamp (1), KeyChain (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+The Drawer (2) is open failed.
+Act: close Drawer (2)
+The Drawer (2) is already closed.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Lamp (1), KeyChain (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1). Drawer (3) is closed. 
+Act: open Drawer (3)
+The Drawer (3) is open failed.
+Act: close Drawer (3)
+The Drawer (3) is already closed.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Lamp (1), KeyChain (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1). Drawer (4) is closed. 
+Act: open Drawer (4)
+The Drawer (4) is open failed.
+Act: close Drawer (4)
+The Drawer (4) is already closed.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Lamp (1), KeyChain (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), Chair (4), CellPhone (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+You open Drawer (5). You see Lamp (1), KeyChain (1), Drawer (2, 3, 4, 5, 6), Desk (1), Chair (4), CellPhone (1).
+Act: close Drawer (5)
+You close Drawer (5). You see Lamp (1), KeyChain (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), Chair (4), CellPhone (1).
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Lamp (1), KeyChain (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), Chair (4), CellPhone (1). Drawer (6) is closed. 
+Act: open Drawer (6)
+You open Drawer (6). You see Vase (2), Lamp (1), KeyChain (1), Drawer (2, 3, 4, 6), Desk (1), Chair (4), CellPhone (1).
+Think: I find Box (1). Now, I need to pick it up.
+OK.
+Act: pick up Vase (2)
+
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Laptop (1, 2, 3), DiningTable (1), Chair (1, 2, 5, 6). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (1, 3), Statue (2, 3), KeyChain (2), CoffeeTable (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Vase (1, 3), Statue (2, 3), Lamp (1), KeyChain (1, 2), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), CoffeeTable (1), CellPhone (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Lamp (1), KeyChain (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), CellPhone (1).
+Act: close Drawer (1)
+You close Drawer (1). You see Lamp (1), KeyChain (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), CellPhone (1).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Lamp (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+The Drawer (2) is open failed.
+Act: close Drawer (2)
+The Drawer (2) is already closed.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Lamp (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1). Drawer (3) is closed. 
+Act: open Drawer (3)
+The Drawer (3) is open failed.
+Act: close Drawer (3)
+The Drawer (3) is already closed.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Lamp (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1). Drawer (4) is closed. 
+Act: open Drawer (4)
+The Drawer (4) is open failed.
+Act: close Drawer (4)
+The Drawer (4) is already closed.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Vase (2), Lamp (1, 1), KeyChain (1), GarbageCan (1, 1), Drawer (1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6), Desk (1, 1), CellPhone (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+You open Drawer (5). You see Vase (2), Lamp (1), KeyChain (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), CellPhone (1).
+Act: close Drawer (5)
+You close Drawer (5). You see Vase (2), Lamp (1), KeyChain (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), CellPhone (1).
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Vase (2), Safe (1), Lamp (1, 1), KeyChain (1, 1), GarbageCan (1), Drawer (1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6), Desk (1, 1), Chair (4), CellPhone (1, 1). Drawer (6) is open. 
+Think: I find Box (1). Now, I need to pick it up.
+OK.
+Act: pick up Vase (2)
+The Vase (2) is not close to you.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Safe (1, 1), Lamp (1, 1), KeyChain (1, 1), Drawer (1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6), Desk (1, 1), Chair (4, 4), CellPhone (1, 1). Drawer (6) is open. 
+Act: pick up CellPhone (1)
+You pick up CellPhone (1). You see Safe (1), Lamp (1), KeyChain (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), Chair (4), CellPhone (1). I am holding CellPhone (1) now.
+Think: I hold CellPhone (1). Now, I need to put it in the box.
+OK.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Safe (1, 1), Lamp (1, 1), KeyChain (1, 1), Drawer (1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6), Desk (1, 1), Chair (4, 4), CellPhone (1, 1). Drawer (6) is open.  I am holding CellPhone (1) now.
+Act: put down CellPhone (1)
+You put CellPhone (1) on Drawer (6). You see Safe (1), Lamp (1), KeyChain (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), Chair (4), CellPhone (1).
+Act: close Drawer (6)
+You close Drawer (6). You see Safe (1), Lamp (1), KeyChain (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), Chair (4).
+Think: I put CellPhone (1) in Drawer (6). Now, I need to pick up the box.
+OK.
+Act: open Drawer (6)
+You open Drawer (6). You see Safe (1), Lamp (1), KeyChain (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), Chair (4), CellPhone (1).
+Act: pick up CellPhone (1)
+You pick up CellPhone (1). You see Safe (1), Lamp (1), KeyChain (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), Chair (4), CellPhone (1). I am holding CellPhone (1) now.
+Think: I pick up CellPhone (1) from Drawer (6). Now, I need to put it on the table.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Laptop (1, 2, 3), DiningTable (1), Chair (1, 2, 5, 6), CellPhone (1).  I am holding CellPhone (1) now.
+Act: put down CellPhone (1)
+You put CellPhone (1) on DiningTable (1). You see Laptop (1, 2, 3), DiningTable (1), Chair (1, 2, 5, 6), CellPhone (1).

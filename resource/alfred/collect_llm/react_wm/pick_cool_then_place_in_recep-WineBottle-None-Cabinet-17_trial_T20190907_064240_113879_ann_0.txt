@@ -1,0 +1,47 @@
+Your task is to: Put a cold wine bottle in the cabinet.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20).
+Think: To solve the task, I need to find and pick up the wine bottle, then put it in the fridge. I need to pick up the wine bottle from the fridge, then put it in the cabinet.
+OK.
+Think: First, I need to recall location of the wine bottle.
+OK.
+Act: recall location of WineBottle
+You have not seen WineBottle before.
+Think: Now I need to find the wine bottle. The wine bottle is more likely to appear on DiningTable (1-2), CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-20), Drawer (1-6). I can check each place one by one, starting from DiningTable (1), until I find the wine bottle.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Window (2), Mug (1), Glassbottle (1), DishSponge (1), DiningTable (1), Chair (1), Bread (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see WineBottle (1), Spatula (3), Lettuce (1, 2), Knife (1), Glassbottle (2, 3), Fork (2), DiningTable (2), CellPhone (2), ButterKnife (2), Apple (1). 
+Think: I find WineBottle (1). Now, I need to pick it up.
+OK.
+Act: pick up WineBottle (1)
+You pick up WineBottle (1). You see WineBottle (1), Spatula (3), Glassbottle (2, 3), DiningTable (2), CellPhone (2), ButterKnife (2), Apple (1). I am holding WineBottle (1) now.
+Think: I hold WineBottle (1). Now, I need to put it in the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see WineBottle (1), Fridge (1). Fridge (1) is closed.  I am holding WineBottle (1) now.
+Act: open Fridge (1)
+You open Fridge (1). You see WineBottle (1), Plate (2), Fridge (1), Egg (2), Cabinet (8). I am holding WineBottle (1) now.
+Act: put down WineBottle (1)
+You put WineBottle (1) on Fridge (1). You see WineBottle (1), Tomato (3), Plate (2), Fridge (1), Egg (2), Cabinet (8).
+Act: close Fridge (1)
+You close Fridge (1). You see Fridge (1).
+Think: I put WineBottle (1) in Fridge (1). Now, I need to pick up the wine bottle from the fridge.
+OK.
+Act: open Fridge (1)
+You open Fridge (1). You see WineBottle (1), Tomato (3), Plate (2), Fridge (1), Egg (2), Cabinet (8).
+Act: pick up WineBottle (1)
+You pick up WineBottle (1). You see WineBottle (1), Plate (2), Fridge (1), Cabinet (8). I am holding WineBottle (1) now.
+Think: I pick up WineBottle (1) from Fridge (1). Now, I need to put it in the cabinet.
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see WineBottle (1), Toaster (1), GarbageCan (1), Drawer (4, 6), Cup (2), CounterTop (1), Cabinet (1, 5, 14). Cabinet (1) is closed.  I am holding WineBottle (1) now.
+Act: open Cabinet (1)
+You open Cabinet (1). You see WineBottle (1), GarbageCan (1), Fridge (1), Drawer (4, 6), CounterTop (1), Cabinet (1, 5, 14). I am holding WineBottle (1) now.
+Act: put down WineBottle (1)
+You put WineBottle (1) on Cabinet (1). You see WineBottle (1), GarbageCan (1), Fridge (1), Drawer (4, 6), CounterTop (1), Cabinet (1, 5, 14).
+Act: close Cabinet (1)
+You close Cabinet (1). You see GarbageCan (1), Fridge (1), Drawer (4, 6), CounterTop (1), Cabinet (1, 5, 14).
+Think: Now I accomplish the goal.
+OK.
+Act: done

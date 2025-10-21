@@ -1,0 +1,7 @@
+Your task is to: Put two bottles on a metal rack.
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1), Shelf (1), HandTowelHolder (1), GarbageCan (1), Drawer (1, 2, 3, 4), CounterTop (1), Cart (1), BathtubBasin (1).
+Think: Since I’m not holding the bottle, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up bottle, place bottle on metal rack, Find and pick up bottle away from metal rack, and place bottle on metal rack.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up bottle, place bottle on metal rack, Find and pick up bottle away from metal rack, place bottle on metal rack

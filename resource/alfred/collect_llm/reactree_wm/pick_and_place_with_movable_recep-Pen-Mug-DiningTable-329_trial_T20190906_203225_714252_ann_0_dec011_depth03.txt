@@ -1,0 +1,7 @@
+Your primary goal is to: Place the cup with a pencil in front of the laptop on the desk.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up cup, find and pick up pencil, and place cup and pencil on desk.
+Your task is to: find and pick up pencil
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1, 2), GarbageCan (1), Drawer (1, 2, 3, 4), DiningTable (1), Bed (1). I am holding Pencil (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

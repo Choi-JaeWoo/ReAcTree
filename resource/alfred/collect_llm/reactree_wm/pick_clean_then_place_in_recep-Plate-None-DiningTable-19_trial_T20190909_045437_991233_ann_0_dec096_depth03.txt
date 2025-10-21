@@ -1,0 +1,13 @@
+Your primary goal is to: Clean a plate and put on the dining table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up plate, clean and pick up plate, and place plate on dining table.
+Your task is to: clean and pick up plate
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21). I am holding Pot (1) now.
+Think: I hold Pot (1). Now, I need to clean it using sink basin.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see SinkBasin (1), Pot (1), Pan (2), Fork (2), Faucet (1), CounterTop (2), Bread (1).  I am holding Pot (1) now.
+Act: put down Pot (1)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), Pot (1), Pan (2), Fork (2), Faucet (1), CounterTop (2), Cabinet (5, 7, 9), Bread (1).
+Act: turn on Faucet (1)
+You turn on Faucet (1). You see Sink (1), SinkBasin (1), Pot (1), Pan (2), Fork (2), Faucet (1), CounterTop (2), Cabinet (5, 7, 9), Bread (1).
+Max decisions

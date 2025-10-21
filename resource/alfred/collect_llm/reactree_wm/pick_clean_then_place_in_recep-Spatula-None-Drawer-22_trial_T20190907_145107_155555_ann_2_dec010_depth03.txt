@@ -1,0 +1,21 @@
+Your primary goal is to: wash the spatula in the sink, put it in the first drawer by the stove
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up spatula, clean and pick up spatula, and place spatula in drawer.
+Your task is to: clean and pick up spatula
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20). I am holding Spatula (1) now.
+Think: I hold Spatula (1). Now, I need to clean it using sink basin.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spatula (1), Sink (1), SinkBasin (1), Faucet (1), DishSponge (1), Cup (1), CounterTop (3), Cabinet (11, 18, 19), ButterKnife (2), Apple (2).  I am holding Spatula (1) now.
+Act: put down Spatula (1)
+You put Spatula (1) on SinkBasin (1). You see Tomato (3), Spatula (1), Sink (1), SinkBasin (1), Faucet (1), DishSponge (1), Cup (1), CounterTop (3), Cabinet (11, 18, 19), ButterKnife (2), Apple (2).
+Act: turn on Faucet (1)
+You turn on Faucet (1). You see Tomato (3), Spatula (1), Sink (1), SinkBasin (1), Faucet (1), DishSponge (1), Cup (1), CounterTop (3), Cabinet (11, 18, 19), ButterKnife (2), Apple (2).
+Act: turn off Faucet (1)
+You turn off Faucet (1). You see Tomato (3), Spatula (1), Sink (1), SinkBasin (1), Faucet (1), DishSponge (1), Cup (1), CounterTop (3), Cabinet (11, 18, 19), ButterKnife (2), Apple (2).
+Think: I clean Spatula (1) using SinkBasin (1). Now, I need to pick up the spatula from the sink basin.
+OK.
+Act: pick up Spatula (1)
+You pick up Spatula (1). You see Tomato (3), Spatula (1), Sink (1), SinkBasin (1), Faucet (1), DishSponge (1), Cup (1), CounterTop (3), Cabinet (11, 18, 19), ButterKnife (2), Apple (2). I am holding Spatula (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

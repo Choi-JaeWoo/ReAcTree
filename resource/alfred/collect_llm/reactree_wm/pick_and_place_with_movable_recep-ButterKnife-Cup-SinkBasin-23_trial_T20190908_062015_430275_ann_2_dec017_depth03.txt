@@ -1,0 +1,19 @@
+Your primary goal is to: Put the butter knife in the wine glass, put the glass in the sink
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up butter knife, place butter knife in wine glass, find and pick up wine glass, and place wine glass in sink basin.
+Your task is to: find and pick up wine glass
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2), DiningTable (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10).
+Think: First, I need to recall location of the wine glass.
+OK.
+Act: recall location of WineBottle
+You saw WineBottle (1) near DiningTable (1). You saw WineBottle (2) near DiningTable (1).
+Think: I can find WineBottle (1) near DiningTable (1). I can find WineBottle (2) near DiningTable (1).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (1, 2), Spoon (1), Spatula (2), SoapBottle (2, 3), Plate (2), Pen (2), Lettuce (1), Knife (1, 2), Glassbottle (2), DiningTable (1), Cup (2, 3), Chair (1, 2). 
+Think: I find WineBottle (1). Now, I need to pick it up.
+OK.
+Act: pick up WineBottle (1)
+You pick up WineBottle (1). You see WineBottle (1, 2), Spoon (1), SoapBottle (2, 3), Plate (2), Pen (2), Lettuce (1), Knife (1, 2), Glassbottle (2), DiningTable (1), Cup (2, 3), Chair (1, 2). I am holding WineBottle (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

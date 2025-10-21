@@ -1,0 +1,27 @@
+Your task is to: Put a book on the couch.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1, 2), GarbageCan (1), Drawer (1, 2), DiningTable (1, 2), CoffeeTable (1), ArmChair (1, 2).
+Think: To solve the task, I need to find and pick up the book, then put it on the couch.
+OK.
+Think: First, I need to recall location of the book.
+OK.
+Act: recall location of Book
+You have not seen Book before.
+Think: Now I need to find the book. The book is more likely to appear on TVStand (1), Sofa (1), SideTable (1-2), CoffeeTable (1), ArmChair (1-2), or in Drawer (1-2). I can check each place one by one, starting from TVStand (1), until I find the book.
+OK.
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), Statue (1), Laptop (2), Box (1). 
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Watch (1), Vase (1), SideTable (1), Drawer (1), DiningTable (2). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), Pencil (1), Newspaper (3), Lamp (1), Drawer (2), Curtains (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), TissueBox (1), Sofa (1), RemoteControl (1, 2), Plate (2), Newspaper (2), KeyChain (1, 3), CoffeeTable (1), Bowl (1). 
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Laptop (1), Box (1), ArmChair (1). 
+Act: go to ArmChair (2)
+You arrive at ArmChair (2). You see KeyChain (2), Curtains (1), ArmChair (2). 
+Think: I can't find the book. I need to ask for help.
+OK.
+Act: failure

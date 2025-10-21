@@ -1,0 +1,19 @@
+Your primary goal is to: put a coffee cup with a pen in it on the nightstand
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up coffee cup, find and pick up pen, and place coffee cup with pen on nightstand.
+Your task is to: find and pick up coffee cup
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1), GarbageCan (1), Drawer (1, 2), Desk (1), Bed (1).
+Think: First, I need to recall location of the coffee cup.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now, I need to find the coffee cup. The coffee cup is more likely to appear on SideTable (1), Desk (1), or in Drawer (1-2). I can check each place one by one, starting from SideTable (1), until I find the coffee cup.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Window (1, 2), SideTable (1), Pencil (1), Pen (3), Laptop (2), Drawer (1, 2), Desk (1), CreditCard (2), Chair (1), CellPhone (1), CD (1), Bed (1). 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: pick up CreditCard (2)
+You pick up CreditCard (2). You see Window (1, 2), SideTable (1), Pencil (1), Pen (3), Laptop (2), Drawer (1, 2), Desk (1), CreditCard (2), Chair (1), CellPhone (1), CD (1), Bed (1). I am holding CreditCard (2) now.
+Act: pick up CreditCard (2)
+You are currently holding CreditCard (2). I am holding CreditCard (2) now.
+Act: failure

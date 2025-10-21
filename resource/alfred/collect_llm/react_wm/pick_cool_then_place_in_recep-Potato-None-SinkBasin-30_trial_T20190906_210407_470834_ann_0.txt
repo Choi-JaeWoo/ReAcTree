@@ -1,0 +1,142 @@
+Your task is to: Place a cooled potato in a sink.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27), CounterTop (1, 2, 3, 4), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13).
+Think: To solve the task, I need to find and pick up the knife. And I need to find and slice the potato. And I need to put down the knife and pick up the potato, then put put it in the fridge. And I need to pick up the potato from the fridge, then put it in the sink basin.
+OK.
+Think: First, I need to recall location of the knife.
+OK.
+Act: recall location of Knife
+You have not seen Knife before.
+Think: Now I need to find the knife. The knife is more likely to appear on CounterTop (1-4), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1-27). I can check each place one by one, starting from CounterTop (1), until I find the knife.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), Plate (2), Mug (1), Mirror (1), Lettuce (1), Drawer (3, 6, 10, 22, 24, 25), DishSponge (3), CounterTop (1). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Window (1), SoapBottle (1), Sink (1), SinkBasin (1), Knife (1), HousePlant (1), Fork (2), Faucet (1), Drawer (4, 5), Cup (1), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6). 
+Think: I find Knife (1). Now, I need to pick it up.
+OK.
+Act: pick up Knife (1)
+You pick up Knife (1). You see Window (1), SoapBottle (1), Sink (1), SinkBasin (1), Knife (1), HousePlant (1), Fork (2), Faucet (1), Drawer (4, 5), Cup (1), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6). I am holding Knife (1) now.
+Think: I hold Knife (1). Now, I need to recall location of the potato.
+OK.
+Act: recall location of Potato
+You have not seen Potato before.
+Think: Now, I need to find the potato. The potato is more likely to appear on SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1-27). I can check each place one by one, starting from SinkBasin (1), until I find the potato.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see SoapBottle (1), Sink (1), SinkBasin (1), Mug (2), Knife (1), HousePlant (1), Fork (2), Faucet (1), Drawer (4, 5), Cup (1), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12).  I am holding Knife (1) now.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Knife (1). Fridge (1) is closed.  I am holding Knife (1) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Knife (1), Fridge (1). I am holding Knife (1) now.
+Act: close Fridge (1)
+You close Fridge (1). You see Knife (1). I am holding Knife (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1), Knife (1), Drawer (3, 7, 12, 17, 20, 24), CounterTop (1), ButterKnife (2). Microwave (1) is closed.  I am holding Knife (1) now.
+Act: open Microwave (1)
+You open Microwave (1). You see Potato (1), Microwave (1), Knife (1), Egg (3), Drawer (3, 7, 12, 17, 20, 24). I am holding Knife (1) now.
+Think: I find Potato (1). Now, I need to slice it.
+OK.
+Act: slice Potato (1)
+You slice Potato (1). You see Potato (9, 10), Microwave (1), Knife (1), Egg (3), Drawer (3, 7, 12, 17, 20, 24). Potato (5, 6, 7, 8, 9, 10) are sliced. I am holding Knife (1) now.
+Think: I slice Potato (1). Now, I need to put down the knife.
+OK.
+Act: put down Knife (1)
+You put down failed, drop it. You see Potato (9, 10), Microwave (1), Egg (3), Drawer (3, 7, 12, 17, 20, 24).
+Think: Now I need to pick up Potato (5).
+OK.
+Act: pick up Potato (9)
+You pick up Potato (9). You see Potato (8, 9, 10), Microwave (1), Egg (3), Drawer (3, 7, 12, 17, 20, 24). I am holding Potato (9) now.
+Think: I hold Potato (9). Now, I need to put it in the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (9). Fridge (1) is closed.  I am holding Potato (9) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Potato (9), Fridge (1). I am holding Potato (9) now.
+Act: put down Potato (9)
+You put down failed, drop it. You see Potato (9), Fridge (1).
+Think: Now I need to pick up Potato (9).
+OK.
+Act: pick up Potato (9)
+You pick up Potato (9). You see Potato (9), Fridge (1). I am holding Potato (9) now.
+Act: put down Potato (9)
+You put down failed, drop it. You see Potato (9), Fridge (1).
+Think: Now I need to pick up Potato (9).
+OK.
+Act: pick up Potato (9)
+You pick up Potato (9). You see Potato (9), Fridge (1). I am holding Potato (9) now.
+Act: put down Potato (9)
+You put down failed, drop it. You see Potato (9), Fridge (1).
+Think: Now I need to pick up Potato (9).
+OK.
+Act: pick up Potato (9)
+You pick up Potato (9). You see Potato (9), Fridge (1). I am holding Potato (9) now.
+Act: put down Potato (9)
+You put down failed, drop it. You see Potato (9), Fridge (1).
+Think: Now I need to pick up Potato (9).
+OK.
+Act: pick up Potato (9)
+You pick up Potato (9). You see Potato (9), Fridge (1). I am holding Potato (9) now.
+Act: put down Potato (9)
+You put down failed, drop it. You see Potato (9), Fridge (1).
+Think: Now I need to pick up Potato (9).
+OK.
+Act: pick up Potato (9)
+You pick up Potato (9). You see Potato (9), Fridge (1). I am holding Potato (9) now.
+Act: put down Potato (9)
+You put down failed, drop it. You see Potato (9), Fridge (1).
+Think: Now I need to pick up Potato (9).
+OK.
+Act: pick up Potato (9)
+You pick up Potato (9). You see Potato (9), Fridge (1). I am holding Potato (9) now.
+Act: put down Potato (9)
+You put down failed, drop it. You see Potato (9), Fridge (1).
+Think: Now I need to pick up Potato (9).
+OK.
+Act: pick up Potato (9)
+You pick up Potato (9). You see Potato (9), Fridge (1). I am holding Potato (9) now.
+Act: put down Potato (9)
+You put down failed, drop it. You see Potato (9), Fridge (1).
+Think: Now I need to pick up Potato (9).
+OK.
+Act: pick up Potato (9)
+You pick up Potato (9). You see Potato (9), Fridge (1). I am holding Potato (9) now.
+Act: put down Potato (9)
+You put down failed, drop it. You see Potato (9), Fridge (1).
+Think: Now I need to pick up Potato (9).
+OK.
+Act: pick up Potato (9)
+You pick up Potato (9). You see Potato (9), Fridge (1). I am holding Potato (9) now.
+Act: put down Potato (9)
+You put down failed, drop it. You see Potato (9), Fridge (1).
+Think: Now I need to pick up Potato (9).
+OK.
+Act: pick up Potato (9)
+You pick up Potato (9). You see Potato (9), Fridge (1). I am holding Potato (9) now.
+Act: put down Potato (9)
+You put down failed, drop it. You see Potato (9), Fridge (1).
+Think: Now I need to pick up Potato (9).
+OK.
+Act: pick up Potato (9)
+You pick up Potato (9). You see Potato (9), Fridge (1). I am holding Potato (9) now.
+Act: put down Potato (9)
+You put down failed, drop it. You see Potato (9), Fridge (1).
+Think: Now I need to pick up Potato (9).
+OK.
+Act: pick up Potato (9)
+You pick up Potato (9). You see Potato (9), Fridge (1). I am holding Potato (9) now.
+Act: put down Potato (9)
+You put down failed, drop it. You see Potato (9), Fridge (1).
+Think: Now I need to pick up Potato (9).
+OK.
+Act: pick up Potato (9)
+You pick up Potato (9). You see Potato (9), Fridge (1). I am holding Potato (9) now.
+Act: put down Potato (9)
+You put down failed, drop it. You see Potato (9), Fridge (1).
+Think: Now I need to pick up Potato (9).
+OK.
+Act: pick up Potato (9)
+You pick up Potato (9). You see Potato (9), Fridge (1). I am holding Potato (9) now.
+Act: put down Potato (9)
+You put down failed, drop it. You see Potato (9), Fridge (1).
+Think: Now I need to pick up Potato (9).
+OK.

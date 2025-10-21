@@ -1,0 +1,13 @@
+Your primary goal is to: Pick up the keys and put them on the gray couch.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up keys, and place keys on couch.
+Your task is to: place keys on couch
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2, 3), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), CoffeeTable (1), ArmChair (1). I am holding KeyChain (1) now.
+Think: I hold KeyChain (1). Now, I need to put it on the couch. I can see Sofa (1).
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), KeyChain (1).  I am holding KeyChain (1) now.
+Act: put down KeyChain (1)
+You put KeyChain (1) on Sofa (1). You see Sofa (1), KeyChain (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

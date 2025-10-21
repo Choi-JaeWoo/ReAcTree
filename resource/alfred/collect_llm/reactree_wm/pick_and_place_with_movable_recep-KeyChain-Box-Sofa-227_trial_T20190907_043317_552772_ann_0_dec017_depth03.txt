@@ -1,0 +1,27 @@
+Your primary goal is to: Put keys inside a box and move it to the couch.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up keys, find and pick up box, place keys in box, and place box on couch.
+Your task is to: place keys in box
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7), DiningTable (1), CoffeeTable (1, 2), Cabinet (1, 2, 3, 4, 5, 6, 7, 8), ArmChair (1, 2). I am holding KeyChain (1) now.
+Think: I hold KeyChain (1). Now, I need to recall location of the box.
+OK.
+Act: recall location of Box
+You saw Box (1) near hand.
+Think: I can find Box (1) near hand.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), KeyChain (1), Drawer (2, 5), Cabinet (1, 8).  I am holding KeyChain (1) now.
+Think: I find Box (1). Now, I need to put down KeyChain (1) in Box (1).
+OK.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Statue (2), Shelf (5), KeyChain (1), Drawer (2, 5), Cabinet (8). Drawer (2) is closed.  I am holding KeyChain (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Shelf (5), KeyChain (1), Drawer (2, 5), Cabinet (8). I am holding KeyChain (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Statue (2), Shelf (5, 5, 5, 5, 5), KeyChain (1, 1, 1, 1, 1), Drawer (2, 2, 2, 2, 2, 5, 5, 5, 5, 5), Cabinet (1, 8, 8, 8, 8, 8). Drawer (5) is closed.  I am holding KeyChain (1) now.
+Act: open Drawer (5)
+You open Drawer (5). You see Statue (2), Shelf (5), KeyChain (1), Drawer (2, 5), Cabinet (8). I am holding KeyChain (1) now.
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see KeyChain (1), Cabinet (1, 8). Cabinet (8) is closed.  I am holding KeyChain (1) now.
+Act: open Cabinet (8)
+The Cabinet (8) is open failed. I am holding KeyChain (1) now.
+Act: failure

@@ -1,0 +1,31 @@
+Your primary goal is to: put a phone in a bowl on a desk
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up phone, find and pick up bowl, and place phone in bowl on desk.
+Your task is to: find and pick up bowl
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1), GarbageCan (1), Drawer (1, 2), Desk (1), Bed (1). I am holding CellPhone (2) now.
+Think: First, I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: Now, I need to find the bowl. The bowl is more likely to appear on Desk (1), SideTable (1), or in Drawer (1-2). I can check each place one by one, starting from Desk (1), until I find the bowl.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see KeyChain (1), Desk (1), Chair (1), CellPhone (1, 2), AlarmClock (1, 2).  I am holding CellPhone (2) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pen (2), Drawer (1, 2), CreditCard (1), CellPhone (2), CD (2), Bowl (1), Bed (1).  I am holding CellPhone (2) now.
+Think: I find Bowl (1). Now, I need to pick it up.
+OK.
+Act: pick up Bowl (1)
+You are currently holding CellPhone (2). I am holding CellPhone (2) now.
+Think: Now I need to put down the phone.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see KeyChain (1), Desk (1), Chair (1), CellPhone (1, 2), AlarmClock (1, 2).  I am holding CellPhone (2) now.
+Act: put down CellPhone (2)
+You put CellPhone (2) on Desk (1). You see KeyChain (1), Desk (1), Chair (1), CellPhone (1, 2), AlarmClock (1, 2).
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pen (2), Drawer (1, 2), CreditCard (1), CD (2), Bowl (1), Bed (1). 
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see SideTable (1), Pen (2), Drawer (1), CreditCard (1), CD (2), Bowl (1), Bed (1). I am holding Bowl (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

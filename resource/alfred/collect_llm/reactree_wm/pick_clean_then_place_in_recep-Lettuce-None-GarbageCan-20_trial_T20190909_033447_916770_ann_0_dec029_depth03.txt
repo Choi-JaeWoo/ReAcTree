@@ -1,0 +1,13 @@
+Your primary goal is to: Place a washed head of lettuce in the waste basket
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, slice and pick up lettuce, clean and pick up lettuce, and place lettuce in waste basket.
+Your task is to: place lettuce in waste basket
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13). I am holding Tomato (3) now.
+Think: I hold Tomato (3). Now, I need to put it in the waste basket. I can see GarbageCan (1).
+OK.
+Act: go to GarbageCan (1)
+You arrive at GarbageCan (1). You see WineBottle (1), Window (1), Tomato (3), StoveBurner (2, 3), Pan (1), GarbageCan (1).  I am holding Tomato (3) now.
+Act: put down Tomato (3)
+You put Tomato (3) on GarbageCan (1). You see WineBottle (1), Window (1), Tomato (3), StoveBurner (2, 3), Pan (1), GarbageCan (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,13 @@
+Your primary goal is to: Move a candlestick to the back of the toilet. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up candlestick, and place candlestick on toilet.
+Your task is to: place candlestick on toilet
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1), HandTowelHolder (1, 2), GarbageCan (1), CounterTop (1), Cabinet (1, 2, 3). I am holding Candle (3) now.
+Think: I hold Candle (3). Now, I need to put it on the toilet. I can see Toilet (1).
+OK.
+Act: go to Toilet (1)
+You arrive at Toilet (1). You see Toilet (1), ToiletPaper (2), SoapBottle (2), ShowerGlass (1), ScrubBrush (1), Plunger (1), GarbageCan (1), Candle (3). Toilet (1) is closed.  I am holding Candle (3) now.
+Act: put down Candle (3)
+You put Candle (3) on Toilet (1). You see Toilet (1), ToiletPaper (2), SoapBottle (2), ShowerGlass (1), ScrubBrush (1), Plunger (1), GarbageCan (1), Candle (3).
+Think: Now I accomplish the goal.
+OK.
+Act: done

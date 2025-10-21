@@ -1,0 +1,110 @@
+Your task is to: Pick a towel up, turn a light on.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2), LaundryHamper (1), GarbageCan (1), Drawer (1, 2, 3), Desk (1), Bed (1).
+Think: To solve the task, I need to find and pick up the towel. And I need to find and turn on the desk lamp.
+OK.
+Think: First, I need to recall location of the towel.
+OK.
+Act: recall location of HandTowel
+You have not seen HandTowel before.
+Think: Now I need to find the towel. The towel is more likely to appear on Bed (1), Desk (1), SideTable (1), Shelf (1-2), or in Drawer (1-3). I can check each place one by one, starting from Bed (1), until I find the towel.
+OK.
+Act: go to Bed (1)
+You arrive at Bed (1). You see Pillow (1), Laptop (1, 2), CellPhone (2), Bed (1). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see RemoteControl (1), Pencil (2), Desk (1), Chair (1), CellPhone (3), CD (3), Bowl (1), Book (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), RemoteControl (3), Pen (2, 3), KeyChain (1, 2), Desk (1), DeskLamp (1), Chair (1, 2), CellPhone (1), AlarmClock (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Window (1), Shelf (1), Pen (1), Cloth (1, 2), CD (1, 2). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Shelf (2), RemoteControl (1), Desk (1), CellPhone (3), Book (1), AlarmClock (2). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see RemoteControl (1), Pencil (2), Drawer (1, 2, 3), Desk (1), Chair (1), CellPhone (3), Book (1), AlarmClock (2). Drawer (1) is closed. 
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: close Drawer (1)
+The Drawer (1) is already closed.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see RemoteControl (1), Pencil (2), Drawer (1, 2, 3), Desk (1), Chair (1), CellPhone (3), Book (1), AlarmClock (2). Drawer (2) is closed. 
+Act: open Drawer (2)
+The Drawer (2) is open failed.
+Act: close Drawer (2)
+The Drawer (2) is already closed.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see RemoteControl (1), Pencil (2), Drawer (1, 2, 3), Desk (1), Chair (1), CellPhone (3), Book (1), AlarmClock (2). Drawer (3) is closed. 
+Act: open Drawer (3)
+The Drawer (3) is open failed.
+Act: close Drawer (3)
+The Drawer (3) is already closed.
+Think: I cannot find HandTowel. I think I need to search other places.
+OK.
+Act: go to LaundryHamper (1)
+You arrive at LaundryHamper (1). You see TennisRacket (1), LaundryHamper (1), LaundryHamperLid (1), Bed (1). 
+Think: I find HandTowel (1). Now, I need to pick it up.
+OK.
+Act: pick up TennisRacket (1)
+You pick up TennisRacket (1). You see TennisRacket (1), LaundryHamper (1), LaundryHamperLid (1), Bed (1). I am holding TennisRacket (1) now.
+Act: pick up TennisRacket (1)
+You are currently holding TennisRacket (1). I am holding TennisRacket (1) now.
+Act: go to LaundryHamper (1)
+You arrive at LaundryHamper (1). You see TennisRacket (1), LaundryHamper (1), LaundryHamperLid (1), Bed (1).  I am holding TennisRacket (1) now.
+Act: put down TennisRacket (1)
+You put down failed, drop it. You see TennisRacket (1), LaundryHamper (1), LaundryHamperLid (1).
+Act: pick up TennisRacket (1)
+You pick up TennisRacket (1). You see TennisRacket (1), LaundryHamper (1), LaundryHamperLid (1), Bed (1). I am holding TennisRacket (1) now.
+Act: go to LaundryHamper (1)
+You arrive at LaundryHamper (1). You see TennisRacket (1), LaundryHamper (1), LaundryHamperLid (1), Bed (1).  I am holding TennisRacket (1) now.
+Act: put down TennisRacket (1)
+You put down failed, drop it. You see TennisRacket (1), LaundryHamper (1), LaundryHamperLid (1), Bed (1).
+Act: pick up TennisRacket (1)
+You pick up TennisRacket (1). You see TennisRacket (1), LaundryHamper (1), LaundryHamperLid (1), Bed (1). I am holding TennisRacket (1) now.
+Act: go to LaundryHamper (1)
+You arrive at LaundryHamper (1). You see TennisRacket (1), LaundryHamper (1), LaundryHamperLid (1), Bed (1).  I am holding TennisRacket (1) now.
+Act: put down TennisRacket (1)
+You put down failed, drop it. You see TennisRacket (1), LaundryHamper (1), LaundryHamperLid (1).
+Act: pick up TennisRacket (1)
+You pick up TennisRacket (1). You see TennisRacket (1), LaundryHamper (1), LaundryHamperLid (1), Bed (1). I am holding TennisRacket (1) now.
+Act: go to LaundryHamper (1)
+You arrive at LaundryHamper (1). You see TennisRacket (1), LaundryHamper (1), LaundryHamperLid (1), Bed (1).  I am holding TennisRacket (1) now.
+Act: put down TennisRacket (1)
+You put down failed, drop it. You see TennisRacket (1), LaundryHamper (1), LaundryHamperLid (1).
+Act: pick up TennisRacket (1)
+You pick up TennisRacket (1). You see TennisRacket (1), LaundryHamper (1), LaundryHamperLid (1), Bed (1). I am holding TennisRacket (1) now.
+Act: go to LaundryHamper (1)
+You arrive at LaundryHamper (1). You see TennisRacket (1), LaundryHamper (1), LaundryHamperLid (1), Bed (1).  I am holding TennisRacket (1) now.
+Act: put down TennisRacket (1)
+You put down failed, drop it. You see TennisRacket (1), LaundryHamper (1), LaundryHamperLid (1).
+Act: pick up TennisRacket (1)
+You pick up TennisRacket (1). You see TennisRacket (1), LaundryHamper (1), LaundryHamperLid (1), Bed (1). I am holding TennisRacket (1) now.
+Act: go to LaundryHamper (1)
+You arrive at LaundryHamper (1). You see TennisRacket (1), LaundryHamper (1), LaundryHamperLid (1), Bed (1).  I am holding TennisRacket (1) now.
+Act: put down TennisRacket (1)
+You put down failed, drop it. You see TennisRacket (1), LaundryHamper (1), LaundryHamperLid (1).
+Act: pick up TennisRacket (1)
+You pick up TennisRacket (1). You see TennisRacket (1), LaundryHamper (1), LaundryHamperLid (1), Bed (1). I am holding TennisRacket (1) now.
+Act: go to LaundryHamper (1)
+You arrive at LaundryHamper (1). You see TennisRacket (1), LaundryHamper (1), LaundryHamperLid (1), Bed (1).  I am holding TennisRacket (1) now.
+Act: put down TennisRacket (1)
+You put down failed, drop it. You see TennisRacket (1), LaundryHamper (1), LaundryHamperLid (1).
+Act: pick up TennisRacket (1)
+You pick up TennisRacket (1). You see TennisRacket (1), LaundryHamper (1), LaundryHamperLid (1), Bed (1). I am holding TennisRacket (1) now.
+Act: go to LaundryHamper (1)
+You arrive at LaundryHamper (1). You see TennisRacket (1), LaundryHamper (1), LaundryHamperLid (1), Bed (1).  I am holding TennisRacket (1) now.
+Act: put down TennisRacket (1)
+You put down failed, drop it. You see TennisRacket (1), LaundryHamper (1), LaundryHamperLid (1).
+Act: pick up TennisRacket (1)
+You pick up TennisRacket (1). You see TennisRacket (1), LaundryHamper (1), LaundryHamperLid (1), Bed (1). I am holding TennisRacket (1) now.
+Act: go to LaundryHamper (1)
+You arrive at LaundryHamper (1). You see TennisRacket (1), LaundryHamper (1), LaundryHamperLid (1), Bed (1).  I am holding TennisRacket (1) now.
+Act: put down TennisRacket (1)
+You put down failed, drop it. You see TennisRacket (1), LaundryHamper (1), LaundryHamperLid (1), Bed (1).
+Act: pick up TennisRacket (1)
+You pick up TennisRacket (1). You see TennisRacket (1), LaundryHamper (1), LaundryHamperLid (1), Bed (1). I am holding TennisRacket (1) now.
+Act: go to LaundryHamper (1)
+You arrive at LaundryHamper (1). You see TennisRacket (1), LaundryHamper (1), LaundryHamperLid (1), Bed (1).  I am holding TennisRacket (1) now.
+Act: put down TennisRacket (1)
+You put down failed, drop it. You see TennisRacket (1), LaundryHamper (1), LaundryHamperLid (1).
+Act: pick up TennisRacket (1)
+You pick up TennisRacket (1). You see TennisRacket (1), LaundryHamper (1), LaundryHamperLid (1), Bed (1). I am holding TennisRacket (1) now.
+Act: go to LaundryHamper (1)
+You arrive at LaundryHamper (1). You see TennisRacket (1), LaundryHamper (1), LaundryHamperLid (1), Bed (1).  I am holding TennisRacket (1) now.

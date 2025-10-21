@@ -1,0 +1,7 @@
+Your task is to: Examine the pillow under the lamp.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1), GarbageCan (1), Drawer (1), DiningTable (1), CoffeeTable (1, 2), ArmChair (1).
+Think: Since I’m not holding pillow, I need to accomplish 2 subgoals sequentially to solve the task. Find and pick up pillow and find and turn on lamp.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up pillow, find and turn on lamp

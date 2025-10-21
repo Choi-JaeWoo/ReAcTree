@@ -1,0 +1,61 @@
+Your primary goal is to: Put a blue container in a box and place the box on the table. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up container, place container in box, find and pick up box, and place box on table.
+Your task is to: find and pick up container
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1, 2), Shelf (1, 2, 3), Safe (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), Desk (1), CoffeeTable (1), ArmChair (1).
+Think: First, I need to recall location of the container.
+OK.
+Act: recall location of Box
+You have not seen Box before.
+Think: Now, I need to find the container. The container is more likely to appear on DiningTable (1), Desk (1), CoffeeTable (1), or in Drawer (1-6), Shelf (1-3). I can check each place one by one, starting from DiningTable (1), until I find the container.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Laptop (1, 2, 3), DiningTable (1), Chair (1, 2, 5, 6). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Lamp (1), KeyChain (1), GarbageCan (1), Desk (1), Chair (4), CellPhone (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (1, 3), Statue (2, 3), KeyChain (2), CoffeeTable (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Lamp (1), KeyChain (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), Chair (4), CellPhone (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Lamp (1), KeyChain (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), Chair (4), CellPhone (1).
+Act: close Drawer (1)
+You close Drawer (1). You see Lamp (1), KeyChain (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), Chair (4), CellPhone (1).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Lamp (1), KeyChain (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+The Drawer (2) is open failed.
+Act: close Drawer (2)
+The Drawer (2) is already closed.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Lamp (1), KeyChain (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1). Drawer (3) is closed. 
+Act: open Drawer (3)
+The Drawer (3) is open failed.
+Act: close Drawer (3)
+The Drawer (3) is already closed.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Lamp (1), KeyChain (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1). Drawer (4) is closed. 
+Act: open Drawer (4)
+The Drawer (4) is open failed.
+Act: close Drawer (4)
+The Drawer (4) is already closed.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Lamp (1), KeyChain (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), Chair (4), CellPhone (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+You open Drawer (5). You see Lamp (1), KeyChain (1), Drawer (2, 3, 4, 5, 6), Desk (1), Chair (4), CellPhone (1).
+Act: close Drawer (5)
+You close Drawer (5). You see Lamp (1), KeyChain (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), Chair (4), CellPhone (1).
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Lamp (1), KeyChain (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), Chair (4), CellPhone (1). Drawer (6) is closed. 
+Act: open Drawer (6)
+You open Drawer (6). You see Vase (2), Lamp (1), KeyChain (1), Drawer (2, 3, 4, 6), Desk (1), Chair (4), CellPhone (1).
+Act: close Drawer (6)
+You close Drawer (6). You see Vase (2), Lamp (1), KeyChain (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), Chair (4), CellPhone (1).
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1, 2). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Shelf (1, 2). 
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Shelf (1, 3). 
+Think: I can't find the container. I need to ask for help.
+OK.
+Act: failure

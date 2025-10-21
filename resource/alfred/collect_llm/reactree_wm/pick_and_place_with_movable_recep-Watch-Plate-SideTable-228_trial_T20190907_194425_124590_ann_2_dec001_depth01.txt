@@ -1,0 +1,7 @@
+Your task is to: Put the wrist watch on a plate behind the computer monitor.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1, 2), SideTable (1, 2), GarbageCan (1), Drawer (1), DiningTable (1), CoffeeTable (1).
+Think: Since I’m not holding the wrist watch, I need to accomplish 3 subgoals sequentially to solve the task. Find and pick up wrist watch, find and pick up plate, and place wrist watch on plate.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up wrist watch, find and pick up plate, place wrist watch on plate

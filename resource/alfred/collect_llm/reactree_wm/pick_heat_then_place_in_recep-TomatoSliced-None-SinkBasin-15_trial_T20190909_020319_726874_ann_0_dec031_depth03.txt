@@ -1,0 +1,13 @@
+Your primary goal is to: Place a slice of heated tomato in a sink.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, slice and pick up tomato, heat and pick up tomato, and place tomato in sink basin.
+Your task is to: place tomato in sink basin
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11). I am holding Tomato (6) now.
+Think: I hold Tomato (6). Now, I need to put it in the sink basin. I can see SinkBasin (1).
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (6), Toaster (1), Sink (1), SinkBasin (1), SaltShaker (1), GarbageCan (1), Faucet (1), DishSponge (2), Cup (2), CounterTop (2), Cabinet (4, 5, 7), Apple (1, 2).  I am holding Tomato (6) now.
+Act: put down Tomato (6)
+You put Tomato (6) on SinkBasin (1). You see Tomato (6), Toaster (1), Sink (1), SinkBasin (1), SaltShaker (1), GarbageCan (1), Faucet (1), DishSponge (2), Cup (2), CounterTop (2), Cabinet (4, 5, 7), Apple (1, 2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

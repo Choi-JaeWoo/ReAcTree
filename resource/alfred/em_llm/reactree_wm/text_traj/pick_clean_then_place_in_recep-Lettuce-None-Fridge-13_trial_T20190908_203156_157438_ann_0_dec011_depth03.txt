@@ -1,0 +1,21 @@
+Your primary goal is to: Put a cleaned head of lettuce in the fridge.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up lettuce, clean and pick up lettuce, and place lettuce in fridge.
+Your task is to: clean and pick up lettuce
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26). I am holding Lettuce (1) now.
+Think: I hold Lettuce (1). Now, I need to clean it using sink basin.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), Lettuce (1), Faucet (1), Drawer (11), CounterTop (1), Cabinet (4, 19, 23).  I am holding Lettuce (1) now.
+Act: put down Lettuce (1)
+You put Lettuce (1) on SinkBasin (1). You see Sink (1), SinkBasin (1), Lettuce (1), Faucet (1), Drawer (11), CounterTop (1), Cabinet (4, 19, 23).
+Act: turn on Faucet (1)
+You turn on Faucet (1). You see Sink (1), SinkBasin (1), Lettuce (1), Faucet (1), Drawer (11), CounterTop (1), Cabinet (4, 19, 23).
+Act: turn off Faucet (1)
+You turn off Faucet (1). You see Sink (1), SinkBasin (1), Lettuce (1), Faucet (1), Drawer (11), CounterTop (1), Cabinet (4, 19, 23).
+Think: I clean Lettuce (1) using SinkBasin (1). Now, I need to pick up the lettuce from the sink basin.
+OK.
+Act: pick up Lettuce (1)
+You pick up Lettuce (1). You see Sink (1), SinkBasin (1), Lettuce (1), Faucet (1), Drawer (11), CounterTop (1), Cabinet (4, 19, 23). I am holding Lettuce (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,21 @@
+Your primary goal is to: Put a pan containing a sponge on the table. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pan, place pan on table, find and pick up sponge, and place sponge on pan near table.
+Your task is to: place sponge on pan near table
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1, 2, 3), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4). I am holding DishSponge (3) now.
+Think: I hold DishSponge (3). Now, I need to recall location of the pan.
+OK.
+Act: recall location of Pan
+You have not seen Pan before.
+Think: I can find Pan (1) on CounterTop (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (2), SoapBottle (1), Sink (1), SinkBasin (1), SideTable (1), Plate (1, 1, 1, 1, 1, 1), PepperShaker (1), Knife (2, 2, 2, 2, 2, 2), Fork (2), Faucet (1), Drawer (1), DishSponge (3, 3, 3, 3, 3, 3, 3), DiningTable (1, 1, 1, 1, 1, 1), Cup (2), CounterTop (1), Cabinet (3, 4), ButterKnife (1, 1, 1, 1, 1, 1), Bowl (1).  I am holding DishSponge (3) now.
+Think: I find Pan (1). Now, I need to put down DishSponge (3) on Pan (1).
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Spoon (1, 3), Spatula (2, 2, 2, 2, 2, 2, 2), SoapBottle (1, 1, 1, 1, 1, 1, 1), Sink (1, 1, 1, 1, 1, 1), SinkBasin (1, 1, 1, 1, 1, 1), SideTable (1, 1, 1, 1, 1, 1, 1), SaltShaker (1, 2), PepperShaker (1, 1, 1, 1, 1, 1, 1), Fork (2, 2, 2, 2, 2, 2), Faucet (1, 1, 1, 1, 1, 1), Drawer (1, 1, 1, 1, 1, 1, 1), DishSponge (3, 3, 3, 3, 3, 3, 3), DiningTable (2), Cup (2, 2, 2, 2, 2, 2, 2), CounterTop (1, 1, 1, 1, 1, 1, 1), Cabinet (3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4), Bowl (1, 1, 1, 1, 1, 1, 1).  I am holding DishSponge (3) now.
+Act: put down DishSponge (3)
+You put DishSponge (3) on SideTable (1). You see Spoon (1, 3), Spatula (2), SoapBottle (1), SideTable (1), SaltShaker (1, 2), PepperShaker (1), Drawer (1), DishSponge (3), DiningTable (2), Cup (2), CounterTop (1), Cabinet (4), Bowl (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

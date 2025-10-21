@@ -1,0 +1,7 @@
+Your task is to: Move the dog statue to the other side of the table. 
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2, 3), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), CoffeeTable (1), ArmChair (1).
+Think: Since I’m not holding the dog statue, I need to accomplish 2 subgoals sequentially to solve the task. Find and pick up dog statue and place dog statue on the other side of the table.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up dog statue, place dog statue on the other side of the table

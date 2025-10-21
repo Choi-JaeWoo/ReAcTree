@@ -1,0 +1,27 @@
+Your primary goal is to: Put a heated potato in the kitchen sink.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up potato, heat and pick up potato, and place potato in sink basin.
+Your task is to: heat and pick up potato
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10). I am holding Potato (3) now.
+Think: I hold Potato (3). Now, I need to heat it using the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Sink (1), SinkBasin (1), Potato (3), Microwave (1), Drawer (2), CounterTop (1), Cabinet (6). Microwave (1) is closed.  I am holding Potato (3) now.
+Act: open Microwave (1)
+You open Microwave (1). You see Sink (1), SinkBasin (1), Potato (3), Microwave (1), Drawer (2), Cup (1), CounterTop (1), Cabinet (6). I am holding Potato (3) now.
+Act: put down Potato (3)
+You put Potato (3) on Microwave (1). You see Sink (1), SinkBasin (1), Potato (3), Microwave (1), Drawer (2), Cup (1), CounterTop (1), Cabinet (6).
+Act: close Microwave (1)
+You close Microwave (1). You see Sink (1), SinkBasin (1), Microwave (1), Drawer (2), CounterTop (1), Cabinet (6).
+Act: turn on Microwave (1)
+You turn on Microwave (1). You see Sink (1), SinkBasin (1), Microwave (1), Drawer (2), CounterTop (1), Cabinet (6).
+Act: turn off Microwave (1)
+You turn off Microwave (1). You see Sink (1), SinkBasin (1), Microwave (1), Drawer (2), CounterTop (1), Cabinet (6).
+Think: I heat Potato (3) using Microwave (1). Now, I need to pick up the potato from the microwave.
+OK.
+Act: open Microwave (1)
+You open Microwave (1). You see Sink (1), SinkBasin (1), Potato (3), Microwave (1), Drawer (2), Cup (1), CounterTop (1), Cabinet (6).
+Act: pick up Potato (3)
+You pick up Potato (3). You see Sink (1), SinkBasin (1), Potato (3), Microwave (1), Drawer (2), Cup (1), CounterTop (1), Cabinet (6). I am holding Potato (3) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

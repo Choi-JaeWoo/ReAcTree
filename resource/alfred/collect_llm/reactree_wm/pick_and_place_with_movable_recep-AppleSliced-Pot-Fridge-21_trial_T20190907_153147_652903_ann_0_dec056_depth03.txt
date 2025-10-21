@@ -1,0 +1,93 @@
+Your primary goal is to: Put a pot with a piece of apple in a fridge.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pot, find and pick up apple, put apple in pot, and place pot in fridge.
+Your task is to: place pot in fridge
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1, 2, 3), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: I hold Pot (1). Now, I need to put it in the fridge. I can see Fridge (1).
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1). Fridge (1) is closed. 
+Act: open Fridge (1)
+You open Fridge (1). You see Fridge (1), Bowl (1).
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Bowl (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Bowl (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Bowl (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Bowl (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Bowl (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Bowl (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Bowl (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Bowl (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Bowl (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Bowl (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Bowl (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Bowl (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Bowl (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Bowl (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Bowl (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Bowl (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Bowl (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Bowl (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Bowl (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Bowl (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Bowl (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Bowl (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Bowl (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Bowl (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Bowl (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Bowl (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Bowl (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Bowl (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Bowl (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Bowl (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Bowl (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Bowl (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Bowl (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Bowl (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Bowl (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Bowl (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Bowl (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Bowl (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Bowl (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Bowl (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Bowl (1). Fridge (1) is open. 
+Max decisions

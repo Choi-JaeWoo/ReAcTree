@@ -1,0 +1,7 @@
+Your task is to: Set the box with the cell phone in it down on the couch. 
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), DiningTable (1), CoffeeTable (1).
+Think: Since I’m not holding the box, I need to accomplish 3 subgoals sequentially to solve the task. Find and pick up box, place box on couch, and place cell phone in box.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up box, place box on couch, place cell phone in box

@@ -1,0 +1,19 @@
+Your primary goal is to: Look at a statue by the lamp.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up statue, and find and turn on lamp.
+Your task is to: find and pick up statue
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2, 3), Ottoman (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), DiningTable (1), ArmChair (1, 2).
+Think: First, I need to recall location of the statue.
+OK.
+Act: recall location of Statue
+You have not seen Statue before.
+Think: Now, I need to find the statue. The statue is more likely to appear on SideTable (1-3), Sofa (1), Ottoman (1), or in Dresser (1), Drawer (1-4). I can check each place one by one, starting from SideTable (1), until I find the statue.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Television (1), Statue (1), SideTable (1), Dresser (1). 
+Think: I find Statue (1). Now, I need to pick it up.
+OK.
+Act: pick up Statue (1)
+You pick up Statue (1). You see Television (1), Statue (1), SideTable (1), Dresser (1). I am holding Statue (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

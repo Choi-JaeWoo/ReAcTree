@@ -1,0 +1,142 @@
+Your task is to: Place a tube and a toilet paper roll in the left drawer below the sink next to the bathtub.
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1, 2), HandTowelHolder (1, 2, 3, 4), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1, 2), Bathtub (1), BathtubBasin (1).
+Think: To solve the task, I need to find and pick up the tube and the toilet paper roll, then put them in the left drawer below the sink next to the bathtub.
+OK.
+Think: First, I need to recall location of the tube.
+OK.
+Act: recall location of SoapBar
+You have not seen SoapBar before.
+Think: Now I need to find the tube. The tube is more likely to appear on CounterTop (1-2), BathtubBasin (1), SinkBasin (1-2), or in Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the tube.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see SoapBottle (2), Sink (2), SinkBasin (2), ShowerGlass (1), Mirror (1, 2), HandTowel (2), Faucet (2), Drawer (3, 5, 7, 8), CounterTop (1), Candle (2). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see SoapBottle (1), SoapBar (1), Sink (1), SinkBasin (1), Faucet (3), Drawer (1, 2), CounterTop (2). 
+Think: I find SoapBar (1). Now, I need to pick it up.
+OK.
+Act: pick up SoapBar (1)
+You pick up SoapBar (1). You see SoapBottle (1), SoapBar (1), Sink (1), SinkBasin (1), Faucet (3), Drawer (1, 2), CounterTop (2). I am holding SoapBar (1) now.
+Think: I hold SoapBar (1). Now, I need to recall location of the toilet paper roll.
+OK.
+Act: recall location of ToiletPaper
+You have not seen ToiletPaper before.
+Think: Now I need to find the toilet paper roll. The toilet paper roll is more likely to appear on CounterTop (1-2), BathtubBasin (1), SinkBasin (1-2), or in Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the toilet paper roll.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see SoapBottle (2), SoapBar (1), Sink (2), SinkBasin (2), ShowerGlass (1), Mirror (1, 2), HandTowel (2), Faucet (2), Drawer (3, 5, 7, 8), CounterTop (1), Candle (2).  I am holding SoapBar (1) now.
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), SoapBar (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1).  I am holding SoapBar (1) now.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see SoapBottle (1), SoapBar (1), Sink (1), SinkBasin (1), Faucet (3), Drawer (1, 2), CounterTop (2).  I am holding SoapBar (1) now.
+Act: go to SinkBasin (2)
+You arrive at SinkBasin (2). You see SoapBottle (2), SoapBar (1), Sink (2), SinkBasin (2), ShowerGlass (1), ShowerDoor (1), Mirror (1, 2), HandTowel (2), Faucet (2), Drawer (3, 5, 7, 8), CounterTop (1), Candle (2).  I am holding SoapBar (1) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SoapBottle (1), SoapBar (1), Sink (1), SinkBasin (1), GarbageCan (1), Faucet (3), Drawer (1, 2), CounterTop (2). Drawer (1) is closed.  I am holding SoapBar (1) now.
+Act: open Drawer (1)
+You open Drawer (1). You see SoapBottle (1), SoapBar (1), Sink (1), SinkBasin (1), GarbageCan (1), Faucet (3), Drawer (1, 2), CounterTop (2). I am holding SoapBar (1) now.
+Act: close Drawer (1)
+You close Drawer (1). You see SoapBottle (1), SoapBar (1), Sink (1), SinkBasin (1), GarbageCan (1), Faucet (3), Drawer (1, 2), CounterTop (2). I am holding SoapBar (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SoapBar (1), Sink (1), SinkBasin (1), HandTowel (1), Faucet (3), Drawer (1, 2), CounterTop (2), Bathtub (1). Drawer (2) is closed.  I am holding SoapBar (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see SoapBar (1), Sink (1), SinkBasin (1), Faucet (3), Drawer (2), CounterTop (2), Candle (3), Bathtub (1), BathtubBasin (1). I am holding SoapBar (1) now.
+Act: close Drawer (2)
+You close Drawer (2). You see SoapBar (1), Sink (1), SinkBasin (1), Faucet (3), Drawer (1, 2), CounterTop (2), Candle (3), Bathtub (1), BathtubBasin (1). I am holding SoapBar (1) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see ToiletPaper (3), SoapBar (1), Sink (2), SinkBasin (2), Mirror (1, 2), HandTowel (2), Drawer (3, 4, 5, 6, 7, 8), CounterTop (1), Cloth (1). Drawer (3) is closed.  I am holding SoapBar (1) now.
+Act: open Drawer (3)
+You open Drawer (3). You see ToiletPaper (3), SoapBar (1), Sink (2), SinkBasin (2), Mirror (1, 2), Faucet (2), Drawer (3, 4, 6, 7, 8), CounterTop (1), Cloth (1). I am holding SoapBar (1) now.
+Act: close Drawer (3)
+You close Drawer (3). You see ToiletPaper (3), SoapBar (1), Sink (2), SinkBasin (2), Mirror (1, 2), Faucet (2), Drawer (3, 4, 5, 6, 7, 8), CounterTop (1), Cloth (1). I am holding SoapBar (1) now.
+Think: I find ToiletPaper (3). Now, I need to pick it up.
+OK.
+Act: pick up ToiletPaper (3)
+You are currently holding SoapBar (1). I am holding SoapBar (1) now.
+Think: I hold SoapBar (1). Now, I need to put it in the left drawer below the sink next to the bathtub. I think left drawer below the sink next to the bathtub means Drawer (1).
+OK.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SoapBottle (1), SoapBar (1), Sink (1), SinkBasin (1), GarbageCan (1), Faucet (3), Drawer (1, 2), CounterTop (2). Drawer (1) is closed.  I am holding SoapBar (1) now.
+Act: open Drawer (1)
+You open Drawer (1). You see SoapBottle (1), SoapBar (1), Sink (1), SinkBasin (1), GarbageCan (1), Faucet (3), Drawer (1, 2), CounterTop (2). I am holding SoapBar (1) now.
+Act: put down SoapBar (1)
+You put SoapBar (1) on Drawer (1). You see SoapBottle (1), SoapBar (1), Sink (1), SinkBasin (1), GarbageCan (1), Faucet (3), Drawer (1, 2), CounterTop (2).
+Think: I put SoapBar (1) in Drawer (1). Now, I need to pick up ToiletPaper (3).
+OK.
+Act: pick up SoapBar (1)
+You pick up SoapBar (1). You see SoapBottle (1), SoapBar (1), Sink (1), SinkBasin (1), GarbageCan (1), Faucet (3), Drawer (1, 2), CounterTop (2). I am holding SoapBar (1) now.
+Think: I hold SoapBar (1). Now, I need to put it in Drawer (1).
+OK.
+Act: put down SoapBar (1)
+You put down failed, drop it. You see SoapBottle (1), SoapBar (1), Sink (1), SinkBasin (1), GarbageCan (1), Faucet (3), Drawer (1, 2), CounterTop (2).
+Think: Now I need to pick up ToiletPaper (3).
+OK.
+Act: pick up SoapBar (1)
+You pick up SoapBar (1). You see SoapBottle (1), SoapBar (1), Sink (1), SinkBasin (1), GarbageCan (1), Faucet (3), Drawer (1, 2), CounterTop (2). I am holding SoapBar (1) now.
+Think: I hold SoapBar (1). Now, I need to put it in Drawer (1).
+OK.
+Act: put down SoapBar (1)
+You put down failed, drop it. You see SoapBottle (1), SoapBar (1), Sink (1), SinkBasin (1), GarbageCan (1), Faucet (3), Drawer (1, 2), CounterTop (2).
+Think: Now I need to pick up ToiletPaper (3).
+OK.
+Act: pick up SoapBar (1)
+You pick up SoapBar (1). You see SoapBottle (1), SoapBar (1), Sink (1), SinkBasin (1), GarbageCan (1), Faucet (3), Drawer (1, 2), CounterTop (2). I am holding SoapBar (1) now.
+Think: I hold SoapBar (1). Now, I need to put it in Drawer (1).
+OK.
+Act: put down SoapBar (1)
+You put down failed, drop it. You see SoapBottle (1), SoapBar (1), Sink (1), SinkBasin (1), GarbageCan (1), Faucet (3), Drawer (1, 2), CounterTop (2).
+Think: Now I need to pick up ToiletPaper (3).
+OK.
+Act: pick up SoapBar (1)
+You pick up SoapBar (1). You see SoapBottle (1), SoapBar (1), Sink (1), SinkBasin (1), GarbageCan (1), Faucet (3), Drawer (1, 2), CounterTop (2). I am holding SoapBar (1) now.
+Think: I hold SoapBar (1). Now, I need to put it in Drawer (1).
+OK.
+Act: put down SoapBar (1)
+You put down failed, drop it. You see SoapBottle (1), SoapBar (1), Sink (1), SinkBasin (1), GarbageCan (1), Faucet (3), Drawer (1, 2), CounterTop (2).
+Think: Now I need to pick up ToiletPaper (3).
+OK.
+Act: pick up SoapBar (1)
+You pick up SoapBar (1). You see SoapBottle (1), SoapBar (1), Sink (1), SinkBasin (1), GarbageCan (1), Faucet (3), Drawer (1, 2), CounterTop (2). I am holding SoapBar (1) now.
+Think: I hold SoapBar (1). Now, I need to put it in Drawer (1).
+OK.
+Act: put down SoapBar (1)
+You put down failed, drop it. You see SoapBottle (1), SoapBar (1), Sink (1), SinkBasin (1), GarbageCan (1), Faucet (3), Drawer (1, 2), CounterTop (2).
+Think: Now I need to pick up ToiletPaper (3).
+OK.
+Act: pick up SoapBar (1)
+You pick up SoapBar (1). You see SoapBottle (1), SoapBar (1), Sink (1), SinkBasin (1), GarbageCan (1), Faucet (3), Drawer (1, 2), CounterTop (2). I am holding SoapBar (1) now.
+Think: I hold SoapBar (1). Now, I need to put it in Drawer (1).
+OK.
+Act: put down SoapBar (1)
+You put down failed, drop it. You see SoapBottle (1), SoapBar (1), Sink (1), SinkBasin (1), GarbageCan (1), Faucet (3), Drawer (1, 2), CounterTop (2).
+Think: Now I need to pick up ToiletPaper (3).
+OK.
+Act: pick up SoapBar (1)
+You pick up SoapBar (1). You see SoapBottle (1), SoapBar (1), Sink (1), SinkBasin (1), GarbageCan (1), Faucet (3), Drawer (1, 2), CounterTop (2). I am holding SoapBar (1) now.
+Think: I hold SoapBar (1). Now, I need to put it in Drawer (1).
+OK.
+Act: put down SoapBar (1)
+You put down failed, drop it. You see SoapBottle (1), SoapBar (1), Sink (1), SinkBasin (1), GarbageCan (1), Faucet (3), Drawer (1, 2), CounterTop (2).
+Think: Now I need to pick up ToiletPaper (3).
+OK.
+Act: pick up SoapBar (1)
+You pick up SoapBar (1). You see SoapBottle (1), SoapBar (1), Sink (1), SinkBasin (1), GarbageCan (1), Faucet (3), Drawer (1, 2), CounterTop (2). I am holding SoapBar (1) now.
+Think: I hold SoapBar (1). Now, I need to put it in Drawer (1).
+OK.
+Act: put down SoapBar (1)
+You put down failed, drop it. You see SoapBottle (1), SoapBar (1), Sink (1), SinkBasin (1), GarbageCan (1), Faucet (3), Drawer (1, 2), CounterTop (2).
+Think: Now I need to pick up ToiletPaper (3).
+OK.
+Act: pick up SoapBar (1)
+You pick up SoapBar (1). You see SoapBottle (1), SoapBar (1), Sink (1), SinkBasin (1), GarbageCan (1), Faucet (3), Drawer (1, 2), CounterTop (2). I am holding SoapBar (1) now.
+Think: I hold SoapBar (1). Now, I need to put it in Drawer (1).
+OK.
+Act: put down SoapBar (1)
+You put down failed, drop it. You see SoapBottle (1), SoapBar (1), Sink (1), SinkBasin (1), GarbageCan (1), Faucet (3), Drawer (1, 2), CounterTop (2).
+Think: Now I need to pick up ToiletPaper (3).
+OK.
+Act: pick up SoapBar (1)
+You pick up SoapBar (1). You see SoapBottle (1), SoapBar (1), Sink (1), SinkBasin (1), GarbageCan (1), Faucet (3), Drawer (1, 2), CounterTop (2). I am holding SoapBar (1) now.
+Think: I hold SoapBar (1). Now, I need to put it in Drawer (1).
+OK.

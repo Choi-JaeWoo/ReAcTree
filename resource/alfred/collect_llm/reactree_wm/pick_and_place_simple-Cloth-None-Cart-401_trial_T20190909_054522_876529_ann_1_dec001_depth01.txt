@@ -1,0 +1,7 @@
+Your task is to: Place a towel on a wire shelf.
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1, 2), Toilet (1), ToiletPaperHanger (1), Sink (1), SinkBasin (1), Shelf (1, 2, 3, 4), HandTowelHolder (1, 2), GarbageCan (1), Cart (1), Bathtub (1), BathtubBasin (1).
+Think: Since I’m not holding towel, I need to accomplish 2 subgoals sequentially to solve the task. Find and pick up towel and place towel on wire shelf.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up towel, place towel on wire shelf

@@ -1,0 +1,41 @@
+Your primary goal is to: warm plate place on table, warm dog state place on table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up plate, warm and pick up plate, find and pick up dog state, and place dog state on plate near table.
+Your task is to: find and pick up dog state
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13). I am holding Plate (4) now.
+Think: First, I need to recall location of the dog state.
+OK.
+Act: recall location of Statue
+You have not seen Statue before.
+Think: Now, I need to find the dog state. The dog state is more likely to appear on DiningTable (1), CounterTop (1-2), or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1-4). I can check each place one by one, starting from DiningTable (1), until I find the dog state.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (1), Vase (3), Spoon (3), Spatula (1, 2), Plate (4), PepperShaker (1), Mug (1), Lettuce (2), Knife (3), HousePlant (1), Fork (1, 2), DiningTable (1), Cup (1), ButterKnife (1, 2), Bread (1), Book (1), Apple (2).  I am holding Plate (4) now.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Tomato (3), Statue (2), Plate (4), Kettle (2), Fork (3), Drawer (3), CounterTop (1), Cabinet (2), Bread (2), Bowl (1).  I am holding Plate (4) now.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Toaster (1), StoveKnob (3, 4), StoveBurner (2, 3, 4), Pot (1), Plate (4), Pan (2), Kettle (3), CounterTop (2), Cabinet (11).  I am holding Plate (4) now.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Toaster (1), StoveKnob (3, 4), StoveBurner (2, 3, 4), Pot (1), Plate (4, 4), Pan (2), Kettle (3), Fridge (1), CounterTop (2), Cabinet (11). Fridge (1) is closed.  I am holding Plate (4) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Tomato (2), Plate (1, 4), Fridge (1), Egg (1, 2, 3). I am holding Plate (4) now.
+Act: close Fridge (1)
+You close Fridge (1). You see Plate (4), Fridge (1). I am holding Plate (4) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Vase (2), Toaster (1), Pot (1), Plate (4), Microwave (1), Kettle (3), Cabinet (3, 10). Microwave (1) is open.  I am holding Plate (4) now.
+Act: close Microwave (1)
+You close Microwave (1). You see Vase (2), Toaster (1), Pot (1), Plate (4), Microwave (1), Kettle (3), Cabinet (3, 10). I am holding Plate (4) now.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Vase (2), Toaster (1), Pot (1), Plate (4, 4), Microwave (1), Kettle (3), Cabinet (1, 3, 8, 10, 12). Cabinet (1) is closed.  I am holding Plate (4) now.
+Act: open Cabinet (1)
+You open Cabinet (1). You see Plate (4), Kettle (1), Cabinet (1, 8, 12). I am holding Plate (4) now.
+Act: close Cabinet (1)
+You close Cabinet (1). You see Plate (4), Cabinet (1, 8, 12). I am holding Plate (4) now.
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Statue (2), Plate (4), Lettuce (3), Fork (3), Drawer (3), CounterTop (1), CoffeeMachine (1), Cabinet (2), Bowl (1), Apple (3). Cabinet (2) is closed.  I am holding Plate (4) now.
+Think: I find Statue (2). Now, I need to pick it up.
+OK.
+Act: pick up Statue (2)
+You are currently holding Plate (4). I am holding Plate (4) now.
+Think: I cannot pick up Statue (2) because I am holding Plate (4).
+OK.
+Act: failure

@@ -1,0 +1,112 @@
+Your task is to: Put the salt and pepper grinders in the cabinet. 
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: To solve the task, I need to find and pick up the salt and pepper grinders, then put them in the cabinet.
+OK.
+Think: First, I need to recall location of the salt grinder.
+OK.
+Act: recall location of SaltShaker
+You have not seen SaltShaker before.
+Think: Now I need to find the salt grinder. The salt grinder is more likely to appear on CounterTop (1), or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the salt grinder.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (2), Tomato (1), Potato (1), Pan (2), CounterTop (1), Bread (1). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Drawer (1). Fridge (1) is closed. 
+Act: open Fridge (1)
+You open Fridge (1). You see Fridge (1), Drawer (1).
+Act: close Fridge (1)
+You close Fridge (1). You see Fridge (1), Drawer (1).
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see SoapBottle (2), SideTable (1), PaperTowelRoll (1), Microwave (1), Fridge (1), Egg (2). Microwave (1) is closed. 
+Act: open Microwave (1)
+You open Microwave (1). You see SideTable (1), Mug (1), Microwave (1), Fridge (1), Egg (1).
+Act: close Microwave (1)
+You close Microwave (1). You see SoapBottle (2), SideTable (1), PaperTowelRoll (1), Microwave (1), Fridge (1), Egg (2).
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Spoon (1), SaltShaker (1), CounterTop (1), CoffeeMachine (1), Chair (1), Cabinet (1). Cabinet (1) is closed. 
+Think: I find SaltShaker (1). Now, I need to pick it up.
+OK.
+Act: open Cabinet (1)
+You open Cabinet (1). You see Spoon (1), SaltShaker (1), Plate (1), CounterTop (1), CoffeeMachine (1), Chair (1), Cabinet (1), Bowl (1).
+Act: pick up SaltShaker (1)
+You pick up SaltShaker (1). You see Spoon (1), SaltShaker (1), CounterTop (1), CoffeeMachine (1), Chair (1), Cabinet (1), Bowl (1). I am holding SaltShaker (1) now.
+Think: I hold SaltShaker (1). Now, I need to recall location of the pepper grinder.
+OK.
+Act: recall location of PepperShaker
+You have not seen PepperShaker before.
+Think: Now I need to find the pepper grinder. The pepper grinder is more likely to appear on CounterTop (1), or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the pepper grinder.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (2), SaltShaker (1), Potato (1), Pan (2), CounterTop (1), Bread (1).  I am holding SaltShaker (1) now.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see SaltShaker (1), Fridge (1), Drawer (1). Fridge (1) is closed.  I am holding SaltShaker (1) now.
+Act: open Fridge (1)
+You open Fridge (1). You see SaltShaker (1), Fridge (1), Drawer (1). I am holding SaltShaker (1) now.
+Act: close Fridge (1)
+You close Fridge (1). You see SaltShaker (1), Fridge (1), Drawer (1). I am holding SaltShaker (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see SoapBottle (2), SideTable (1), SaltShaker (1), PaperTowelRoll (1), Microwave (1), Fridge (1), Egg (2). Microwave (1) is closed.  I am holding SaltShaker (1) now.
+Act: open Microwave (1)
+You open Microwave (1). You see SideTable (1), SaltShaker (1), Mug (1), Microwave (1), Fridge (1), Egg (1). I am holding SaltShaker (1) now.
+Act: close Microwave (1)
+You close Microwave (1). You see SoapBottle (2), SideTable (1), SaltShaker (1), PaperTowelRoll (1), Microwave (1), Fridge (1), Egg (2). I am holding SaltShaker (1) now.
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see WineBottle (2), Tomato (1), SaltShaker (1), Lettuce (2), GarbageCan (1), CounterTop (1), Cabinet (2, 4). Cabinet (2) is closed.  I am holding SaltShaker (1) now.
+Act: open Cabinet (2)
+You open Cabinet (2). You see WineBottle (2), Tomato (1), SaltShaker (1), Lettuce (2), GarbageCan (1), DishSponge (2), CounterTop (1), Cabinet (2, 4). I am holding SaltShaker (1) now.
+Act: close Cabinet (2)
+You close Cabinet (2). You see WineBottle (2), Tomato (1), SaltShaker (1), Lettuce (2), GarbageCan (1), CounterTop (1), Cabinet (2, 4). I am holding SaltShaker (1) now.
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see WineBottle (3), Toaster (1), SaltShaker (1), Knife (1), Fork (1), Drawer (2), CounterTop (1), Cabinet (3). Cabinet (3) is closed.  I am holding SaltShaker (1) now.
+Act: open Cabinet (3)
+You open Cabinet (3). You see WineBottle (3), Toaster (1), SaltShaker (1), Knife (1), Fork (1), Drawer (2), CounterTop (1), Cabinet (3). I am holding SaltShaker (1) now.
+Act: close Cabinet (3)
+You close Cabinet (3). You see WineBottle (3), Toaster (1), SaltShaker (1), Knife (1), Fork (1), Drawer (2), CounterTop (1), Cabinet (3). I am holding SaltShaker (1) now.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see SaltShaker (1), Pan (2), HousePlant (1), Drawer (4), CounterTop (1), Cabinet (2, 4), Bread (1). Cabinet (4) is closed.  I am holding SaltShaker (1) now.
+Act: open Cabinet (4)
+You open Cabinet (4). You see SaltShaker (1), Pan (2), HousePlant (1), CounterTop (1), Cabinet (2, 4), Bread (1). I am holding SaltShaker (1) now.
+Act: close Cabinet (4)
+You close Cabinet (4). You see SaltShaker (1), Pan (2), HousePlant (1), Drawer (4), CounterTop (1), Cabinet (2, 4), Bread (1). I am holding SaltShaker (1) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SoapBottle (2), SideTable (1), SaltShaker (1), PaperTowelRoll (1), Microwave (1), Fridge (1), Egg (2), Drawer (3, 5, 6, 7, 8). Drawer (1) is closed.  I am holding SaltShaker (1) now.
+Act: open Drawer (1)
+You open Drawer (1). You see SoapBottle (2), SideTable (1), SaltShaker (1), PaperTowelRoll (1), Fridge (1), Egg (2), Drawer (1, 3, 5, 6, 7, 8). I am holding SaltShaker (1) now.
+Act: close Drawer (1)
+You close Drawer (1). You see SoapBottle (2), SideTable (1), SaltShaker (1), PaperTowelRoll (1), Fridge (1), Egg (2), Drawer (1, 3, 5, 6, 7, 8). I am holding SaltShaker (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see WineBottle (3), Spatula (2), SoapBottle (3), Sink (1), SaltShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (3), Drawer (2, 4), Cup (2), CounterTop (1), Cabinet (3). Drawer (2) is closed.  I am holding SaltShaker (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see WineBottle (3), Spatula (2), SoapBottle (3), Sink (1), SaltShaker (1), Lettuce (1), Knife (2), Fork (1), Egg (3), Drawer (2, 4), CounterTop (1), Cabinet (3). I am holding SaltShaker (1) now.
+Act: close Drawer (2)
+You close Drawer (2). You see WineBottle (3), Spatula (2), SoapBottle (3), Sink (1), SaltShaker (1), Lettuce (1), Knife (2), Fork (1), Egg (3), Drawer (2, 4), CounterTop (1), Cabinet (3). I am holding SaltShaker (1) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see SoapBottle (2), SideTable (1), SaltShaker (1), PaperTowelRoll (1), Microwave (1), Fridge (1), Egg (2), Drawer (5, 6, 7). Drawer (3) is closed.  I am holding SaltShaker (1) now.
+Act: open Drawer (3)
+You open Drawer (3). You see SoapBottle (2), SideTable (1), SaltShaker (1), PaperTowelRoll (1), Microwave (1), Fridge (1), Egg (2), Drawer (3, 5, 6, 7). I am holding SaltShaker (1) now.
+Act: close Drawer (3)
+You close Drawer (3). You see SoapBottle (2), SideTable (1), SaltShaker (1), PaperTowelRoll (1), Microwave (1), Fridge (1), Egg (2), Drawer (3, 5, 6, 7). I am holding SaltShaker (1) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Spatula (1, 2), Sink (1), SinkBasin (1), SaltShaker (1), Lettuce (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1), Cabinet (4). Drawer (4) is closed.  I am holding SaltShaker (1) now.
+Act: open Drawer (4)
+You open Drawer (4). You see Spatula (1, 2), Sink (1), SinkBasin (1), SaltShaker (1), Lettuce (1), HousePlant (1), Drawer (2, 4), CounterTop (1), Cabinet (4). I am holding SaltShaker (1) now.
+Act: close Drawer (4)
+You close Drawer (4). You see Spatula (1, 2), Sink (1), SinkBasin (1), SaltShaker (1), Lettuce (1), HousePlant (1), Drawer (2, 4), CounterTop (1), Cabinet (4). I am holding SaltShaker (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see SideTable (1), SaltShaker (1), Microwave (1), Fridge (1), Drawer (1, 3, 8). Drawer (5) is closed.  I am holding SaltShaker (1) now.
+Act: open Drawer (5)
+You open Drawer (5). You see SoapBottle (2), SideTable (1), SaltShaker (1), PaperTowelRoll (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 8). I am holding SaltShaker (1) now.
+Act: close Drawer (5)
+You close Drawer (5). You see SoapBottle (2), SideTable (1), SaltShaker (1), PaperTowelRoll (1), Microwave (1), Fridge (1), Drawer (1, 3, 8). I am holding SaltShaker (1) now.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see SideTable (1), SaltShaker (1), Microwave (1), Fridge (1), Drawer (1, 3, 8). Drawer (6) is closed.  I am holding SaltShaker (1) now.
+Act: open Drawer (6)
+You open Drawer (6). You see SoapBottle (2), SideTable (1), SaltShaker (1), PaperTowelRoll (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 8). I am holding SaltShaker (1) now.
+Act: close Drawer (6)
+You close Drawer (6). You see SoapBottle (2), SideTable (1), SaltShaker (1), PaperTowelRoll (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 8). I am holding SaltShaker (1) now.
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see SideTable (1), SaltShaker (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 8). Drawer (7) is closed.  I am holding SaltShaker (1) now.
+Act: open Drawer (7)
+You open Drawer (7). You see SoapBottle (2), SideTable (1), SaltShaker (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). I am holding SaltShaker (1) now.
+Act: close Drawer (7)
+You close Drawer (7). You see SoapBottle (2), SideTable (1), SaltShaker (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). I am holding SaltShaker (1) now.

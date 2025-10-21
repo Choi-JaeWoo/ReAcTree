@@ -1,0 +1,25 @@
+Your primary goal is to: Move two spray bottles to a metal shelving unit.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up spray bottle, and place spray bottle on metal shelving unit.
+Your task is to: find and pick up spray bottle
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1, 2), Toilet (1), ToiletPaperHanger (1), Sink (1), SinkBasin (1), Shelf (1, 2, 3, 4), HandTowelHolder (1, 2), GarbageCan (1), Cart (1), Bathtub (1), BathtubBasin (1).
+Think: First, I need to recall location of the spray bottle.
+OK.
+Act: recall location of SprayBottle
+You have not seen SprayBottle before.
+Think: Now, I need to find the spray bottle. The spray bottle is more likely to appear on BathtubBasin (1), SinkBasin (1), Shelf (1-4). I can check each place one by one, starting from BathtubBasin (1), until I find the spray bottle.
+OK.
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Bathtub (1), BathtubBasin (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), Mirror (1), HandTowel (2), Faucet (2), DishSponge (3). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see ToiletPaper (1), Shelf (1, 3, 4), DishSponge (2). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Shelf (2, 3, 4). 
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Shelf (1, 2, 3, 4), DishSponge (2). 
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see ToiletPaper (1), Shelf (1, 3, 4), DishSponge (2). 
+Think: I cannot find SprayBottle.
+OK.
+Act: failure

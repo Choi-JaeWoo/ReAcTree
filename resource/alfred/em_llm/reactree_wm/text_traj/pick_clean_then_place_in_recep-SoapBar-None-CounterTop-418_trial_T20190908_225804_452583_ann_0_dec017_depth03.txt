@@ -1,0 +1,13 @@
+Your primary goal is to: Rinse off a bar of soap and put it on the counter. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up soap, clean and pick up soap, and place soap on counter.
+Your task is to: place soap on counter
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1), HandTowelHolder (1, 2), GarbageCan (1), CounterTop (1), Cabinet (1, 2, 3). I am holding SoapBar (1) now.
+Think: I hold SoapBar (1). Now, I need to put it on the counter. I can see CounterTop (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see SoapBar (1), Sink (1), SinkBasin (1), Mirror (1), HandTowel (1), Faucet (1), CounterTop (1), Cabinet (1, 2).  I am holding SoapBar (1) now.
+Act: put down SoapBar (1)
+You put SoapBar (1) on CounterTop (1). You see SoapBar (1), Sink (1), SinkBasin (1), Mirror (1), HandTowel (1), Faucet (1), CounterTop (1), Cabinet (1, 2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

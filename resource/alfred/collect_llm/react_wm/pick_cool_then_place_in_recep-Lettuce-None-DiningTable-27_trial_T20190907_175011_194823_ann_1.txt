@@ -1,0 +1,31 @@
+Your task is to: Chill a head of lettuce and take it back to the table.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12).
+Think: To solve the task, I need to find and pick up the lettuce. And I need to put it in the fridge. And I need to take it back to the table.
+OK.
+Think: First, I need to recall location of the lettuce.
+OK.
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Think: Now I need to find the lettuce. The lettuce is more likely to appear on DiningTable (1), CounterTop (1-2) SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-12), Drawer (1-3). I can check each place one by one, starting from DiningTable (1), until I find the lettuce.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spatula (1), SoapBottle (1), SaltShaker (1), Potato (1), PepperShaker (1, 2, 3), Mug (2), Lettuce (1), Ladle (1), Knife (2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Think: I find Lettuce (1). Now, I need to pick it up.
+OK.
+Act: pick up Lettuce (1)
+You pick up Lettuce (1). You see Spatula (1), SoapBottle (1), SaltShaker (1), Potato (1), PepperShaker (1, 2, 3), Mug (2), Lettuce (1), Ladle (1), Knife (2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). I am holding Lettuce (1) now.
+Think: I hold Lettuce (1). Now, I need to put it in the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Lettuce (1), Fridge (1), Cabinet (7). Fridge (1) is closed.  I am holding Lettuce (1) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Lettuce (1), Fridge (1), Cabinet (7), Bowl (2). I am holding Lettuce (1) now.
+Act: put down Lettuce (1)
+You put Lettuce (1) on Fridge (1). You see Lettuce (1), Fridge (1), Cabinet (7), Bowl (2).
+Think: I put Lettuce (1) in Fridge (1). Now, I need to take it back to the table.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spatula (1), SoapBottle (1), SaltShaker (1), Potato (1), PepperShaker (1, 2, 3), Mug (2), Ladle (1), Knife (2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Think: Now I accomplish the goal.
+OK.
+Act: done

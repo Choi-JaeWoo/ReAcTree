@@ -1,0 +1,13 @@
+Your primary goal is to: Put two sponges into a bathtub.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up sponge, place sponge in bathtub, Find and pick up sponge away from bathtub, and place sponge in bathtub.
+Your task is to: place sponge in bathtub
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1), HandTowelHolder (1), GarbageCan (1), Drawer (1), CounterTop (1, 2), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9), BathtubBasin (1). I am holding DishSponge (3) now.
+Think: I hold DishSponge (3). Now, I need to put it in the bathtub. I can see BathtubBasin (1).
+OK.
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Towel (1), Faucet (2), DishSponge (1, 3), Bathtub (1), BathtubBasin (1).  I am holding DishSponge (3) now.
+Act: put down DishSponge (3)
+You put DishSponge (3) on BathtubBasin (1). You see Towel (1), Faucet (2), DishSponge (1, 3), Bathtub (1), BathtubBasin (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

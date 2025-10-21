@@ -1,0 +1,31 @@
+Your primary goal is to: Put the pencil in the bowl on the coffee table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pencil, place pencil in bowl, find and pick up bowl, and place bowl on coffee table.
+Your task is to: find and pick up pencil
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1, 2), GarbageCan (1), Drawer (1, 2), DiningTable (1, 2), CoffeeTable (1), ArmChair (1, 2).
+Think: First, I need to recall location of the pencil.
+OK.
+Act: recall location of Pencil
+You have not seen Pencil before.
+Think: Now, I need to find the pencil. The pencil is more likely to appear on SideTable (1-2), CoffeeTable (1), or in Drawer (1-2). I can check each place one by one, starting from SideTable (1), until I find the pencil.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see TissueBox (1), SideTable (1), Plate (1), Drawer (1), DiningTable (2). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), Pen (1), Lamp (1), Drawer (2), Curtains (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (3), Vase (1), TissueBox (2), Sofa (1), Newspaper (3), KeyChain (1), CoffeeTable (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see TissueBox (1), SideTable (1), Plate (1), Painting (1), Drawer (1), DiningTable (2). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see TissueBox (1), SideTable (1), RemoteControl (1), Plate (1), Painting (1), Drawer (1), DiningTable (2).
+Act: close Drawer (1)
+You close Drawer (1). You see TissueBox (1), SideTable (1), Plate (1), Painting (1), Drawer (1), DiningTable (2).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (2), Pen (1), Lamp (1), Drawer (2), Curtains (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see SideTable (2), Pen (1), Lamp (1), Drawer (2), Curtains (1).
+Act: close Drawer (2)
+You close Drawer (2). You see SideTable (2), Pen (1), Lamp (1), Drawer (2), Curtains (1).
+Think: I cannot find the pencil. I need to ask for help.
+OK.
+Act: failure

@@ -1,0 +1,19 @@
+Your primary goal is to: Put two newspaper's in the garbage can. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up newspaper, place newspaper in garbage can, find and pick up newspaper away from garbage can, and place newspaper in garbage can.
+Your task is to: find and pick up newspaper away from garbage can
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), DiningTable (1), CoffeeTable (1).
+Think: First, I need to recall location of the newspaper.
+OK.
+Act: recall location of Newspaper
+You saw Newspaper (2) near GarbageCan (1).
+Think: Newspaper (2) is in GarbageCan (1). I can find another newspaper, Newspaper (1), near CoffeeTable (1).
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Sofa (1), RemoteControl (2, 3), Laptop (2), KeyChain (3), CoffeeTable (1), CellPhone (1), Box (1). 
+Think: I find Newspaper (1). Now, I need to pick it up.
+OK.
+Act: pick up Box (1)
+You pick up Box (1). You see Sofa (1), RemoteControl (3), Laptop (2), KeyChain (3), CoffeeTable (1), CellPhone (1), Box (1). I am holding Box (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

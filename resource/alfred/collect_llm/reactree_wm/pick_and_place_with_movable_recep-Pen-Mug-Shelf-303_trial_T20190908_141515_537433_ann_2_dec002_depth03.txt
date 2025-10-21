@@ -1,0 +1,21 @@
+Your primary goal is to: Place a mug with a pen in it on a book case shelf
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up mug, put pen in mug, and place mug on book case shelf.
+Your task is to: find and pick up mug
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5), Desk (1), Bed (1).
+Think: First, I need to recall location of the mug.
+OK.
+Act: recall location of Mug
+You have not seen Mug before.
+Think: Now, I need to find the mug. The mug is more likely to appear on SideTable (1), Desk (1), or in Drawer (1-5). I can check each place one by one, starting from SideTable (1), until I find the mug.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1), SideTable (1), Pencil (1), Drawer (1, 2, 5), Desk (1), DeskLamp (1), CreditCard (2), Chair (1), Book (2), Bed (1). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Vase (1), Pencil (1), Laptop (1), Drawer (2, 5), Desk (1), DeskLamp (1), CreditCard (2), Chair (1), BaseballBat (1), AlarmClock (1). 
+Think: I find Mug (1). Now, I need to pick it up.
+OK.
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see Vase (1), Pencil (1), Laptop (1), Drawer (2, 5), Desk (1), DeskLamp (1), CreditCard (2), Chair (1), BaseballBat (1), AlarmClock (1). I am holding Pencil (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

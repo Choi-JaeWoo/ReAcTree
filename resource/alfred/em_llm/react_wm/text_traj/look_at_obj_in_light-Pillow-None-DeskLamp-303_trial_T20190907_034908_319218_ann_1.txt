@@ -1,0 +1,59 @@
+Your task is to: To see the pillow in the light. 
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5), Desk (1), Bed (1).
+Think: To solve the task, I need to find and pick up the pillow. And I need to find and turn on the desk lamp.
+OK.
+Think: First, I need to recall location of the pillow.
+OK.
+Act: recall location of Pillow
+You have not seen Pillow before.
+Think: Now I need to find the pillow. The pillow is more likely to appear on Bed (1), Desk (1), SideTable (1), Shelf (1-12), or in Drawer (1-5). I can check each place one by one, starting from Bed (1), until I find the pillow.
+OK.
+Act: go to Bed (1)
+You arrive at Bed (1). You see Pillow (1), Laptop (1), Drawer (1, 2, 5), Bed (1). 
+Think: I find Pillow (1). Now, I need to pick it up.
+OK.
+Act: pick up Pillow (1)
+You pick up Pillow (1). You see Pillow (1), Laptop (1), Bed (1). I am holding Pillow (1) now.
+Think: I hold Pillow (1). Now, I need to recall location of the desk lamp.
+OK.
+Act: recall location of DeskLamp
+You have not seen DeskLamp before.
+Think: Now I need to find the desk lamp The desk lamp is more likely to appear on Shelf (1-12), or in Drawer (1-5). I can check each place one by one, starting from Shelf (1), until I find the desk lamp.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (6, 7, 8, 10), Pillow (1, 1, 1), Pen (2), Laptop (1, 1), Bed (1, 1).  I am holding Pillow (1) now.
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Shelf (2, 3, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 8, 8, 8, 8, 8, 10, 10, 10, 10, 10), Pillow (1, 1, 1, 1, 1, 1), Pen (2, 2, 2, 2, 2).  I am holding Pillow (1) now.
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Window (1), Shelf (2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3), Pillow (1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1).  I am holding Pillow (1) now.
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see Window (1, 1), Shelf (2, 2, 3, 3, 6, 7, 8, 10), Pillow (1, 1, 1), Pen (2).  I am holding Pillow (1) now.
+Act: go to Shelf (5)
+You arrive at Shelf (5). You see Shelf (2, 3, 5, 6, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7, 7, 7, 7, 8, 8, 8, 8, 8, 8, 8, 8, 8, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 11), Pillow (1, 1, 1, 1, 1, 1, 1, 1, 1, 1), Pen (2, 2, 2, 2, 2, 2, 2, 2, 2).  I am holding Pillow (1) now.
+Act: go to Shelf (6)
+You arrive at Shelf (6). You see Shelf (2, 2, 2, 2, 3, 3, 3, 3, 5, 5, 5, 5, 5, 7, 10, 10, 10, 10, 10, 11, 11, 11, 11), Pillow (1, 1, 1, 1, 1).  I am holding Pillow (1) now.
+Act: go to Shelf (7)
+You arrive at Shelf (7). You see Shelf (5, 5, 5, 5, 5, 7, 7, 7, 7, 7, 10, 10, 10, 10, 10), Pillow (1, 1, 1, 1, 1).  I am holding Pillow (1) now.
+Act: go to Shelf (8)
+You arrive at Shelf (8). You see Shelf (5, 5, 7, 7, 7, 10, 10, 10, 11), Pillow (1, 1, 1), Pen (2).  I am holding Pillow (1) now.
+Act: go to Shelf (9)
+You arrive at Shelf (9). You see Shelf (6, 7, 7, 7, 7, 7, 8, 10, 10, 10, 10, 11, 11, 11, 11), Pillow (1, 1, 1, 1, 1), Pen (2, 2, 2, 2, 3), KeyChain (1).  I am holding Pillow (1) now.
+Act: go to Shelf (10)
+You arrive at Shelf (10). You see Shelf (5, 6, 6, 7, 7, 7, 8, 8, 10, 11), Pillow (1, 1, 1), Pen (3, 3), KeyChain (1, 1).  I am holding Pillow (1) now.
+Act: go to Shelf (11)
+You arrive at Shelf (11). You see Shelf (2, 3, 5, 5, 5, 5, 5, 5, 7, 7, 7, 7, 7, 10, 10, 10, 10, 10, 11, 11, 11, 11, 11, 11), Pillow (1, 1, 1, 1, 1, 1).  I am holding Pillow (1) now.
+Act: go to Shelf (12)
+You arrive at Shelf (12). You see Shelf (2, 2, 2, 2, 3, 3, 3, 3, 5, 5, 5, 5, 6, 7, 8, 11, 11, 11, 11), Pillow (1, 1, 1, 1, 1), Pen (3), KeyChain (1), Drawer (4).  I am holding Pillow (1) now.
+Think: I find DeskLamp (1). Now, I need to turn it on.
+OK.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Window (1), Poster (1), Pillow (1), Pencil (1), KeyChain (1), Dresser (1), CreditCard (3), Book (1). Drawer (4) is closed.  I am holding Pillow (1) now.
+Act: open Drawer (4)
+You open Drawer (4). You see Window (1), Pillow (1), Pencil (1), Pen (3), KeyChain (1), Dresser (1), Drawer (4), CreditCard (2, 3), Book (1). I am holding Pillow (1) now.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Vase (1), Pillow (1), Pencil (2, 3), Mug (3), Desk (1), DeskLamp (1), CreditCard (1), CD (1), AlarmClock (1).  I am holding Pillow (1) now.
+Act: turn on DeskLamp (1)
+You turn on DeskLamp (1). You see Vase (1), Pillow (1), Pencil (2, 3), Mug (3), Desk (1), DeskLamp (1), CreditCard (1), CD (1), AlarmClock (1). I am holding Pillow (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,19 @@
+Your primary goal is to: Take two magazines from the table and place them on the couch.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up magazine, place magazine on couch, Find and pick up magazine away from couch, and place magazine on couch.
+Your task is to: find and pick up magazine
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), CoffeeTable (1), ArmChair (1).
+Think: First, I need to recall location of the magazine.
+OK.
+Act: recall location of Book
+You have not seen Book before.
+Think: Now, I need to find the magazine. The magazine is more likely to appear on CoffeeTable (1), SideTable (1-2), Sofa (1), ArmChair (1), or in Drawer (1-4), Dresser (1). I can check each place one by one, starting from CoffeeTable (1), until I find the magazine.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (3), CoffeeTable (1), Box (1), Book (1, 2, 3). 
+Think: I find Book (1). Now, I need to pick it up.
+OK.
+Act: pick up Book (1)
+You pick up Book (1). You see Vase (3), CoffeeTable (1), Box (1), Book (1, 2, 3). I am holding Book (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

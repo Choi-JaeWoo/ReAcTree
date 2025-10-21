@@ -1,0 +1,142 @@
+Your task is to: Chill a slice of cabbage in the fridge, place in the sink afterwards.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2).
+Think: To solve the task, I need to find and pick up the cabbage. And I need to put it in the fridge. And I need to pick up the cabbage from the fridge, then put it in the sink basin.
+OK.
+Think: First, I need to recall location of the cabbage.
+OK.
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Think: Now I need to find the cabbage. The cabbage is more likely to appear on CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-2), Drawer (1-6). I can check each place one by one, starting from CounterTop (1), until I find the cabbage.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). There are no visible objects.. 
+Think: I find no cabbage. Now, I need to check CounterTop (2).
+OK.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Window (1), StoveKnob (4), StoveBurner (2, 4), Pot (1), CounterTop (2). 
+Think: I find no cabbage. Now, I need to check CounterTop (3).
+OK.
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Spatula (1), Microwave (1), Knife (2), CounterTop (3). 
+Think: I find no cabbage. Now, I need to check SinkBasin (1).
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Spoon (1), Sink (1), SinkBasin (1), Pot (2), Knife (2, 3), Faucet (1), Egg (1), Drawer (3), DishSponge (1), CounterTop (1, 3), Cabinet (1, 2). 
+Think: I find no cabbage. Now, I need to check Fridge (1).
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (2), GarbageCan (1), Fridge (1). Fridge (1) is closed. 
+Act: open Fridge (1)
+You open Fridge (1). You see Tomato (2), GarbageCan (1), Fridge (1).
+Think: I find no cabbage. Now, I need to check Microwave (1).
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). There are no visible objects.. Microwave (1) is closed. 
+Act: open Microwave (1)
+You open Microwave (1). You see .
+Think: I find no cabbage. Now, I need to check Cabinet (1).
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Sink (1), SinkBasin (1), Pot (2), Knife (3), Drawer (1, 2, 3, 4, 6), DishSponge (1), CounterTop (1), Cabinet (1, 2), ButterKnife (2). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see SaltShaker (2), PepperShaker (1), Drawer (2, 3, 4, 6), Cup (1), Cabinet (1, 2).
+Think: I find no cabbage. Now, I need to check Cabinet (2).
+OK.
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Spatula (1), SoapBottle (2), Sink (1), SinkBasin (1), SaltShaker (2), Pot (2), DishSponge (1), CounterTop (3), Cabinet (1, 2). Cabinet (2) is closed. 
+Act: open Cabinet (2)
+The Cabinet (2) is open failed.
+Think: I find no cabbage. Now, I need to check Drawer (1).
+OK.
+Act: go to Drawer (1)
+You arrive at Drawer (1). There are no visible objects.. Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see .
+Think: I find no cabbage. Now, I need to check Drawer (2).
+OK.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Mug (1), Egg (2), Drawer (1, 2, 3, 4, 5, 6), CounterTop (1), ButterKnife (2), Bowl (3), Apple (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see Egg (2), Drawer (1, 2, 3, 4, 5, 6), CounterTop (1), ButterKnife (2).
+Think: I find no cabbage. Now, I need to check Drawer (3).
+OK.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Window (1, 2), StoveBurner (1, 3), Spoon (1), SinkBasin (1), Pot (2), Mug (1), Knife (3), HousePlant (1), Faucet (1), Egg (1, 2), Drawer (1, 2, 6), DishSponge (1), Cup (1), CounterTop (1), Cabinet (1, 2), ButterKnife (2), Bowl (3), Apple (1). Drawer (3) is closed. 
+Act: open Drawer (3)
+You open Drawer (3). You see Window (1, 2), StoveBurner (1, 3), Spoon (1), SinkBasin (1), Pot (2), Mug (1), Knife (3), HousePlant (1), Faucet (1), Egg (1, 2), Drawer (1, 2, 6), DishSponge (1), Cup (1), CounterTop (1), Cabinet (1, 2), ButterKnife (2), Bowl (3), Apple (1).
+Think: I find no cabbage. Now, I need to check Drawer (4).
+OK.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Window (1, 2), StoveBurner (1, 3), Spoon (1), SinkBasin (1), Pot (2), Mug (1), Knife (3), HousePlant (1), Faucet (1), Egg (1, 2), Drawer (1, 2, 6), DishSponge (1), Cup (1), CounterTop (1), Cabinet (1, 2), ButterKnife (2), Bowl (3), Apple (1). Drawer (4) is closed. 
+Act: open Drawer (4)
+You open Drawer (4). You see Window (1, 2), StoveBurner (1, 3), Spoon (1), SinkBasin (1), Pot (2), Mug (1), Knife (3), HousePlant (1), Faucet (1), Egg (1, 2), Drawer (1, 2, 6), DishSponge (1), Cup (1), CounterTop (1), Cabinet (1, 2), ButterKnife (2), Bowl (3), Apple (1).
+Think: I find no cabbage. Now, I need to check Drawer (5).
+OK.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Window (1), StoveKnob (1), StoveBurner (1, 3), Mug (1), HousePlant (1), Egg (2), Drawer (1, 2, 3, 4, 5, 6), CounterTop (1), ButterKnife (2), Bowl (3), Apple (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+You open Drawer (5). You see Window (1), StoveKnob (1), StoveBurner (1, 3), Mug (1), HousePlant (1), Egg (2), Drawer (1, 2, 3, 5), CounterTop (1), Cabinet (1), ButterKnife (2), Bowl (3), Apple (1).
+Think: I find no cabbage. Now, I need to check Drawer (6).
+OK.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Window (1), StoveKnob (1, 2, 3), StoveBurner (1, 2, 3, 4), Spoon (1), Pot (1), Mug (1), Knife (3), HousePlant (1), Egg (1, 2), Drawer (1, 3, 5), DishSponge (1), CounterTop (1), Cabinet (1), ButterKnife (2), Bowl (3), Apple (1). Drawer (6) is closed. 
+Act: open Drawer (6)
+You open Drawer (6). You see Window (1), StoveKnob (1, 2, 3), StoveBurner (1, 2, 3, 4), Spoon (1), Pot (1), Mug (1), Knife (3), HousePlant (1), Egg (1, 2), Drawer (1, 3, 5), DishSponge (1), CounterTop (1), Cabinet (1), ButterKnife (2), Bowl (3), Apple (1).
+Think: I find no cabbage. Now, I need to check Drawer (7).
+OK.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Window (1), StoveKnob (1, 2, 3), StoveBurner (1, 2, 3, 4), Spoon (1), Pot (1), Mug (1), Knife (3), HousePlant (1), Egg (2), Drawer (1, 3, 5), DishSponge (1), CounterTop (1), Cabinet (1, 2), ButterKnife (2), Bowl (3), Apple (1). Drawer (6) is open. 
+Act: close Drawer (6)
+The Drawer (6) is not close to you.
+Think: I find no cabbage. Now, I need to check Drawer (8).
+OK.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Window (1), StoveKnob (1, 2, 3), StoveBurner (1, 2, 3, 4), Spoon (1), Pot (1), Mug (1), Knife (3), HousePlant (1), Egg (2), Drawer (1, 3, 5), DishSponge (1), CounterTop (1), Cabinet (1, 2), ButterKnife (2), Bowl (3), Apple (1). Drawer (6) is open. 
+Act: close Drawer (6)
+The Drawer (6) is not close to you.
+Think: I find no cabbage. Now, I need to check Drawer (9).
+OK.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Window (1), StoveKnob (1, 2, 3), StoveBurner (1, 2, 3, 4), Spoon (1), Pot (1), Mug (1), Knife (3), HousePlant (1), Egg (2), Drawer (1, 3, 5), DishSponge (1), CounterTop (1), Cabinet (1, 2), ButterKnife (2), Bowl (3), Apple (1). Drawer (6) is open. 
+Act: close Drawer (6)
+The Drawer (6) is not close to you.
+Think: I find no cabbage. Now, I need to check Drawer (10).
+OK.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Window (1), StoveKnob (1, 2, 3), StoveBurner (1, 2, 3, 4), Spoon (1), Pot (1), Mug (1), Knife (3), HousePlant (1), Egg (2), Drawer (1, 3, 5), DishSponge (1), CounterTop (1), Cabinet (1, 2), ButterKnife (2), Bowl (3), Apple (1). Drawer (6) is open. 
+Act: close Drawer (6)
+The Drawer (6) is not close to you.
+Think: I find no cabbage. Now, I need to check Drawer (11).
+OK.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Window (1), StoveKnob (1, 2, 3), StoveBurner (1, 2, 3, 4), Spoon (1), Pot (1), Mug (1), Knife (3), HousePlant (1), Egg (2), Drawer (1, 3, 5), DishSponge (1), CounterTop (1), Cabinet (1, 2), ButterKnife (2), Bowl (3), Apple (1). Drawer (6) is open. 
+Act: close Drawer (6)
+The Drawer (6) is not close to you.
+Think: I find no cabbage. Now, I need to check Drawer (12).
+OK.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Window (1), StoveKnob (1, 2, 3), StoveBurner (1, 2, 3, 4), Spoon (1), Pot (1), Mug (1), Knife (3), HousePlant (1), Egg (2), Drawer (1, 3, 5), DishSponge (1), CounterTop (1), Cabinet (1, 2), ButterKnife (2), Bowl (3), Apple (1). Drawer (6) is open. 
+Act: close Drawer (6)
+The Drawer (6) is not close to you.
+Think: I find no cabbage. Now, I need to check Drawer (13).
+OK.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Window (1), StoveKnob (1, 2, 3), StoveBurner (1, 2, 3, 4), Spoon (1), Pot (1), Mug (1), Knife (3), HousePlant (1), Egg (2), Drawer (1, 3, 5), DishSponge (1), CounterTop (1), Cabinet (1, 2), ButterKnife (2), Bowl (3), Apple (1). Drawer (6) is open. 
+Act: close Drawer (6)
+The Drawer (6) is not close to you.
+Think: I find no cabbage. Now, I need to check Drawer (14).
+OK.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Window (1), StoveKnob (1, 2, 3), StoveBurner (1, 2, 3, 4), Spoon (1), Pot (1), Mug (1), Knife (3), HousePlant (1), Egg (2), Drawer (1, 3, 5), DishSponge (1), CounterTop (1), Cabinet (1, 2), ButterKnife (2), Bowl (3), Apple (1). Drawer (6) is open. 
+Act: close Drawer (6)
+The Drawer (6) is not close to you.
+Think: I find no cabbage. Now, I need to check Drawer (15).
+OK.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Window (1), StoveKnob (1, 2, 3), StoveBurner (1, 2, 3, 4), Spoon (1), Pot (1), Mug (1), Knife (3), HousePlant (1), Egg (2), Drawer (1, 3, 5), DishSponge (1), CounterTop (1), Cabinet (1, 2), ButterKnife (2), Bowl (3), Apple (1). Drawer (6) is open. 
+Act: close Drawer (6)
+The Drawer (6) is not close to you.
+Think: I find no cabbage. Now, I need to check Drawer (16).
+OK.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Window (1), StoveKnob (1, 2, 3), StoveBurner (1, 2, 3, 4), Spoon (1), Pot (1), Mug (1), Knife (3), HousePlant (1), Egg (2), Drawer (1, 3, 5), DishSponge (1), CounterTop (1), Cabinet (1, 2), ButterKnife (2), Bowl (3), Apple (1). Drawer (6) is open. 

@@ -1,0 +1,59 @@
+Your task is to: Take out an apple from the microwave, chilled it and put it in the bin
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20).
+Think: To solve the task, I need to find and pick up the apple, then put it in the fridge. And I need to pick up the apple from the fridge, then put it in the trash can.
+OK.
+Think: First, I need to recall location of the apple.
+OK.
+Act: recall location of Apple
+You have not seen Apple before.
+Think: Now I need to find the apple. The apple is more likely to appear on DiningTable (1-2), CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-20), Drawer (1-6). I can check each place one by one, starting from DiningTable (1), until I find the apple.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Window (2), Knife (1), Kettle (1, 2), Fork (1), Egg (1), DiningTable (1), Cup (2), Chair (1), CellPhone (3), Bread (3). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see WineBottle (1, 2), Tomato (1), Spatula (1, 2), SaltShaker (1), Plate (2), Fork (3), DiningTable (2), ButterKnife (1), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see SoapBottle (1, 2), Drawer (2, 5), CounterTop (1), CellPhone (1), Cabinet (5, 16). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see SprayBottle (1), Spoon (1), Pan (1), Microwave (1), Glassbottle (1), Fork (2), Drawer (1), CounterTop (2), CellPhone (2), Cabinet (17), Bowl (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (1), StoveKnob (1), StoveBurner (3), SprayBottle (1), Sink (1), SinkBasin (1), Pot (1), Knife (2), Faucet (1), DishSponge (1), Cup (1), CounterTop (2), Cabinet (9, 11), Bowl (1). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1). Fridge (1) is closed. 
+Act: open Fridge (1)
+You open Fridge (1). You see Fridge (1), Cabinet (8).
+Act: close Fridge (1)
+You close Fridge (1). You see Fridge (1).
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17). Microwave (1) is closed. 
+Act: open Microwave (1)
+You open Microwave (1). You see Potato (1), Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17), Apple (1).
+Think: I find Apple (1). Now, I need to pick it up.
+OK.
+Act: pick up Apple (1)
+You pick up Apple (1). You see Potato (1), Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17), Apple (1). I am holding Apple (1) now.
+Think: I hold Apple (1). Now, I need to put it in the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Apple (1). Fridge (1) is closed.  I am holding Apple (1) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Fridge (1), Cabinet (8), Apple (1). I am holding Apple (1) now.
+Act: put down Apple (1)
+You put Apple (1) on Fridge (1). You see Fridge (1), Cabinet (8), Apple (1).
+Act: close Fridge (1)
+You close Fridge (1). You see Fridge (1).
+Think: I put Apple (1) in Fridge (1). Now, I need to pick up the apple from the fridge.
+OK.
+Act: open Fridge (1)
+You open Fridge (1). You see Fridge (1), Cabinet (8), Apple (1).
+Act: pick up Apple (1)
+You pick up Apple (1). You see Fridge (1), Cabinet (8), Apple (1). I am holding Apple (1) now.
+Think: I pick up Apple (1) from Fridge (1). Now, I need to put it in the trash can.
+OK.
+Act: go to GarbageCan (1)
+You arrive at GarbageCan (1). You see Toaster (1), GarbageCan (1), Drawer (6), CounterTop (1), Chair (1), Cabinet (1, 14), Apple (1).  I am holding Apple (1) now.
+Act: put down Apple (1)
+You put Apple (1) on GarbageCan (1). You see Toaster (1), GarbageCan (1), Drawer (6), CounterTop (1), Chair (1), Cabinet (1, 14), Apple (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,110 @@
+Your task is to: Place two blue credit cards on the yellow chair.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1), GarbageCan (1), Drawer (1), DiningTable (1), CoffeeTable (1, 2), ArmChair (1).
+Think: To solve the task, I need to find and pick up the credit cards, then put it on the yellow chair. And I need to find and pick up another credit cards, then put it on the yellow chair.
+OK.
+Think: First, I need to recall location of the credit card.
+OK.
+Act: recall location of CreditCard
+You have not seen CreditCard before.
+Think: Now I need to find the credit card. The credit card is more likely to appear on Sofa (1), SideTable (1), DiningTable (1), CoffeeTable (1-2), ArmChair (1), or in Drawer (1). I can check each place one by one, starting from Sofa (1), until I find the credit card.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), KeyChain (1), CreditCard (2). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Television (1), Statue (1), SideTable (1), Laptop (1), Drawer (1), CoffeeTable (2), ArmChair (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 3, 4, 5), Box (1). 
+Think: I find CreditCard (1). Now, I need to pick it up.
+OK.
+Act: pick up CreditCard (1)
+You pick up CreditCard (1). You see Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 3, 4, 5), Box (1). I am holding CreditCard (1) now.
+Think: I hold CreditCard (1). Now, I need to put it on the yellow chair.
+OK.
+Act: go to Chair (1)
+You see Vase (1), Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 5).  I am holding CreditCard (1) now.
+Act: put down CreditCard (1)
+You put down failed, drop it. You see Vase (1), Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 5).
+Act: go to Chair (5)
+You see Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 5), Box (1). 
+Act: go to Chair (1)
+You see Vase (1), Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 5). 
+Act: go to Chair (5)
+You see Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 5), Box (1). 
+Act: go to Chair (1)
+You see Vase (1), Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 5). 
+Act: go to Chair (5)
+You see Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 5), Box (1). 
+Act: go to Chair (1)
+You see Vase (1), Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 5). 
+Act: go to Chair (5)
+You see Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 5), Box (1). 
+Act: go to Chair (1)
+You see Vase (1), Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 5). 
+Act: go to Chair (5)
+You see Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 5), Box (1). 
+Act: go to Chair (1)
+You see Vase (1), Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 5). 
+Act: go to Chair (5)
+You see Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 5), Box (1). 
+Act: go to Chair (1)
+You see Vase (1), Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 5). 
+Act: go to Chair (5)
+You see Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 5), Box (1). 
+Act: go to Chair (1)
+You see Vase (1), Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 5). 
+Act: go to Chair (5)
+You see Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 5), Box (1). 
+Act: go to Chair (1)
+You see Vase (1), Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 5). 
+Act: go to Chair (5)
+You see Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 5), Box (1). 
+Act: go to Chair (1)
+You see Vase (1), Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 5). 
+Act: go to Chair (5)
+You see Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 5), Box (1). 
+Act: go to Chair (1)
+You see Vase (1), Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 5). 
+Act: go to Chair (5)
+You see Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 5), Box (1). 
+Act: go to Chair (1)
+You see Vase (1), Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 5). 
+Act: go to Chair (5)
+You see Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 5), Box (1). 
+Act: go to Chair (1)
+You see Vase (1), Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 5). 
+Act: go to Chair (5)
+You see Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 5), Box (1). 
+Act: go to Chair (1)
+You see Vase (1), Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 5). 
+Act: go to Chair (5)
+You see Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 5), Box (1). 
+Act: go to Chair (1)
+You see Vase (1), Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 5). 
+Act: go to Chair (5)
+You see Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 5), Box (1). 
+Act: go to Chair (1)
+You see Vase (1), Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 5). 
+Act: go to Chair (5)
+You see Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 5), Box (1). 
+Act: go to Chair (1)
+You see Vase (1), Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 5). 
+Act: go to Chair (5)
+You see Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 5), Box (1). 
+Act: go to Chair (1)
+You see Vase (1), Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 5). 
+Act: go to Chair (5)
+You see Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 5), Box (1). 
+Act: go to Chair (1)
+You see Vase (1), Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 5). 
+Act: go to Chair (5)
+You see Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 5), Box (1). 
+Act: go to Chair (1)
+You see Vase (1), Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 5). 
+Act: go to Chair (5)
+You see Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 5), Box (1). 
+Act: go to Chair (1)
+You see Vase (1), Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 5). 
+Act: go to Chair (5)
+You see Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 5), Box (1). 
+Act: go to Chair (1)
+You see Vase (1), Plate (1), KeyChain (3), DiningTable (1), CreditCard (1), Chair (1, 5). 

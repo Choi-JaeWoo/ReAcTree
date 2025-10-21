@@ -1,0 +1,17 @@
+Your primary goal is to: Put a grey bowl with a watch in it on a shelf.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up grey bowl, find and pick up watch, and place grey bowl on shelf.
+Your task is to: find and pick up watch
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14), GarbageCan (1), Drawer (1, 2), DiningTable (1), Bed (1, 2). I am holding Bowl (1) now.
+Think: First, I need to recall location of the watch.
+OK.
+Act: recall location of Watch
+You saw Watch (4) near SideTable (1). You saw Watch (2) near Shelf (3).
+Think: I can find Watch (4) near SideTable (1). I can find Watch (2) near Shelf (3).
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Watch (4), SideTable (1), KeyChain (3), CreditCard (2), CellPhone (1), Bowl (1), Bed (1, 2).  I am holding Bowl (1) now.
+Think: I find Watch (4). Now, I need to pick it up.
+OK.
+Act: pick up Watch (4)
+You are currently holding Bowl (1). I am holding Bowl (1) now.
+Act: failure

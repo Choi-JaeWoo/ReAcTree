@@ -1,0 +1,21 @@
+Your primary goal is to: Place two tv remotes on the gray sofa chair.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up tv remote, place tv remote on sofa, Find and pick up tv remote away from sofa, and place tv remote on sofa.
+Your task is to: find and pick up tv remote
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1, 2), SideTable (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1, 2), CoffeeTable (1), ArmChair (1).
+Think: First, I need to recall location of the tv remote.
+OK.
+Act: recall location of RemoteControl
+You have not seen RemoteControl before.
+Think: Now, I need to find the tv remote. The tv remote is more likely to appear on TVStand (1), Sofa (1-2), SideTable (1), CoffeeTable (1), ArmChair (1), or in Drawer (1-6). I can check each place one by one, starting from TVStand (1), until I find the tv remote.
+OK.
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (1, 2), CreditCard (2), Candle (1). 
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), RemoteControl (4), Pillow (1). 
+Think: I find RemoteControl (4). Now, I need to pick it up.
+OK.
+Act: pick up RemoteControl (4)
+You pick up RemoteControl (4). You see Sofa (1), RemoteControl (4), Pillow (1). I am holding RemoteControl (4) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,13 @@
+Your primary goal is to: Microwave a sliced potato and put it onto the table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, slice and pick up potato, heat and pick up potato, and place potato on table.
+Your task is to: place potato on table
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12). I am holding Potato (5) now.
+Think: I hold Potato (5). Now, I need to put it on the table. I can see DiningTable (1).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see SoapBottle (1), Potato (5), Plate (1), PepperShaker (2), Lettuce (1), Ladle (2), Fork (1), DiningTable (1), Cup (3), Chair (1), ButterKnife (1, 2), Bread (1).  I am holding Potato (5) now.
+Act: put down Potato (5)
+You put Potato (5) on DiningTable (1). You see SoapBottle (1), Potato (5), Plate (1), PepperShaker (2), Lettuce (1), Ladle (2), Fork (1), DiningTable (1), Cup (3), Chair (1), ButterKnife (1, 2), Bread (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

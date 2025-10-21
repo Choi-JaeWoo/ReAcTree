@@ -1,0 +1,7 @@
+Your task is to: Place two key-chains on a couch
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1, 2), SideTable (1, 2, 3), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7), CoffeeTable (1), ArmChair (1).
+Think: Since I’m not holding the key-chain, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up key-chain, place key-chain on couch, Find and pick up key-chain away from couch, and place key-chain on couch.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up key-chain, place key-chain on couch, Find and pick up key-chain away from couch, place key-chain on couch

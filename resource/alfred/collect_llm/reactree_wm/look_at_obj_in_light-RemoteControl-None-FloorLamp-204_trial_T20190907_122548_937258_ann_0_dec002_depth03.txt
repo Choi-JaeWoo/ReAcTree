@@ -1,0 +1,19 @@
+Your primary goal is to: Turning a lamp on.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up lamp, and turn on lamp.
+Your task is to: find and pick up lamp
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1, 2), Shelf (1, 2, 3), Safe (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), Desk (1), CoffeeTable (1), ArmChair (1).
+Think: First, I need to recall location of the lamp.
+OK.
+Act: recall location of DeskLamp
+You have not seen DeskLamp before.
+Think: Now, I need to find the lamp. The lamp is more likely to appear on Desk (1), TVStand (1), Sofa (1-2), CoffeeTable (1), ArmChair (1), Shelf (1-3), or in Drawer (1-6). I can check each place one by one, starting from Desk (1), until I find the lamp.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (3), Laptop (1), Lamp (1), GarbageCan (1), Desk (1), CreditCard (1), Chair (4). 
+Think: I find Lamp (1). Now, I need to pick it up.
+OK.
+Act: pick up Laptop (1)
+You pick up Laptop (1). You see Statue (3), Laptop (1), Lamp (1), GarbageCan (1), Desk (1), CreditCard (1), Chair (4). I am holding Laptop (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

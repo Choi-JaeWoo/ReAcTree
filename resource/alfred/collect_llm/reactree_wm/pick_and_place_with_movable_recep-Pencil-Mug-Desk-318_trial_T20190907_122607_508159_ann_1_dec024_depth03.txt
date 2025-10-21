@@ -1,0 +1,21 @@
+Your primary goal is to: place a cup with a pencil in it on the desk next to the laptop
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up cup, find and pick up pencil, place cup on desk, and place pencil in cup.
+Your task is to: find and pick up pencil
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see GarbageCan (1), Dresser (1, 2), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13), Desk (1, 2), Cabinet (1), Bed (1, 2), ArmChair (1). I am holding Mug (1) now.
+Think: First, I need to recall location of the pencil.
+OK.
+Act: recall location of Pencil
+You saw Pencil (1) near Cabinet (1).
+Think: I can find Pencil (1) near Cabinet (1).
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Pencil (1), Pen (1), Mug (1), Laptop (1), KeyChain (1), Dresser (1), Drawer (3, 7, 8, 10), Desk (1), Chair (2), Cabinet (1), AlarmClock (1). Cabinet (1) is closed.  I am holding Mug (1) now.
+Act: put down Mug (1)
+You put down failed, drop it. You see Pencil (1), Pen (1), Laptop (1), KeyChain (1), Dresser (1), Drawer (3, 7, 8, 10), Desk (1), Chair (2), Cabinet (1), AlarmClock (1).
+Think: I find Pencil (1). Now, I need to pick it up.
+OK.
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see Pencil (1), Pen (1), Laptop (1), KeyChain (1), Dresser (1), Drawer (3, 7, 8, 10), Desk (1), Chair (2), Cabinet (1), AlarmClock (1). I am holding Pencil (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

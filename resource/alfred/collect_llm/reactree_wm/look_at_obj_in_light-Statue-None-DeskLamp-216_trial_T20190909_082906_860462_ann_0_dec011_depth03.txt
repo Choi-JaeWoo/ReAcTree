@@ -1,0 +1,35 @@
+Your primary goal is to: examine a statue with a lamp
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up statue, and find and turn on lamp.
+Your task is to: find and turn on lamp
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2, 3), Shelf (1), GarbageCan (1), Drawer (1, 2, 3, 4), DiningTable (1), ArmChair (1). I am holding Statue (2) now.
+Think: First, I need to recall location of the lamp.
+OK.
+Act: recall location of DeskLamp
+You have not seen DeskLamp before.
+Think: Now I need to find the desk lamp. The desk lamp is more likely to appear near Sofa (1), SideTable (1-3), Shelf (1), Drawer (1-4), DiningTable (1), ArmChair (1). I can check each place one by one, starting from Sofa (1), until I find the desk lamp.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Statue (2), Sofa (1), RemoteControl (1).  I am holding Statue (2) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Statue (2).  I am holding Statue (2) now.
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Statue (2).  I am holding Statue (2) now.
+Act: go to SideTable (3)
+You arrive at SideTable (3). You see Statue (2), Sofa (1).  I am holding Statue (2) now.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Statue (2), SideTable (1).  I am holding Statue (2) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Statue (2), SideTable (2), Drawer (1). Drawer (1) is closed.  I am holding Statue (2) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Vase (2), Statue (2). Drawer (2) is closed.  I am holding Statue (2) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Statue (2). Drawer (3) is closed.  I am holding Statue (2) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Statue (2). Drawer (4) is closed.  I am holding Statue (2) now.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Statue (2).  I am holding Statue (2) now.
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Statue (2).  I am holding Statue (2) now.
+Think: I cannot find the desk lamp.
+OK.
+Act: failure

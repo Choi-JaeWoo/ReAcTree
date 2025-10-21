@@ -1,0 +1,7 @@
+Your task is to: To see the decoration in the light.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1, 2), Shelf (1, 2, 3, 4, 5), GarbageCan (1), Drawer (1), CoffeeTable (1), ArmChair (1).
+Think: Since I’m not holding the decoration, I need to accomplish 2 subgoals sequentially to solve the task. Find and pick up decoration and find and turn on lamp.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up decoration, find and turn on lamp

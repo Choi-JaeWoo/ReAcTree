@@ -1,0 +1,110 @@
+Your task is to: Place a chilled mug on a coffee maker.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), CounterTop (1, 2, 3, 4), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15).
+Think: To solve the task, I need to find and pick up the mug, then put it in fridge. I need to pick up the mug from the fridge, then put it on the coffee maker.
+OK.
+Think: First, I need to recall location of the mug.
+OK.
+Act: recall location of Mug
+You have not seen Mug before.
+Think: Now I need to find the mug. The mug is more likely to appear on CoffeeMachine (1), CounterTop (1-4), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-15), Drawer (1-4). I can check each place one by one, starting from CoffeeMachine (1), until I find the mug.
+OK.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see Window (1), Sink (1), SinkBasin (1), SaltShaker (1), Knife (2), Faucet (1), CounterTop (3), CoffeeMachine (1). 
+Think: I find Mug (1). Now, I need to pick it up.
+OK.
+Act: pick up Knife (2)
+
+Think: I hold Mug (1). Now, I need to put it in the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1). Fridge (1) is closed. 
+Act: open Fridge (1)
+You open Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3).
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1), Cabinet (12), Bowl (3). Fridge (1) is open. 

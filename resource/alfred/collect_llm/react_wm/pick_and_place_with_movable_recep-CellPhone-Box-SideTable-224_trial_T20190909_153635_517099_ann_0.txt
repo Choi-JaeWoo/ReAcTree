@@ -1,0 +1,53 @@
+Your task is to: Put a phone in a box, place box on a stand.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2, 3, 4, 5), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21), Cabinet (1), ArmChair (1).
+Think: To solve the task, I need to find and pick up the phone, then put it in the box. And I need to find and pick up the box, then put it on the stand.
+OK.
+Think: First, I need to recall location of the phone.
+OK.
+Act: recall location of CellPhone
+You have not seen CellPhone before.
+Think: Now I need to find the phone. The phone is more likely to appear on Sofa (1), SideTable (1-5), or in Drawer (1-21), Cabinet (1). I can check each place one by one, starting from Sofa (1), until I find the phone.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1), Laptop (2), KeyChain (1), Box (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), GarbageCan (1), Drawer (3, 5, 19), DeskLamp (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), RemoteControl (1), Painting (2), Drawer (15). 
+Act: go to SideTable (3)
+You arrive at SideTable (3). You see Window (2), Statue (1), SideTable (3), Cabinet (1). 
+Act: go to SideTable (4)
+You arrive at SideTable (4). You see SideTable (4), RemoteControl (3), GarbageCan (1), Drawer (3, 11, 16, 19, 20). 
+Act: go to SideTable (5)
+You arrive at SideTable (5). You see SideTable (5), Drawer (3, 11, 16, 20), Chair (4). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Television (1), Dresser (1), Drawer (1, 2, 6, 7, 9, 10, 14, 17, 21), CellPhone (1, 2), Box (2), Book (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Television (1), Dresser (1), Drawer (1, 2, 6, 7, 9, 10, 21), CellPhone (1, 2), Box (2), Book (1).
+Think: I find CellPhone (1). Now, I need to pick it up.
+OK.
+Act: pick up CellPhone (1)
+You pick up CellPhone (1). You see Television (1), Dresser (1), Drawer (1, 2, 6, 7, 9, 10, 21), CellPhone (1, 2), Box (2), Book (1). I am holding CellPhone (1) now.
+Think: I hold CellPhone (1). Now, I need to put it in the box.
+OK.
+Act: put down CellPhone (1)
+You put down failed, drop it. You see Television (1), Dresser (1), Drawer (1, 2, 6, 7, 9, 10, 21), CellPhone (1, 2), Box (2), Book (1).
+Think: Now I need to recall location of the box.
+OK.
+Act: recall location of Box
+You saw Box (1) near Sofa (1). You saw Box (2) near Drawer (1).
+Think: Box (1) is on Sofa (1). Box (2) is on Drawer (1). Now, I need to pick up the box.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1), Laptop (2), KeyChain (1), Box (1). 
+Act: pick up Box (1)
+You pick up Box (1). You see Sofa (1), Pillow (1), Laptop (2), KeyChain (1), Box (1). I am holding Box (1) now.
+Think: I hold Box (1). Now, I need to put it on the stand.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), GarbageCan (1), Drawer (5, 19), DeskLamp (1), Box (1).  I am holding Box (1) now.
+Act: put down Box (1)
+You put down failed, drop it. You see GarbageCan (1), Drawer (5), DeskLamp (1), Box (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

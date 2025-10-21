@@ -1,0 +1,13 @@
+Your primary goal is to: Put a cup on a counter with spoon inside.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up cup, put spoon in cup, and place cup on counter.
+Your task is to: put spoon in cup
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10). I am holding Spoon (1) now.
+Think: I hold Spoon (1). Now, I need to put it in the cup. I can see Cup (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spoon (1), Spatula (1), Sink (1), SinkBasin (1), SaltShaker (2), Plate (3), Faucet (1), Egg (1, 3), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4), Apple (1).  I am holding Spoon (1) now.
+Act: put down Spoon (1)
+You put Spoon (1) on CounterTop (1). You see Spoon (1), Spatula (1), Sink (1), SinkBasin (1), SaltShaker (2), Plate (3), Faucet (1), Egg (1, 3), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4), Apple (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

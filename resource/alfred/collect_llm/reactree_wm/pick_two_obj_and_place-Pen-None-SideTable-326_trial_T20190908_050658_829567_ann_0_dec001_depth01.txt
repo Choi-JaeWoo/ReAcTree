@@ -1,0 +1,7 @@
+Your task is to: put 2 pens on top of the night stand
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14), GarbageCan (1), Drawer (1, 2), DiningTable (1), Bed (1, 2).
+Think: Since I’m not holding the pen, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up pen, place pen on night stand, Find and pick up pen away from night stand, and place pen on night stand.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up pen, place pen on night stand, Find and pick up pen away from night stand, place pen on night stand

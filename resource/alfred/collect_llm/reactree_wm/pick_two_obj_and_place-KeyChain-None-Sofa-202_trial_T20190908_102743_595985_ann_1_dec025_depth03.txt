@@ -1,0 +1,13 @@
+Your primary goal is to: Move two sets of keys from the coffee table to the couch.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up keys, place keys on couch, Find and pick up keys away from couch, and place keys on couch.
+Your task is to: place keys on couch
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1), GarbageCan (1), CoffeeTable (1), ArmChair (1). I am holding RemoteControl (1) now.
+Think: I hold RemoteControl (1). Now, I need to put it on the couch. I can see Sofa (1).
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), RemoteControl (1), Pillow (1), KeyChain (1), CreditCard (1, 2), Box (2).  I am holding RemoteControl (1) now.
+Act: put down RemoteControl (1)
+You put RemoteControl (1) on Sofa (1). You see Sofa (1), RemoteControl (1), Pillow (1), KeyChain (1), CreditCard (1, 2), Box (2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

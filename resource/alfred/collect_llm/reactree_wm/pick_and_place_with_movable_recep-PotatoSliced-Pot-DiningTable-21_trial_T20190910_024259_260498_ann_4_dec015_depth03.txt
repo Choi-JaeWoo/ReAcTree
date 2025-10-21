@@ -1,0 +1,13 @@
+Your primary goal is to: Put a pot with a slice of potato in it on a table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pot, place pot in sink basin, find and pick up knife, and slice and pick up potato.
+Your task is to: place pot in sink basin
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1, 2, 3), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4). I am holding Pan (1) now.
+Think: I hold Pan (1). Now, I need to put it in the sink basin. I can see SinkBasin (1).
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (2), Sink (1), SinkBasin (1), PepperShaker (1), Pan (1), Fork (1), Faucet (1), Egg (2), Drawer (1), Cup (2), CounterTop (1), CoffeeMachine (1), Cabinet (4).  I am holding Pan (1) now.
+Act: put down Pan (1)
+You put down failed, drop it. You see Tomato (2), Sink (1), SinkBasin (1), PepperShaker (1), Pan (1), Fork (1), Faucet (1), Egg (2), Drawer (1), Cup (2), CounterTop (1), CoffeeMachine (1), Cabinet (2, 4).
+Think: I failed to put down Pan (1).
+OK.
+Act: failure

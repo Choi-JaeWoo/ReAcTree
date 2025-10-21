@@ -1,0 +1,49 @@
+Your task is to: Put a cup on a counter with a knife.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: To solve the task, I need to find and pick up the cup, then put it on the counter top. And I need to find and pick up the knife, then put it on the cup on the counter top.
+OK.
+Think: First, I need to recall location of the cup.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the cup. The cup is more likely to appear on CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the cup.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Lettuce (3), CounterTop (1), Bread (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), Knife (1), HousePlant (1), Faucet (1), Egg (1), Drawer (2, 4), Cup (1, 3), CounterTop (1). 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: pick up Cup (1)
+You pick up Cup (1). You see Sink (1), SinkBasin (1), Knife (1), HousePlant (1), Faucet (1), Drawer (2, 4), Cup (1, 3), CounterTop (1). I am holding Cup (1) now.
+Think: I hold Cup (1). Now, I need to put it on the countertop.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Lettuce (3), Cup (1), CounterTop (1), Bread (1).  I am holding Cup (1) now.
+Act: put down Cup (1)
+You put Cup (1) on CounterTop (1). You see Lettuce (3), Cup (1), CounterTop (1), Bread (1).
+Think: I put Cup (1) on the CounterTop (1). Now, I need to recall location of the knife.
+OK.
+Act: recall location of Knife
+You saw Knife (1) near SinkBasin (1).
+Think: Knife (1) is on the SinkBasin (1). Now, I need to pick it up.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), Knife (1), HousePlant (1), Faucet (1), Egg (1), Drawer (2, 4), Cup (3), CounterTop (1). 
+Act: pick up Knife (1)
+You pick up Knife (1). You see Sink (1), SinkBasin (1), Knife (1), HousePlant (1), Faucet (1), Egg (1), Drawer (2, 4), Cup (3), CounterTop (1). I am holding Knife (1) now.
+Think: I hold Knife (1). Now, I need to recall location of the cup.
+OK.
+Act: recall location of Cup
+You saw Cup (1) near CounterTop (1). You saw Cup (3) near SinkBasin (1).
+Think: Cup (1) is on the CounterTop (1). Now, I need to put Knife (1) on Cup (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Lettuce (3), Knife (1), Cup (1), CounterTop (1), Bread (1).  I am holding Knife (1) now.
+Act: go to Cup (1)
+You arrive at Cup (1). You see Lettuce (3), Knife (1), Cup (1), CounterTop (1), Cabinet (2), Bread (1).  I am holding Knife (1) now.
+Act: put down Knife (1)
+You put Knife (1) on Cup (1). You see Lettuce (3), Knife (1), Cup (1), CounterTop (1), Cabinet (2), Bread (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

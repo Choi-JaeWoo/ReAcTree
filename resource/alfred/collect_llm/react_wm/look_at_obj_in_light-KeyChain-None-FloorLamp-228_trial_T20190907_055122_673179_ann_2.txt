@@ -1,0 +1,57 @@
+Your task is to: Examine a key chain by the light of a floor lamp.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1, 2), SideTable (1, 2), GarbageCan (1), Drawer (1), DiningTable (1), CoffeeTable (1).
+Think: To solve the task, I need to find and pick up the key chain. And I need to find and turn on the floor lamp.
+OK.
+Think: First, I need to recall location of the key chain.
+OK.
+Act: recall location of KeyChain
+You have not seen KeyChain before.
+Think: Now I need to find the key chain. The key chain is more likely to appear on Sofa (1-2), SideTable (1-2), CoffeeTable (1), or in Drawer (1). I can check each place one by one, starting from Sofa (1), until I find the key chain.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), RemoteControl (3), Box (1). 
+Act: go to Sofa (2)
+You arrive at Sofa (2). You see Sofa (2), Pillow (1), CreditCard (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Watch (1), Statue (2), SideTable (1, 2), Drawer (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Television (1), SideTable (2), RemoteControl (1), Newspaper (1), Laptop (2). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (3), Vase (2), Statue (1), RemoteControl (2), CoffeeTable (1), Box (2). 
+Think: I find KeyChain (1). Now, I need to pick it up.
+OK.
+Act: pick up Watch (3)
+You pick up Watch (3). You see Watch (3), Vase (2), Statue (1), RemoteControl (2), CoffeeTable (1), Box (2). I am holding Watch (3) now.
+Think: I hold Watch (3). Now, I need to recall location of the floor lamp.
+OK.
+Act: recall location of FloorLamp
+You have not seen FloorLamp before.
+Think: Now I need to find the floor lamp The floor lamp is more likely to appear on Sofa (1-2), SideTable (1-2), CoffeeTable (1), or in Drawer (1). I can check each place one by one, starting from Sofa (1), until I find the floor lamp.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Watch (3), Sofa (1), RemoteControl (3), Box (1).  I am holding Watch (3) now.
+Act: go to Sofa (2)
+You arrive at Sofa (2). You see Watch (3), Sofa (2), Pillow (1), CreditCard (1).  I am holding Watch (3) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Watch (1, 3), Statue (2), SideTable (1, 2), Drawer (1).  I am holding Watch (3) now.
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Watch (3), Television (1), SideTable (2), RemoteControl (1), Newspaper (1), Laptop (2).  I am holding Watch (3) now.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (3), Vase (2), Statue (1), RemoteControl (2), CoffeeTable (1), Box (2).  I am holding Watch (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Watch (1, 3), Statue (2), SideTable (1, 2), Drawer (1). Drawer (1) is closed.  I am holding Watch (3) now.
+Act: open Drawer (1)
+You open Drawer (1). You see Watch (1, 3), Statue (2), SideTable (1, 2), KeyChain (3, 4), Drawer (1). I am holding Watch (3) now.
+Think: I find KeyChain (3). Now, I need to pick it up.
+OK.
+Act: pick up KeyChain (3)
+You are currently holding Watch (3). I am holding Watch (3) now.
+Think: I hold Watch (3). Now, I need to put it on the floor lamp. I think floor lamp means Drawer (1).
+OK.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Watch (1, 1, 1, 3, 3, 3), Statue (2, 2, 2), SideTable (1, 1, 1, 2, 2, 2), KeyChain (3, 3, 3, 4, 4, 4), Drawer (1, 1, 1). Drawer (1) is open.  I am holding Watch (3) now.
+Act: put down Watch (3)
+You put Watch (3) on Drawer (1). You see Watch (1, 3), Statue (2), SideTable (1, 2), KeyChain (3, 4), Drawer (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

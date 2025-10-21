@@ -1,0 +1,7 @@
+Your task is to: Slice lettuce on the table with the knife. 
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), DiningTable (1), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23).
+Think: Since I’m not holding a knife, I need to accomplish 2 subgoals sequentially to solve the task. Find and pick up knife, and slice lettuce on the table.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up knife, slice lettuce on the table

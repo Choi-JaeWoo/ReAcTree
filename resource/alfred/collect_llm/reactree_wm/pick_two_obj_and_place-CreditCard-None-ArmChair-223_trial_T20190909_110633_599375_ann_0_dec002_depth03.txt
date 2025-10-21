@@ -1,0 +1,201 @@
+Your primary goal is to: Place two credit cards on a sofa
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up credit card, place credit card on sofa, Find and pick up credit card away from sofa, and place credit card on sofa.
+Your task is to: find and pick up credit card
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), GarbageCan (1), DiningTable (1, 2), CoffeeTable (1), ArmChair (1, 2, 3).
+Think: First, I need to recall location of the credit card.
+OK.
+Act: recall location of CreditCard
+You have not seen CreditCard before.
+Think: Now, I need to find the credit card. The credit card is more likely to appear on Sofa (1), CoffeeTable (1), or in TVStand (1), DiningTable (1-2), ArmChair (1-3). I can check each place one by one, starting from Sofa (1), until I find the credit card.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Box (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Statue (2), Laptop (1), KeyChain (1), CoffeeTable (1), Candle (1, 2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2), Statue (1, 3), Plate (1), DiningTable (1), Chair (1, 2), Box (2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Window (1), Pillow (1), ArmChair (1). 
+Act: go to ArmChair (2)
+You arrive at ArmChair (2). You see FloorLamp (1), ArmChair (2, 3). 
+Act: go to ArmChair (3)
+You arrive at ArmChair (3). You see ArmChair (2, 3). 
+Think: I find CreditCard (1). Now, I need to pick it up.
+OK.
+Act: recall location of CreditCard
+You have not seen CreditCard before.
+Think: Now, I need to find the credit card. The credit card is more likely to appear on Sofa (1), CoffeeTable (1), or in TVStand (1), DiningTable (1-2), ArmChair (1-3). I can check each place one by one, starting from Sofa (1), until I find the credit card.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Box (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Statue (2), Laptop (1), KeyChain (1), CoffeeTable (1), Candle (1, 2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2), Statue (1, 3), Plate (1), DiningTable (1), Chair (1, 2), Box (2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Window (1), Pillow (1), ArmChair (1). 
+Act: go to ArmChair (2)
+You arrive at ArmChair (2). You see FloorLamp (1), ArmChair (2, 3). 
+Act: go to ArmChair (3)
+You arrive at ArmChair (3). You see ArmChair (2, 3). 
+Think: I find CreditCard (1). Now, I need to pick it up.
+OK.
+Act: recall location of CreditCard
+You have not seen CreditCard before.
+Think: Now, I need to find the credit card. The credit card is more likely to appear on Sofa (1), CoffeeTable (1), or in TVStand (1), DiningTable (1-2), ArmChair (1-3). I can check each place one by one, starting from Sofa (1), until I find the credit card.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Box (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Statue (2), Laptop (1), KeyChain (1), CoffeeTable (1), Candle (1, 2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2), Statue (1, 3), Plate (1), DiningTable (1), Chair (1, 2), Box (2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Window (1), Pillow (1), ArmChair (1). 
+Act: go to ArmChair (2)
+You arrive at ArmChair (2). You see FloorLamp (1), ArmChair (2, 3). 
+Act: go to ArmChair (3)
+You arrive at ArmChair (3). You see ArmChair (2, 3). 
+Think: I find CreditCard (1). Now, I need to pick it up.
+OK.
+Act: recall location of CreditCard
+You have not seen CreditCard before.
+Think: Now, I need to find the credit card. The credit card is more likely to appear on Sofa (1), CoffeeTable (1), or in TVStand (1), DiningTable (1-2), ArmChair (1-3). I can check each place one by one, starting from Sofa (1), until I find the credit card.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Box (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Statue (2), Laptop (1), KeyChain (1), CoffeeTable (1), Candle (1, 2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2), Statue (1, 3), Plate (1), DiningTable (1), Chair (1, 2), Box (2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Window (1), Pillow (1), ArmChair (1). 
+Act: go to ArmChair (2)
+You arrive at ArmChair (2). You see FloorLamp (1), ArmChair (2, 3). 
+Act: go to ArmChair (3)
+You arrive at ArmChair (3). You see ArmChair (2, 3). 
+Think: I find CreditCard (1). Now, I need to pick it up.
+OK.
+Act: recall location of CreditCard
+You have not seen CreditCard before.
+Think: Now, I need to find the credit card. The credit card is more likely to appear on Sofa (1), CoffeeTable (1), or in TVStand (1), DiningTable (1-2), ArmChair (1-3). I can check each place one by one, starting from Sofa (1), until I find the credit card.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Box (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Statue (2), Laptop (1), KeyChain (1), CoffeeTable (1), Candle (1, 2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2), Statue (1, 3), Plate (1), DiningTable (1), Chair (1, 2), Box (2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Window (1), Pillow (1), ArmChair (1). 
+Act: go to ArmChair (2)
+You arrive at ArmChair (2). You see FloorLamp (1), ArmChair (2, 3). 
+Act: go to ArmChair (3)
+You arrive at ArmChair (3). You see ArmChair (2, 3). 
+Think: I find CreditCard (1). Now, I need to pick it up.
+OK.
+Act: recall location of CreditCard
+You have not seen CreditCard before.
+Think: Now, I need to find the credit card. The credit card is more likely to appear on Sofa (1), CoffeeTable (1), or in TVStand (1), DiningTable (1-2), ArmChair (1-3). I can check each place one by one, starting from Sofa (1), until I find the credit card.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Box (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Statue (2), Laptop (1), KeyChain (1), CoffeeTable (1), Candle (1, 2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2), Statue (1, 3), Plate (1), DiningTable (1), Chair (1, 2), Box (2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Window (1), Pillow (1), ArmChair (1). 
+Act: go to ArmChair (2)
+You arrive at ArmChair (2). You see FloorLamp (1), ArmChair (2, 3). 
+Act: go to ArmChair (3)
+You arrive at ArmChair (3). You see ArmChair (2, 3). 
+Think: I find CreditCard (1). Now, I need to pick it up.
+OK.
+Act: recall location of CreditCard
+You have not seen CreditCard before.
+Think: Now, I need to find the credit card. The credit card is more likely to appear on Sofa (1), CoffeeTable (1), or in TVStand (1), DiningTable (1-2), ArmChair (1-3). I can check each place one by one, starting from Sofa (1), until I find the credit card.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Box (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Statue (2), Laptop (1), KeyChain (1), CoffeeTable (1), Candle (1, 2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2), Statue (1, 3), Plate (1), DiningTable (1), Chair (1, 2), Box (2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Window (1), Pillow (1), ArmChair (1). 
+Act: go to ArmChair (2)
+You arrive at ArmChair (2). You see FloorLamp (1), ArmChair (2, 3). 
+Act: go to ArmChair (3)
+You arrive at ArmChair (3). You see ArmChair (2, 3). 
+Think: I find CreditCard (1). Now, I need to pick it up.
+OK.
+Act: recall location of CreditCard
+You have not seen CreditCard before.
+Think: Now, I need to find the credit card. The credit card is more likely to appear on Sofa (1), CoffeeTable (1), or in TVStand (1), DiningTable (1-2), ArmChair (1-3). I can check each place one by one, starting from Sofa (1), until I find the credit card.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Box (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Statue (2), Laptop (1), KeyChain (1), CoffeeTable (1), Candle (1, 2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2), Statue (1, 3), Plate (1), DiningTable (1), Chair (1, 2), Box (2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Window (1), Pillow (1), ArmChair (1). 
+Act: go to ArmChair (2)
+You arrive at ArmChair (2). You see FloorLamp (1), ArmChair (2, 3). 
+Act: go to ArmChair (3)
+You arrive at ArmChair (3). You see ArmChair (2, 3). 
+Think: I find CreditCard (1). Now, I need to pick it up.
+OK.
+Act: recall location of CreditCard
+You have not seen CreditCard before.
+Think: Now, I need to find the credit card. The credit card is more likely to appear on Sofa (1), CoffeeTable (1), or in TVStand (1), DiningTable (1-2), ArmChair (1-3). I can check each place one by one, starting from Sofa (1), until I find the credit card.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Box (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Statue (2), Laptop (1), KeyChain (1), CoffeeTable (1), Candle (1, 2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2), Statue (1, 3), Plate (1), DiningTable (1), Chair (1, 2), Box (2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Window (1), Pillow (1), ArmChair (1). 
+Act: go to ArmChair (2)
+You arrive at ArmChair (2). You see FloorLamp (1), ArmChair (2, 3). 
+Max decisions

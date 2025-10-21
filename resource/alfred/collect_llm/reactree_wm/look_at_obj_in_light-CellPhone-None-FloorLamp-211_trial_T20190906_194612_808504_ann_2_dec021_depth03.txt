@@ -1,0 +1,33 @@
+Your primary goal is to: Grab the phone from the tv cabinet, turn on the floor lamp in the corner
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: Grab the phone from the tv cabinet, and turn on the floor lamp in the corner.
+Your task is to: turn on the floor lamp in the corner
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1, 2), Shelf (1, 2, 3, 4, 5), GarbageCan (1), Drawer (1), CoffeeTable (1), ArmChair (1). I am holding CellPhone (1) now.
+Think: First, I need to recall location of the floor lamp.
+OK.
+Act: recall location of FloorLamp
+You have not seen FloorLamp before.
+Think: Now I need to find the floor lamp. The floor lamp is more likely to appear near Sofa (1), SideTable (1-2), CoffeeTable (1), ArmChair (1), Shelf (1-5). I can check each place one by one, starting from Sofa (1), until I find the floor lamp.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1), Newspaper (2), Laptop (1), CreditCard (1), CellPhone (1).  I am holding CellPhone (1) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Plate (1), Laptop (3), CreditCard (2), CellPhone (1).  I am holding CellPhone (1) now.
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Sofa (1), SideTable (2), RemoteControl (1), Pillow (1), Newspaper (2), Laptop (1), Drawer (1), CellPhone (1).  I am holding CellPhone (1) now.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Statue (2), Laptop (2), CoffeeTable (1), CellPhone (1, 3).  I am holding CellPhone (1) now.
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see CellPhone (1), ArmChair (1).  I am holding CellPhone (1) now.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Statue (1, 3), Shelf (5), CellPhone (1).  I am holding CellPhone (1) now.
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Television (1), TVStand (1), Shelf (2, 3), Newspaper (1), KeyChain (1), CellPhone (1, 2).  I am holding CellPhone (1) now.
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Television (1), TVStand (1), Shelf (2, 3), Newspaper (1), KeyChain (1), CellPhone (1, 2).  I am holding CellPhone (1) now.
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see Statue (1, 3), Shelf (5), CellPhone (1).  I am holding CellPhone (1) now.
+Act: go to Shelf (5)
+You arrive at Shelf (5). You see Statue (1, 3), Shelf (5), CellPhone (1).  I am holding CellPhone (1) now.
+Think: I cannot find the floor lamp.
+OK.
+Act: failure

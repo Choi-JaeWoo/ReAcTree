@@ -1,0 +1,19 @@
+Your primary goal is to: Put the bowl with turner on the sink counter
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up bowl, place bowl in sink basin, find and pick up turner, and place turner on bowl near sink basin.
+Your task is to: find and pick up turner
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20).
+Think: First, I need to recall location of the turner.
+OK.
+Act: recall location of Spatula
+You saw Spatula (1) near DiningTable (1).
+Think: Now, I need to find the turner. The turner is more likely to appear on DiningTable (1-2), CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-20), Drawer (1-6). I can check each place one by one, starting from DiningTable (1), until I find the turner.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Window (2), SprayBottle (1, 2), Spatula (1), Potato (3), Plate (3), PepperShaker (2), Lettuce (2), Fork (1), DishSponge (1), DiningTable (1), Cup (2), Chair (1), CellPhone (1). 
+Think: I find Spatula (1). Now, I need to pick it up.
+OK.
+Act: pick up Spatula (1)
+You pick up Spatula (1). You see Window (2), SprayBottle (1, 2), Spatula (1), Potato (3), Plate (3), PepperShaker (2), Lettuce (2), Fork (1), DishSponge (1), DiningTable (1), Cup (2), Chair (1), CellPhone (1). I am holding Spatula (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,23 @@
+Your primary goal is to: Pick up a vase, place it on the coffee table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up vase, and place vase on coffee table.
+Your task is to: find and pick up vase
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8), GarbageCan (1), CoffeeTable (1, 2), ArmChair (1, 2).
+Think: First, I need to recall location of the vase.
+OK.
+Act: recall location of Vase
+You have not seen Vase before.
+Think: Now, I need to find the vase. The vase is more likely to appear on CoffeeTable (1-2), or in Shelf (1-8). I can check each place one by one, starting from CoffeeTable (1), until I find the vase.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Statue (1), Sofa (1), HousePlant (1), CoffeeTable (1), ArmChair (2). 
+Act: go to CoffeeTable (2)
+You arrive at CoffeeTable (2). You see Laptop (1, 2), CoffeeTable (2). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Watch (1, 2), Vase (2), Television (1), TVStand (1), Shelf (1, 2, 3, 4, 8). 
+Think: I find Vase (2). Now, I need to pick it up.
+OK.
+Act: pick up Vase (2)
+You pick up Vase (2). You see Watch (1, 2), Vase (2), Television (1), TVStand (1), Shelf (4, 8). I am holding Vase (2) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,19 @@
+Your primary goal is to: Put the bowl with ladle in the cabinet
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up bowl, place bowl in cabinet, find and pick up ladle, and place ladle on bowl near cabinet.
+Your task is to: find and pick up ladle
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2).
+Think: First, I need to recall location of the ladle.
+OK.
+Act: recall location of Ladle
+You saw Ladle (2) near CounterTop (3). You saw Ladle (1) near Cabinet (1).
+Think: I can find Ladle (2) near CounterTop (3). I can find Ladle (1) near Cabinet (1).
+OK.
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Microwave (1), Ladle (2), CounterTop (3). 
+Think: I find Ladle (2). Now, I need to pick it up.
+OK.
+Act: pick up Ladle (2)
+You pick up Ladle (2). You see Microwave (1), Ladle (2), CounterTop (3). I am holding Ladle (2) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

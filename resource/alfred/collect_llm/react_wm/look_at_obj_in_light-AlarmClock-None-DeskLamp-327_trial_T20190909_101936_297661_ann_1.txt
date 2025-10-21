@@ -1,0 +1,35 @@
+Your task is to: Look at an alarm clock by the light of a lamp.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1, 2, 3, 4, 5), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), Desk (1), Bed (1).
+Think: To solve the task, I need to find and pick up the alarm clock. And I need to find and turn on the desk lamp.
+OK.
+Think: First, I need to recall location of the alarm clock.
+OK.
+Act: recall location of AlarmClock
+You have not seen AlarmClock before.
+Think: Now I need to find the alarm clock. The alarm clock is more likely to appear on Bed (1), Desk (1), Shelf (1-5), or in Drawer (1-8). I can check each place one by one, starting from Bed (1), until I find the alarm clock.
+OK.
+Act: go to Bed (1)
+You arrive at Bed (1). You see Pillow (1), Laptop (1, 2), Bed (1). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Window (1, 2), Shelf (4), Pencil (3), Pen (1), KeyChain (1), Desk (1), Chair (1), Book (1), AlarmClock (3). 
+Think: I find AlarmClock (3). Now, I need to pick it up.
+OK.
+Act: pick up AlarmClock (3)
+You pick up AlarmClock (3). You see Window (1, 2), Pencil (3), Pen (1), KeyChain (1), Desk (1), Chair (1), Book (1), AlarmClock (3). I am holding AlarmClock (3) now.
+Think: I hold AlarmClock (3). Now, I need to recall location of the desk lamp.
+OK.
+Act: recall location of DeskLamp
+You have not seen DeskLamp before.
+Think: Now I need to find the desk lamp The desk lamp is more likely to appear on Desk (1), Shelf (1-5). I can check each place one by one, starting from Desk (1), until I find the desk lamp.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Window (1, 2), Pencil (3), Pen (1), KeyChain (1), Desk (1), Chair (1), Book (1), AlarmClock (3).  I am holding AlarmClock (3) now.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), DeskLamp (1), AlarmClock (3).  I am holding AlarmClock (3) now.
+Think: I find DeskLamp (1). Now, I need to turn it on.
+OK.
+Act: turn on DeskLamp (1)
+You turn on DeskLamp (1). You see Shelf (1), DeskLamp (1), AlarmClock (3). I am holding AlarmClock (3) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

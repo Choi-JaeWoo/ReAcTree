@@ -1,0 +1,27 @@
+Your primary goal is to: Warm a tray up to put on the table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up tray, heat and pick up tray, and place tray on table.
+Your task is to: heat and pick up tray
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11). I am holding Pot (2) now.
+Think: I hold Pot (2). Now, I need to heat it using the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Pot (2), Microwave (1). Microwave (1) is closed.  I am holding Pot (2) now.
+Act: open Microwave (1)
+You open Microwave (1). You see Pot (2), Microwave (1). I am holding Pot (2) now.
+Act: put down Pot (2)
+You put down failed, drop it. You see Pot (2), Microwave (1).
+Act: close Microwave (1)
+You close Microwave (1). You see StoveBurner (2), Pan (1), Microwave (1), Fork (3), CounterTop (1).
+Act: turn on Microwave (1)
+You turn on Microwave (1). You see StoveBurner (2), Pan (1), Microwave (1), Fork (3), CounterTop (1).
+Act: turn off Microwave (1)
+You turn off Microwave (1). You see StoveBurner (2), Pan (1), Microwave (1), Fork (3), CounterTop (1).
+Think: I heat Pot (2) using Microwave (1). Now, I need to pick up the pot from the microwave.
+OK.
+Act: open Microwave (1)
+You open Microwave (1). You see StoveBurner (2), Pan (1), Microwave (1), Fork (3), CounterTop (1).
+Act: pick up Pan (1)
+You pick up Pan (1). You see Pan (1), Microwave (1), Fork (3), CounterTop (1). I am holding Pan (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

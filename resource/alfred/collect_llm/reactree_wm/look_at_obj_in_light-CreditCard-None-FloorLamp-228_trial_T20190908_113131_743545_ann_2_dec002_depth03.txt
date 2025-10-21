@@ -1,0 +1,19 @@
+Your primary goal is to: take the bank card from the coffee table, turn on the lamp
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up bank card, and find and turn on lamp.
+Your task is to: find and pick up bank card
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1, 2), SideTable (1, 2), GarbageCan (1), Drawer (1), DiningTable (1), CoffeeTable (1).
+Think: First, I need to recall location of the bank card.
+OK.
+Act: recall location of CreditCard
+You have not seen CreditCard before.
+Think: Now, I need to find the bank card. The bank card is more likely to appear on CoffeeTable (1), SideTable (1-2), or in Drawer (1). I can check each place one by one, starting from CoffeeTable (1), until I find the bank card.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (1), KeyChain (1), CreditCard (1), CoffeeTable (1). 
+Think: I find CreditCard (1). Now, I need to pick it up.
+OK.
+Act: pick up CreditCard (1)
+You pick up CreditCard (1). You see Vase (1), KeyChain (1), CreditCard (1), CoffeeTable (1). I am holding CreditCard (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

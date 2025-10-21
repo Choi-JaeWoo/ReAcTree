@@ -1,0 +1,7 @@
+Your task is to: Put a wooden bowl with a pencil in it on a black nightstand.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1), GarbageCan (1), Drawer (1, 2), Desk (1), Bed (1).
+Think: Since I’m not holding a wooden bowl, I need to accomplish 3 subgoals sequentially to solve the task. Find and pick up wooden bowl, find and pick up pencil, and place wooden bowl on black nightstand.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up wooden bowl, find and pick up pencil, place wooden bowl on black nightstand

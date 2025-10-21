@@ -1,0 +1,47 @@
+Your primary goal is to: Place sponge one and two on the toilet.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up sponge one, place sponge one on toilet, Find and pick up sponge two, and place sponge two on toilet.
+Your task is to: find and pick up sponge one
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1, 2), Toilet (1), ToiletPaperHanger (1), SinkBasin (1, 2), Shelf (1), HandTowelHolder (1), GarbageCan (1), CounterTop (1), Cabinet (1, 2, 3, 4), Bathtub (1), BathtubBasin (1).
+Think: First, I need to recall location of the sponge one.
+OK.
+Act: recall location of DishSponge
+You have not seen DishSponge before.
+Think: Now, I need to find the sponge one. The sponge one is more likely to appear on CounterTop (1), BathtubBasin (1), SinkBasin (1), Shelf (1), or in Cabinet (1-4). I can check each place one by one, starting from CounterTop (1), until I find the sponge one.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Sink (1, 2), SinkBasin (1, 2), PaperTowelRoll (1), Mirror (1), Faucet (3, 4), DishSponge (2), CounterTop (1), Candle (1), Cabinet (4). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ToiletPaper (1), SoapBar (1, 2), ShowerGlass (1), Cloth (1), Bathtub (1), BathtubBasin (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (2), SinkBasin (1), PaperTowelRoll (1), Mirror (1), Faucet (3), CounterTop (1), Candle (1), Cabinet (2, 3, 4). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Window (2), SprayBottle (1, 2, 3), ShowerGlass (1), ShowerDoor (1), Cloth (1), Bathtub (1). 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see ToiletPaper (2), Sink (1), GarbageCan (1), CounterTop (1), Cabinet (1, 3, 4). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see ToiletPaper (2), Sink (1), GarbageCan (1), CounterTop (1), Cabinet (1, 3, 4).
+Act: close Cabinet (1)
+You close Cabinet (1). You see ToiletPaper (2), Sink (1), GarbageCan (1), CounterTop (1), Cabinet (1, 3, 4).
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Sink (2), SinkBasin (1), ShowerGlass (1), ShowerDoor (1), CounterTop (1), Cabinet (2, 4). Cabinet (2) is closed. 
+Act: open Cabinet (2)
+You open Cabinet (2). You see ShowerGlass (1), ShowerDoor (1), Cabinet (2, 4).
+Act: close Cabinet (2)
+You close Cabinet (2). You see ShowerGlass (1), ShowerDoor (1), Cabinet (2, 4).
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see Sink (1, 2), SinkBasin (1), DishSponge (2), CounterTop (1), Cabinet (1, 2, 3, 4). Cabinet (3) is closed. 
+Act: open Cabinet (3)
+You open Cabinet (3). You see Cabinet (1, 2, 3, 4).
+Act: close Cabinet (3)
+You close Cabinet (3). You see Cabinet (1, 2, 3, 4).
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see Sink (1, 2), SinkBasin (2), DishSponge (2), CounterTop (1), Cabinet (1, 2, 3, 4). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+You open Cabinet (4). You see DishSponge (1), Cabinet (1, 2, 3, 4).
+Think: I find DishSponge (1). Now, I need to pick it up.
+OK.
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see DishSponge (1), Cabinet (1, 2, 3, 4). I am holding DishSponge (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

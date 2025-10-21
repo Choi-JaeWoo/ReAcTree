@@ -1,0 +1,53 @@
+Your task is to: Put a white plate with keys on it on a bench.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1, 2), SideTable (1), Shelf (1, 2), GarbageCan (1), CoffeeTable (1), ArmChair (1).
+Think: To solve the task, I need to find and pick up the white plate, then put it on the bench. And I need to find and pick up the keys, then put it on the white plate on the bench.
+OK.
+Think: First, I need to recall location of the white plate.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now I need to find the white plate. The white plate is more likely to appear on Sofa (1-2), SideTable (1), CoffeeTable (1), ArmChair (1), Shelf (1-2), or in Drawer (1). I can check each place one by one, starting from Sofa (1), until I find the white plate.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Box (1). 
+Act: go to Sofa (2)
+You arrive at Sofa (2). You see Sofa (2), Pillow (1), Newspaper (3), KeyChain (1), Curtains (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see WateringCan (3), Sofa (2), SideTable (1), RemoteControl (2), Lamp (1), KeyChain (2), Curtains (2, 3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see WateringCan (2), Vase (1), RemoteControl (1), Plate (1, 2, 3), Newspaper (2), HousePlant (1), CreditCard (3), CoffeeTable (1). 
+Think: I find Plate (1). Now, I need to pick it up.
+OK.
+Act: pick up Plate (1)
+You pick up Plate (1). You see WateringCan (2), Vase (1), RemoteControl (1), Plate (1, 2, 3), Newspaper (2), HousePlant (1), CreditCard (3), CoffeeTable (1). I am holding Plate (1) now.
+Think: I hold Plate (1). Now, I need to put it on the bench.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Plate (1), Box (1).  I am holding Plate (1) now.
+Act: put down Plate (1)
+You put Plate (1) on Sofa (1). You see Sofa (1), Plate (1), Box (1).
+Think: I put Plate (1) on the Sofa (1). Now, I need to recall location of the keys.
+OK.
+Act: recall location of KeyChain
+You saw KeyChain (1) near Sofa (2). You saw KeyChain (2) near SideTable (1).
+Think: KeyChain (1) is near Sofa (2). KeyChain (2) is near SideTable (1). Now, I need to pick up KeyChain (1) and KeyChain (2).
+OK.
+Act: go to Sofa (2)
+You arrive at Sofa (2). You see Sofa (2), Pillow (1), Newspaper (3), KeyChain (1), Curtains (1). 
+Act: pick up KeyChain (1)
+You pick up KeyChain (1). You see Sofa (2), Pillow (1), Newspaper (3), KeyChain (1), Curtains (1). I am holding KeyChain (1) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see WateringCan (3), Sofa (2), SideTable (1), RemoteControl (2), Lamp (1), KeyChain (1, 2), Curtains (2, 3).  I am holding KeyChain (1) now.
+Act: pick up KeyChain (2)
+You are currently holding KeyChain (1). I am holding KeyChain (1) now.
+Think: I hold KeyChain (1) and KeyChain (2). Now, I need to put them on the white plate on the bench.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Plate (1), KeyChain (1), Box (1).  I am holding KeyChain (1) now.
+Act: go to Plate (1)
+You arrive at Plate (1). You see Sofa (1), Plate (1), KeyChain (1), Box (1).  I am holding KeyChain (1) now.
+Act: put down KeyChain (1)
+You put KeyChain (1) on Plate (1). You see Sofa (1), Plate (1), KeyChain (1), Box (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

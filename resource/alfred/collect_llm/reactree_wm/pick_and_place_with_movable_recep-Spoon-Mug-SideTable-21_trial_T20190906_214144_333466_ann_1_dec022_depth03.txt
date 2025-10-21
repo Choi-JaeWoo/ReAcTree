@@ -1,0 +1,17 @@
+Your primary goal is to: Place a mug containing a spoon on a table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up mug, place spoon in mug, and place mug on table.
+Your task is to: place mug on table
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1, 2, 3), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: I hold Mug (1). Now, I need to put it on the table. I can see DiningTable (1-3).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spatula (2, 3), SoapBottle (2), Knife (1), DiningTable (1). 
+Think: I put Mug (1) on DiningTable (1). Now, I need to put Spoon (1) in Mug (1).
+OK.
+Act: pick up Spatula (2)
+You pick up Spatula (2). You see Spatula (2, 3), SoapBottle (2), Knife (1), DiningTable (1). I am holding Spatula (2) now.
+Act: put down Spatula (2)
+You put down failed, drop it. You see Spatula (3), SoapBottle (2), Knife (1), DiningTable (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

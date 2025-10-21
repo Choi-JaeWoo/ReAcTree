@@ -1,0 +1,27 @@
+Your primary goal is to: Put a cooked slice of tomato in the sink.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, slice and pick up tomato, heat and pick up tomato, and place tomato in sink basin.
+Your task is to: heat and pick up tomato
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8). I am holding Apple (6) now.
+Think: I hold Apple (6). Now, I need to heat it using the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see StoveBurner (1, 2), SaltShaker (3), Pan (1), Microwave (1), Lettuce (2), Apple (6). Microwave (1) is closed.  I am holding Apple (6) now.
+Act: open Microwave (1)
+You open Microwave (1). You see SaltShaker (3), Microwave (1), Lettuce (2), Apple (6). I am holding Apple (6) now.
+Act: put down Apple (6)
+You put Apple (6) on Microwave (1). You see SaltShaker (3), Microwave (1), Lettuce (2), Apple (6).
+Act: close Microwave (1)
+You close Microwave (1). You see StoveBurner (1, 2), SaltShaker (3), Pan (1), Microwave (1), Lettuce (2).
+Act: turn on Microwave (1)
+You turn on Microwave (1). You see StoveBurner (1, 2), SaltShaker (3), Pan (1), Microwave (1), Lettuce (2).
+Act: turn off Microwave (1)
+You turn off Microwave (1). You see StoveBurner (1, 2), SaltShaker (3), Pan (1), Microwave (1), Lettuce (2).
+Think: I heat Apple (6) using Microwave (1). Now, I need to pick up the apple from the microwave.
+OK.
+Act: open Microwave (1)
+You open Microwave (1). You see SaltShaker (3), Microwave (1), Lettuce (2), Apple (6).
+Act: pick up Apple (6)
+You pick up Apple (6). You see SaltShaker (3), Microwave (1), Lettuce (2), Apple (6). I am holding Apple (6) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,19 @@
+Your primary goal is to: Place a plate with a candle on it on a coffee table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up plate, place plate on coffee table, find and pick up candle, and place candle on plate near coffee table.
+Your task is to: find and pick up candle
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2), GarbageCan (1), DiningTable (1), CoffeeTable (1, 2), ArmChair (1, 2).
+Think: First, I need to recall location of the candle.
+OK.
+Act: recall location of Candle
+You saw Candle (1) near CoffeeTable (1). You saw Candle (2) near SideTable (2).
+Think: I can find Candle (1) near CoffeeTable (1). I can find Candle (2) near SideTable (2).
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Newspaper (1), HousePlant (1), CreditCard (1), CoffeeTable (1), Candle (1). 
+Think: I find Candle (1). Now, I need to pick it up.
+OK.
+Act: pick up Candle (1)
+You pick up Candle (1). You see Watch (2), Newspaper (1), HousePlant (1), CreditCard (1), CoffeeTable (1), Candle (1). I am holding Candle (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

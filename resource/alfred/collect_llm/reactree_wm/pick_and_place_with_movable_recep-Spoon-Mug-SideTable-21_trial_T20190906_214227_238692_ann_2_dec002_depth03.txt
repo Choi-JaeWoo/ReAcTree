@@ -1,0 +1,19 @@
+Your primary goal is to: Getting a coffee mug with spoon.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up mug, and find and pick up spoon.
+Your task is to: find and pick up mug
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1, 2, 3), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: First, I need to recall location of the mug.
+OK.
+Act: recall location of Mug
+You have not seen Mug before.
+Think: Now, I need to find the mug. The mug is more likely to appear on CoffeeMachine (1), CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1). I can check each place one by one, starting from CoffeeMachine (1), until I find the mug.
+OK.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see Sink (1), SinkBasin (1), Mug (1), Fridge (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (2). 
+Think: I find Mug (1). Now, I need to pick it up.
+OK.
+Act: pick up Mug (1)
+You pick up Mug (1). You see Sink (1), SinkBasin (1), Mug (1), Fridge (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (2). I am holding Mug (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

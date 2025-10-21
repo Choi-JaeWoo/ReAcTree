@@ -1,0 +1,7 @@
+Your task is to: place a cup with a pen in it in front of the computer
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1, 2), GarbageCan (1), Drawer (1, 2, 3, 4), DiningTable (1), Bed (1).
+Think: Since I’m not holding cup, I need to accomplish 3 subgoals sequentially to solve the task. Find and pick up cup, put pen in cup, and place cup in front of computer.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up cup, put pen in cup, place cup in front of computer

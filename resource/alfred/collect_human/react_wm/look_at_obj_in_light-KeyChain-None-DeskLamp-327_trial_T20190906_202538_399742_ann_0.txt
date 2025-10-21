@@ -1,0 +1,33 @@
+Your task is to: Inspect keys near a lit lamp.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1, 2, 3, 4, 5), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), Desk (1), Bed (1).
+Think: To solve the task, I need to find and pick up the keys. And I need to find and turn on the desk lamp.
+OK.
+Think: First, I need to recall location of the keys.
+OK.
+Act: recall location of KeyChain
+You have not seen KeyChain before.
+Think: Now I need to find the key chain. The key chain is more likely to appear on Bed (1), Desk (1), Shelf (1-5), or in Drawer (1-8). I can check each place one by one, starting from Bed (1), until I find the key chain.
+OK.
+Act: go to Bed (1)
+You arrive at Bed (1). You see Pillow (1), CellPhone (2), Book (2), Bed (1). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Window (1, 2), Shelf (4), Laptop (1), Desk (1), Chair (1), CD (2), Book (1), AlarmClock (2). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), KeyChain (2), DeskLamp (1). 
+Think: I find KeyChain (2). Now, I need to pick it up.
+OK.
+Act: pick up KeyChain (2)
+You pick up KeyChain (2). You see Shelf (1), KeyChain (2), DeskLamp (1). I am holding KeyChain (2) now.
+Think: I hold KeyChain (2). Now, I need to recall location of the desk lamp.
+OK.
+Act: recall location of DeskLamp
+You saw DeskLamp (1) near Shelf (1).
+Think: I can find DeskLamp (1) near Shelf (1). Now, I need to go to Shelf (1) and turn on DeskLamp (1).
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), KeyChain (2), DeskLamp (1).  I am holding KeyChain (2) now.
+Act: turn on DeskLamp (1)
+You turn on DeskLamp (1). You see Shelf (1), KeyChain (2), DeskLamp (1). I am holding KeyChain (2) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

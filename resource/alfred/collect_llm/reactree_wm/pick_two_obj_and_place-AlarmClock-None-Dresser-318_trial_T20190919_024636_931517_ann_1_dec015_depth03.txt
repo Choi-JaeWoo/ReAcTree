@@ -1,0 +1,19 @@
+Your primary goal is to: Move two alarm clocks to the right side of the desk. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up alarm clock, place alarm clock on desk, Find and pick up alarm clock away from desk, and place alarm clock on desk.
+Your task is to: Find and pick up alarm clock away from desk
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see GarbageCan (1), Dresser (1, 2), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13), Desk (1, 2), Cabinet (1), Bed (1, 2), ArmChair (1).
+Think: First, I need to recall location of the alarm clock.
+OK.
+Act: recall location of AlarmClock
+You saw AlarmClock (1) near Desk (1). You saw AlarmClock (2) near Desk (1). You saw AlarmClock (4) near Desk (1).
+Think: AlarmClock (1), AlarmClock (2), and AlarmClock (4) are on Desk (1). Now, I need to find another alarm clock. The alarm clock is more likely to appear on Desk (1-2), Bed (1-2), ArmChair (1), or in Drawer (1-13), Cabinet (1). I can check each place one by one, starting from Desk (2), until I find the alarm clock.
+OK.
+Act: go to Desk (2)
+You arrive at Desk (2). You see Pen (2), Laptop (2), Drawer (2, 5, 6, 9, 13), Desk (2), Chair (1), AlarmClock (3). 
+Think: I find AlarmClock (3). Now, I need to pick it up.
+OK.
+Act: pick up AlarmClock (3)
+You pick up AlarmClock (3). You see Pen (2), Laptop (2), Drawer (2, 5, 6, 9, 13), Desk (2), Chair (1), AlarmClock (3). I am holding AlarmClock (3) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

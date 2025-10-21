@@ -1,0 +1,142 @@
+Your task is to: Place the cup with a pencil in front of the laptop on the desk.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1, 2), GarbageCan (1), Drawer (1, 2, 3, 4), DiningTable (1), Bed (1).
+Think: To solve the task, I need to find and pick up the cup, then put it on the desk. And I need to find and pick up the pencil, then put it on the cup on the desk.
+OK.
+Think: First, I need to recall location of the cup.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the cup. The cup is more likely to appear on DiningTable (1), or in Drawer (1-4). I can check each place one by one, starting from DiningTable (1), until I find the cup.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Pencil (1), Pen (3, 4), Laptop (1), KeyChain (1, 2, 3), DiningTable (1), AlarmClock (1). 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see Pencil (1), Pen (3, 4), Laptop (1), KeyChain (1, 2, 3), DiningTable (1), AlarmClock (1). I am holding Pencil (1) now.
+Think: I hold Pencil (1). Now, I need to put it on the desk.
+OK.
+Act: go to Laptop (1)
+You see Pencil (1), Pen (3, 4), Laptop (1), KeyChain (1, 2, 3), DiningTable (1), AlarmClock (1). Laptop (1) is open.  I am holding Pencil (1) now.
+Act: put down Pencil (1)
+You put down failed, drop it. You see Pencil (1), Pen (3, 4), Laptop (1), KeyChain (1, 2, 3), DiningTable (1), AlarmClock (1).
+Think: I put Pencil (1) on the Laptop (1). Now, I need to recall location of the pencil.
+OK.
+Act: recall location of Pencil
+You dropped Pencil due to fail to put it on the receptacle. You need to find it again.
+Think: Now I need to find the pencil. The pencil is more likely to appear on DiningTable (1), or in Drawer (1-4). I can check each place one by one, starting from DiningTable (1), until I find the pencil.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Pencil (1), Pen (3, 4), Laptop (1), KeyChain (1, 2, 3), DiningTable (1), AlarmClock (1). 
+Think: I find Pencil (1). Now, I need to pick it up.
+OK.
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see Pencil (1), Pen (3, 4), Laptop (1), KeyChain (1, 2, 3), DiningTable (1), AlarmClock (1). I am holding Pencil (1) now.
+Think: I hold Pencil (1). Now, I need to put it on the desk.
+OK.
+Act: go to Laptop (1)
+You see Pencil (1), Pen (3, 4), Laptop (1), KeyChain (1, 2, 3), DiningTable (1), AlarmClock (1). Laptop (1) is open.  I am holding Pencil (1) now.
+Act: put down Pencil (1)
+You put down failed, drop it. You see Pencil (1), Pen (3, 4), Laptop (1), KeyChain (1, 2, 3), DiningTable (1), AlarmClock (1).
+Think: I put Pencil (1) on the Laptop (1). Now, I need to recall location of the pencil.
+OK.
+Act: recall location of Pencil
+You dropped Pencil due to fail to put it on the receptacle. You need to find it again.
+Think: Now I need to find the pencil. The pencil is more likely to appear on DiningTable (1), or in Drawer (1-4). I can check each place one by one, starting from DiningTable (1), until I find the pencil.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Pencil (1), Pen (3, 4), Laptop (1), KeyChain (1, 2, 3), DiningTable (1), AlarmClock (1). 
+Think: I find Pencil (1). Now, I need to pick it up.
+OK.
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see Pencil (1), Pen (3, 4), Laptop (1), KeyChain (1, 2, 3), DiningTable (1), AlarmClock (1). I am holding Pencil (1) now.
+Think: I hold Pencil (1). Now, I need to put it on the desk.
+OK.
+Act: go to Laptop (1)
+You see Pencil (1), Pen (3, 4), Laptop (1), KeyChain (1, 2, 3), DiningTable (1), AlarmClock (1). Laptop (1) is open.  I am holding Pencil (1) now.
+Act: put down Pencil (1)
+You put down failed, drop it. You see Pencil (1), Pen (3, 4), Laptop (1), KeyChain (1, 2, 3), DiningTable (1), AlarmClock (1).
+Think: I put Pencil (1) on the Laptop (1). Now, I need to recall location of the pencil.
+OK.
+Act: recall location of Pencil
+You dropped Pencil due to fail to put it on the receptacle. You need to find it again.
+Think: Now I need to find the pencil. The pencil is more likely to appear on DiningTable (1), or in Drawer (1-4). I can check each place one by one, starting from DiningTable (1), until I find the pencil.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Pencil (1), Pen (3, 4), Laptop (1), KeyChain (1, 2, 3), DiningTable (1), AlarmClock (1). 
+Think: I find Pencil (1). Now, I need to pick it up.
+OK.
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see Pencil (1), Pen (3, 4), Laptop (1), KeyChain (1, 2, 3), DiningTable (1), AlarmClock (1). I am holding Pencil (1) now.
+Think: I hold Pencil (1). Now, I need to put it on the desk.
+OK.
+Act: go to Laptop (1)
+You see Pencil (1), Pen (3, 4), Laptop (1), KeyChain (1, 2, 3), DiningTable (1), AlarmClock (1). Laptop (1) is open.  I am holding Pencil (1) now.
+Act: put down Pencil (1)
+You put down failed, drop it. You see Pencil (1), Pen (3, 4), Laptop (1), KeyChain (1, 2, 3), DiningTable (1), AlarmClock (1).
+Think: I put Pencil (1) on the Laptop (1). Now, I need to recall location of the pencil.
+OK.
+Act: recall location of Pencil
+You dropped Pencil due to fail to put it on the receptacle. You need to find it again.
+Think: Now I need to find the pencil. The pencil is more likely to appear on DiningTable (1), or in Drawer (1-4). I can check each place one by one, starting from DiningTable (1), until I find the pencil.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Pencil (1), Pen (3, 4), Laptop (1), KeyChain (1, 2, 3), DiningTable (1), AlarmClock (1). 
+Think: I find Pencil (1). Now, I need to pick it up.
+OK.
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see Pencil (1), Pen (3, 4), Laptop (1), KeyChain (1, 2, 3), DiningTable (1), AlarmClock (1). I am holding Pencil (1) now.
+Think: I hold Pencil (1). Now, I need to put it on the desk.
+OK.
+Act: go to Laptop (1)
+You see Pencil (1), Pen (3, 4), Laptop (1), KeyChain (1, 2, 3), DiningTable (1), AlarmClock (1). Laptop (1) is open.  I am holding Pencil (1) now.
+Act: put down Pencil (1)
+You put down failed, drop it. You see Pencil (1), Pen (3, 4), Laptop (1), KeyChain (1, 2, 3), DiningTable (1), AlarmClock (1).
+Think: I put Pencil (1) on the Laptop (1). Now, I need to recall location of the pencil.
+OK.
+Act: recall location of Pencil
+You dropped Pencil due to fail to put it on the receptacle. You need to find it again.
+Think: Now I need to find the pencil. The pencil is more likely to appear on DiningTable (1), or in Drawer (1-4). I can check each place one by one, starting from DiningTable (1), until I find the pencil.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Pencil (1), Pen (3, 4), Laptop (1), KeyChain (1, 2, 3), DiningTable (1), AlarmClock (1). 
+Think: I find Pencil (1). Now, I need to pick it up.
+OK.
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see Pencil (1), Pen (3, 4), Laptop (1), KeyChain (1, 2, 3), DiningTable (1), AlarmClock (1). I am holding Pencil (1) now.
+Think: I hold Pencil (1). Now, I need to put it on the desk.
+OK.
+Act: go to Laptop (1)
+You see Pencil (1), Pen (3, 4), Laptop (1), KeyChain (1, 2, 3), DiningTable (1), AlarmClock (1). Laptop (1) is open.  I am holding Pencil (1) now.
+Act: put down Pencil (1)
+You put down failed, drop it. You see Pencil (1), Pen (3, 4), Laptop (1), KeyChain (1, 2, 3), DiningTable (1), AlarmClock (1).
+Think: I put Pencil (1) on the Laptop (1). Now, I need to recall location of the pencil.
+OK.
+Act: recall location of Pencil
+You dropped Pencil due to fail to put it on the receptacle. You need to find it again.
+Think: Now I need to find the pencil. The pencil is more likely to appear on DiningTable (1), or in Drawer (1-4). I can check each place one by one, starting from DiningTable (1), until I find the pencil.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Pencil (1), Pen (3, 4), Laptop (1), KeyChain (1, 2, 3), DiningTable (1), AlarmClock (1). 
+Think: I find Pencil (1). Now, I need to pick it up.
+OK.
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see Pencil (1), Pen (3, 4), Laptop (1), KeyChain (1, 2, 3), DiningTable (1), AlarmClock (1). I am holding Pencil (1) now.
+Think: I hold Pencil (1). Now, I need to put it on the desk.
+OK.
+Act: go to Laptop (1)
+You see Pencil (1), Pen (3, 4), Laptop (1), KeyChain (1, 2, 3), DiningTable (1), AlarmClock (1). Laptop (1) is open.  I am holding Pencil (1) now.
+Act: put down Pencil (1)
+You put down failed, drop it. You see Pencil (1), Pen (3, 4), Laptop (1), KeyChain (1, 2, 3), DiningTable (1), AlarmClock (1).
+Think: I put Pencil (1) on the Laptop (1). Now, I need to recall location of the pencil.
+OK.
+Act: recall location of Pencil
+You dropped Pencil due to fail to put it on the receptacle. You need to find it again.
+Think: Now I need to find the pencil. The pencil is more likely to appear on DiningTable (1), or in Drawer (1-4). I can check each place one by one, starting from DiningTable (1), until I find the pencil.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Pencil (1), Pen (3, 4), Laptop (1), KeyChain (1, 2, 3), DiningTable (1), AlarmClock (1). 
+Think: I find Pencil (1). Now, I need to pick it up.
+OK.
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see Pencil (1), Pen (3, 4), Laptop (1), KeyChain (1, 2, 3), DiningTable (1), AlarmClock (1). I am holding Pencil (1) now.

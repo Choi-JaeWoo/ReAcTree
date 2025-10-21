@@ -1,0 +1,23 @@
+Your primary goal is to: To chill an egg and put it in the microwave. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up egg, cool and pick up egg, and place egg in microwave.
+Your task is to: cool and pick up egg
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), CounterTop (1, 2, 3, 4), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15). I am holding Knife (1) now.
+Think: I hold Knife (1). Now, I need to cool it using the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Knife (1), Fridge (1). Fridge (1) is closed.  I am holding Knife (1) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Potato (1), Pan (1), Knife (1), Fridge (1), Cabinet (12), Apple (1, 3). I am holding Knife (1) now.
+Act: put down Knife (1)
+You put Knife (1) on Fridge (1). You see Potato (1), Pan (1), Knife (1), Fridge (1), Cabinet (12), Apple (1, 3).
+Act: close Fridge (1)
+You close Fridge (1). You see Fridge (1).
+Think: I cool Knife (1) using Fridge (1). Now, I need to pick up the knife from the fridge.
+OK.
+Act: open Fridge (1)
+You open Fridge (1). You see Potato (1), Pan (1), Knife (1), Fridge (1), Cabinet (12), Apple (1, 3).
+Act: pick up Knife (1)
+You pick up Knife (1). You see Potato (1), Pan (1), Knife (1), Fridge (1), Cabinet (12), Apple (1, 3). I am holding Knife (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,13 @@
+Your primary goal is to: Put the washed egg on the table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up egg, clean and pick up egg, and place egg on table.
+Your task is to: place egg on table
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2), DiningTable (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10). I am holding Egg (3) now.
+Think: I hold Egg (3). Now, I need to put it on the table. I can see DiningTable (1).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1), Pot (2), Pen (2, 3), Pan (1), Lettuce (1), Knife (1), Fork (1), Egg (3), DishSponge (3), DiningTable (1), Chair (1, 2), Bowl (1).  I am holding Egg (3) now.
+Act: put down Egg (3)
+You put Egg (3) on DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1), Pot (2), Pen (2, 3), Pan (1), Lettuce (1), Knife (1), Fork (1), Egg (3), DishSponge (3), DiningTable (1), Chair (1, 2), Bowl (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

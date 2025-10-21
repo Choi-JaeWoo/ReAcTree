@@ -1,0 +1,19 @@
+Your primary goal is to: Put a pan with sliced potato on the round table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pan, place pan on countertop, find and pick up potato, and slice and pick up potato.
+Your task is to: find and pick up potato
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11).
+Think: First, I need to recall location of the potato.
+OK.
+Act: recall location of Potato
+You saw Potato (1) near SinkBasin (1).
+Think: I can find Potato (1) near SinkBasin (1).
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), Potato (1), Faucet (1), Drawer (1, 2), CounterTop (2), Cabinet (2, 4, 8). 
+Think: I find Potato (1). Now, I need to pick it up.
+OK.
+Act: pick up Potato (1)
+You pick up Potato (1). You see Sink (1), SinkBasin (1), Potato (1), Faucet (1), Drawer (1, 2), CounterTop (2), Cabinet (2, 4, 8). I am holding Potato (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

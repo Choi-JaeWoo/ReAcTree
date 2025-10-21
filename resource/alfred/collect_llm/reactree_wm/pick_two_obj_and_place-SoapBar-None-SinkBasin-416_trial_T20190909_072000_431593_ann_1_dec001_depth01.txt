@@ -1,0 +1,7 @@
+Your task is to: place two bars of soap inside the bathroom sink on the left
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1, 2), HandTowelHolder (1, 2), GarbageCan (1), Drawer (1, 2), CounterTop (1).
+Think: Since I’m not holding any soap, I need to accomplish 3 subgoals sequentially to solve the task. Find and pick up soap, place soap in sink basin, and find and pick up soap.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up soap, place soap in sink basin, find and pick up soap

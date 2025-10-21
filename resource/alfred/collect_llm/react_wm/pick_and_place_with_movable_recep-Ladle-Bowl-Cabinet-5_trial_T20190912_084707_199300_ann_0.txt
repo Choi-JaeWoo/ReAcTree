@@ -1,0 +1,49 @@
+Your task is to: Place a bowl with a ladle in it in a cabinet.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20).
+Think: To solve the task, I need to find and pick up the bowl. And I need to find and pick up the ladle, then put it in the bowl. And I need to put down the bowl, then pick it up again. And I need to put it in the cabinet.
+OK.
+Think: First, I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: Now I need to find the bowl. The bowl is more likely to appear on CoffeeMachine (1), CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-20), Drawer (1-3), Shelf (1-3). I can check each place one by one, starting from CoffeeMachine (1), until I find the bowl.
+OK.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see Tomato (3), Toaster (1), Sink (1), SinkBasin (1), Plate (1), Mug (1), Faucet (1), Cup (1), CounterTop (1), CoffeeMachine (1), ButterKnife (1). 
+Think: I find Bowl (1). Now, I need to pick it up.
+OK.
+Act: pick up Mug (1)
+You pick up Mug (1). You see Tomato (3), Toaster (1), Sink (1), SinkBasin (1), Plate (1), Mug (1), Faucet (1), Cup (1), CounterTop (1), CoffeeMachine (1), ButterKnife (1). I am holding Mug (1) now.
+Think: I hold Mug (1). Now, I need to recall location of the ladle.
+OK.
+Act: recall location of Ladle
+You have not seen Ladle before.
+Think: Now I need to find the ladle. The ladle is more likely to appear on CoffeeMachine (1), CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-20), Drawer (1-3), Shelf (1-3). I can check each place one by one, starting from CoffeeMachine (1), until I find the ladle.
+OK.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see Tomato (3), Toaster (1), Sink (1), SinkBasin (1), Plate (1), Mug (1), Faucet (1), Cup (1), CounterTop (1), CoffeeMachine (1), ButterKnife (1).  I am holding Mug (1) now.
+Think: I find Ladle (1). Now, I need to pick it up.
+OK.
+Act: pick up Mug (1)
+You are currently holding Mug (1). I am holding Mug (1) now.
+Think: I hold Mug (1). Now, I need to put it in the bowl.
+OK.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see Tomato (3), Toaster (1), Sink (1), SinkBasin (1), Plate (1), Mug (1), Faucet (1), Cup (1), CounterTop (1), CoffeeMachine (1), ButterKnife (1).  I am holding Mug (1) now.
+Act: put down Mug (1)
+You put Mug (1) on CoffeeMachine (1). You see Tomato (3), Toaster (1), Sink (1), SinkBasin (1), Plate (1), Mug (1), Faucet (1), Cup (1), CounterTop (1), CoffeeMachine (1), ButterKnife (1).
+Think: I put Mug (1) in CoffeeMachine (1). Now, I need to pick up the bowl.
+OK.
+Act: pick up Mug (1)
+You pick up Mug (1). You see Tomato (3), Toaster (1), Sink (1), SinkBasin (1), Plate (1), Mug (1), Faucet (1), Cup (1), CounterTop (1), CoffeeMachine (1), ButterKnife (1). I am holding Mug (1) now.
+Think: I pick up Mug (1) from CoffeeMachine (1). Now, I need to put it in the cabinet.
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Tomato (3, 3), Toaster (1, 1), Sink (1, 1), SinkBasin (1, 1), Plate (1, 1), Mug (1, 1, 1), Fridge (1), Faucet (1, 1), Cup (1, 1), CounterTop (1, 1), CoffeeMachine (1, 1), Cabinet (1, 19), ButterKnife (1, 1). Cabinet (1) is closed.  I am holding Mug (1) now.
+Act: open Cabinet (1)
+You open Cabinet (1). You see Mug (1), Fridge (1), Cabinet (1, 19). I am holding Mug (1) now.
+Act: put down Mug (1)
+You put Mug (1) on Cabinet (1). You see Mug (1), Fridge (1), Cabinet (1, 19).
+Think: Now I accomplish the goal.
+OK.
+Act: done

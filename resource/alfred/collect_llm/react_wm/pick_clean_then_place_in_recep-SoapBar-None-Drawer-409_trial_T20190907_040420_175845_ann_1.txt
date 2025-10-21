@@ -1,0 +1,23 @@
+Your task is to: Move a bar of soap.
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1, 2), Toilet (1), ToiletPaperHanger (1), SinkBasin (1), HandTowelHolder (1, 2), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), CounterTop (1).
+Think: To solve the task, I need to find and pick up the bar of soap, then put it on the counter top.
+OK.
+Think: First, I need to recall location of the bar of soap.
+OK.
+Act: recall location of SoapBar
+You have not seen SoapBar before.
+Think: Now I need to find the bar of soap. The bar of soap is more likely to appear on CounterTop (1), SinkBasin (1), or in Drawer (1-6). I can check each place one by one, starting from CounterTop (1), until I find the bar of soap.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see SoapBar (1), Sink (1), SinkBasin (1), Mirror (1), Faucet (1), Drawer (1, 2, 3, 4, 5, 6), CounterTop (1), Cloth (2), Candle (2). 
+Think: I find SoapBar (1). Now, I need to pick it up.
+OK.
+Act: pick up SoapBar (1)
+You pick up SoapBar (1). You see SoapBar (1), Sink (1), SinkBasin (1), Mirror (1), Faucet (1), Drawer (1, 2, 3, 4, 5, 6), CounterTop (1), Cloth (2), Candle (2). I am holding SoapBar (1) now.
+Think: I hold SoapBar (1). Now, I need to put it on the counter top.
+OK.
+Act: put down SoapBar (1)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), Mirror (1), Faucet (1), Drawer (1, 2, 3, 4, 5, 6), CounterTop (1), Cloth (2), Candle (2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

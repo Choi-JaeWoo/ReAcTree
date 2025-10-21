@@ -1,0 +1,23 @@
+Your primary goal is to: Put two newspapers on a chair's cushion.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up newspaper, place newspaper on chair, Find and pick up newspaper away from chair, and place newspaper on chair.
+Your task is to: Find and pick up newspaper away from chair
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2, 3), Shelf (1), GarbageCan (1), Drawer (1, 2, 3, 4), DiningTable (1), ArmChair (1).
+Think: First, I need to recall location of the newspaper.
+OK.
+Act: recall location of Newspaper
+You saw Newspaper (2) near ArmChair (1).
+Think: Newspaper (2) is on ArmChair (1). Now, I need to find another newspaper. The newspaper is more likely to appear on Sofa (1), SideTable (1-3), Shelf (1), DiningTable (1), ArmChair (1), or in Drawer (1-4). I can check each place one by one, starting from Sofa (1), until I find the newspaper.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Laptop (1), CreditCard (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1), Statue (2), SideTable (1), RemoteControl (2), Drawer (2, 4). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Window (1), Vase (3), Statue (3), SideTable (2), Newspaper (1), HousePlant (1), Drawer (1). 
+Think: I find Newspaper (1). Now, I need to pick it up.
+OK.
+Act: pick up Newspaper (1)
+You pick up Newspaper (1). You see Window (1), Vase (3), Statue (3), SideTable (2), Newspaper (1), HousePlant (1), Drawer (1). I am holding Newspaper (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

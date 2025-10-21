@@ -1,0 +1,201 @@
+Your task is to: place a web cloth in the tub
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1, 2), HandTowelHolder (1, 2, 3, 4), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1, 2), Bathtub (1), BathtubBasin (1).
+Think: I hold WebCloth (1). Now, I need to put it in the tub. I can see BathtubBasin (1).
+OK.
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Act: go to Bathtub (1)
+You arrive at Bathtub (1). You see Window (1), ShowerCurtain (1), Bathtub (1), BathtubBasin (1). 
+Max decisions

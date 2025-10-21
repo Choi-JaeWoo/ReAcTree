@@ -1,0 +1,13 @@
+Your primary goal is to: Place two bottles in a cabinet
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up bottle, place bottle in cabinet, find and pick up bottle away from cabinet, and place bottle in cabinet.
+Your task is to: place bottle in cabinet
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1), HandTowelHolder (1), GarbageCan (1), Drawer (1), CounterTop (1, 2), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9), BathtubBasin (1). I am holding SoapBottle (3) now.
+Think: I hold SoapBottle (3). Now, I need to put it in the cabinet. I can see Cabinet (1).
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see SoapBottle (2, 3), Drawer (1), DishSponge (1), Cabinet (1, 2, 4, 9). Cabinet (1) is open.  I am holding SoapBottle (3) now.
+Act: put down SoapBottle (3)
+You put SoapBottle (3) on Cabinet (1). You see SoapBottle (2, 3), Drawer (1), DishSponge (1), Cabinet (1, 2, 4, 7, 9).
+Think: Now I accomplish the goal.
+OK.
+Act: done

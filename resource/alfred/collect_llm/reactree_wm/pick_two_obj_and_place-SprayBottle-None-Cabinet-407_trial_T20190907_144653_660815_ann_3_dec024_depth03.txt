@@ -1,0 +1,13 @@
+Your primary goal is to: Put two spray bottles on the bottom shelf of the cabinet under the right-hand sink.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up spray bottle, place spray bottle on bottom shelf of cabinet, find and pick up spray bottle away from cabinet, and place spray bottle on bottom shelf of cabinet.
+Your task is to: place spray bottle on bottom shelf of cabinet
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1, 2), HandTowelHolder (1), GarbageCan (1), CounterTop (1), Cabinet (1, 2, 3, 4), Bathtub (1), BathtubBasin (1). I am holding Cloth (1) now.
+Think: I hold Cloth (1). Now, I need to put it on the bottom shelf of the cabinet. I can see Cabinet (1).
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Sink (1, 2), SinkBasin (1, 2), Faucet (1), CounterTop (1), Cloth (1), Candle (2), Cabinet (1, 2, 3, 4). Cabinet (1) is open.  I am holding Cloth (1) now.
+Act: put down Cloth (1)
+You put Cloth (1) on Cabinet (1). You see Sink (1, 2), SinkBasin (1, 2), Faucet (1), CounterTop (1), Cloth (1), Candle (2), Cabinet (1, 2, 3, 4).
+Think: Now I accomplish the goal.
+OK.
+Act: done

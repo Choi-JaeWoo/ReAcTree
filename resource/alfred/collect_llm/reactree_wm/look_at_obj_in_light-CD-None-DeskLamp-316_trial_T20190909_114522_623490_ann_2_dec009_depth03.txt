@@ -1,0 +1,9 @@
+Your primary goal is to: pick up the cd and turn on the light 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up cd, and turn on light.
+Your task is to: turn on light
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1), GarbageCan (1), Drawer (1, 2), Desk (1), Bed (1). I am holding CD (1) now.
+Think: I hold CD (1). Now, I need to find and turn on either the floor lamp or the desk lamp.
+OK.
+Expand:
+- control flow: fallback
+- subgoals: find and turn on the floor lamp, find and turn on the desk lamp

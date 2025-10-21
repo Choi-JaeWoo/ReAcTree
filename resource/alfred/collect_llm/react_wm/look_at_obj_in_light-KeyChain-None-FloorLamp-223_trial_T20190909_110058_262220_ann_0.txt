@@ -1,0 +1,39 @@
+Your task is to: pick up the keys on the table and view them in the lamp light
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), GarbageCan (1), DiningTable (1, 2), CoffeeTable (1), ArmChair (1, 2, 3).
+Think: To solve the task, I need to find and pick up the keys. And I need to find and turn on the desk lamp.
+OK.
+Think: First, I need to recall location of the keys.
+OK.
+Act: recall location of KeyChain
+You have not seen KeyChain before.
+Think: Now I need to find the key chain. The key chain is more likely to appear on TVStand (1), Sofa (1), DiningTable (1-2), CoffeeTable (1), ArmChair (1-3). I can check each place one by one, starting from TVStand (1), until I find the key chain.
+OK.
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), Statue (2), DiningTable (2), Candle (1). 
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1), KeyChain (1, 2), Box (2). 
+Think: I find KeyChain (1). Now, I need to pick it up.
+OK.
+Act: pick up KeyChain (1)
+You pick up KeyChain (1). You see Sofa (1), Pillow (1), KeyChain (1, 2), Box (2). I am holding KeyChain (1) now.
+Think: I hold KeyChain (1). Now, I need to recall location of the desk lamp.
+OK.
+Act: recall location of DeskLamp
+You have not seen DeskLamp before.
+Think: Now I need to find the desk lamp The desk lamp is more likely to appear on DiningTable (1-2), CoffeeTable (1), ArmChair (1-3). I can check each place one by one, starting from DiningTable (1), until I find the desk lamp.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (2), Statue (1), RemoteControl (1), Plate (1, 2), Laptop (1), KeyChain (1), DiningTable (1), CreditCard (1), Chair (1, 2), Candle (3), Box (1).  I am holding KeyChain (1) now.
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), Statue (2), KeyChain (1), DiningTable (2), Candle (1).  I am holding KeyChain (1) now.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Statue (3), KeyChain (1, 3, 4), CoffeeTable (1), Candle (2).  I am holding KeyChain (1) now.
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Window (1), KeyChain (1), ArmChair (1).  I am holding KeyChain (1) now.
+Act: go to ArmChair (2)
+You arrive at ArmChair (2). You see KeyChain (1), FloorLamp (1), ArmChair (2, 3).  I am holding KeyChain (1) now.
+Act: go to ArmChair (3)
+You arrive at ArmChair (3). You see KeyChain (1), ArmChair (2, 3).  I am holding KeyChain (1) now.
+Think: I cannot find DeskLamp.
+OK.
+Act: failure

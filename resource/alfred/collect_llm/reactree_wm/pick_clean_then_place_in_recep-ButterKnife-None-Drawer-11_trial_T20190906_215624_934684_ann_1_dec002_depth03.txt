@@ -1,0 +1,19 @@
+Your primary goal is to: Clean a knife to put it away.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, clean knife, find and pick up sponge, and and place knife in sink basin.
+Your task is to: find and pick up knife
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10).
+Think: First, I need to recall location of the knife.
+OK.
+Act: recall location of Knife
+You have not seen Knife before.
+Think: Now, I need to find the knife. The knife is more likely to appear on DiningTable (1), CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-10), Drawer (1-6). I can check each place one by one, starting from DiningTable (1), until I find the knife.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (1, 2), Spatula (1), SaltShaker (1), Potato (1), Plate (3), PepperShaker (1), PaperTowelRoll (1), Knife (1), Kettle (1), Fork (1, 3), DishSponge (3), DiningTable (1), Cup (1), Chair (1), Bowl (3). 
+Think: I find Knife (1). Now, I need to pick it up.
+OK.
+Act: pick up Knife (1)
+You pick up Knife (1). You see Tomato (1, 2), Spatula (1), SaltShaker (1), Potato (1), Plate (3), PepperShaker (1), PaperTowelRoll (1), Knife (1), Kettle (1), Fork (1, 3), DishSponge (3), DiningTable (1), Cup (1), Chair (1), Bowl (3). I am holding Knife (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

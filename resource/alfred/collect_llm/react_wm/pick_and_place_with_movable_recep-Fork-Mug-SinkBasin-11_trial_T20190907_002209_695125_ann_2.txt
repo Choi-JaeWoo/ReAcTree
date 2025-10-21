@@ -1,0 +1,43 @@
+Your task is to: Place a mug and fork in the sink.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10).
+Think: To solve the task, I need to find and pick up the mug, then put it in the sink basin. And I need to find and pick up the fork, then put it in the sink basin.
+OK.
+Think: First, I need to recall location of the mug.
+OK.
+Act: recall location of Mug
+You have not seen Mug before.
+Think: Now I need to find the mug. The mug is more likely to appear on DiningTable (1), CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-10), Drawer (1-6). I can check each place one by one, starting from DiningTable (1), until I find the mug.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spatula (1), PaperTowelRoll (1), Lettuce (2), Knife (2), Kettle (3), Fork (1, 3), Egg (2), DiningTable (1), Chair (1), Apple (1, 3). 
+Think: I find Mug (1). Now, I need to pick it up.
+OK.
+Act: pick up Fork (1)
+You pick up Fork (1). You see Spatula (1), PaperTowelRoll (1), Lettuce (2), Knife (2), Kettle (3), Fork (1, 3), Egg (2), DiningTable (1), Chair (1), Apple (1, 3). I am holding Fork (1) now.
+Think: I hold Fork (1). Now, I need to put it in the sink basin.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (1), Spatula (2), Sink (1), SinkBasin (1), Knife (1), Fork (1), Faucet (1), Drawer (2), CounterTop (2), Cabinet (1, 3, 6).  I am holding Fork (1) now.
+Act: put down Fork (1)
+You put Fork (1) on SinkBasin (1). You see Window (1), Spatula (2), Sink (1), SinkBasin (1), Knife (1), Fork (1), Faucet (1), Drawer (2), CounterTop (2), Cabinet (1, 3, 6).
+Think: I put Fork (1) in SinkBasin (1). Now, I need to recall location of the fork.
+OK.
+Act: recall location of Fork
+You saw Fork (1) near SinkBasin (1). You saw Fork (3) near DiningTable (1).
+Think: I can find Fork (3) near DiningTable (1).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spatula (1), PaperTowelRoll (1), Lettuce (2), Knife (2), Kettle (3), Fork (3), Egg (2), DiningTable (1), Chair (1), Apple (1, 3). 
+Think: I find Fork (3). Now, I need to pick it up.
+OK.
+Act: pick up Fork (3)
+You pick up Fork (3). You see Spatula (1), PaperTowelRoll (1), Lettuce (2), Knife (2), Kettle (3), Fork (3), Egg (2), DiningTable (1), Chair (1), Apple (1, 3). I am holding Fork (3) now.
+Think: I hold Fork (3). Now, I need to put it in the sink basin.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (1), Spatula (2), Sink (1), SinkBasin (1), Knife (1), Fork (1, 3), Faucet (1), Drawer (2), CounterTop (2), Cabinet (1, 3, 6).  I am holding Fork (3) now.
+Act: put down Fork (3)
+You put Fork (3) on SinkBasin (1). You see Window (1), Spatula (2), Sink (1), SinkBasin (1), Knife (1), Fork (1, 3), Faucet (1), Drawer (2), CounterTop (2), Cabinet (1, 3, 6).
+Think: Now I accomplish the goal.
+OK.
+Act: done

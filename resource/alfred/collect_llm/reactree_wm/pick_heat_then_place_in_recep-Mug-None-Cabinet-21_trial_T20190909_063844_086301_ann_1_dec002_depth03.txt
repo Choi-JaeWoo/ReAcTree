@@ -1,0 +1,27 @@
+Your primary goal is to: To heat a mug and put it in the cabinet. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up mug, heat and pick up mug, and place mug in cabinet.
+Your task is to: find and pick up mug
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1, 2, 3), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: First, I need to recall location of mug.
+OK.
+Act: recall location of Mug
+You have not seen Mug before.
+Think: Now, I need to find the mug. The mug is more likely to appear on CoffeeMachine (1), CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1). I can check each place one by one, starting from CoffeeMachine (1), until I find the mug.
+OK.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see Tomato (1), Sink (1), SinkBasin (1), Fridge (1), Fork (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (2), Apple (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see SoapBottle (1), Sink (1), SinkBasin (1), SideTable (1), SaltShaker (1, 2), Potato (1, 2, 3), Fork (1, 2), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (1), Sink (1), SinkBasin (1), Potato (2, 3), Fork (1, 2), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), CoffeeMachine (1), Cabinet (2, 4), Apple (1). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1). Fridge (1) is closed. 
+Act: open Fridge (1)
+You open Fridge (1). You see Mug (2), Fridge (1).
+Think: I find Mug (2). Now, I need to pick it up.
+OK.
+Act: pick up Mug (2)
+You pick up Mug (2). You see Mug (2), Fridge (1). I am holding Mug (2) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

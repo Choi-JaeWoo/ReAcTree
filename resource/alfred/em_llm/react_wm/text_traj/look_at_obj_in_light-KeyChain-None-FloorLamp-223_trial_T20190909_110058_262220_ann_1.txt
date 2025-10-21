@@ -1,0 +1,35 @@
+Your task is to: Examine a set of keys by the light of a tall lamp.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), GarbageCan (1), DiningTable (1, 2), CoffeeTable (1), ArmChair (1, 2, 3).
+Think: To solve the task, I need to find and pick up the keys. And I need to find and turn on the floor lamp.
+OK.
+Think: First, I need to recall location of the keys.
+OK.
+Act: recall location of KeyChain
+You have not seen KeyChain before.
+Think: Now I need to find the key chain. The key chain is more likely to appear on TVStand (1), Sofa (1), CoffeeTable (1), ArmChair (1-3), or in DiningTable (1-2). I can check each place one by one, starting from TVStand (1), until I find the key chain.
+OK.
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), Statue (2), DiningTable (2), Candle (1). 
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1), KeyChain (1, 2), Box (2). 
+Think: I find KeyChain (1). Now, I need to pick it up.
+OK.
+Act: pick up KeyChain (1)
+You pick up KeyChain (1). You see Sofa (1), Pillow (1), KeyChain (1, 2), Box (2). I am holding KeyChain (1) now.
+Think: I hold KeyChain (1). Now, I need to recall location of the floor lamp.
+OK.
+Act: recall location of FloorLamp
+You have not seen FloorLamp before.
+Think: Now I need to find the floor lamp The floor lamp is more likely to appear on ArmChair (1-3). I can check each place one by one, starting from ArmChair (1), until I find the floor lamp.
+OK.
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Window (1), KeyChain (1), ArmChair (1).  I am holding KeyChain (1) now.
+Act: go to ArmChair (2)
+You arrive at ArmChair (2). You see KeyChain (1), FloorLamp (1), ArmChair (2, 3).  I am holding KeyChain (1) now.
+Think: I find FloorLamp (1). Now, I need to turn it on.
+OK.
+Act: turn on FloorLamp (1)
+You turn on FloorLamp (1). You see KeyChain (1), FloorLamp (1), ArmChair (2, 3). I am holding KeyChain (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

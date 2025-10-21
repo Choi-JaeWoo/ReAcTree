@@ -1,0 +1,19 @@
+Your primary goal is to: put two pencils on night stand
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pencil, place pencil on night stand, Find and pick up pencil away from night stand, and place pencil on night stand.
+Your task is to: Find and pick up pencil away from night stand
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1, 2), GarbageCan (1), Drawer (1, 2, 3, 4), DiningTable (1), Bed (1).
+Think: First, I need to recall location of the pencil.
+OK.
+Act: recall location of Pencil
+You saw Pencil (1) near SideTable (1). You saw Pencil (2) near DiningTable (1). You saw Pencil (3) near DiningTable (1). You saw Pencil (4) near DiningTable (1).
+Think: I can find Pencil (1) near SideTable (1). I can find Pencil (2) near DiningTable (1). I can find Pencil (3) near DiningTable (1). I can find Pencil (4) near DiningTable (1).
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (1), Drawer (1, 2), Bed (1), AlarmClock (1). 
+Think: I find Pencil (1). Now, I need to pick it up.
+OK.
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see SideTable (1), Pencil (1), Drawer (1, 2), Bed (1), AlarmClock (1). I am holding Pencil (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,51 @@
+Your task is to: Put a warmed slice of tomato on the table.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2), DiningTable (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10).
+Think: To solve the task, I need to find and pick up the tomato, then put it in the microwave. And I need to turn on and off the microwave. And I need to pick up the tomato from the microwave, then put it on the table.
+OK.
+Think: First, I need to recall location of the tomato.
+OK.
+Act: recall location of Tomato
+You have not seen Tomato before.
+Think: Now I need to find the tomato. The tomato is more likely to appear on DiningTable (1), CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-10), Drawer (1-2). I can check each place one by one, starting from DiningTable (1), until I find the tomato.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Knife (1), DiningTable (1), Chair (1, 2). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), Spatula (1), Sink (1), SinkBasin (1), PepperShaker (2), Drawer (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 7). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (1, 2), Toaster (1), Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Mug (2), Fork (1), Faucet (1), CounterTop (1), Cabinet (4, 7). 
+Think: I find Tomato (1). Now, I need to pick it up.
+OK.
+Act: pick up Tomato (1)
+You pick up Tomato (1). You see Tomato (1, 2), Toaster (1), Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Mug (2), Fork (1), Faucet (1), CounterTop (1), Cabinet (4, 7). I am holding Tomato (1) now.
+Think: I hold Tomato (1). Now, I need to put it in the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Tomato (1), StoveKnob (3, 4), StoveBurner (3), Pan (1), Microwave (1). Microwave (1) is closed.  I am holding Tomato (1) now.
+Act: open Microwave (1)
+You open Microwave (1). You see Tomato (1), StoveKnob (3, 4), StoveBurner (3), Pan (1), Microwave (1). I am holding Tomato (1) now.
+Act: put down Tomato (1)
+You put Tomato (1) on Microwave (1). You see Tomato (1), StoveKnob (1, 2, 3, 4), StoveBurner (3), Pan (1), Microwave (1).
+Think: I put Tomato (1) in Microwave (1). Now, I need to turn on and off Microwave (1).
+OK.
+Act: turn on Microwave (1)
+
+Think: Now, I need to pick up the tomato from the microwave.
+OK.
+Act: recall location of Tomato
+You saw Tomato (1) near Microwave (1). You saw Tomato (2) near SinkBasin (1).
+Think: I can find Tomato (1) near Microwave (1).
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Tomato (1), StoveKnob (1, 2, 3, 4), StoveBurner (3), Pan (1), Microwave (1). Microwave (1) is open. 
+Act: pick up Tomato (1)
+You pick up Tomato (1). You see Tomato (1), StoveKnob (3, 4), StoveBurner (3), Pan (1), Microwave (1). I am holding Tomato (1) now.
+Think: I pick up Tomato (1) from Microwave (1). Now, I need to put it on the table.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (1), Knife (1), DiningTable (1), Chair (1, 2).  I am holding Tomato (1) now.
+Act: put down Tomato (1)
+You put Tomato (1) on DiningTable (1). You see Tomato (1), Knife (1), DiningTable (1), Chair (1, 2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

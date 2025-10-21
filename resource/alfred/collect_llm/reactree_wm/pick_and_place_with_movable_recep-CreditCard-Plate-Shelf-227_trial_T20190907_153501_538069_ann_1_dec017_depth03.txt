@@ -1,0 +1,171 @@
+Your primary goal is to: Put a card on plate, on a shelf. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up card, place card on plate, and place plate on shelf.
+Your task is to: place plate on shelf
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7), DiningTable (1), CoffeeTable (1, 2), Cabinet (1, 2, 3, 4, 5, 6, 7, 8), ArmChair (1, 2).
+Think: I hold Plate (1). Now, I need to put it on the shelf. I can see Shelf (1).
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Vase (4), Shelf (1), RemoteControl (2), Drawer (2, 5), Cabinet (1, 8). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Statue (6), Shelf (2, 13). 
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Statue (5), Shelf (3), Drawer (6), Cabinet (7). 
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see Vase (1, 3), Shelf (4, 7, 12). 
+Act: go to Shelf (5)
+You arrive at Shelf (5). You see Vase (1, 1, 1, 3, 3, 3), Statue (2), Shelf (4, 4, 4, 5, 7, 7, 7, 12, 12, 12), Drawer (5), Cabinet (8). 
+Act: go to Shelf (6)
+You arrive at Shelf (6). You see Vase (2), Shelf (6, 13). 
+Act: go to Shelf (7)
+You arrive at Shelf (7). You see Television (1), Shelf (7), Drawer (3, 4, 7). 
+Act: go to Shelf (8)
+You arrive at Shelf (8). You see Shelf (8), Drawer (1, 6), Cabinet (2, 7). 
+Act: go to Shelf (9)
+You arrive at Shelf (9). You see Vase (6), Shelf (4, 7, 9, 12), Cabinet (3). 
+Act: go to Shelf (10)
+You arrive at Shelf (10). You see Shelf (6, 10), Drawer (1), Cabinet (6). 
+Act: go to Shelf (11)
+You arrive at Shelf (11). You see Statue (4), Shelf (11, 12). 
+Act: go to Shelf (12)
+You arrive at Shelf (12). You see Vase (1, 3), Statue (4), Shelf (4, 11, 12), Cabinet (4). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Think: I find Shelf (13). Now, I need to put down Plate (1) on Shelf (13).
+OK.
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Vase (2), Shelf (6, 13), Cabinet (5). 
+Max decisions

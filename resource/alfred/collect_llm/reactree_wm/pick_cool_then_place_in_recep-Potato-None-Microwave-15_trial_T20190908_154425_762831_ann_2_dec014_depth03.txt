@@ -1,0 +1,21 @@
+Your primary goal is to: Put a cold potato in the microwave.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up potato, cool and pick up potato, and place potato in microwave.
+Your task is to: cool and pick up potato
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11). I am holding Apple (3) now.
+Think: I hold Apple (3). Now, I need to cool it using the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Apple (3). Fridge (1) is open.  I am holding Apple (3) now.
+Act: put down Apple (3)
+You put Apple (3) on Fridge (1). You see Fridge (1), Apple (3).
+Act: close Fridge (1)
+You close Fridge (1). You see GarbageCan (1), Fridge (1).
+Think: I cool Apple (3) using Fridge (1). Now, I need to pick up the apple from the fridge.
+OK.
+Act: open Fridge (1)
+You open Fridge (1). You see Fridge (1), Apple (3).
+Act: pick up Apple (3)
+You pick up Apple (3). You see Fridge (1), Apple (3). I am holding Apple (3) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,13 @@
+Your primary goal is to: place bowl on end table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up bowl, place watch in bowl, and place bowl on end table.
+Your task is to: place watch in bowl
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14), GarbageCan (1), Drawer (1, 2), DiningTable (1), Bed (1, 2). I am holding Bowl (1) now.
+Think: I hold Bowl (1). Now, I need to put watch in it. I can see Watch (1).
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Watch (1, 2), SideTable (1), Pen (1), KeyChain (1), CreditCard (3), Bowl (1), Bed (1, 2).  I am holding Bowl (1) now.
+Act: pick up Watch (1)
+You are currently holding Bowl (1). I am holding Bowl (1) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Watch (1, 2), SideTable (1), Pen (1), KeyChain (1), CreditCard (3), Bowl (1), Bed (1, 2).  I am holding Bowl (1) now.
+Max decisions

@@ -1,0 +1,21 @@
+Your primary goal is to: Put the keys into the dresser drawer
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up keys, and place keys in dresser drawer.
+Your task is to: find and pick up keys
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Safe (1), LaundryHamper (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11), Bed (1).
+Think: First, I need to recall location of the keys.
+OK.
+Act: recall location of KeyChain
+You have not seen KeyChain before.
+Think: Now, I need to find the key chain. The key chain is more likely to appear on Bed (1), SideTable (1), or in Drawer (1-11). I can check each place one by one, starting from Bed (1), until I find the key chain.
+OK.
+Act: go to Bed (1)
+You arrive at Bed (1). You see Pillow (1, 2), Laptop (2), Book (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), KeyChain (3), Drawer (2), DeskLamp (1), CreditCard (2), Bed (1), AlarmClock (1). 
+Think: I find KeyChain (3). Now, I need to pick it up.
+OK.
+Act: pick up KeyChain (3)
+You pick up KeyChain (3). You see SideTable (1), KeyChain (3), Drawer (2), DeskLamp (1), CreditCard (2), Bed (1), AlarmClock (1). I am holding KeyChain (3) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

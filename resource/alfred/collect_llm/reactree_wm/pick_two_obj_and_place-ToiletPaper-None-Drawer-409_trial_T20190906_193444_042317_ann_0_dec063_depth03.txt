@@ -1,0 +1,11 @@
+Your primary goal is to: Grab the toilet paper roll, set it inside the drawer, take the empty roll and put it inside the drawer
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up toilet paper roll, place toilet paper roll in drawer, find and pick up empty roll, place empty roll in drawer, and close drawer.
+Your task is to: close drawer
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1, 2), Toilet (1), ToiletPaperHanger (1), SinkBasin (1), HandTowelHolder (1, 2), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), CounterTop (1).
+Think: I can see Drawer (1). Now, I need to close it.
+OK.
+Act: close Drawer (1)
+You close Drawer (1). You see SprayBottle (1, 3), Sink (1), SinkBasin (1), Mirror (1), GarbageCan (1), Faucet (1), Drawer (1, 3, 4, 5, 6), CounterTop (1), Candle (2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

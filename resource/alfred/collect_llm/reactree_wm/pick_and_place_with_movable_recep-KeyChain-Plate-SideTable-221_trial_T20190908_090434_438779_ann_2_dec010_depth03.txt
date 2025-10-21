@@ -1,0 +1,23 @@
+Your primary goal is to: Put keys on a plate and return them to a table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up keys, place keys on plate, and place plate on table.
+Your task is to: place keys on plate
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1), GarbageCan (1), Drawer (1), DiningTable (1), CoffeeTable (1, 2), ArmChair (1). I am holding KeyChain (1) now.
+Think: I hold KeyChain (1). Now, I need to recall location of the plate.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now, I need to find the plate. The plate is more likely to appear on DiningTable (1), CoffeeTable (1-2), or in Drawer (1). I can check each place one by one, starting from DiningTable (1), until I find the plate.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1), RemoteControl (1), Laptop (2), KeyChain (1, 2), DiningTable (1), Chair (1, 3, 4, 5), Box (1).  I am holding KeyChain (1) now.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), Plate (1, 2), Laptop (1), KeyChain (1), CoffeeTable (1).  I am holding KeyChain (1) now.
+Think: I find Plate (1). Now, I need to put down KeyChain (1) on Plate (1).
+OK.
+Act: go to Plate (1)
+You arrive at Plate (1). You see Vase (2), Plate (1, 2), Laptop (1), KeyChain (1), CoffeeTable (1).  I am holding KeyChain (1) now.
+Act: put down KeyChain (1)
+You put KeyChain (1) on Plate (1). You see Vase (2), Plate (1, 2), Laptop (1), KeyChain (1), CoffeeTable (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

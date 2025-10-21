@@ -1,0 +1,23 @@
+Your primary goal is to: Put a spoon on a plate on the table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up spoon, find and pick up plate, and place spoon on plate near table.
+Your task is to: find and pick up spoon
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11).
+Think: First, I need to recall location of the spoon.
+OK.
+Act: recall location of Spoon
+You have not seen Spoon before.
+Think: Now, I need to find the spoon. The spoon is more likely to appear on DiningTable (1), CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-11), Drawer (1-3). I can check each place one by one, starting from DiningTable (1), until I find the spoon.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Window (1), Lettuce (1), DiningTable (1), Chair (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (3), StoveKnob (4), StoveBurner (2), Spatula (2), SoapBottle (3), SaltShaker (1), Potato (1), Knife (2), Kettle (3), Drawer (2), CounterTop (1), Cabinet (11), ButterKnife (1), Bread (2). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Spoon (3), SoapBottle (1), Knife (1), Drawer (1), CounterTop (2), CoffeeMachine (1), Cabinet (1, 3, 6), Bread (1). 
+Think: I find Spoon (3). Now, I need to pick it up.
+OK.
+Act: pick up Spoon (3)
+You pick up Spoon (3). You see Spoon (3), SoapBottle (1), Knife (1), Drawer (1), CounterTop (2), CoffeeMachine (1), Cabinet (1, 3, 6), Bread (1). I am holding Spoon (3) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

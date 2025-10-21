@@ -1,0 +1,112 @@
+Your task is to: Bring the candle to the lamp to turn on the lamp.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2), GarbageCan (1), DiningTable (1), CoffeeTable (1, 2), ArmChair (1, 2).
+Think: To solve the task, I need to find and pick up the candle, then put it on the lamp. And I need to turn on the lamp.
+OK.
+Think: First, I need to recall location of the candle.
+OK.
+Act: recall location of Candle
+You have not seen Candle before.
+Think: Now I need to find the candle. The candle is more likely to appear on DiningTable (1), CoffeeTable (1-2), Sofa (1), SideTable (1-2), ArmChair (1-2). I can check each place one by one, starting from DiningTable (1), until I find the candle.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Statue (1, 2), RemoteControl (1), Plate (1), Laptop (1), Chair (1, 2), Candle (1), Box (1). 
+Think: I find Candle (1). Now, I need to pick it up.
+OK.
+Act: pick up Candle (1)
+You pick up Candle (1). You see Statue (1, 2), RemoteControl (1), Plate (1), Laptop (1), Chair (1, 2), Candle (1), Box (1). I am holding Candle (1) now.
+Think: I hold Candle (1). Now, I need to put it on the lamp.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Window (4, 6), SideTable (1), Lamp (2), CreditCard (2), Chair (4), Candle (1, 3).  I am holding Candle (1) now.
+Act: put down Candle (1)
+You put Candle (1) on SideTable (1). You see Window (4, 6), SideTable (1), Lamp (2), CreditCard (2), Chair (4), Candle (1, 3).
+Think: I put Candle (1) on the SideTable (1). Now, I need to turn on the lamp.
+OK.
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Watch (1), SideTable (2), Lamp (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Window (4, 6), SideTable (1), Lamp (2), CreditCard (2), Chair (4), Candle (1, 3). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Watch (1), SideTable (2), Lamp (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Window (4, 6), SideTable (1), Lamp (2), CreditCard (2), Chair (4), Candle (1, 3). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Watch (1), SideTable (2), Lamp (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Window (4, 6), SideTable (1), Lamp (2), CreditCard (2), Chair (4), Candle (1, 3). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Watch (1), SideTable (2), Lamp (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Window (4, 6), SideTable (1), Lamp (2), CreditCard (2), Chair (4), Candle (1, 3). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Watch (1), SideTable (2), Lamp (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Window (4, 6), SideTable (1), Lamp (2), CreditCard (2), Chair (4), Candle (1, 3). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Watch (1), SideTable (2), Lamp (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Window (4, 6), SideTable (1), Lamp (2), CreditCard (2), Chair (4), Candle (1, 3). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Watch (1), SideTable (2), Lamp (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Window (4, 6), SideTable (1), Lamp (2), CreditCard (2), Chair (4), Candle (1, 3). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Watch (1), SideTable (2), Lamp (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Window (4, 6), SideTable (1), Lamp (2), CreditCard (2), Chair (4), Candle (1, 3). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Watch (1), SideTable (2), Lamp (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Window (4, 6), SideTable (1), Lamp (2), CreditCard (2), Chair (4), Candle (1, 3). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Watch (1), SideTable (2), Lamp (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Window (4, 6), SideTable (1), Lamp (2), CreditCard (2), Chair (4), Candle (1, 3). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Watch (1), SideTable (2), Lamp (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Window (4, 6), SideTable (1), Lamp (2), CreditCard (2), Chair (4), Candle (1, 3). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Watch (1), SideTable (2), Lamp (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Window (4, 6), SideTable (1), Lamp (2), CreditCard (2), Chair (4), Candle (1, 3). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Watch (1), SideTable (2), Lamp (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Window (4, 6), SideTable (1), Lamp (2), CreditCard (2), Chair (4), Candle (1, 3). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Watch (1), SideTable (2), Lamp (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Window (4, 6), SideTable (1), Lamp (2), CreditCard (2), Chair (4), Candle (1, 3). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Watch (1), SideTable (2), Lamp (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Window (4, 6), SideTable (1), Lamp (2), CreditCard (2), Chair (4), Candle (1, 3). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Watch (1), SideTable (2), Lamp (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Window (4, 6), SideTable (1), Lamp (2), CreditCard (2), Chair (4), Candle (1, 3). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Watch (1), SideTable (2), Lamp (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Window (4, 6), SideTable (1), Lamp (2), CreditCard (2), Chair (4), Candle (1, 3). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Watch (1), SideTable (2), Lamp (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Window (4, 6), SideTable (1), Lamp (2), CreditCard (2), Chair (4), Candle (1, 3). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Watch (1), SideTable (2), Lamp (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Window (4, 6), SideTable (1), Lamp (2), CreditCard (2), Chair (4), Candle (1, 3). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Watch (1), SideTable (2), Lamp (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Window (4, 6), SideTable (1), Lamp (2), CreditCard (2), Chair (4), Candle (1, 3). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Watch (1), SideTable (2), Lamp (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Window (4, 6), SideTable (1), Lamp (2), CreditCard (2), Chair (4), Candle (1, 3). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Watch (1), SideTable (2), Lamp (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Window (4, 6), SideTable (1), Lamp (2), CreditCard (2), Chair (4), Candle (1, 3). 

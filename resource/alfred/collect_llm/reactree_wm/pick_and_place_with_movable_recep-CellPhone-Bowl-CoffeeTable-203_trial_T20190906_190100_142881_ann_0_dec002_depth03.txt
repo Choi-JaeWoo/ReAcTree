@@ -1,0 +1,63 @@
+Your primary goal is to: Place a bowl with a phone in it on a coffee table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up bowl, put phone in bowl, and place bowl on coffee table.
+Your task is to: find and pick up bowl
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1), Ottoman (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7), DiningTable (1), CoffeeTable (1), ArmChair (1).
+Think: First, I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: Now, I need to find the bowl. The bowl is more likely to appear on CoffeeTable (1), SideTable (1), or in Drawer (1-7). I can check each place one by one, starting from CoffeeTable (1), until I find the bowl.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (3), TissueBox (1), Pencil (2), Newspaper (2), Laptop (1), Drawer (2, 6, 7), CoffeeTable (1), CellPhone (2, 4). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see WateringCan (1), Watch (1), SideTable (1), KeyChain (2), HousePlant (1), Drawer (4), CreditCard (2). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Watch (3), TissueBox (1), Pencil (2), Newspaper (2), Laptop (1), Drawer (1, 3, 5), CoffeeTable (1), CellPhone (2, 4). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Watch (3), TissueBox (1), Pencil (1, 2), Newspaper (2), Laptop (1), Drawer (1, 3), CoffeeTable (1), CellPhone (2, 4).
+Act: close Drawer (1)
+You close Drawer (1). You see Watch (3), TissueBox (1), Pencil (2), Newspaper (2), Laptop (1), Drawer (1, 3, 5), CoffeeTable (1), CellPhone (2, 4).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (3), TissueBox (1), Pencil (2), Newspaper (2), Laptop (1), Drawer (2, 6, 7), CoffeeTable (1), CellPhone (2, 4). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see Watch (3), TissueBox (1), Pencil (2), Newspaper (2), Laptop (1), Drawer (2, 7), CoffeeTable (1), CellPhone (2, 4).
+Act: close Drawer (2)
+You close Drawer (2). You see Watch (3), TissueBox (1), Pencil (2), Newspaper (2), Laptop (1), Drawer (2, 6, 7), CoffeeTable (1), CellPhone (2, 4).
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Watch (3), TissueBox (1), Pencil (2), Newspaper (2), Laptop (1), Drawer (1, 3, 5), CoffeeTable (1), CellPhone (2, 4). Drawer (3) is closed. 
+Act: open Drawer (3)
+You open Drawer (3). You see Watch (3), TissueBox (1), Pencil (2), Newspaper (2), Laptop (1), Drawer (3), CoffeeTable (1), CellPhone (2, 4).
+Act: close Drawer (3)
+You close Drawer (3). You see Watch (3), TissueBox (1), Pencil (2), Newspaper (2), Laptop (1), Drawer (1, 3, 5), CoffeeTable (1), CellPhone (2, 4).
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see WateringCan (1), Watch (1), SideTable (1), KeyChain (2), HousePlant (1), Drawer (4), CreditCard (2). Drawer (4) is closed. 
+Act: open Drawer (4)
+You open Drawer (4). You see Watch (1), SideTable (1), KeyChain (2), HousePlant (1), Drawer (4), CreditCard (2).
+Act: close Drawer (4)
+You close Drawer (4). You see WateringCan (1), Watch (1), SideTable (1), KeyChain (2), HousePlant (1), Drawer (4), CreditCard (2).
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Watch (3), TissueBox (1), Pencil (2), Newspaper (2), Laptop (1), Drawer (1, 3, 5), CoffeeTable (1), CellPhone (2, 4). Drawer (5) is closed. 
+Act: open Drawer (5)
+You open Drawer (5). You see Watch (3), TissueBox (1), Pencil (2), Newspaper (2), Laptop (1), Drawer (1, 3, 5), CoffeeTable (1), CellPhone (2, 4).
+Act: close Drawer (5)
+You close Drawer (5). You see Watch (3), TissueBox (1), Pencil (2), Newspaper (2), Laptop (1), Drawer (1, 3, 5), CoffeeTable (1), CellPhone (2, 4).
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Watch (3), TissueBox (1), Pencil (2), Newspaper (2), Laptop (1), Drawer (2, 6, 7), CoffeeTable (1), CellPhone (2, 4). Drawer (6) is closed. 
+Act: open Drawer (6)
+You open Drawer (6). You see Watch (3), TissueBox (1), Pencil (2), Newspaper (2), Laptop (1), Drawer (2, 6, 7), CoffeeTable (1), CellPhone (2, 4).
+Act: close Drawer (6)
+You close Drawer (6). You see Watch (3), TissueBox (1), Pencil (2), Newspaper (2), Laptop (1), Drawer (2, 6, 7), CoffeeTable (1), CellPhone (2, 4).
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see Watch (3), TissueBox (1), Pencil (2), Newspaper (2), Laptop (1), Drawer (2, 6, 7), CoffeeTable (1), CellPhone (2, 4). Drawer (7) is closed. 
+Act: open Drawer (7)
+You open Drawer (7). You see Watch (3), TissueBox (1), Pencil (2), Newspaper (2), Laptop (1), Drawer (7), CoffeeTable (1), CellPhone (2, 4).
+Act: close Drawer (7)
+You close Drawer (7). You see Watch (3), TissueBox (1), Pencil (2), Newspaper (2), Laptop (1), Drawer (2, 6, 7), CoffeeTable (1), CellPhone (2, 4).
+Think: I find Bowl (1). Now, I need to pick it up.
+OK.
+Act: pick up Watch (3)
+You pick up Watch (3). You see Watch (3), TissueBox (1), Pencil (2), Newspaper (2), Laptop (1), Drawer (2, 6, 7), CoffeeTable (1), CellPhone (2, 4). I am holding Watch (3) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

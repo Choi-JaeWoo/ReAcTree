@@ -1,0 +1,61 @@
+Your task is to: To move two rolls of toilet paper to the back of the toilet. 
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1, 2), HandTowelHolder (1), GarbageCan (1), CounterTop (1), Cabinet (1, 2, 3, 4), Bathtub (1), BathtubBasin (1).
+Think: To solve the task, I need to find and pick up the toilet paper, then put it on the back of the toilet. And I need to find and pick up another toilet paper, then put it on the back of the toilet.
+OK.
+Think: First, I need to recall location of the toilet paper.
+OK.
+Act: recall location of ToiletPaper
+You have not seen ToiletPaper before.
+Think: Now I need to find the toilet paper. The toilet paper is more likely to appear on ToiletPaperHanger (1), CounterTop (1), or in Cabinet (1-4). I can check each place one by one, starting from ToiletPaperHanger (1), until I find the toilet paper.
+OK.
+Act: go to ToiletPaperHanger (1)
+You arrive at ToiletPaperHanger (1). You see Toilet (1), ToiletPaperHanger (1), SprayBottle (1), SoapBottle (1), Sink (2), SinkBasin (1), Plunger (1), Mirror (1), Faucet (1), CounterTop (1), Cabinet (2, 3). 
+Think: I find ToiletPaper (1). Now, I need to pick it up.
+OK.
+Act: pick up SoapBottle (1)
+You pick up SoapBottle (1). You see Toilet (1), SprayBottle (1), SoapBottle (1), Sink (2), SinkBasin (1), Plunger (1), Mirror (1), Faucet (1), CounterTop (1), Cabinet (2, 3). I am holding SoapBottle (1) now.
+Think: I hold SoapBottle (1). Now, I need to put it on the back of the toilet.
+OK.
+Act: go to Toilet (1)
+You arrive at Toilet (1). You see Toilet (1), ToiletPaperHanger (1), SoapBottle (1), ScrubBrush (1), Plunger (1), Cabinet (3). Toilet (1) is closed.  I am holding SoapBottle (1) now.
+Act: open Cabinet (3)
+You open Cabinet (3). You see Toilet (1), ToiletPaperHanger (1), SoapBottle (1), ScrubBrush (1), Plunger (1), Cabinet (3). I am holding SoapBottle (1) now.
+Act: put down SoapBottle (1)
+You put SoapBottle (1) on Toilet (1). You see Toilet (1), ToiletPaperHanger (1), SoapBottle (1), ScrubBrush (1), Plunger (1), Cabinet (3).
+Act: close Cabinet (3)
+You close Cabinet (3). You see Toilet (1), ToiletPaperHanger (1), SoapBottle (1), ScrubBrush (1), Plunger (1), Cabinet (3).
+Think: I put SoapBottle (1) on the back of the toilet. Now, I need to recall location of ToiletPaper.
+OK.
+Act: recall location of ToiletPaper
+You have not seen ToiletPaper before.
+Think: Now I need to find another toilet paper. The toilet paper is more likely to appear on CounterTop (1), or in Cabinet (1-4). I can check each place one by one, starting from CounterTop (1), until I find the toilet paper.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see SprayBottle (1), SoapBar (1), Sink (1, 2), SinkBasin (1, 2), Mirror (1), Faucet (1, 3), CounterTop (1), Cabinet (1, 2, 3, 4). 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see SoapBar (3), Sink (1), SinkBasin (2), Faucet (3), CounterTop (1), Cabinet (1, 2, 4). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see SoapBar (3), Sink (1), SinkBasin (2), Faucet (3), CounterTop (1), Cabinet (1, 2, 4).
+Act: close Cabinet (1)
+You close Cabinet (1). You see SoapBar (3), Sink (1), SinkBasin (2), Faucet (3), CounterTop (1), Cabinet (1, 2, 4).
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see SoapBar (1), Sink (1, 2), SinkBasin (1, 2), Faucet (1), CounterTop (1), Cabinet (1, 2, 3, 4). Cabinet (2) is closed. 
+Act: open Cabinet (2)
+You open Cabinet (2). You see ToiletPaper (3), SprayBottle (2), SoapBar (1), Sink (1, 2), SinkBasin (1), CounterTop (1), Cabinet (1, 2, 3, 4).
+Think: I find ToiletPaper (3). Now, I need to pick it up.
+OK.
+Act: pick up ToiletPaper (3)
+You pick up ToiletPaper (3). You see ToiletPaper (3), SprayBottle (2), SoapBar (1), Sink (1, 2), SinkBasin (1), CounterTop (1), Cabinet (1, 2, 3, 4). I am holding ToiletPaper (3) now.
+Think: I hold ToiletPaper (3). Now, I need to put it on the back of the toilet.
+OK.
+Act: go to Toilet (1)
+You arrive at Toilet (1). You see Toilet (1), ToiletPaper (3), ToiletPaperHanger (1), SoapBottle (1), ScrubBrush (1), Plunger (1), Cabinet (2, 3). Toilet (1) is closed.  I am holding ToiletPaper (3) now.
+Act: open Cabinet (2)
+The Cabinet (2) is already open. I am holding ToiletPaper (3) now.
+Act: put down ToiletPaper (3)
+You put ToiletPaper (3) on Toilet (1). You see Toilet (1), ToiletPaper (3), ToiletPaperHanger (1), SoapBottle (1), ScrubBrush (1), Plunger (1), Cabinet (2, 3).
+Act: close Cabinet (2)
+You close Cabinet (2). You see Toilet (1), ToiletPaper (3), ToiletPaperHanger (1), SoapBottle (1), ScrubBrush (1), Plunger (1), Cabinet (3).
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,39 @@
+Your task is to: turn on a lamp in the corner of the room while holding a credit card
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2, 3, 4, 5), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21), Cabinet (1), ArmChair (1).
+Think: To solve the task, I need to find and pick up the credit card. And I need to find and turn on the lamp.
+OK.
+Think: First, I need to recall location of the credit card.
+OK.
+Act: recall location of CreditCard
+You have not seen CreditCard before.
+Think: Now I need to find the credit card. The credit card is more likely to appear on Sofa (1), SideTable (1-5), ArmChair (1), or in Drawer (1-21), Cabinet (1). I can check each place one by one, starting from Sofa (1), until I find the credit card.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1), Newspaper (2), Laptop (1), CreditCard (2), Box (3). 
+Think: I find CreditCard (2). Now, I need to pick it up.
+OK.
+Act: pick up CreditCard (2)
+You pick up CreditCard (2). You see Sofa (1), Pillow (1), Newspaper (2), Laptop (1), CreditCard (2), Box (3). I am holding CreditCard (2) now.
+Think: I hold CreditCard (2). Now, I need to recall location of the lamp.
+OK.
+Act: recall location of FloorLamp
+You have not seen FloorLamp before.
+Think: Now I need to find the floor lamp The floor lamp is more likely to appear on Sofa (1), SideTable (1-5), ArmChair (1), or in Drawer (1-21), Cabinet (1). I can check each place one by one, starting from Sofa (1), until I find the floor lamp.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1), Newspaper (2), Laptop (1), CreditCard (2), Box (3).  I am holding CreditCard (2) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), KeyChain (1), GarbageCan (1), Drawer (3, 5, 19), DeskLamp (1), CreditCard (2).  I am holding CreditCard (2) now.
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), Painting (2), Drawer (15), CreditCard (2, 3), Box (2).  I am holding CreditCard (2) now.
+Act: go to SideTable (3)
+You arrive at SideTable (3). You see Window (2), SideTable (3), CreditCard (2), Cabinet (1).  I am holding CreditCard (2) now.
+Act: go to SideTable (4)
+You arrive at SideTable (4). You see SideTable (4), GarbageCan (1), Drawer (3, 11, 16, 19, 20), CreditCard (2), Book (1).  I am holding CreditCard (2) now.
+Act: go to SideTable (5)
+You arrive at SideTable (5). You see Statue (1, 2), SideTable (5), Drawer (3, 11, 16, 20), CreditCard (2), Chair (4).  I am holding CreditCard (2) now.
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Window (4, 5), CreditCard (2), ArmChair (1).  I am holding CreditCard (2) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

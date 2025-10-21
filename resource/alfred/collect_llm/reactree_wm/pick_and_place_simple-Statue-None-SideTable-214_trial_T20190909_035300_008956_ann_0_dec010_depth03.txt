@@ -1,0 +1,13 @@
+Your primary goal is to: Move a statue to a side table. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up statue, and place statue on side table.
+Your task is to: place statue on side table
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1, 2), SideTable (1), Shelf (1, 2), GarbageCan (1), CoffeeTable (1), ArmChair (1). I am holding Statue (3) now.
+Think: I hold Statue (3). Now, I need to put it on the side table. I can see SideTable (1).
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Statue (3), Sofa (2), SideTable (1), Lamp (1), KeyChain (1), Curtains (2, 3), CreditCard (1).  I am holding Statue (3) now.
+Act: put down Statue (3)
+You put Statue (3) on SideTable (1). You see Statue (3), Sofa (2), SideTable (1), Lamp (1), KeyChain (1), Curtains (2, 3), CreditCard (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

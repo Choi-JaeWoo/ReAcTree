@@ -1,0 +1,19 @@
+Your primary goal is to: To move two pens to the top drawer of the television stand.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pen, place pen on drawer, Find and pick up pen away from drawer, and place pen on drawer.
+Your task is to: Find and pick up pen away from drawer
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), LaundryHamper (1), GarbageCan (1), Dresser (1), Drawer (1, 2), DiningTable (1), CounterTop (1), Bed (1), ArmChair (1, 2).
+Think: First, I need to recall location of the pen.
+OK.
+Act: recall location of Pen
+You saw Pen (2) near Drawer (1).
+Think: I can find Pen (2) near Drawer (1).
+OK.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Television (1, 1, 1, 1, 1), Pen (2, 2, 2, 2, 2), Dresser (1, 1, 1, 1, 1), Drawer (1, 1, 1, 1, 1), Chair (2), CellPhone (1, 1, 1, 1, 1), CD (2, 2, 2, 2, 2, 3, 3, 3, 3, 3), ArmChair (2). Drawer (1) is open. 
+Think: I find Pen (2). Now, I need to pick it up.
+OK.
+Act: pick up Pen (2)
+You pick up Pen (2). You see Television (1), Pen (2), Dresser (1), Drawer (1), Chair (2), CellPhone (1), CD (2, 3), ArmChair (2). I am holding Pen (2) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

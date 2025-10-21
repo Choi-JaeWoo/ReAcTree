@@ -1,0 +1,23 @@
+Your primary goal is to: Chill a slice of apple in the fridge, place it inside the microwave.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, slice and pick up apple, chill and pick up apple, and place apple in microwave.
+Your task is to: chill and pick up apple
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10). I am holding Apple (4) now.
+Think: I hold Apple (4). I need to chill it using the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Cabinet (7), Apple (4). Fridge (1) is closed.  I am holding Apple (4) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Tomato (1), Potato (1), Fridge (1), Bowl (1, 2), Apple (4). I am holding Apple (4) now.
+Act: put down Apple (4)
+You put Apple (4) on Fridge (1). You see Tomato (1), Potato (1), Fridge (1), Bowl (1, 2), Apple (4).
+Act: close Fridge (1)
+You close Fridge (1). You see Fridge (1), Cabinet (7).
+Think: I chill Apple (4) using Fridge (1). Now, I need to pick up the apple from the fridge.
+OK.
+Act: open Fridge (1)
+You open Fridge (1). You see Tomato (1), Potato (1), Fridge (1), Bowl (1, 2), Apple (4).
+Act: pick up Apple (4)
+You pick up Apple (4). You see Tomato (1), Potato (1), Fridge (1), Bowl (1, 2), Apple (4). I am holding Apple (4) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

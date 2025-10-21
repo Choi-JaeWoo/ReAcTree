@@ -1,0 +1,19 @@
+Your primary goal is to: Put two glass bottles in the fridge
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up glass bottle, place glass bottle in fridge, find and pick up glass bottle away from fridge, and place glass bottle in fridge.
+Your task is to: find and pick up glass bottle
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9).
+Think: First, I need to recall location of the glass bottle.
+OK.
+Act: recall location of Glassbottle
+You have not seen Glassbottle before.
+Think: Now, I need to find the glass bottle. The glass bottle is more likely to appear on CounterTop (1-3), SinkBasin (1), Shelf (1-3), or in Fridge (1), Microwave (1), Cabinet (1-9), Drawer (1-9). I can check each place one by one, starting from CounterTop (1), until I find the glass bottle.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Vase (1), Tomato (2), Statue (2), Spoon (1), Potato (2), Lettuce (1), Glassbottle (3), CounterTop (1), Bread (2), Book (1). 
+Think: I find Glassbottle (3). Now, I need to pick it up.
+OK.
+Act: pick up Glassbottle (3)
+You pick up Glassbottle (3). You see Vase (1), Tomato (2), Statue (2), Spoon (1), Potato (2), Lettuce (1), Glassbottle (3), CounterTop (1), Bread (2), Book (1). I am holding Glassbottle (3) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

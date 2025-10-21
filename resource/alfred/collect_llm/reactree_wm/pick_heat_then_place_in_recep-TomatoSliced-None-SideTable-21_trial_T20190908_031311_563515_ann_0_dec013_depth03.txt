@@ -1,0 +1,19 @@
+Your primary goal is to: place a cooked tomato  slice on the shelf
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up plate, place plate on shelf, find and pick up knife, slice and pick up tomato, and and place tomato on plate near shelf.
+Your task is to: find and pick up knife
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1, 2, 3), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: First, I need to recall location of the knife.
+OK.
+Act: recall location of Knife
+You saw Knife (1) near SideTable (1). You saw Knife (2) near SideTable (1).
+Think: I can find Knife (1) near SideTable (1). I can find Knife (2) near SideTable (1).
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SoapBottle (1, 1), SideTable (1, 1), Plate (1, 1), PepperShaker (2, 2), Mug (1, 1), Knife (1, 1, 2, 2), Drawer (1, 1), DishSponge (2, 2), DiningTable (2, 2), CounterTop (1, 1), Cabinet (4, 4). 
+Think: I find Knife (1). Now, I need to pick it up.
+OK.
+Act: pick up Knife (1)
+You pick up Knife (1). You see SoapBottle (1), SideTable (1), Plate (1), PepperShaker (2), Mug (1), Knife (1, 2), Drawer (1), DishSponge (2), DiningTable (2), CounterTop (1). I am holding Knife (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

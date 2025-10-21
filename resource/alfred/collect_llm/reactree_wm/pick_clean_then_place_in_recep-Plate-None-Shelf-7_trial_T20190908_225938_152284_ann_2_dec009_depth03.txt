@@ -1,0 +1,19 @@
+Your primary goal is to: Wash a knife and plate and put them away. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, clean and pick up knife, find and pick up plate, and and clean and pick up plate.
+Your task is to: clean and pick up knife
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13). I am holding Knife (1) now.
+Think: First, I need to recall location of the sink.
+OK.
+Act: recall location of Spoon
+You saw Spoon (1) near DiningTable (1). You saw Spoon (3) near DiningTable (1).
+Think: I can find Spoon (1) near DiningTable (1).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (1, 2), Spoon (1, 3), SoapBottle (1, 3), SaltShaker (2), Plate (1, 3), PepperShaker (3), Lettuce (1), Knife (1), HousePlant (1), Fork (1), DiningTable (1), Cup (2), ButterKnife (1), Bread (1).  I am holding Knife (1) now.
+Think: I find Spoon (1). Now, I need to pick it up.
+OK.
+Act: pick up Spoon (1)
+You are currently holding Knife (1). I am holding Knife (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

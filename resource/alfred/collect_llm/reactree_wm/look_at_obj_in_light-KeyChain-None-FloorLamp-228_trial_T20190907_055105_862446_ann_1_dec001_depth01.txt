@@ -1,0 +1,7 @@
+Your task is to: Take keys from the black table, leave them on the lamp when you turn it on.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1, 2), SideTable (1, 2), GarbageCan (1), Drawer (1), DiningTable (1), CoffeeTable (1).
+Think: Since I’m not holding keys, I need to accomplish 3 subgoals sequentially to solve the task. Find and pick up keys, find and turn on lamp, and place keys on lamp.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up keys, find and turn on lamp, place keys on lamp

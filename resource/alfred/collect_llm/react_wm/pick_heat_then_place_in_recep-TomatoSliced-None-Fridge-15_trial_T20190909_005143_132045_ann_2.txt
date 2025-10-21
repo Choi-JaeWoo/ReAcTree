@@ -1,0 +1,115 @@
+Your task is to: Put a heated slice of tomato in the fridge
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11).
+Think: To solve the task, I need to find and pick up the tomato. And I need to find and heat it. And I need to put it in the fridge.
+OK.
+Think: First, I need to recall location of the tomato.
+OK.
+Act: recall location of Tomato
+You have not seen Tomato before.
+Think: Now I need to find the tomato. The tomato is more likely to appear on CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-11), Drawer (1-3). I can check each place one by one, starting from CounterTop (1), until I find the tomato.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (1, 2), StoveKnob (4), SaltShaker (3), Potato (2), Pot (2), Plate (2), PepperShaker (2), Drawer (2), DishSponge (1), CounterTop (1), Cabinet (11). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Plate (1), Mug (3), Drawer (1), Cup (1), CounterTop (2), CoffeeMachine (1), Cabinet (1, 3, 6). 
+Think: I find Tomato (1). Now, I need to pick it up.
+OK.
+Act: pick up Plate (1)
+You pick up Plate (1). You see Plate (1), Mug (3), Cup (1), CoffeeMachine (1), Cabinet (1, 3). I am holding Plate (1) now.
+Think: I hold Plate (1). Now, I need to find and heat it.
+OK.
+Act: recall location of Statue
+You have not seen Statue before.
+Think: Now I need to find the statue. The statue is more likely to appear on CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-11), Drawer (1-3). I can check each place one by one, starting from CounterTop (1), until I find the statue.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (1, 2), StoveKnob (4), Potato (2), Pot (2), Plate (1, 2), PepperShaker (2), Drawer (2), Cabinet (11).  I am holding Plate (1) now.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Plate (1), Mug (3), Cup (1), CoffeeMachine (1), Cabinet (1, 3).  I am holding Plate (1) now.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Toaster (1), Spoon (1), Sink (1), Plate (1), GarbageCan (1), Fork (1), Faucet (1), CounterTop (2), Cabinet (7), ButterKnife (1, 2).  I am holding Plate (1) now.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Toaster (1, 1, 1, 1), Spoon (1, 1, 1, 1), Sink (1, 1, 1, 1), Plate (1, 1, 1, 1, 1), GarbageCan (1, 1, 1, 1, 1), Fridge (1), Fork (1, 1, 1, 1), Faucet (1, 1, 1, 1), CounterTop (2, 2, 2, 2), Cabinet (7, 7, 7, 7), ButterKnife (1, 1, 1, 1, 2, 2, 2, 2). Fridge (1) is closed.  I am holding Plate (1) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Tomato (1), Potato (1, 3), Plate (1), Fridge (1), Egg (1). I am holding Plate (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see WineBottle (2), Potato (2), Pot (2), Plate (1), Microwave (1), Cabinet (11). Microwave (1) is closed.  I am holding Plate (1) now.
+Act: open Microwave (1)
+You open Microwave (1). You see WineBottle (2), Potato (2), Pot (2), Plate (1), Microwave (1). I am holding Plate (1) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Plate (1), Mug (3), Drawer (1), Cup (1), CounterTop (2), CoffeeMachine (1), Cabinet (6, 7). Drawer (1) is closed.  I am holding Plate (1) now.
+Act: open Drawer (1)
+You open Drawer (1). You see Plate (1), Mug (3), Drawer (1), Cup (1), CounterTop (2), CoffeeMachine (1), Cabinet (6, 7). I am holding Plate (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see WineBottle (1, 2), StoveBurner (1, 2), SaltShaker (3), Potato (2), Pot (2), Plate (1, 2), PepperShaker (2), Drawer (2), DishSponge (1), CounterTop (1). Drawer (2) is closed.  I am holding Plate (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see WineBottle (1, 2), StoveBurner (1, 2), SaltShaker (3), Potato (2), Pot (2), Plate (1, 2), PepperShaker (2), Drawer (2), DishSponge (1), CounterTop (1). I am holding Plate (1) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see StoveBurner (3, 4), Pot (1), Plate (1), Mug (3), Drawer (1, 3), CounterTop (2), CoffeeMachine (1). Drawer (3) is closed.  I am holding Plate (1) now.
+Act: open Drawer (3)
+The Drawer (3) is open failed. I am holding Plate (1) now.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Plate (1), Cabinet (1, 3). Cabinet (1) is closed.  I am holding Plate (1) now.
+Act: open Cabinet (1)
+You open Cabinet (1). You see Plate (1), Cabinet (1, 3). I am holding Plate (1) now.
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Plate (1), Drawer (2), Cabinet (2). Cabinet (2) is closed.  I am holding Plate (1) now.
+Act: open Cabinet (2)
+The Cabinet (2) is open failed. I am holding Plate (1) now.
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see Plate (1), Microwave (1), Cabinet (3, 8, 10). Cabinet (3) is closed.  I am holding Plate (1) now.
+Act: open Cabinet (3)
+You open Cabinet (3). You see Plate (1), Microwave (1), Cabinet (3, 8, 10). I am holding Plate (1) now.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see Toaster (1), Spoon (1), Sink (1), SinkBasin (1), Plate (1), Pan (1), Faucet (1), CounterTop (2), Cabinet (4, 5, 6, 7), ButterKnife (1, 2). Cabinet (4) is closed.  I am holding Plate (1) now.
+Act: open Cabinet (4)
+You open Cabinet (4). You see Plate (1), Pan (1), GarbageCan (1), Fridge (1), CounterTop (2), Cabinet (4, 5, 6, 7, 9). I am holding Plate (1) now.
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Spoon (1), Sink (1), SinkBasin (1), Plate (1), GarbageCan (1), Fridge (1), Faucet (1), CounterTop (2), Cabinet (4), ButterKnife (1). Cabinet (5) is closed.  I am holding Plate (1) now.
+Act: open Cabinet (5)
+You open Cabinet (5). You see Sink (1), SinkBasin (1), Plate (1), GarbageCan (1), Fridge (1), CounterTop (2), Cabinet (4, 5), ButterKnife (1). I am holding Plate (1) now.
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Toaster (1), Plate (1), Pan (1), Mug (3), Drawer (1), Cup (1), CounterTop (2), CoffeeMachine (1), Cabinet (4, 6, 7). Cabinet (6) is closed.  I am holding Plate (1) now.
+Act: open Cabinet (6)
+You open Cabinet (6). You see Toaster (1), SoapBottle (2), Plate (1), Pan (1), Mug (3), Drawer (1), Cup (1), CounterTop (2), CoffeeMachine (1), Cabinet (4, 7). I am holding Plate (1) now.
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Toaster (1), Spoon (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), Pan (1), Drawer (1), CounterTop (2), Cabinet (4, 5, 7), ButterKnife (1). Cabinet (7) is closed.  I am holding Plate (1) now.
+Act: open Cabinet (7)
+You open Cabinet (7). You see Toaster (1), Spoon (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), Pan (1), Drawer (1), CounterTop (2), Cabinet (4, 5, 7), ButterKnife (1). I am holding Plate (1) now.
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Plate (1), Microwave (1), Cabinet (8, 10, 11). Cabinet (8) is closed.  I am holding Plate (1) now.
+Act: open Cabinet (8)
+You open Cabinet (8). You see Plate (1), Microwave (1), Cabinet (8, 10, 11). I am holding Plate (1) now.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see StoveBurner (3, 4), SoapBottle (2), Pot (1), Plate (1), Mug (3), Drawer (1, 3), CounterTop (2), CoffeeMachine (1), Cabinet (9). Cabinet (9) is closed.  I am holding Plate (1) now.
+Act: open Cabinet (9)
+You open Cabinet (9). You see StoveBurner (3, 4), SoapBottle (2), Pot (1), Plate (1), Mug (3), Kettle (1), Drawer (1, 3), CounterTop (2), CoffeeMachine (1), Cabinet (9). I am holding Plate (1) now.
+Act: go to Cabinet (10)
+You arrive at Cabinet (10). You see StoveBurner (3, 3, 3, 3, 3, 4, 4, 4, 4, 4), SoapBottle (2, 2, 2, 2, 2), Pot (1, 1, 1, 1, 1), Plate (1, 1, 1, 1, 1, 1), Mug (3, 3, 3, 3, 3), Microwave (1), Kettle (1, 1, 1, 1, 1), Drawer (1, 1, 1, 1, 1, 3, 3, 3, 3, 3), CounterTop (2, 2, 2, 2, 2), CoffeeMachine (1, 1, 1, 1, 1), Cabinet (3, 8, 9, 9, 9, 9, 9, 10). Cabinet (10) is closed.  I am holding Plate (1) now.
+Act: open Cabinet (10)
+You open Cabinet (10). You see Plate (1), PepperShaker (3), Mug (1), Microwave (1), Cabinet (3, 8, 10). I am holding Plate (1) now.
+Act: go to Cabinet (11)
+You arrive at Cabinet (11). You see Plate (1, 1, 1), PepperShaker (3, 3), Mug (1, 1), Microwave (1, 1), Cabinet (3, 3, 8, 8, 10, 10, 11). Cabinet (11) is closed.  I am holding Plate (1) now.
+Act: open Cabinet (11)
+You open Cabinet (11). You see Plate (1), Cabinet (11). I am holding Plate (1) now.
+Think: I find Statue (1). Now, I need to heat Plate (1).
+OK.
+Act: go to Plate (1)
+You arrive at Plate (1). You see WineBottle (1, 2), StoveKnob (4), StoveBurner (1, 2), SaltShaker (3), Potato (2), Pot (2), Plate (1, 2), PepperShaker (2), Drawer (2), DishSponge (1), CounterTop (1).  I am holding Plate (1) now.
+Act: go to StoveBurner (1)
+You arrive at StoveBurner (1). You see StoveKnob (2), StoveBurner (1, 2, 3, 4), Pot (1, 2), Plate (1), Drawer (3), CounterTop (2), Cabinet (9).  I am holding Plate (1) now.
+Act: go to StoveBurner (2)
+You arrive at StoveBurner (2). You see WineBottle (1, 2), StoveKnob (2, 4), StoveBurner (1, 2, 3, 4), Potato (2), Pot (1, 2), Plate (1), Microwave (1), Drawer (3), DishSponge (1), CounterTop (2), Cabinet (9, 11).  I am holding Plate (1) now.
+Act: go to StoveBurner (3)
+You arrive at StoveBurner (3). You see StoveKnob (1), StoveBurner (1, 2, 3, 4), Pot (1, 2), Plate (1), CounterTop (1).  I am holding Plate (1) now.
+Act: go to StoveBurner (4)
+You arrive at StoveBurner (4). You see StoveKnob (1, 1), StoveBurner (1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 4), Pot (1, 1, 1, 2, 2, 2), Plate (1, 1, 1), Microwave (1), Drawer (3), CounterTop (1, 1), CoffeeMachine (1), Cabinet (3).  I am holding Plate (1) now.
+Think: I heat Plate (1). Now, I need to put it in the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (1), Potato (1, 3), Plate (1), Fridge (1), Egg (1). Fridge (1) is open.  I am holding Plate (1) now.
+Act: put down Plate (1)
+You put Plate (1) on Fridge (1). You see Tomato (1), Potato (1, 3), Plate (1), Fridge (1), Egg (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

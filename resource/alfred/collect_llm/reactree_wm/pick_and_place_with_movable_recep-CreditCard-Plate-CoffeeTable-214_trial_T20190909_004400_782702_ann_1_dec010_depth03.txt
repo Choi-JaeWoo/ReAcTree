@@ -1,0 +1,13 @@
+Your primary goal is to: place a plate with a credit card on it on top of the coffee table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up plate, place plate on coffee table, find and pick up credit card, and and place credit card on plate near coffee table.
+Your task is to: place plate on coffee table
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1, 2), SideTable (1), Shelf (1, 2), GarbageCan (1), CoffeeTable (1), ArmChair (1). I am holding CreditCard (1) now.
+Think: I hold CreditCard (1). Now, I need to put it on the coffee table. I can see CoffeeTable (1).
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see WateringCan (1), Vase (1), Statue (2), RemoteControl (1), Newspaper (1), Laptop (3), HousePlant (1), CreditCard (1), CoffeeTable (1).  I am holding CreditCard (1) now.
+Act: put down CreditCard (1)
+You put CreditCard (1) on CoffeeTable (1). You see WateringCan (1), Vase (1), Statue (2), RemoteControl (1), Newspaper (1), Laptop (3), HousePlant (1), CreditCard (1), CoffeeTable (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

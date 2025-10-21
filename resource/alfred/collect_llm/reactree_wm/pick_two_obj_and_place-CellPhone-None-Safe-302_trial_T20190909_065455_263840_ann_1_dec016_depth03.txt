@@ -1,0 +1,173 @@
+Your primary goal is to: Move two phones from nightstand to safe.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up phone, place phone in safe, Find and pick up phone away from nightstand, and and place phone in safe.
+Your task is to: place phone in safe
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1, 2), Shelf (1, 2, 3, 4, 5), Safe (1), GarbageCan (1), Drawer (1, 2, 3), Desk (1), Bed (1). I am holding CellPhone (3) now.
+Think: I hold CellPhone (3). Now, I need to put it in the safe. I can see Safe (1).
+OK.
+Act: go to Safe (1)
+You arrive at Safe (1). You see Safe (1), Laptop (1), CellPhone (3), Book (1), Bed (1). Safe (1) is closed.  I am holding CellPhone (3) now.
+Act: open Safe (1)
+The Safe (1) is open failed. I am holding CellPhone (3) now.
+Think: I can't open Safe (1). Now I need to recall the password.
+OK.
+Act: recall location of CellPhone
+You saw CellPhone (3) near hand.
+Think: I can't recall the password. Now I need to find the password. The password is more likely to appear on Bed (1), Desk (1), SideTable (1-2), Shelf (1-5), or in Drawer (1-3). I can check each place one by one, starting from Bed (1), until I find the password.
+OK.
+Act: go to Bed (1)
+You arrive at Bed (1). You see TeddyBear (1), SideTable (1), Pillow (1), Laptop (1, 2), Drawer (3), CellPhone (3), Book (1), Bed (1).  I am holding CellPhone (3) now.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pencil (2), KeyChain (2), Desk (1), CreditCard (2), Chair (1), CellPhone (3), Book (2), AlarmClock (1).  I am holding CellPhone (3) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pillow (1), Desk (1), CreditCard (1), CellPhone (3), Bed (1).  I am holding CellPhone (3) now.
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), GarbageCan (1), Drawer (1, 2), DeskLamp (1), CellPhone (1, 2, 3).  I am holding CellPhone (3) now.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pencil (1, 2), Pen (1, 2), HousePlant (1), Desk (1), CreditCard (2), CellPhone (3), CD (2).  I am holding CellPhone (3) now.
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Shelf (2, 3, 4, 5), CellPhone (3).  I am holding CellPhone (3) now.
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Shelf (2, 3, 4), Desk (1), CellPhone (3), Book (2).  I am holding CellPhone (3) now.
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see Shelf (3, 4), Desk (1), CellPhone (3).  I am holding CellPhone (3) now.
+Act: go to Shelf (5)
+You arrive at Shelf (5). You see Shelf (2, 3, 4, 5), CellPhone (3), Bowl (1).  I am holding CellPhone (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (2), GarbageCan (1), Drawer (1, 2), DeskLamp (1), CellPhone (1, 2, 3). Drawer (1) is closed.  I am holding CellPhone (3) now.
+Act: open Drawer (1)
+You open Drawer (1). You see SideTable (2), GarbageCan (1), Drawer (1, 2), DeskLamp (1), CellPhone (1, 2, 3), CD (1). I am holding CellPhone (3) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (2), GarbageCan (1), Drawer (1, 2), DeskLamp (1), CellPhone (1, 2, 3), CD (1). Drawer (2) is closed.  I am holding CellPhone (3) now.
+Act: open Drawer (2)
+The Drawer (2) is open failed. I am holding CellPhone (3) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see SideTable (1), Pillow (1), Drawer (3), Desk (1), CreditCard (1), CellPhone (3), Bed (1). Drawer (3) is closed.  I am holding CellPhone (3) now.
+Act: open Drawer (3)
+You open Drawer (3). You see SideTable (1), Pillow (1), Drawer (3), Desk (1), CreditCard (1), CellPhone (3), Bed (1). I am holding CellPhone (3) now.
+Think: I find the password. Now I need to open Safe (1).
+OK.
+Act: go to Safe (1)
+You arrive at Safe (1). You see Safe (1), Laptop (1), CellPhone (3), Book (1), Bed (1). Safe (1) is closed.  I am holding CellPhone (3) now.
+Act: open Safe (1)
+The Safe (1) is open failed. I am holding CellPhone (3) now.
+Think: I can't open Safe (1). Now I need to recall the password.
+OK.
+Act: recall location of CellPhone
+You saw CellPhone (3) near hand. You saw CellPhone (1) near Drawer (2). You saw CellPhone (2) near Drawer (2).
+Think: I can't recall the password. Now I need to find the password. The password is more likely to appear on Bed (1), Desk (1), SideTable (1-2), Shelf (1-5), or in Drawer (1-3). I can check each place one by one, starting from Bed (1), until I find the password.
+OK.
+Act: go to Bed (1)
+You arrive at Bed (1). You see TeddyBear (1), Pillow (1), Laptop (1, 2), Drawer (3), CellPhone (3), Book (1), Bed (1).  I am holding CellPhone (3) now.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pencil (2), KeyChain (2), Desk (1), CreditCard (2), Chair (1), CellPhone (3), Book (2), AlarmClock (1).  I am holding CellPhone (3) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pillow (1), Drawer (3), Desk (1), CreditCard (1), CellPhone (3), Bed (1).  I am holding CellPhone (3) now.
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), GarbageCan (1), Drawer (1, 2), DeskLamp (1), CellPhone (1, 2, 3), CD (1).  I am holding CellPhone (3) now.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pencil (1, 2), Pen (1, 2), HousePlant (1), Desk (1), CreditCard (2), CellPhone (3), CD (2).  I am holding CellPhone (3) now.
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Shelf (2, 3, 4, 5), CellPhone (3).  I am holding CellPhone (3) now.
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Shelf (2, 3, 4), Desk (1), CellPhone (3), Book (2).  I am holding CellPhone (3) now.
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see Shelf (3, 4), Desk (1), CellPhone (3).  I am holding CellPhone (3) now.
+Act: go to Shelf (5)
+You arrive at Shelf (5). You see Shelf (2, 3, 4, 5), CellPhone (3), Bowl (1).  I am holding CellPhone (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (2), GarbageCan (1), Drawer (1, 2), DeskLamp (1), CellPhone (1, 2, 3), CD (1). Drawer (1) is open.  I am holding CellPhone (3) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (2), GarbageCan (1), Drawer (1, 2), DeskLamp (1), CellPhone (1, 2, 3), CD (1). Drawer (2) is closed.  I am holding CellPhone (3) now.
+Act: open Drawer (2)
+The Drawer (2) is open failed. I am holding CellPhone (3) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see SideTable (1), Pillow (1), Drawer (3), Desk (1), CreditCard (1), CellPhone (3), Bed (1). Drawer (3) is open.  I am holding CellPhone (3) now.
+Think: I find the password. Now I need to open Safe (1).
+OK.
+Act: go to Safe (1)
+You arrive at Safe (1). You see Safe (1), Laptop (1), CellPhone (3), Book (1), Bed (1). Safe (1) is closed.  I am holding CellPhone (3) now.
+Act: open Safe (1)
+The Safe (1) is open failed. I am holding CellPhone (3) now.
+Think: I can't open Safe (1). Now I need to recall the password.
+OK.
+Act: recall location of CellPhone
+You saw CellPhone (3) near hand. You saw CellPhone (1) near Drawer (2). You saw CellPhone (2) near Drawer (2).
+Think: I can't recall the password. Now I need to find the password. The password is more likely to appear on Bed (1), Desk (1), SideTable (1-2), Shelf (1-5), or in Drawer (1-3). I can check each place one by one, starting from Bed (1), until I find the password.
+OK.
+Act: go to Bed (1)
+You arrive at Bed (1). You see TeddyBear (1), Pillow (1), Laptop (1, 2), Drawer (3), CellPhone (3), Book (1), Bed (1).  I am holding CellPhone (3) now.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pencil (2), KeyChain (2), Desk (1), CreditCard (2), Chair (1), CellPhone (3), Book (2), AlarmClock (1).  I am holding CellPhone (3) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pillow (1), Drawer (3), Desk (1), CreditCard (1), CellPhone (3), Bed (1).  I am holding CellPhone (3) now.
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), GarbageCan (1), Drawer (1, 2), DeskLamp (1), CellPhone (1, 2, 3), CD (1).  I am holding CellPhone (3) now.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pencil (1, 2), Pen (1, 2), HousePlant (1), Desk (1), CreditCard (2), CellPhone (3), CD (2).  I am holding CellPhone (3) now.
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Shelf (2, 3, 4, 5), CellPhone (3).  I am holding CellPhone (3) now.
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Shelf (2, 3, 4), Desk (1), CellPhone (3), Book (2).  I am holding CellPhone (3) now.
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see Shelf (3, 4), Desk (1), CellPhone (3).  I am holding CellPhone (3) now.
+Act: go to Shelf (5)
+You arrive at Shelf (5). You see Shelf (2, 3, 4, 5), CellPhone (3), Bowl (1).  I am holding CellPhone (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (2), GarbageCan (1), Drawer (1, 2), DeskLamp (1), CellPhone (1, 2, 3), CD (1). Drawer (1) is open.  I am holding CellPhone (3) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (2), GarbageCan (1), Drawer (1, 2), DeskLamp (1), CellPhone (1, 2, 3), CD (1). Drawer (2) is closed.  I am holding CellPhone (3) now.
+Act: open Drawer (2)
+The Drawer (2) is open failed. I am holding CellPhone (3) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see SideTable (1), Pillow (1), Drawer (3), Desk (1), CreditCard (1), CellPhone (3), Bed (1). Drawer (3) is open.  I am holding CellPhone (3) now.
+Think: I find the password. Now I need to open Safe (1).
+OK.
+Act: go to Safe (1)
+You arrive at Safe (1). You see Safe (1), Laptop (1), CellPhone (3), Book (1), Bed (1). Safe (1) is closed.  I am holding CellPhone (3) now.
+Act: open Safe (1)
+The Safe (1) is open failed. I am holding CellPhone (3) now.
+Think: I can't open Safe (1). Now I need to recall the password.
+OK.
+Act: recall location of CellPhone
+You saw CellPhone (3) near hand. You saw CellPhone (1) near Drawer (2). You saw CellPhone (2) near Drawer (2).
+Think: I can't recall the password. Now I need to find the password. The password is more likely to appear on Bed (1), Desk (1), SideTable (1-2), Shelf (1-5), or in Drawer (1-3). I can check each place one by one, starting from Bed (1), until I find the password.
+OK.
+Act: go to Bed (1)
+You arrive at Bed (1). You see TeddyBear (1), Pillow (1), Laptop (1, 2), Drawer (3), CellPhone (3), Book (1), Bed (1).  I am holding CellPhone (3) now.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pencil (2), KeyChain (2), Desk (1), CreditCard (2), Chair (1), CellPhone (3), Book (2), AlarmClock (1).  I am holding CellPhone (3) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pillow (1), Drawer (3), Desk (1), CreditCard (1), CellPhone (3), Bed (1).  I am holding CellPhone (3) now.
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), GarbageCan (1), Drawer (1, 2), DeskLamp (1), CellPhone (1, 2, 3), CD (1).  I am holding CellPhone (3) now.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pencil (1, 2), Pen (1, 2), HousePlant (1), Desk (1), CreditCard (2), CellPhone (3), CD (2).  I am holding CellPhone (3) now.
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Shelf (2, 3, 4, 5), CellPhone (3).  I am holding CellPhone (3) now.
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Shelf (2, 3, 4), Desk (1), CellPhone (3), Book (2).  I am holding CellPhone (3) now.
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see Shelf (3, 4), Desk (1), CellPhone (3).  I am holding CellPhone (3) now.
+Act: go to Shelf (5)
+You arrive at Shelf (5). You see Shelf (2, 3, 4, 5), CellPhone (3), Bowl (1).  I am holding CellPhone (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (2), GarbageCan (1), Drawer (1, 2), DeskLamp (1), CellPhone (1, 2, 3), CD (1). Drawer (1) is open.  I am holding CellPhone (3) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (2), GarbageCan (1), Drawer (1, 2), DeskLamp (1), CellPhone (1, 2, 3), CD (1). Drawer (2) is closed.  I am holding CellPhone (3) now.
+Act: open Drawer (2)
+The Drawer (2) is open failed. I am holding CellPhone (3) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see SideTable (1), Pillow (1), Drawer (3), Desk (1), CreditCard (1), CellPhone (3), Bed (1). Drawer (3) is open.  I am holding CellPhone (3) now.
+Think: I find the password. Now I need to open Safe (1).
+OK.
+Act: go to Safe (1)
+You arrive at Safe (1). You see Safe (1), Laptop (1), CellPhone (3), Book (1), Bed (1). Safe (1) is closed.  I am holding CellPhone (3) now.
+Act: open Safe (1)
+The Safe (1) is open failed. I am holding CellPhone (3) now.
+Think: I can't open Safe (1). Now I need to recall the password.
+OK.
+Act: recall location of CellPhone
+You saw CellPhone (3) near hand. You saw CellPhone (1) near Drawer (2). You saw CellPhone (2) near Drawer (2).
+Think: I can't recall the password. Now I need to find the password. The password is more likely to appear on Bed (1), Desk (1), SideTable (1-2), Shelf (1-5), or in Drawer (1-3). I can check each place one by one, starting from Bed (1), until I find the password.
+OK.
+Max decisions

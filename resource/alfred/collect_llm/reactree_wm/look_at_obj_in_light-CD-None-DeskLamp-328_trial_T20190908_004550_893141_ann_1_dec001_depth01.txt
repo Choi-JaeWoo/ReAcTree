@@ -1,0 +1,7 @@
+Your task is to: Move a CD from the trash bin to the desk.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1), GarbageCan (1), Drawer (1, 2), Desk (1), Bed (1).
+Think: Since I’m not holding CD, I need to accomplish 2 subgoals sequentially to solve the task. Find and pick up CD and place CD on desk.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up CD, place CD on desk

@@ -1,0 +1,45 @@
+Your primary goal is to: Slice a tomato, cook a slice in the microwave
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up tomato, slice and pick up tomato, and heat and pick up tomato.
+Your task is to: slice and pick up tomato
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20). I am holding Tomato (1) now.
+Think: I hold Tomato (1). Now, I need to recall location of the knife.
+OK.
+Act: recall location of Knife
+You saw Knife (1) near SinkBasin (1).
+Think: I can find Knife (1) near SinkBasin (1).
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (1), Statue (1), Spatula (1), Sink (1), SinkBasin (1), Knife (1), Faucet (1), Drawer (3), Cup (1), CounterTop (1), CoffeeMachine (1), Cabinet (20), ButterKnife (1).  I am holding Tomato (1) now.
+Think: I find Knife (1). Now, I need to pick it up.
+OK.
+Act: pick up Knife (1)
+You are currently holding Tomato (1). I am holding Tomato (1) now.
+Think: Now I need to put down Tomato (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Tomato (1), Toaster (1), Pan (1), Kettle (1), CounterTop (1), CoffeeMachine (1), Cabinet (4).  I am holding Tomato (1) now.
+Act: put down Tomato (1)
+You put Tomato (1) on CounterTop (1). You see Tomato (1), Toaster (1), Pan (1), Kettle (1), CounterTop (1), CoffeeMachine (1), Cabinet (4).
+Think: Now I need to pick up Knife (1).
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Statue (1), Spatula (1), Sink (1), SinkBasin (1), Knife (1), Faucet (1), Drawer (3), Cup (1), CounterTop (1), CoffeeMachine (1), Cabinet (20), ButterKnife (1). 
+Act: pick up Knife (1)
+You pick up Knife (1). You see Statue (1), Spatula (1), Sink (1), SinkBasin (1), Knife (1), Faucet (1), Drawer (3), Cup (1), CounterTop (1), CoffeeMachine (1), Cabinet (20), ButterKnife (1). I am holding Knife (1) now.
+Think: Now I need to slice Tomato (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Tomato (1), Toaster (1), Pan (1), Knife (1), Kettle (1), CounterTop (1), CoffeeMachine (1), Cabinet (4).  I am holding Knife (1) now.
+Act: slice Tomato (1)
+You slice Tomato (1). You see Tomato (4, 5, 6, 7, 8), Toaster (1), Pan (1), Knife (1), Kettle (1), CounterTop (1), CoffeeMachine (1), Cabinet (4). Tomato (2, 3, 4, 5, 6, 7, 8) are sliced. I am holding Knife (1) now.
+Think: I slice Tomato (1). Now, I need to put down the knife.
+OK.
+Act: put down Knife (1)
+You put down failed, drop it. You see Tomato (4, 5, 6, 7, 8), Toaster (1), Pan (1), Kettle (1), CounterTop (1), CoffeeMachine (1), Cabinet (4).
+Think: Now I need to pick up Tomato (4).
+OK.
+Act: pick up Tomato (4)
+You pick up Tomato (4). You see Tomato (3, 4, 5, 6, 7, 8), Toaster (1), Pan (1), Kettle (1), CounterTop (1), CoffeeMachine (1), Cabinet (4). I am holding Tomato (4) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

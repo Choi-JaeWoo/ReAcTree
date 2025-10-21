@@ -1,0 +1,25 @@
+Your primary goal is to: Placing two sets of keys on a foot stool in front of a chair
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up keys, place keys on foot stool, Find and pick up keys away from foot stool, and place keys on foot stool.
+Your task is to: Find and pick up keys away from foot stool
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8), Ottoman (1), GarbageCan (1), Drawer (1), DiningTable (1), ArmChair (1).
+Think: First, I need to recall location of the keys.
+OK.
+Act: recall location of KeyChain
+You saw KeyChain (3) near Ottoman (1). You saw KeyChain (1) near Ottoman (1).
+Think: KeyChain (3) is on Ottoman (1). Now, I need to find another key chain. The key chain is more likely to appear on TVStand (1), SideTable (1), DiningTable (1), ArmChair (1), Shelf (1-8), or in Drawer (1). I can check each place one by one, starting from TVStand (1), until I find the key chain.
+OK.
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), Shelf (1, 3, 4, 5, 7), KeyChain (2). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), RemoteControl (1), FloorLamp (1), Drawer (1), CreditCard (2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1), Statue (2, 3), RemoteControl (2), Laptop (1), DiningTable (1), Chair (2), Box (1). 
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Ottoman (1), KeyChain (1), ArmChair (1). 
+Think: I find KeyChain (1). Now, I need to pick it up.
+OK.
+Act: pick up KeyChain (1)
+You pick up KeyChain (1). You see Ottoman (1), KeyChain (1), ArmChair (1). I am holding KeyChain (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

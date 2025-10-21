@@ -1,0 +1,13 @@
+Your primary goal is to: Place the white dish with the watch on it on the black lamp table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up dish, place dish on table, find and pick up watch, and place watch on dish near table.
+Your task is to: place dish on table
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1, 2), GarbageCan (1), Drawer (1, 2), DiningTable (1, 2), CoffeeTable (1), ArmChair (1, 2). I am holding TissueBox (1) now.
+Think: I hold TissueBox (1). Now, I need to put it on the table. I can see SideTable (1).
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see TissueBox (1, 2), SideTable (1), RemoteControl (1), KeyChain (1), Drawer (1), DiningTable (2).  I am holding TissueBox (1) now.
+Act: put down TissueBox (1)
+You put TissueBox (1) on SideTable (1). You see TissueBox (1, 2), SideTable (1), RemoteControl (1), KeyChain (1), Drawer (1), DiningTable (2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

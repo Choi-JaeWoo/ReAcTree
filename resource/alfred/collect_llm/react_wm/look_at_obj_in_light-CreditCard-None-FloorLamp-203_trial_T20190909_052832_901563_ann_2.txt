@@ -1,0 +1,112 @@
+Your task is to: Examine a credit card by the light of a tall lamp.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1), Ottoman (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7), DiningTable (1), CoffeeTable (1), ArmChair (1).
+Think: To solve the task, I need to find and pick up the credit card. And I need to find and turn on the desk lamp.
+OK.
+Think: First, I need to recall location of the credit card.
+OK.
+Act: recall location of CreditCard
+You have not seen CreditCard before.
+Think: Now I need to find the credit card. The credit card is more likely to appear on Sofa (1), SideTable (1), Ottoman (1), DiningTable (1), CoffeeTable (1), ArmChair (1), or in Drawer (1-7). I can check each place one by one, starting from Sofa (1), until I find the credit card.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Book (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see WateringCan (1), Watch (1), TissueBox (1), SideTable (1), KeyChain (2), HousePlant (1), Drawer (4). 
+Act: go to Ottoman (1)
+You arrive at Ottoman (1). You see RemoteControl (1), Pillow (1), Ottoman (1), CreditCard (1), CellPhone (1), ArmChair (1). 
+Think: I find CreditCard (1). Now, I need to pick it up.
+OK.
+Act: pick up CreditCard (1)
+You pick up CreditCard (1). You see RemoteControl (1), Pillow (1), Ottoman (1), CreditCard (1), CellPhone (1), ArmChair (1). I am holding CreditCard (1) now.
+Think: I hold CreditCard (1). Now, I need to recall location of the desk lamp.
+OK.
+Act: recall location of DeskLamp
+You have not seen DeskLamp before.
+Think: Now I need to find the desk lamp The desk lamp is more likely to appear on Sofa (1), SideTable (1), Ottoman (1), DiningTable (1), CoffeeTable (1), ArmChair (1). I can check each place one by one, starting from Sofa (1), until I find the desk lamp.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), CreditCard (1), Book (1).  I am holding CreditCard (1) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see WateringCan (1), Watch (1), TissueBox (1), SideTable (1), KeyChain (2), HousePlant (1), Drawer (4), CreditCard (1).  I am holding CreditCard (1) now.
+Act: go to Ottoman (1)
+You arrive at Ottoman (1). You see RemoteControl (1), Pillow (1), Ottoman (1), CreditCard (1), CellPhone (1), ArmChair (1).  I am holding CreditCard (1) now.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Watch (2), Vase (1), Plate (2), KeyChain (1), DiningTable (1), CreditCard (1), Chair (1, 2, 3, 4), Bowl (1).  I am holding CreditCard (1) now.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Plate (1), Newspaper (1, 2), Laptop (1), Drawer (2, 6, 7), CreditCard (1), CoffeeTable (1), Bowl (2, 3).  I am holding CreditCard (1) now.
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Pillow (1), Ottoman (1), CreditCard (1), CellPhone (1), Box (1), ArmChair (1).  I am holding CreditCard (1) now.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), CreditCard (1), Book (1).  I am holding CreditCard (1) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see WateringCan (1), Watch (1), TissueBox (1), SideTable (1), KeyChain (2), HousePlant (1), Drawer (4), CreditCard (1).  I am holding CreditCard (1) now.
+Act: go to Ottoman (1)
+You arrive at Ottoman (1). You see RemoteControl (1), Pillow (1), Ottoman (1), CreditCard (1), CellPhone (1), ArmChair (1).  I am holding CreditCard (1) now.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Watch (2), Vase (1), Plate (2), KeyChain (1), DiningTable (1), CreditCard (1), Chair (1, 2, 3, 4), Bowl (1).  I am holding CreditCard (1) now.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Plate (1), Newspaper (1, 2), Laptop (1), Drawer (2, 6, 7), CreditCard (1), CoffeeTable (1), Bowl (2, 3).  I am holding CreditCard (1) now.
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Pillow (1), Ottoman (1), CreditCard (1), CellPhone (1), Box (1), ArmChair (1).  I am holding CreditCard (1) now.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), CreditCard (1), Book (1).  I am holding CreditCard (1) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see WateringCan (1), Watch (1), TissueBox (1), SideTable (1), KeyChain (2), HousePlant (1), Drawer (4), CreditCard (1).  I am holding CreditCard (1) now.
+Act: go to Ottoman (1)
+You arrive at Ottoman (1). You see RemoteControl (1), Pillow (1), Ottoman (1), CreditCard (1), CellPhone (1), ArmChair (1).  I am holding CreditCard (1) now.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Watch (2), Vase (1), Plate (2), KeyChain (1), DiningTable (1), CreditCard (1), Chair (1, 2, 3, 4), Bowl (1).  I am holding CreditCard (1) now.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Plate (1), Newspaper (1, 2), Laptop (1), Drawer (2, 6, 7), CreditCard (1), CoffeeTable (1), Bowl (2, 3).  I am holding CreditCard (1) now.
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Pillow (1), Ottoman (1), CreditCard (1), CellPhone (1), Box (1), ArmChair (1).  I am holding CreditCard (1) now.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), CreditCard (1), Book (1).  I am holding CreditCard (1) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see WateringCan (1), Watch (1), TissueBox (1), SideTable (1), KeyChain (2), HousePlant (1), Drawer (4), CreditCard (1).  I am holding CreditCard (1) now.
+Act: go to Ottoman (1)
+You arrive at Ottoman (1). You see RemoteControl (1), Pillow (1), Ottoman (1), CreditCard (1), CellPhone (1), ArmChair (1).  I am holding CreditCard (1) now.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Watch (2), Vase (1), Plate (2), KeyChain (1), DiningTable (1), CreditCard (1), Chair (1, 2, 3, 4), Bowl (1).  I am holding CreditCard (1) now.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Plate (1), Newspaper (1, 2), Laptop (1), Drawer (2, 6, 7), CreditCard (1), CoffeeTable (1), Bowl (2, 3).  I am holding CreditCard (1) now.
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Pillow (1), Ottoman (1), CreditCard (1), CellPhone (1), Box (1), ArmChair (1).  I am holding CreditCard (1) now.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), CreditCard (1), Book (1).  I am holding CreditCard (1) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see WateringCan (1), Watch (1), TissueBox (1), SideTable (1), KeyChain (2), HousePlant (1), Drawer (4), CreditCard (1).  I am holding CreditCard (1) now.
+Act: go to Ottoman (1)
+You arrive at Ottoman (1). You see RemoteControl (1), Pillow (1), Ottoman (1), CreditCard (1), CellPhone (1), ArmChair (1).  I am holding CreditCard (1) now.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Watch (2), Vase (1), Plate (2), KeyChain (1), DiningTable (1), CreditCard (1), Chair (1, 2, 3, 4), Bowl (1).  I am holding CreditCard (1) now.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Plate (1), Newspaper (1, 2), Laptop (1), Drawer (2, 6, 7), CreditCard (1), CoffeeTable (1), Bowl (2, 3).  I am holding CreditCard (1) now.
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Pillow (1), Ottoman (1), CreditCard (1), CellPhone (1), Box (1), ArmChair (1).  I am holding CreditCard (1) now.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), CreditCard (1), Book (1).  I am holding CreditCard (1) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see WateringCan (1), Watch (1), TissueBox (1), SideTable (1), KeyChain (2), HousePlant (1), Drawer (4), CreditCard (1).  I am holding CreditCard (1) now.
+Act: go to Ottoman (1)
+You arrive at Ottoman (1). You see RemoteControl (1), Pillow (1), Ottoman (1), CreditCard (1), CellPhone (1), ArmChair (1).  I am holding CreditCard (1) now.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Watch (2), Vase (1), Plate (2), KeyChain (1), DiningTable (1), CreditCard (1), Chair (1, 2, 3, 4), Bowl (1).  I am holding CreditCard (1) now.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Plate (1), Newspaper (1, 2), Laptop (1), Drawer (2, 6, 7), CreditCard (1), CoffeeTable (1), Bowl (2, 3).  I am holding CreditCard (1) now.
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Pillow (1), Ottoman (1), CreditCard (1), CellPhone (1), Box (1), ArmChair (1).  I am holding CreditCard (1) now.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), CreditCard (1), Book (1).  I am holding CreditCard (1) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see WateringCan (1), Watch (1), TissueBox (1), SideTable (1), KeyChain (2), HousePlant (1), Drawer (4), CreditCard (1).  I am holding CreditCard (1) now.
+Act: go to Ottoman (1)
+You arrive at Ottoman (1). You see RemoteControl (1), Pillow (1), Ottoman (1), CreditCard (1), CellPhone (1), ArmChair (1).  I am holding CreditCard (1) now.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Watch (2), Vase (1), Plate (2), KeyChain (1), DiningTable (1), CreditCard (1), Chair (1, 2, 3, 4), Bowl (1).  I am holding CreditCard (1) now.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Plate (1), Newspaper (1, 2), Laptop (1), Drawer (2, 6, 7), CreditCard (1), CoffeeTable (1), Bowl (2, 3).  I am holding CreditCard (1) now.
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Pillow (1), Ottoman (1), CreditCard (1), CellPhone (1), Box (1), ArmChair (1).  I am holding CreditCard (1) now.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), CreditCard (1), Book (1).  I am holding CreditCard (1) now.

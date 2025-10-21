@@ -1,0 +1,106 @@
+Your task is to: Move two credit cards to the seat of a chair.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7), DiningTable (1), CoffeeTable (1, 2), Cabinet (1, 2, 3, 4, 5, 6, 7, 8), ArmChair (1, 2).
+Think: To solve the task, I need to find and pick up the credit cards, then put it on the seat of a chair. And I need to find and pick up another credit cards, then put it on the seat of a chair.
+OK.
+Think: First, I need to recall location of the credit card.
+OK.
+Act: recall location of CreditCard
+You have not seen CreditCard before.
+Think: Now I need to find the credit card. The credit card is more likely to appear on CoffeeTable (1-2), Sofa (1), Shelf (1-13), or in Drawer (1-7), Cabinet (1-8). I can check each place one by one, starting from CoffeeTable (1), until I find the credit card.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (4), RemoteControl (2), Newspaper (2), Laptop (1), CreditCard (2, 3), CoffeeTable (1, 2). 
+Act: go to CoffeeTable (2)
+You arrive at CoffeeTable (2). You see Vase (4), RemoteControl (2), Newspaper (2), Laptop (1), Drawer (4), CreditCard (3), CoffeeTable (1, 2). 
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), RemoteControl (3), Pillow (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Drawer (2, 5), Cabinet (1, 8). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Statue (1, 6), Shelf (2, 13). 
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Statue (5), Shelf (3), Drawer (6), Cabinet (7). 
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see Vase (1, 3), Shelf (4, 7, 12). 
+Act: go to Shelf (5)
+You arrive at Shelf (5). You see Statue (2), Shelf (5), Drawer (5), Cabinet (8). 
+Act: go to Shelf (6)
+You arrive at Shelf (6). You see Statue (1), Shelf (6, 13). 
+Act: go to Shelf (7)
+You arrive at Shelf (7). You see Television (1), Shelf (7), Plate (1), Drawer (3, 4, 7). 
+Act: go to Shelf (8)
+You arrive at Shelf (8). You see Shelf (8), Drawer (1, 6), Cabinet (2, 7). 
+Act: go to Shelf (9)
+You arrive at Shelf (9). You see Vase (6), Shelf (4, 7, 9, 12), Cabinet (3). 
+Act: go to Shelf (10)
+You arrive at Shelf (10). You see Shelf (6, 10), Drawer (1), Cabinet (6). 
+Act: go to Shelf (11)
+You arrive at Shelf (11). You see Statue (4), Shelf (11, 12). 
+Act: go to Shelf (12)
+You arrive at Shelf (12). You see Vase (1, 3), Statue (4), Shelf (4, 11, 12), Cabinet (4). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Statue (1), Shelf (6, 13), Cabinet (5). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Statue (5), Shelf (3), Drawer (1, 6), Cabinet (7). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Statue (5), Shelf (3, 8), Drawer (1, 6), Cabinet (2, 7).
+Act: close Drawer (1)
+You close Drawer (1). You see Statue (5), Shelf (3, 8), Drawer (1, 6), Cabinet (2, 7).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Statue (2), Shelf (5), Drawer (2, 5), Cabinet (8). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see Shelf (5), Drawer (2, 5), Cabinet (8).
+Act: close Drawer (2)
+You close Drawer (2). You see Shelf (5), Drawer (2, 5), Cabinet (8).
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Vase (3), Shelf (4, 7), Drawer (3, 4). Drawer (3) is closed. 
+Act: open Drawer (3)
+You open Drawer (3). You see Vase (3), Shelf (4, 7), Drawer (3).
+Act: close Drawer (3)
+You close Drawer (3). You see Vase (3), Shelf (4, 7), Drawer (3, 4).
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Television (1), Shelf (7), Plate (1), Drawer (3, 4, 7). Drawer (4) is closed. 
+Act: open Drawer (4)
+You open Drawer (4). You see Shelf (7), Plate (1), Drawer (4).
+Act: close Drawer (4)
+You close Drawer (4). You see Shelf (7), Plate (1), Drawer (3, 4, 7).
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Statue (2), Shelf (5), Drawer (2, 5), Cabinet (8). Drawer (5) is closed. 
+Act: open Drawer (5)
+You open Drawer (5). You see Statue (2), Shelf (5), KeyChain (1, 3), Drawer (5), Cabinet (8).
+Act: close Drawer (5)
+You close Drawer (5). You see Statue (2), Shelf (5), Drawer (2, 5), Cabinet (8).
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Statue (5), Shelf (3), Drawer (1, 6), Cabinet (7). Drawer (6) is closed. 
+Act: open Drawer (6)
+You open Drawer (6). You see Statue (5), Shelf (3), Drawer (6), Cabinet (2, 7).
+Act: close Drawer (6)
+You close Drawer (6). You see Statue (5), Shelf (3, 8), Drawer (1, 6), Cabinet (2, 7).
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see Television (1), Shelf (7), Drawer (4, 7). Drawer (7) is closed. 
+Act: open Drawer (7)
+You open Drawer (7). You see Shelf (7), Drawer (7).
+Act: close Drawer (7)
+You close Drawer (7). You see Shelf (7), Drawer (4, 7).
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Shelf (1, 6), Drawer (2, 5), Cabinet (1). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see Shelf (1, 6), Drawer (2, 5), Cabinet (1, 8).
+Act: close Cabinet (1)
+You close Cabinet (1). You see Shelf (1, 6), Drawer (2, 5), Cabinet (1, 8).
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Sofa (1), Drawer (1, 6), Cabinet (2). Cabinet (2) is closed. 
+Act: open Cabinet (2)
+You open Cabinet (2). You see Cabinet (2).
+Act: close Cabinet (2)
+You close Cabinet (2). You see Sofa (1), Drawer (1, 6), Cabinet (2).
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see Cabinet (3). Cabinet (3) is closed. 
+Act: open Cabinet (3)
+You open Cabinet (3). You see Shelf (9), Cabinet (3, 4).
+Act: close Cabinet (3)
+You close Cabinet (3). You see Shelf (9), Cabinet (3, 4).
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see Cabinet (3, 4). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+You open Cabinet (4). You see Cabinet (3, 4).

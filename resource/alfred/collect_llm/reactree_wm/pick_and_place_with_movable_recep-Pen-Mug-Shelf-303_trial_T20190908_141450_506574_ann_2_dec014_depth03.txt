@@ -1,0 +1,17 @@
+Your primary goal is to: Put a cup with a pen in it on the shelf in a bookcase.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up cup, place cup in bookcase, and place pen in cup.
+Your task is to: place pen in cup
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5), Desk (1), Bed (1).
+Think: I hold Pen (1). Now, I need to put it in the cup. I can see Cup (1).
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TennisRacket (1, 1), Shelf (1, 1, 4, 4, 5, 6, 6, 7, 7, 8, 8, 9, 9, 10, 10, 11, 11, 12, 12), Pen (1, 1), Mug (1, 1), KeyChain (1), CreditCard (3, 3). 
+Act: pick up Pen (1)
+You pick up Pen (1). You see TennisRacket (1), Shelf (1, 4, 5, 6, 7, 8, 9, 10, 11, 12), Pen (1), Mug (1), CreditCard (3). I am holding Pen (1) now.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TennisRacket (1), Shelf (1, 4, 6, 7, 8, 9, 10, 11, 12), Pen (1), Mug (1), KeyChain (1), CreditCard (3).  I am holding Pen (1) now.
+Act: put down Pen (1)
+You put Pen (1) on Shelf (1). You see TennisRacket (1), Shelf (1, 4, 6, 7, 8, 9, 10, 11, 12), Pen (1), Mug (1), KeyChain (1), CreditCard (3).
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,7 @@
+Your task is to: place a tray with a sliced tomato with a knife on it in the fridge
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2).
+Think: Since I’m not holding anything, I need to accomplish 5 subgoals sequentially to solve the task. Find and pick up plate, place plate in fridge, find and pick up knife, slice and pick up tomato, and place tomato on plate near fridge.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up plate, place plate in fridge, find and pick up knife, slice and pick up tomato, and place tomato on plate near fridge

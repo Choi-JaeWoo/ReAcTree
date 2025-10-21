@@ -1,0 +1,7 @@
+Your task is to: Take the keys from the footstool at the middle of the room, put them on the switch of the light in the corner of the room turn the light on while doing so.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), Ottoman (1), GarbageCan (1), Dresser (1, 2), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CoffeeTable (1, 2), ArmChair (1).
+Think: Since I’m not holding keys, I need to accomplish 3 subgoals sequentially to solve the task. Find and pick up keys, place keys on switch, and turn on light.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up keys, place keys on switch, turn on light

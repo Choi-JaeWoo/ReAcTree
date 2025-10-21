@@ -1,0 +1,19 @@
+Your primary goal is to: Move the pen with the coffee mug to a new location.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pen, place pen on coffee mug, find and pick up coffee mug, and place coffee mug on new location.
+Your task is to: find and pick up coffee mug
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1, 2), GarbageCan (1), Drawer (1, 2, 3, 4), DiningTable (1), Bed (1).
+Think: First, I need to recall location of the coffee mug.
+OK.
+Act: recall location of Mug
+You saw Mug (1) near SideTable (1).
+Think: Now, I need to find the coffee mug. The coffee mug is more likely to appear on SideTable (1-2), or in Drawer (1-4). I can check each place one by one, starting from SideTable (1), until I find the coffee mug.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (1), Pen (2), Mug (1), Drawer (1, 2), CellPhone (2), Bed (1), AlarmClock (1). 
+Think: I find Mug (1). Now, I need to pick it up.
+OK.
+Act: pick up Mug (1)
+You pick up Mug (1). You see SideTable (1), Pencil (1), Pen (2), Mug (1), Drawer (1, 2), CellPhone (2), Bed (1), AlarmClock (1). I am holding Mug (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

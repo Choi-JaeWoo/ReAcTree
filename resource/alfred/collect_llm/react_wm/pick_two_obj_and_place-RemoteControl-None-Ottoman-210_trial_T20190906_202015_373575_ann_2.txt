@@ -1,0 +1,87 @@
+Your task is to: Put two remote controls on to the ottoman in front of the couch
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), Ottoman (1), GarbageCan (1), Dresser (1, 2), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CoffeeTable (1, 2), ArmChair (1).
+Think: To solve the task, I need to find and pick up the remote controls, then put it on the ottoman.
+OK.
+Think: First, I need to recall location of the remote control.
+OK.
+Act: recall location of RemoteControl
+You have not seen RemoteControl before.
+Think: Now I need to find the remote control. The remote control is more likely to appear on Sofa (1), Ottoman (1), CoffeeTable (1-2), ArmChair (1), or in Drawer (1-8). I can check each place one by one, starting from Sofa (1), until I find the remote control.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), RemoteControl (1, 2), Pillow (1), Box (2). 
+Think: I find RemoteControl (1). Now, I need to pick it up.
+OK.
+Act: pick up RemoteControl (1)
+You pick up RemoteControl (1). You see Sofa (1), RemoteControl (1, 2), Pillow (1), Box (2). I am holding RemoteControl (1) now.
+Think: I hold RemoteControl (1). Now, I need to put it on the ottoman.
+OK.
+Act: go to Ottoman (1)
+You arrive at Ottoman (1). You see RemoteControl (1), Ottoman (1), Newspaper (1), Laptop (1).  I am holding RemoteControl (1) now.
+Act: put down RemoteControl (1)
+You put RemoteControl (1) on Ottoman (1). You see RemoteControl (1), Ottoman (1), Newspaper (1), Laptop (1).
+Think: I put RemoteControl (1) on the Ottoman (1). Now, I need to recall location of RemoteControl.
+OK.
+Act: recall location of RemoteControl
+You saw RemoteControl (1) near Ottoman (1). You saw RemoteControl (2) near Sofa (1).
+Think: RemoteControl (2) is on Sofa (1). Now, I need to find another remote control. The remote control is more likely to appear on Ottoman (1), CoffeeTable (1-2), ArmChair (1), or in Drawer (1-8). I can check each place one by one, starting from Ottoman (1), until I find the remote control.
+OK.
+Act: go to Ottoman (1)
+You arrive at Ottoman (1). You see RemoteControl (1), Ottoman (1), Newspaper (1), Laptop (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see DeskLamp (1), CoffeeTable (1), Chair (1). 
+Act: go to CoffeeTable (2)
+You arrive at CoffeeTable (2). You see Sofa (1), KeyChain (1), GarbageCan (1), CoffeeTable (2), ArmChair (1). 
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see CreditCard (3), ArmChair (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Dresser (2), Drawer (1, 2, 3, 4), Curtains (2). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Dresser (2), Drawer (1, 2, 3, 4), Curtains (2).
+Act: close Drawer (1)
+You close Drawer (1). You see Dresser (2), Drawer (1, 2, 3, 4), Curtains (2).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Dresser (2), Drawer (1, 2, 3, 4), Curtains (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see Watch (2), Dresser (2), Drawer (1, 2, 3, 4), Curtains (1, 2).
+Act: close Drawer (2)
+You close Drawer (2). You see Dresser (2), Drawer (1, 2, 3, 4), Curtains (1, 2).
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Dresser (2), Drawer (1, 2, 3, 4), Curtains (2). Drawer (3) is closed. 
+Act: open Drawer (3)
+You open Drawer (3). You see Dresser (2), Drawer (2, 3, 4), Curtains (2).
+Act: close Drawer (3)
+You close Drawer (3). You see Dresser (2), Drawer (1, 2, 3, 4), Curtains (2).
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Dresser (2), Drawer (1, 2, 3, 4), Curtains (1). Drawer (4) is closed. 
+Act: open Drawer (4)
+You open Drawer (4). You see Watch (1), Dresser (2), Drawer (1, 3, 4), Curtains (1, 2).
+Act: close Drawer (4)
+You close Drawer (4). You see Dresser (2), Drawer (1, 2, 3, 4), Curtains (1, 2).
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Television (1), Statue (1), Dresser (1), Drawer (5, 6, 7, 8), CreditCard (2). Drawer (5) is closed. 
+Act: open Drawer (5)
+You open Drawer (5). You see Television (1), Statue (1), Dresser (1), Drawer (5, 7, 8), CreditCard (2).
+Act: close Drawer (5)
+You close Drawer (5). You see Television (1), Statue (1), Dresser (1), Drawer (5, 6, 7, 8), CreditCard (2).
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Television (1), Statue (1), Dresser (1), Drawer (5, 6, 7, 8), CreditCard (2). Drawer (6) is closed. 
+Act: open Drawer (6)
+You open Drawer (6). You see Statue (1), Dresser (1), Drawer (5, 6, 7, 8).
+Act: close Drawer (6)
+You close Drawer (6). You see Statue (1), Dresser (1), Drawer (5, 6, 7, 8).
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see Television (1), Dresser (1), Drawer (5, 6, 7, 8), Curtains (2), CreditCard (2), Box (1). Drawer (7) is closed. 
+Act: open Drawer (7)
+You open Drawer (7). You see Dresser (1), Drawer (5, 6, 7, 8), Curtains (2), Box (1).
+Act: close Drawer (7)
+You close Drawer (7). You see Dresser (1), Drawer (5, 6, 7, 8), Curtains (2), Box (1).
+Act: go to Drawer (8)
+You arrive at Drawer (8). You see Television (1), Dresser (1), Drawer (5, 6, 7, 8), Curtains (2), CreditCard (2), Box (1). Drawer (8) is closed. 
+Act: open Drawer (8)
+You open Drawer (8). You see Television (1), Dresser (1), Drawer (5, 6, 8), Curtains (2), CreditCard (2), Box (1).
+Act: close Drawer (8)
+You close Drawer (8). You see Television (1), Dresser (1), Drawer (5, 6, 7, 8), Curtains (2), CreditCard (2), Box (1).
+Think: I can not find the remote control. I fail to accomplish the goal.
+OK.
+Act: failure

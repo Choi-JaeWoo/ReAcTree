@@ -1,0 +1,25 @@
+Your primary goal is to: Examine a cardboard box using the light from a floor lamp.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up cardboard box, and find and turn on lamp.
+Your task is to: find and pick up cardboard box
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1), GarbageCan (1), Drawer (1), DiningTable (1), CoffeeTable (1, 2), ArmChair (1).
+Think: First, I need to recall location of the cardboard box.
+OK.
+Act: recall location of Box
+You have not seen Box before.
+Think: Now, I need to find the cardboard box. The cardboard box is more likely to appear on CoffeeTable (1-2), SideTable (1), or in Drawer (1). I can check each place one by one, starting from CoffeeTable (1), until I find the cardboard box.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Pen (3), Laptop (2), CoffeeTable (1). 
+Act: go to CoffeeTable (2)
+You arrive at CoffeeTable (2). You see Television (1), SideTable (1), RemoteControl (3), CoffeeTable (2). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1), Television (1), Statue (1), SideTable (1), KeyChain (1), Drawer (1), CoffeeTable (2), ArmChair (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Vase (1), Television (1), Statue (1), SideTable (1), KeyChain (1), Drawer (1), CoffeeTable (2). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Vase (1), Television (1), Statue (1), SideTable (1), KeyChain (1), Drawer (1), CoffeeTable (2), ArmChair (1).
+Act: close Drawer (1)
+You close Drawer (1). You see Vase (1), Television (1), Statue (1), SideTable (1), KeyChain (1), Drawer (1), CoffeeTable (2), ArmChair (1).
+Think: I cannot find the cardboard box. I fail to accomplish the goal.
+OK.
+Act: failure

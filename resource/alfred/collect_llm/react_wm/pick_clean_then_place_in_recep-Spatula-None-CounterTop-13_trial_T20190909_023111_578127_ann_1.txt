@@ -1,0 +1,97 @@
+Your task is to: Place a washed spatula on the counter top
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26).
+Think: To solve the task, I need to find and pick up the spatula. And I need to find and wash the spatula. And I need to put down the spatula, then pick it up, then put it on the counter top.
+OK.
+Think: First, I need to recall location of the spatula.
+OK.
+Act: recall location of Spatula
+You have not seen Spatula before.
+Think: Now I need to find the spatula. The spatula is more likely to appear on CounterTop (1-3), or in Fridge (1), Microwave (1), Cabinet (1-26), Drawer (1-12). I can check each place one by one, starting from CounterTop (1), until I find the spatula.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Plate (2), Drawer (6, 7), CounterTop (1), Cabinet (6, 10). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see WineBottle (1), StoveBurner (1), SaltShaker (1, 2), Pencil (2, 3), PaperTowelRoll (1), Pan (1), LightSwitch (1), Lettuce (2), Fork (1, 2), CounterTop (2), Cabinet (22), Apple (1). 
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see SoapBottle (2), Knife (1), Drawer (3, 12), CounterTop (3), Cabinet (1, 9), ButterKnife (2), Bread (1). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Cabinet (26). Fridge (1) is closed. 
+Act: open Fridge (1)
+You open Fridge (1). You see Lettuce (1), Fridge (1), Cabinet (26).
+Act: close Fridge (1)
+You close Fridge (1). You see Fridge (1), Cabinet (26).
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see StoveKnob (1, 2, 3, 4), StoveBurner (2, 3), Pot (1), Pan (1), Microwave (1), CounterTop (1, 2). Microwave (1) is closed. 
+Act: open Microwave (1)
+You open Microwave (1). You see StoveKnob (1, 2, 3, 4), StoveBurner (2, 3), Pot (1), Plate (3), Pan (1), Microwave (1), CounterTop (1, 2).
+Act: close Microwave (1)
+You close Microwave (1). You see StoveKnob (1, 2, 3, 4), StoveBurner (2, 3), Pot (1), Pan (1), Microwave (1), CounterTop (1, 2).
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see SoapBottle (2), Knife (1), Drawer (3, 12), CounterTop (3), Cabinet (1, 2, 9, 26), ButterKnife (2), Bread (1). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see Drawer (2, 3, 12), CounterTop (3), Cabinet (1, 2, 9, 26).
+Act: close Cabinet (1)
+You close Cabinet (1). You see Drawer (2, 3, 12), CounterTop (3), Cabinet (1, 2, 9, 26).
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Drawer (2), CounterTop (3), CoffeeMachine (1), Cabinet (1, 2). Cabinet (2) is closed. 
+Act: open Cabinet (2)
+You open Cabinet (2). You see Drawer (2), CounterTop (3), CoffeeMachine (1), Cabinet (1, 2).
+Act: close Cabinet (2)
+You close Cabinet (2). You see Drawer (2), CounterTop (3), CoffeeMachine (1), Cabinet (1, 2).
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see Microwave (1), Cabinet (3). Cabinet (3) is closed. 
+Act: open Cabinet (3)
+You open Cabinet (3). You see Microwave (1), Cabinet (3).
+Act: close Cabinet (3)
+You close Cabinet (3). You see Microwave (1), Cabinet (3).
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see Tomato (3), Sink (1), SinkBasin (1), Egg (1), Drawer (11), CounterTop (1), Cabinet (4, 8, 12, 17, 19, 23). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+You open Cabinet (4). You see Tomato (3), Sink (1), SinkBasin (1), Egg (1), Drawer (11), CounterTop (1), Cabinet (4, 8, 12, 17, 19, 23).
+Act: close Cabinet (4)
+You close Cabinet (4). You see Tomato (3), Sink (1), SinkBasin (1), Egg (1), Drawer (11), CounterTop (1), Cabinet (4, 8, 12, 17, 19, 23).
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Cabinet (5). Cabinet (5) is closed. 
+Act: open Cabinet (5)
+You open Cabinet (5). You see Cabinet (5).
+Act: close Cabinet (5)
+You close Cabinet (5). You see Cabinet (5).
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Spoon (1), Plate (1), Drawer (5, 6, 7, 8), CounterTop (1), Cabinet (6, 10, 15, 20), ButterKnife (1). Cabinet (6) is closed. 
+Act: open Cabinet (6)
+The Cabinet (6) is open failed.
+Act: close Cabinet (6)
+The Cabinet (6) is already closed.
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Cabinet (7, 21). Cabinet (7) is closed. 
+Act: open Cabinet (7)
+You open Cabinet (7). You see Cabinet (7, 21).
+Act: close Cabinet (7)
+You close Cabinet (7). You see Cabinet (7, 21).
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Toaster (1), Spatula (1), Drawer (4, 10, 11), CounterTop (1), Cabinet (4, 8, 12, 17). Cabinet (8) is closed. 
+Think: I find Spatula (1). Now, I need to pick it up.
+OK.
+Act: pick up Spatula (1)
+You pick up Spatula (1). You see Toaster (1), Spatula (1), Drawer (4, 10, 11), CounterTop (1), Cabinet (4, 8, 12, 17). I am holding Spatula (1) now.
+Think: I hold Spatula (1). Now, I need to find and wash the spatula.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (1), Sink (1), SinkBasin (1), Potato (1), Faucet (1), Egg (1, 2), CounterTop (1), Cabinet (4, 19, 23), Apple (2).  I am holding Spatula (1) now.
+Act: turn on Faucet (1)
+You turn on Faucet (1). You see Tomato (3), Spoon (2), Spatula (1), Sink (1), SinkBasin (1), Potato (1), Faucet (1), Egg (1, 2), CounterTop (1), Cabinet (4, 19, 23), Apple (2). I am holding Spatula (1) now.
+Act: turn off Faucet (1)
+You turn off Faucet (1). You see Tomato (3), Spoon (2), Spatula (1), Sink (1), SinkBasin (1), Potato (1), Faucet (1), Egg (1, 2), CounterTop (1), Cabinet (4, 19, 23), Apple (2). I am holding Spatula (1) now.
+Think: I wash Spatula (1). Now, I need to put down the spatula, then pick it up, then put it on the counter top.
+OK.
+Act: put down Spatula (1)
+You put down failed, drop it. You see Tomato (3), Spoon (2), Spatula (1), Sink (1), SinkBasin (1), Potato (1), Faucet (1), Egg (1, 2), Drawer (11), CounterTop (1), Cabinet (4, 19, 23), Apple (2).
+Act: pick up Spatula (1)
+You pick up Spatula (1). You see Tomato (3), Spoon (2), Spatula (1), Sink (1), SinkBasin (1), Potato (1), Faucet (1), Egg (1, 2), CounterTop (1), Cabinet (4, 19, 23), Apple (2). I am holding Spatula (1) now.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Plate (2), Drawer (6, 7), CounterTop (1), Cabinet (6, 10).  I am holding Spatula (1) now.
+Act: put down Spatula (1)
+You put Spatula (1) on CounterTop (1). You see Spatula (1), Plate (2), Drawer (6, 7), CounterTop (1), Cabinet (6, 10).
+Think: Now I accomplish the goal.
+OK.
+Act: done

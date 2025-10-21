@@ -1,0 +1,159 @@
+Your primary goal is to: Put a heated potato in a bin
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up potato, heat and pick up potato, find and pick up bin, and place potato in bin.
+Your task is to: find and pick up bin
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20). I am holding Apple (1) now.
+Think: First, I need to recall location of the bin.
+OK.
+Act: recall location of Box
+You have not seen Box before.
+Think: Now, I need to find the bin. The bin is more likely to appear on CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-20), Drawer (1-3). I can check each place one by one, starting from CounterTop (1), until I find the bin.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), PepperShaker (2), Pan (1), CounterTop (1), CoffeeMachine (1), Cabinet (4), Bread (1), Apple (1).  I am holding Apple (1) now.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Statue (2, 3), Ladle (1), Knife (1), Fork (1), DishSponge (1, 2), CounterTop (2), Chair (1, 2), Apple (1).  I am holding Apple (1) now.
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Statue (2, 3), Potato (1), Knife (1), HousePlant (1), Drawer (1, 2), DishSponge (1, 2), CounterTop (2, 3), Cabinet (8, 11), ButterKnife (2), Apple (1).  I am holding Apple (1) now.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Spoon (2), Sink (1), SinkBasin (1), Plate (1), Faucet (1), Drawer (3), Cup (1), CounterTop (1), CoffeeMachine (1), Cabinet (20), Apple (1).  I am holding Apple (1) now.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see GarbageCan (1), Fridge (1), Cabinet (7), Apple (1). Fridge (1) is closed.  I am holding Apple (1) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Tomato (1), Fridge (1), Cabinet (7), Bowl (1), Apple (1, 3). I am holding Apple (1) now.
+Act: close Fridge (1)
+You close Fridge (1). You see GarbageCan (1), Fridge (1), Cabinet (7), Apple (1). I am holding Apple (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Pan (1), Microwave (1), Fridge (1), Egg (1, 3), CounterTop (1), Cabinet (7), Apple (1). Microwave (1) is open.  I am holding Apple (1) now.
+Act: close Microwave (1)
+You close Microwave (1). You see Pan (1), Microwave (1), Fridge (1), CounterTop (1), Cabinet (7), Apple (1). I am holding Apple (1) now.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Pan (1, 1), Microwave (1, 1), Fridge (1, 1, 1), CounterTop (1, 1), Cabinet (1, 7, 7, 19), Apple (1, 1, 1). Cabinet (1) is closed.  I am holding Apple (1) now.
+Act: open Cabinet (1)
+You open Cabinet (1). You see Fridge (1), Cabinet (1, 19), Apple (1). I am holding Apple (1) now.
+Act: close Cabinet (1)
+You close Cabinet (1). You see Fridge (1), Cabinet (1, 19), Apple (1). I am holding Apple (1) now.
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Cabinet (2, 6, 13), Apple (1). Cabinet (2) is closed.  I am holding Apple (1) now.
+Act: open Cabinet (2)
+You open Cabinet (2). You see Cabinet (2, 6, 13), Apple (1). I am holding Apple (1) now.
+Act: close Cabinet (2)
+You close Cabinet (2). You see Cabinet (2, 6, 13), Apple (1). I am holding Apple (1) now.
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see Statue (2), Spatula (1), Drawer (1, 2), CounterTop (3), Cabinet (3, 8, 11), ButterKnife (2), Apple (1). Cabinet (3) is closed.  I am holding Apple (1) now.
+Act: open Cabinet (3)
+The Cabinet (3) is open failed. I am holding Apple (1) now.
+Act: close Cabinet (3)
+The Cabinet (3) is already closed. I am holding Apple (1) now.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see PepperShaker (2), Pan (1), Microwave (1), CounterTop (1), Cabinet (4, 7), Bread (1), Apple (1). Cabinet (4) is closed.  I am holding Apple (1) now.
+Act: open Cabinet (4)
+You open Cabinet (4). You see PepperShaker (2), Pan (1), Microwave (1), CounterTop (1), Cabinet (4, 7), Bread (1), Apple (1). I am holding Apple (1) now.
+Act: close Cabinet (4)
+You close Cabinet (4). You see PepperShaker (2), Pan (1), Microwave (1), CounterTop (1), Cabinet (4, 7), Bread (1), Apple (1). I am holding Apple (1) now.
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see PepperShaker (2, 2, 2, 2), Pan (1, 1, 1, 1), Microwave (1, 1, 1, 1), HousePlant (1), CounterTop (1, 1, 1, 1), Cabinet (4, 4, 4, 4, 5, 7, 7, 7, 7), Bread (1, 1, 1, 1), Apple (1, 1, 1, 1, 1). Cabinet (5) is closed.  I am holding Apple (1) now.
+Act: open Cabinet (5)
+You open Cabinet (5). You see HousePlant (1), Cabinet (5), Apple (1). I am holding Apple (1) now.
+Act: close Cabinet (5)
+You close Cabinet (5). You see HousePlant (1), Cabinet (5), Apple (1). I am holding Apple (1) now.
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Cabinet (6, 12), Apple (1). Cabinet (6) is closed.  I am holding Apple (1) now.
+Act: open Cabinet (6)
+You open Cabinet (6). You see Cabinet (6, 12), Apple (1). I am holding Apple (1) now.
+Act: close Cabinet (6)
+You close Cabinet (6). You see Cabinet (6, 12), Apple (1). I am holding Apple (1) now.
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Microwave (1), Fridge (1), Cabinet (4, 7), Apple (1). Cabinet (7) is closed.  I am holding Apple (1) now.
+Act: open Cabinet (7)
+You open Cabinet (7). You see Microwave (1), Fridge (1), Cabinet (4, 7), Apple (1). I am holding Apple (1) now.
+Act: close Cabinet (7)
+You close Cabinet (7). You see Microwave (1), Fridge (1), Cabinet (4, 7), Apple (1). I am holding Apple (1) now.
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Statue (2, 3), SoapBottle (1), SaltShaker (1), Ladle (3), Egg (2), Drawer (1, 2), CounterTop (3), Cabinet (3, 8, 11), ButterKnife (1, 2), Apple (1). Cabinet (8) is closed.  I am holding Apple (1) now.
+Act: open Cabinet (8)
+You open Cabinet (8). You see Statue (2, 3), SoapBottle (1), SaltShaker (1), Ladle (3), Egg (2), Drawer (1, 2), CounterTop (3), Cabinet (3, 8, 11), ButterKnife (1, 2), Apple (1). I am holding Apple (1) now.
+Act: close Cabinet (8)
+You close Cabinet (8). You see Statue (2, 3), SoapBottle (1), SaltShaker (1), Ladle (3), Egg (2), Drawer (1, 2), CounterTop (3), Cabinet (3, 8, 11), ButterKnife (1, 2), Apple (1). I am holding Apple (1) now.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see StoveKnob (3), StoveBurner (4), Spoon (2), Sink (1), SinkBasin (1), Plate (1), Mug (1), Lettuce (1), Fork (3), Drawer (3), CounterTop (1), Cabinet (9, 20), Apple (1). Cabinet (9) is closed.  I am holding Apple (1) now.
+Act: open Cabinet (9)
+You open Cabinet (9). You see Vase (2), StoveKnob (3), StoveBurner (4), Spoon (2), Sink (1), SinkBasin (1), Plate (1), Mug (1), Lettuce (1), Fork (3), Drawer (3), CounterTop (1), Cabinet (9, 20), Apple (1). I am holding Apple (1) now.
+Act: close Cabinet (9)
+You close Cabinet (9). You see StoveKnob (3), StoveBurner (4), Spoon (2), Sink (1), SinkBasin (1), Plate (1), Mug (1), Lettuce (1), Fork (3), Drawer (3), CounterTop (1), Cabinet (9, 20), Apple (1). I am holding Apple (1) now.
+Act: go to Cabinet (10)
+You arrive at Cabinet (10). You see Cabinet (10, 12, 17), Apple (1). Cabinet (10) is closed.  I am holding Apple (1) now.
+Act: open Cabinet (10)
+You open Cabinet (10). You see Cabinet (10, 12, 17), Apple (1). I am holding Apple (1) now.
+Act: close Cabinet (10)
+You close Cabinet (10). You see Cabinet (10, 12, 17), Apple (1). I am holding Apple (1) now.
+Act: go to Cabinet (11)
+You arrive at Cabinet (11). You see Statue (2, 3), Spatula (1), Drawer (1, 2), CounterTop (3), Cabinet (3, 8, 11), ButterKnife (2), Apple (1). Cabinet (11) is closed.  I am holding Apple (1) now.
+Act: open Cabinet (11)
+You open Cabinet (11). You see Statue (2), Mug (2), Drawer (1, 2), CounterTop (3), Cabinet (3, 8, 11), Apple (1). I am holding Apple (1) now.
+Act: close Cabinet (11)
+You close Cabinet (11). You see Statue (2), Drawer (1, 2), CounterTop (3), Cabinet (3, 8, 11), Apple (1). I am holding Apple (1) now.
+Act: go to Cabinet (12)
+You arrive at Cabinet (12). You see Cabinet (6, 10, 12), Apple (1). Cabinet (12) is closed.  I am holding Apple (1) now.
+Act: open Cabinet (12)
+You open Cabinet (12). You see Cabinet (6, 10, 12), Bowl (2), Apple (1). I am holding Apple (1) now.
+Act: close Cabinet (12)
+You close Cabinet (12). You see Cabinet (6, 10, 12), Apple (1). I am holding Apple (1) now.
+Act: go to Cabinet (13)
+You arrive at Cabinet (13). You see Cabinet (2, 13, 14), Apple (1). Cabinet (13) is closed.  I am holding Apple (1) now.
+Act: open Cabinet (13)
+You open Cabinet (13). You see Cabinet (2, 13, 14), Apple (1). I am holding Apple (1) now.
+Act: close Cabinet (13)
+You close Cabinet (13). You see Cabinet (2, 13, 14), Apple (1). I am holding Apple (1) now.
+Act: go to Cabinet (14)
+You arrive at Cabinet (14). You see Cabinet (2, 13, 14), Apple (1). Cabinet (14) is closed.  I am holding Apple (1) now.
+Act: open Cabinet (14)
+You open Cabinet (14). You see Cabinet (2, 13, 14), Apple (1). I am holding Apple (1) now.
+Act: close Cabinet (14)
+You close Cabinet (14). You see Cabinet (2, 13, 14), Apple (1). I am holding Apple (1) now.
+Act: go to Cabinet (15)
+You arrive at Cabinet (15). You see Cabinet (15, 18, 19), Apple (1). Cabinet (15) is closed.  I am holding Apple (1) now.
+Act: open Cabinet (15)
+You open Cabinet (15). You see Cabinet (15, 18, 19), Apple (1). I am holding Apple (1) now.
+Act: close Cabinet (15)
+You close Cabinet (15). You see Cabinet (15, 18, 19), Apple (1). I am holding Apple (1) now.
+Act: go to Cabinet (16)
+You arrive at Cabinet (16). You see Cabinet (10, 16, 17), Apple (1). Cabinet (16) is closed.  I am holding Apple (1) now.
+Act: open Cabinet (16)
+You open Cabinet (16). You see Cabinet (5, 10, 12, 16, 17), Apple (1). I am holding Apple (1) now.
+Act: close Cabinet (16)
+You close Cabinet (16). You see Cabinet (5, 10, 12, 16, 17), Apple (1). I am holding Apple (1) now.
+Act: go to Cabinet (17)
+You arrive at Cabinet (17). You see Cabinet (10, 16, 17), Apple (1). Cabinet (17) is closed.  I am holding Apple (1) now.
+Act: open Cabinet (17)
+You open Cabinet (17). You see Cabinet (10, 16, 17), Apple (1). I am holding Apple (1) now.
+Act: close Cabinet (17)
+You close Cabinet (17). You see Cabinet (10, 16, 17), Apple (1). I am holding Apple (1) now.
+Act: go to Cabinet (18)
+You arrive at Cabinet (18). You see Cabinet (15, 18), Apple (1). Cabinet (18) is closed.  I am holding Apple (1) now.
+Act: open Cabinet (18)
+You open Cabinet (18). You see Cabinet (15, 18), Apple (1). I am holding Apple (1) now.
+Act: close Cabinet (18)
+You close Cabinet (18). You see Cabinet (15, 18), Apple (1). I am holding Apple (1) now.
+Act: go to Cabinet (19)
+You arrive at Cabinet (19). You see Cabinet (1, 19), Apple (1). Cabinet (19) is closed.  I am holding Apple (1) now.
+Act: open Cabinet (19)
+You open Cabinet (19). You see Cabinet (1, 19), Apple (1). I am holding Apple (1) now.
+Act: close Cabinet (19)
+You close Cabinet (19). You see Cabinet (1, 19), Apple (1). I am holding Apple (1) now.
+Act: go to Cabinet (20)
+You arrive at Cabinet (20). You see Spoon (2), Sink (1), SinkBasin (1), Plate (1), Mug (1), Lettuce (1), Fork (3), Drawer (3), CounterTop (1), Cabinet (9, 20), Apple (1). Cabinet (20) is closed.  I am holding Apple (1) now.
+Act: open Cabinet (20)
+You open Cabinet (20). You see Spoon (2), Sink (1), SinkBasin (1), Plate (1), Mug (1), Lettuce (1), Fork (3), Drawer (3), CounterTop (1), Cabinet (9, 20), Bowl (3), Apple (1). I am holding Apple (1) now.
+Act: close Cabinet (20)
+You close Cabinet (20). You see Spoon (2), Sink (1), SinkBasin (1), Plate (1), Mug (1), Lettuce (1), Fork (3), Drawer (3), CounterTop (1), Cabinet (9, 20), Apple (1). I am holding Apple (1) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Statue (2, 3), Spatula (1), Drawer (1, 2), CounterTop (3), Cabinet (3, 8, 11), ButterKnife (2), Apple (1). Drawer (1) is closed.  I am holding Apple (1) now.
+Act: open Drawer (1)
+You open Drawer (1). You see Statue (2, 3), Ladle (2), Drawer (1, 2), CounterTop (3), Cabinet (3, 8), Apple (1). I am holding Apple (1) now.
+Act: close Drawer (1)
+You close Drawer (1). You see Statue (2, 3), Drawer (1, 2), CounterTop (3), Cabinet (3, 8, 11), Apple (1). I am holding Apple (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Statue (2), Spatula (1), Drawer (1, 2), CounterTop (3), Cabinet (3, 8, 11), ButterKnife (2), Apple (1). Drawer (2) is closed.  I am holding Apple (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Statue (2), Fork (2), Drawer (1, 2), CounterTop (3), Cabinet (8, 11), Apple (1). I am holding Apple (1) now.
+Max decisions

@@ -1,0 +1,35 @@
+Your primary goal is to: Heat up a cup from the cabinet next to the fridge to put it away over the microwave.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up mug, heat and pick up mug, and place mug on microwave.
+Your task is to: find and pick up mug
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), CounterTop (1, 2, 3, 4), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15).
+Think: First, I need to recall location of the mug.
+OK.
+Act: recall location of Mug
+You have not seen Mug before.
+Think: Now, I need to find the mug. The mug is more likely to appear on CoffeeMachine (1), CounterTop (1-4), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-15), Drawer (1-4). I can check each place one by one, starting from CoffeeMachine (1), until I find the mug.
+OK.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see Window (1), Sink (1), SinkBasin (1), SaltShaker (2), Mug (3), Faucet (1), CounterTop (3), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (2), StoveKnob (3, 4), StoveBurner (2, 3), Spoon (1), SaltShaker (1), PepperShaker (2), PaperTowelRoll (1), Mug (1), Kettle (1), GarbageCan (1), Egg (1), CounterTop (1). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Plate (1), Pan (1), Knife (2), Fork (1), CounterTop (2), ButterKnife (1), Bread (1). 
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see SaltShaker (2), Mug (3), CounterTop (3), CoffeeMachine (1). 
+Act: go to CounterTop (4)
+You arrive at CounterTop (4). You see Chair (1), Cabinet (2, 3). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (1), Tomato (2), Sink (1), SinkBasin (1), Potato (1), Plate (2), Faucet (1), CounterTop (3), CoffeeMachine (1). 
+Think: I find Mug (3). Now, I need to pick it up.
+OK.
+Act: pick up Plate (2)
+You pick up Plate (2). You see Window (1), Tomato (2), Sink (1), SinkBasin (1), Plate (2), Faucet (1), CounterTop (3), CoffeeMachine (1). I am holding Plate (2) now.
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see SaltShaker (2), Plate (2), Mug (3), CounterTop (3), CoffeeMachine (1).  I am holding Plate (2) now.
+Act: put down Plate (2)
+You put down failed, drop it. You see SaltShaker (2), Plate (2), Mug (3), CounterTop (3), CoffeeMachine (1).
+Act: pick up Mug (3)
+You pick up Mug (3). You see SaltShaker (2), Plate (2), Mug (3), CounterTop (3), CoffeeMachine (1). I am holding Mug (3) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

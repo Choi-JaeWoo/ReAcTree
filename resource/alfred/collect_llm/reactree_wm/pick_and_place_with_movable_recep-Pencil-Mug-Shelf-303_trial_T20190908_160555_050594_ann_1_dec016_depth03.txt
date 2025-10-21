@@ -1,0 +1,173 @@
+Your primary goal is to: Pick up pencil, move it to coffee mug, place both on book case
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pencil, place pencil on coffee mug, and place pencil and coffee mug on book case.
+Your task is to: place pencil and coffee mug on book case
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5), Desk (1), Bed (1).
+Think: I hold Pencil (1) and CoffeeMug (1). Now, I need to put them on the book case. I can see Shelf (1-12).
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TennisRacket (1), Shelf (1, 4, 6, 7, 8, 9, 10, 11, 12), Pencil (1), Pen (1), CreditCard (3), CD (2). 
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see TennisRacket (1), Shelf (1, 4, 6, 7, 8, 9, 10, 12), Pencil (1), Pen (1), CreditCard (3), CD (2). 
+Act: go to Shelf (6)
+You arrive at Shelf (6). You see Shelf (1, 4, 5, 6, 7, 9, 12), Pencil (1), Pen (1), Drawer (3, 4), CreditCard (3), CD (2). 
+Act: go to Shelf (7)
+You arrive at Shelf (7). You see Shelf (1, 4, 5, 6, 7, 9, 12), Pencil (1), Pen (1), Drawer (3, 4), CreditCard (3), CD (2). 
+Act: go to Shelf (9)
+You arrive at Shelf (9). You see Shelf (1, 4, 5, 6, 7, 9, 12), Pencil (1), Pen (1), Drawer (3, 4), CreditCard (3), CD (2). 
+Act: go to Shelf (12)
+You arrive at Shelf (12). You see TennisRacket (1), Shelf (1, 4, 6, 7, 9, 12), Pencil (1), Pen (1), Drawer (3, 4), CreditCard (3), CD (2). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TennisRacket (1), Shelf (1, 4, 6, 7, 8, 9, 10, 11, 12), Pencil (1), Pen (1), CreditCard (3), CD (2). 
+Act: go to Shelf (8)
+You arrive at Shelf (8). You see TennisRacket (1), Shelf (1, 4, 6, 8, 9, 10, 11, 12), Pencil (1), Pen (1), CreditCard (3). 
+Act: go to Shelf (10)
+You arrive at Shelf (10). You see Shelf (1, 4, 6, 8, 10, 11). 
+Act: go to Shelf (11)
+You arrive at Shelf (11). You see Shelf (8, 10, 11). 
+Act: go to Shelf (8)
+You arrive at Shelf (8). You see TennisRacket (1), Shelf (1, 4, 6, 8, 9, 10, 11, 12), Pencil (1), Pen (1), CreditCard (3). 
+Act: go to Shelf (9)
+You arrive at Shelf (9). You see Shelf (1, 4, 5, 6, 7, 9, 12), Pencil (1), Pen (1), Drawer (3, 4), CreditCard (3), CD (2). 
+Act: go to Shelf (5)
+You arrive at Shelf (5). You see Shelf (5, 6, 7). 
+Act: go to Shelf (6)
+You arrive at Shelf (6). You see Shelf (1, 4, 5, 6, 7, 9, 12), Pencil (1), Pen (1), Drawer (3, 4), CreditCard (3), CD (2). 
+Act: go to Shelf (7)
+You arrive at Shelf (7). You see Shelf (1, 4, 5, 6, 7, 9, 12), Pencil (1), Pen (1), Drawer (3, 4), CreditCard (3), CD (2). 
+Act: go to Shelf (9)
+You arrive at Shelf (9). You see Shelf (1, 4, 5, 6, 7, 9, 12), Pencil (1), Pen (1), Drawer (3, 4), CreditCard (3), CD (2). 
+Act: go to Shelf (12)
+You arrive at Shelf (12). You see TennisRacket (1), Shelf (1, 4, 6, 7, 9, 12), Pencil (1), Pen (1), Drawer (3, 4), CreditCard (3), CD (2). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TennisRacket (1), Shelf (1, 4, 6, 7, 8, 9, 10, 11, 12), Pencil (1), Pen (1), CreditCard (3), CD (2). 
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see TennisRacket (1), Shelf (1, 4, 6, 7, 8, 9, 10, 12), Pencil (1), Pen (1), CreditCard (3), CD (2). 
+Act: go to Shelf (6)
+You arrive at Shelf (6). You see Shelf (1, 4, 5, 6, 7, 9, 12), Pencil (1), Pen (1), Drawer (3, 4), CreditCard (3), CD (2). 
+Act: go to Shelf (7)
+You arrive at Shelf (7). You see Shelf (1, 4, 5, 6, 7, 9, 12), Pencil (1), Pen (1), Drawer (3, 4), CreditCard (3), CD (2). 
+Act: go to Shelf (9)
+You arrive at Shelf (9). You see Shelf (1, 4, 5, 6, 7, 9, 12), Pencil (1), Pen (1), Drawer (3, 4), CreditCard (3), CD (2). 
+Act: go to Shelf (12)
+You arrive at Shelf (12). You see TennisRacket (1), Shelf (1, 4, 6, 7, 9, 12), Pencil (1), Pen (1), Drawer (3, 4), CreditCard (3), CD (2). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TennisRacket (1), Shelf (1, 4, 6, 7, 8, 9, 10, 11, 12), Pencil (1), Pen (1), CreditCard (3), CD (2). 
+Act: go to Shelf (8)
+You arrive at Shelf (8). You see TennisRacket (1), Shelf (1, 4, 6, 8, 9, 10, 11, 12), Pencil (1), Pen (1), CreditCard (3). 
+Act: go to Shelf (10)
+You arrive at Shelf (10). You see Shelf (1, 4, 6, 8, 10, 11). 
+Act: go to Shelf (11)
+You arrive at Shelf (11). You see Shelf (8, 10, 11). 
+Act: go to Shelf (8)
+You arrive at Shelf (8). You see TennisRacket (1), Shelf (1, 4, 6, 8, 9, 10, 11, 12), Pencil (1), Pen (1), CreditCard (3). 
+Act: go to Shelf (9)
+You arrive at Shelf (9). You see Shelf (1, 4, 5, 6, 7, 9, 12), Pencil (1), Pen (1), Drawer (3, 4), CreditCard (3), CD (2). 
+Act: go to Shelf (5)
+You arrive at Shelf (5). You see Shelf (5, 6, 7). 
+Act: go to Shelf (6)
+You arrive at Shelf (6). You see Shelf (1, 4, 5, 6, 7, 9, 12), Pencil (1), Pen (1), Drawer (3, 4), CreditCard (3), CD (2). 
+Act: go to Shelf (7)
+You arrive at Shelf (7). You see Shelf (1, 4, 5, 6, 7, 9, 12), Pencil (1), Pen (1), Drawer (3, 4), CreditCard (3), CD (2). 
+Act: go to Shelf (9)
+You arrive at Shelf (9). You see Shelf (1, 4, 5, 6, 7, 9, 12), Pencil (1), Pen (1), Drawer (3, 4), CreditCard (3), CD (2). 
+Act: go to Shelf (12)
+You arrive at Shelf (12). You see TennisRacket (1), Shelf (1, 4, 6, 7, 9, 12), Pencil (1), Pen (1), Drawer (3, 4), CreditCard (3), CD (2). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TennisRacket (1), Shelf (1, 4, 6, 7, 8, 9, 10, 11, 12), Pencil (1), Pen (1), CreditCard (3), CD (2). 
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see TennisRacket (1), Shelf (1, 4, 6, 7, 8, 9, 10, 12), Pencil (1), Pen (1), CreditCard (3), CD (2). 
+Act: go to Shelf (6)
+You arrive at Shelf (6). You see Shelf (1, 4, 5, 6, 7, 9, 12), Pencil (1), Pen (1), Drawer (3, 4), CreditCard (3), CD (2). 
+Act: go to Shelf (7)
+You arrive at Shelf (7). You see Shelf (1, 4, 5, 6, 7, 9, 12), Pencil (1), Pen (1), Drawer (3, 4), CreditCard (3), CD (2). 
+Act: go to Shelf (9)
+You arrive at Shelf (9). You see Shelf (1, 4, 5, 6, 7, 9, 12), Pencil (1), Pen (1), Drawer (3, 4), CreditCard (3), CD (2). 
+Act: go to Shelf (12)
+You arrive at Shelf (12). You see TennisRacket (1), Shelf (1, 4, 6, 7, 9, 12), Pencil (1), Pen (1), Drawer (3, 4), CreditCard (3), CD (2). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TennisRacket (1), Shelf (1, 4, 6, 7, 8, 9, 10, 11, 12), Pencil (1), Pen (1), CreditCard (3), CD (2). 
+Act: go to Shelf (8)
+You arrive at Shelf (8). You see TennisRacket (1), Shelf (1, 4, 6, 8, 9, 10, 11, 12), Pencil (1), Pen (1), CreditCard (3). 
+Act: go to Shelf (10)
+You arrive at Shelf (10). You see Shelf (1, 4, 6, 8, 10, 11). 
+Act: go to Shelf (11)
+You arrive at Shelf (11). You see Shelf (8, 10, 11). 
+Act: go to Shelf (8)
+You arrive at Shelf (8). You see TennisRacket (1), Shelf (1, 4, 6, 8, 9, 10, 11, 12), Pencil (1), Pen (1), CreditCard (3). 
+Act: go to Shelf (9)
+You arrive at Shelf (9). You see Shelf (1, 4, 5, 6, 7, 9, 12), Pencil (1), Pen (1), Drawer (3, 4), CreditCard (3), CD (2). 
+Act: go to Shelf (5)
+You arrive at Shelf (5). You see Shelf (5, 6, 7). 
+Act: go to Shelf (6)
+You arrive at Shelf (6). You see Shelf (1, 4, 5, 6, 7, 9, 12), Pencil (1), Pen (1), Drawer (3, 4), CreditCard (3), CD (2). 
+Act: go to Shelf (7)
+You arrive at Shelf (7). You see Shelf (1, 4, 5, 6, 7, 9, 12), Pencil (1), Pen (1), Drawer (3, 4), CreditCard (3), CD (2). 
+Act: go to Shelf (9)
+You arrive at Shelf (9). You see Shelf (1, 4, 5, 6, 7, 9, 12), Pencil (1), Pen (1), Drawer (3, 4), CreditCard (3), CD (2). 
+Act: go to Shelf (12)
+You arrive at Shelf (12). You see TennisRacket (1), Shelf (1, 4, 6, 7, 9, 12), Pencil (1), Pen (1), Drawer (3, 4), CreditCard (3), CD (2). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TennisRacket (1), Shelf (1, 4, 6, 7, 8, 9, 10, 11, 12), Pencil (1), Pen (1), CreditCard (3), CD (2). 
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see TennisRacket (1), Shelf (1, 4, 6, 7, 8, 9, 10, 12), Pencil (1), Pen (1), CreditCard (3), CD (2). 
+Act: go to Shelf (6)
+You arrive at Shelf (6). You see Shelf (1, 4, 5, 6, 7, 9, 12), Pencil (1), Pen (1), Drawer (3, 4), CreditCard (3), CD (2). 
+Act: go to Shelf (7)
+You arrive at Shelf (7). You see Shelf (1, 4, 5, 6, 7, 9, 12), Pencil (1), Pen (1), Drawer (3, 4), CreditCard (3), CD (2). 
+Act: go to Shelf (9)
+You arrive at Shelf (9). You see Shelf (1, 4, 5, 6, 7, 9, 12), Pencil (1), Pen (1), Drawer (3, 4), CreditCard (3), CD (2). 
+Act: go to Shelf (12)
+You arrive at Shelf (12). You see TennisRacket (1), Shelf (1, 4, 6, 7, 9, 12), Pencil (1), Pen (1), Drawer (3, 4), CreditCard (3), CD (2). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TennisRacket (1), Shelf (1, 4, 6, 7, 8, 9, 10, 11, 12), Pencil (1), Pen (1), CreditCard (3), CD (2). 
+Act: go to Shelf (8)
+You arrive at Shelf (8). You see TennisRacket (1), Shelf (1, 4, 6, 8, 9, 10, 11, 12), Pencil (1), Pen (1), CreditCard (3). 
+Act: go to Shelf (10)
+You arrive at Shelf (10). You see Shelf (1, 4, 6, 8, 10, 11). 
+Act: go to Shelf (11)
+You arrive at Shelf (11). You see Shelf (8, 10, 11). 
+Act: go to Shelf (8)
+You arrive at Shelf (8). You see TennisRacket (1), Shelf (1, 4, 6, 8, 9, 10, 11, 12), Pencil (1), Pen (1), CreditCard (3). 
+Act: go to Shelf (9)
+You arrive at Shelf (9). You see Shelf (1, 4, 5, 6, 7, 9, 12), Pencil (1), Pen (1), Drawer (3, 4), CreditCard (3), CD (2). 
+Act: go to Shelf (5)
+You arrive at Shelf (5). You see Shelf (5, 6, 7). 
+Act: go to Shelf (6)
+You arrive at Shelf (6). You see Shelf (1, 4, 5, 6, 7, 9, 12), Pencil (1), Pen (1), Drawer (3, 4), CreditCard (3), CD (2). 
+Act: go to Shelf (7)
+You arrive at Shelf (7). You see Shelf (1, 4, 5, 6, 7, 9, 12), Pencil (1), Pen (1), Drawer (3, 4), CreditCard (3), CD (2). 
+Act: go to Shelf (9)
+You arrive at Shelf (9). You see Shelf (1, 4, 5, 6, 7, 9, 12), Pencil (1), Pen (1), Drawer (3, 4), CreditCard (3), CD (2). 
+Act: go to Shelf (12)
+You arrive at Shelf (12). You see TennisRacket (1), Shelf (1, 4, 6, 7, 9, 12), Pencil (1), Pen (1), Drawer (3, 4), CreditCard (3), CD (2). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TennisRacket (1), Shelf (1, 4, 6, 7, 8, 9, 10, 11, 12), Pencil (1), Pen (1), CreditCard (3), CD (2). 
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see TennisRacket (1), Shelf (1, 4, 6, 7, 8, 9, 10, 12), Pencil (1), Pen (1), CreditCard (3), CD (2). 
+Act: go to Shelf (6)
+You arrive at Shelf (6). You see Shelf (1, 4, 5, 6, 7, 9, 12), Pencil (1), Pen (1), Drawer (3, 4), CreditCard (3), CD (2). 
+Act: go to Shelf (7)
+You arrive at Shelf (7). You see Shelf (1, 4, 5, 6, 7, 9, 12), Pencil (1), Pen (1), Drawer (3, 4), CreditCard (3), CD (2). 
+Act: go to Shelf (9)
+You arrive at Shelf (9). You see Shelf (1, 4, 5, 6, 7, 9, 12), Pencil (1), Pen (1), Drawer (3, 4), CreditCard (3), CD (2). 
+Act: go to Shelf (12)
+You arrive at Shelf (12). You see TennisRacket (1), Shelf (1, 4, 6, 7, 9, 12), Pencil (1), Pen (1), Drawer (3, 4), CreditCard (3), CD (2). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TennisRacket (1), Shelf (1, 4, 6, 7, 8, 9, 10, 11, 12), Pencil (1), Pen (1), CreditCard (3), CD (2). 
+Act: go to Shelf (8)
+You arrive at Shelf (8). You see TennisRacket (1), Shelf (1, 4, 6, 8, 9, 10, 11, 12), Pencil (1), Pen (1), CreditCard (3). 
+Act: go to Shelf (10)
+You arrive at Shelf (10). You see Shelf (1, 4, 6, 8, 10, 11). 
+Act: go to Shelf (11)
+You arrive at Shelf (11). You see Shelf (8, 10, 11). 
+Act: go to Shelf (8)
+You arrive at Shelf (8). You see TennisRacket (1), Shelf (1, 4, 6, 8, 9, 10, 11, 12), Pencil (1), Pen (1), CreditCard (3). 
+Act: go to Shelf (9)
+You arrive at Shelf (9). You see Shelf (1, 4, 5, 6, 7, 9, 12), Pencil (1), Pen (1), Drawer (3, 4), CreditCard (3), CD (2). 
+Act: go to Shelf (5)
+You arrive at Shelf (5). You see Shelf (5, 6, 7). 
+Act: go to Shelf (6)
+You arrive at Shelf (6). You see Shelf (1, 4, 5, 6, 7, 9, 12), Pencil (1), Pen (1), Drawer (3, 4), CreditCard (3), CD (2). 
+Act: go to Shelf (7)
+You arrive at Shelf (7). You see Shelf (1, 4, 5, 6, 7, 9, 12), Pencil (1), Pen (1), Drawer (3, 4), CreditCard (3), CD (2). 
+Max decisions

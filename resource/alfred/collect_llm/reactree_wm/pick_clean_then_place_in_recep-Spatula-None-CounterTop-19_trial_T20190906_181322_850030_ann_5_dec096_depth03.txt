@@ -1,0 +1,13 @@
+Your primary goal is to: Put the cleaned spatula on the kitchen counter
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up spatula, clean and pick up spatula, and place spatula on counter.
+Your task is to: clean and pick up spatula
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21). I am holding DishSponge (1) now.
+Think: I hold DishSponge (1). Now, I need to recall location of the spatula.
+OK.
+Act: recall location of Spatula
+You saw Spatula (1) near Drawer (3).
+Think: I can find Spatula (1) near Drawer (3).
+OK.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Spatula (1), Plate (2), Fridge (1), Fork (3), Drawer (3), DishSponge (1), CounterTop (2), Cabinet (13, 17). Drawer (3) is closed.  I am holding DishSponge (1) now.
+Max decisions

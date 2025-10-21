@@ -1,0 +1,15 @@
+Your primary goal is to: Put the bowl in the box on the coffee table. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up bowl, place bowl in box, and place box on coffee table.
+Your task is to: place bowl in box
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1, 2), Shelf (1, 2, 3), Safe (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), Desk (1), CoffeeTable (1), ArmChair (1). I am holding Statue (2) now.
+Think: I hold Statue (2). Now, I need to put it in the box. I can see Box (1).
+OK.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Statue (2, 3), Lamp (1), GarbageCan (1), Drawer (2, 3, 4, 5, 6), Desk (1), CreditCard (3), Chair (4). Drawer (1) is closed.  I am holding Statue (2) now.
+Act: open Drawer (1)
+You open Drawer (1). You see Statue (2), Lamp (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), CreditCard (3), Chair (4). I am holding Statue (2) now.
+Act: put down Statue (2)
+You put down failed, drop it. You see Statue (2), Lamp (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), CreditCard (3), Chair (4).
+Think: I failed to put Statue (2) in Drawer (1).
+OK.
+Act: failure

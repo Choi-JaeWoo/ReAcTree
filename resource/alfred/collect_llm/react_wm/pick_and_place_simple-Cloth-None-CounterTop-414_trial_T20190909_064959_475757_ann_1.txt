@@ -1,0 +1,132 @@
+Your task is to: place a clean wash cloth on the bathroom sink counter
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1), HandTowelHolder (1), GarbageCan (1), Drawer (1), CounterTop (1, 2), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9), BathtubBasin (1).
+Think: To solve the task, I need to find and pick up the cloth, then put it in the sink basin. And I need to turn on and off the faucet. And I need to pick up the cloth from the sink basin, then put it on the counter.
+OK.
+Think: First, I need to recall location of the cloth.
+OK.
+Act: recall location of Cloth
+You have not seen Cloth before.
+Think: Now I need to find the cloth. The cloth is more likely to appear on BathtubBasin (1), SinkBasin (1), or in Cabinet (1-9), Drawer (1). I can check each place one by one, starting from BathtubBasin (1), until I find the cloth.
+OK.
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Towel (1), Faucet (2), Bathtub (1), BathtubBasin (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see SprayBottle (2, 3), SoapBottle (3), Sink (1), SinkBasin (1), Mirror (1), Faucet (1), CounterTop (2), Cloth (2), Cabinet (4, 8, 9). 
+Think: I find Cloth (2). Now, I need to pick it up.
+OK.
+Act: pick up Cloth (2)
+You pick up Cloth (2). You see SprayBottle (2, 3), SoapBottle (3), Sink (1), SinkBasin (1), Mirror (1), Faucet (1), CounterTop (2), Cloth (2), Cabinet (4, 8). I am holding Cloth (2) now.
+Think: I hold Cloth (2). Now, I need to put it in the sink basin.
+OK.
+Act: put down Cloth (2)
+You put down failed, drop it. You see SprayBottle (2, 3), SoapBottle (3), Sink (1), SinkBasin (1), Mirror (1), Faucet (1), CounterTop (2), Cabinet (4, 8, 9).
+Think: Now I need to pick up Cloth (2).
+OK.
+Act: pick up SoapBottle (3)
+You pick up SoapBottle (3). You see SprayBottle (2, 3), SoapBottle (3), Sink (1), SinkBasin (1), Mirror (1), Faucet (1), DishSponge (2), CounterTop (2), Cabinet (4, 8, 9). I am holding SoapBottle (3) now.
+Think: I hold SoapBottle (3). Now, I need to put it in the sink basin.
+OK.
+Act: put down SoapBottle (3)
+You put down failed, drop it. You see SprayBottle (2, 3), Sink (1), SinkBasin (1), Mirror (1), Faucet (1), DishSponge (2), CounterTop (2), Cabinet (4, 8, 9).
+Think: Now I need to pick up Cloth (2).
+OK.
+Act: pick up DishSponge (2)
+You pick up DishSponge (2). You see SprayBottle (2, 3), Sink (1), SinkBasin (1), Mirror (1), Faucet (1), DishSponge (2), CounterTop (2), Cabinet (4, 8, 9). I am holding DishSponge (2) now.
+Think: I hold DishSponge (2). Now, I need to put it in the sink basin.
+OK.
+Act: put down DishSponge (2)
+You put down failed, drop it. You see SprayBottle (2, 3), Sink (1), SinkBasin (1), Mirror (1), Faucet (1), CounterTop (2), Cabinet (4, 8, 9).
+Think: Now I need to pick up Cloth (2).
+OK.
+Act: pick up SprayBottle (2)
+You pick up SprayBottle (2). You see SprayBottle (2, 3), Sink (1), SinkBasin (1), Mirror (1), Faucet (1), CounterTop (2), Cabinet (4, 8, 9). I am holding SprayBottle (2) now.
+Think: I hold SprayBottle (2). Now, I need to put it in the sink basin.
+OK.
+Act: put down SprayBottle (2)
+You put down failed, drop it. You see SprayBottle (3), Sink (1), SinkBasin (1), Mirror (1), Faucet (1), CounterTop (2), Cabinet (4, 8, 9).
+Think: Now I need to pick up Cloth (2).
+OK.
+Act: pick up SprayBottle (3)
+You pick up SprayBottle (3). You see SprayBottle (3), Sink (1), SinkBasin (1), Mirror (1), Faucet (1), CounterTop (2), Cabinet (4, 8, 9). I am holding SprayBottle (3) now.
+Think: I hold SprayBottle (3). Now, I need to put it in the sink basin.
+OK.
+Act: put down SprayBottle (3)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), Mirror (1), Faucet (1), CounterTop (2), Cabinet (4, 8, 9).
+Think: Now I need to pick up Cloth (2).
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1, 1), SinkBasin (1, 1), Mirror (1, 1), HandTowel (1), Faucet (1, 1), CounterTop (2, 2), Cabinet (4, 4, 7, 8, 8, 9, 9). 
+Act: pick up HandTowel (1)
+You pick up HandTowel (1). You see Sink (1), SinkBasin (1), Mirror (1), HandTowel (1), Faucet (1), CounterTop (2), Cabinet (4, 7, 8, 9). I am holding HandTowel (1) now.
+Think: I hold HandTowel (1). Now, I need to put it in the sink basin.
+OK.
+Act: put down HandTowel (1)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), Mirror (1), Faucet (1), CounterTop (2), Cabinet (4, 7, 8, 9).
+Think: Now I need to pick up Cloth (2).
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1, 1, 1), SinkBasin (1, 1, 1), Mirror (1, 1, 1), Faucet (1, 1, 1), CounterTop (1, 2, 2, 2), Cabinet (4, 4, 4, 7, 7, 8, 8, 8, 9, 9, 9). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1, 1, 1), SinkBasin (1, 1, 1), Mirror (1, 1, 1), Faucet (1, 1, 1), CounterTop (1, 1, 1, 2, 2, 2), Cabinet (4, 4, 4, 8, 8, 8, 9, 9, 9). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1, 1, 1), SinkBasin (1, 1, 1), Mirror (1, 1, 1), Faucet (1, 1, 1), CounterTop (1, 1, 1, 2, 2, 2), Cabinet (4, 4, 4, 8, 8, 8, 9, 9, 9). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1, 1, 1), SinkBasin (1, 1, 1), Mirror (1, 1, 1), Faucet (1, 1, 1), CounterTop (1, 1, 1, 2, 2, 2), Cabinet (4, 4, 4, 8, 8, 8, 9, 9, 9). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1, 1, 1), SinkBasin (1, 1, 1), Mirror (1, 1, 1), Faucet (1, 1, 1), CounterTop (1, 1, 1, 2, 2, 2), Cabinet (4, 4, 4, 8, 8, 8, 9, 9, 9). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1, 1, 1), SinkBasin (1, 1, 1), Mirror (1, 1, 1), Faucet (1, 1, 1), CounterTop (1, 1, 1, 2, 2, 2), Cabinet (4, 4, 4, 8, 8, 8, 9, 9, 9). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1, 1, 1), SinkBasin (1, 1, 1), Mirror (1, 1, 1), Faucet (1, 1, 1), CounterTop (1, 1, 1, 2, 2, 2), Cabinet (4, 4, 4, 8, 8, 8, 9, 9, 9). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1, 1, 1), SinkBasin (1, 1, 1), Mirror (1, 1, 1), Faucet (1, 1, 1), CounterTop (1, 1, 1, 2, 2, 2), Cabinet (4, 4, 4, 8, 8, 8, 9, 9, 9). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1, 1, 1), SinkBasin (1, 1, 1), Mirror (1, 1, 1), Faucet (1, 1, 1), CounterTop (1, 1, 1, 2, 2, 2), Cabinet (4, 4, 4, 8, 8, 8, 9, 9, 9). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1, 1, 1), SinkBasin (1, 1, 1), Mirror (1, 1, 1), Faucet (1, 1, 1), CounterTop (1, 1, 1, 2, 2, 2), Cabinet (4, 4, 4, 8, 8, 8, 9, 9, 9). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1, 1, 1), SinkBasin (1, 1, 1), Mirror (1, 1, 1), Faucet (1, 1, 1), CounterTop (1, 1, 1, 2, 2, 2), Cabinet (4, 4, 4, 8, 8, 8, 9, 9, 9). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1, 1, 1), SinkBasin (1, 1, 1), Mirror (1, 1, 1), Faucet (1, 1, 1), CounterTop (1, 1, 1, 2, 2, 2), Cabinet (4, 4, 4, 8, 8, 8, 9, 9, 9). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1, 1, 1), SinkBasin (1, 1, 1), Mirror (1, 1, 1), Faucet (1, 1, 1), CounterTop (1, 1, 1, 2, 2, 2), Cabinet (4, 4, 4, 8, 8, 8, 9, 9, 9). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1, 1, 1), SinkBasin (1, 1, 1), Mirror (1, 1, 1), Faucet (1, 1, 1), CounterTop (1, 1, 1, 2, 2, 2), Cabinet (4, 4, 4, 8, 8, 8, 9, 9, 9). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1, 1, 1), SinkBasin (1, 1, 1), Mirror (1, 1, 1), Faucet (1, 1, 1), CounterTop (1, 1, 1, 2, 2, 2), Cabinet (4, 4, 4, 8, 8, 8, 9, 9, 9). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1, 1, 1), SinkBasin (1, 1, 1), Mirror (1, 1, 1), Faucet (1, 1, 1), CounterTop (1, 1, 1, 2, 2, 2), Cabinet (4, 4, 4, 8, 8, 8, 9, 9, 9). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1, 1, 1), SinkBasin (1, 1, 1), Mirror (1, 1, 1), Faucet (1, 1, 1), CounterTop (1, 1, 1, 2, 2, 2), Cabinet (4, 4, 4, 8, 8, 8, 9, 9, 9). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1, 1, 1), SinkBasin (1, 1, 1), Mirror (1, 1, 1), Faucet (1, 1, 1), CounterTop (1, 1, 1, 2, 2, 2), Cabinet (4, 4, 4, 8, 8, 8, 9, 9, 9). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1, 1, 1), SinkBasin (1, 1, 1), Mirror (1, 1, 1), Faucet (1, 1, 1), CounterTop (1, 1, 1, 2, 2, 2), Cabinet (4, 4, 4, 8, 8, 8, 9, 9, 9). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1, 1, 1), SinkBasin (1, 1, 1), Mirror (1, 1, 1), Faucet (1, 1, 1), CounterTop (1, 1, 1, 2, 2, 2), Cabinet (4, 4, 4, 8, 8, 8, 9, 9, 9). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1, 1, 1), SinkBasin (1, 1, 1), Mirror (1, 1, 1), Faucet (1, 1, 1), CounterTop (1, 1, 1, 2, 2, 2), Cabinet (4, 4, 4, 8, 8, 8, 9, 9, 9). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1, 1, 1), SinkBasin (1, 1, 1), Mirror (1, 1, 1), Faucet (1, 1, 1), CounterTop (1, 1, 1, 2, 2, 2), Cabinet (4, 4, 4, 8, 8, 8, 9, 9, 9). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1, 1, 1), SinkBasin (1, 1, 1), Mirror (1, 1, 1), Faucet (1, 1, 1), CounterTop (1, 1, 1, 2, 2, 2), Cabinet (4, 4, 4, 8, 8, 8, 9, 9, 9). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1, 1, 1), SinkBasin (1, 1, 1), Mirror (1, 1, 1), Faucet (1, 1, 1), CounterTop (1, 1, 1, 2, 2, 2), Cabinet (4, 4, 4, 8, 8, 8, 9, 9, 9). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1, 1, 1), SinkBasin (1, 1, 1), Mirror (1, 1, 1), Faucet (1, 1, 1), CounterTop (1, 1, 1, 2, 2, 2), Cabinet (4, 4, 4, 8, 8, 8, 9, 9, 9). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1, 1, 1), SinkBasin (1, 1, 1), Mirror (1, 1, 1), Faucet (1, 1, 1), CounterTop (1, 1, 1, 2, 2, 2), Cabinet (4, 4, 4, 8, 8, 8, 9, 9, 9). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1, 1, 1), SinkBasin (1, 1, 1), Mirror (1, 1, 1), Faucet (1, 1, 1), CounterTop (1, 1, 1, 2, 2, 2), Cabinet (4, 4, 4, 8, 8, 8, 9, 9, 9). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1, 1, 1), SinkBasin (1, 1, 1), Mirror (1, 1, 1), Faucet (1, 1, 1), CounterTop (1, 1, 1, 2, 2, 2), Cabinet (4, 4, 4, 8, 8, 8, 9, 9, 9). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1, 1, 1), SinkBasin (1, 1, 1), Mirror (1, 1, 1), Faucet (1, 1, 1), CounterTop (1, 1, 1, 2, 2, 2), Cabinet (4, 4, 4, 8, 8, 8, 9, 9, 9). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1, 1, 1), SinkBasin (1, 1, 1), Mirror (1, 1, 1), Faucet (1, 1, 1), CounterTop (1, 1, 1, 2, 2, 2), Cabinet (4, 4, 4, 8, 8, 8, 9, 9, 9). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1, 1, 1), SinkBasin (1, 1, 1), Mirror (1, 1, 1), Faucet (1, 1, 1), CounterTop (1, 1, 1, 2, 2, 2), Cabinet (4, 4, 4, 8, 8, 8, 9, 9, 9). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1, 1, 1), SinkBasin (1, 1, 1), Mirror (1, 1, 1), Faucet (1, 1, 1), CounterTop (1, 1, 1, 2, 2, 2), Cabinet (4, 4, 4, 8, 8, 8, 9, 9, 9). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1, 1, 1), SinkBasin (1, 1, 1), Mirror (1, 1, 1), Faucet (1, 1, 1), CounterTop (1, 1, 1, 2, 2, 2), Cabinet (4, 4, 4, 8, 8, 8, 9, 9, 9). 

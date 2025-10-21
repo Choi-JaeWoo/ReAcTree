@@ -1,0 +1,55 @@
+Your primary goal is to: Put a soap dispenser on the toilet.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up soap dispenser, and place soap dispenser on toilet.
+Your task is to: place soap dispenser on toilet
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), Sink (1), SinkBasin (1), HandTowelHolder (1), GarbageCan (1), CounterTop (1), Cabinet (1, 2), Bathtub (1), BathtubBasin (1). I am holding SoapBottle (3) now.
+Think: I hold SoapBottle (3). Now, I need to put it on the toilet. I can see Toilet (1).
+OK.
+Act: go to Toilet (1)
+You arrive at Toilet (1). You see Toilet (1), ToiletPaper (2), ToiletPaperHanger (1), SoapBottle (3), SoapBar (3), ScrubBrush (1), Plunger (1), CounterTop (1), Cabinet (2). Toilet (1) is closed.  I am holding SoapBottle (3) now.
+Act: put down SoapBottle (3)
+You put down failed, drop it. You see Toilet (1), ToiletPaper (2), ToiletPaperHanger (1), SoapBottle (3), SoapBar (3), CounterTop (1), Cabinet (2).
+Think: I failed to put down SoapBottle (3). I need to try again.
+OK.
+Act: go to Toilet (1)
+You arrive at Toilet (1). You see Toilet (1), ToiletPaper (2), ToiletPaperHanger (1), SoapBottle (3), SoapBar (3), ScrubBrush (1), Plunger (1), CounterTop (1), Cabinet (2). Toilet (1) is closed. 
+Act: open Cabinet (2)
+You open Cabinet (2). You see Toilet (1), SoapBottle (3), Sink (1), CounterTop (1), Cloth (1), Cabinet (2).
+Act: go to SoapBottle (3)
+You see Toilet (1), ToiletPaperHanger (1), SoapBottle (3), SoapBar (2, 3), ScrubBrush (1), Plunger (1), CounterTop (1). 
+Act: pick up SoapBottle (3)
+You pick up SoapBottle (3). You see Toilet (1), ToiletPaperHanger (1), SoapBottle (3), SoapBar (2, 3), ScrubBrush (1), Plunger (1), CounterTop (1). I am holding SoapBottle (3) now.
+Act: go to Toilet (1)
+You arrive at Toilet (1). You see Toilet (1), ToiletPaper (2), ToiletPaperHanger (1), SoapBottle (3), SoapBar (3), ScrubBrush (1), Plunger (1), CounterTop (1), Cabinet (2). Toilet (1) is closed.  I am holding SoapBottle (3) now.
+Act: put down SoapBottle (3)
+You put down failed, drop it. You see Toilet (1), ToiletPaper (2), ToiletPaperHanger (1), SoapBottle (3), SoapBar (3), ScrubBrush (1), Plunger (1), CounterTop (1), Cabinet (2).
+Think: I failed to put down SoapBottle (3). I need to try again.
+OK.
+Act: go to Toilet (1)
+You arrive at Toilet (1). You see Toilet (1, 1, 1), ToiletPaper (2, 2, 2), ToiletPaperHanger (1, 1, 1), SoapBottle (1, 3, 3, 3), SoapBar (3, 3, 3), ScrubBrush (1, 1, 1), Plunger (1, 1, 1), CounterTop (1, 1, 1), Cabinet (2, 2, 2). Toilet (1) is closed. 
+Act: open Cabinet (2)
+You open Cabinet (2). You see Toilet (1), ToiletPaper (2), ToiletPaperHanger (1), SoapBottle (1, 3), SoapBar (3), ScrubBrush (1), Plunger (1), CounterTop (1), Cabinet (2).
+Act: go to SoapBottle (3)
+You see Toilet (1, 1), ToiletPaper (2), ToiletPaperHanger (1), SoapBottle (1, 3, 3), SoapBar (3), ScrubBrush (1, 1), Plunger (1, 1), CounterTop (1), Cabinet (2, 2). 
+Act: pick up SoapBottle (3)
+You pick up SoapBottle (3). You see Toilet (1), SoapBottle (3), ScrubBrush (1), Plunger (1), Cabinet (2). I am holding SoapBottle (3) now.
+Act: go to Toilet (1)
+You arrive at Toilet (1). You see Toilet (1), ToiletPaper (2), ToiletPaperHanger (1), SoapBottle (3), SoapBar (3), ScrubBrush (1), Plunger (1), CounterTop (1), Cabinet (2). Toilet (1) is closed.  I am holding SoapBottle (3) now.
+Act: put down SoapBottle (3)
+You put down failed, drop it. You see Toilet (1), ToiletPaper (2), ToiletPaperHanger (1), SoapBar (3), ScrubBrush (1), Plunger (1), CounterTop (1), Cabinet (2).
+Think: I failed to put down SoapBottle (3). I need to try again.
+OK.
+Act: go to Toilet (1)
+You arrive at Toilet (1). You see Toilet (1), ToiletPaper (2), ToiletPaperHanger (1), SoapBar (3), ScrubBrush (1), Plunger (1), CounterTop (1), Cabinet (2). Toilet (1) is closed. 
+Act: open Cabinet (2)
+The Cabinet (2) is already open.
+Act: go to SoapBar (3)
+You see Toilet (1), ToiletPaper (2), SoapBottle (1), SoapBar (2, 3), ScrubBrush (1), Plunger (1), Mirror (1), CounterTop (1). 
+Act: pick up SoapBar (3)
+You pick up SoapBar (3). You see Toilet (1), ToiletPaper (2), SoapBottle (1), SoapBar (2, 3), ScrubBrush (1), Plunger (1), Mirror (1), CounterTop (1). I am holding SoapBar (3) now.
+Act: go to Toilet (1)
+You arrive at Toilet (1). You see Toilet (1), ToiletPaper (2), ToiletPaperHanger (1), SoapBar (3), ScrubBrush (1), Plunger (1), CounterTop (1), Cabinet (2). Toilet (1) is closed.  I am holding SoapBar (3) now.
+Act: put down SoapBar (3)
+You put SoapBar (3) on Toilet (1). You see Toilet (1), ToiletPaper (2), ToiletPaperHanger (1), SoapBar (3), ScrubBrush (1), Plunger (1), CounterTop (1), Cabinet (2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,7 @@
+Your task is to: Move two credit cards to the table. 
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1, 2), GarbageCan (1), Drawer (1, 2, 3, 4), DiningTable (1), Bed (1).
+Think: Since I’m not holding the credit card, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up credit card, place credit card on table, Find and pick up credit card away from table, and place credit card on table.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up credit card, place credit card on table, Find and pick up credit card away from table, place credit card on table

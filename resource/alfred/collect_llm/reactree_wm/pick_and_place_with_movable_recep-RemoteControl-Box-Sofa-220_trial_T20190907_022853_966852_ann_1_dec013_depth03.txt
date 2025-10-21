@@ -1,0 +1,9 @@
+Your primary goal is to: Place a cardboard box containing a remote control on the couch.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up box, open and pick up remote control, and place remote control on couch.
+Your task is to: open and pick up remote control
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1, 2), SideTable (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1, 2), CoffeeTable (1), ArmChair (1). I am holding Box (1) now.
+Think: I hold Box (1). Now, I need to open it and pick up the remote control.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: open box, pick up remote control

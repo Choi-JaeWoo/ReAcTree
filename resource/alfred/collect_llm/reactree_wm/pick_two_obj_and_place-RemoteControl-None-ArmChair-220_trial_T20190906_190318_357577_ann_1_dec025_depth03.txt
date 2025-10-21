@@ -1,0 +1,13 @@
+Your primary goal is to: Put two remote controls on to the grey arm chair
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up remote control, place remote control on arm chair, Find and pick up remote control away from arm chair, and place remote control on arm chair.
+Your task is to: place remote control on arm chair
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1, 2), SideTable (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1, 2), CoffeeTable (1), ArmChair (1). I am holding RemoteControl (1) now.
+Think: I hold RemoteControl (1). Now, I need to put it on the arm chair. I can see ArmChair (1).
+OK.
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Sofa (1), RemoteControl (1, 4), Chair (1), ArmChair (1).  I am holding RemoteControl (1) now.
+Act: put down RemoteControl (1)
+You put RemoteControl (1) on ArmChair (1). You see Sofa (1), RemoteControl (1, 4), Chair (1), ArmChair (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

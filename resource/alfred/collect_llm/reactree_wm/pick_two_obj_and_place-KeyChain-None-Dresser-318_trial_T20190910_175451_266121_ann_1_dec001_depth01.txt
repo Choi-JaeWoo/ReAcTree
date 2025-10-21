@@ -1,0 +1,7 @@
+Your task is to: Pick up two sets of keys from the chair and move them to the nightstand. 
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see GarbageCan (1), Dresser (1, 2), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13), Desk (1, 2), Cabinet (1), Bed (1, 2), ArmChair (1).
+Think: Since I’m not holding the keys, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up keys, place keys on nightstand, Find and pick up keys away from nightstand, and place keys on nightstand.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up keys, place keys on nightstand, Find and pick up keys away from nightstand, place keys on nightstand

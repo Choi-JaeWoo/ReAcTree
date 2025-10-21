@@ -1,0 +1,35 @@
+Your task is to: To put the plunger inside the cabinet
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1), HandTowelHolder (1), GarbageCan (1), Drawer (1), CounterTop (1, 2), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9), BathtubBasin (1).
+Think: To solve the task, I need to find and pick up the plunger, then put it in the cabinet.
+OK.
+Think: First, I need to recall location of the plunger.
+OK.
+Act: recall location of Plunger
+You have not seen Plunger before.
+Think: Now I need to find the plunger. The plunger is more likely to appear on CounterTop (1-2), SinkBasin (1), or in Cabinet (1-9), Drawer (1). I can check each place one by one, starting from CounterTop (1), until I find the plunger.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toilet (1), Sink (1), SinkBasin (1), Mirror (1), DishSponge (1), CounterTop (1, 2). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Sink (1), SinkBasin (1), Mirror (1), Faucet (1), DishSponge (1), CounterTop (2), Cloth (3), Cabinet (4, 8, 9). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), Mirror (1), Faucet (1), DishSponge (1), CounterTop (2), Cloth (3), Cabinet (4, 8, 9). 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Sink (1), SinkBasin (1), Mirror (1), Faucet (1), Drawer (1), CounterTop (2), Cloth (3), Cabinet (1, 2, 4, 7, 9). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see SprayBottle (1), Sink (1), SinkBasin (1), Mirror (1), Faucet (1), Drawer (1), DishSponge (1), Cloth (3), Candle (1), Cabinet (1, 2, 4, 5, 7, 8, 9).
+Think: I find Plunger (1). Now, I need to pick it up.
+OK.
+Act: pick up SprayBottle (1)
+You pick up SprayBottle (1). You see SprayBottle (1), Sink (1), SinkBasin (1), Mirror (1), Faucet (1), Drawer (1), DishSponge (1), Candle (1), Cabinet (1, 2, 4, 5, 7, 8, 9). I am holding SprayBottle (1) now.
+Think: I hold SprayBottle (1). Now, I need to put it in the cabinet.
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see SprayBottle (1), Drawer (1), Candle (1), Cabinet (1, 2, 4, 7, 9). Cabinet (1) is open.  I am holding SprayBottle (1) now.
+Act: put down SprayBottle (1)
+You put SprayBottle (1) on Cabinet (1). You see SprayBottle (1), Drawer (1), Candle (1), Cabinet (1, 2, 4, 7, 9).
+Act: close Cabinet (1)
+You close Cabinet (1). You see Sink (1), SinkBasin (1), Mirror (1), Faucet (1), Drawer (1), CounterTop (2), Cloth (3), Cabinet (1, 2, 4, 7, 9).
+Think: Now I accomplish the goal.
+OK.
+Act: done

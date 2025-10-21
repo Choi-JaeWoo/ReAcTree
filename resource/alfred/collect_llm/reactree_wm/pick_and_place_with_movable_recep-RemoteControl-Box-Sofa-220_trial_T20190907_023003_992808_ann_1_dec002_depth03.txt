@@ -1,0 +1,27 @@
+Your primary goal is to: Put a box with remote in it on the green couch. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up box, find and pick up remote, and place box on green couch.
+Your task is to: find and pick up box
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1, 2), SideTable (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1, 2), CoffeeTable (1), ArmChair (1).
+Think: First, I need to recall location of the box.
+OK.
+Act: recall location of Box
+You have not seen Box before.
+Think: Now, I need to find the box. The box is more likely to appear on TVStand (1), Sofa (1-2), SideTable (1), CoffeeTable (1), ArmChair (1), or in Drawer (1-6). I can check each place one by one, starting from TVStand (1), until I find the box.
+OK.
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (1, 2). 
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1). 
+Act: go to Sofa (2)
+You arrive at Sofa (2). You see Sofa (2), Pillow (2). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), HousePlant (1), Drawer (2, 4), CreditCard (2), Boots (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see TissueBox (1), Sofa (2), RemoteControl (1, 2), CreditCard (1), CoffeeTable (1), Candle (1), Box (1). 
+Think: I find Box (1). Now, I need to pick it up.
+OK.
+Act: pick up Box (1)
+You pick up Box (1). You see Sofa (2), RemoteControl (2), CoffeeTable (1), Candle (1), Box (1). I am holding Box (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,7 @@
+Your task is to: Put two phones from inside the room in front of the computer chair.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14), GarbageCan (1), Drawer (1, 2), DiningTable (1), Bed (1, 2).
+Think: Since I’m not holding the phone, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up phone, place phone in front of computer chair, Find and pick up phone away from computer chair, and place phone in front of computer chair.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up phone, place phone in front of computer chair, Find and pick up phone away from computer chair, place phone in front of computer chair

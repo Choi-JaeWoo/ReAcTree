@@ -1,0 +1,19 @@
+Your primary goal is to: To put two ladles into a drawer below the stove.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up ladle, place ladle in drawer, find and pick up ladle away from drawer, and place ladle in drawer.
+Your task is to: find and pick up ladle away from drawer
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4, 5, 6), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9).
+Think: First, I need to recall location of the ladle.
+OK.
+Act: recall location of Ladle
+You saw Ladle (1) near Drawer (1).
+Think: I can find Ladle (1) near Drawer (1).
+OK.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sink (1), Potato (1), Ladle (1), Drawer (1), CounterTop (1), Cabinet (1, 2, 8), Apple (2). Drawer (1) is open. 
+Think: I find Ladle (1). Now, I need to pick it up.
+OK.
+Act: pick up Ladle (1)
+You pick up Ladle (1). You see Sink (1), Potato (1), Ladle (1), Drawer (1), CounterTop (1), Cabinet (1, 2, 8), Apple (2). I am holding Ladle (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

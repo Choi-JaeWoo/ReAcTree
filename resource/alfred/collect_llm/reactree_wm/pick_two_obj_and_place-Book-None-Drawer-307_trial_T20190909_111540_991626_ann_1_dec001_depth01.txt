@@ -1,0 +1,7 @@
+Your task is to: Move two books to the lower rightmost drawer of the right desk.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2), LaundryHamper (1), GarbageCan (1), Drawer (1, 2, 3), Desk (1), Bed (1).
+Think: Since I’m not holding the book, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up book, place book in drawer, find and pick up book away from drawer, and place book in drawer.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up book, place book in drawer, find and pick up book away from drawer, place book in drawer

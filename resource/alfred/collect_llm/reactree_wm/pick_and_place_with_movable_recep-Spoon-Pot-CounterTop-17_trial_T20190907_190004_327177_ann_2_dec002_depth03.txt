@@ -1,0 +1,25 @@
+Your primary goal is to: Put a large black pot with a spoon in it on the counter.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pot, place pot on countertop, find and pick up spoon, and place spoon on pot near countertop.
+Your task is to: find and pick up pot
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20).
+Think: First, I need to recall location of the pot.
+OK.
+Act: recall location of Pot
+You have not seen Pot before.
+Think: Now, I need to find the pot. The pot is more likely to appear on DiningTable (1-2), CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-20), Drawer (1-6). I can check each place one by one, starting from DiningTable (1), until I find the pot.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Window (2), SprayBottle (1, 2), PepperShaker (3), Pan (1), Knife (2), Fork (1), DiningTable (1), Chair (1), CellPhone (1), Apple (3). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Spoon (1, 4), SaltShaker (1, 3), Potato (3), Lettuce (1, 3), Knife (1), Fork (2), Egg (2), DiningTable (2), CellPhone (3), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Plate (1, 2), Kettle (1), Fork (3), Drawer (2, 5), CounterTop (1), Cabinet (5, 16), Bowl (3). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Spatula (1), SaltShaker (2), Microwave (1), Drawer (1), CounterTop (2), CellPhone (2), Cabinet (17). 
+Think: I find Pot (1). Now, I need to pick it up.
+OK.
+Act: pick up CellPhone (2)
+You pick up CellPhone (2). You see Spatula (1), SaltShaker (2), Microwave (1), Drawer (1), CounterTop (2), CellPhone (2), Cabinet (17). I am holding CellPhone (2) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

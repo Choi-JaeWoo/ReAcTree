@@ -1,0 +1,39 @@
+Your primary goal is to: place a box with a cellphone in it down on the couch
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up box, open and pick up cellphone, and place box on couch.
+Your task is to: open and pick up cellphone
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), DiningTable (1), CoffeeTable (1). I am holding Box (2) now.
+Think: I hold Box (2). Now, I need to recall location of the cellphone.
+OK.
+Act: recall location of CellPhone
+You saw CellPhone (2) near CoffeeTable (1). You saw CellPhone (3) near CoffeeTable (1).
+Think: CellPhone (2) and CellPhone (3) are on CoffeeTable (1). Now, I need to find another cellphone. The cellphone is more likely to appear on Sofa (1), SideTable (1-2), Dresser (1), DiningTable (1), CoffeeTable (1), or in Drawer (1-4). I can check each place one by one, starting from Sofa (1), until I find the cellphone.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), RemoteControl (1), Pillow (1), Box (2).  I am holding Box (2) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Plate (2), DeskLamp (1), Chair (4), Box (2).  I am holding Box (2) now.
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), Newspaper (1), HousePlant (1), Chair (2), Box (2).  I am holding Box (2) now.
+Act: go to Dresser (1)
+You arrive at Dresser (1). You see Television (1), Newspaper (2), Dresser (1), Drawer (1, 2, 3, 4), Box (2).  I am holding Box (2) now.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Television (1, 1, 1, 1, 1, 1, 1, 1, 1, 1), Statue (1, 2), Newspaper (2, 2, 2, 2, 2, 2, 2, 2, 2, 2), Laptop (1), Dresser (1, 1, 1, 1, 1, 1, 1, 1, 1, 1), Drawer (1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4), DiningTable (1), Chair (1, 6, 7), Box (1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2).  I am holding Box (2) now.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Sofa (1), Plate (1), CreditCard (2), CoffeeTable (1), CellPhone (1, 3), Box (2).  I am holding Box (2) now.
+Think: I find CellPhone (1). Now, I need to pick it up.
+OK.
+Act: pick up CellPhone (1)
+You are currently holding Box (2). I am holding Box (2) now.
+Think: I hold Box (2). Now, I need to put it down.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), RemoteControl (1), Pillow (1), Box (2).  I am holding Box (2) now.
+Act: put down Box (2)
+You put Box (2) on Sofa (1). You see Sofa (1), RemoteControl (1), Pillow (1), Box (2).
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Sofa (1), Plate (1), CreditCard (2), CoffeeTable (1), CellPhone (1, 2, 3). 
+Act: pick up CellPhone (1)
+You pick up CellPhone (1). You see Sofa (1), Plate (1), CreditCard (2), CoffeeTable (1), CellPhone (1, 2, 3). I am holding CellPhone (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,15 @@
+Your primary goal is to: Move two candles into a cabinet.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up candle, place candle in cabinet, find and pick up candle away from cabinet, and place candle in cabinet.
+Your task is to: find and pick up candle away from cabinet
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1, 2), Toilet (1), ToiletPaperHanger (1), SinkBasin (1, 2), Shelf (1), HandTowelHolder (1, 2), GarbageCan (1), CounterTop (1), Cabinet (1, 2, 3, 4), Bathtub (1), BathtubBasin (1).
+Think: First, I need to recall location of the candle.
+OK.
+Act: recall location of Candle
+You saw Candle (4) near Cabinet (1).
+Think: I can find Candle (4) near Cabinet (1).
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Sink (1), SinkBasin (2), CounterTop (1), Cabinet (1, 2, 3, 4). Cabinet (1) is open. 
+Think: I find Candle (4). Now, I need to pick it up.
+OK.
+Act: failure

@@ -1,0 +1,7 @@
+Your task is to: Pick up a small bottle on a table, then turn on a lamp
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2), GarbageCan (1), DiningTable (1), CoffeeTable (1, 2), ArmChair (1, 2).
+Think: Since I’m not holding small bottle, I need to accomplish 2 subgoals sequentially to solve the task. Find and pick up small bottle, and turn on lamp.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up small bottle, turn on lamp

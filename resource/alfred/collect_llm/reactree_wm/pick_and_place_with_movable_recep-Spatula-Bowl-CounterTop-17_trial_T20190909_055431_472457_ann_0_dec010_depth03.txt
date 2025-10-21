@@ -1,0 +1,13 @@
+Your primary goal is to: Put a glass bowl with a spatula in it on the counter.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up bowl, place bowl in sink basin, find and pick up spatula, and place spatula in bowl near sink basin.
+Your task is to: place bowl in sink basin
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20). I am holding Bowl (1) now.
+Think: I hold Bowl (1). Now, I need to put it in the sink basin. I can see SinkBasin (1).
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (1), StoveKnob (1), StoveBurner (2, 3), Spoon (1), Sink (1), SinkBasin (1), Plate (1), Knife (1), Kettle (1), Glassbottle (2), Faucet (1), Egg (2), CounterTop (2), Cabinet (9, 11), Bowl (1), Apple (3).  I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put down failed, drop it. You see Window (1), StoveKnob (1), StoveBurner (2, 3), Spoon (1), Sink (1), SinkBasin (1), Plate (1), Knife (1), Kettle (1), Glassbottle (2), Faucet (1), Egg (2), CounterTop (2), Cabinet (9, 11), Bowl (1), Apple (3).
+Think: Now I accomplish the goal.
+OK.
+Act: done

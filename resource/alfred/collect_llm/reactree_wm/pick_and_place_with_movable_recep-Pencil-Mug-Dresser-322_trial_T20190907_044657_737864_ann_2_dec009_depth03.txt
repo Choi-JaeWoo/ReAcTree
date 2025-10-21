@@ -1,0 +1,27 @@
+Your primary goal is to: Put a mug with a pencil in it on the desk.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up mug, put pencil in mug, and place mug on desk.
+Your task is to: put pencil in mug
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1, 2), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6), Cabinet (1, 2, 3, 4), Bed (1), ArmChair (1). I am holding Mug (4) now.
+Think: I hold Mug (4). Now, I need to put a pencil in it. I can see Pencil (1).
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (1), Mug (2, 4), Lamp (2), Drawer (1), CreditCard (3), Bed (1).  I am holding Mug (4) now.
+Act: pick up Pencil (1)
+You are currently holding Mug (4). I am holding Mug (4) now.
+Think: I can't pick up Pencil (1) because I'm holding Mug (4). I need to put down Mug (4) first.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (1), Mug (2, 4), Lamp (2), Drawer (1), CreditCard (3), Bed (1).  I am holding Mug (4) now.
+Act: put down Mug (4)
+You put Mug (4) on SideTable (1). You see SideTable (1), Pencil (1), Mug (2, 4), Lamp (2), Drawer (1), CreditCard (3), Bed (1).
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see SideTable (1), Pencil (1), Mug (2, 4), Lamp (2), Drawer (1), CreditCard (3), Bed (1). I am holding Pencil (1) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (1), Mug (2, 4), Lamp (2), Drawer (1), CreditCard (3), Bed (1).  I am holding Pencil (1) now.
+Act: put down Pencil (1)
+You put Pencil (1) on SideTable (1). You see SideTable (1), Pencil (1), Mug (2, 4), Lamp (2), Drawer (1), CreditCard (3), Bed (1).
+Act: pick up Mug (4)
+You pick up Mug (4). You see SideTable (1), Pencil (1), Mug (2, 4), Lamp (2), Drawer (1), CreditCard (3), Bed (1). I am holding Mug (4) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

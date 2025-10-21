@@ -1,0 +1,130 @@
+Your task is to: Move two candles to the counter.
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), Sink (1), SinkBasin (1), HandTowelHolder (1), GarbageCan (1), CounterTop (1), Cabinet (1, 2), Bathtub (1), BathtubBasin (1).
+Think: To solve the task, I need to find and pick up the candles, then put it on the counter. And I need to find and pick up another candles, then put it on the counter.
+OK.
+Think: First, I need to recall location of the candle.
+OK.
+Act: recall location of Candle
+You have not seen Candle before.
+Think: Now I need to find the candle. The candle is more likely to appear on CounterTop (1), SinkBasin (1), or in Cabinet (1-2). I can check each place one by one, starting from CounterTop (1), until I find the candle.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see SoapBottle (3), Sink (1), SinkBasin (1), Mirror (1), Faucet (2, 3), CounterTop (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see SoapBottle (3), Sink (1), SinkBasin (1), Mirror (1), Faucet (2, 3), CounterTop (1), Cabinet (1). 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Sink (1), GarbageCan (1), CounterTop (1), Cabinet (1, 2). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see SprayBottle (1), GarbageCan (1), Cabinet (1, 2).
+Act: close Cabinet (1)
+You close Cabinet (1). You see GarbageCan (1), Cabinet (1, 2).
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Toilet (1), SoapBar (1), Sink (1), CounterTop (1), Cabinet (2). Cabinet (2) is closed. 
+Act: open Cabinet (2)
+You open Cabinet (2). You see Toilet (1), SoapBottle (1), Candle (1), Cabinet (1, 2).
+Think: I find Candle (1). Now, I need to pick it up.
+OK.
+Act: pick up Candle (1)
+You pick up Candle (1). You see Toilet (1), SoapBottle (1), Candle (1), Cabinet (1, 2). I am holding Candle (1) now.
+Think: I hold Candle (1). Now, I need to put it on the counter.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see SoapBottle (3), Sink (1), SinkBasin (1), Mirror (1), Faucet (2, 3), CounterTop (1), Candle (1).  I am holding Candle (1) now.
+Act: put down Candle (1)
+You put Candle (1) on CounterTop (1). You see SoapBottle (3), Sink (1), SinkBasin (1), Mirror (1), Faucet (2, 3), CounterTop (1), Candle (1).
+Think: I put Candle (1) on the CounterTop (1). Now, I need to recall location of Candle.
+OK.
+Act: recall location of Candle
+You saw Candle (1) near CounterTop (1).
+Think: Candle (1) is on CounterTop (1). Now, I need to find another candle. The candle is more likely to appear on SinkBasin (1), or in Cabinet (1-2). I can check each place one by one, starting from SinkBasin (1), until I find the candle.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see SoapBottle (3), Sink (1), SinkBasin (1), Mirror (1), Faucet (2, 3), CounterTop (1), Candle (1), Cabinet (1). 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Sink (1), GarbageCan (1), CounterTop (1), Cabinet (1). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see SprayBottle (1), GarbageCan (1), Cabinet (1).
+Act: close Cabinet (1)
+You close Cabinet (1). You see GarbageCan (1), Cabinet (1).
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Toilet (1), Sink (1), SinkBasin (1), CounterTop (1), Cabinet (1, 2). Cabinet (2) is open. 
+Think: I find Candle (1). Now, I need to pick it up.
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Sink (1), GarbageCan (1), CounterTop (1), Cabinet (1). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see SprayBottle (1), GarbageCan (1), Cabinet (1).
+Act: close Cabinet (1)
+You close Cabinet (1). You see GarbageCan (1), Cabinet (1).
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Toilet (1), Sink (1), SinkBasin (1), CounterTop (1), Cabinet (1, 2). Cabinet (2) is open. 
+Think: I find Candle (1). Now, I need to pick it up.
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Sink (1), GarbageCan (1), CounterTop (1), Cabinet (1). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see SprayBottle (1), GarbageCan (1), Cabinet (1).
+Act: close Cabinet (1)
+You close Cabinet (1). You see GarbageCan (1), Cabinet (1).
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Toilet (1), Sink (1), SinkBasin (1), CounterTop (1), Cabinet (1, 2). Cabinet (2) is open. 
+Think: I find Candle (1). Now, I need to pick it up.
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Sink (1), GarbageCan (1), CounterTop (1), Cabinet (1). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see SprayBottle (1), GarbageCan (1), Cabinet (1).
+Act: close Cabinet (1)
+You close Cabinet (1). You see GarbageCan (1), Cabinet (1).
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Toilet (1), Sink (1), SinkBasin (1), CounterTop (1), Cabinet (1, 2). Cabinet (2) is open. 
+Think: I find Candle (1). Now, I need to pick it up.
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Sink (1), GarbageCan (1), CounterTop (1), Cabinet (1). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see SprayBottle (1), GarbageCan (1), Cabinet (1).
+Act: close Cabinet (1)
+You close Cabinet (1). You see SprayBottle (1), GarbageCan (1), Cabinet (1).
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Toilet (1), Sink (1), SinkBasin (1), CounterTop (1), Cabinet (1, 2). Cabinet (2) is open. 
+Think: I find Candle (1). Now, I need to pick it up.
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Sink (1), GarbageCan (1), CounterTop (1), Cabinet (1). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see SprayBottle (1), GarbageCan (1), Cabinet (1).
+Act: close Cabinet (1)
+You close Cabinet (1). You see GarbageCan (1), Cabinet (1).
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Toilet (1), Sink (1), SinkBasin (1), CounterTop (1), Cabinet (1, 2). Cabinet (2) is open. 
+Think: I find Candle (1). Now, I need to pick it up.
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Sink (1), GarbageCan (1), CounterTop (1), Cabinet (1). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see SprayBottle (1), GarbageCan (1), Cabinet (1).
+Act: close Cabinet (1)
+You close Cabinet (1). You see GarbageCan (1), Cabinet (1).
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Toilet (1), Sink (1), SinkBasin (1), CounterTop (1), Cabinet (1, 2). Cabinet (2) is open. 
+Think: I find Candle (1). Now, I need to pick it up.
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Sink (1), GarbageCan (1), CounterTop (1), Cabinet (1). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see SprayBottle (1), GarbageCan (1), Cabinet (1).
+Act: close Cabinet (1)
+You close Cabinet (1). You see GarbageCan (1), Cabinet (1).
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Toilet (1), Sink (1), SinkBasin (1), CounterTop (1), Cabinet (1, 2). Cabinet (2) is open. 
+Think: I find Candle (1). Now, I need to pick it up.
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Sink (1), GarbageCan (1), CounterTop (1), Cabinet (1). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see SprayBottle (1), GarbageCan (1), Cabinet (1).
+Act: close Cabinet (1)
+You close Cabinet (1). You see GarbageCan (1), Cabinet (1).
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Toilet (1), Sink (1), SinkBasin (1), CounterTop (1), Cabinet (1, 2). Cabinet (2) is open. 

@@ -1,0 +1,13 @@
+Your primary goal is to: Place a pan with a spoon in a sink.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pan, place pan in sink basin, find and pick up spoon, and place spoon on pan near sink basin.
+Your task is to: place pan in sink basin
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13). I am holding Pan (1) now.
+Think: I hold Pan (1). Now, I need to put it in the sink basin. I can see SinkBasin (1).
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), Pan (1), Faucet (1), Drawer (1), CounterTop (1), Cabinet (10), ButterKnife (3).  I am holding Pan (1) now.
+Act: put down Pan (1)
+You put Pan (1) on SinkBasin (1). You see Sink (1), SinkBasin (1), Pan (1), Faucet (1), Drawer (1), CounterTop (1), Cabinet (10), ButterKnife (3).
+Think: Now I accomplish the goal.
+OK.
+Act: done

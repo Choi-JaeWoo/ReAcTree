@@ -1,0 +1,13 @@
+Your primary goal is to: Move two sets of keys to a nightstand.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up keys, place keys on nightstand, Find and pick up keys away from nightstand, and and place keys on nightstand.
+Your task is to: place keys on nightstand
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14), GarbageCan (1), Drawer (1, 2), DiningTable (1), Bed (1, 2). I am holding CreditCard (3) now.
+Think: I hold CreditCard (3). Now, I need to put it on the nightstand. I can see SideTable (1).
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Watch (1), SideTable (1), Pencil (2), Drawer (1, 2), CreditCard (3), Book (2), Bed (1, 2), AlarmClock (1).  I am holding CreditCard (3) now.
+Act: put down CreditCard (3)
+You put CreditCard (3) on SideTable (1). You see Watch (1), SideTable (1), Pencil (2), Drawer (1, 2), CreditCard (3), Book (2), Bed (1, 2), AlarmClock (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

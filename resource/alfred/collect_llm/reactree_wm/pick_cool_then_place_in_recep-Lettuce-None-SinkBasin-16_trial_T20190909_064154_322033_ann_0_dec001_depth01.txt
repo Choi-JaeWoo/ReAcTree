@@ -1,0 +1,201 @@
+Your task is to: place chilled lettuce in sink
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27).
+Think: I need to recall location of the lettuce.
+OK.
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Think: I have not seen Lettuce before. I need to find it.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Cabinet (8). Fridge (1) is closed. 
+Think: I find Fridge (1). Now, I need to open it.
+OK.
+Act: open Fridge (1)
+You open Fridge (1). You see Mug (1), Fridge (1), Cabinet (8).
+Think: I open Fridge (1). Now, I need to recall location of the lettuce.
+OK.
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Think: I have not seen Lettuce before. I need to find it.
+OK.
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Fridge (1), Drawer (7), CounterTop (2), CoffeeMachine (1), Cabinet (8), Apple (2). Cabinet (8) is closed. 
+Think: I find Cabinet (8). Now, I need to open it.
+OK.
+Act: open Cabinet (8)
+You open Cabinet (8). You see Fridge (1), Drawer (7), CounterTop (2), CoffeeMachine (1), Cabinet (8), Apple (2).
+Think: I open Cabinet (8). Now, I need to recall location of the lettuce.
+OK.
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Think: I have not seen Lettuce before. I need to find it.
+OK.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Toaster (1), Spoon (2), Sink (1), SaltShaker (3), Ladle (1), Fork (2), Egg (1), CounterTop (2). 
+Think: I find CounterTop (2). Now, I need to recall location of the lettuce.
+OK.
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Think: I have not seen Lettuce before. I need to find it.
+OK.
+Act: go to Sink (1)
+You see Tomato (3), Toaster (1), Spoon (2), Sink (1), SinkBasin (1), SaltShaker (3), Mug (2, 3), Glassbottle (1), Faucet (1), Egg (1), Drawer (4), CounterTop (2), CoffeeMachine (1), Cabinet (17). 
+Think: I find Sink (1). Now, I need to recall location of the lettuce.
+OK.
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Think: I have not seen Lettuce before. I need to find it.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Toaster (1), Spoon (2), Sink (1), SinkBasin (1), SaltShaker (3), Mug (2, 3), Glassbottle (1), Faucet (1), Egg (1), Drawer (4, 7), CounterTop (2), CoffeeMachine (1), Cabinet (17). 
+Think: I find SinkBasin (1). Now, I need to recall location of the lettuce.
+OK.
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Think: I have not seen Lettuce before. I need to find it.
+OK.
+Act: go to Faucet (1)
+You see Tomato (3), Spoon (2), Sink (1), SinkBasin (1), SaltShaker (3), Mug (2, 3), Glassbottle (1), Faucet (1), Egg (1), CounterTop (2), CoffeeMachine (1). 
+Think: I find Faucet (1). Now, I need to recall location of the lettuce.
+OK.
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Think: I have not seen Lettuce before. I need to find it.
+OK.
+Act: go to Egg (1)
+You see Toaster (1), Spoon (2), Sink (1), SinkBasin (1), SaltShaker (3), Ladle (1), Faucet (1), Egg (1), CounterTop (2). 
+Think: I find Egg (1). Now, I need to recall location of the lettuce.
+OK.
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Think: I have not seen Lettuce before. I need to find it.
+OK.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Toaster (1), Spoon (2), Sink (1), SinkBasin (1), SaltShaker (3), Mug (2), Ladle (1), Faucet (1), Egg (1), Drawer (3, 4), CounterTop (2), Cabinet (15, 17). Drawer (4) is closed. 
+Think: I find Drawer (4). Now, I need to open it.
+OK.
+Act: open Drawer (4)
+You open Drawer (4). You see Toaster (1), Spoon (2), Sink (1), SinkBasin (1), Mug (2), Ladle (1), Fork (2), Faucet (1), Drawer (3, 4), CounterTop (2), Cabinet (15).
+Think: I open Drawer (4). Now, I need to recall location of the lettuce.
+OK.
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Think: I have not seen Lettuce before. I need to find it.
+OK.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Toaster (1, 1), Spoon (2, 2), Sink (1), SinkBasin (1, 1), SaltShaker (3), Mug (2), Ladle (1, 1), GarbageCan (1), Fork (2), Faucet (1), Egg (1), Drawer (3, 4), CounterTop (2, 2), Cabinet (15, 16, 18). 
+Think: I find CounterTop (2). Now, I need to recall location of the lettuce.
+OK.
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Think: I have not seen Lettuce before. I need to find it.
+OK.
+Act: go to Cabinet (15)
+You arrive at Cabinet (15). You see WineBottle (3), GarbageCan (1), Fork (2), Drawer (3, 4), CounterTop (2), Cabinet (15, 17). Cabinet (15) is closed. 
+Think: I find Cabinet (15). Now, I need to open it.
+OK.
+Act: open Cabinet (15)
+You open Cabinet (15). You see GarbageCan (1), Fork (2), Drawer (3, 4), CounterTop (2), Cabinet (15, 17).
+Think: I open Cabinet (15). Now, I need to recall location of the lettuce.
+OK.
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Think: I have not seen Lettuce before. I need to find it.
+OK.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see WineBottle (3), Toaster (1), Spoon (2), Sink (1), SinkBasin (1), Ladle (1), GarbageCan (1), Fork (2), Drawer (3), CounterTop (2), Cabinet (15). Drawer (3) is closed. 
+Think: I find Drawer (3). Now, I need to open it.
+OK.
+Act: open Drawer (3)
+You open Drawer (3). You see WineBottle (3), Toaster (1), Ladle (1), Knife (3), GarbageCan (1), Fork (2), Drawer (3), CounterTop (2), Cabinet (15).
+Think: I open Drawer (3). Now, I need to recall location of the lettuce.
+OK.
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Think: I have not seen Lettuce before. I need to find it.
+OK.
+Act: go to Knife (3)
+You see Toaster (1), Ladle (1), Knife (3), GarbageCan (1), Fork (2), Drawer (3, 4), CounterTop (2), Cabinet (17, 18). 
+Think: I find Knife (3). Now, I need to recall location of the lettuce.
+OK.
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Think: I have not seen Lettuce before. I need to find it.
+OK.
+Act: go to GarbageCan (1)
+You arrive at GarbageCan (1). You see WineBottle (3), Ladle (1), GarbageCan (1), CounterTop (2), Cabinet (15). 
+Think: I find GarbageCan (1). Now, I need to recall location of the lettuce.
+OK.
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Think: I have not seen Lettuce before. I need to find it.
+OK.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Toaster (1), Spoon (2), SinkBasin (1), SaltShaker (3), Mug (2), Ladle (1), GarbageCan (1), Faucet (1), Egg (1), CounterTop (2), Cabinet (6, 16, 18). 
+Think: I find CounterTop (2). Now, I need to recall location of the lettuce.
+OK.
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Think: I have not seen Lettuce before. I need to find it.
+OK.
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Cabinet (4, 6, 16, 18). Cabinet (6) is closed. 
+Think: I find Cabinet (6). Now, I need to open it.
+OK.
+Act: open Cabinet (6)
+You open Cabinet (6). You see Cabinet (4, 6, 16, 18).
+Think: I open Cabinet (6). Now, I need to recall location of the lettuce.
+OK.
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Think: I have not seen Lettuce before. I need to find it.
+OK.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see Cabinet (4, 5, 6, 21). Cabinet (4) is closed. 
+Think: I find Cabinet (4). Now, I need to open it.
+OK.
+Act: open Cabinet (4)
+You open Cabinet (4). You see Cabinet (4, 5, 6, 21).
+Think: I open Cabinet (4). Now, I need to recall location of the lettuce.
+OK.
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Think: I have not seen Lettuce before. I need to find it.
+OK.
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Cabinet (5, 21, 24). Cabinet (5) is closed. 
+Think: I find Cabinet (5). Now, I need to open it.
+OK.
+Act: open Cabinet (5)
+You open Cabinet (5). You see Cabinet (4, 5, 21, 24).
+Think: I open Cabinet (5). Now, I need to recall location of the lettuce.
+OK.
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Think: I have not seen Lettuce before. I need to find it.
+OK.
+Act: go to Cabinet (21)
+You arrive at Cabinet (21). You see Cabinet (4, 5, 6, 21). Cabinet (21) is closed. 
+Think: I find Cabinet (21). Now, I need to open it.
+OK.
+Act: open Cabinet (21)
+You open Cabinet (21). You see Cabinet (4, 5, 6, 21).
+Think: I open Cabinet (21). Now, I need to recall location of the lettuce.
+OK.
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Think: I have not seen Lettuce before. I need to find it.
+OK.
+Act: go to Cabinet (24)
+You arrive at Cabinet (24). You see Fridge (1). Cabinet (24) is closed. 
+Think: I find Cabinet (24). Now, I need to open it.
+OK.
+Act: open Cabinet (24)
+You open Cabinet (24). You see Fridge (1).
+Think: I open Cabinet (24). Now, I need to recall location of the lettuce.
+OK.
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Think: I have not seen Lettuce before. I need to find it.
+OK.
+Max decisions

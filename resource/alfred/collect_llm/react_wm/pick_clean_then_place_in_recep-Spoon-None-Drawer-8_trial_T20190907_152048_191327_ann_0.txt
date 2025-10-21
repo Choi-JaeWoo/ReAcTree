@@ -1,0 +1,41 @@
+Your task is to: Clean the spoon to put it in the drawer.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7), CounterTop (1, 2, 3, 4), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18).
+Think: To solve the task, I need to find and pick up the spoon, then clean it, then put it in the drawer.
+OK.
+Think: First, I need to recall location of the spoon.
+OK.
+Act: recall location of Spoon
+You have not seen Spoon before.
+Think: Now I need to find the spoon. The spoon is more likely to appear on CounterTop (1-4), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-18), Drawer (1-7). I can check each place one by one, starting from CounterTop (1), until I find the spoon.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see SprayBottle (2), Spatula (1), SoapBottle (2), Plate (1), Pen (1), Cup (1), CounterTop (1), Chair (1), ButterKnife (1, 2), Bread (2). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Toaster (1), StoveKnob (1, 2, 4), StoveBurner (1, 2, 3, 4), Spoon (1), SoapBottle (3), SaltShaker (1, 2), Pot (2), Pan (1), Kettle (1), CounterTop (2). 
+Think: I find Spoon (1). Now, I need to pick it up.
+OK.
+Act: pick up Spoon (1)
+You pick up Spoon (1). You see Toaster (1), StoveKnob (1, 2, 4), StoveBurner (1, 2, 3, 4), Spoon (1), SoapBottle (3), SaltShaker (1, 2), Pot (2), Pan (1), Kettle (1), CounterTop (2). I am holding Spoon (1) now.
+Think: I hold Spoon (1). Now, I need to clean it.
+OK.
+Act: go to Sink (1)
+You arrive at Sink (1). You see Tomato (1), Spoon (1, 2), Sink (1), SinkBasin (1), Lettuce (1), Knife (2), Faucet (1), Egg (1, 2), Drawer (2, 7), CounterTop (4), Cabinet (3, 4, 16).  I am holding Spoon (1) now.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (1), Spoon (1, 2), Sink (1), SinkBasin (1), SaltShaker (3), Knife (2), Faucet (1), Egg (1, 2), Drawer (2, 7), CounterTop (4), Cabinet (1, 3, 4, 16).  I am holding Spoon (1) now.
+Act: go to Faucet (1)
+You see Tomato (1), Spoon (1, 2), Sink (1), SinkBasin (1), Knife (2), Faucet (1), Egg (1, 2), CounterTop (4).  I am holding Spoon (1) now.
+Act: turn on Faucet (1)
+You turn on Faucet (1). You see Tomato (1), Spoon (1, 2), Sink (1), SinkBasin (1), Knife (2), Faucet (1), Egg (1, 2), CounterTop (4). I am holding Spoon (1) now.
+Act: turn off Faucet (1)
+You turn off Faucet (1). You see Tomato (1), Spoon (1, 2), Sink (1), SinkBasin (1), Knife (2), Faucet (1), Egg (1, 2), CounterTop (4). I am holding Spoon (1) now.
+Think: I clean Spoon (1). Now, I need to put it in the drawer.
+OK.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Toaster (1), Spoon (1), SoapBottle (3), SaltShaker (1, 2), Drawer (1, 6), CounterTop (2), Cabinet (2, 7), ButterKnife (3). Drawer (1) is closed.  I am holding Spoon (1) now.
+Act: open Drawer (1)
+You open Drawer (1). You see Toaster (1), Spoon (1), SoapBottle (3), SaltShaker (1, 2), Drawer (1, 6), CounterTop (2), Cabinet (7), ButterKnife (3). I am holding Spoon (1) now.
+Act: put down Spoon (1)
+You put Spoon (1) on Drawer (1). You see Toaster (1), Spoon (1), SoapBottle (3), SaltShaker (1, 2), Drawer (1, 6), CounterTop (2), Cabinet (7), ButterKnife (3).
+Think: Now I accomplish the goal.
+OK.
+Act: done

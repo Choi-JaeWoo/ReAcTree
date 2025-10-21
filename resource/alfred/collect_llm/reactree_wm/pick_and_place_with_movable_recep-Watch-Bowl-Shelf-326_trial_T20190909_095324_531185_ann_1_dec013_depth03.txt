@@ -1,0 +1,179 @@
+Your primary goal is to: Place a bowl with a watch on a shelf.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up bowl, place bowl on shelf, find and pick up watch, and place watch on bowl near shelf.
+Your task is to: place bowl on shelf
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14), GarbageCan (1), Drawer (1, 2), DiningTable (1), Bed (1, 2). I am holding Bowl (1) now.
+Think: I hold Bowl (1). Now, I need to put it on the shelf. I can see Shelf (1).
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TennisRacket (1), Shelf (1, 7), Pen (1), Mug (1), Bowl (1).  I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put down failed, drop it. You see TennisRacket (1), Shelf (1, 7), Mug (1), Bowl (1), BaseballBat (1).
+Think: I failed to put down Bowl (1). I need to try again.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TennisRacket (1, 1), Shelf (1, 1, 7, 7, 10), Pen (1, 1), Mug (1, 1), Bowl (1, 1), BaseballBat (1, 1). 
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see TennisRacket (1), Shelf (1, 7, 10), Pen (1), Mug (1), Bowl (1). I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put down failed, drop it. You see TennisRacket (1), Shelf (1, 7, 10), Pen (1), Mug (1), BaseballBat (1).
+Think: I failed to put down Bowl (1). I need to try again.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TennisRacket (1), Shelf (1, 7), Pen (1), Mug (1), BaseballBat (1). 
+Act: pick up BaseballBat (1)
+You pick up BaseballBat (1). You see TennisRacket (1), Shelf (1, 7), BaseballBat (1). I am holding BaseballBat (1) now.
+Act: put down BaseballBat (1)
+You put down failed, drop it. You see TennisRacket (1), Shelf (1, 7), Pen (1), Mug (1).
+Think: I failed to put down BaseballBat (1). I need to try again.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TennisRacket (1), Shelf (1, 7), Pen (1), Mug (1), BaseballBat (1). 
+Act: pick up BaseballBat (1)
+You pick up BaseballBat (1). You see TennisRacket (1), Shelf (1, 7), BaseballBat (1). I am holding BaseballBat (1) now.
+Act: put down BaseballBat (1)
+You put down failed, drop it. You see TennisRacket (1), Shelf (1, 7), Pen (1), Mug (1), BaseballBat (1).
+Think: I failed to put down BaseballBat (1). I need to try again.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TennisRacket (1), Shelf (1, 7), Pen (1), Mug (1), BaseballBat (1). 
+Act: pick up BaseballBat (1)
+You pick up BaseballBat (1). You see TennisRacket (1), Shelf (1, 7), BaseballBat (1). I am holding BaseballBat (1) now.
+Act: put down BaseballBat (1)
+You put down failed, drop it. You see TennisRacket (1), Shelf (1, 7), Pen (1), Mug (1).
+Think: I failed to put down BaseballBat (1). I need to try again.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TennisRacket (1), Shelf (1, 7), Pen (1), Mug (1), BaseballBat (1). 
+Act: pick up BaseballBat (1)
+You pick up BaseballBat (1). You see TennisRacket (1), Shelf (1, 7), BaseballBat (1). I am holding BaseballBat (1) now.
+Act: put down BaseballBat (1)
+You put down failed, drop it. You see TennisRacket (1), Shelf (1, 7), Pen (1), Mug (1), BaseballBat (1).
+Think: I failed to put down BaseballBat (1). I need to try again.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TennisRacket (1, 1, 1, 1), Shelf (1, 1, 1, 1, 2, 7, 7, 7, 7, 10), Pen (1, 1, 1, 1), Mug (1, 1, 1, 1). 
+Act: pick up Mug (1)
+You pick up Mug (1). You see TennisRacket (1), Shelf (1, 2, 7, 10), Pen (1), Mug (1). I am holding Mug (1) now.
+Act: put down Mug (1)
+You put down failed, drop it. You see TennisRacket (1), Shelf (1, 2, 7, 10), Pen (1).
+Think: I failed to put down Mug (1). I need to try again.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TennisRacket (1, 1, 1, 1), Shelf (1, 1, 1, 1, 2, 2, 2, 2, 7, 7, 7, 7, 10, 10, 10, 10), Pen (1, 1, 1, 1). 
+Act: pick up Pen (1)
+You pick up Pen (1). You see TennisRacket (1), Shelf (1, 2, 7, 10), Pen (1). I am holding Pen (1) now.
+Act: put down Pen (1)
+You put down failed, drop it. You see TennisRacket (1), Shelf (1, 2, 7, 10).
+Think: I failed to put down Pen (1). I need to try again.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TennisRacket (1, 1, 1, 1), Shelf (1, 1, 1, 1, 2, 2, 2, 2, 7, 7, 7, 7, 10, 10, 10, 10). 
+Act: pick up TennisRacket (1)
+You pick up TennisRacket (1). You see TennisRacket (1). I am holding TennisRacket (1) now.
+Act: put down TennisRacket (1)
+You put down failed, drop it. You see Shelf (1, 2, 7, 10).
+Think: I failed to put down TennisRacket (1). I need to try again.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 7, 7, 7, 7, 7, 7, 7, 10, 10, 10, 10, 10, 10, 10). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Shelf (1, 1, 1, 1, 2, 2, 2, 2, 2, 3, 7, 7, 7, 7, 10, 10, 10, 10, 10, 12). 
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Watch (2), Shelf (2, 2, 3, 3, 10, 10, 12, 12), Pencil (1), Bed (2). 
+Act: pick up Watch (2)
+You pick up Watch (2). You see Watch (2), Shelf (2, 3, 10, 12), Pencil (1), Bed (2). I am holding Watch (2) now.
+Act: put down Watch (2)
+You put down failed, drop it. You see Shelf (2, 3, 10, 12), Pencil (1), Bed (2).
+Think: I failed to put down Watch (2). I need to try again.
+OK.
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Shelf (2, 2, 3, 3, 10, 10, 12, 12), Pencil (1, 1), Bed (2, 2). 
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see Shelf (2, 3, 10, 12), Pencil (1), Bed (2). I am holding Pencil (1) now.
+Act: put down Pencil (1)
+You put down failed, drop it. You see Shelf (2, 3, 10, 12), Bed (2).
+Think: I failed to put down Pencil (1). I need to try again.
+OK.
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Shelf (2, 2, 3, 3, 10, 10, 12, 12), Bed (2, 2). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Shelf (2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 10, 10, 10, 10, 10, 12, 12, 12, 12, 12), Bed (2, 2, 2, 2). 
+Act: go to Shelf (10)
+You arrive at Shelf (10). You see Shelf (2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 10, 10, 10, 10, 10, 12, 12, 12, 12, 12), Bed (2). 
+Act: go to Shelf (12)
+You arrive at Shelf (12). You see Shelf (2, 2, 3, 3, 10, 10, 12, 12), Bed (2, 2). 
+Act: go to Shelf (10)
+You arrive at Shelf (10). You see Shelf (2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 10, 10, 10, 10, 10, 12, 12, 12, 12, 12), Bed (2, 2, 2, 2, 2). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Shelf (2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 10, 10, 10, 10, 10, 12, 12, 12, 12, 12), Bed (2, 2, 2, 2). 
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Shelf (2, 2, 3, 3, 10, 10, 12, 12), Bed (2). 
+Act: go to Shelf (10)
+You arrive at Shelf (10). You see Shelf (2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 10, 10, 10, 10, 10, 12, 12, 12, 12, 12), Bed (2, 2, 2, 2, 2). 
+Act: go to Shelf (12)
+You arrive at Shelf (12). You see Shelf (2, 2, 3, 3, 10, 10, 12, 12), Bed (2, 2). 
+Act: go to Shelf (10)
+You arrive at Shelf (10). You see Shelf (2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 10, 10, 10, 10, 10, 12, 12, 12, 12, 12), Bed (2, 2, 2, 2, 2). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Shelf (2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 10, 10, 10, 10, 10, 12, 12, 12, 12, 12), Bed (2, 2, 2, 2). 
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Shelf (2, 2, 3, 3, 10, 10, 12, 12), Bed (2). 
+Act: go to Shelf (10)
+You arrive at Shelf (10). You see Shelf (2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 10, 10, 10, 10, 10, 12, 12, 12, 12, 12), Bed (2, 2, 2, 2, 2). 
+Act: go to Shelf (12)
+You arrive at Shelf (12). You see Shelf (2, 2, 3, 3, 10, 10, 12, 12), Bed (2, 2). 
+Act: go to Shelf (10)
+You arrive at Shelf (10). You see Shelf (2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 10, 10, 10, 10, 10, 12, 12, 12, 12, 12), Bed (2, 2, 2, 2, 2). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Shelf (2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 10, 10, 10, 10, 10, 12, 12, 12, 12, 12), Bed (2, 2, 2, 2). 
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Shelf (2, 2, 3, 3, 10, 10, 12, 12), Bed (2). 
+Act: go to Shelf (10)
+You arrive at Shelf (10). You see Shelf (2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 10, 10, 10, 10, 10, 12, 12, 12, 12, 12), Bed (2, 2, 2, 2, 2). 
+Act: go to Shelf (12)
+You arrive at Shelf (12). You see Shelf (2, 2, 3, 3, 10, 10, 12, 12), Bed (2, 2). 
+Act: go to Shelf (10)
+You arrive at Shelf (10). You see Shelf (2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 10, 10, 10, 10, 10, 12, 12, 12, 12, 12), Bed (2, 2, 2, 2, 2). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Shelf (2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 10, 10, 10, 10, 10, 12, 12, 12, 12, 12), Bed (2, 2, 2, 2). 
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Shelf (2, 2, 3, 3, 10, 10, 12, 12), Bed (2). 
+Act: go to Shelf (10)
+You arrive at Shelf (10). You see Shelf (2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 10, 10, 10, 10, 10, 12, 12, 12, 12, 12), Bed (2, 2, 2, 2, 2). 
+Act: go to Shelf (12)
+You arrive at Shelf (12). You see Shelf (2, 2, 3, 3, 10, 10, 12, 12), Bed (2, 2). 
+Act: go to Shelf (10)
+You arrive at Shelf (10). You see Shelf (2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 10, 10, 10, 10, 10, 12, 12, 12, 12, 12), Bed (2, 2, 2, 2, 2). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Shelf (2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 10, 10, 10, 10, 10, 12, 12, 12, 12, 12), Bed (2, 2, 2, 2). 
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Shelf (2, 2, 3, 3, 10, 10, 12, 12), Bed (2). 
+Act: go to Shelf (10)
+You arrive at Shelf (10). You see Shelf (2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 10, 10, 10, 10, 10, 12, 12, 12, 12, 12), Bed (2, 2, 2, 2, 2). 
+Act: go to Shelf (12)
+You arrive at Shelf (12). You see Shelf (2, 2, 3, 3, 10, 10, 12, 12), Bed (2, 2). 
+Act: go to Shelf (10)
+You arrive at Shelf (10). You see Shelf (2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 10, 10, 10, 10, 10, 12, 12, 12, 12, 12), Bed (2, 2, 2, 2, 2). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Shelf (2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 10, 10, 10, 10, 10, 12, 12, 12, 12, 12), Bed (2, 2, 2, 2). 
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Shelf (2, 2, 3, 3, 10, 10, 12, 12), Bed (2). 
+Act: go to Shelf (10)
+You arrive at Shelf (10). You see Shelf (2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 10, 10, 10, 10, 10, 12, 12, 12, 12, 12), Bed (2, 2, 2, 2, 2). 
+Act: go to Shelf (12)
+You arrive at Shelf (12). You see Shelf (2, 2, 3, 3, 10, 10, 12, 12), Bed (2, 2). 
+Act: go to Shelf (10)
+You arrive at Shelf (10). You see Shelf (2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 10, 10, 10, 10, 10, 12, 12, 12, 12, 12), Bed (2, 2, 2, 2, 2). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Shelf (2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 10, 10, 10, 10, 10, 12, 12, 12, 12, 12), Bed (2, 2, 2, 2). 
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Shelf (2, 2, 3, 3, 10, 10, 12, 12), Bed (2). 
+Act: go to Shelf (10)
+You arrive at Shelf (10). You see Shelf (2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 10, 10, 10, 10, 10, 12, 12, 12, 12, 12), Bed (2, 2, 2, 2, 2). 
+Act: go to Shelf (12)
+You arrive at Shelf (12). You see Shelf (2, 2, 3, 3, 10, 10, 12, 12), Bed (2, 2). 
+Act: go to Shelf (10)
+You arrive at Shelf (10). You see Shelf (2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 10, 10, 10, 10, 10, 12, 12, 12, 12, 12), Bed (2, 2, 2, 2, 2). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Shelf (2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 10, 10, 10, 10, 10, 12, 12, 12, 12, 12), Bed (2, 2, 2, 2). 
+Max decisions

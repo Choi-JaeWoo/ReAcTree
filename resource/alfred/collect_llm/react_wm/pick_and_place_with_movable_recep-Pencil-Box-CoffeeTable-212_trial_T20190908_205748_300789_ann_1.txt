@@ -1,0 +1,53 @@
+Your task is to: Put a box with a pencil in it on the coffee table. 
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1, 2), Sofa (1), SideTable (1), Shelf (1, 2, 3, 4), GarbageCan (1), Drawer (1), CoffeeTable (1), ArmChair (1, 2).
+Think: To solve the task, I need to find and pick up the pencil, then put it in the box. And I need to find and pick up the box, then put it on the coffee table.
+OK.
+Think: First, I need to recall location of pencil.
+OK.
+Act: recall location of Pencil
+You have not seen Pencil before.
+Think: Now I need to find the pencil. The pencil is more likely to appear on CoffeeTable (1), SideTable (1), or in Drawer (1), TVStand (1-2), Shelf (1-4). I can check each place one by one, starting from CoffeeTable (1), until I find the pencil.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Pencil (4), Pen (1, 3), CoffeeTable (1). 
+Think: I find Pencil (4). Now, I need to pick it up.
+OK.
+Act: pick up Pencil (4)
+You pick up Pencil (4). You see Pencil (4), Pen (1, 3), CoffeeTable (1). I am holding Pencil (4) now.
+Think: I hold Pencil (4). Now, I need to put it in the box.
+OK.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (1), Pencil (3, 4), KeyChain (2), FloorLamp (1), Drawer (1), CreditCard (2), Boots (1). Drawer (1) is closed.  I am holding Pencil (4) now.
+Act: open Drawer (1)
+You open Drawer (1). You see SideTable (1), Pencil (3, 4), KeyChain (1, 2), FloorLamp (1), Drawer (1), CreditCard (2), Boots (1). I am holding Pencil (4) now.
+Act: put down Pencil (4)
+You put Pencil (4) on Drawer (1). You see SideTable (1), Pencil (3, 4), KeyChain (1, 2), FloorLamp (1), Drawer (1), CreditCard (2), Boots (1).
+Act: close Drawer (1)
+You close Drawer (1). You see SideTable (1), Pencil (3), KeyChain (2), FloorLamp (1), Drawer (1), CreditCard (2), Boots (1).
+Think: I put Pencil (4) in Drawer (1). Now, I need to recall location of the box.
+OK.
+Act: recall location of Box
+You have not seen Box before.
+Think: Now I need to find the box. The box is more likely to appear on CoffeeTable (1), SideTable (1), or in Drawer (1), TVStand (1-2), Shelf (1-4). I can check each place one by one, starting from CoffeeTable (1), until I find the box.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Pen (1, 3), CoffeeTable (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (3), KeyChain (2), Drawer (1), CreditCard (2), Boots (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (1), Pencil (3), KeyChain (2), FloorLamp (1), Drawer (1), CreditCard (2), Boots (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see SideTable (1), Pencil (3, 4), KeyChain (1, 2), FloorLamp (1), Drawer (1), CreditCard (2), Boots (1).
+Think: I find Box (1). Now, I need to pick it up.
+OK.
+Act: pick up Pencil (3)
+You pick up Pencil (3). You see SideTable (1), Pencil (3, 4), KeyChain (1, 2), FloorLamp (1), Drawer (1), CreditCard (2), Boots (1). I am holding Pencil (3) now.
+Think: I hold Pencil (3). Now, I need to put it on the coffee table.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Pencil (3), Pen (1, 3), CoffeeTable (1).  I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put Pencil (3) on CoffeeTable (1). You see Pencil (3), Pen (1, 3), CoffeeTable (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

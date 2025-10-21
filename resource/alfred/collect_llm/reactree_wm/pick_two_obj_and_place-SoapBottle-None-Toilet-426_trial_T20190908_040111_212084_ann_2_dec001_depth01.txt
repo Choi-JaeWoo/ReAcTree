@@ -1,0 +1,7 @@
+Your task is to: Put two perfume bottles on the toilet
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1, 2), Toilet (1), ToiletPaperHanger (1), Sink (1), SinkBasin (1), HandTowelHolder (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1), Bathtub (1), BathtubBasin (1).
+Think: Since I’m not holding the perfume bottle, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up perfume bottle, place perfume bottle on toilet, Find and pick up perfume bottle away from toilet, and place perfume bottle on toilet.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up perfume bottle, place perfume bottle on toilet, Find and pick up perfume bottle away from toilet, place perfume bottle on toilet

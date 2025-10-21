@@ -1,0 +1,21 @@
+Your primary goal is to: take both bottles of wine and place them in the left drawer that is beneath the counter
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up wine bottle, place wine bottle in drawer, find and pick up wine bottle, and place wine bottle in drawer.
+Your task is to: find and pick up wine bottle
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: First, I need to recall location of the wine bottle.
+OK.
+Act: recall location of WineBottle
+You have not seen WineBottle before.
+Think: Now, I need to find the wine bottle. The wine bottle is more likely to appear on SideTable (1), CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from SideTable (1), until I find the wine bottle.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Tomato (1), SideTable (1), SaltShaker (1), Microwave (1), Fridge (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Potato (2), Kettle (2), CounterTop (1), Bread (1, 3), Apple (1). 
+Think: I find WineBottle (1). Now, I need to pick it up.
+OK.
+Act: pick up Potato (2)
+You pick up Potato (2). You see Potato (2), Kettle (2), CounterTop (1), Bread (1, 3), Apple (1). I am holding Potato (2) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

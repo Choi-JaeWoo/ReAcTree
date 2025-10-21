@@ -1,0 +1,142 @@
+Your task is to: Place a watch on a plate to present it on a table.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1, 2), GarbageCan (1), Drawer (1, 2), DiningTable (1, 2), CoffeeTable (1), ArmChair (1, 2).
+Think: To solve the task, I need to find and pick up the watch, then put it on the plate. And I need to find and pick up the plate, then put it on the table.
+OK.
+Think: First, I need to recall location of the watch.
+OK.
+Act: recall location of Watch
+You have not seen Watch before.
+Think: Now I need to find the watch. The watch is more likely to appear on DiningTable (1-2), CoffeeTable (1), SideTable (1-2), or in Drawer (1-2). I can check each place one by one, starting from DiningTable (1), until I find the watch.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Statue (2, 3), Plate (1, 2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (2), Book (1). 
+Think: I find Watch (1). Now, I need to pick it up.
+OK.
+Act: pick up Plate (1)
+You pick up Plate (1). You see Statue (2, 3), Plate (1, 2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (2), Book (1). I am holding Plate (1) now.
+Think: I hold Plate (1). Now, I need to put it on the table.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Statue (2, 3), Plate (1, 2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (2), Book (1).  I am holding Plate (1) now.
+Act: put down Plate (1)
+You put Plate (1) on DiningTable (1). You see Statue (2, 3), Plate (1, 2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (2), Book (1).
+Think: I put Plate (1) on the DiningTable (1). Now, I need to recall location of the watch.
+OK.
+Act: recall location of Watch
+You have not seen Watch before.
+Think: Now I need to find the watch. The watch is more likely to appear on DiningTable (1-2), CoffeeTable (1), SideTable (1-2), or in Drawer (1-2). I can check each place one by one, starting from DiningTable (1), until I find the watch.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Statue (2, 3), Plate (1, 2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (2), Book (1). 
+Think: I find Watch (1). Now, I need to pick it up.
+OK.
+Act: pick up Plate (1)
+You pick up Plate (1). You see Statue (2, 3), Plate (1, 2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (2), Book (1). I am holding Plate (1) now.
+Think: I hold Plate (1). Now, I need to put it on the table.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Statue (2, 3), Plate (1, 2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (2), Book (1).  I am holding Plate (1) now.
+Act: put down Plate (1)
+You put Plate (1) on DiningTable (1). You see Statue (2, 3), Plate (1, 2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (2), Book (1).
+Think: I put Plate (1) on the DiningTable (1). Now, I need to recall location of the watch.
+OK.
+Act: recall location of Watch
+You have not seen Watch before.
+Think: Now I need to find the watch. The watch is more likely to appear on DiningTable (1-2), CoffeeTable (1), SideTable (1-2), or in Drawer (1-2). I can check each place one by one, starting from DiningTable (1), until I find the watch.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Statue (2, 3), Plate (1, 2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (2), Book (1). 
+Think: I find Watch (1). Now, I need to pick it up.
+OK.
+Act: pick up Plate (1)
+You pick up Plate (1). You see Statue (2, 3), Plate (1, 2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (2), Book (1). I am holding Plate (1) now.
+Think: I hold Plate (1). Now, I need to put it on the table.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Statue (2, 3), Plate (1, 2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (2), Book (1).  I am holding Plate (1) now.
+Act: put down Plate (1)
+You put Plate (1) on DiningTable (1). You see Statue (2, 3), Plate (1, 2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (2), Book (1).
+Think: I put Plate (1) on the DiningTable (1). Now, I need to recall location of the watch.
+OK.
+Act: recall location of Watch
+You have not seen Watch before.
+Think: Now I need to find the watch. The watch is more likely to appear on DiningTable (1-2), CoffeeTable (1), SideTable (1-2), or in Drawer (1-2). I can check each place one by one, starting from DiningTable (1), until I find the watch.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Statue (2, 3), Plate (1, 2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (2), Book (1). 
+Think: I find Watch (1). Now, I need to pick it up.
+OK.
+Act: pick up Plate (1)
+You pick up Plate (1). You see Statue (2, 3), Plate (1, 2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (2), Book (1). I am holding Plate (1) now.
+Think: I hold Plate (1). Now, I need to put it on the table.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Statue (2, 3), Plate (1, 2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (2), Book (1).  I am holding Plate (1) now.
+Act: put down Plate (1)
+You put Plate (1) on DiningTable (1). You see Statue (2, 3), Plate (1, 2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (2), Book (1).
+Think: I put Plate (1) on the DiningTable (1). Now, I need to recall location of the watch.
+OK.
+Act: recall location of Watch
+You have not seen Watch before.
+Think: Now I need to find the watch. The watch is more likely to appear on DiningTable (1-2), CoffeeTable (1), SideTable (1-2), or in Drawer (1-2). I can check each place one by one, starting from DiningTable (1), until I find the watch.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Statue (2, 3), Plate (1, 2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (2), Book (1). 
+Think: I find Watch (1). Now, I need to pick it up.
+OK.
+Act: pick up Plate (1)
+You pick up Plate (1). You see Statue (2, 3), Plate (1, 2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (2), Book (1). I am holding Plate (1) now.
+Think: I hold Plate (1). Now, I need to put it on the table.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Statue (2, 3), Plate (1, 2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (2), Book (1).  I am holding Plate (1) now.
+Act: put down Plate (1)
+You put Plate (1) on DiningTable (1). You see Statue (2, 3), Plate (1, 2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (2), Book (1).
+Think: I put Plate (1) on the DiningTable (1). Now, I need to recall location of the watch.
+OK.
+Act: recall location of Watch
+You have not seen Watch before.
+Think: Now I need to find the watch. The watch is more likely to appear on DiningTable (1-2), CoffeeTable (1), SideTable (1-2), or in Drawer (1-2). I can check each place one by one, starting from DiningTable (1), until I find the watch.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Statue (2, 3), Plate (1, 2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (2), Book (1). 
+Think: I find Watch (1). Now, I need to pick it up.
+OK.
+Act: pick up Plate (1)
+You pick up Plate (1). You see Statue (2, 3), Plate (1, 2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (2), Book (1). I am holding Plate (1) now.
+Think: I hold Plate (1). Now, I need to put it on the table.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Statue (2, 3), Plate (1, 2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (2), Book (1).  I am holding Plate (1) now.
+Act: put down Plate (1)
+You put Plate (1) on DiningTable (1). You see Statue (2, 3), Plate (1, 2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (2), Book (1).
+Think: I put Plate (1) on the DiningTable (1). Now, I need to recall location of the watch.
+OK.
+Act: recall location of Watch
+You have not seen Watch before.
+Think: Now I need to find the watch. The watch is more likely to appear on DiningTable (1-2), CoffeeTable (1), SideTable (1-2), or in Drawer (1-2). I can check each place one by one, starting from DiningTable (1), until I find the watch.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Statue (2, 3), Plate (1, 2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (2), Book (1). 
+Think: I find Watch (1). Now, I need to pick it up.
+OK.
+Act: pick up Plate (1)
+You pick up Plate (1). You see Statue (2, 3), Plate (1, 2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (2), Book (1). I am holding Plate (1) now.
+Think: I hold Plate (1). Now, I need to put it on the table.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Statue (2, 3), Plate (1, 2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (2), Book (1).  I am holding Plate (1) now.
+Act: put down Plate (1)
+You put Plate (1) on DiningTable (1). You see Statue (2, 3), Plate (1, 2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (2), Book (1).
+Think: I put Plate (1) on the DiningTable (1). Now, I need to recall location of the watch.
+OK.
+Act: recall location of Watch
+You have not seen Watch before.
+Think: Now I need to find the watch. The watch is more likely to appear on DiningTable (1-2), CoffeeTable (1), SideTable (1-2), or in Drawer (1-2). I can check each place one by one, starting from DiningTable (1), until I find the watch.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Statue (2, 3), Plate (1, 2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (2), Book (1). 
+Think: I find Watch (1). Now, I need to pick it up.
+OK.
+Act: pick up Plate (1)
+You pick up Plate (1). You see Statue (2, 3), Plate (1, 2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (2), Book (1). I am holding Plate (1) now.

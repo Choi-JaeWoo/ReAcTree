@@ -1,0 +1,11 @@
+Your primary goal is to: move the pot to the counter by sink, put the apple in the pot
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pot, move and pick up pot, and place apple in pot.
+Your task is to: move and pick up pot
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2). I am holding Pot (1) now.
+Think: I hold Pot (1). Now, I need to move it to the counter by sink.
+OK.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Window (1), StoveBurner (2, 4), SoapBottle (1), Pot (1), Egg (1), CounterTop (2), ButterKnife (1).  I am holding Pot (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,7 @@
+Your task is to: Move two bottles of lotion to the top of the toilet tank.
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1, 2), HandTowelHolder (1), GarbageCan (1), CounterTop (1), Cabinet (1, 2, 3, 4), Bathtub (1), BathtubBasin (1).
+Think: Since I’m not holding lotion, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up lotion, place lotion on toilet tank, Find and pick up lotion away from toilet tank, and place lotion on toilet tank.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up lotion, place lotion on toilet tank, Find and pick up lotion away from toilet tank, place lotion on toilet tank

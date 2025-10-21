@@ -1,0 +1,31 @@
+Your task is to: Gather the newspapers and put them on the arm chair. 
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2), GarbageCan (1), DiningTable (1), CoffeeTable (1, 2), ArmChair (1, 2).
+Think: To solve the task, I need to find and pick up the newspapers, then put it on the arm chair.
+OK.
+Think: First, I need to recall location of the newspaper.
+OK.
+Act: recall location of Newspaper
+You have not seen Newspaper before.
+Think: Now I need to find the newspaper. The newspaper is more likely to appear on Sofa (1), SideTable (1-2), DiningTable (1), CoffeeTable (1-2), ArmChair (1-2). I can check each place one by one, starting from Sofa (1), until I find the newspaper.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1), Box (2, 3). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Window (4, 6), SideTable (1), Lamp (2), Chair (4), Candle (1, 3). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), Lamp (1), Candle (2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see TissueBox (2, 3), Statue (1, 2), Plate (2), Newspaper (1), Laptop (1), CreditCard (1), Chair (1, 2), Box (1). 
+Think: I find Newspaper (1). Now, I need to pick it up.
+OK.
+Act: pick up Newspaper (1)
+You pick up Newspaper (1). You see TissueBox (2, 3), Statue (1, 2), Plate (2), Newspaper (1), Laptop (1), CreditCard (1), Chair (1), Box (1). I am holding Newspaper (1) now.
+Think: I hold Newspaper (1). Now, I need to put it on the arm chair.
+OK.
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Sofa (1), Newspaper (1), ArmChair (1, 2).  I am holding Newspaper (1) now.
+Act: put down Newspaper (1)
+You put Newspaper (1) on ArmChair (1). You see Sofa (1), Newspaper (1), ArmChair (1, 2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

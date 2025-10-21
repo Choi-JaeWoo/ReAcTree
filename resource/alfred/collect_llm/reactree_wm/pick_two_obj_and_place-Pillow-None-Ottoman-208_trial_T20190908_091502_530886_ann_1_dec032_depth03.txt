@@ -1,0 +1,13 @@
+Your primary goal is to: Pick up the pillows on the sofa, move them to the ottoman.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pillows, and place pillows on ottoman.
+Your task is to: place pillows on ottoman
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8), Ottoman (1), GarbageCan (1), Drawer (1), DiningTable (1), ArmChair (1). I am holding Pillow (1) now.
+Think: I hold Pillow (1). Now, I need to put it on the ottoman. I can see Ottoman (1).
+OK.
+Act: go to Ottoman (1)
+You arrive at Ottoman (1). You see Pillow (1), Ottoman (1), KeyChain (2, 3), ArmChair (1).  I am holding Pillow (1) now.
+Act: put down Pillow (1)
+You put Pillow (1) on Ottoman (1). You see Pillow (1), Ottoman (1), KeyChain (2, 3), ArmChair (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

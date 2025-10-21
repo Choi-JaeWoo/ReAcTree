@@ -1,0 +1,114 @@
+Your task is to: Pick up the newspaper and turn on the lamp on the desk.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1), Ottoman (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7), DiningTable (1), CoffeeTable (1), ArmChair (1).
+Think: To solve the task, I need to find and pick up the newspaper. And I need to find and turn on the desk lamp.
+OK.
+Think: First, I need to recall location of the newspaper.
+OK.
+Act: recall location of Newspaper
+You have not seen Newspaper before.
+Think: Now I need to find the newspaper. The newspaper is more likely to appear on Sofa (1), SideTable (1), Ottoman (1), DiningTable (1), CoffeeTable (1), ArmChair (1), or in Drawer (1-7). I can check each place one by one, starting from Sofa (1), until I find the newspaper.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Laptop (2), KeyChain (2), Book (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see WateringCan (1), SideTable (1), HousePlant (1), Drawer (4), CellPhone (1). 
+Act: go to Ottoman (1)
+You arrive at Ottoman (1). You see RemoteControl (3), Pillow (1), Ottoman (1), KeyChain (1), CreditCard (2), ArmChair (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Plate (1), Newspaper (1, 2, 3, 4), DiningTable (1), CreditCard (1), Chair (1, 2, 3, 4). 
+Think: I find Newspaper (1). Now, I need to pick it up.
+OK.
+Act: pick up Newspaper (1)
+You pick up Newspaper (1). You see Plate (1), Newspaper (1, 2, 3, 4), DiningTable (1), CreditCard (1), Chair (1, 2, 3, 4). I am holding Newspaper (1) now.
+Think: I hold Newspaper (1). Now, I need to recall location of the desk lamp.
+OK.
+Act: recall location of DeskLamp
+You have not seen DeskLamp before.
+Think: Now I need to find the desk lamp The desk lamp is more likely to appear on Sofa (1), SideTable (1), Ottoman (1), DiningTable (1), CoffeeTable (1), ArmChair (1). I can check each place one by one, starting from Sofa (1), until I find the desk lamp.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Newspaper (1), Laptop (2), KeyChain (2), Book (1).  I am holding Newspaper (1) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see WateringCan (1), SideTable (1), Newspaper (1), HousePlant (1), Drawer (4), CellPhone (1).  I am holding Newspaper (1) now.
+Act: go to Ottoman (1)
+You arrive at Ottoman (1). You see RemoteControl (3), Pillow (1), Ottoman (1), Newspaper (1), KeyChain (1), CreditCard (2), ArmChair (1).  I am holding Newspaper (1) now.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Plate (1), Newspaper (1, 2, 3, 4), DiningTable (1), CreditCard (1), Chair (1, 2, 3, 4).  I am holding Newspaper (1) now.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (3), Vase (1), TissueBox (1), RemoteControl (1, 2), Pencil (1), Newspaper (1), Laptop (1), Drawer (2, 7), CoffeeTable (1), Bowl (1).  I am holding Newspaper (1) now.
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Pillow (1), Ottoman (1), Newspaper (1), Box (1), ArmChair (1).  I am holding Newspaper (1) now.
+Think: I find DeskLamp (1). Now, I need to turn it on.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Newspaper (1), Laptop (2), KeyChain (2), Book (1).  I am holding Newspaper (1) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see WateringCan (1), SideTable (1), Newspaper (1), HousePlant (1), Drawer (4), CellPhone (1).  I am holding Newspaper (1) now.
+Act: go to Ottoman (1)
+You arrive at Ottoman (1). You see RemoteControl (3), Pillow (1), Ottoman (1), Newspaper (1), KeyChain (1), CreditCard (2), ArmChair (1).  I am holding Newspaper (1) now.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Plate (1), Newspaper (1, 2, 3, 4), DiningTable (1), CreditCard (1), Chair (1, 2, 3, 4).  I am holding Newspaper (1) now.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (3), Vase (1), TissueBox (1), RemoteControl (1, 2), Pencil (1), Newspaper (1), Laptop (1), Drawer (2, 7), CoffeeTable (1), Bowl (1).  I am holding Newspaper (1) now.
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Pillow (1), Ottoman (1), Newspaper (1), Box (1), ArmChair (1).  I am holding Newspaper (1) now.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Newspaper (1), Laptop (2), KeyChain (2), Book (1).  I am holding Newspaper (1) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see WateringCan (1), SideTable (1), Newspaper (1), HousePlant (1), Drawer (4), CellPhone (1).  I am holding Newspaper (1) now.
+Act: go to Ottoman (1)
+You arrive at Ottoman (1). You see RemoteControl (3), Pillow (1), Ottoman (1), Newspaper (1), KeyChain (1), CreditCard (2), ArmChair (1).  I am holding Newspaper (1) now.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Plate (1), Newspaper (1, 2, 3, 4), DiningTable (1), CreditCard (1), Chair (1, 2, 3, 4).  I am holding Newspaper (1) now.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (3), Vase (1), TissueBox (1), RemoteControl (1, 2), Pencil (1), Newspaper (1), Laptop (1), Drawer (2, 7), CoffeeTable (1), Bowl (1).  I am holding Newspaper (1) now.
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Pillow (1), Ottoman (1), Newspaper (1), Box (1), ArmChair (1).  I am holding Newspaper (1) now.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Newspaper (1), Laptop (2), KeyChain (2), Book (1).  I am holding Newspaper (1) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see WateringCan (1), SideTable (1), Newspaper (1), HousePlant (1), Drawer (4), CellPhone (1).  I am holding Newspaper (1) now.
+Act: go to Ottoman (1)
+You arrive at Ottoman (1). You see RemoteControl (3), Pillow (1), Ottoman (1), Newspaper (1), KeyChain (1), CreditCard (2), ArmChair (1).  I am holding Newspaper (1) now.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Plate (1), Newspaper (1, 2, 3, 4), DiningTable (1), CreditCard (1), Chair (1, 2, 3, 4).  I am holding Newspaper (1) now.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (3), Vase (1), TissueBox (1), RemoteControl (1, 2), Pencil (1), Newspaper (1), Laptop (1), Drawer (2, 7), CoffeeTable (1), Bowl (1).  I am holding Newspaper (1) now.
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Pillow (1), Ottoman (1), Newspaper (1), Box (1), ArmChair (1).  I am holding Newspaper (1) now.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Newspaper (1), Laptop (2), KeyChain (2), Book (1).  I am holding Newspaper (1) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see WateringCan (1), SideTable (1), Newspaper (1), HousePlant (1), Drawer (4), CellPhone (1).  I am holding Newspaper (1) now.
+Act: go to Ottoman (1)
+You arrive at Ottoman (1). You see RemoteControl (3), Pillow (1), Ottoman (1), Newspaper (1), KeyChain (1), CreditCard (2), ArmChair (1).  I am holding Newspaper (1) now.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Plate (1), Newspaper (1, 2, 3, 4), DiningTable (1), CreditCard (1), Chair (1, 2, 3, 4).  I am holding Newspaper (1) now.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (3), Vase (1), TissueBox (1), RemoteControl (1, 2), Pencil (1), Newspaper (1), Laptop (1), Drawer (2, 7), CoffeeTable (1), Bowl (1).  I am holding Newspaper (1) now.
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Pillow (1), Ottoman (1), Newspaper (1), Box (1), ArmChair (1).  I am holding Newspaper (1) now.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Newspaper (1), Laptop (2), KeyChain (2), Book (1).  I am holding Newspaper (1) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see WateringCan (1), SideTable (1), Newspaper (1), HousePlant (1), Drawer (4), CellPhone (1).  I am holding Newspaper (1) now.
+Act: go to Ottoman (1)
+You arrive at Ottoman (1). You see RemoteControl (3), Pillow (1), Ottoman (1), Newspaper (1), KeyChain (1), CreditCard (2), ArmChair (1).  I am holding Newspaper (1) now.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Plate (1), Newspaper (1, 2, 3, 4), DiningTable (1), CreditCard (1), Chair (1, 2, 3, 4).  I am holding Newspaper (1) now.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (3), Vase (1), TissueBox (1), RemoteControl (1, 2), Pencil (1), Newspaper (1), Laptop (1), Drawer (2, 7), CoffeeTable (1), Bowl (1).  I am holding Newspaper (1) now.
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Pillow (1), Ottoman (1), Newspaper (1), Box (1), ArmChair (1).  I am holding Newspaper (1) now.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Newspaper (1), Laptop (2), KeyChain (2), Book (1).  I am holding Newspaper (1) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see WateringCan (1), SideTable (1), Newspaper (1), HousePlant (1), Drawer (4), CellPhone (1).  I am holding Newspaper (1) now.
+Act: go to Ottoman (1)
+You arrive at Ottoman (1). You see RemoteControl (3), Pillow (1), Ottoman (1), Newspaper (1), KeyChain (1), CreditCard (2), ArmChair (1).  I am holding Newspaper (1) now.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Plate (1), Newspaper (1, 2, 3, 4), DiningTable (1), CreditCard (1), Chair (1, 2, 3, 4).  I am holding Newspaper (1) now.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (3), Vase (1), TissueBox (1), RemoteControl (1, 2), Pencil (1), Newspaper (1), Laptop (1), Drawer (2, 7), CoffeeTable (1), Bowl (1).  I am holding Newspaper (1) now.
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Pillow (1), Ottoman (1), Newspaper (1), Box (1), ArmChair (1).  I am holding Newspaper (1) now.

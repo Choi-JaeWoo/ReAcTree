@@ -1,0 +1,7 @@
+Your task is to: put two candles inside bathroom cabinet
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1, 2), Toilet (1), ToiletPaperHanger (1), SinkBasin (1, 2), Shelf (1), HandTowelHolder (1, 2), GarbageCan (1), CounterTop (1), Cabinet (1, 2, 3, 4), Bathtub (1), BathtubBasin (1).
+Think: Since I’m not holding the candle, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up candle, place candle in cabinet, find and pick up candle away from cabinet, and place candle in cabinet.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up candle, place candle in cabinet, find and pick up candle away from cabinet, place candle in cabinet

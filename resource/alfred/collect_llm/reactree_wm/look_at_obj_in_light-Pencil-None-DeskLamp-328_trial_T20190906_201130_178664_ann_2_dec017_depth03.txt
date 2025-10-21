@@ -1,0 +1,21 @@
+Your primary goal is to: Pick the pencil from the night stand and turn on the desk lamp on the left side of the desk. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pencil, find and turn on desk lamp, and place pencil on desk lamp.
+Your task is to: place pencil on desk lamp
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1), GarbageCan (1), Drawer (1, 2), Desk (1), Bed (1). I am holding Pen (1) now.
+Think: I hold Pen (1). Now, I need to recall location of the desk lamp.
+OK.
+Act: recall location of DeskLamp
+You saw DeskLamp (1) near Shelf (1).
+Think: I can find DeskLamp (1) near Shelf (1).
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Pen (1), Laptop (1), KeyChain (2), Desk (1), DeskLamp (1), CreditCard (1), Chair (1), Book (1).  I am holding Pen (1) now.
+Think: I find DeskLamp (1). Now, I need to put down Pen (1) on DeskLamp (1).
+OK.
+Act: go to DeskLamp (1)
+You see Pen (1), KeyChain (2), Desk (1), DeskLamp (1), CreditCard (1), Book (1). DeskLamp (1) is already turned on.  I am holding Pen (1) now.
+Act: put down Pen (1)
+You put down failed, drop it. You see Pen (1), KeyChain (2), Desk (1), DeskLamp (1), CreditCard (1), Book (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

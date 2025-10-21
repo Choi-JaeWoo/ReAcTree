@@ -1,0 +1,7 @@
+Your task is to: throw two red pens into the trash
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1, 2), GarbageCan (1), Drawer (1, 2), DiningTable (1), Bed (1), ArmChair (1).
+Think: Since I’m not holding two red pens, I need to accomplish 2 subgoals sequentially to solve the task. Find and pick up two red pens and throw two red pens into the trash.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up two red pens, throw two red pens into the trash

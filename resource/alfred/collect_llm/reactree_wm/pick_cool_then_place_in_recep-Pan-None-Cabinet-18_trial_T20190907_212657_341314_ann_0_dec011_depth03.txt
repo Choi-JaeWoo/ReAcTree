@@ -1,0 +1,15 @@
+Your primary goal is to: Place the pan in the bottom cabinet.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pan, and place pan in cabinet.
+Your task is to: place pan in cabinet
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Safe (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16). I am holding Pan (1) now.
+Think: I hold Pan (1). Now, I need to put it in the cabinet. I can see Cabinet (1).
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Pan (1), Cabinet (1, 16). Cabinet (1) is closed.  I am holding Pan (1) now.
+Act: open Cabinet (1)
+You open Cabinet (1). You see Pan (1), Cabinet (1). I am holding Pan (1) now.
+Act: put down Pan (1)
+You put down failed, drop it. You see Cabinet (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

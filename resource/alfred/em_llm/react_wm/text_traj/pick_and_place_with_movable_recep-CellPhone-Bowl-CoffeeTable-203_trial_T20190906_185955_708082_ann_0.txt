@@ -1,0 +1,39 @@
+Your task is to: place a bowl with a cellphone in it on top of the coffee table
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1), Ottoman (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7), DiningTable (1), CoffeeTable (1), ArmChair (1).
+Think: To solve the task, I need to find and pick up the bowl, then put it on the coffee table. And I need to find and pick up the cellphone, then put it on the bowl on the coffee table.
+OK.
+Think: First, I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: Now I need to find the bowl. The bowl is more likely to appear on DiningTable (1), CoffeeTable (1), or in Drawer (1-7). I can check each place one by one, starting from DiningTable (1), until I find the bowl.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Watch (1), Vase (1), TissueBox (1), Plate (1), Newspaper (2), KeyChain (1), DiningTable (1), CreditCard (2), Chair (1, 2, 3, 4), Bowl (1, 3). 
+Think: I find Bowl (1). Now, I need to pick it up.
+OK.
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Watch (1), Vase (1), TissueBox (1), Plate (1), Newspaper (2), KeyChain (1), DiningTable (1), CreditCard (2), Chair (1, 2, 3, 4), Bowl (1, 3). I am holding Bowl (1) now.
+Think: I hold Bowl (1). Now, I need to put it on the coffee table.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), TissueBox (2), RemoteControl (2), Laptop (2), Drawer (2, 6, 7), CoffeeTable (1), CellPhone (1, 2, 3), Bowl (1).  I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put Bowl (1) on CoffeeTable (1). You see Vase (2), TissueBox (2), RemoteControl (2), Laptop (2), Drawer (2, 6, 7), CoffeeTable (1), CellPhone (1, 2, 3), Bowl (1).
+Think: I put Bowl (1) on the CoffeeTable (1). Now, I need to recall location of the cellphone.
+OK.
+Act: recall location of CellPhone
+You saw CellPhone (1) near CoffeeTable (1). You saw CellPhone (2) near CoffeeTable (1). You saw CellPhone (3) near CoffeeTable (1).
+Think: CellPhone (1) is on the CoffeeTable (1). Now, I need to pick it up.
+OK.
+Act: pick up CellPhone (1)
+You pick up CellPhone (1). You see Vase (2), TissueBox (2), RemoteControl (2), Laptop (2), Drawer (2, 6, 7), CoffeeTable (1), CellPhone (1, 2, 3), Bowl (1). I am holding CellPhone (1) now.
+Think: I hold CellPhone (1). Now, I need to put it on the bowl on the coffee table.
+OK.
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Vase (2), TissueBox (2), RemoteControl (2), Laptop (2), Drawer (2, 6, 7), CoffeeTable (1), CellPhone (1, 2, 3), Bowl (1).  I am holding CellPhone (1) now.
+Act: put down CellPhone (1)
+You put CellPhone (1) on Bowl (1). You see Vase (2), TissueBox (2), RemoteControl (2), Laptop (2), Drawer (2, 6, 7), CoffeeTable (1), CellPhone (1, 2, 3), Bowl (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

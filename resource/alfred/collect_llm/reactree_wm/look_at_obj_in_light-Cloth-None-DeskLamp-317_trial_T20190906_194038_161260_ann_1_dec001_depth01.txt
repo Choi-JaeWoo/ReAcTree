@@ -1,0 +1,7 @@
+Your task is to: Pick up the green cloth by the window, turn on the lamp on the night stand
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Safe (1), LaundryHamper (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11), Bed (1).
+Think: Since I’m not holding the green cloth, I need to accomplish 2 subgoals sequentially to solve the task. Find and pick up green cloth, and turn on lamp on night stand.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up green cloth, turn on lamp on night stand

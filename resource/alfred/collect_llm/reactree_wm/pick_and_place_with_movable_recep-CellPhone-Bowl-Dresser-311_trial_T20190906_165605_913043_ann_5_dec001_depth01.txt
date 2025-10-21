@@ -1,0 +1,7 @@
+Your task is to: The cell phone will be moved from the chair to a bowl to end up on top of the dresser. 
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), LaundryHamper (1), GarbageCan (1), Dresser (1), Drawer (1, 2), DiningTable (1), CounterTop (1), Bed (1), ArmChair (1, 2).
+Think: Since I’m not holding cell phone, I need to accomplish 3 subgoals sequentially to solve the task. Find and pick up cell phone, place cell phone on bowl, and place cell phone on dresser.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up cell phone, place cell phone on bowl, place cell phone on dresser

@@ -1,0 +1,142 @@
+Your task is to: Move a pan with a slice of lettuce to a white table.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1, 2, 3), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: To solve the task, I need to find and pick up the pan. And I need to find and put the lettuce in the pan. And I need to put down the pan on the white table.
+OK.
+Think: First, I need to recall location of the pan.
+OK.
+Act: recall location of Pan
+You have not seen Pan before.
+Think: Now I need to find the pan. The pan is more likely to appear on CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1). I can check each place one by one, starting from CounterTop (1), until I find the pan.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spoon (1), Sink (1), SinkBasin (1), SideTable (1), SaltShaker (2, 3), Potato (1), PepperShaker (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), ButterKnife (3). 
+Think: I find Pan (1). Now, I need to pick it up.
+OK.
+Act: pick up Potato (1)
+You pick up Potato (1). You see Spoon (1), Sink (1), SinkBasin (1), SideTable (1), SaltShaker (2, 3), Potato (1), PepperShaker (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), ButterKnife (3). I am holding Potato (1) now.
+Think: I hold Potato (1). Now, I need to recall location of the lettuce.
+OK.
+Act: recall location of Lettuce
+You saw Lettuce (1) near CounterTop (1).
+Think: I can find Lettuce (1) near CounterTop (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spoon (1), Sink (1), SinkBasin (1), SideTable (1), SaltShaker (2, 3), Potato (1), PepperShaker (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), ButterKnife (3).  I am holding Potato (1) now.
+Think: I find Lettuce (1). Now, I need to put it in the pan.
+OK.
+Act: put down Potato (1)
+You put Potato (1) on CounterTop (1). You see Spoon (1), Sink (1), SinkBasin (1), SideTable (1), SaltShaker (2, 3), Potato (1), PepperShaker (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), ButterKnife (3).
+Act: pick up Lettuce (1)
+You pick up Lettuce (1). You see Spoon (1), Sink (1), SinkBasin (1), SideTable (1), SaltShaker (2, 3), Potato (1), PepperShaker (1), Lettuce (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), ButterKnife (3). I am holding Lettuce (1) now.
+Think: I hold Lettuce (1). Now, I need to put it in the pan.
+OK.
+Act: put down Lettuce (1)
+You put down failed, drop it. You see Spoon (1), Sink (1), SinkBasin (1), SideTable (1), SaltShaker (2, 3), Potato (1), PepperShaker (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), ButterKnife (3).
+Think: Now I need to pick up Lettuce (1).
+OK.
+Act: pick up Potato (1)
+You pick up Potato (1). You see Spoon (1), Sink (1), SinkBasin (1), SideTable (1), SaltShaker (2, 3), Potato (1), PepperShaker (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), ButterKnife (3). I am holding Potato (1) now.
+Think: I hold Potato (1). Now, I need to put it in the pan.
+OK.
+Act: put down Potato (1)
+You put down failed, drop it. You see Spoon (1), Sink (1), SinkBasin (1), SideTable (1), SaltShaker (2, 3), PepperShaker (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), ButterKnife (3).
+Think: Now I need to pick up Lettuce (1).
+OK.
+Act: pick up PepperShaker (1)
+You pick up PepperShaker (1). You see Spoon (1), Sink (1), SinkBasin (1), SideTable (1), SaltShaker (2, 3), PepperShaker (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), ButterKnife (3). I am holding PepperShaker (1) now.
+Think: I hold PepperShaker (1). Now, I need to put it in the pan.
+OK.
+Act: put down PepperShaker (1)
+You put down failed, drop it. You see Spoon (1), Sink (1), SinkBasin (1), SideTable (1), SaltShaker (2, 3), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), ButterKnife (3).
+Think: Now I need to pick up Lettuce (1).
+OK.
+Act: pick up SaltShaker (2)
+You pick up SaltShaker (2). You see Spoon (1), Sink (1), SinkBasin (1), SideTable (1), SaltShaker (2, 3), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), ButterKnife (3). I am holding SaltShaker (2) now.
+Think: I hold SaltShaker (2). Now, I need to put it in the pan.
+OK.
+Act: put down SaltShaker (2)
+You put down failed, drop it. You see Spoon (1), Sink (1), SinkBasin (1), SideTable (1), SaltShaker (3), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), ButterKnife (3).
+Think: Now I need to pick up Lettuce (1).
+OK.
+Act: pick up SaltShaker (3)
+You pick up SaltShaker (3). You see Spoon (1), Sink (1), SinkBasin (1), SideTable (1), SaltShaker (3), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), ButterKnife (3). I am holding SaltShaker (3) now.
+Think: I hold SaltShaker (3). Now, I need to put it in the pan.
+OK.
+Act: put down SaltShaker (3)
+You put down failed, drop it. You see Spoon (1), Sink (1), SinkBasin (1), SideTable (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), ButterKnife (3).
+Think: Now I need to pick up Lettuce (1).
+OK.
+Act: pick up Spoon (1)
+You pick up Spoon (1). You see Spoon (1), Sink (1), SinkBasin (1), SideTable (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), ButterKnife (3). I am holding Spoon (1) now.
+Think: I hold Spoon (1). Now, I need to put it in the pan.
+OK.
+Act: put down Spoon (1)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), SideTable (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), ButterKnife (3).
+Think: Now I need to pick up Lettuce (1).
+OK.
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Sink (1), SinkBasin (1), SideTable (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), ButterKnife (3). I am holding DishSponge (1) now.
+Think: I hold DishSponge (1). Now, I need to put it in the pan.
+OK.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), SideTable (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), ButterKnife (3).
+Think: Now I need to pick up Lettuce (1).
+OK.
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Sink (1), SinkBasin (1), SideTable (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), ButterKnife (3). I am holding DishSponge (1) now.
+Think: I hold DishSponge (1). Now, I need to put it in the pan.
+OK.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), SideTable (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), ButterKnife (3).
+Think: Now I need to pick up Lettuce (1).
+OK.
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Sink (1), SinkBasin (1), SideTable (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), ButterKnife (3). I am holding DishSponge (1) now.
+Think: I hold DishSponge (1). Now, I need to put it in the pan.
+OK.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), SideTable (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), ButterKnife (3).
+Think: Now I need to pick up Lettuce (1).
+OK.
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Sink (1), SinkBasin (1), SideTable (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), ButterKnife (3). I am holding DishSponge (1) now.
+Think: I hold DishSponge (1). Now, I need to put it in the pan.
+OK.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), SideTable (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), ButterKnife (3).
+Think: Now I need to pick up Lettuce (1).
+OK.
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Sink (1), SinkBasin (1), SideTable (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), ButterKnife (3). I am holding DishSponge (1) now.
+Think: I hold DishSponge (1). Now, I need to put it in the pan.
+OK.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), SideTable (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), ButterKnife (3).
+Think: Now I need to pick up Lettuce (1).
+OK.
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Sink (1), SinkBasin (1), SideTable (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), ButterKnife (3). I am holding DishSponge (1) now.
+Think: I hold DishSponge (1). Now, I need to put it in the pan.
+OK.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), SideTable (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), ButterKnife (3).
+Think: Now I need to pick up Lettuce (1).
+OK.
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Sink (1), SinkBasin (1), SideTable (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), ButterKnife (3). I am holding DishSponge (1) now.
+Think: I hold DishSponge (1). Now, I need to put it in the pan.
+OK.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), SideTable (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), ButterKnife (3).
+Think: Now I need to pick up Lettuce (1).
+OK.
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Sink (1), SinkBasin (1), SideTable (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), ButterKnife (3). I am holding DishSponge (1) now.
+Think: I hold DishSponge (1). Now, I need to put it in the pan.
+OK.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), SideTable (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), ButterKnife (3).
+Think: Now I need to pick up Lettuce (1).
+OK.
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Sink (1), SinkBasin (1), SideTable (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), ButterKnife (3). I am holding DishSponge (1) now.

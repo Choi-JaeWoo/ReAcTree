@@ -1,0 +1,19 @@
+Your primary goal is to: examine the book with the lamp
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up book, and find and turn on lamp.
+Your task is to: find and turn on lamp
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5), Desk (1), Bed (1). I am holding Book (2) now.
+Think: First, I need to recall location of the lamp.
+OK.
+Act: recall location of DeskLamp
+You saw DeskLamp (1) near Drawer (5).
+Think: I can find DeskLamp (1) near Drawer (5).
+OK.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Pillow (1), Desk (1), DeskLamp (1), Chair (1), CD (3), Book (2), Bed (1). Drawer (5) is closed.  I am holding Book (2) now.
+Think: I find DeskLamp (1). Now, I need to turn it on.
+OK.
+Act: turn on DeskLamp (1)
+You turn on DeskLamp (1). You see Pillow (1), Desk (1), DeskLamp (1), Chair (1), CD (3), Book (2), Bed (1). I am holding Book (2) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

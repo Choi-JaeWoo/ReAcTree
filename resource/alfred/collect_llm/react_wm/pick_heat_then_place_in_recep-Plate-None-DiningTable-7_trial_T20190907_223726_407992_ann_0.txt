@@ -1,0 +1,83 @@
+Your task is to: warm plate place on table, warm dog state place on table
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13).
+Think: To solve the task, I need to find and pick up the plate, then put it in the microwave. And I need to turn on and off the microwave. And I need to pick up the plate from the microwave, then put it on the table. And I need to find and pick up the dog state, then put it in the microwave. And I need to turn on and off the microwave. And I need to pick up the dog state from the microwave, then put it on the table.
+OK.
+Think: First, I need to recall location of the plate.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now I need to find the plate. The plate is more likely to appear on DiningTable (1), CounterTop (1-2), SinkBasin (1) or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1-4). I can check each place one by one, starting from DiningTable (1), until I find the plate.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (1), Vase (3), Spoon (3), Spatula (1, 2), Plate (4), PepperShaker (1), Mug (1), Lettuce (2), Knife (3), HousePlant (1), Fork (1, 2), DiningTable (1), Cup (1), ButterKnife (1, 2), Bread (1), Book (1), Apple (2). 
+Think: I find Plate (4). Now, I need to pick it up.
+OK.
+Act: pick up Plate (4)
+You pick up Plate (4). You see WineBottle (1), Vase (3), Spoon (3), Spatula (1, 2), Plate (4), PepperShaker (1), Mug (1), Lettuce (2), Knife (3), HousePlant (1), Fork (1, 2), DiningTable (1), Cup (1), ButterKnife (1, 2), Bread (1), Book (1). I am holding Plate (4) now.
+Think: I hold Plate (4). Now, I need to put it in the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Vase (2), Toaster (1), Pot (1), Plate (4), Microwave (1), Kettle (3), Cabinet (3, 10). Microwave (1) is closed.  I am holding Plate (4) now.
+Act: open Microwave (1)
+You open Microwave (1). You see Vase (2), Toaster (1), Pot (1), Plate (4), Microwave (1), Kettle (3), Cabinet (3, 10). I am holding Plate (4) now.
+Act: put down Plate (4)
+You put Plate (4) on Microwave (1). You see Vase (2), Toaster (1), Pot (1), Plate (4), Microwave (1), Kettle (3), Cabinet (3, 10).
+Act: close Microwave (1)
+You close Microwave (1). You see Vase (2), Toaster (1), Pot (1), Microwave (1), Kettle (3), Cabinet (3, 10).
+Think: I put Plate (4) in Microwave (1). Now, I need to turn on and off Microwave (1).
+OK.
+Act: turn on Microwave (1)
+You turn on Microwave (1). You see Vase (2), Toaster (1), Pot (1), Microwave (1), Kettle (3), Cabinet (3, 10).
+Act: turn off Microwave (1)
+You turn off Microwave (1). You see Vase (2), Toaster (1), Pot (1), Microwave (1), Kettle (3), Cabinet (3, 10).
+Think: Now, I need to pick up the plate from the microwave.
+OK.
+Act: open Microwave (1)
+You open Microwave (1). You see Vase (2), Toaster (1), Pot (1), Plate (4), Microwave (1), Kettle (3), Cabinet (3, 10).
+Act: pick up Plate (4)
+You pick up Plate (4). You see Vase (2), Toaster (1), Pot (1), Plate (4), Microwave (1), Kettle (3), Cabinet (3, 10). I am holding Plate (4) now.
+Think: I pick up Plate (4) from Microwave (1). Now, I need to put it on the table.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (1), Vase (3), Spoon (3), Spatula (1, 2), Plate (4), PepperShaker (1), Mug (1), Lettuce (2), Knife (3), HousePlant (1), Fork (1, 2), DiningTable (1), Cup (1), ButterKnife (1, 2), Bread (1), Book (1), Apple (2).  I am holding Plate (4) now.
+Act: put down Plate (4)
+You put Plate (4) on DiningTable (1). You see WineBottle (1), Vase (3), Spoon (3), Spatula (1, 2), Plate (4), PepperShaker (1), Mug (1), Lettuce (2), Knife (3), HousePlant (1), Fork (1, 2), DiningTable (1), Cup (1), ButterKnife (1, 2), Bread (1), Book (1), Apple (2).
+Think: I put Plate (4) on the table. Now, I need to recall location of the dog state.
+OK.
+Act: recall location of Plate
+You saw Plate (4) near DiningTable (1).
+Think: Plate (4) is in the DiningTable (1). Now, I need to pick it up.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (1), Vase (3), Spoon (3), Spatula (1, 2), Plate (4), PepperShaker (1), Mug (1), Lettuce (2), Knife (3), HousePlant (1), Fork (1, 2), DiningTable (1), Cup (1), ButterKnife (1, 2), Bread (1), Book (1), Apple (2). 
+Act: pick up Plate (4)
+You pick up Plate (4). You see WineBottle (1), Vase (3), Spoon (3), Spatula (1, 2), Plate (4), PepperShaker (1), Mug (1), Lettuce (2), Knife (3), HousePlant (1), Fork (1, 2), DiningTable (1), Cup (1), ButterKnife (1, 2), Bread (1), Book (1). I am holding Plate (4) now.
+Think: I hold Plate (4). Now, I need to put it in the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Vase (2), Toaster (1), Pot (1), Plate (4), Microwave (1), Kettle (3), Cabinet (3, 10). Microwave (1) is open.  I am holding Plate (4) now.
+Act: put down Plate (4)
+You put Plate (4) on Microwave (1). You see Vase (2), Toaster (1), Pot (1), Plate (4), Microwave (1), Kettle (3), Cabinet (3, 10).
+Act: close Microwave (1)
+You close Microwave (1). You see Vase (2), Toaster (1), Pot (1), Microwave (1), Kettle (3), Cabinet (3, 10).
+Think: I put Plate (4) in Microwave (1). Now, I need to turn on and off Microwave (1).
+OK.
+Act: turn on Microwave (1)
+You turn on Microwave (1). You see Vase (2), Toaster (1), Pot (1), Microwave (1), Kettle (3), Cabinet (3, 10).
+Act: turn off Microwave (1)
+You turn off Microwave (1). You see Vase (2), Toaster (1), Pot (1), Microwave (1), Kettle (3), Cabinet (3, 10).
+Think: Now, I need to pick up the plate from the microwave.
+OK.
+Act: open Microwave (1)
+You open Microwave (1). You see Vase (2), Toaster (1), Pot (1), Plate (4), Microwave (1), Kettle (3), Cabinet (3, 10).
+Act: pick up Plate (4)
+You pick up Plate (4). You see Vase (2), Toaster (1), Pot (1), Plate (4), Microwave (1), Kettle (3), Cabinet (3, 10). I am holding Plate (4) now.
+Think: I pick up Plate (4) from Microwave (1). Now, I need to put it on the table.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (1), Vase (3), Spoon (3), Spatula (1, 2), Plate (4), PepperShaker (1), Mug (1), Lettuce (2), Knife (3), HousePlant (1), Fork (1, 2), DiningTable (1), Cup (1), ButterKnife (1, 2), Bread (1), Book (1), Apple (2).  I am holding Plate (4) now.
+Act: put down Plate (4)
+You put Plate (4) on DiningTable (1). You see WineBottle (1), Vase (3), Spoon (3), Spatula (1, 2), Plate (4), PepperShaker (1), Mug (1), Lettuce (2), Knife (3), HousePlant (1), Fork (1, 2), DiningTable (1), Cup (1), ButterKnife (1, 2), Bread (1), Book (1), Apple (2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

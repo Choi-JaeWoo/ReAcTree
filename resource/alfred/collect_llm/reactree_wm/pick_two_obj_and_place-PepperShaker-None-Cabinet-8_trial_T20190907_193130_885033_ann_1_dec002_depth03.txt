@@ -1,0 +1,19 @@
+Your primary goal is to: To move two pepper shakers from the counter to the cabinet below the counter. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pepper shaker, place pepper shaker in cabinet, find and pick up pepper shaker away from cabinet, and place pepper shaker in cabinet.
+Your task is to: find and pick up pepper shaker
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7), CounterTop (1, 2, 3, 4), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18).
+Think: First, I need to recall location of the pepper shaker.
+OK.
+Act: recall location of PepperShaker
+You have not seen PepperShaker before.
+Think: Now, I need to find the pepper shaker. The pepper shaker is more likely to appear on CounterTop (1-4), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-18), Drawer (1-7). I can check each place one by one, starting from CounterTop (1), until I find the pepper shaker.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (2), SaltShaker (1, 2), Potato (2), PepperShaker (1, 3), Ladle (1), Glassbottle (1), CounterTop (1), Chair (1), Bowl (1), Apple (2). 
+Think: I find PepperShaker (1). Now, I need to pick it up.
+OK.
+Act: pick up PepperShaker (1)
+You pick up PepperShaker (1). You see Spatula (2), SaltShaker (1, 2), Potato (2), PepperShaker (1, 3), Ladle (1), Glassbottle (1), CounterTop (1), Chair (1), Bowl (1), Apple (2). I am holding PepperShaker (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

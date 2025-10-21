@@ -1,0 +1,13 @@
+Your primary goal is to: To move two pepper shakers from the counter to the cabinet below the counter. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pepper shaker, place pepper shaker in cabinet, find and pick up pepper shaker away from cabinet, and place pepper shaker in cabinet.
+Your task is to: place pepper shaker in cabinet
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7), CounterTop (1, 2, 3, 4), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18). I am holding PepperShaker (3) now.
+Think: I hold PepperShaker (3). Now, I need to put it in the cabinet. I can see Cabinet (1).
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see StoveBurner (1, 2, 3, 4), PepperShaker (1, 3), Pan (1, 3), Mug (2), Drawer (7), DishSponge (1), Cup (1), CounterTop (4), Cabinet (1, 3, 11, 16), ButterKnife (1). Cabinet (1) is open.  I am holding PepperShaker (3) now.
+Act: put down PepperShaker (3)
+You put down failed, drop it. You see StoveBurner (1, 2, 3, 4), PepperShaker (1, 3), Pan (1, 3), Mug (2), DishSponge (1), Cup (1), CounterTop (4), Cabinet (1, 3, 11, 16), ButterKnife (1).
+Think: I failed to put down PepperShaker (3).
+OK.
+Act: failure

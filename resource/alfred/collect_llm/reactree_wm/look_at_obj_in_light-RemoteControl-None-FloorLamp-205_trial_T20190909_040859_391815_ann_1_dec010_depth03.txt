@@ -1,0 +1,9 @@
+Your primary goal is to: Turn off a lamp with a remote. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up remote, and turn off lamp with remote.
+Your task is to: turn off lamp with remote
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2, 3), Ottoman (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), DiningTable (1), ArmChair (1, 2). I am holding RemoteControl (1) now.
+Think: I hold RemoteControl (1). Now, I need to turn off either the floor lamp or the desk lamp.
+OK.
+Expand:
+- control flow: fallback
+- subgoals: turn off the floor lamp, turn off the desk lamp

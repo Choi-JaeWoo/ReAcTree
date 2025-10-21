@@ -1,0 +1,27 @@
+Your primary goal is to: Place a cold slice of apple by the egg on the counter.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up apple, cool and pick up apple, and place apple by the egg on the counter.
+Your task is to: cool and pick up apple
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26). I am holding Apple (1) now.
+Think: I hold Apple (1). I need to cool it using the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Cabinet (26), Apple (1). Fridge (1) is closed.  I am holding Apple (1) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Pan (2), Lettuce (2), Fridge (1), Egg (3), Cabinet (26), Apple (1). I am holding Apple (1) now.
+Act: put down Apple (1)
+You put Apple (1) on Fridge (1). You see Pan (2), Lettuce (2), Fridge (1), Egg (3), Cabinet (26), Apple (1).
+Act: close Fridge (1)
+You close Fridge (1). You see Fridge (1), Cabinet (26).
+Act: turn on Microwave (1)
+The Microwave (1) is not close to you.
+Act: turn off Microwave (1)
+The Microwave (1) already turn off.
+Think: I cool Apple (1) using Fridge (1). Now, I need to pick up the apple from the fridge.
+OK.
+Act: open Fridge (1)
+You open Fridge (1). You see Pan (2), Lettuce (2), Fridge (1), Egg (3), Cabinet (26), Apple (1).
+Act: pick up Apple (1)
+You pick up Apple (1). You see Pan (2), Lettuce (2), Fridge (1), Egg (3), Cabinet (26), Apple (1). I am holding Apple (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

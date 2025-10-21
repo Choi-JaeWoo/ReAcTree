@@ -1,0 +1,112 @@
+Your task is to: Move a sponge and bowl to a shelf.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13).
+Think: To solve the task, I need to find and pick up the sponge and bowl, then put them on the shelf.
+OK.
+Think: First, I need to recall location of the sponge.
+OK.
+Act: recall location of DishSponge
+You have not seen DishSponge before.
+Think: Now I need to find the sponge. The sponge is more likely to appear on CounterTop (1), SinkBasin (1), Shelf (1-3), or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1). I can check each place one by one, starting from CounterTop (1), until I find the sponge.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Tomato (3), Toaster (1), Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Potato (3), Faucet (1), CounterTop (1), Apple (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Potato (3), Faucet (1), Drawer (1), CounterTop (1), Cabinet (10), ButterKnife (2), Apple (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (3), Plate (1). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Shelf (3), Plate (1). 
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Shelf (3), Plate (1). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1). Fridge (1) is closed. 
+Act: open Fridge (1)
+You open Fridge (1). You see Tomato (2), Lettuce (1), Fridge (1), Cup (3).
+Act: close Fridge (1)
+You close Fridge (1). You see Fridge (1).
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Sink (1), SaltShaker (1, 2), Microwave (1), Fridge (1), Drawer (1), CounterTop (1), Cabinet (3, 10, 12, 13), ButterKnife (2). Microwave (1) is closed. 
+Act: open Microwave (1)
+You open Microwave (1). You see Microwave (1), Fridge (1), Drawer (1), Cabinet (3).
+Act: close Microwave (1)
+You close Microwave (1). You see SaltShaker (1, 2), Microwave (1), Fridge (1), Drawer (1), Cabinet (3).
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1, 7). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see Cabinet (1, 7).
+Act: close Cabinet (1)
+You close Cabinet (1). You see Cabinet (1, 7).
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Cabinet (2, 7, 11). Cabinet (2) is closed. 
+Act: open Cabinet (2)
+You open Cabinet (2). You see Cabinet (2).
+Act: close Cabinet (2)
+You close Cabinet (2). You see Cabinet (2, 7).
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see Sink (1), SinkBasin (1), SaltShaker (1, 2), Microwave (1), Fridge (1), Drawer (1), CounterTop (1), Cabinet (3, 10), ButterKnife (2). Cabinet (3) is closed. 
+Act: open Cabinet (3)
+You open Cabinet (3). You see Sink (1), SinkBasin (1), SaltShaker (1, 2), Plate (2), Microwave (1), Fridge (1), Drawer (1), CounterTop (1), Cabinet (3, 10), ButterKnife (2).
+Act: close Cabinet (3)
+You close Cabinet (3). You see Sink (1), SinkBasin (1), SaltShaker (1, 2), Microwave (1), Fridge (1), Drawer (1), CounterTop (1), Cabinet (3, 10), ButterKnife (2).
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see Spatula (2), Potato (1), PepperShaker (2), Mug (1), Ladle (2), Knife (1), DishSponge (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 6). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+You open Cabinet (4). You see Spatula (2), Potato (1), PepperShaker (2), Mug (1), Ladle (2), Knife (1), DishSponge (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 6).
+Think: I find DishSponge (1). Now, I need to pick it up.
+OK.
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Spatula (2), Potato (1), PepperShaker (2), Mug (1), Ladle (2), Knife (1), DishSponge (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 6). I am holding DishSponge (1) now.
+Think: I hold DishSponge (1). Now, I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: Now I need to find the bowl. The bowl is more likely to appear on CounterTop (1), SinkBasin (1), Shelf (1-3), or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1). I can check each place one by one, starting from CounterTop (1), until I find the bowl.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Tomato (3), Toaster (1), Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Potato (3), Faucet (1), DishSponge (1), CounterTop (1), Apple (1).  I am holding DishSponge (1) now.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Potato (3), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (10), ButterKnife (2), Apple (1).  I am holding DishSponge (1) now.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (3), Plate (1), DishSponge (1).  I am holding DishSponge (1) now.
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Shelf (3), Plate (1), DishSponge (1).  I am holding DishSponge (1) now.
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Shelf (3), Plate (1), DishSponge (1).  I am holding DishSponge (1) now.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), DishSponge (1). Fridge (1) is closed.  I am holding DishSponge (1) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Tomato (2), Lettuce (1), Fridge (1), DishSponge (1), Cup (3). I am holding DishSponge (1) now.
+Act: close Fridge (1)
+You close Fridge (1). You see Fridge (1), DishSponge (1). I am holding DishSponge (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Sink (1), SaltShaker (1, 2), Microwave (1), Fridge (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (3, 10, 12, 13), ButterKnife (2). Microwave (1) is closed.  I am holding DishSponge (1) now.
+Act: open Microwave (1)
+You open Microwave (1). You see Microwave (1), Fridge (1), Drawer (1), DishSponge (1), Cabinet (3). I am holding DishSponge (1) now.
+Act: close Microwave (1)
+You close Microwave (1). You see SaltShaker (1, 2), Microwave (1), Fridge (1), Drawer (1), DishSponge (1), Cabinet (3). I am holding DishSponge (1) now.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see DishSponge (1), Cabinet (1, 7). Cabinet (1) is closed.  I am holding DishSponge (1) now.
+Act: open Cabinet (1)
+You open Cabinet (1). You see DishSponge (1), Cabinet (1, 7). I am holding DishSponge (1) now.
+Act: close Cabinet (1)
+You close Cabinet (1). You see DishSponge (1), Cabinet (1, 7). I am holding DishSponge (1) now.
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see DishSponge (1), Cabinet (2, 7, 11). Cabinet (2) is closed.  I am holding DishSponge (1) now.
+Act: open Cabinet (2)
+You open Cabinet (2). You see DishSponge (1), Cabinet (2, 11). I am holding DishSponge (1) now.
+Act: close Cabinet (2)
+You close Cabinet (2). You see DishSponge (1), Cabinet (2, 7, 11). I am holding DishSponge (1) now.
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see Sink (1), SinkBasin (1), SaltShaker (1, 2), Microwave (1), Fridge (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (3, 10), ButterKnife (2). Cabinet (3) is closed.  I am holding DishSponge (1) now.
+Act: open Cabinet (3)
+You open Cabinet (3). You see Sink (1), SinkBasin (1), SaltShaker (1, 2), Plate (2), Microwave (1), Fridge (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (3, 10), ButterKnife (2). I am holding DishSponge (1) now.
+Act: close Cabinet (3)
+You close Cabinet (3). You see Sink (1), SinkBasin (1), SaltShaker (1, 2), Microwave (1), Fridge (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (3, 10), ButterKnife (2). I am holding DishSponge (1) now.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see Spatula (2), Potato (1), PepperShaker (2), Mug (1), Knife (1), DishSponge (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 6). Cabinet (4) is open.  I am holding DishSponge (1) now.
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Spatula (2, 2, 2), Potato (1, 1, 1), PepperShaker (2, 2, 2), Mug (1, 1, 1), Knife (1, 1, 1), Fridge (1), DishSponge (1, 1, 1, 1), CounterTop (1, 1, 1), CoffeeMachine (1, 1, 1), Cabinet (4, 4, 4, 5, 6, 6, 6). Cabinet (5) is closed.  I am holding DishSponge (1) now.
+Act: open Cabinet (5)
+You open Cabinet (5). You see Fridge (1), DishSponge (1), Cabinet (5). I am holding DishSponge (1) now.
+Act: close Cabinet (5)
+You close Cabinet (5). You see Fridge (1), DishSponge (1), Cabinet (5). I am holding DishSponge (1) now.

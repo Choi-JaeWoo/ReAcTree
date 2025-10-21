@@ -1,0 +1,139 @@
+Your primary goal is to: Place a cup with a knife in it on a table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up cup, place cup on table, find and pick up knife, and place knife on cup near table.
+Your task is to: find and pick up knife
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12).
+Think: First, I need to recall location of the knife.
+OK.
+Act: recall location of Knife
+You saw Knife (1) near Cabinet (4).
+Think: I can find Knife (1) near Cabinet (4).
+OK.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see Sink (1), SinkBasin (1), Knife (1), Drawer (2), CounterTop (2), CoffeeMachine (1), Cabinet (2, 4, 5), ButterKnife (1). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+The Cabinet (4) is open failed.
+Act: close Cabinet (4)
+The Cabinet (4) is already closed.
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Sink (1), Knife (1), Egg (1), Drawer (2), CounterTop (2), CoffeeMachine (1), Cabinet (2, 4, 5). Cabinet (2) is closed. 
+Act: open Cabinet (2)
+You open Cabinet (2). You see Sink (1), Knife (1), Egg (1), Drawer (2), CounterTop (2), CoffeeMachine (1), Cabinet (2, 4, 5).
+Act: close Cabinet (2)
+You close Cabinet (2). You see Sink (1), Knife (1), Egg (1), Drawer (2), CounterTop (2), CoffeeMachine (1), Cabinet (2, 4, 5).
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Spatula (1), Sink (1), SinkBasin (1), SaltShaker (1), Ladle (1), Faucet (1), Drawer (1), CounterTop (2), Cabinet (4, 5, 9). Cabinet (5) is closed. 
+Act: open Cabinet (5)
+You open Cabinet (5). You see Spatula (1), Sink (1), SinkBasin (1), Pan (2), Microwave (1), Drawer (1), DiningTable (1), Cabinet (4, 5, 9).
+Act: close Cabinet (5)
+You close Cabinet (5). You see Spatula (1), Sink (1), SinkBasin (1), Microwave (1), Drawer (1), DiningTable (1), Cabinet (4, 5, 9).
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see SoapBottle (1), Microwave (1), Lettuce (2), Drawer (1), DiningTable (1), Cabinet (5, 9). Cabinet (9) is closed. 
+Act: open Cabinet (9)
+You open Cabinet (9). You see SoapBottle (1), Drawer (1), DiningTable (1), Cabinet (4, 5, 9).
+Act: close Cabinet (9)
+You close Cabinet (9). You see SoapBottle (1), Drawer (1), DiningTable (1), Cabinet (4, 5, 9).
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see Sink (1), SinkBasin (1), Knife (1), Drawer (2), CounterTop (2), CoffeeMachine (1), Cabinet (2, 4, 5), ButterKnife (1). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+The Cabinet (4) is open failed.
+Act: close Cabinet (4)
+The Cabinet (4) is already closed.
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Sink (1), Knife (1), Egg (1), Drawer (2), CounterTop (2), CoffeeMachine (1), Cabinet (2, 4, 5). Cabinet (2) is closed. 
+Act: open Cabinet (2)
+You open Cabinet (2). You see Sink (1), Knife (1), Egg (1), Drawer (2), CounterTop (2), CoffeeMachine (1), Cabinet (2, 4, 5).
+Act: close Cabinet (2)
+You close Cabinet (2). You see Sink (1), Knife (1), Egg (1), Drawer (2), CounterTop (2), CoffeeMachine (1), Cabinet (2, 4, 5).
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Spatula (1), Sink (1), SinkBasin (1), SaltShaker (1), Ladle (1), Faucet (1), Drawer (1), CounterTop (2), Cabinet (4, 5, 9). Cabinet (5) is closed. 
+Act: open Cabinet (5)
+You open Cabinet (5). You see Spatula (1), Sink (1), SinkBasin (1), Pan (2), Microwave (1), Drawer (1), DiningTable (1), Cabinet (4, 5, 9).
+Act: close Cabinet (5)
+You close Cabinet (5). You see Spatula (1), Sink (1), SinkBasin (1), Microwave (1), Drawer (1), DiningTable (1), Cabinet (4, 5, 9).
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see SoapBottle (1), Microwave (1), Lettuce (2), Drawer (1), DiningTable (1), Cabinet (5, 9). Cabinet (9) is closed. 
+Act: open Cabinet (9)
+You open Cabinet (9). You see SoapBottle (1), Drawer (1), DiningTable (1), Cabinet (4, 5, 9).
+Act: close Cabinet (9)
+You close Cabinet (9). You see SoapBottle (1), Drawer (1), DiningTable (1), Cabinet (4, 5, 9).
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see Sink (1), SinkBasin (1), Knife (1), Drawer (2), CounterTop (2), CoffeeMachine (1), Cabinet (2, 4, 5), ButterKnife (1). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+The Cabinet (4) is open failed.
+Act: close Cabinet (4)
+The Cabinet (4) is already closed.
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Sink (1), Knife (1), Egg (1), Drawer (2), CounterTop (2), CoffeeMachine (1), Cabinet (2, 4, 5). Cabinet (2) is closed. 
+Act: open Cabinet (2)
+You open Cabinet (2). You see Sink (1), Knife (1), Egg (1), Drawer (2), CounterTop (2), CoffeeMachine (1), Cabinet (2, 4, 5).
+Act: close Cabinet (2)
+You close Cabinet (2). You see Sink (1), Knife (1), Egg (1), Drawer (2), CounterTop (2), CoffeeMachine (1), Cabinet (2, 4, 5).
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Spatula (1), Sink (1), SinkBasin (1), SaltShaker (1), Ladle (1), Faucet (1), Drawer (1), CounterTop (2), Cabinet (4, 5, 9). Cabinet (5) is closed. 
+Act: open Cabinet (5)
+You open Cabinet (5). You see Spatula (1), Sink (1), SinkBasin (1), Pan (2), Microwave (1), Drawer (1), DiningTable (1), Cabinet (4, 5, 9).
+Act: close Cabinet (5)
+You close Cabinet (5). You see Spatula (1), Sink (1), SinkBasin (1), Microwave (1), Drawer (1), DiningTable (1), Cabinet (4, 5, 9).
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see SoapBottle (1), Microwave (1), Lettuce (2), Drawer (1), DiningTable (1), Cabinet (5, 9). Cabinet (9) is closed. 
+Act: open Cabinet (9)
+You open Cabinet (9). You see SoapBottle (1), Drawer (1), DiningTable (1), Cabinet (4, 5, 9).
+Act: close Cabinet (9)
+You close Cabinet (9). You see SoapBottle (1), Drawer (1), DiningTable (1), Cabinet (4, 5, 9).
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see Sink (1), SinkBasin (1), Knife (1), Drawer (2), CounterTop (2), CoffeeMachine (1), Cabinet (2, 4, 5), ButterKnife (1). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+The Cabinet (4) is open failed.
+Act: close Cabinet (4)
+The Cabinet (4) is already closed.
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Sink (1), Knife (1), Egg (1), Drawer (2), CounterTop (2), CoffeeMachine (1), Cabinet (2, 4, 5). Cabinet (2) is closed. 
+Act: open Cabinet (2)
+You open Cabinet (2). You see Sink (1), Knife (1), Egg (1), Drawer (2), CounterTop (2), CoffeeMachine (1), Cabinet (2, 4, 5).
+Act: close Cabinet (2)
+You close Cabinet (2). You see Sink (1), Knife (1), Egg (1), Drawer (2), CounterTop (2), CoffeeMachine (1), Cabinet (2, 4, 5).
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Spatula (1), Sink (1), SinkBasin (1), SaltShaker (1), Ladle (1), Faucet (1), Drawer (1), CounterTop (2), Cabinet (4, 5, 9). Cabinet (5) is closed. 
+Act: open Cabinet (5)
+You open Cabinet (5). You see Spatula (1), Sink (1), SinkBasin (1), Pan (2), Microwave (1), Drawer (1), DiningTable (1), Cabinet (4, 5, 9).
+Act: close Cabinet (5)
+You close Cabinet (5). You see Spatula (1), Sink (1), SinkBasin (1), Microwave (1), Drawer (1), DiningTable (1), Cabinet (4, 5, 9).
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see SoapBottle (1), Microwave (1), Lettuce (2), Drawer (1), DiningTable (1), Cabinet (5, 9). Cabinet (9) is closed. 
+Act: open Cabinet (9)
+You open Cabinet (9). You see SoapBottle (1), Drawer (1), DiningTable (1), Cabinet (4, 5, 9).
+Act: close Cabinet (9)
+You close Cabinet (9). You see SoapBottle (1), Drawer (1), DiningTable (1), Cabinet (4, 5, 9).
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see Sink (1), SinkBasin (1), Knife (1), Drawer (2), CounterTop (2), CoffeeMachine (1), Cabinet (2, 4, 5), ButterKnife (1). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+The Cabinet (4) is open failed.
+Act: close Cabinet (4)
+The Cabinet (4) is already closed.
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Sink (1), Knife (1), Egg (1), Drawer (2), CounterTop (2), CoffeeMachine (1), Cabinet (2, 4, 5). Cabinet (2) is closed. 
+Act: open Cabinet (2)
+You open Cabinet (2). You see Sink (1), Knife (1), Egg (1), Drawer (2), CounterTop (2), CoffeeMachine (1), Cabinet (2, 4, 5).
+Act: close Cabinet (2)
+You close Cabinet (2). You see Sink (1), Knife (1), Egg (1), Drawer (2), CounterTop (2), CoffeeMachine (1), Cabinet (2, 4, 5).
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Spatula (1), Sink (1), SinkBasin (1), SaltShaker (1), Ladle (1), Faucet (1), Drawer (1), CounterTop (2), Cabinet (4, 5, 9). Cabinet (5) is closed. 
+Act: open Cabinet (5)
+You open Cabinet (5). You see Spatula (1), Sink (1), SinkBasin (1), Pan (2), Microwave (1), Drawer (1), DiningTable (1), Cabinet (4, 5, 9).
+Act: close Cabinet (5)
+You close Cabinet (5). You see Spatula (1), Sink (1), SinkBasin (1), Microwave (1), Drawer (1), DiningTable (1), Cabinet (4, 5, 9).
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see SoapBottle (1), Microwave (1), Lettuce (2), Drawer (1), DiningTable (1), Cabinet (5, 9). Cabinet (9) is closed. 
+Act: open Cabinet (9)
+You open Cabinet (9). You see SoapBottle (1), Drawer (1), DiningTable (1), Cabinet (4, 5, 9).
+Act: close Cabinet (9)
+You close Cabinet (9). You see SoapBottle (1), Drawer (1), DiningTable (1), Cabinet (4, 5, 9).
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see Sink (1), SinkBasin (1), Knife (1), Drawer (2), CounterTop (2), CoffeeMachine (1), Cabinet (2, 4, 5), ButterKnife (1). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+The Cabinet (4) is open failed.
+Act: close Cabinet (4)
+The Cabinet (4) is already closed.
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Sink (1), Knife (1), Egg (1), Drawer (2), CounterTop (2), CoffeeMachine (1), Cabinet (2, 4, 5). Cabinet (2) is closed. 
+Max decisions

@@ -1,0 +1,7 @@
+Your task is to: Put a smartphone in a cardboard box to put on the armchair.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1, 2), Shelf (1, 2, 3), Safe (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), Desk (1), CoffeeTable (1), ArmChair (1).
+Think: Since I’m not holding the smartphone, I need to accomplish 3 subgoals sequentially to solve the task. Find and pick up smartphone, place smartphone in box, and place box on armchair.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up smartphone, place smartphone in box, place box on armchair

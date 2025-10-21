@@ -1,0 +1,21 @@
+Your primary goal is to: put the two salt bottle in the second cabinet from left
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up salt bottle, place salt bottle in cabinet, find and pick up salt bottle away from cabinet, and place salt bottle in cabinet.
+Your task is to: find and pick up salt bottle away from cabinet
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20).
+Think: First, I need to recall location of the salt bottle.
+OK.
+Act: recall location of SaltShaker
+You dropped SaltShaker due to fail to put it on the receptacle. You need to find it again.
+Think: Now, I need to find the salt bottle. The salt bottle is more likely to appear on CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-20), Drawer (1-6). I can check each place one by one, starting from CounterTop (1), until I find the salt bottle.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Tomato (3), PepperShaker (2), Knife (1), Drawer (2, 5), Cup (3), CounterTop (1), CellPhone (1), Cabinet (5, 16), ButterKnife (1). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see SprayBottle (2), SaltShaker (3), Microwave (1), Glassbottle (1, 2), Drawer (1), CounterTop (2), Cabinet (17), Apple (1). 
+Think: I find SaltShaker (3). Now, I need to pick it up.
+OK.
+Act: pick up SaltShaker (3)
+You pick up SaltShaker (3). You see SprayBottle (2), SaltShaker (3), Microwave (1), Glassbottle (1, 2), Drawer (1), CounterTop (2), Cabinet (17), Apple (1). I am holding SaltShaker (3) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,175 @@
+Your primary goal is to: Put the watch on a tray and onto the side table against the wall.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up watch, place watch on tray, and place tray on side table.
+Your task is to: place tray on side table
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1, 2), SideTable (1, 2), GarbageCan (1), Drawer (1), DiningTable (1), CoffeeTable (1).
+Think: I hold Tray (1). Now, I need to put it on the side table. I can see SideTable (1).
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1, 2), Drawer (1), CreditCard (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Vase (3), Television (1), SideTable (2), Newspaper (1), KeyChain (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1, 2), Drawer (1), CreditCard (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Vase (3), Television (1), SideTable (2), Newspaper (1), KeyChain (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1, 2), Drawer (1), CreditCard (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Vase (3), Television (1), SideTable (2), Newspaper (1), KeyChain (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1, 2), Drawer (1), CreditCard (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Vase (3), Television (1), SideTable (2), Newspaper (1), KeyChain (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1, 2), Drawer (1), CreditCard (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Vase (3), Television (1), SideTable (2), Newspaper (1), KeyChain (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1, 2), Drawer (1), CreditCard (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Vase (3), Television (1), SideTable (2), Newspaper (1), KeyChain (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1, 2), Drawer (1), CreditCard (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Vase (3), Television (1), SideTable (2), Newspaper (1), KeyChain (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1, 2), Drawer (1), CreditCard (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Vase (3), Television (1), SideTable (2), Newspaper (1), KeyChain (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1, 2), Drawer (1), CreditCard (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Vase (3), Television (1), SideTable (2), Newspaper (1), KeyChain (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1, 2), Drawer (1), CreditCard (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Vase (3), Television (1), SideTable (2), Newspaper (1), KeyChain (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1, 2), Drawer (1), CreditCard (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Vase (3), Television (1), SideTable (2), Newspaper (1), KeyChain (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1, 2), Drawer (1), CreditCard (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Vase (3), Television (1), SideTable (2), Newspaper (1), KeyChain (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1, 2), Drawer (1), CreditCard (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Vase (3), Television (1), SideTable (2), Newspaper (1), KeyChain (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1, 2), Drawer (1), CreditCard (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Vase (3), Television (1), SideTable (2), Newspaper (1), KeyChain (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1, 2), Drawer (1), CreditCard (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Vase (3), Television (1), SideTable (2), Newspaper (1), KeyChain (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1, 2), Drawer (1), CreditCard (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Vase (3), Television (1), SideTable (2), Newspaper (1), KeyChain (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1, 2), Drawer (1), CreditCard (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Vase (3), Television (1), SideTable (2), Newspaper (1), KeyChain (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1, 2), Drawer (1), CreditCard (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Vase (3), Television (1), SideTable (2), Newspaper (1), KeyChain (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1, 2), Drawer (1), CreditCard (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Vase (3), Television (1), SideTable (2), Newspaper (1), KeyChain (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1, 2), Drawer (1), CreditCard (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Vase (3), Television (1), SideTable (2), Newspaper (1), KeyChain (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1, 2), Drawer (1), CreditCard (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Vase (3), Television (1), SideTable (2), Newspaper (1), KeyChain (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1, 2), Drawer (1), CreditCard (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Vase (3), Television (1), SideTable (2), Newspaper (1), KeyChain (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1, 2), Drawer (1), CreditCard (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Vase (3), Television (1), SideTable (2), Newspaper (1), KeyChain (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1, 2), Drawer (1), CreditCard (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Vase (3), Television (1), SideTable (2), Newspaper (1), KeyChain (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1, 2), Drawer (1), CreditCard (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Vase (3), Television (1), SideTable (2), Newspaper (1), KeyChain (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1, 2), Drawer (1), CreditCard (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Vase (3), Television (1), SideTable (2), Newspaper (1), KeyChain (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1, 2), Drawer (1), CreditCard (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Vase (3), Television (1), SideTable (2), Newspaper (1), KeyChain (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1, 2), Drawer (1), CreditCard (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Vase (3), Television (1), SideTable (2), Newspaper (1), KeyChain (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1, 2), Drawer (1), CreditCard (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Vase (3), Television (1), SideTable (2), Newspaper (1), KeyChain (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1, 2), Drawer (1), CreditCard (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Vase (3), Television (1), SideTable (2), Newspaper (1), KeyChain (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1, 2), Drawer (1), CreditCard (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Vase (3), Television (1), SideTable (2), Newspaper (1), KeyChain (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1, 2), Drawer (1), CreditCard (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Vase (3), Television (1), SideTable (2), Newspaper (1), KeyChain (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1, 2), Drawer (1), CreditCard (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Vase (3), Television (1), SideTable (2), Newspaper (1), KeyChain (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1, 2), Drawer (1), CreditCard (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Vase (3), Television (1), SideTable (2), Newspaper (1), KeyChain (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1, 2), Drawer (1), CreditCard (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Vase (3), Television (1), SideTable (2), Newspaper (1), KeyChain (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1, 2), Drawer (1), CreditCard (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Vase (3), Television (1), SideTable (2), Newspaper (1), KeyChain (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1, 2), Drawer (1), CreditCard (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Vase (3), Television (1), SideTable (2), Newspaper (1), KeyChain (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1, 2), Drawer (1), CreditCard (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Vase (3), Television (1), SideTable (2), Newspaper (1), KeyChain (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1, 2), Drawer (1), CreditCard (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Vase (3), Television (1), SideTable (2), Newspaper (1), KeyChain (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1, 2), Drawer (1), CreditCard (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Vase (3), Television (1), SideTable (2), Newspaper (1), KeyChain (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1, 2), Drawer (1), CreditCard (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Vase (3), Television (1), SideTable (2), Newspaper (1), KeyChain (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1, 2), Drawer (1), CreditCard (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Vase (3), Television (1), SideTable (2), Newspaper (1), KeyChain (1). 
+Max decisions

@@ -1,0 +1,21 @@
+Your primary goal is to: Place a pan with lettuce in the refrigerator.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pan, place pan in fridge, find and pick up knife, slice and pick up lettuce, and place lettuce in pan near fridge.
+Your task is to: place lettuce in pan near fridge
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27). I am holding Lettuce (4) now.
+Think: I hold Lettuce (4). Now, I need to recall location of the pan.
+OK.
+Act: recall location of Pan
+You saw Pan (2) near Fridge (1).
+Think: I can find Pan (2) near Fridge (1). 
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (1), Pan (2), Lettuce (4), Glassbottle (2), Fridge (1), Cabinet (8). Fridge (1) is open.  I am holding Lettuce (4) now.
+Think: I find Pan (2). Now, I need to put down Lettuce (4) on Pan (2).
+OK.
+Act: go to Pan (2)
+You arrive at Pan (2). You see Lettuce (4), Fridge (1).  I am holding Lettuce (4) now.
+Act: put down Lettuce (4)
+You put down failed, drop it. You see Lettuce (4), Fridge (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

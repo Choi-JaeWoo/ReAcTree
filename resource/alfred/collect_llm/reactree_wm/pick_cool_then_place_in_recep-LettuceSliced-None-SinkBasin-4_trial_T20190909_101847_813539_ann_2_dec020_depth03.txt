@@ -1,0 +1,31 @@
+Your primary goal is to: Putting cold sliced lettuce in the sink
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, slice and pick up lettuce, cool and pick up lettuce, and place lettuce in sink.
+Your task is to: cool and pick up lettuce
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2). I am holding Tomato (4) now.
+Think: I hold Tomato (4). Now, I need to cool it using fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (4, 9), GarbageCan (1), Fridge (1). Fridge (1) is closed.  I am holding Tomato (4) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Tomato (4, 9), GarbageCan (1), Fridge (1). I am holding Tomato (4) now.
+Act: put down Tomato (4)
+You put down failed, drop it. You see Tomato (4, 9), GarbageCan (1), Fridge (1).
+Act: turn on Microwave (1)
+The Microwave (1) is not close to you.
+Act: turn off Microwave (1)
+The Microwave (1) already turn off.
+Think: Now I need to pick up Tomato (4).
+OK.
+Act: recall location of Tomato
+You dropped Tomato due to fail to put it on the receptacle. You need to find it again. You saw Tomato (5) near DiningTable (1). You saw Tomato (6) near DiningTable (1). You saw Tomato (7) near DiningTable (1). You saw Tomato (9) near Fridge (1).
+Think: I can find Tomato (5) near DiningTable (1).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (3, 5, 6, 7), Spoon (2), Spatula (2), Potato (1, 2), Plate (2), Ladle (1), Knife (1), Fork (1), DiningTable (1). 
+Think: I find Tomato (5). Now, I need to pick it up.
+OK.
+Act: pick up Tomato (5)
+You pick up Tomato (5). You see Tomato (3, 5, 6, 7), Spoon (2), Spatula (2), Potato (1, 2), Plate (2), Ladle (1), Knife (1), Fork (1), DiningTable (1). I am holding Tomato (5) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,7 @@
+Your task is to: Put a candlestick in the cabinet under the sink.
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), Sink (1, 2), SinkBasin (1, 2), HandTowelHolder (1), GarbageCan (1), CounterTop (1), Cabinet (1, 2, 3, 4).
+Think: Since I’m not holding candlestick, I need to accomplish 2 subgoals sequentially to solve the task. Find and pick up candlestick and place candlestick in cabinet.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up candlestick, place candlestick in cabinet

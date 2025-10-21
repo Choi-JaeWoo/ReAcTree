@@ -1,0 +1,27 @@
+Your primary goal is to: Place a cleaned bowl on a shelf
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up bowl, clean and pick up bowl, and place bowl on shelf.
+Your task is to: clean and pick up bowl
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13). I am holding Statue (2) now.
+Think: I hold Statue (2). Now, I need to clean it using sink basin.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Statue (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 13).  I am holding Statue (2) now.
+Act: put down Statue (2)
+You put down failed, drop it. You see Window (2), Statue (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13).
+Act: turn on Faucet (1)
+You turn on Faucet (1). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13).
+Act: turn off Faucet (1)
+You turn off Faucet (1). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13).
+Think: I clean Statue (2) using SinkBasin (1). Now, I need to pick up the statue from the sink basin.
+OK.
+Act: recall location of Statue
+You dropped Statue due to fail to put it on the receptacle. You need to find it again.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2, 2), SoapBottle (3), Sink (1, 1), SinkBasin (1, 1), Faucet (1, 1), CounterTop (1, 1), CoffeeMachine (1), Cabinet (4, 4, 7, 7, 13, 13). 
+Think: I find Statue (2). Now, I need to pick it up.
+OK.
+Act: pick up SoapBottle (3)
+You pick up SoapBottle (3). You see Window (2), SoapBottle (3), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), Cabinet (4, 7, 13). I am holding SoapBottle (3) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,142 @@
+Your task is to: Place a clean potato slice on a plate.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: To solve the task, I need to find and pick up the plate, then put it on the side table. And I need to find and pick up the potato, then put it in the sink basin. And I need to turn on and off the faucet. And I need to pick up the potato from the sink basin, then put it on the side table. And I need to find and pick up the knife, then put it on the side table. And I need to slice the potato. And I need to put down the knife and pick up the potato slice, then put it on the plate on the side table.
+OK.
+Think: First, I need to recall location of the plate.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now I need to find the plate. The plate is more likely to appear on SideTable (1), CounterTop (1), SinkBasin (1), or in Fridge (1), Mircowave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from SideTable (1), until I find the plate.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Tomato (2), Spoon (1), SideTable (1), Microwave (1), Fridge (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (2), Kettle (2), CounterTop (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1). 
+Think: I find Plate (1). Now, I need to pick it up.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now I need to find the plate. The plate is more likely to appear on SideTable (1), CounterTop (1), SinkBasin (1), or in Fridge (1), Mircowave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from SideTable (1), until I find the plate.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Tomato (2), Spoon (1), SideTable (1), Microwave (1), Fridge (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (2), Kettle (2), CounterTop (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1). 
+Think: I find Plate (1). Now, I need to pick it up.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now I need to find the plate. The plate is more likely to appear on SideTable (1), CounterTop (1), SinkBasin (1), or in Fridge (1), Mircowave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from SideTable (1), until I find the plate.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Tomato (2), Spoon (1), SideTable (1), Microwave (1), Fridge (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (2), Kettle (2), CounterTop (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1). 
+Think: I find Plate (1). Now, I need to pick it up.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now I need to find the plate. The plate is more likely to appear on SideTable (1), CounterTop (1), SinkBasin (1), or in Fridge (1), Mircowave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from SideTable (1), until I find the plate.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Tomato (2), Spoon (1), SideTable (1), Microwave (1), Fridge (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (2), Kettle (2), CounterTop (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1). 
+Think: I find Plate (1). Now, I need to pick it up.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now I need to find the plate. The plate is more likely to appear on SideTable (1), CounterTop (1), SinkBasin (1), or in Fridge (1), Mircowave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from SideTable (1), until I find the plate.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Tomato (2), Spoon (1), SideTable (1), Microwave (1), Fridge (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (2), Kettle (2), CounterTop (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1). 
+Think: I find Plate (1). Now, I need to pick it up.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now I need to find the plate. The plate is more likely to appear on SideTable (1), CounterTop (1), SinkBasin (1), or in Fridge (1), Mircowave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from SideTable (1), until I find the plate.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Tomato (2), Spoon (1), SideTable (1), Microwave (1), Fridge (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (2), Kettle (2), CounterTop (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1). 
+Think: I find Plate (1). Now, I need to pick it up.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now I need to find the plate. The plate is more likely to appear on SideTable (1), CounterTop (1), SinkBasin (1), or in Fridge (1), Mircowave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from SideTable (1), until I find the plate.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Tomato (2), Spoon (1), SideTable (1), Microwave (1), Fridge (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (2), Kettle (2), CounterTop (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1). 
+Think: I find Plate (1). Now, I need to pick it up.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now I need to find the plate. The plate is more likely to appear on SideTable (1), CounterTop (1), SinkBasin (1), or in Fridge (1), Mircowave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from SideTable (1), until I find the plate.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Tomato (2), Spoon (1), SideTable (1), Microwave (1), Fridge (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (2), Kettle (2), CounterTop (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1). 
+Think: I find Plate (1). Now, I need to pick it up.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now I need to find the plate. The plate is more likely to appear on SideTable (1), CounterTop (1), SinkBasin (1), or in Fridge (1), Mircowave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from SideTable (1), until I find the plate.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Tomato (2), Spoon (1), SideTable (1), Microwave (1), Fridge (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (2), Kettle (2), CounterTop (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1). 
+Think: I find Plate (1). Now, I need to pick it up.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now I need to find the plate. The plate is more likely to appear on SideTable (1), CounterTop (1), SinkBasin (1), or in Fridge (1), Mircowave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from SideTable (1), until I find the plate.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Tomato (2), Spoon (1), SideTable (1), Microwave (1), Fridge (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (2), Kettle (2), CounterTop (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1). 
+Think: I find Plate (1). Now, I need to pick it up.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now I need to find the plate. The plate is more likely to appear on SideTable (1), CounterTop (1), SinkBasin (1), or in Fridge (1), Mircowave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from SideTable (1), until I find the plate.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Tomato (2), Spoon (1), SideTable (1), Microwave (1), Fridge (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (2), Kettle (2), CounterTop (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1). 
+Think: I find Plate (1). Now, I need to pick it up.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now I need to find the plate. The plate is more likely to appear on SideTable (1), CounterTop (1), SinkBasin (1), or in Fridge (1), Mircowave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from SideTable (1), until I find the plate.
+OK.

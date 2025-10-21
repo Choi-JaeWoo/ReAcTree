@@ -1,0 +1,91 @@
+Your task is to: Pick up a racket and move it to the bed.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1, 2, 3, 4, 5, 6, 7), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10), Bed (1).
+Think: To solve the task, I need to find and pick up the racket, then put it on the bed.
+OK.
+Think: First, I need to recall location of the racket.
+OK.
+Act: recall location of RemoteControl
+You have not seen RemoteControl before.
+Think: Now I need to find the racket. The racket is more likely to appear on Bed (1), Dresser (1), Shelf (1-7), or in Drawer (1-10). I can check each place one by one, starting from Bed (1), until I find the racket.
+OK.
+Act: go to Bed (1)
+You arrive at Bed (1). You see Pillow (1, 2), Laptop (1, 2), Book (1), Bed (1). 
+Act: go to Dresser (1)
+You arrive at Dresser (1). You see Pencil (1, 2), Pen (1, 2), Mug (1, 2), KeyChain (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10), DeskLamp (1), CD (1), Book (2), AlarmClock (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Window (1), Shelf (2, 3, 4, 5). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Window (2), Shelf (2, 3, 4, 5). 
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Window (2), Shelf (2, 3, 4, 5). 
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see Window (1), Shelf (2, 3, 4, 5). 
+Act: go to Shelf (5)
+You arrive at Shelf (5). You see Window (2), Shelf (2, 3, 4, 5), Painting (2). 
+Act: go to Shelf (6)
+You arrive at Shelf (6). You see Window (1), Shelf (2, 3, 4, 5). 
+Act: go to Shelf (7)
+You arrive at Shelf (7). You see Window (2), Shelf (2, 3, 4, 5). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pencil (2), Pen (1), Mug (1, 2), Dresser (1), Drawer (1, 2, 4, 6, 7), DeskLamp (1), CD (1), Book (2), AlarmClock (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Pencil (2), Pen (1), Mug (1, 2), Dresser (1), Drawer (1, 4), DeskLamp (1), CD (1), Book (2), AlarmClock (1).
+Act: close Drawer (1)
+You close Drawer (1). You see Pencil (2), Pen (1), Mug (1, 2), Dresser (1), Drawer (1, 2, 4, 6, 7), DeskLamp (1), CD (1), Book (2), AlarmClock (1).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Pencil (2), Pen (1), Mug (1, 2), Dresser (1), Drawer (1, 2, 4, 6, 7), DeskLamp (1), CD (1), Book (2), AlarmClock (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see Pencil (2), Pen (1), Mug (1, 2), Dresser (1), Drawer (1, 2, 4, 6, 7), DeskLamp (1), CD (1), Book (2), AlarmClock (1).
+Act: close Drawer (2)
+You close Drawer (2). You see Pencil (2), Pen (1), Mug (1, 2), Dresser (1), Drawer (1, 2, 4, 6, 7), DeskLamp (1), CD (1), Book (2), AlarmClock (1).
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Pencil (1), Pen (1, 2), Mug (1, 2), KeyChain (1), Dresser (1), Drawer (3, 5, 8, 9, 10), Book (2). Drawer (3) is closed. 
+Act: open Drawer (3)
+You open Drawer (3). You see Pencil (1), Pen (1, 2), Mug (1, 2), KeyChain (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10), Book (2).
+Act: close Drawer (3)
+You close Drawer (3). You see Pencil (1), Pen (1, 2), Mug (1, 2), KeyChain (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10), Book (2).
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Pencil (2), Pen (1), Mug (1, 2), Dresser (1), Drawer (1, 2, 4, 6, 7), DeskLamp (1), CD (1), Book (2), AlarmClock (1). Drawer (4) is closed. 
+Act: open Drawer (4)
+You open Drawer (4). You see Pencil (2), Pen (1), Mug (1, 2), Dresser (1), Drawer (4), DeskLamp (1), CD (1), Book (2), AlarmClock (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Pencil (2), Pen (1), Mug (1, 2), Dresser (1), Drawer (1, 2, 4, 6, 7), DeskLamp (1), CD (1), Book (2), AlarmClock (1).
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Pencil (1), Pen (1, 2), Mug (1, 2), KeyChain (1), Dresser (1), Drawer (3, 5, 8, 9, 10), Book (2). Drawer (5) is closed. 
+Act: open Drawer (5)
+You open Drawer (5). You see Pencil (1), Pen (1, 2), Mug (1, 2), KeyChain (1), Dresser (1), Drawer (1, 4, 5, 6, 7, 8, 9, 10), DeskLamp (1), Book (2).
+Act: close Drawer (5)
+You close Drawer (5). You see Pencil (1), Pen (1, 2), Mug (1, 2), KeyChain (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10), DeskLamp (1), Book (2).
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Pencil (2), Pen (1), Mug (1, 2), Dresser (1), Drawer (1, 2, 4, 6, 7), DeskLamp (1), CD (1), Book (2), AlarmClock (1). Drawer (6) is closed. 
+Act: open Drawer (6)
+You open Drawer (6). You see Pencil (2), Pen (1), Mug (1, 2), Dresser (1), Drawer (1, 4, 6, 7), DeskLamp (1), CD (1), Book (2), AlarmClock (1).
+Act: close Drawer (6)
+You close Drawer (6). You see Pencil (2), Pen (1), Mug (1, 2), Dresser (1), Drawer (1, 2, 4, 6, 7), DeskLamp (1), CD (1), Book (2), AlarmClock (1).
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see Pencil (2), Pen (1), Mug (1, 2), Dresser (1), Drawer (1, 2, 4, 6, 7), DeskLamp (1), CD (1), Book (2), AlarmClock (1). Drawer (7) is closed. 
+Act: open Drawer (7)
+You open Drawer (7). You see Pencil (2), Pen (1), Mug (1, 2), Dresser (1), Drawer (1, 4, 7), DeskLamp (1), CD (1), Book (2), AlarmClock (1).
+Act: close Drawer (7)
+You close Drawer (7). You see Pencil (2), Pen (1), Mug (1, 2), Dresser (1), Drawer (1, 2, 4, 6, 7), DeskLamp (1), CD (1), Book (2), AlarmClock (1).
+Act: go to Drawer (8)
+You arrive at Drawer (8). You see Pencil (1), Pen (1, 2), Mug (1, 2), KeyChain (1), Dresser (1), Drawer (3, 5, 8, 9, 10), Book (2). Drawer (8) is closed. 
+Act: open Drawer (8)
+You open Drawer (8). You see Pencil (1), Pen (1, 2), Mug (1, 2), KeyChain (1), Dresser (1), Drawer (1, 4, 8, 9, 10), DeskLamp (1), Book (2).
+Act: close Drawer (8)
+You close Drawer (8). You see Pencil (1), Pen (1, 2), Mug (1, 2), KeyChain (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10), DeskLamp (1), Book (2).
+Act: go to Drawer (9)
+You arrive at Drawer (9). You see Pencil (1), Pen (1, 2), Mug (1, 2), KeyChain (1), Dresser (1), Drawer (3, 5, 8, 9, 10), Book (2). Drawer (9) is closed. 
+Act: open Drawer (9)
+You open Drawer (9). You see Pencil (1), Pen (1, 2), Mug (1, 2), KeyChain (1), Dresser (1), Drawer (4, 9, 10), DeskLamp (1), Book (2).
+Act: close Drawer (9)
+You close Drawer (9). You see Pencil (1), Pen (1, 2), Mug (1, 2), KeyChain (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10), DeskLamp (1), Book (2).
+Act: go to Drawer (10)
+You arrive at Drawer (10). You see Pencil (1), Pen (1, 2), Mug (1, 2), KeyChain (1), Dresser (1), Drawer (3, 5, 8, 9, 10), Book (2). Drawer (10) is closed. 
+Act: open Drawer (10)
+You open Drawer (10). You see Pencil (1), Pen (1, 2), Mug (1, 2), KeyChain (1), Dresser (1), Drawer (10), DeskLamp (1), Book (2).
+Act: close Drawer (10)
+You close Drawer (10). You see Pencil (1), Pen (1, 2), Mug (1, 2), KeyChain (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10), DeskLamp (1), Book (2).
+Think: I cannot find the racket.
+OK.
+Act: failure

@@ -1,0 +1,175 @@
+Your primary goal is to: Put a white plate with a pen on it on a shelf of the coffee table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up plate, place plate on coffee table, and place pen on plate near coffee table.
+Your task is to: place pen on plate near coffee table
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1, 2), GarbageCan (1), Drawer (1, 2), DiningTable (1, 2), CoffeeTable (1), ArmChair (1, 2).
+Think: I hold Pen (1). Now, I need to recall location of the plate.
+OK.
+Act: recall location of Plate
+You dropped Plate due to fail to put it on the receptacle. You need to find it again.
+Think: Now, I need to find the plate. The plate is more likely to appear on CoffeeTable (1), SideTable (1-2), or in Drawer (1-2). I can check each place one by one, starting from CoffeeTable (1), until I find the plate.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), TissueBox (2), Sofa (1), RemoteControl (1), Newspaper (1), CoffeeTable (1), Bowl (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1), SideTable (1), Drawer (1), DiningTable (2). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), Lamp (1), Drawer (2), Curtains (1). 
+Think: I find Plate (1). Now, I need to put down Pen (1) on Plate (1).
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), TissueBox (2), Sofa (1), RemoteControl (1), Newspaper (1), CoffeeTable (1), Bowl (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1), SideTable (1), Drawer (1), DiningTable (2). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), Lamp (1), Drawer (2), Curtains (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), TissueBox (2), Sofa (1), RemoteControl (1), Newspaper (1), CoffeeTable (1), Bowl (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1), SideTable (1), Drawer (1), DiningTable (2). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), Lamp (1), Drawer (2), Curtains (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), TissueBox (2), Sofa (1), RemoteControl (1), Newspaper (1), CoffeeTable (1), Bowl (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1), SideTable (1), Drawer (1), DiningTable (2). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), Lamp (1), Drawer (2), Curtains (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), TissueBox (2), Sofa (1), RemoteControl (1), Newspaper (1), CoffeeTable (1), Bowl (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1), SideTable (1), Drawer (1), DiningTable (2). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), Lamp (1), Drawer (2), Curtains (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), TissueBox (2), Sofa (1), RemoteControl (1), Newspaper (1), CoffeeTable (1), Bowl (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1), SideTable (1), Drawer (1), DiningTable (2). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), Lamp (1), Drawer (2), Curtains (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), TissueBox (2), Sofa (1), RemoteControl (1), Newspaper (1), CoffeeTable (1), Bowl (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1), SideTable (1), Drawer (1), DiningTable (2). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), Lamp (1), Drawer (2), Curtains (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), TissueBox (2), Sofa (1), RemoteControl (1), Newspaper (1), CoffeeTable (1), Bowl (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1), SideTable (1), Drawer (1), DiningTable (2). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), Lamp (1), Drawer (2), Curtains (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), TissueBox (2), Sofa (1), RemoteControl (1), Newspaper (1), CoffeeTable (1), Bowl (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1), SideTable (1), Drawer (1), DiningTable (2). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), Lamp (1), Drawer (2), Curtains (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), TissueBox (2), Sofa (1), RemoteControl (1), Newspaper (1), CoffeeTable (1), Bowl (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1), SideTable (1), Drawer (1), DiningTable (2). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), Lamp (1), Drawer (2), Curtains (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), TissueBox (2), Sofa (1), RemoteControl (1), Newspaper (1), CoffeeTable (1), Bowl (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1), SideTable (1), Drawer (1), DiningTable (2). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), Lamp (1), Drawer (2), Curtains (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), TissueBox (2), Sofa (1), RemoteControl (1), Newspaper (1), CoffeeTable (1), Bowl (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1), SideTable (1), Drawer (1), DiningTable (2). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), Lamp (1), Drawer (2), Curtains (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), TissueBox (2), Sofa (1), RemoteControl (1), Newspaper (1), CoffeeTable (1), Bowl (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1), SideTable (1), Drawer (1), DiningTable (2). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), Lamp (1), Drawer (2), Curtains (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), TissueBox (2), Sofa (1), RemoteControl (1), Newspaper (1), CoffeeTable (1), Bowl (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1), SideTable (1), Drawer (1), DiningTable (2). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), Lamp (1), Drawer (2), Curtains (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), TissueBox (2), Sofa (1), RemoteControl (1), Newspaper (1), CoffeeTable (1), Bowl (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1), SideTable (1), Drawer (1), DiningTable (2). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), Lamp (1), Drawer (2), Curtains (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), TissueBox (2), Sofa (1), RemoteControl (1), Newspaper (1), CoffeeTable (1), Bowl (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1), SideTable (1), Drawer (1), DiningTable (2). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), Lamp (1), Drawer (2), Curtains (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), TissueBox (2), Sofa (1), RemoteControl (1), Newspaper (1), CoffeeTable (1), Bowl (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1), SideTable (1), Drawer (1), DiningTable (2). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), Lamp (1), Drawer (2), Curtains (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), TissueBox (2), Sofa (1), RemoteControl (1), Newspaper (1), CoffeeTable (1), Bowl (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1), SideTable (1), Drawer (1), DiningTable (2). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), Lamp (1), Drawer (2), Curtains (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), TissueBox (2), Sofa (1), RemoteControl (1), Newspaper (1), CoffeeTable (1), Bowl (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1), SideTable (1), Drawer (1), DiningTable (2). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), Lamp (1), Drawer (2), Curtains (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), TissueBox (2), Sofa (1), RemoteControl (1), Newspaper (1), CoffeeTable (1), Bowl (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1), SideTable (1), Drawer (1), DiningTable (2). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), Lamp (1), Drawer (2), Curtains (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), TissueBox (2), Sofa (1), RemoteControl (1), Newspaper (1), CoffeeTable (1), Bowl (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1), SideTable (1), Drawer (1), DiningTable (2). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), Lamp (1), Drawer (2), Curtains (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), TissueBox (2), Sofa (1), RemoteControl (1), Newspaper (1), CoffeeTable (1), Bowl (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1), SideTable (1), Drawer (1), DiningTable (2). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), Lamp (1), Drawer (2), Curtains (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), TissueBox (2), Sofa (1), RemoteControl (1), Newspaper (1), CoffeeTable (1), Bowl (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1), SideTable (1), Drawer (1), DiningTable (2). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), Lamp (1), Drawer (2), Curtains (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), TissueBox (2), Sofa (1), RemoteControl (1), Newspaper (1), CoffeeTable (1), Bowl (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1), SideTable (1), Drawer (1), DiningTable (2). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), Lamp (1), Drawer (2), Curtains (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), TissueBox (2), Sofa (1), RemoteControl (1), Newspaper (1), CoffeeTable (1), Bowl (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1), SideTable (1), Drawer (1), DiningTable (2). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), Lamp (1), Drawer (2), Curtains (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), TissueBox (2), Sofa (1), RemoteControl (1), Newspaper (1), CoffeeTable (1), Bowl (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1), SideTable (1), Drawer (1), DiningTable (2). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), Lamp (1), Drawer (2), Curtains (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), TissueBox (2), Sofa (1), RemoteControl (1), Newspaper (1), CoffeeTable (1), Bowl (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1), SideTable (1), Drawer (1), DiningTable (2). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), Lamp (1), Drawer (2), Curtains (1). 
+Max decisions

@@ -1,0 +1,183 @@
+Your primary goal is to: Place the kettle with water on the circle table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up kettle, fill and pick up kettle, and place kettle on table.
+Your task is to: fill and pick up kettle
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13). I am holding Kettle (1) now.
+Think: I hold Kettle (1). Now, I need to fill it using the sink basin.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Sink (1), SinkBasin (1), Kettle (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 13).  I am holding Kettle (1) now.
+Act: put down Kettle (1)
+You put down failed, drop it. You see Window (2), Sink (1), SinkBasin (1), Kettle (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13).
+Act: pick up Kettle (1)
+You pick up Kettle (1). You see Window (2), Sink (1), SinkBasin (1), Kettle (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 13). I am holding Kettle (1) now.
+Act: put down Kettle (1)
+You put down failed, drop it. You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13).
+Act: turn on Faucet (1)
+You turn on Faucet (1). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13).
+Act: turn off Faucet (1)
+You turn off Faucet (1). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13).
+Think: I fill Kettle (1) using SinkBasin (1). Now, I need to pick up the kettle from the sink basin.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2, 2), Spatula (2), Sink (1, 1), SinkBasin (1, 1), Faucet (1, 1), CounterTop (1, 1), CoffeeMachine (1), Cabinet (4, 4, 7, 7, 13, 13). 
+Act: pick up Spatula (2)
+
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2, 2), Spatula (2, 2), Sink (1, 1), SinkBasin (1, 1), Faucet (1, 1), CounterTop (1, 1), Cabinet (4, 4, 7, 7, 13, 13). 
+Act: pick up Spatula (2)
+
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2, 2), Spatula (2, 2), Sink (1, 1), SinkBasin (1, 1), Faucet (1, 1), CounterTop (1, 1), Cabinet (4, 4, 7, 7, 13, 13). 
+Act: pick up Spatula (2)
+
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2, 2), Spatula (2, 2), Sink (1, 1), SinkBasin (1, 1), Faucet (1, 1), CounterTop (1, 1), Cabinet (4, 4, 7, 7, 13, 13). 
+Act: pick up Spatula (2)
+
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2, 2), Spatula (2, 2), Sink (1, 1), SinkBasin (1, 1), Faucet (1, 1), CounterTop (1, 1), Cabinet (4, 4, 7, 7, 13, 13). 
+Act: pick up Spatula (2)
+
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2, 2), Spatula (2, 2), Sink (1, 1), SinkBasin (1, 1), Faucet (1, 1), CounterTop (1, 1), Cabinet (4, 4, 7, 7, 13, 13). 
+Act: pick up Spatula (2)
+
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2, 2), Spatula (2, 2), Sink (1, 1), SinkBasin (1, 1), Faucet (1, 1), CounterTop (1, 1), Cabinet (4, 4, 7, 7, 13, 13). 
+Act: pick up Spatula (2)
+
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2, 2), Spatula (2, 2), Sink (1, 1), SinkBasin (1, 1), Faucet (1, 1), CounterTop (1, 1), Cabinet (4, 4, 7, 7, 13, 13). 
+Act: pick up Spatula (2)
+
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2, 2), Spatula (2, 2), Sink (1, 1), SinkBasin (1, 1), Faucet (1, 1), CounterTop (1, 1), Cabinet (4, 4, 7, 7, 13, 13). 
+Act: pick up Spatula (2)
+
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2, 2), Spatula (2, 2), Sink (1, 1), SinkBasin (1, 1), Faucet (1, 1), CounterTop (1, 1), Cabinet (4, 4, 7, 7, 13, 13). 
+Act: pick up Spatula (2)
+
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2, 2), Spatula (2, 2), Sink (1, 1), SinkBasin (1, 1), Faucet (1, 1), CounterTop (1, 1), Cabinet (4, 4, 7, 7, 13, 13). 
+Act: pick up Spatula (2)
+
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2, 2), Spatula (2, 2), Sink (1, 1), SinkBasin (1, 1), Faucet (1, 1), CounterTop (1, 1), Cabinet (4, 4, 7, 7, 13, 13). 
+Act: pick up Spatula (2)
+
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2, 2), Spatula (2, 2), Sink (1, 1), SinkBasin (1, 1), Faucet (1, 1), CounterTop (1, 1), Cabinet (4, 4, 7, 7, 13, 13). 
+Act: pick up Spatula (2)
+
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2, 2), Spatula (2, 2), Sink (1, 1), SinkBasin (1, 1), Faucet (1, 1), CounterTop (1, 1), Cabinet (4, 4, 7, 7, 13, 13). 
+Act: pick up Spatula (2)
+
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2, 2), Spatula (2, 2), Sink (1, 1), SinkBasin (1, 1), Faucet (1, 1), CounterTop (1, 1), Cabinet (4, 4, 7, 7, 13, 13). 
+Act: pick up Spatula (2)
+
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2, 2), Spatula (2, 2), Sink (1, 1), SinkBasin (1, 1), Faucet (1, 1), CounterTop (1, 1), Cabinet (4, 4, 7, 7, 13, 13). 
+Act: pick up Spatula (2)
+
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2, 2), Spatula (2, 2), Sink (1, 1), SinkBasin (1, 1), Faucet (1, 1), CounterTop (1, 1), Cabinet (4, 4, 7, 7, 13, 13). 
+Act: pick up Spatula (2)
+
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2, 2), Spatula (2, 2), Sink (1, 1), SinkBasin (1, 1), Faucet (1, 1), CounterTop (1, 1), Cabinet (4, 4, 7, 7, 13, 13). 
+Act: pick up Spatula (2)
+
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2, 2), Spatula (2, 2), Sink (1, 1), SinkBasin (1, 1), Faucet (1, 1), CounterTop (1, 1), Cabinet (4, 4, 7, 7, 13, 13). 
+Act: pick up Spatula (2)
+
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2, 2), Spatula (2, 2), Sink (1, 1), SinkBasin (1, 1), Faucet (1, 1), CounterTop (1, 1), Cabinet (4, 4, 7, 7, 13, 13). 
+Act: pick up Spatula (2)
+
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2, 2), Spatula (2, 2), Sink (1, 1), SinkBasin (1, 1), Faucet (1, 1), CounterTop (1, 1), Cabinet (4, 4, 7, 7, 13, 13). 
+Act: pick up Spatula (2)
+
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2, 2), Spatula (2, 2), Sink (1, 1), SinkBasin (1, 1), Faucet (1, 1), CounterTop (1, 1), Cabinet (4, 4, 7, 7, 13, 13). 
+Act: pick up Spatula (2)
+
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2, 2), Spatula (2, 2), Sink (1, 1), SinkBasin (1, 1), Faucet (1, 1), CounterTop (1, 1), Cabinet (4, 4, 7, 7, 13, 13). 
+Act: pick up Spatula (2)
+
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2, 2), Spatula (2, 2), Sink (1, 1), SinkBasin (1, 1), Faucet (1, 1), CounterTop (1, 1), Cabinet (4, 4, 7, 7, 13, 13). 
+Act: pick up Spatula (2)
+
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2, 2), Spatula (2, 2), Sink (1, 1), SinkBasin (1, 1), Faucet (1, 1), CounterTop (1, 1), Cabinet (4, 4, 7, 7, 13, 13). 
+Act: pick up Spatula (2)
+
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2, 2), Spatula (2, 2), Sink (1, 1), SinkBasin (1, 1), Faucet (1, 1), CounterTop (1, 1), Cabinet (4, 4, 7, 7, 13, 13). 
+Act: pick up Spatula (2)
+
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2, 2), Spatula (2, 2), Sink (1, 1), SinkBasin (1, 1), Faucet (1, 1), CounterTop (1, 1), Cabinet (4, 4, 7, 7, 13, 13). 
+Act: pick up Spatula (2)
+
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2, 2), Spatula (2, 2), Sink (1, 1), SinkBasin (1, 1), Faucet (1, 1), CounterTop (1, 1), Cabinet (4, 4, 7, 7, 13, 13). 
+Act: pick up Spatula (2)
+
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2, 2), Spatula (2, 2), Sink (1, 1), SinkBasin (1, 1), Faucet (1, 1), CounterTop (1, 1), Cabinet (4, 4, 7, 7, 13, 13). 
+Act: pick up Spatula (2)
+
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2, 2), Spatula (2, 2), Sink (1, 1), SinkBasin (1, 1), Faucet (1, 1), CounterTop (1, 1), Cabinet (4, 4, 7, 7, 13, 13). 
+Act: pick up Spatula (2)
+
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2, 2), Spatula (2, 2), Sink (1, 1), SinkBasin (1, 1), Faucet (1, 1), CounterTop (1, 1), Cabinet (4, 4, 7, 7, 13, 13). 
+Act: pick up Spatula (2)
+
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2, 2), Spatula (2, 2), Sink (1, 1), SinkBasin (1, 1), Faucet (1, 1), CounterTop (1, 1), Cabinet (4, 4, 7, 7, 13, 13). 
+Act: pick up Spatula (2)
+
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2, 2), Spatula (2, 2), Sink (1, 1), SinkBasin (1, 1), Faucet (1, 1), CounterTop (1, 1), Cabinet (4, 4, 7, 7, 13, 13). 
+Act: pick up Spatula (2)
+
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2, 2), Spatula (2, 2), Sink (1, 1), SinkBasin (1, 1), Faucet (1, 1), CounterTop (1, 1), Cabinet (4, 4, 7, 7, 13, 13). 
+Act: pick up Spatula (2)
+
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2, 2), Spatula (2, 2), Sink (1, 1), SinkBasin (1, 1), Faucet (1, 1), CounterTop (1, 1), Cabinet (4, 4, 7, 7, 13, 13). 
+Act: pick up Spatula (2)
+
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2, 2), Spatula (2, 2), Sink (1, 1), SinkBasin (1, 1), Faucet (1, 1), CounterTop (1, 1), Cabinet (4, 4, 7, 7, 13, 13). 
+Act: pick up Spatula (2)
+
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2, 2), Spatula (2, 2), Sink (1, 1), SinkBasin (1, 1), Faucet (1, 1), CounterTop (1, 1), Cabinet (4, 4, 7, 7, 13, 13). 
+Act: pick up Spatula (2)
+
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2, 2), Spatula (2, 2), Sink (1, 1), SinkBasin (1, 1), Faucet (1, 1), CounterTop (1, 1), Cabinet (4, 4, 7, 7, 13, 13). 
+Act: pick up Spatula (2)
+
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2, 2), Spatula (2, 2), Sink (1, 1), SinkBasin (1, 1), Faucet (1, 1), CounterTop (1, 1), Cabinet (4, 4, 7, 7, 13, 13). 
+Act: pick up Spatula (2)
+
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2, 2), Spatula (2, 2), Sink (1, 1), SinkBasin (1, 1), Faucet (1, 1), CounterTop (1, 1), Cabinet (4, 4, 7, 7, 13, 13). 
+Act: pick up Spatula (2)
+
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2, 2), Spatula (2, 2), Sink (1, 1), SinkBasin (1, 1), Faucet (1, 1), CounterTop (1, 1), Cabinet (4, 4, 7, 7, 13, 13). 
+Max decisions

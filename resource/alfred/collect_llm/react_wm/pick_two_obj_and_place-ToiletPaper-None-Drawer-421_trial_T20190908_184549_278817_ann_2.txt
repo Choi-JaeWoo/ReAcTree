@@ -1,0 +1,63 @@
+Your task is to: Move two candles to one drawer.
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1, 2), HandTowelHolder (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1).
+Think: To solve the task, I need to find and pick up the candles, then put it in the drawer. And I need to find and pick up another candles, then put it in the drawer.
+OK.
+Think: First, I need to recall location of the candle.
+OK.
+Act: recall location of Candle
+You have not seen Candle before.
+Think: Now I need to find the candle. The candle is more likely to appear on CounterTop (1), or in Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the candle.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Towel (1), ToiletPaper (3), SprayBottle (1), SoapBottle (1), Sink (1), SinkBasin (1), ShowerHead (1), ShowerGlass (1), Faucet (1), Drawer (1, 2, 4, 7, 8), DishSponge (3), CounterTop (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SoapBottle (1), Sink (1, 2), SinkBasin (1), Mirror (1), Faucet (1), Drawer (1, 2, 4, 6, 7, 8), DishSponge (3). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see ToiletPaper (3), SoapBottle (1), Sink (1, 2), SinkBasin (1, 2), ShowerGlass (1), Faucet (1, 2), Drawer (1, 4, 5, 6, 7, 8), DishSponge (3), CounterTop (1).
+Act: close Drawer (1)
+You close Drawer (1). You see ToiletPaper (3), SoapBottle (1), Sink (1, 2), SinkBasin (1, 2), ShowerGlass (1), Faucet (1, 2), Drawer (1, 2, 4, 5, 6, 7, 8), DishSponge (3), CounterTop (1).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SoapBottle (1), Sink (1, 2), SinkBasin (1), Faucet (1), Drawer (1, 2, 4, 5, 6, 7, 8), DishSponge (3). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see ToiletPaper (3), SoapBottle (1), Sink (1, 2), SinkBasin (1, 2), ShowerGlass (1), Faucet (1, 2), Drawer (1, 2, 4, 5, 6, 7, 8), DishSponge (3), CounterTop (1).
+Act: close Drawer (2)
+You close Drawer (2). You see ToiletPaper (3), SoapBottle (1), Sink (1, 2), SinkBasin (1, 2), ShowerGlass (1), Faucet (1, 2), Drawer (1, 2, 4, 5, 6, 7, 8), DishSponge (3), CounterTop (1).
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Toilet (1), ToiletPaper (4), SoapBar (3), Sink (2), SinkBasin (2), ScrubBrush (1), Mirror (1), Faucet (2), Drawer (3, 5, 6, 8), CounterTop (1), Cloth (1). Drawer (3) is closed. 
+Act: open Drawer (3)
+You open Drawer (3). You see Toilet (1), ToiletPaper (4), SoapBar (2, 3), Sink (2), SinkBasin (2), Faucet (2), Drawer (2, 3, 6, 8), CounterTop (1), Cloth (1).
+Act: close Drawer (3)
+You close Drawer (3). You see Toilet (1), ToiletPaper (4), SoapBar (2, 3), Sink (2), SinkBasin (2), ScrubBrush (1), Faucet (2), Drawer (2, 3, 5, 6, 8), CounterTop (1), Cloth (1).
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Towel (1), ToiletPaper (3), SprayBottle (1), SoapBottle (1), Sink (1), SinkBasin (1), ShowerHead (1), ShowerGlass (1), Mirror (1), Faucet (1), Drawer (1, 2, 4, 7), DishSponge (3), CounterTop (1). Drawer (4) is closed. 
+Act: open Drawer (4)
+You open Drawer (4). You see Towel (1), TowelHolder (1), ToiletPaper (3), SprayBottle (1), SoapBottle (1), Sink (1), SinkBasin (1), ShowerGlass (1), Mirror (1), Faucet (1), Drawer (1, 2, 4, 7, 8), DishSponge (3), CounterTop (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Towel (1), TowelHolder (1), ToiletPaper (3), SprayBottle (1), SoapBottle (1), Sink (1), SinkBasin (1), ShowerGlass (1), Mirror (1), Faucet (1), Drawer (1, 2, 4, 7, 8), DishSponge (3), CounterTop (1).
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Toilet (1), ToiletPaper (4), SoapBar (3), Sink (2), SinkBasin (2), ScrubBrush (1), Faucet (2), Drawer (2, 3, 5, 6, 8), CounterTop (1), Cloth (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+You open Drawer (5). You see Toilet (1), ToiletPaper (4), SoapBar (2, 3), Sink (2), SinkBasin (2), ScrubBrush (1), Faucet (2), Drawer (2, 3, 5, 6, 8), CounterTop (1), Cloth (1).
+Act: close Drawer (5)
+You close Drawer (5). You see Toilet (1), ToiletPaper (4), SoapBar (2, 3), Sink (2), SinkBasin (2), ScrubBrush (1), Faucet (2), Drawer (2, 3, 5, 6, 8), CounterTop (1), Cloth (1).
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see SoapBar (3), Sink (1, 2), SinkBasin (2), Mirror (1), Faucet (1, 2), Drawer (1, 2, 3, 5, 6, 8), Cloth (1). Drawer (6) is closed. 
+Act: open Drawer (6)
+You open Drawer (6). You see SoapBar (3), Sink (1, 2), SinkBasin (1, 2), Faucet (1, 2), Drawer (1, 2, 3, 5, 6, 7), CounterTop (1), Cloth (1).
+Act: close Drawer (6)
+You close Drawer (6). You see SoapBar (3), Sink (1, 2), SinkBasin (1, 2), Faucet (1, 2), Drawer (1, 2, 3, 5, 6, 7, 8), CounterTop (1), Cloth (1).
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see Towel (1), ToiletPaper (3), SprayBottle (1), SoapBottle (1), Sink (1), SinkBasin (1), ShowerHead (1), ShowerGlass (1), Mirror (1), Faucet (1), Drawer (1, 2, 4, 7, 8), DishSponge (3), CounterTop (1). Drawer (7) is closed. 
+Act: open Drawer (7)
+You open Drawer (7). You see Towel (1), TowelHolder (1), ToiletPaper (3), SprayBottle (1), SoapBottle (1), Sink (1), SinkBasin (1), ShowerGlass (1), Faucet (1), Drawer (1, 2, 4, 7, 8), DishSponge (3), CounterTop (1).
+Act: close Drawer (7)
+You close Drawer (7). You see Towel (1), TowelHolder (1), ToiletPaper (3), SprayBottle (1), SoapBottle (1), Sink (1), SinkBasin (1), ShowerGlass (1), Faucet (1), Drawer (1, 2, 4, 7, 8), DishSponge (3), CounterTop (1).
+Act: go to Drawer (8)
+You arrive at Drawer (8). You see SoapBar (3), Sink (1, 2), SinkBasin (2), Faucet (1, 2), Drawer (1, 2, 3, 5, 6, 7, 8). Drawer (8) is closed. 
+Act: open Drawer (8)
+You open Drawer (8). You see SoapBar (3), Sink (1, 2), SinkBasin (1, 2), Faucet (1, 2), Drawer (1, 2, 3, 5, 6, 7, 8), Cloth (1).
+Act: close Drawer (8)
+You close Drawer (8). You see SoapBar (3), Sink (1, 2), SinkBasin (1, 2), Faucet (1, 2), Drawer (1, 2, 3, 5, 6, 7, 8), Cloth (1).
+Think: I can not find the candle.
+OK.
+Act: failure

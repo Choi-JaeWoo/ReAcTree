@@ -1,0 +1,19 @@
+Your primary goal is to: Move two pots, one with the tomato slice inside, to the table. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pot, place pot on table, find and pick up pot with tomato slice, and place pot on table.
+Your task is to: find and pick up pot with tomato slice
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11).
+Think: First, I need to recall location of the pot with tomato slice.
+OK.
+Act: recall location of Pot
+You saw Pot (2) near hand.
+Think: I can find Pot (2) near hand.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (2), Tomato (2), StoveKnob (4), SoapBottle (2), SaltShaker (2), Pot (2), Mug (3), Knife (1), Drawer (2), CounterTop (1), Cabinet (11), ButterKnife (1), Bowl (1). 
+Think: I find Pot (2). Now, I need to pick it up.
+OK.
+Act: pick up Pot (2)
+You pick up Pot (2). You see WineBottle (2), StoveKnob (4), StoveBurner (2), Pot (2), Cabinet (11). I am holding Pot (2) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

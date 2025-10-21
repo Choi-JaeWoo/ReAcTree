@@ -1,0 +1,25 @@
+Your primary goal is to: Put a chilled pot on the stove. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pot, cool and pick up pot, and place pot on stove.
+Your task is to: find and pick up pot
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20).
+Think: First, I need to recall location of the pot.
+OK.
+Act: recall location of Pot
+You have not seen Pot before.
+Think: Now, I need to find the pot. The pot is more likely to appear on DiningTable (1-2), CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-20), Drawer (1-6). I can check each place one by one, starting from DiningTable (1), until I find the pot.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (1), Window (2), Spoon (2), Spatula (1), Potato (1), Plate (2), Lettuce (2), Glassbottle (1), DiningTable (1), Chair (1), CellPhone (1, 2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see SoapBottle (1, 2), SaltShaker (1), Potato (3), Plate (3), Lettuce (1), Kettle (1), Fork (3), DiningTable (2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see SprayBottle (2), Spatula (2), Knife (1), Fork (1), Drawer (2, 5), DishSponge (3), CounterTop (1), Cabinet (5, 16), Bread (2). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see WineBottle (3), Pan (1), Microwave (1), Fork (2), Drawer (1), DishSponge (2), CounterTop (2), Cabinet (17), ButterKnife (1). 
+Think: I find Pot (1). Now, I need to pick it up.
+OK.
+Act: pick up Pan (1)
+You pick up Pan (1). You see WineBottle (3), Pan (1), Microwave (1), Fork (2), DishSponge (2), CounterTop (2), ButterKnife (1). I am holding Pan (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

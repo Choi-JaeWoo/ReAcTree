@@ -1,0 +1,21 @@
+Your primary goal is to: put two towels on the back of the toilet
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up towel, place towel on toilet, Find and pick up towel away from toilet, and place towel on toilet.
+Your task is to: Find and pick up towel away from toilet
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1, 2), Toilet (1), ToiletPaperHanger (1), SinkBasin (1), HandTowelHolder (1, 2), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), CounterTop (1).
+Think: First, I need to recall location of the towel.
+OK.
+Act: recall location of HandTowel
+You saw HandTowel (2) near Toilet (1).
+Think: Now, I need to find the towel. The towel is more likely to appear on HandTowelHolder (1-2), Drawer (1-6), or in Cabinet (1-4). I can check each place one by one, starting from HandTowelHolder (1), until I find the towel.
+OK.
+Act: go to HandTowelHolder (1)
+You arrive at HandTowelHolder (1). You see Mirror (1), HandTowelHolder (1). 
+Act: go to HandTowelHolder (2)
+You arrive at HandTowelHolder (2). You see Toilet (1), Mirror (1), HandTowel (1, 2), HandTowelHolder (2). 
+Think: I find HandTowel (1). Now, I need to pick it up.
+OK.
+Act: pick up HandTowel (1)
+You pick up HandTowel (1). You see Mirror (1), HandTowel (1, 2), HandTowelHolder (2). I am holding HandTowel (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,41 @@
+Your task is to: take the pan from the stove, chill it, then put it on the dining table.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2), DiningTable (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10).
+Think: To solve the task, I need to find and pick up the pan, then put it in the fridge. And I need to pick up the pan from the fridge, then put it on the dining table.
+OK.
+Think: First, I need to recall location of the pan.
+OK.
+Act: recall location of Pan
+You have not seen Pan before.
+Think: Now I need to find the pan. The pan is more likely to appear on StoveBurner (1-4), or in Fridge (1), Microwave (1), Cabinet (1-10), Drawer (1-2). I can check each place one by one, starting from StoveBurner (1), until I find the pan.
+OK.
+Act: go to StoveBurner (1)
+You arrive at StoveBurner (1). You see Tomato (1), StoveKnob (1, 2, 3), StoveBurner (1, 2, 3, 4), Spoon (1), PepperShaker (2), Pan (1), Mug (2), Knife (2), Egg (2, 3), Drawer (1, 2), CounterTop (1), Cabinet (1, 5), Bread (1). 
+Think: I find Pan (1). Now, I need to pick it up.
+OK.
+Act: pick up Pan (1)
+You pick up Pan (1). You see Tomato (1), StoveKnob (1, 2, 3), StoveBurner (1, 2, 3, 4), Spoon (1), PepperShaker (2), Pan (1), Mug (2), Knife (2), Egg (2, 3), Drawer (1, 2), CounterTop (1), Cabinet (1, 5), Bread (1). I am holding Pan (1) now.
+Think: I hold Pan (1). Now, I need to put it in the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Pan (1), Fridge (1). Fridge (1) is closed.  I am holding Pan (1) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Pan (1), Fridge (1). I am holding Pan (1) now.
+Act: put down Pan (1)
+You put Pan (1) on Fridge (1). You see Pan (1), Fridge (1).
+Act: close Fridge (1)
+You close Fridge (1). You see Fridge (1).
+Think: I put Pan (1) in Fridge (1). Now, I need to pick up the pan from the fridge.
+OK.
+Act: open Fridge (1)
+You open Fridge (1). You see Pan (1), Fridge (1).
+Act: pick up Pan (1)
+You pick up Pan (1). You see Pan (1), Fridge (1). I am holding Pan (1) now.
+Think: I pick up Pan (1) from Fridge (1). Now, I need to put it on the dining table.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Pot (1), Pan (1), Lettuce (1), DiningTable (1), Chair (1, 2), Apple (1).  I am holding Pan (1) now.
+Act: put down Pan (1)
+You put Pan (1) on DiningTable (1). You see Pot (1), Pan (1), Lettuce (1), DiningTable (1), Chair (1, 2), Apple (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

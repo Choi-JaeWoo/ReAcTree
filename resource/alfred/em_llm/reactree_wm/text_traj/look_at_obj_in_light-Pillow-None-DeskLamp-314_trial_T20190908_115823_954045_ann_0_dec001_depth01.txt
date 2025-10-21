@@ -1,0 +1,7 @@
+Your task is to: Look at a cushion by the light of a lamp.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5), Desk (1), Bed (1).
+Think: Since I’m not holding cushion, I need to accomplish 2 subgoals sequentially to solve the task. Find and pick up cushion and find and turn on lamp.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up cushion, find and turn on lamp

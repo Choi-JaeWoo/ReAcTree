@@ -1,0 +1,21 @@
+Your primary goal is to: View a vase by lamp light. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up vase, and find and turn on lamp.
+Your task is to: find and pick up vase
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1), GarbageCan (1), Drawer (1), DiningTable (1), CoffeeTable (1, 2), ArmChair (1).
+Think: First, I need to recall location of the vase.
+OK.
+Act: recall location of Vase
+You have not seen Vase before.
+Think: Now, I need to find the vase. The vase is more likely to appear on DiningTable (1), CoffeeTable (1-2), SideTable (1), or in Drawer (1). I can check each place one by one, starting from DiningTable (1), until I find the vase.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see RemoteControl (1), Plate (1), KeyChain (2), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (1, 2), Pen (1, 2), CoffeeTable (1). 
+Think: I find Vase (1). Now, I need to pick it up.
+OK.
+Act: pick up Vase (1)
+You pick up Vase (1). You see Vase (1, 2), Pen (1, 2), CoffeeTable (1). I am holding Vase (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

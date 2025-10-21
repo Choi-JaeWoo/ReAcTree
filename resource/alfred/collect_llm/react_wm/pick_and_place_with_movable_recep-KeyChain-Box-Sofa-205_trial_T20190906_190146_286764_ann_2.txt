@@ -1,0 +1,51 @@
+Your task is to: Place a box with keys in it on the couch. 
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2, 3), Ottoman (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), DiningTable (1), ArmChair (1, 2).
+Think: To solve the task, I need to find and pick up the box, then put it on the couch. And I need to find and pick up the keys, then put it in the box.
+OK.
+Think: First, I need to recall location of the box.
+OK.
+Act: recall location of Box
+You have not seen Box before.
+Think: Now I need to find the box. The box is more likely to appear on Sofa (1), SideTable (1-3), Ottoman (1), DiningTable (1), ArmChair (1-2), or in Drawer (1-4). I can check each place one by one, starting from Sofa (1), until I find the box.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), RemoteControl (1), Pillow (1), KeyChain (1), CreditCard (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Watch (2), Television (1), SideTable (1), Laptop (1), Dresser (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), HousePlant (1), DeskLamp (1). 
+Act: go to SideTable (3)
+You arrive at SideTable (3). You see Sofa (1), SideTable (3), Pillow (1), FloorLamp (1), ArmChair (2). 
+Act: go to Ottoman (1)
+You arrive at Ottoman (1). You see Ottoman (1), ArmChair (1, 2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Watch (1), Statue (1), Laptop (2), DiningTable (1), Chair (1, 2, 3, 4), Box (1). 
+Think: I find Box (1). Now, I need to pick it up.
+OK.
+Act: pick up Box (1)
+You pick up Box (1). You see Watch (1), Statue (1), Laptop (2), DiningTable (1), Chair (1, 2, 3, 4), Box (1). I am holding Box (1) now.
+Think: I hold Box (1). Now, I need to put it on the couch.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), RemoteControl (1), Pillow (1), KeyChain (1), CreditCard (1), Box (1).  I am holding Box (1) now.
+Act: put down Box (1)
+You put Box (1) on Sofa (1). You see Sofa (1), RemoteControl (1), Pillow (1), KeyChain (1), CreditCard (1), Box (1).
+Think: I put Box (1) on the Sofa (1). Now, I need to recall location of the keys.
+OK.
+Act: recall location of KeyChain
+You saw KeyChain (1) near Sofa (1).
+Think: I can find KeyChain (1) near Sofa (1). Now, I need to go to Sofa (1) and pick up KeyChain (1).
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), RemoteControl (1), Pillow (1), KeyChain (1), CreditCard (1), Box (1). 
+Act: pick up KeyChain (1)
+You pick up KeyChain (1). You see Sofa (1), RemoteControl (1), Pillow (1), KeyChain (1), CreditCard (1), Box (1). I am holding KeyChain (1) now.
+Think: I hold KeyChain (1). Now, I need to put it in the box.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), RemoteControl (1), Pillow (1), KeyChain (1), CreditCard (1), Box (1).  I am holding KeyChain (1) now.
+Act: put down KeyChain (1)
+You put KeyChain (1) on Sofa (1). You see Sofa (1), RemoteControl (1), Pillow (1), KeyChain (1), CreditCard (1), Box (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

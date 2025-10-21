@@ -1,0 +1,27 @@
+Your primary goal is to: Put a warm slice of bread on the shelf.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, slice and pick up bread, heat and pick up bread, and place bread on shelf.
+Your task is to: heat and pick up bread
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7), CounterTop (1, 2, 3, 4), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18). I am holding Bread (8) now.
+Think: I hold Bread (8). Now, I need to heat it using the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1), HousePlant (1), CounterTop (3, 4), ButterKnife (1), Bread (2, 3, 4, 5, 6, 7, 8). Microwave (1) is closed.  I am holding Bread (8) now.
+Act: open Microwave (1)
+You open Microwave (1). You see Microwave (1), HousePlant (1), CounterTop (3, 4), ButterKnife (1), Bread (2, 3, 4, 5, 6, 7, 8). I am holding Bread (8) now.
+Act: put down Bread (8)
+You put Bread (8) on Microwave (1). You see Microwave (1), HousePlant (1), CounterTop (3, 4), ButterKnife (1), Bread (2, 3, 4, 5, 6, 7, 8).
+Act: close Microwave (1)
+You close Microwave (1). You see Microwave (1), HousePlant (1), CounterTop (3, 4), ButterKnife (1), Bread (2, 3, 4, 5, 6, 7).
+Act: turn on Microwave (1)
+You turn on Microwave (1). You see Microwave (1), HousePlant (1), CounterTop (3, 4), ButterKnife (1), Bread (2, 3, 4, 5, 6, 7).
+Act: turn off Microwave (1)
+You turn off Microwave (1). You see Microwave (1), HousePlant (1), CounterTop (3, 4), ButterKnife (1), Bread (2, 3, 4, 5, 6, 7).
+Think: I heat Bread (8) using Microwave (1). Now, I need to pick up the bread from the microwave.
+OK.
+Act: open Microwave (1)
+You open Microwave (1). You see Microwave (1), HousePlant (1), CounterTop (3, 4), ButterKnife (1), Bread (2, 3, 4, 5, 6, 7, 8).
+Act: pick up Bread (8)
+You pick up Bread (8). You see Microwave (1), HousePlant (1), CounterTop (3, 4), ButterKnife (1), Bread (2, 3, 4, 5, 6, 7, 8). I am holding Bread (8) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

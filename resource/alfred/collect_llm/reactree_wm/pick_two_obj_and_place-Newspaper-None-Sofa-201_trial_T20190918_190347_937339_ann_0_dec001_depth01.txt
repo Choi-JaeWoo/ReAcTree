@@ -1,0 +1,7 @@
+Your task is to: Move two newspapers to the sofa. 
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1, 2), GarbageCan (1), Drawer (1, 2), DiningTable (1, 2), CoffeeTable (1), ArmChair (1, 2).
+Think: Since I’m not holding newspaper, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up newspaper, place newspaper on sofa, Find and pick up newspaper away from sofa, and place newspaper on sofa.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up newspaper, place newspaper on sofa, Find and pick up newspaper away from sofa, place newspaper on sofa

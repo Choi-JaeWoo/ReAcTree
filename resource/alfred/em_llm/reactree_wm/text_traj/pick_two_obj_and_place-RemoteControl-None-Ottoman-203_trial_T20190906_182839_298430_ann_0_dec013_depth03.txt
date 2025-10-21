@@ -1,0 +1,23 @@
+Your primary goal is to: Place two remote controls on an ottoman.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up remote, place remote on ottoman, Find and pick up remote away from ottoman, and place remote on ottoman.
+Your task is to: Find and pick up remote away from ottoman
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1), Ottoman (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7), DiningTable (1), CoffeeTable (1), ArmChair (1).
+Think: First, I need to recall location of the remote.
+OK.
+Act: recall location of RemoteControl
+You saw RemoteControl (2) near Ottoman (1). You saw RemoteControl (1) near Ottoman (1).
+Think: RemoteControl (2) is on Ottoman (1). Now, I need to find another remote control. The remote control is more likely to appear on Sofa (1), SideTable (1), CoffeeTable (1), ArmChair (1), or in Drawer (1-7). I can check each place one by one, starting from Sofa (1), until I find the remote control.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Newspaper (3), Laptop (1), CreditCard (3), CellPhone (2), Book (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see WateringCan (1), Watch (1, 2), SideTable (1), HousePlant (1), Drawer (4). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (1), TissueBox (3), RemoteControl (3), Pencil (1), Newspaper (1, 2), Laptop (2), Drawer (2, 6, 7), CoffeeTable (1). 
+Think: I find RemoteControl (3). Now, I need to pick it up.
+OK.
+Act: pick up RemoteControl (3)
+You pick up RemoteControl (3). You see Vase (1), TissueBox (3), RemoteControl (3), Pencil (1), Newspaper (1, 2), Laptop (2), Drawer (2, 6, 7), CoffeeTable (1). I am holding RemoteControl (3) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

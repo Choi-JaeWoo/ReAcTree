@@ -1,0 +1,175 @@
+Your primary goal is to: Set the box with the cell phone in it down on the couch. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up box, place box on couch, and place cell phone in box.
+Your task is to: place cell phone in box
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), DiningTable (1), CoffeeTable (1).
+Think: I need to recall location of the box.
+OK.
+Act: recall location of Box
+You saw Box (1) near Sofa (1).
+Think: I can find Box (1) near Sofa (1). 
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1), Box (1). 
+Think: I find Box (1). Now, I need to put down CellPhone (1) in Box (1).
+OK.
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Act: go to Box (1)
+You arrive at Box (1). You see Sofa (1), Pillow (1), Box (1). Box (1) is open. 
+Max decisions

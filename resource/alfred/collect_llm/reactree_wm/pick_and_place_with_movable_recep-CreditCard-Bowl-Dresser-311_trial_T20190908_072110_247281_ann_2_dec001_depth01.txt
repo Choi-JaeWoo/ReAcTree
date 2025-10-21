@@ -1,0 +1,7 @@
+Your task is to: To put a credit card in a bowl and move the bowl to the television stand. 
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), LaundryHamper (1), GarbageCan (1), Dresser (1), Drawer (1, 2), DiningTable (1), CounterTop (1), Bed (1), ArmChair (1, 2).
+Think: Since I’m not holding the credit card, I need to accomplish 3 subgoals sequentially to solve the task. Find and pick up credit card, place credit card in bowl, and move bowl to television stand.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up credit card, place credit card in bowl, move bowl to television stand

@@ -1,0 +1,43 @@
+Your task is to: Move a CD from the trash bin to the desk.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1), GarbageCan (1), Drawer (1, 2), Desk (1), Bed (1).
+Think: To solve the task, I need to find and pick up the CD, then put it on the desk.
+OK.
+Think: First, I need to recall location of the CD.
+OK.
+Act: recall location of CD
+You have not seen CD before.
+Think: Now I need to find the CD. The CD is more likely to appear on Desk (1), SideTable (1), Shelf (1), or in Drawer (1-2), GarbageCan (1). I can check each place one by one, starting from Desk (1), until I find the CD.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Window (2), Pencil (1), Pen (1), Mug (1, 2), Laptop (1), Desk (1), Chair (1), CellPhone (2). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Window (1, 2), SideTable (1), KeyChain (1), Drawer (1, 2), Desk (1), CreditCard (3), Chair (1), Bed (1), AlarmClock (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Pencil (1), Mug (1, 2), Laptop (1), Desk (1), DeskLamp (1), Chair (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Window (1, 2), SideTable (1), KeyChain (1), Drawer (1, 2), Desk (1), CreditCard (3), Chair (1), Bed (1), AlarmClock (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see SideTable (1), KeyChain (1), Drawer (1, 2), Desk (1), CreditCard (3), Chair (1), Bed (1), AlarmClock (1).
+Act: close Drawer (1)
+You close Drawer (1). You see SideTable (1), KeyChain (1), Drawer (1, 2), Desk (1), CreditCard (3), Chair (1), Bed (1), AlarmClock (1).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Window (1, 2), SideTable (1), KeyChain (1), Drawer (1, 2), Desk (1), CreditCard (3), Chair (1), Bed (1), AlarmClock (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see SideTable (1), KeyChain (1), Drawer (2), Desk (1), CreditCard (3), Chair (1), Bed (1), AlarmClock (1).
+Act: close Drawer (2)
+You close Drawer (2). You see SideTable (1), KeyChain (1), Drawer (1, 2), Desk (1), CreditCard (3), Chair (1), Bed (1), AlarmClock (1).
+Act: go to GarbageCan (1)
+You arrive at GarbageCan (1). You see GarbageCan (1), CD (1). 
+Think: I find CD (1). Now, I need to pick it up.
+OK.
+Act: pick up CD (1)
+You pick up CD (1). You see GarbageCan (1), CD (1). I am holding CD (1) now.
+Think: I hold CD (1). Now, I need to put it on the desk.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Window (2), Pencil (1), Pen (1), Mug (1, 2), Laptop (1), Desk (1), Chair (1), CellPhone (2), CD (1).  I am holding CD (1) now.
+Act: put down CD (1)
+You put CD (1) on Desk (1). You see Window (2), Pencil (1), Pen (1), Mug (1, 2), Laptop (1), Desk (1), Chair (1), CellPhone (2), CD (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

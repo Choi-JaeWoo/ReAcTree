@@ -1,0 +1,41 @@
+Your task is to: To examine a plate by lamp light.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), GarbageCan (1), DiningTable (1, 2), CoffeeTable (1), ArmChair (1, 2, 3).
+Think: To solve the task, I need to find and pick up the plate. And I need to find and turn on the lamp.
+OK.
+Think: First, I need to recall location of the plate.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now I need to find the plate. The plate is more likely to appear on DiningTable (1-2), CoffeeTable (1), TVStand (1), or in ArmChair (1-3). I can check each place one by one, starting from DiningTable (1), until I find the plate.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Statue (1), Plate (1), Laptop (1), DiningTable (1), Chair (1, 2), Box (1, 2). 
+Think: I find Plate (1). Now, I need to pick it up.
+OK.
+Act: pick up Plate (1)
+You pick up Plate (1). You see Statue (1), Plate (1), Laptop (1), DiningTable (1), Chair (1, 2), Box (1, 2). I am holding Plate (1) now.
+Think: I hold Plate (1). Now, I need to recall location of the lamp.
+OK.
+Act: recall location of DeskLamp
+You have not seen DeskLamp before.
+Think: Now I need to find the lamp The lamp is more likely to appear on DiningTable (1-2), CoffeeTable (1), TVStand (1), or in ArmChair (1-3). I can check each place one by one, starting from DiningTable (1), until I find the lamp.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Statue (1), Plate (1), Laptop (1), DiningTable (1), Chair (1, 2), Box (1, 2).  I am holding Plate (1) now.
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), Plate (1), KeyChain (2), DiningTable (2).  I am holding Plate (1) now.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (3), RemoteControl (1), Plate (1), CoffeeTable (1), Candle (2).  I am holding Plate (1) now.
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Vase (2), Television (1), TVStand (1), Plate (1), KeyChain (2), DiningTable (2).  I am holding Plate (1) now.
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Window (1), Plate (1), ArmChair (1).  I am holding Plate (1) now.
+Act: go to ArmChair (2)
+You arrive at ArmChair (2). You see Plate (1), FloorLamp (1), ArmChair (2, 3).  I am holding Plate (1) now.
+Think: I find FloorLamp (1). Now, I need to turn it on.
+OK.
+Act: turn on FloorLamp (1)
+You turn on FloorLamp (1). You see Plate (1), FloorLamp (1), ArmChair (2, 3). I am holding Plate (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

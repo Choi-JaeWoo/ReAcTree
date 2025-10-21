@@ -1,0 +1,21 @@
+Your primary goal is to: Put two green bottles away in a cabinet below the roll of paper towels.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up green bottle, find and pick up green bottle, place green bottle in cabinet, and place green bottle in cabinet.
+Your task is to: find and pick up green bottle
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: First, I need to recall location of the green bottle.
+OK.
+Act: recall location of WineBottle
+You have not seen WineBottle before.
+Think: Now, I need to find the green bottle. The green bottle is more likely to appear on SideTable (1), CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from SideTable (1), until I find the green bottle.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SoapBottle (1), SideTable (1), Mug (3), Microwave (1), Fridge (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (2), Plate (1), Knife (1), CounterTop (1). 
+Think: I find WineBottle (2). Now, I need to pick it up.
+OK.
+Act: pick up WineBottle (2)
+You pick up WineBottle (2). You see WineBottle (2), Plate (1), Knife (1), CounterTop (1). I am holding WineBottle (2) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,7 @@
+Your task is to: Put a place mat with a candle on it on the coffee table. 
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2), GarbageCan (1), DiningTable (1), CoffeeTable (1, 2), ArmChair (1, 2).
+Think: Since I’m not holding the place mat, I need to accomplish 3 subgoals sequentially to solve the task. Find and pick up place mat, place place mat on coffee table, and place candle on place mat.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up place mat, place place mat on coffee table, place candle on place mat

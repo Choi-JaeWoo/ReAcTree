@@ -1,0 +1,7 @@
+Your task is to: Put two pencils on the coffee table
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2, 3), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), CoffeeTable (1), ArmChair (1).
+Think: Since I’m not holding pencils, I need to accomplish 3 subgoals sequentially to solve the task. Find and pick up pencils, place pencils on coffee table, and place pencils on coffee table.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up pencils, place pencils on coffee table, place pencils on coffee table

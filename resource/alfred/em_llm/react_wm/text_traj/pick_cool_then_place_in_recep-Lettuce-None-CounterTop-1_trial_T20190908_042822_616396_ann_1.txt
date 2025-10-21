@@ -1,0 +1,43 @@
+Your task is to: Put chilled lettuce on the counter. 
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9).
+Think: To solve the task, I need to find and pick up the lettuce, then put it in the fridge. And I need to pick up the lettuce from the fridge, then put it on the counter.
+OK.
+Think: First, I need to recall location of the lettuce.
+OK.
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Think: Now I need to find the lettuce. The lettuce is more likely to appear on CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-9), Drawer (1-9). I can check each place one by one, starting from CounterTop (1), until I find the lettuce.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Mug (3), Kettle (2), Glassbottle (2), Egg (2), CounterTop (1), Bread (1), Book (1). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Window (1), Tomato (1), Statue (1), Spoon (3), Sink (1), SinkBasin (1), Mug (1), Lettuce (1), Knife (1), Faucet (1), Egg (1), CounterTop (2), Cabinet (2), Bowl (1). 
+Think: I find Lettuce (1). Now, I need to pick it up.
+OK.
+Act: pick up Lettuce (1)
+You pick up Lettuce (1). You see Window (1), Statue (1), Spoon (3), Sink (1), SinkBasin (1), Mug (1), Lettuce (1), Knife (1), Faucet (1), Egg (1), CounterTop (2), Cabinet (2), Bowl (1). I am holding Lettuce (1) now.
+Think: I hold Lettuce (1). Now, I need to put it in the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Lettuce (1), Fridge (1), Cabinet (6). Fridge (1) is closed.  I am holding Lettuce (1) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Lettuce (1), GarbageCan (1), Fridge (1), Cup (1). I am holding Lettuce (1) now.
+Act: put down Lettuce (1)
+You put Lettuce (1) on Fridge (1). You see Lettuce (1), GarbageCan (1), Fridge (1), Cup (1).
+Act: close Fridge (1)
+You close Fridge (1). You see Fridge (1), Cabinet (6).
+Think: I put Lettuce (1) in Fridge (1). Now, I need to pick up the lettuce from the fridge.
+OK.
+Act: open Fridge (1)
+You open Fridge (1). You see Lettuce (1), GarbageCan (1), Fridge (1), Cup (1).
+Act: pick up Lettuce (1)
+You pick up Lettuce (1). You see Lettuce (1), GarbageCan (1), Fridge (1), Cup (1). I am holding Lettuce (1) now.
+Think: I pick up Lettuce (1) from Fridge (1). Now, I need to put it on the counter.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Mug (3), Lettuce (1), Kettle (2), Glassbottle (2), CounterTop (1), Bread (1), Book (1).  I am holding Lettuce (1) now.
+Act: put down Lettuce (1)
+You put Lettuce (1) on CounterTop (1). You see Mug (3), Lettuce (1), Kettle (2), Glassbottle (2), Egg (2), CounterTop (1), Bread (1), Book (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

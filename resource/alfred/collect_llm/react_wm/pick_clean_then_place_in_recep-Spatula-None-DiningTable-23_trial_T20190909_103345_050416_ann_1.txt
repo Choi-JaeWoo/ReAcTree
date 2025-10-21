@@ -1,0 +1,41 @@
+Your task is to: Place a cleaned spatula on a dining table.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2), DiningTable (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10).
+Think: To solve the task, I need to find and pick up the spatula, then put it in the sink basin. And I need to turn on and off the faucet. And I need to pick up the spatula from the sink basin, then put it on the dining table.
+OK.
+Think: First, I need to recall location of the spatula.
+OK.
+Act: recall location of Spatula
+You have not seen Spatula before.
+Think: Now I need to find the spatula. The spatula is more likely to appear on DiningTable (1), CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-10), Drawer (1-2). I can check each place one by one, starting from DiningTable (1), until I find the spatula.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (1), Spatula (1, 2), SoapBottle (2), SaltShaker (1, 2), PepperShaker (2), Pen (1, 2), Pan (1), Lettuce (2), Glassbottle (1, 3), Egg (1), DiningTable (1), Chair (1, 2), ButterKnife (2). 
+Think: I find Spatula (1). Now, I need to pick it up.
+OK.
+Act: pick up Spatula (1)
+You pick up Spatula (1). You see Tomato (1), Spatula (1, 2), SoapBottle (2), SaltShaker (1, 2), PepperShaker (2), Pen (1, 2), Pan (1), Lettuce (2), Glassbottle (1, 3), Egg (1), DiningTable (1), Chair (1, 2), ButterKnife (2). I am holding Spatula (1) now.
+Think: I hold Spatula (1). Now, I need to put it in the sink basin.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see WineBottle (1), Tomato (1), Spoon (1), Spatula (1, 1, 2), SoapBottle (2), Sink (1), SinkBasin (1), SaltShaker (1, 2), Potato (2), PepperShaker (2), Pen (1, 2), Pan (1), Lettuce (2), Glassbottle (1, 3), Fridge (1), Faucet (1), Egg (1), DiningTable (1), CounterTop (1), Chair (1, 2), Cabinet (4, 7), ButterKnife (1, 2).  I am holding Spatula (1) now.
+Act: put down Spatula (1)
+You put Spatula (1) on SinkBasin (1). You see WineBottle (1), Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Potato (2), Fridge (1), Faucet (1), CounterTop (1), Cabinet (4, 7), ButterKnife (1).
+Think: I put Spatula (1) in SinkBasin (1). Now, I need to turn on and off Faucet (1).
+OK.
+Act: turn on Faucet (1)
+You turn on Faucet (1). You see WineBottle (1), Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Potato (2), Fridge (1), Faucet (1), CounterTop (1), Cabinet (4, 7), ButterKnife (1).
+Act: turn off Faucet (1)
+You turn off Faucet (1). You see WineBottle (1), Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Potato (2), Fridge (1), Faucet (1), CounterTop (1), Cabinet (4, 7), ButterKnife (1).
+Think: Now, I need to pick up the spatula from the sink basin.
+OK.
+Act: pick up Spatula (1)
+You pick up Spatula (1). You see WineBottle (1), Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Potato (2), Fridge (1), Faucet (1), CounterTop (1), Cabinet (4, 7), ButterKnife (1). I am holding Spatula (1) now.
+Think: I pick up Spatula (1) from SinkBasin (1). Now, I need to put it on the dining table.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (1), Spatula (1, 2), SoapBottle (2), SaltShaker (1, 2), PepperShaker (2), Pen (1, 2), Pan (1), Lettuce (2), Glassbottle (1, 3), Egg (1), DiningTable (1), Chair (1, 2), ButterKnife (2).  I am holding Spatula (1) now.
+Act: put down Spatula (1)
+You put Spatula (1) on DiningTable (1). You see Tomato (1), Spatula (1, 2), SoapBottle (2), SaltShaker (1, 2), PepperShaker (2), Pen (1, 2), Pan (1), Lettuce (2), Glassbottle (1, 3), Egg (1), DiningTable (1), Chair (1, 2), ButterKnife (2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

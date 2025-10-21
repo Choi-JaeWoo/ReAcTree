@@ -1,0 +1,27 @@
+Your primary goal is to: Grab the tennis bat on the floor, turn on the lamp on the table by the sofa
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up tennis bat, and find and turn on lamp.
+Your task is to: find and pick up tennis bat
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see GarbageCan (1), Dresser (1, 2), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13), Desk (1, 2), Cabinet (1), Bed (1, 2), ArmChair (1).
+Think: First, I need to recall location of the tennis bat.
+OK.
+Act: recall location of TennisRacket
+You have not seen TennisRacket before.
+Think: Now, I need to find the tennis bat. The tennis bat is more likely to appear on Bed (1-2), ArmChair (1), or in Drawer (1-13), Cabinet (1). I can check each place one by one, starting from Bed (1), until I find the tennis bat.
+OK.
+Act: go to Bed (1)
+You arrive at Bed (1). You see Bed (1). 
+Act: go to Bed (2)
+You arrive at Bed (2). You see Dresser (2), Drawer (1, 11, 12), Box (1), Bed (2). 
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Laptop (1), KeyChain (1), Desk (2), ArmChair (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Drawer (1, 11, 12), Box (1), Bed (2). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Pencil (1), Dresser (2), Drawer (1, 11), Box (1), Bed (2), AlarmClock (1).
+Think: I find TennisRacket (1). Now, I need to pick it up.
+OK.
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see Pencil (1), Dresser (2), Drawer (1, 11), Box (1), Bed (2), AlarmClock (1). I am holding Pencil (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

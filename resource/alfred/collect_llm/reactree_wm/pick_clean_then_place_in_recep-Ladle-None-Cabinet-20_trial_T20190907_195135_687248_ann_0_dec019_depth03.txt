@@ -1,0 +1,13 @@
+Your primary goal is to: Put a scoop in a cabinet.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up scoop, and place scoop in cabinet.
+Your task is to: place scoop in cabinet
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13). I am holding Ladle (1) now.
+Think: I hold Ladle (1). Now, I need to put it in the cabinet. I can see Cabinet (1).
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Ladle (1), DishSponge (1), Cabinet (1, 7). Cabinet (1) is open.  I am holding Ladle (1) now.
+Act: put down Ladle (1)
+You put Ladle (1) on Cabinet (1). You see Ladle (1), DishSponge (1), Cabinet (1, 7).
+Think: Now I accomplish the goal.
+OK.
+Act: done

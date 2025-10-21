@@ -1,0 +1,89 @@
+Your task is to: place a pan with a spoon in it on the kitchen island counter
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2), DiningTable (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10).
+Think: To solve the task, I need to find and pick up the pan, then put it on the counter top. And I need to find and pick up the spoon, then put it on the pan on the counter top.
+OK.
+Think: First, I need to recall location of the pan.
+OK.
+Act: recall location of Pan
+You have not seen Pan before.
+Think: Now I need to find the pan. The pan is more likely to appear on DiningTable (1), CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-10), Drawer (1-2). I can check each place one by one, starting from DiningTable (1), until I find the pan.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Pan (1), Lettuce (1), Knife (1), DiningTable (1), Chair (1, 2), Bowl (1), Apple (1). 
+Think: I find Pan (1). Now, I need to pick it up.
+OK.
+Act: pick up Pan (1)
+You pick up Pan (1). You see Pan (1), Lettuce (1), Knife (1), DiningTable (1), Chair (1, 2), Bowl (1), Apple (1). I am holding Pan (1) now.
+Think: I hold Pan (1). Now, I need to put it on the countertop.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (1), Toaster (1), Spatula (1), Sink (1), SinkBasin (1), Pan (1), Mug (1), Drawer (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 7).  I am holding Pan (1) now.
+Act: put down Pan (1)
+You put down failed, drop it. You see WineBottle (1), Toaster (1), Spatula (1), Pen (1), Pan (1), Mug (1), Drawer (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 7).
+Think: I put Pan (1) on the CounterTop (1). Now, I need to recall location of the spoon.
+OK.
+Act: recall location of Spoon
+You have not seen Spoon before.
+Think: Now I need to find the spoon. The spoon is more likely to appear on SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-10), Drawer (1-2). I can check each place one by one, starting from SinkBasin (1), until I find the spoon.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Toaster (1), Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Glassbottle (1), Fork (1), Faucet (1), CounterTop (1), Cabinet (4, 7). 
+Think: I find Spoon (1). Now, I need to pick it up.
+OK.
+Act: pick up Spoon (1)
+You pick up Spoon (1). You see Toaster (1), Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Glassbottle (1), Fork (1), Faucet (1), CounterTop (1), Cabinet (4, 7). I am holding Spoon (1) now.
+Think: I hold Spoon (1). Now, I need to recall location of the pan.
+OK.
+Act: recall location of Pan
+You dropped Pan due to fail to put it on the receptacle. You need to find it again.
+Think: Now I need to find the pan. The pan is more likely to appear on DiningTable (1), CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-10), Drawer (1-2). I can check each place one by one, starting from DiningTable (1), until I find the pan.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spoon (1), Lettuce (1), Knife (1), DiningTable (1), Chair (1, 2), Bowl (1), Apple (1).  I am holding Spoon (1) now.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (1), Toaster (1), Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Pen (1), Pan (1), Mug (1), Drawer (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 7).  I am holding Spoon (1) now.
+Think: I find Pan (1). Now, I need to pick it up.
+OK.
+Act: pick up Pan (1)
+You are currently holding Spoon (1). I am holding Spoon (1) now.
+Think: I hold Pan (1). Now, I need to put it on the countertop.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (1), Toaster (1), Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Pen (1), Pan (1), Mug (1), Drawer (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 7).  I am holding Spoon (1) now.
+Act: put down Spoon (1)
+You put Spoon (1) on CounterTop (1). You see WineBottle (1), Toaster (1), Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Pen (1), Pan (1), Mug (1), Drawer (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 7).
+Think: I put Spoon (1) on the CounterTop (1). Now, I need to recall location of the pan.
+OK.
+Act: recall location of Pan
+You saw Pan (1) near CounterTop (1).
+Think: Pan (1) is on the CounterTop (1). Now, I need to put Pan (1) on the CounterTop (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (1), Toaster (1), Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Pen (1), Pan (1), Mug (1), Drawer (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 7). 
+Act: go to Pan (1)
+You arrive at Pan (1). You see Toaster (1), Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Pen (1), Pan (1), Mug (1), Faucet (1), Drawer (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 5, 7). 
+Act: pick up Pan (1)
+You pick up Pan (1). You see Toaster (1), Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Pen (1), Pan (1), Mug (1), Faucet (1), Drawer (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 5, 7). I am holding Pan (1) now.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (1), Toaster (1), Spatula (1), Sink (1), SinkBasin (1), Pan (1), Mug (1), Drawer (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 7).  I am holding Pan (1) now.
+Act: put down Pan (1)
+You put down failed, drop it. You see WineBottle (1), Toaster (1), Spoon (1), Spatula (1), Pen (1), Pan (1), Mug (1), Drawer (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 7).
+Think: I put Pan (1) on the CounterTop (1). Now, I need to recall location of the spoon.
+OK.
+Act: recall location of Spoon
+You saw Spoon (1) near CounterTop (1).
+Think: Spoon (1) is on the CounterTop (1). Now, I need to put Spoon (1) on Pan (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (1), Toaster (1), Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Pan (1), Mug (1), Drawer (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 7). 
+Act: go to Spoon (1)
+You see WineBottle (1), Toaster (1), Spoon (1), Spatula (1), Pan (1), Mug (1), Drawer (1, 2), CounterTop (1), CoffeeMachine (1), Cabinet (1, 5, 7), ButterKnife (1), Bread (1). 
+Act: pick up Spoon (1)
+You pick up Spoon (1). You see WineBottle (1), Toaster (1), Spoon (1), Spatula (1), Pan (1), Mug (1), Drawer (1, 2), CounterTop (1), CoffeeMachine (1), Cabinet (1, 5, 7), ButterKnife (1), Bread (1). I am holding Spoon (1) now.
+Act: go to Pan (1)
+You arrive at Pan (1). You see Toaster (1), Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Pan (1), Mug (1), Faucet (1), Drawer (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 4, 7).  I am holding Spoon (1) now.
+Act: put down Spoon (1)
+You put Spoon (1) on Pan (1). You see Toaster (1), Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Pan (1), Mug (1), Faucet (1), Drawer (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 4, 7).
+Think: Now I accomplish the goal.
+OK.
+Act: done

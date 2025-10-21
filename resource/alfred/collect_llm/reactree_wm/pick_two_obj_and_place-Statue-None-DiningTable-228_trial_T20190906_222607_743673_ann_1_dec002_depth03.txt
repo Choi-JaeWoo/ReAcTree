@@ -1,0 +1,21 @@
+Your primary goal is to: place two black statues on top of the dining room table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up statue, place statue on dining room table, Find and pick up statue away from dining room table, and place statue on dining room table.
+Your task is to: find and pick up statue
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1, 2), SideTable (1, 2), GarbageCan (1), Drawer (1), DiningTable (1), CoffeeTable (1).
+Think: First, I need to recall location of the statue.
+OK.
+Act: recall location of Statue
+You have not seen Statue before.
+Think: Now, I need to find the statue. The statue is more likely to appear on DiningTable (1), SideTable (1-2), or in Drawer (1). I can check each place one by one, starting from DiningTable (1), until I find the statue.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Watch (2), Newspaper (3), DiningTable (1), Chair (2, 4), Box (1, 2). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Statue (1), SideTable (1, 2), Plate (1), KeyChain (2), Drawer (1). 
+Think: I find Statue (1). Now, I need to pick it up.
+OK.
+Act: pick up Statue (1)
+You pick up Statue (1). You see Statue (1), SideTable (1, 2), Plate (1), KeyChain (2). I am holding Statue (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

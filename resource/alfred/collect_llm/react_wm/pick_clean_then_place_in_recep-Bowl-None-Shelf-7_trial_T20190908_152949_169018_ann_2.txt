@@ -1,0 +1,110 @@
+Your task is to: Put the bowl with water on the shelf rack
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13).
+Think: To solve the task, I need to find and pick up the bowl, then put it in the sink basin. And I need to turn on and off the faucet. And I need to pick up the bowl from the sink basin, then put it on the shelf rack.
+OK.
+Think: First, I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: Now I need to find the bowl. The bowl is more likely to appear on DiningTable (1), CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1-4). I can check each place one by one, starting from DiningTable (1), until I find the bowl.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (1, 2), Spatula (2), SoapBottle (2, 3), Plate (1), Mug (2), Lettuce (1, 2), Knife (2), HousePlant (1), Fork (1), DiningTable (1). 
+Think: I find Bowl (1). Now, I need to pick it up.
+OK.
+Act: pick up Plate (1)
+
+Think: I hold Bowl (1). Now, I need to put it in the sink basin.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13). 
+Act: go to Sink (1)
+You arrive at Sink (1). You see WineBottle (1), Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), Cabinet (4, 7, 13), Bowl (4). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13). 
+Act: go to Faucet (1)
+You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), Cabinet (4), Bowl (4). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Statue (2), Knife (1), Drawer (3), CounterTop (1), Cabinet (2), Bread (1, 2). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13). 
+Act: go to Faucet (1)
+You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), Cabinet (4), Bowl (4). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Statue (2), Knife (1), Drawer (3), CounterTop (1), Cabinet (2), Bread (1, 2). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13). 
+Act: go to Faucet (1)
+You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), Cabinet (4), Bowl (4). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Statue (2), Knife (1), Drawer (3), CounterTop (1), Cabinet (2), Bread (1, 2). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13). 
+Act: go to Faucet (1)
+You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), Cabinet (4), Bowl (4). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Statue (2), Knife (1), Drawer (3), CounterTop (1), Cabinet (2), Bread (1, 2). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13). 
+Act: go to Faucet (1)
+You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), Cabinet (4), Bowl (4). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Statue (2), Knife (1), Drawer (3), CounterTop (1), Cabinet (2), Bread (1, 2). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13). 
+Act: go to Faucet (1)
+You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), Cabinet (4), Bowl (4). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Statue (2), Knife (1), Drawer (3), CounterTop (1), Cabinet (2), Bread (1, 2). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13). 
+Act: go to Faucet (1)
+You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), Cabinet (4), Bowl (4). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Statue (2), Knife (1), Drawer (3), CounterTop (1), Cabinet (2), Bread (1, 2). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13). 
+Act: go to Faucet (1)
+You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), Cabinet (4), Bowl (4). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Statue (2), Knife (1), Drawer (3), CounterTop (1), Cabinet (2), Bread (1, 2). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13). 
+Act: go to Faucet (1)
+You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), Cabinet (4), Bowl (4). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Statue (2), Knife (1), Drawer (3), CounterTop (1), Cabinet (2), Bread (1, 2). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13). 
+Act: go to Faucet (1)
+You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), Cabinet (4), Bowl (4). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Statue (2), Knife (1), Drawer (3), CounterTop (1), Cabinet (2), Bread (1, 2). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13). 
+Act: go to Faucet (1)
+You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), Cabinet (4), Bowl (4). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Statue (2), Knife (1), Drawer (3), CounterTop (1), Cabinet (2), Bread (1, 2). 

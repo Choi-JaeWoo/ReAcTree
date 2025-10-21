@@ -1,0 +1,13 @@
+Your primary goal is to: To move two newspapers to the bottom drawer of the television stand. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up newspaper, place newspaper in drawer, Find and pick up newspaper away from drawer, and place newspaper in drawer.
+Your task is to: place newspaper in drawer
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2, 3, 4, 5), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21), Cabinet (1), ArmChair (1). I am holding Newspaper (1) now.
+Think: I hold Newspaper (1). Now, I need to put it in the drawer. I can see Drawer (1).
+OK.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see RemoteControl (2), Newspaper (1), Dresser (1), Drawer (1, 2, 6, 7, 9, 10, 21), CellPhone (1). Drawer (1) is open.  I am holding Newspaper (1) now.
+Act: put down Newspaper (1)
+You put Newspaper (1) on Drawer (1). You see RemoteControl (2), Newspaper (1), Dresser (1), Drawer (1, 2, 6, 7, 9, 10, 21), CellPhone (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,13 @@
+Your primary goal is to: Pick up two set of keys from the top shelf of a desk and place them onto the desk.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up keys, and place keys on desk.
+Your task is to: place keys on desk
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1, 2, 3, 4, 5), GarbageCan (1), Desk (1, 2), Bed (1). I am holding KeyChain (1) now.
+Think: I hold KeyChain (1). Now, I need to put it on the desk. I can see Desk (1).
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Window (2), Pencil (1, 2), KeyChain (1), Desk (1), Curtains (2), CellPhone (1), CD (3), AlarmClock (1).  I am holding KeyChain (1) now.
+Act: put down KeyChain (1)
+You put KeyChain (1) on Desk (1). You see Window (2), Pencil (1, 2), KeyChain (1), Desk (1), Curtains (2), CellPhone (1), CD (3), AlarmClock (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

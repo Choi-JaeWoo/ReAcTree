@@ -1,0 +1,27 @@
+Your task is to: To move a stack into the cabinet. 
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9).
+Think: To solve the task, I need to find and pick up the stack, then put it in the cabinet.
+OK.
+Think: First, I need to recall location of the stack.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now I need to find the stack. The stack is more likely to appear on CoffeeMachine (1), CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-9), Drawer (1-9). I can check each place one by one, starting from CoffeeMachine (1), until I find the stack.
+OK.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see Window (1), Toaster (1), Drawer (1, 5, 6), CounterTop (2), CoffeeMachine (1), Cabinet (6). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Tomato (1), SaltShaker (1), Plate (1), Fork (2), CounterTop (1), ButterKnife (1), Bread (2), Book (1). 
+Think: I find Plate (1). Now, I need to pick it up.
+OK.
+Act: pick up Plate (1)
+You pick up Plate (1). You see Tomato (1), SaltShaker (1), Plate (1), Fork (2), CounterTop (1), ButterKnife (1), Bread (2), Book (1). I am holding Plate (1) now.
+Think: I hold Plate (1). Now, I need to put it in the cabinet.
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Plate (1), Fridge (1), Cabinet (1). Cabinet (1) is closed.  I am holding Plate (1) now.
+Act: open Cabinet (1)
+You open Cabinet (1). You see Plate (1), Fridge (1), Cabinet (1). I am holding Plate (1) now.
+Act: put down Plate (1)
+You put down failed, drop it. You see Plate (1), Fridge (1), Cabinet (1).
+Act: failure

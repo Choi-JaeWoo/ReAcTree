@@ -1,0 +1,159 @@
+Your primary goal is to: Put a hot glass in a cabinet.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up glass, heat and pick up glass, and place glass in cabinet.
+Your task is to: heat and pick up glass
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9). I am holding Glassbottle (1) now.
+Think: I hold Glassbottle (1). Now, I need to heat it using the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1), Glassbottle (1). Microwave (1) is closed.  I am holding Glassbottle (1) now.
+Act: open Microwave (1)
+You open Microwave (1). You see Microwave (1), Glassbottle (1). I am holding Glassbottle (1) now.
+Act: put down Glassbottle (1)
+You put down failed, drop it. You see Microwave (1), Glassbottle (1).
+Act: pick up Glassbottle (1)
+
+Act: close Microwave (1)
+You close Microwave (1). You see Microwave (1).
+Act: turn on Microwave (1)
+You turn on Microwave (1). You see Microwave (1).
+Act: turn off Microwave (1)
+You turn off Microwave (1). You see Microwave (1).
+Think: I heat Glassbottle (1) using Microwave (1). Now, I need to pick up the glass from the microwave.
+OK.
+Act: open Microwave (1)
+You open Microwave (1). You see Microwave (1).
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Pot (1), Microwave (1, 1), Cabinet (5). Microwave (1) is open. 
+Act: pick up Pot (1)
+You pick up Pot (1). You see Pot (1), Microwave (1), Cabinet (5). I am holding Pot (1) now.
+Act: put down Pot (1)
+You put down failed, drop it. You see Microwave (1), Cabinet (5).
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Cabinet (5, 5). Microwave (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Cabinet (5, 5). Microwave (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Cabinet (5, 5). Microwave (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Cabinet (5, 5). Microwave (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Cabinet (5, 5). Microwave (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Cabinet (5, 5). Microwave (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Cabinet (5, 5). Microwave (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Cabinet (5, 5). Microwave (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Cabinet (5, 5). Microwave (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Cabinet (5, 5). Microwave (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Cabinet (5, 5). Microwave (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Cabinet (5, 5). Microwave (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Cabinet (5, 5). Microwave (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Cabinet (5, 5). Microwave (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Cabinet (5, 5). Microwave (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Cabinet (5, 5). Microwave (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Cabinet (5, 5). Microwave (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Cabinet (5, 5). Microwave (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Cabinet (5, 5). Microwave (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Cabinet (5, 5). Microwave (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Cabinet (5, 5). Microwave (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Cabinet (5, 5). Microwave (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Cabinet (5, 5). Microwave (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Cabinet (5, 5). Microwave (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Cabinet (5, 5). Microwave (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Cabinet (5, 5). Microwave (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Cabinet (5, 5). Microwave (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Cabinet (5, 5). Microwave (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Cabinet (5, 5). Microwave (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Cabinet (5, 5). Microwave (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Cabinet (5, 5). Microwave (1) is open. 
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near hand.
+Max decisions

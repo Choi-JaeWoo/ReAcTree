@@ -1,0 +1,7 @@
+Your task is to: Place a box with a credit card in it on a couch.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), CoffeeTable (1), Cabinet (1, 2, 3, 4), ArmChair (1, 2).
+Think: Since I’m not holding the box, I need to accomplish 3 subgoals sequentially to solve the task. Find and pick up box, place credit card in box, and place box on couch.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up box, place credit card in box, place box on couch

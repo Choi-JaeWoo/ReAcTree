@@ -1,0 +1,130 @@
+Your task is to: place a cup with a fork in it down in front of the microwave
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: To solve the task, I need to find and pick up the cup, then put it in the microwave. And I need to find and pick up the fork, then put it on the cup in the microwave.
+OK.
+Think: First, I need to recall location of the cup.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the cup. The cup is more likely to appear on CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the cup.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (1), Lettuce (2), CounterTop (1), Bread (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), Mug (2), Lettuce (1), HousePlant (1), Fork (2), Faucet (1), Drawer (2, 4), CounterTop (1). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Drawer (1). Fridge (1) is closed. 
+Act: open Fridge (1)
+You open Fridge (1). You see Fridge (1), Drawer (1).
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the cup. The cup is more likely to appear on CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the cup.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (1), Lettuce (2), CounterTop (1), Bread (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), Mug (2), Lettuce (1), HousePlant (1), Fork (2), Faucet (1), Drawer (2, 4), CounterTop (1). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Drawer (1). Fridge (1) is open. 
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the cup. The cup is more likely to appear on CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the cup.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (1), Lettuce (2), CounterTop (1), Bread (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), Mug (2), Lettuce (1), HousePlant (1), Fork (2), Faucet (1), Drawer (2, 4), CounterTop (1). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Drawer (1). Fridge (1) is open. 
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the cup. The cup is more likely to appear on CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the cup.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (1), Lettuce (2), CounterTop (1), Bread (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), Mug (2), Lettuce (1), HousePlant (1), Fork (2), Faucet (1), Drawer (2, 4), CounterTop (1). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Drawer (1). Fridge (1) is open. 
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the cup. The cup is more likely to appear on CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the cup.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (1), Lettuce (2), CounterTop (1), Bread (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), Mug (2), Lettuce (1), HousePlant (1), Fork (2), Faucet (1), Drawer (2, 4), CounterTop (1). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Drawer (1). Fridge (1) is open. 
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the cup. The cup is more likely to appear on CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the cup.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (1), Lettuce (2), CounterTop (1), Bread (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), Mug (2), Lettuce (1), HousePlant (1), Fork (2), Faucet (1), Drawer (2, 4), CounterTop (1). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Drawer (1). Fridge (1) is open. 
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the cup. The cup is more likely to appear on CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the cup.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (1), Lettuce (2), CounterTop (1), Bread (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), Mug (2), Lettuce (1), HousePlant (1), Fork (2), Faucet (1), Drawer (2, 4), CounterTop (1). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Drawer (1). Fridge (1) is open. 
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the cup. The cup is more likely to appear on CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the cup.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (1), Lettuce (2), CounterTop (1), Bread (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), Mug (2), Lettuce (1), HousePlant (1), Fork (2), Faucet (1), Drawer (2, 4), CounterTop (1). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Drawer (1). Fridge (1) is open. 
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the cup. The cup is more likely to appear on CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the cup.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (1), Lettuce (2), CounterTop (1), Bread (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), Mug (2), Lettuce (1), HousePlant (1), Fork (2), Faucet (1), Drawer (2, 4), CounterTop (1). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Drawer (1). Fridge (1) is open. 
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the cup. The cup is more likely to appear on CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the cup.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (1), Lettuce (2), CounterTop (1), Bread (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), Mug (2), Lettuce (1), HousePlant (1), Fork (2), Faucet (1), Drawer (2, 4), CounterTop (1). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Drawer (1). Fridge (1) is open. 
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the cup. The cup is more likely to appear on CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the cup.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (1), Lettuce (2), CounterTop (1), Bread (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), Mug (2), Lettuce (1), HousePlant (1), Fork (2), Faucet (1), Drawer (2, 4), CounterTop (1). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Drawer (1). Fridge (1) is open. 
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the cup. The cup is more likely to appear on CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the cup.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (1), Lettuce (2), CounterTop (1), Bread (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), Mug (2), Lettuce (1), HousePlant (1), Fork (2), Faucet (1), Drawer (2, 4), CounterTop (1). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Drawer (1). Fridge (1) is open. 

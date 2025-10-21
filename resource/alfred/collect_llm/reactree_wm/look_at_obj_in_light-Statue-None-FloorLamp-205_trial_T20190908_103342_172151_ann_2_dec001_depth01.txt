@@ -1,0 +1,7 @@
+Your task is to: Turn a lamp on with a statue in hand.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2, 3), Ottoman (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), DiningTable (1), ArmChair (1, 2).
+Think: Since I’m not holding lamp, I need to accomplish 2 subgoals sequentially to solve the task. Find and pick up lamp and turn on lamp.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up lamp, turn on lamp

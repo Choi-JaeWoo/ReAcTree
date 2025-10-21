@@ -1,0 +1,129 @@
+Your primary goal is to: Put a washed slice of potato on a stand.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, slice and pick up potato, clean and pick up potato, and place potato on stand.
+Your task is to: place potato on stand
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4). I am holding Potato (11) now.
+Think: I hold Potato (11). Now, I need to put it on the stand. I can see SideTable (1).
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Potato (10, 11, 12), Microwave (1), Fridge (1).  I am holding Potato (11) now.
+Act: put down Potato (11)
+You put down failed, drop it. You see SideTable (1), Potato (10, 11, 12), Microwave (1), Fridge (1).
+Think: Now I need to pick up Potato (11).
+OK.
+Act: pick up Potato (11)
+
+Think: I hold Potato (11). Now, I need to put it on the stand. I can see SideTable (1).
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Potato (10, 12), Microwave (1), Fridge (1). 
+Act: pick up Potato (10)
+You pick up Potato (10). You see SideTable (1), Potato (9, 10, 12), Microwave (1), Fridge (1). I am holding Potato (10) now.
+Think: I hold Potato (10). Now, I need to put it on the stand. I can see SideTable (1).
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Potato (9, 10, 12), Microwave (1), Fridge (1).  I am holding Potato (10) now.
+Act: put down Potato (10)
+You put down failed, drop it. You see SideTable (1), Potato (9, 10, 12), Microwave (1), Fridge (1).
+Think: Now I need to pick up Potato (10).
+OK.
+Act: pick up Potato (10)
+
+Think: I hold Potato (10). Now, I need to put it on the stand. I can see SideTable (1).
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Potato (9, 12), Microwave (1), Fridge (1). 
+Act: pick up Potato (9)
+You pick up Potato (9). You see SideTable (1), Potato (8, 9, 12), Microwave (1), Fridge (1). I am holding Potato (9) now.
+Think: I hold Potato (9). Now, I need to put it on the stand. I can see SideTable (1).
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Potato (8, 9, 12), Microwave (1), Fridge (1).  I am holding Potato (9) now.
+Act: put down Potato (9)
+You put down failed, drop it. You see SideTable (1), Potato (8, 9, 12), Microwave (1), Fridge (1).
+Think: Now I need to pick up Potato (9).
+OK.
+Act: pick up Potato (9)
+
+Think: I hold Potato (9). Now, I need to put it on the stand. I can see SideTable (1).
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Potato (8, 12), Microwave (1), Fridge (1). 
+Act: pick up Potato (8)
+You pick up Potato (8). You see SideTable (1), Potato (8, 12), Microwave (1), Fridge (1). I am holding Potato (8) now.
+Think: I hold Potato (8). Now, I need to put it on the stand. I can see SideTable (1).
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Potato (8, 12), Microwave (1), Fridge (1).  I am holding Potato (8) now.
+Act: put down Potato (8)
+You put down failed, drop it. You see SideTable (1), Potato (8, 12), Microwave (1), Fridge (1).
+Think: Now I need to pick up Potato (8).
+OK.
+Act: pick up Potato (8)
+You pick up Potato (8). You see SideTable (1), Potato (8, 12), Microwave (1), Fridge (1). I am holding Potato (8) now.
+Think: I hold Potato (8). Now, I need to put it on the stand. I can see SideTable (1).
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Potato (8, 12), Microwave (1), Fridge (1).  I am holding Potato (8) now.
+Act: put down Potato (8)
+You put down failed, drop it. You see SideTable (1), Potato (8, 12), Microwave (1), Fridge (1).
+Think: Now I need to pick up Potato (8).
+OK.
+Act: pick up Potato (8)
+You pick up Potato (8). You see SideTable (1), Potato (8, 12), Microwave (1), Fridge (1). I am holding Potato (8) now.
+Think: I hold Potato (8). Now, I need to put it on the stand. I can see SideTable (1).
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Potato (8, 12), Microwave (1), Fridge (1).  I am holding Potato (8) now.
+Act: put down Potato (8)
+You put down failed, drop it. You see SideTable (1), Potato (8, 12), Microwave (1), Fridge (1).
+Think: Now I need to pick up Potato (8).
+OK.
+Act: pick up Potato (8)
+
+Think: I hold Potato (8). Now, I need to put it on the stand. I can see SideTable (1).
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Potato (12), Microwave (1), Fridge (1). 
+Act: pick up Potato (12)
+You pick up Potato (12). You see SideTable (1), Potato (7, 12), Microwave (1), Fridge (1). I am holding Potato (12) now.
+Think: I hold Potato (12). Now, I need to put it on the stand. I can see SideTable (1).
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Potato (7, 12), Microwave (1), Fridge (1).  I am holding Potato (12) now.
+Act: put down Potato (12)
+You put down failed, drop it. You see SideTable (1), Potato (7), Microwave (1), Fridge (1).
+Think: Now I need to pick up Potato (7).
+OK.
+Act: pick up Potato (7)
+You pick up Potato (7). You see SideTable (1), Potato (6, 7), Microwave (1), Fridge (1). I am holding Potato (7) now.
+Think: I hold Potato (7). Now, I need to put it on the stand. I can see SideTable (1).
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Potato (6, 7), Microwave (1), Fridge (1).  I am holding Potato (7) now.
+Act: put down Potato (7)
+You put down failed, drop it. You see SideTable (1), Potato (6, 7), Microwave (1), Fridge (1).
+Think: Now I need to pick up Potato (7).
+OK.
+Act: pick up Potato (7)
+
+Think: I hold Potato (7). Now, I need to put it on the stand. I can see SideTable (1).
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Potato (6), Microwave (1), Fridge (1). 
+Act: pick up Potato (6)
+You pick up Potato (6). You see SideTable (1), Potato (5, 6), Microwave (1), Fridge (1). I am holding Potato (6) now.
+Think: I hold Potato (6). Now, I need to put it on the stand. I can see SideTable (1).
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Potato (5, 6), Microwave (1), Fridge (1).  I am holding Potato (6) now.
+Act: put down Potato (6)
+You put down failed, drop it. You see SideTable (1), Potato (5), Microwave (1), Fridge (1).
+Think: Now I need to pick up Potato (5).
+OK.
+Act: pick up Potato (5)
+You pick up Potato (5). You see SideTable (1), Potato (5), Microwave (1), Fridge (1). I am holding Potato (5) now.
+Think: I hold Potato (5). Now, I need to put it on the stand. I can see SideTable (1).
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Potato (5), Microwave (1), Fridge (1).  I am holding Potato (5) now.
+Max decisions

@@ -1,0 +1,19 @@
+Your primary goal is to: Pick up a disc and turn the lamp on.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up disc, and find and turn on lamp.
+Your task is to: find and turn on lamp
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1, 2, 3, 4, 5), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), Desk (1), Bed (1). I am holding CellPhone (2) now.
+Think: First, I need to recall location of the lamp.
+OK.
+Act: recall location of DeskLamp
+You saw DeskLamp (1) near Drawer (7).
+Think: I can find DeskLamp (1) near Drawer (7).
+OK.
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see Window (3), Pencil (1), Dresser (1), Drawer (6, 7), DeskLamp (1), CellPhone (2), CD (3, 4), Bed (1), AlarmClock (2). Drawer (7) is closed.  I am holding CellPhone (2) now.
+Think: I find DeskLamp (1). Now, I need to turn it on.
+OK.
+Act: turn on DeskLamp (1)
+You turn on DeskLamp (1). You see Window (3), Pencil (1), Dresser (1), Drawer (6, 7), DeskLamp (1), CellPhone (2), CD (3, 4), Bed (1), AlarmClock (2). I am holding CellPhone (2) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

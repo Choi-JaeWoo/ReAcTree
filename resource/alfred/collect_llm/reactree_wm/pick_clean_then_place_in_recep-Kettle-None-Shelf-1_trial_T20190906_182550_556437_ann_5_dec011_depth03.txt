@@ -1,0 +1,21 @@
+Your primary goal is to: Place a washed tea pot on the shelf.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up tea pot, clean and pick up tea pot, and place tea pot on shelf.
+Your task is to: clean and pick up tea pot
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9). I am holding WineBottle (1) now.
+Think: I hold WineBottle (1). Now, I need to clean it using sink basin.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see WineBottle (1), Window (1), Sink (1), SinkBasin (1), Knife (3), Faucet (1), CounterTop (2), Cabinet (2).  I am holding WineBottle (1) now.
+Act: put down WineBottle (1)
+You put WineBottle (1) on SinkBasin (1). You see WineBottle (1), Window (1), Sink (1), SinkBasin (1), Knife (3), Faucet (1), CounterTop (2), Cabinet (2).
+Act: turn on Faucet (1)
+You turn on Faucet (1). You see WineBottle (1), Window (1), Sink (1), SinkBasin (1), Knife (3), Faucet (1), CounterTop (2), Cabinet (2).
+Act: turn off Faucet (1)
+You turn off Faucet (1). You see WineBottle (1), Window (1), Sink (1), SinkBasin (1), Knife (3), Faucet (1), CounterTop (2), Cabinet (2).
+Think: I clean WineBottle (1) using SinkBasin (1). Now, I need to pick up the wine bottle from the sink basin.
+OK.
+Act: pick up WineBottle (1)
+You pick up WineBottle (1). You see WineBottle (1), Window (1), Sink (1), SinkBasin (1), Knife (3), Faucet (1), CounterTop (2), Cabinet (2). I am holding WineBottle (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

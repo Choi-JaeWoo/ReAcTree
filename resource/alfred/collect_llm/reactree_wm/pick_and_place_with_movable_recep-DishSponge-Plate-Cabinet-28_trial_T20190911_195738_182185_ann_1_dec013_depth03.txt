@@ -1,0 +1,13 @@
+Your primary goal is to: Place a plate with a sponge on it in a cabinet.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up plate, place plate on countertop, find and pick up sponge, and place sponge on plate near countertop.
+Your task is to: place plate on countertop
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11). I am holding Plate (1) now.
+Think: I hold Plate (1). Now, I need to put it on the countertop. I can see CounterTop (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see StoveKnob (1), StoveBurner (2), SoapBottle (3), SaltShaker (3), Pot (1), Plate (1), Fridge (1), CounterTop (1), ButterKnife (1).  I am holding Plate (1) now.
+Act: put down Plate (1)
+You put Plate (1) on CounterTop (1). You see StoveKnob (1), StoveBurner (2), SoapBottle (3), SaltShaker (3), Pot (1), Plate (1), Fridge (1), Drawer (3), CounterTop (1), Cabinet (10), ButterKnife (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,23 @@
+Your task is to: Examine the watering can by the light
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), Ottoman (1), GarbageCan (1), Dresser (1, 2), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CoffeeTable (1, 2), ArmChair (1).
+Think: To solve the task, I need to find and pick up the watering can. And I need to find and turn on the desk lamp.
+OK.
+Think: First, I need to recall location of the watering can.
+OK.
+Act: recall location of WateringCan
+You have not seen WateringCan before.
+Think: Now I need to find the watering can. The watering can is more likely to appear on Sofa (1), Ottoman (1), CoffeeTable (1-2), or in Drawer (1-8). I can check each place one by one, starting from Sofa (1), until I find the watering can.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), RemoteControl (1), Pillow (1), Laptop (3). 
+Act: go to Ottoman (1)
+You arrive at Ottoman (1). You see Ottoman (1), Laptop (1, 2). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (1), DeskLamp (1), CoffeeTable (1), Chair (1). 
+Think: I find DeskLamp (1). Now, I need to turn it on.
+OK.
+Act: turn on DeskLamp (1)
+You turn on DeskLamp (1). You see Watch (1), DeskLamp (1), CoffeeTable (1), Chair (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

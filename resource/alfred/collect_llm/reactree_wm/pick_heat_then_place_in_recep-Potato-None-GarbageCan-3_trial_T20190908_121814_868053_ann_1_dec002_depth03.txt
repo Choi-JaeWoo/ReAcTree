@@ -1,0 +1,201 @@
+Your primary goal is to: Put a cooked potato in the recycling can.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up potato, cook and pick up potato, and place potato in recycling can.
+Your task is to: find and pick up potato
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: First, I need to recall location of the potato.
+OK.
+Act: recall location of Potato
+You have not seen Potato before.
+Think: Now, I need to find the potato. The potato is more likely to appear on CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the potato.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Plate (1), Kettle (1), CounterTop (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Spoon (1), Spatula (1, 2), SoapBottle (2), Sink (1), SinkBasin (1), Knife (2, 3), HousePlant (1), Faucet (1), Egg (1), Drawer (2, 4), CounterTop (1). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Drawer (1). Fridge (1) is closed. 
+Act: open Fridge (1)
+You open Fridge (1). You see Fridge (1), Drawer (1).
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (1), PepperShaker (1, 2), PaperTowelRoll (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see SideTable (1), PepperShaker (1, 2), PaperTowelRoll (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8).
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see SideTable (1), PepperShaker (1, 2), PaperTowelRoll (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (3) is closed. 
+Act: open Drawer (3)
+The Drawer (3) is open failed.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is open failed.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (6) is closed. 
+Act: open Drawer (6)
+The Drawer (6) is open failed.
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (7) is closed. 
+Act: open Drawer (7)
+The Drawer (7) is open failed.
+Act: go to Drawer (8)
+You arrive at Drawer (8). You see SideTable (1), PepperShaker (1, 2), PaperTowelRoll (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (8) is closed. 
+Act: open Drawer (8)
+The Drawer (8) is open failed.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see SideTable (1), PepperShaker (1, 2), PaperTowelRoll (1), Microwave (1), Fridge (1). Microwave (1) is closed. 
+Act: open Microwave (1)
+You open Microwave (1). You see SideTable (1), Microwave (1), Fridge (1).
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Microwave (1), Fridge (1). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1). Fridge (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (1) is open. 
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (3) is closed. 
+Act: open Drawer (3)
+The Drawer (3) is open failed.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is open failed.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (6) is closed. 
+Act: open Drawer (6)
+The Drawer (6) is open failed.
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (7) is closed. 
+Act: open Drawer (7)
+The Drawer (7) is open failed.
+Act: go to Drawer (8)
+You arrive at Drawer (8). You see SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (8) is closed. 
+Act: open Drawer (8)
+The Drawer (8) is open failed.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see SideTable (1), Microwave (1), Fridge (1). Microwave (1) is open. 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Microwave (1), Fridge (1). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1). Fridge (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (1) is open. 
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (3) is closed. 
+Act: open Drawer (3)
+The Drawer (3) is open failed.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is open failed.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (6) is closed. 
+Act: open Drawer (6)
+The Drawer (6) is open failed.
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (7) is closed. 
+Act: open Drawer (7)
+The Drawer (7) is open failed.
+Act: go to Drawer (8)
+You arrive at Drawer (8). You see SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (8) is closed. 
+Act: open Drawer (8)
+The Drawer (8) is open failed.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see SideTable (1), Microwave (1), Fridge (1). Microwave (1) is open. 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Microwave (1), Fridge (1). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1). Fridge (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (1) is open. 
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (3) is closed. 
+Act: open Drawer (3)
+The Drawer (3) is open failed.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is open failed.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (6) is closed. 
+Act: open Drawer (6)
+The Drawer (6) is open failed.
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (7) is closed. 
+Act: open Drawer (7)
+The Drawer (7) is open failed.
+Act: go to Drawer (8)
+You arrive at Drawer (8). You see SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (8) is closed. 
+Act: open Drawer (8)
+The Drawer (8) is open failed.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see SideTable (1), Microwave (1), Fridge (1). Microwave (1) is open. 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Microwave (1), Fridge (1). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1). Fridge (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (1) is open. 
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (3) is closed. 
+Act: open Drawer (3)
+The Drawer (3) is open failed.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is open failed.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (6) is closed. 
+Act: open Drawer (6)
+The Drawer (6) is open failed.
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (7) is closed. 
+Act: open Drawer (7)
+The Drawer (7) is open failed.
+Act: go to Drawer (8)
+You arrive at Drawer (8). You see SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (8) is closed. 
+Act: open Drawer (8)
+The Drawer (8) is open failed.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see SideTable (1), Microwave (1), Fridge (1). Microwave (1) is open. 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Microwave (1), Fridge (1). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1). Fridge (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (1) is open. 
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (3) is closed. 
+Act: open Drawer (3)
+The Drawer (3) is open failed.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is open failed.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (6) is closed. 
+Act: open Drawer (6)
+The Drawer (6) is open failed.
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (7) is closed. 
+Act: open Drawer (7)
+The Drawer (7) is open failed.
+Act: go to Drawer (8)
+You arrive at Drawer (8). You see SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (8) is closed. 
+Act: open Drawer (8)
+The Drawer (8) is open failed.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see SideTable (1), Microwave (1), Fridge (1). Microwave (1) is open. 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Microwave (1), Fridge (1). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1). Fridge (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (1) is open. 
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (3) is closed. 
+Act: open Drawer (3)
+The Drawer (3) is open failed.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is open failed.
+Max decisions

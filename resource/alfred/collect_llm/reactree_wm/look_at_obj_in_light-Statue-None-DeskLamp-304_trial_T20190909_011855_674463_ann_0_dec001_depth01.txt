@@ -1,0 +1,7 @@
+Your task is to: Examine the statue under the light near the desk
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1), LaundryHamper (1), GarbageCan (1), Drawer (1, 2, 3), Desk (1), Bed (1, 2).
+Think: Since I’m not holding the statue, I need to accomplish 2 subgoals sequentially to solve the task. Find and pick up statue and find and turn on lamp.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up statue, find and turn on lamp

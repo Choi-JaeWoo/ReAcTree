@@ -1,0 +1,7 @@
+Your task is to: Put a wine glass with a knife in it on the white dining table.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12).
+Think: Since I’m not holding anything, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up wine glass, place wine glass on dining table, find and pick up knife, and place knife on wine glass near dining table.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up wine glass, place wine glass on dining table, find and pick up knife, place knife on wine glass near dining table

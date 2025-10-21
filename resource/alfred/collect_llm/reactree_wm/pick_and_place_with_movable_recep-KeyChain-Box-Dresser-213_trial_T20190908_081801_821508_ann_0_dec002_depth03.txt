@@ -1,0 +1,29 @@
+Your primary goal is to: To put the keys in a box. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up keys, find and pick up box, and place keys in box.
+Your task is to: find and pick up keys
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2, 3), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12), DiningTable (1), CoffeeTable (1), ArmChair (1, 2).
+Think: First, I need to recall location of the keys.
+OK.
+Act: recall location of KeyChain
+You have not seen KeyChain before.
+Think: Now, I need to find the keys. The keys are more likely to appear on Sofa (1), SideTable (1-3), or in Drawer (1-12). I can check each place one by one, starting from Sofa (1), until I find the keys.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1, 2, 3). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Window (1), SideTable (1, 2), HousePlant (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Window (1), Watch (1), SideTable (1, 2), HousePlant (1), CreditCard (1). 
+Act: go to SideTable (3)
+You arrive at SideTable (3). You see SideTable (3). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Television (1), RemoteControl (1), KeyChain (1, 3), Dresser (1), Drawer (1, 2, 4, 5, 6, 7, 8, 9, 11). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Television (1), KeyChain (1, 3), Dresser (1), Drawer (1, 2, 4, 5, 6, 7, 9, 11).
+Think: I find KeyChain (1). Now, I need to pick it up.
+OK.
+Act: pick up KeyChain (1)
+You pick up KeyChain (1). You see Television (1), KeyChain (1, 3), Dresser (1), Drawer (1, 2, 4, 5, 6, 7, 9, 11). I am holding KeyChain (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

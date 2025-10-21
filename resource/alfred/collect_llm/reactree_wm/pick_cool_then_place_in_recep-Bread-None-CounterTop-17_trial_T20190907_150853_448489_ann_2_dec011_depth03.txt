@@ -1,0 +1,183 @@
+Your primary goal is to: Put a chilled bread on the counter right of the sink. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up bread, cool and pick up bread, and place bread on counter.
+Your task is to: cool and pick up bread
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20).
+Think: I hold Bread (1). Now, I need to cool it using the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1). Fridge (1) is closed. 
+Act: open Fridge (1)
+You open Fridge (1). You see Glassbottle (3), Fridge (1), Egg (2), Cabinet (8).
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Microwave (1), Fridge (1), Egg (2), Drawer (1, 3), Cabinet (8, 17). Cabinet (8) is closed. 
+Act: open Cabinet (8)
+You open Cabinet (8). You see Fridge (1), Egg (2), Drawer (3), Cabinet (8, 11, 17).
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17). Drawer (3) is closed. 
+Act: open Drawer (3)
+The Drawer (3) is open failed.
+Act: close Drawer (3)
+The Drawer (3) is already closed.
+Act: go to Cabinet (11)
+You arrive at Cabinet (11). You see Tomato (2), Sink (1), SinkBasin (1), Faucet (1), DishSponge (1), CounterTop (2), Cabinet (8, 9, 11, 17), ButterKnife (2), Apple (2). Cabinet (11) is closed. 
+Act: open Cabinet (11)
+You open Cabinet (11). You see Tomato (2), SprayBottle (1), Sink (1), SinkBasin (1), Drawer (1), DishSponge (1), CounterTop (2), Cabinet (8, 9, 11, 17), ButterKnife (2), Apple (2).
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pan (1), Microwave (1), Drawer (1, 3), CounterTop (2), Cabinet (8, 17). Drawer (1) is closed. 
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: close Drawer (1)
+The Drawer (1) is already closed.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Tomato (2), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Pot (1, 2), Faucet (1), DishSponge (1), CounterTop (2), Cabinet (9, 11, 16), Apple (2). Cabinet (9) is closed. 
+Act: open Cabinet (9)
+You open Cabinet (9). You see Tomato (2), StoveBurner (2, 4), SprayBottle (1), Sink (1), SinkBasin (1), SaltShaker (1), DishSponge (1), CounterTop (2), Cabinet (5, 9, 11, 16), Apple (2).
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Tomato (1), Toaster (1), Spoon (2), SoapBottle (1), SaltShaker (3), Potato (2), Knife (1), Drawer (2, 4, 5, 6), CounterTop (1), Cabinet (1, 5, 14, 16). Cabinet (5) is closed. 
+Act: open Cabinet (5)
+You open Cabinet (5). You see SoapBottle (1), GarbageCan (1), Drawer (2, 4, 5, 6), CounterTop (1), Cabinet (1, 5, 9, 14, 16).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Spoon (2), SoapBottle (1), SaltShaker (3), Potato (2), PepperShaker (2), Knife (1), Fork (1, 3), Drawer (2, 5), CounterTop (1), CoffeeMachine (1), Cabinet (5, 16), Bread (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+The Drawer (2) is open failed.
+Act: close Drawer (2)
+The Drawer (2) is already closed.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Toaster (1), SprayBottle (2), GarbageCan (1), Drawer (4, 6), CounterTop (1), Cabinet (1, 5, 14). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see SprayBottle (2), GarbageCan (1), Fridge (1), Drawer (4, 6), DishSponge (2), CounterTop (1), Cabinet (1, 5, 14).
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Tomato (1), Toaster (1), SaltShaker (3), Potato (2), Knife (1), Drawer (4, 5, 6), CounterTop (1), Cabinet (1, 5, 14, 16). Drawer (4) is closed. 
+Act: open Drawer (4)
+You open Drawer (4). You see Tomato (1), Toaster (1), Spoon (2), SaltShaker (3), Potato (2), Knife (1), Drawer (4, 5, 6), DishSponge (2), CounterTop (1), Cabinet (1, 5, 16).
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see WineBottle (1), Tomato (1), Toaster (1), Spoon (2), SoapBottle (1), SaltShaker (3), Potato (2), Knife (1), Drawer (2, 4, 5), CounterTop (1), Cabinet (5, 14, 16), Bread (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+You open Drawer (5). You see Tomato (1), Toaster (1), Spoon (2), SoapBottle (1), SaltShaker (3), Potato (2), Knife (1), Drawer (2, 4, 5, 6), CounterTop (1), Cabinet (1, 5, 14, 16), Bread (1).
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Tomato (1, 1), Toaster (1, 1), SprayBottle (2), Spoon (2), SoapBottle (1), SaltShaker (3, 3), Potato (2), Knife (1, 1), GarbageCan (1), Drawer (2, 4, 4, 5, 6, 6), CounterTop (1, 1), Cabinet (1, 1, 5, 5, 14, 14, 16), Bread (1). Drawer (6) is closed. 
+Act: open Drawer (6)
+You open Drawer (6). You see Tomato (1), Toaster (1), SprayBottle (2), Knife (1), GarbageCan (1), Drawer (4, 5, 6), CounterTop (1), Cabinet (1, 5, 14).
+Act: go to Cabinet (14)
+You arrive at Cabinet (14). You see Tomato (1), Spoon (2), SoapBottle (1), Knife (1), Drawer (2, 4, 5, 6), CounterTop (1), Cabinet (1, 5, 9, 14, 16), Bread (1). Cabinet (14) is closed. 
+Act: open Cabinet (14)
+You open Cabinet (14). You see WineBottle (1), Tomato (1), Spoon (2), SoapBottle (1), Knife (1), Drawer (2, 4, 5, 6), CounterTop (1), Cabinet (1, 5, 9, 14, 16), Bread (1).
+Act: go to Cabinet (16)
+You arrive at Cabinet (16). You see StoveBurner (4), Spoon (2), SoapBottle (1), PepperShaker (2), Fork (1, 3), Drawer (2, 5), CounterTop (1), CoffeeMachine (1), Cabinet (5, 16), Bread (1). Cabinet (16) is closed. 
+Act: open Cabinet (16)
+The Cabinet (16) is open failed.
+Act: close Cabinet (16)
+The Cabinet (16) is already closed.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Tomato (2), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), SaltShaker (1), Pot (1, 2), Faucet (1), DishSponge (1), CounterTop (2), Cabinet (9, 11, 16), Apple (2). Cabinet (9) is open. 
+Act: go to Cabinet (11)
+You arrive at Cabinet (11). You see Tomato (2), SprayBottle (1), Sink (1), SinkBasin (1), SaltShaker (1), Faucet (1), DishSponge (1), CounterTop (2), Cabinet (8, 9, 11, 17), ButterKnife (2), Apple (2). Cabinet (11) is open. 
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Microwave (1), Fridge (1), Egg (2), Drawer (1, 3), Cabinet (8, 17). Cabinet (8) is open. 
+Act: go to Cabinet (17)
+You arrive at Cabinet (17). You see Pan (1), Microwave (1), Drawer (1, 3), CounterTop (2), Cabinet (8, 11, 17), ButterKnife (2). Cabinet (17) is closed. 
+Act: open Cabinet (17)
+You open Cabinet (17). You see Pan (1), Microwave (1), Drawer (1, 3), CounterTop (2), Cabinet (8, 11, 17), ButterKnife (2).
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pan (1), Microwave (1), Drawer (1, 3), CounterTop (2), Cabinet (8, 17). Drawer (1) is closed. 
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: close Drawer (1)
+The Drawer (1) is already closed.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17). Drawer (3) is closed. 
+Act: open Drawer (3)
+The Drawer (3) is open failed.
+Act: close Drawer (3)
+The Drawer (3) is already closed.
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Microwave (1), Fridge (1), Egg (2), Drawer (1, 3), Cabinet (8, 17). Cabinet (8) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Glassbottle (3), Fridge (1), Egg (2), Cabinet (8). Fridge (1) is open. 
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Microwave (1), Fridge (1), Egg (2), Drawer (1, 3), Cabinet (8, 17). Cabinet (8) is open. 
+Act: go to Cabinet (17)
+You arrive at Cabinet (17). You see Pan (1), Microwave (1), Drawer (1, 3), CounterTop (2), Cabinet (8, 11, 17), ButterKnife (2). Cabinet (17) is open. 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Pan (1), Microwave (1), Drawer (1), CounterTop (2), ButterKnife (2). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pan (1), Microwave (1), Drawer (1, 3), CounterTop (2), Cabinet (8, 17). Drawer (1) is closed. 
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: close Drawer (1)
+The Drawer (1) is already closed.
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Microwave (1), Fridge (1), Egg (2), Drawer (1, 3), Cabinet (8, 17). Cabinet (8) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Glassbottle (3), Fridge (1), Egg (2), Cabinet (8). Fridge (1) is open. 
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Microwave (1), Fridge (1), Egg (2), Drawer (1, 3), Cabinet (8, 17). Cabinet (8) is open. 
+Act: go to Cabinet (17)
+You arrive at Cabinet (17). You see Pan (1), Microwave (1), Drawer (1, 3), CounterTop (2), Cabinet (8, 11, 17), ButterKnife (2). Cabinet (17) is open. 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Pan (1), Microwave (1), Drawer (1), CounterTop (2), ButterKnife (2). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pan (1), Microwave (1), Drawer (1, 3), CounterTop (2), Cabinet (8, 17). Drawer (1) is closed. 
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: close Drawer (1)
+The Drawer (1) is already closed.
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Microwave (1), Fridge (1), Egg (2), Drawer (1, 3), Cabinet (8, 17). Cabinet (8) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Glassbottle (3), Fridge (1), Egg (2), Cabinet (8). Fridge (1) is open. 
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Microwave (1), Fridge (1), Egg (2), Drawer (1, 3), Cabinet (8, 17). Cabinet (8) is open. 
+Act: go to Cabinet (17)
+You arrive at Cabinet (17). You see Pan (1), Microwave (1), Drawer (1, 3), CounterTop (2), Cabinet (8, 11, 17), ButterKnife (2). Cabinet (17) is open. 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Pan (1), Microwave (1), Drawer (1), CounterTop (2), ButterKnife (2). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pan (1), Microwave (1), Drawer (1, 3), CounterTop (2), Cabinet (8, 17). Drawer (1) is closed. 
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: close Drawer (1)
+The Drawer (1) is already closed.
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Microwave (1), Fridge (1), Egg (2), Drawer (1, 3), Cabinet (8, 17). Cabinet (8) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Glassbottle (3), Fridge (1), Egg (2), Cabinet (8). Fridge (1) is open. 
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Microwave (1), Fridge (1), Egg (2), Drawer (1, 3), Cabinet (8, 17). Cabinet (8) is open. 
+Act: go to Cabinet (17)
+You arrive at Cabinet (17). You see Pan (1), Microwave (1), Drawer (1, 3), CounterTop (2), Cabinet (8, 11, 17), ButterKnife (2). Cabinet (17) is open. 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Pan (1), Microwave (1), Drawer (1), CounterTop (2), ButterKnife (2). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pan (1), Microwave (1), Drawer (1, 3), CounterTop (2), Cabinet (8, 17). Drawer (1) is closed. 
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: close Drawer (1)
+The Drawer (1) is already closed.
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Microwave (1), Fridge (1), Egg (2), Drawer (1, 3), Cabinet (8, 17). Cabinet (8) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Glassbottle (3), Fridge (1), Egg (2), Cabinet (8). Fridge (1) is open. 
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Microwave (1), Fridge (1), Egg (2), Drawer (1, 3), Cabinet (8, 17). Cabinet (8) is open. 
+Act: go to Cabinet (17)
+You arrive at Cabinet (17). You see Pan (1), Microwave (1), Drawer (1, 3), CounterTop (2), Cabinet (8, 11, 17), ButterKnife (2). Cabinet (17) is open. 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Pan (1), Microwave (1), Drawer (1), CounterTop (2), ButterKnife (2). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pan (1), Microwave (1), Drawer (1, 3), CounterTop (2), Cabinet (8, 17). Drawer (1) is closed. 
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: close Drawer (1)
+The Drawer (1) is already closed.
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Microwave (1), Fridge (1), Egg (2), Drawer (1, 3), Cabinet (8, 17). Cabinet (8) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Glassbottle (3), Fridge (1), Egg (2), Cabinet (8). Fridge (1) is open. 
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Microwave (1), Fridge (1), Egg (2), Drawer (1, 3), Cabinet (8, 17). Cabinet (8) is open. 
+Act: go to Cabinet (17)
+You arrive at Cabinet (17). You see Pan (1), Microwave (1), Drawer (1, 3), CounterTop (2), Cabinet (8, 11, 17), ButterKnife (2). Cabinet (17) is open. 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Pan (1), Microwave (1), Drawer (1), CounterTop (2), ButterKnife (2). 
+Max decisions

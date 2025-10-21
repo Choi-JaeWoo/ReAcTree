@@ -1,0 +1,37 @@
+Your task is to: put a spatula and bowl on kitchen counter top
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20).
+Think: To solve the task, I need to find and pick up the spatula. And I need to find and pick up the bowl. And I need to put down the spatula and bowl on the counter.
+OK.
+Think: First, I need to recall location of the spatula.
+OK.
+Act: recall location of Spatula
+You have not seen Spatula before.
+Think: Now I need to find the spatula. The spatula is more likely to appear on DiningTable (1-2), CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-20), Drawer (1-6). I can check each place one by one, starting from DiningTable (1), until I find the spatula.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Window (2), Tomato (2), Spatula (4), SoapBottle (2), SaltShaker (1), PepperShaker (1), Knife (2, 3), Glassbottle (1), DiningTable (1), Chair (1). 
+Think: I find Spatula (4). Now, I need to pick it up.
+OK.
+Act: pick up Spatula (4)
+You pick up Spatula (4). You see WineBottle (2), Window (2), Tomato (2), Spatula (4), SoapBottle (2), SaltShaker (1), PepperShaker (1), Knife (2, 3), Glassbottle (1), DiningTable (1), Chair (1). I am holding Spatula (4) now.
+Think: I hold Spatula (4). Now, I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: Now I need to find the bowl. The bowl is more likely to appear on DiningTable (1-2), CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-20), Drawer (1-6). I can check each place one by one, starting from DiningTable (1), until I find the bowl.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Window (2), Tomato (2), Spatula (4), SoapBottle (2), SaltShaker (1), PepperShaker (1), Knife (2, 3), Glassbottle (1), DiningTable (1), Chair (1).  I am holding Spatula (4) now.
+Think: I find Bowl (1). Now, I need to pick it up.
+OK.
+Act: pick up Spatula (4)
+You are currently holding Spatula (4). I am holding Spatula (4) now.
+Think: I hold Spatula (4). Now, I need to put down the spatula and bowl on the counter.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1, 4), Plate (3), PepperShaker (2), Glassbottle (2), Drawer (2, 5), CounterTop (1), Cabinet (5, 16), ButterKnife (1), Bread (2), Apple (2, 3).  I am holding Spatula (4) now.
+Act: put down Spatula (4)
+You put Spatula (4) on CounterTop (1). You see Spatula (1, 4), Plate (3), PepperShaker (2), Glassbottle (2), Drawer (2, 5), CounterTop (1), Cabinet (5, 16), ButterKnife (1), Bread (2), Apple (2, 3).
+Think: Now I accomplish the goal.
+OK.
+Act: done

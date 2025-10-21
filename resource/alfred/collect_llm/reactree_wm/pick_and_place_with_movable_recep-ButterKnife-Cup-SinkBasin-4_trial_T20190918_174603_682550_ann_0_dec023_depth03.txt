@@ -1,0 +1,13 @@
+Your primary goal is to: put a knife in the cup and put both in the sink
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, place knife in cup, find and pick up cup, and place cup in sink basin.
+Your task is to: place cup in sink basin
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2). I am holding Cup (1) now.
+Think: I hold Cup (1). Now, I need to put it in the sink basin. I can see SinkBasin (1).
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Sink (1), SinkBasin (1), Plate (1), Ladle (3), Knife (1, 3), Faucet (1), Egg (1, 2), Drawer (3), Cup (1), CounterTop (1, 3), Cabinet (1, 2), Apple (3).  I am holding Cup (1) now.
+Act: put down Cup (1)
+You put Cup (1) on SinkBasin (1). You see Window (2), Sink (1), SinkBasin (1), Plate (1), Ladle (3), Knife (1, 3), Faucet (1), Egg (1, 2), Drawer (3), Cup (1), CounterTop (1, 3), Cabinet (1, 2), Apple (3).
+Think: Now I accomplish the goal.
+OK.
+Act: done

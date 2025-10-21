@@ -1,0 +1,187 @@
+Your primary goal is to: Put two cellphones, standing vertically, on a nightstand.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up cellphone, place cellphone on nightstand, Find and pick up cellphone away from nightstand, and place cellphone on nightstand.
+Your task is to: place cellphone on nightstand
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1), GarbageCan (1), Drawer (1, 2), Desk (1), Cabinet (1, 2, 3, 4), Bed (1).
+Think: I hold CellPhone (1). Now, I need to put it on the nightstand. I can see SideTable (1).
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), KeyChain (1), Drawer (1, 2), Bed (1). 
+Max decisions

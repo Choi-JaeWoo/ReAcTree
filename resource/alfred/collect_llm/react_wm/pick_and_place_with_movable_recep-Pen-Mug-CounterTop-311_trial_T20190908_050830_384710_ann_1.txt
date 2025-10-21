@@ -1,0 +1,41 @@
+Your task is to: Store the pencil in a cup and place back on counter.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), LaundryHamper (1), GarbageCan (1), Dresser (1), Drawer (1, 2), DiningTable (1), CounterTop (1), Bed (1), ArmChair (1, 2).
+Think: To solve the task, I need to find and pick up the pencil, then put it in the cup. And I need to pick up the cup from the counter, then put it on the counter.
+OK.
+Think: First, I need to recall location of the pencil.
+OK.
+Act: recall location of Pencil
+You have not seen Pencil before.
+Think: Now I need to find the pencil. The pencil is more likely to appear on CounterTop (1), or in Drawer (1-2), Dresser (1). I can check each place one by one, starting from CounterTop (1), until I find the pencil.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Mirror (1), Laptop (1), GarbageCan (1), CounterTop (1), Bowl (1, 2), AlarmClock (2). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Television (1), Pencil (1), Mug (1), Dresser (1), Drawer (1, 2). Drawer (1) is closed. 
+Think: I find Pencil (1). Now, I need to pick it up.
+OK.
+Act: open Drawer (1)
+You open Drawer (1). You see Television (1), Pencil (1), Mug (1), Dresser (1), Drawer (1).
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see Television (1), Pencil (1), Mug (1), Dresser (1), Drawer (1). I am holding Pencil (1) now.
+Think: I hold Pencil (1). Now, I need to put it in the cup.
+OK.
+Act: go to Mug (1)
+You arrive at Mug (1). You see Television (1), Pencil (1), Mug (1), Dresser (1), Drawer (1).  I am holding Pencil (1) now.
+Act: put down Pencil (1)
+You put down failed, drop it. You see Television (1), Mug (1), Dresser (1), Drawer (1).
+Think: I put Pencil (1) in Mug (1). Now, I need to pick up the cup from the counter.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Mirror (1), Laptop (1), GarbageCan (1), CounterTop (1), Bowl (1, 2), AlarmClock (2). 
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Mirror (1), Laptop (1), GarbageCan (1), CounterTop (1), Bowl (1, 2), AlarmClock (2). I am holding Bowl (1) now.
+Think: I pick up Bowl (1) from CounterTop (1). Now, I need to put it on the counter.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Mirror (1), Laptop (1), GarbageCan (1), CounterTop (1), Bowl (1, 2), AlarmClock (2).  I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put Bowl (1) on CounterTop (1). You see Mirror (1), Laptop (1), GarbageCan (1), CounterTop (1), Bowl (1, 2), AlarmClock (2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

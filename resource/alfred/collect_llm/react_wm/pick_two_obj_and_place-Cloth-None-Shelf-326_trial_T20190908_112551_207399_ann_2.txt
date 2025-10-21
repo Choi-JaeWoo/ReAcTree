@@ -1,0 +1,73 @@
+Your task is to: Move two cloths to the shelf.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14), GarbageCan (1), Drawer (1, 2), DiningTable (1), Bed (1, 2).
+Think: To solve the task, I need to find and pick up the cloths, then put it on the shelf. And I need to find and pick up another cloths, then put it on the shelf.
+OK.
+Think: First, I need to recall location of the cloth.
+OK.
+Act: recall location of Cloth
+You have not seen Cloth before.
+Think: Now I need to find the cloth. The cloth is more likely to appear on SideTable (1), DiningTable (1), Bed (1-2), or in Drawer (1-2), Shelf (1-14). I can check each place one by one, starting from SideTable (1), until I find the cloth.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Watch (1), SideTable (1), KeyChain (1), Drawer (1, 2), CD (2), Bed (1, 2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Shelf (9), Lamp (1), DiningTable (1), Chair (2), Bowl (3). 
+Act: go to Bed (1)
+You arrive at Bed (1). You see Pillow (2), Laptop (1, 3), Drawer (1), Book (2), Bed (1). 
+Act: go to Bed (2)
+You arrive at Bed (2). You see TeddyBear (1), Pillow (1), Laptop (2), Drawer (1), CellPhone (1), Book (1), Bed (2). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Watch (1), SideTable (1), KeyChain (1), Drawer (1, 2), CD (2), Bed (1, 2). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Watch (1), SideTable (1), KeyChain (1), Drawer (1, 2), CD (1, 2), Bed (1, 2).
+Act: close Drawer (1)
+You close Drawer (1). You see Watch (1), SideTable (1), KeyChain (1), Drawer (1, 2), CD (2), Bed (1, 2).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1), SideTable (1), KeyChain (1), Drawer (1, 2), CD (2), Bed (1, 2). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see Watch (1), SideTable (1), KeyChain (1), Drawer (2), CD (2), Bed (1, 2).
+Act: close Drawer (2)
+You close Drawer (2). You see Watch (1), SideTable (1), KeyChain (1), Drawer (1, 2), CD (2), Bed (1, 2).
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TennisRacket (1), Shelf (1, 7), BaseballBat (1). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Shelf (2, 10), Pencil (1), Mug (3). 
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Shelf (2, 3, 10, 12), Pencil (1), Laptop (2), Bed (2). 
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see Shelf (4), Lamp (1), DiningTable (1), Chair (1, 2), Bowl (2). 
+Act: go to Shelf (5)
+You arrive at Shelf (5). You see Shelf (5, 13), Mug (2), Cloth (1), AlarmClock (1). 
+Think: I find Cloth (1). Now, I need to pick it up.
+OK.
+Act: pick up Cloth (1)
+You pick up Cloth (1). You see Shelf (5, 13), Mug (2), Cloth (1), AlarmClock (1). I am holding Cloth (1) now.
+Think: I hold Cloth (1). Now, I need to put it on the shelf.
+OK.
+Act: go to Shelf (6)
+You arrive at Shelf (6). You see Shelf (6, 8), Cloth (1).  I am holding Cloth (1) now.
+Act: put down Cloth (1)
+You put Cloth (1) on Shelf (6). You see Shelf (6, 8), Cloth (1), CellPhone (3).
+Think: I put Cloth (1) on the Shelf (6). Now, I need to recall location of Cloth.
+OK.
+Act: recall location of Cloth
+You saw Cloth (1) near Shelf (6).
+Think: Cloth (1) is on Shelf (6). Now, I need to find another cloth. The cloth is more likely to appear on Shelf (7-14). I can check each place one by one, starting from Shelf (7), until I find the cloth.
+OK.
+Act: go to Shelf (7)
+You arrive at Shelf (7). You see Shelf (1, 7). 
+Act: go to Shelf (8)
+You arrive at Shelf (8). You see Shelf (6, 8), Cloth (1, 2), CellPhone (3). 
+Think: I find Cloth (2). Now, I need to pick it up.
+OK.
+Act: pick up Cloth (2)
+You pick up Cloth (2). You see Shelf (6, 8), Cloth (1, 2), CellPhone (3). I am holding Cloth (2) now.
+Think: I hold Cloth (2). Now, I need to put it on the shelf.
+OK.
+Act: go to Shelf (9)
+You arrive at Shelf (9). You see DiningTable (1), Cloth (2), Chair (2), CellPhone (2), Bowl (1, 3).  I am holding Cloth (2) now.
+Act: put down Cloth (2)
+You put down failed, drop it. You see DiningTable (1), Cloth (2), Chair (2), CellPhone (2), Bowl (1, 3).
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,19 @@
+Your primary goal is to: Move two pens to a small dresser.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pen, place pen on dresser, Find and pick up pen away from dresser, and place pen on dresser.
+Your task is to: Find and pick up pen away from dresser
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1, 2), Shelf (1, 2), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16), Bed (1), ArmChair (1).
+Think: First, I need to recall location of the pen.
+OK.
+Act: recall location of Pen
+You saw Pen (1) near Dresser (1).
+Think: Now, I need to find the pen. The pen is more likely to appear on Dresser (1), SideTable (1-2), or in Drawer (1-16). I can check each place one by one, starting from Dresser (1), until I find the pen.
+OK.
+Act: go to Dresser (1)
+You arrive at Dresser (1). You see Pen (1), Mirror (1), Dresser (1), Drawer (4, 5, 6, 7, 9, 10, 11, 14, 15, 16), AlarmClock (3). 
+Think: I find Pen (1). Now, I need to pick it up.
+OK.
+Act: pick up Pen (1)
+You pick up Pen (1). You see Pen (1), Mirror (1), Dresser (1), Drawer (4, 5, 6, 7, 9, 10, 11, 14, 15, 16), AlarmClock (3). I am holding Pen (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,7 @@
+Your task is to: Put a soap dispenser on the toilet.
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), Sink (1), SinkBasin (1), HandTowelHolder (1), GarbageCan (1), CounterTop (1), Cabinet (1, 2), Bathtub (1), BathtubBasin (1).
+Think: Since I’m not holding soap dispenser, I need to accomplish 2 subgoals sequentially to solve the task. Find and pick up soap dispenser and place soap dispenser on toilet.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up soap dispenser, place soap dispenser on toilet

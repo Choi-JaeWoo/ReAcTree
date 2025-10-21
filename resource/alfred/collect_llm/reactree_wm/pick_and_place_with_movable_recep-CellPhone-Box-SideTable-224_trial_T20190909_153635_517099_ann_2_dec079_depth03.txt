@@ -1,0 +1,15 @@
+Your primary goal is to: Place a cardboard box containing a smartphone on the cabinet.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up cardboard box, and place cardboard box on cabinet.
+Your task is to: place cardboard box on cabinet
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2, 3, 4, 5), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21), Cabinet (1), ArmChair (1). I am holding Statue (1) now.
+Think: I hold Statue (1). Now, I need to put it on the cabinet. I can see Cabinet (1).
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Window (2), Statue (1), SideTable (3), HousePlant (1), Chair (1), Cabinet (1). Cabinet (1) is closed.  I am holding Statue (1) now.
+Act: open Cabinet (1)
+You open Cabinet (1). You see Window (2), Statue (1), SideTable (3), HousePlant (1), Chair (1), Cabinet (1). I am holding Statue (1) now.
+Act: put down Statue (1)
+You put down failed, drop it. You see Window (2), Statue (1), SideTable (3), HousePlant (1), Chair (1), Cabinet (1).
+Think: I failed to put down Statue (1).
+OK.
+Act: failure

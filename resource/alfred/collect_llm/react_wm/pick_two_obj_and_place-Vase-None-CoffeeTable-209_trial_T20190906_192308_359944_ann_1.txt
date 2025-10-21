@@ -1,0 +1,35 @@
+Your task is to: Move two items from a counter table to a center table.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), CoffeeTable (1), ArmChair (1).
+Think: To solve the task, I need to find and pick up two items, then put them on the center table.
+OK.
+Think: First, I need to recall location of the items.
+OK.
+Act: recall location of Mug
+You have not seen Mug before.
+Act: recall location of Vase
+You have not seen Vase before.
+Think: Now I need to find the items. The items are more likely to appear on Sofa (1), SideTable (1-2), or in Dresser (1), Drawer (1-4). I can check each place one by one, starting from Sofa (1), until I find the items.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1), Newspaper (1), CreditCard (2). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (2), Statue (1), SideTable (1), Pen (2), Dresser (1), Drawer (1, 2). 
+Think: I find Vase (2). Now, I need to pick it up.
+OK.
+Act: pick up Vase (2)
+You pick up Vase (2). You see Vase (2), Statue (1), SideTable (1), Pen (2), Dresser (1), Drawer (1, 2). I am holding Vase (2) now.
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Vase (2), SideTable (2), HousePlant (1), FloorLamp (1), Dresser (1), Drawer (4).  I am holding Vase (2) now.
+Think: I find Vase (2). Now, I need to pick it up.
+OK.
+Act: pick up Vase (2)
+You are currently holding Vase (2). I am holding Vase (2) now.
+Think: I hold Vase (2). Now, I need to put it on the center table.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), RemoteControl (1, 3), Laptop (2), CoffeeTable (1), Box (1), Book (1).  I am holding Vase (2) now.
+Act: put down Vase (2)
+You put Vase (2) on CoffeeTable (1). You see Vase (2), RemoteControl (1, 3), Laptop (2), CoffeeTable (1), Box (1), Book (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

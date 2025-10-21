@@ -1,0 +1,23 @@
+Your primary goal is to: Put a plate with a spoon on it on the kitchen table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up plate, place plate on table, find and pick up spoon, and place spoon on plate near table.
+Your task is to: place spoon on plate near table
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11). I am holding Spoon (3) now.
+Think: I hold Spoon (3). Now, I need to recall location of the plate.
+OK.
+Act: recall location of Plate
+You saw Plate (1) near Cabinet (9).
+Think: I can find Plate (1) near Cabinet (9).
+OK.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see StoveBurner (3), Spoon (3), SoapBottle (1), Drawer (3), CounterTop (2), Cabinet (6, 7). Cabinet (9) is closed.  I am holding Spoon (3) now.
+Act: open Cabinet (9)
+You open Cabinet (9). You see Spoon (3), Plate (1), Drawer (3), CounterTop (2), Cabinet (4, 6, 7, 9). I am holding Spoon (3) now.
+Think: I find Plate (1). Now, I need to put down Spoon (3) on Plate (1).
+OK.
+Act: go to Plate (1)
+You arrive at Plate (1). You see StoveBurner (3), Spoon (3), SoapBottle (1), Drawer (1, 3), CounterTop (2), CoffeeMachine (1), Cabinet (6, 7, 9), Bread (1).  I am holding Spoon (3) now.
+Act: put down Spoon (3)
+You put down failed, drop it. You see StoveBurner (3), SoapBottle (1), Drawer (1, 3), CounterTop (2), CoffeeMachine (1), Cabinet (6, 7, 9), Bread (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

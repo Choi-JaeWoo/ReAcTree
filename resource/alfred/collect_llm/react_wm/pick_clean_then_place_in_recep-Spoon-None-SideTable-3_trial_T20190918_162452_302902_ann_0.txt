@@ -1,0 +1,51 @@
+Your task is to: Was the spoon and put it next to the microwave.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: To solve the task, I need to find and pick up the spoon, then put it in the sink basin. And I need to pick up the spoon from the sink basin, then put it next to the microwave.
+OK.
+Think: First, I need to recall location of the spoon.
+OK.
+Act: recall location of Spoon
+You have not seen Spoon before.
+Think: Now I need to find the spoon. The spoon is more likely to appear on CounterTop (1), SinkBasin (1), SideTable (1), or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the spoon.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see SaltShaker (2), Plate (2), Pan (1), Lettuce (2), Knife (1), CounterTop (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), SaltShaker (1), PepperShaker (2), Microwave (1), Fridge (1), Egg (2). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Drawer (1). Fridge (1) is closed. 
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see SideTable (1), SaltShaker (1), PepperShaker (2), Microwave (1), Fridge (1), Egg (2). Microwave (1) is closed. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Pan (3), CounterTop (1), CoffeeMachine (1), Chair (1), Cabinet (1). Cabinet (1) is closed. 
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see WineBottle (1), Plate (2), Pan (1), Lettuce (2), GarbageCan (1), CounterTop (1), Cabinet (2, 4). Cabinet (2) is closed. 
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see Toaster (1), Drawer (2), DishSponge (1), CounterTop (1), Cabinet (3), Bread (1). Cabinet (3) is closed. 
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see Spoon (1), SaltShaker (2), Pot (1), Knife (1), Drawer (4), CounterTop (1), Cabinet (2, 4). Cabinet (4) is closed. 
+Think: I find Spoon (1). Now, I need to pick it up.
+OK.
+Act: pick up Spoon (1)
+You pick up Spoon (1). You see Spoon (1), SaltShaker (2), Pot (1), Knife (1), Drawer (4), CounterTop (1), Cabinet (2, 4). I am holding Spoon (1) now.
+Think: I hold Spoon (1). Now, I need to put it in the sink basin.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Spoon (1), Sink (1), SinkBasin (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1).  I am holding Spoon (1) now.
+Act: put down Spoon (1)
+You put Spoon (1) on SinkBasin (1). You see Spoon (1), Sink (1), SinkBasin (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1).
+Think: I put Spoon (1) in the SinkBasin (1). Now, I need to pick up the spoon from the sink basin.
+OK.
+Act: pick up Spoon (1)
+You pick up Spoon (1). You see Spoon (1), Sink (1), SinkBasin (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1). I am holding Spoon (1) now.
+Think: I pick up Spoon (1) from SinkBasin (1). Now, I need to put it next to the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Spoon (1), SideTable (1), SaltShaker (1), PepperShaker (2), Microwave (1), Fridge (1), Egg (2). Microwave (1) is closed.  I am holding Spoon (1) now.
+Act: put down Spoon (1)
+You put down failed, drop it. You see Spoon (1), SideTable (1), SaltShaker (1), PepperShaker (2), Microwave (1), Fridge (1), Egg (2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

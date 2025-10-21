@@ -1,0 +1,23 @@
+Your primary goal is to: Place two credit cards on a desk.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up credit card, place credit card on desk, Find and pick up credit card away from desk, and place credit card on desk.
+Your task is to: Find and pick up credit card away from desk
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), Bed (1).
+Think: First, I need to recall location of the credit card.
+OK.
+Act: recall location of CreditCard
+You saw CreditCard (2) near Desk (1). You saw CreditCard (3) near SideTable (1). You saw CreditCard (4) near SideTable (1).
+Think: Now I need to find the credit card. The credit card is more likely to appear on Bed (1), Desk (1), SideTable (1), Shelf (1-2), or in Drawer (1-6). I can check each place one by one, starting from Bed (1), until I find the credit card.
+OK.
+Act: go to Bed (1)
+You arrive at Bed (1). You see TeddyBear (1), Pillow (1), Book (1), Bed (1). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see TissueBox (1, 2), Mug (1), Laptop (1), Lamp (1), KeyChain (2), Drawer (1, 2, 3, 4, 5, 6), Desk (1), CreditCard (2), Chair (1), CellPhone (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Shelf (2), Pencil (1), CreditCard (3, 4), Chair (1), CD (1), AlarmClock (2). 
+Think: I find CreditCard (3). Now, I need to pick it up.
+OK.
+Act: pick up CreditCard (3)
+You pick up CreditCard (3). You see SideTable (1), Shelf (2), Pencil (1), CreditCard (3, 4), Chair (1), CD (1), AlarmClock (2). I am holding CreditCard (3) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

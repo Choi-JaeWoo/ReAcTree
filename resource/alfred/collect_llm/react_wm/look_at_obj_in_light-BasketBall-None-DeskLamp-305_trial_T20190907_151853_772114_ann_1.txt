@@ -1,0 +1,114 @@
+Your task is to: Turn on the lamp while holding a basketball. 
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1), LaundryHamper (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5), Desk (1), Bed (1).
+Think: To solve the task, I need to find and pick up the basketball. And I need to find and turn on the desk lamp.
+OK.
+Think: First, I need to recall location of the basketball.
+OK.
+Act: recall location of BasketBall
+You have not seen BasketBall before.
+Think: Now I need to find the basketball. The basketball is more likely to appear on Bed (1), Desk (1), Shelf (1), or in Drawer (1-5). I can check each place one by one, starting from Bed (1), until I find the basketball.
+OK.
+Act: go to Bed (1)
+You arrive at Bed (1). You see Pillow (1), Laptop (1), Bed (1). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1, 2), GarbageCan (1), Drawer (2, 3), Desk (1), Chair (1), CD (2), Bowl (1), Book (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pen (1), Mug (1, 2), KeyChain (2), Desk (1), CreditCard (1), CD (1, 2), Bowl (1, 2), Book (1). 
+Think: I find BasketBall (1). Now, I need to pick it up.
+OK.
+Act: pick up Book (1)
+You pick up Book (1). You see Shelf (1), Mug (1), KeyChain (2), Desk (1), CreditCard (1), CD (1), Bowl (1, 2), Book (1). I am holding Book (1) now.
+Think: I hold Book (1). Now, I need to recall location of the desk lamp.
+OK.
+Act: recall location of DeskLamp
+You have not seen DeskLamp before.
+Think: Now I need to find the desk lamp The desk lamp is more likely to appear on Desk (1), Shelf (1). I can check each place one by one, starting from Desk (1), until I find the desk lamp.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pencil (1), Pen (1), Mug (1, 2), GarbageCan (1), Drawer (2, 3), Desk (1), Chair (1), CD (2), Bowl (1), Book (1).  I am holding Book (1) now.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Mug (1), KeyChain (2), Desk (1), CreditCard (1), CD (1), Bowl (1, 2), Book (1).  I am holding Book (1) now.
+Think: I find DeskLamp (1). Now, I need to turn it on.
+OK.
+Act: put down Book (1)
+You put down failed, drop it. You see Shelf (1), Pencil (1), Mug (1), KeyChain (2), Desk (1), CreditCard (1), CD (1), Bowl (1, 2), Book (1).
+Act: pick up Book (1)
+You pick up Book (1). You see Shelf (1), Mug (1), KeyChain (2), Desk (1), CreditCard (1), CD (1), Bowl (1, 2), Book (1). I am holding Book (1) now.
+Act: put down Book (1)
+You put down failed, drop it. You see Shelf (1), Pencil (1), Pen (1), Mug (1, 2), KeyChain (2), Desk (1), CreditCard (1), CD (1, 2), Bowl (1, 2).
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Shelf (1), Pencil (1), Pen (1), Mug (1, 2), KeyChain (2), Desk (1), CreditCard (1), CD (1, 2), Bowl (1, 2). I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put down failed, drop it. You see Shelf (1), Pencil (1), Pen (1), Mug (1, 2), KeyChain (2), Desk (1), CreditCard (1), CD (1, 2), Bowl (2).
+Act: pick up Bowl (2)
+You pick up Bowl (2). You see Shelf (1), Pencil (1), Pen (1), Mug (1, 2), KeyChain (2), Desk (1), CreditCard (1), CD (1, 2), Bowl (2). I am holding Bowl (2) now.
+Act: put down Bowl (2)
+You put down failed, drop it. You see Shelf (1), Pencil (1), Pen (1), Mug (1, 2), KeyChain (2), Desk (1), CreditCard (1), CD (1, 2).
+Act: pick up CD (1)
+You pick up CD (1). You see Shelf (1), Pencil (1), Pen (1), Mug (1, 2), KeyChain (2), Desk (1), CreditCard (1), CD (1, 2). I am holding CD (1) now.
+Act: put down CD (1)
+You put down failed, drop it. You see Shelf (1), Pencil (1), Pen (1), Mug (1, 2), KeyChain (2), Desk (1), CreditCard (1), CD (2).
+Act: pick up CD (2)
+You pick up CD (2). You see Shelf (1), Pencil (1), Pen (1), Mug (1, 2), KeyChain (2), Desk (1), CreditCard (1), CD (2). I am holding CD (2) now.
+Act: put down CD (2)
+You put down failed, drop it. You see Shelf (1), Pencil (1), Pen (1), Mug (1, 2), KeyChain (2), Desk (1), CreditCard (1).
+Act: pick up CreditCard (1)
+You pick up CreditCard (1). You see Shelf (1), Pencil (1), Pen (1), Mug (1, 2), KeyChain (2), Desk (1), CreditCard (1). I am holding CreditCard (1) now.
+Act: put down CreditCard (1)
+You put down failed, drop it. You see Shelf (1), Pencil (1), Pen (1), Mug (1, 2), KeyChain (2), Desk (1).
+Act: pick up KeyChain (2)
+You pick up KeyChain (2). You see Shelf (1), Pencil (1), Pen (1), Mug (1, 2), KeyChain (2), Desk (1). I am holding KeyChain (2) now.
+Act: put down KeyChain (2)
+You put down failed, drop it. You see Shelf (1), Pencil (1), Pen (1), Mug (1, 2), Desk (1).
+Act: pick up Mug (1)
+You pick up Mug (1). You see Shelf (1), Pencil (1), Pen (1), Mug (1), Desk (1). I am holding Mug (1) now.
+Act: put down Mug (1)
+You put down failed, drop it. You see Shelf (1), Pencil (1), Pen (1), Mug (2), Desk (1).
+Act: pick up Mug (2)
+You pick up Mug (2). You see Shelf (1), Pencil (1), Pen (1), Mug (2), Desk (1). I am holding Mug (2) now.
+Act: put down Mug (2)
+You put down failed, drop it. You see Shelf (1), Pencil (1), Pen (1), Desk (1).
+Act: pick up Pen (1)
+You pick up Pen (1). You see Shelf (1), Pencil (1), Pen (1), Desk (1). I am holding Pen (1) now.
+Act: put down Pen (1)
+You put down failed, drop it. You see Shelf (1), Pencil (1), Desk (1).
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see Shelf (1), Pencil (1), Desk (1). I am holding Pencil (1) now.
+Act: put down Pencil (1)
+You put down failed, drop it. You see Shelf (1), Desk (1).
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pencil (1), Mug (1, 2), KeyChain (2), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1), Chair (1), CD (1, 2), Bowl (1, 2), Book (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pencil (1), Mug (1, 2), KeyChain (2), GarbageCan (1), Drawer (2, 3), Desk (1, 1), CreditCard (1), Chair (1), CD (1, 2), Bowl (1, 2), Book (1). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pencil (1), Mug (1, 2), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1), Chair (1), CD (1, 2), Bowl (1, 2), Book (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pencil (1), Mug (1, 2), GarbageCan (1), Drawer (2, 3), Desk (1, 1), CreditCard (1), Chair (1), CD (1, 2), Bowl (1, 2), Book (1). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pencil (1), Mug (1, 2), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1), Chair (1), CD (1, 2), Bowl (1, 2), Book (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pencil (1), Mug (1, 2), GarbageCan (1), Drawer (2, 3), Desk (1, 1), CreditCard (1), Chair (1), CD (1, 2), Bowl (1, 2), Book (1). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pencil (1), Mug (1, 2), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1), Chair (1), CD (1, 2), Bowl (1, 2), Book (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pencil (1), Mug (1, 2), GarbageCan (1), Drawer (2, 3), Desk (1, 1), CreditCard (1), Chair (1), CD (1, 2), Bowl (1, 2), Book (1). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pencil (1), Mug (1, 2), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1), Chair (1), CD (1, 2), Bowl (1, 2), Book (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pencil (1), Mug (1, 2), GarbageCan (1), Drawer (2, 3), Desk (1, 1), CreditCard (1), Chair (1), CD (1, 2), Bowl (1, 2), Book (1). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pencil (1), Mug (1, 2), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1), Chair (1), CD (1, 2), Bowl (1, 2), Book (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pencil (1), Mug (1, 2), GarbageCan (1), Drawer (2, 3), Desk (1, 1), CreditCard (1), Chair (1), CD (1, 2), Bowl (1, 2), Book (1). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pencil (1), Mug (1, 2), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1), Chair (1), CD (1, 2), Bowl (1, 2), Book (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pencil (1), Mug (1, 2), GarbageCan (1), Drawer (2, 3), Desk (1, 1), CreditCard (1), Chair (1), CD (1, 2), Bowl (1, 2), Book (1). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pencil (1), Mug (1, 2), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1), Chair (1), CD (1, 2), Bowl (1, 2), Book (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pencil (1), Mug (1, 2), GarbageCan (1), Drawer (2, 3), Desk (1, 1), CreditCard (1), Chair (1), CD (1, 2), Bowl (1, 2), Book (1). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pencil (1), Mug (1, 2), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1), Chair (1), CD (1, 2), Bowl (1, 2), Book (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pencil (1), Mug (1, 2), GarbageCan (1), Drawer (2, 3), Desk (1, 1), CreditCard (1), Chair (1), CD (1, 2), Bowl (1, 2), Book (1). 

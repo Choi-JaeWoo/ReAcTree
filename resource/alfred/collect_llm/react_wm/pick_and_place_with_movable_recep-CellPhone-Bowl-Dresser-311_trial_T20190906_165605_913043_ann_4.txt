@@ -1,0 +1,41 @@
+Your task is to: Put a bowl containing a cell phone on a table. 
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), LaundryHamper (1), GarbageCan (1), Dresser (1), Drawer (1, 2), DiningTable (1), CounterTop (1), Bed (1), ArmChair (1, 2).
+Think: To solve the task, I need to find and pick up the bowl, then put it in the drawer. I need to pick up the bowl from the drawer, then put it on the table.
+OK.
+Think: First, I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: Now I need to find the bowl. The bowl is more likely to appear on DiningTable (1), CounterTop (1), or in Drawer (1-2). I can check each place one by one, starting from DiningTable (1), until I find the bowl.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Pen (1), Laptop (3), Lamp (1), DiningTable (1), Chair (1, 3), Bowl (1, 2), AlarmClock (1, 3). 
+Think: I find Bowl (1). Now, I need to pick it up.
+OK.
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Pen (1), Laptop (3), Lamp (1), DiningTable (1), Chair (1, 3), Bowl (1, 2), AlarmClock (1, 3). I am holding Bowl (1) now.
+Think: I hold Bowl (1). Now, I need to put it in the drawer.
+OK.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Television (1), Mug (1), Dresser (1), Drawer (1, 2), Bowl (1). Drawer (1) is closed.  I am holding Bowl (1) now.
+Act: open Drawer (1)
+You open Drawer (1). You see Television (1), RemoteControl (3), Mug (1), Dresser (1), Drawer (1), Bowl (1). I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put Bowl (1) on Drawer (1). You see Television (1), RemoteControl (3), Mug (1), Dresser (1), Drawer (1), Bowl (1).
+Act: close Drawer (1)
+You close Drawer (1). You see Television (1), Mug (1), Dresser (1), Drawer (1, 2).
+Think: I put Bowl (1) in Drawer (1). Now, I need to pick up the bowl from the drawer.
+OK.
+Act: open Drawer (1)
+You open Drawer (1). You see Television (1), RemoteControl (3), Mug (1), Dresser (1), Drawer (1), Bowl (1).
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Television (1), RemoteControl (3), Mug (1), Dresser (1), Drawer (1), Bowl (1). I am holding Bowl (1) now.
+Think: I pick up Bowl (1) from Drawer (1). Now, I need to put it on the table.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Pen (1), Laptop (3), Lamp (1), DiningTable (1), Chair (1, 3), Bowl (1, 2), AlarmClock (1, 3).  I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put Bowl (1) on DiningTable (1). You see Pen (1), Laptop (3), Lamp (1), DiningTable (1), Chair (1, 3), Bowl (1, 2), AlarmClock (1, 3).
+Think: Now I accomplish the goal.
+OK.
+Act: done

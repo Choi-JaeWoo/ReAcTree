@@ -1,0 +1,25 @@
+Your primary goal is to: Put a CD on a table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up CD, place CD on table, and turn on CD player.
+Your task is to: find and pick up CD
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), LaundryHamper (1), GarbageCan (1), Dresser (1), Drawer (1, 2), DiningTable (1), CounterTop (1), Bed (1), ArmChair (1, 2).
+Think: First, I need to recall location of the CD.
+OK.
+Act: recall location of CD
+You have not seen CD before.
+Think: Now, I need to find the CD. The CD is more likely to appear on SideTable (1), DiningTable (1), CounterTop (1), or in Drawer (1-2). I can check each place one by one, starting from SideTable (1), until I find the CD.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Mug (2), Lamp (2), ArmChair (2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Lamp (1), DiningTable (1), Chair (1, 3), Book (1), AlarmClock (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see RemoteControl (1), Pencil (2, 3), Mirror (1), Laptop (3), GarbageCan (1), CounterTop (1), Bowl (1), Book (3). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Television (1), Mug (1), KeyChain (3), Dresser (1), Drawer (1, 2), CreditCard (1), CellPhone (3), CD (1). Drawer (1) is closed. 
+Think: I find CD (1). Now, I need to pick it up.
+OK.
+Act: pick up CD (1)
+You pick up CD (1). You see Television (1), Mug (1), KeyChain (3), Dresser (1), Drawer (1, 2), CreditCard (1), CellPhone (3), CD (1). I am holding CD (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

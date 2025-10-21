@@ -1,0 +1,13 @@
+Your primary goal is to: place a pan with a knife in it to the right of the sink
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pan, place pan to the right of sink, find and pick up knife, and place knife in pan.
+Your task is to: place pan to the right of sink
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13). I am holding Ladle (3) now.
+Think: I hold Ladle (3). Now, I need to put it to the right of the sink. I can see SinkBasin (1).
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (1), Spoon (1), Sink (1), SinkBasin (1), PepperShaker (2), Mug (1), Lettuce (1), Ladle (3), Fork (1), Faucet (1), Egg (1), Drawer (2), CounterTop (1), Cabinet (2, 3, 7).  I am holding Ladle (3) now.
+Act: put down Ladle (3)
+You put Ladle (3) on SinkBasin (1). You see Window (1), Spoon (1), Sink (1), SinkBasin (1), PepperShaker (2), Mug (1), Lettuce (1), Ladle (3), Fork (1), Faucet (1), Egg (1), Drawer (2), CounterTop (1), Cabinet (2, 3, 7).
+Think: Now I accomplish the goal.
+OK.
+Act: done

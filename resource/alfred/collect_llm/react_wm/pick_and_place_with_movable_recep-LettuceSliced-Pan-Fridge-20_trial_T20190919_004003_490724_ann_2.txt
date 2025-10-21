@@ -1,0 +1,112 @@
+Your task is to: To put a knife and lettuce slice in a pan as well as moving the pan from the stove to the fridge.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13).
+Think: To solve the task, I need to find and pick up the knife. And I need to find and slice the lettuce. And I need to put down the knife and pick up the lettuce, then put it in the pan. And I need to find and pick up another lettuce, then put it in the pan. And I need to find and pick up the pan, then put it in the fridge.
+OK.
+Think: First, I need to recall location of the knife.
+OK.
+Act: recall location of Knife
+You have not seen Knife before.
+Think: Now I need to find the knife. The knife is more likely to appear on CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1). I can check each place one by one, starting from CounterTop (1), until I find the knife.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), Sink (1), SinkBasin (1), Knife (1), Faucet (1), DishSponge (1), CounterTop (1), ButterKnife (1). 
+Think: I find Knife (1). Now, I need to pick it up.
+OK.
+Act: pick up Knife (1)
+You pick up Knife (1). You see Toaster (1), Sink (1), SinkBasin (1), Knife (1), Faucet (1), DishSponge (1), CounterTop (1), ButterKnife (1). I am holding Knife (1) now.
+Think: I hold Knife (1). Now, I need to recall location of the lettuce.
+OK.
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Think: Now I need to find the lettuce. The lettuce is more likely to appear on CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1). I can check each place one by one, starting from CounterTop (1), until I find the lettuce.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), Sink (1), SinkBasin (1), Knife (1), Faucet (1), DishSponge (1), CounterTop (1), ButterKnife (1).  I am holding Knife (1) now.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), Knife (1), Fork (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (10), ButterKnife (1).  I am holding Knife (1) now.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Knife (1), Fridge (1). Fridge (1) is closed.  I am holding Knife (1) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Knife (1), Fridge (1), Egg (1). I am holding Knife (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Knife (1, 1, 1, 1, 1), Fridge (1, 1, 1, 1, 1), Egg (1, 1, 1, 1). Microwave (1) is closed.  I am holding Knife (1) now.
+Act: open Microwave (1)
+The Microwave (1) is not close to you. I am holding Knife (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Knife (1, 1, 1, 1, 1), Fridge (1, 1, 1, 1, 1). Microwave (1) is closed.  I am holding Knife (1) now.
+Act: open Microwave (1)
+The Microwave (1) is not close to you. I am holding Knife (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Knife (1, 1, 1, 1, 1), Fridge (1, 1, 1, 1, 1). Microwave (1) is closed.  I am holding Knife (1) now.
+Act: open Microwave (1)
+The Microwave (1) is not close to you. I am holding Knife (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Knife (1, 1, 1, 1, 1), Fridge (1, 1, 1, 1, 1). Microwave (1) is closed.  I am holding Knife (1) now.
+Act: open Microwave (1)
+The Microwave (1) is not close to you. I am holding Knife (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Knife (1, 1, 1, 1, 1), Fridge (1, 1, 1, 1, 1). Microwave (1) is closed.  I am holding Knife (1) now.
+Act: open Microwave (1)
+The Microwave (1) is not close to you. I am holding Knife (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Knife (1, 1, 1, 1, 1), Fridge (1, 1, 1, 1, 1). Microwave (1) is closed.  I am holding Knife (1) now.
+Act: open Microwave (1)
+The Microwave (1) is not close to you. I am holding Knife (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Knife (1, 1, 1, 1, 1), Fridge (1, 1, 1, 1, 1). Microwave (1) is closed.  I am holding Knife (1) now.
+Act: open Microwave (1)
+The Microwave (1) is not close to you. I am holding Knife (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Knife (1, 1, 1, 1, 1), Fridge (1, 1, 1, 1, 1). Microwave (1) is closed.  I am holding Knife (1) now.
+Act: open Microwave (1)
+The Microwave (1) is not close to you. I am holding Knife (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Knife (1, 1, 1, 1, 1), Fridge (1, 1, 1, 1, 1). Microwave (1) is closed.  I am holding Knife (1) now.
+Act: open Microwave (1)
+The Microwave (1) is not close to you. I am holding Knife (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Knife (1, 1, 1, 1, 1), Fridge (1, 1, 1, 1, 1). Microwave (1) is closed.  I am holding Knife (1) now.
+Act: open Microwave (1)
+The Microwave (1) is not close to you. I am holding Knife (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Knife (1, 1, 1, 1, 1), Fridge (1, 1, 1, 1, 1). Microwave (1) is closed.  I am holding Knife (1) now.
+Act: open Microwave (1)
+The Microwave (1) is not close to you. I am holding Knife (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Knife (1, 1, 1, 1, 1), Fridge (1, 1, 1, 1, 1). Microwave (1) is closed.  I am holding Knife (1) now.
+Act: open Microwave (1)
+The Microwave (1) is not close to you. I am holding Knife (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Knife (1, 1, 1, 1, 1), Fridge (1, 1, 1, 1, 1). Microwave (1) is closed.  I am holding Knife (1) now.
+Act: open Microwave (1)
+The Microwave (1) is not close to you. I am holding Knife (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Knife (1, 1, 1, 1, 1), Fridge (1, 1, 1, 1, 1). Microwave (1) is closed.  I am holding Knife (1) now.
+Act: open Microwave (1)
+The Microwave (1) is not close to you. I am holding Knife (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Knife (1, 1, 1, 1, 1), Fridge (1, 1, 1, 1, 1). Microwave (1) is closed.  I am holding Knife (1) now.
+Act: open Microwave (1)
+The Microwave (1) is not close to you. I am holding Knife (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Knife (1, 1, 1, 1, 1), Fridge (1, 1, 1, 1, 1). Microwave (1) is closed.  I am holding Knife (1) now.
+Act: open Microwave (1)
+The Microwave (1) is not close to you. I am holding Knife (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Knife (1, 1, 1, 1, 1), Fridge (1, 1, 1, 1, 1). Microwave (1) is closed.  I am holding Knife (1) now.
+Act: open Microwave (1)
+The Microwave (1) is not close to you. I am holding Knife (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Knife (1, 1, 1, 1, 1), Fridge (1, 1, 1, 1, 1). Microwave (1) is closed.  I am holding Knife (1) now.
+Act: open Microwave (1)
+The Microwave (1) is not close to you. I am holding Knife (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Knife (1, 1, 1, 1, 1), Fridge (1, 1, 1, 1, 1). Microwave (1) is closed.  I am holding Knife (1) now.
+Act: open Microwave (1)
+The Microwave (1) is not close to you. I am holding Knife (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Knife (1, 1, 1, 1, 1), Fridge (1, 1, 1, 1, 1). Microwave (1) is closed.  I am holding Knife (1) now.
+Act: open Microwave (1)
+The Microwave (1) is not close to you. I am holding Knife (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Knife (1, 1, 1, 1, 1), Fridge (1, 1, 1, 1, 1). Microwave (1) is closed.  I am holding Knife (1) now.

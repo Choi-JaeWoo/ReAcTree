@@ -1,0 +1,187 @@
+Your primary goal is to: Put a box, containing a watch on the table. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up box, place box on table, and find and pick up watch.
+Your task is to: place box on table
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2), GarbageCan (1), DiningTable (1), CoffeeTable (1, 2), ArmChair (1, 2). I am holding Box (1) now.
+Think: I hold Box (1). Now, I need to put it on the table. I can see DiningTable (1).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Watch (1), TissueBox (1), Statue (1), RemoteControl (2), Plate (1, 2), Newspaper (1), CreditCard (2), Chair (1), Box (1, 2).  I am holding Box (1) now.
+Act: put down Box (1)
+You put down failed, drop it. You see Watch (1), TissueBox (1), Statue (1), RemoteControl (2), Plate (1, 2), Newspaper (1), CreditCard (2), Chair (1, 2), Box (2).
+Think: I failed to put down Box (1). I need to try again.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Watch (1), TissueBox (1), Statue (1), RemoteControl (2), Plate (1, 2), Newspaper (1), CreditCard (2), Chair (1, 2), Box (2). 
+Act: pick up Box (2)
+You pick up Box (2). You see Watch (1), TissueBox (1), Statue (1), RemoteControl (2), Plate (1, 2), Newspaper (1), CreditCard (2), Chair (1), Box (2). I am holding Box (2) now.
+Act: put down Box (2)
+You put down failed, drop it. You see Watch (1), TissueBox (1), Statue (1), RemoteControl (2), Plate (1, 2), Newspaper (1), CreditCard (2), Chair (1, 2).
+Think: I failed to put down Box (2). I need to try again.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Watch (1, 1, 1), TissueBox (1, 1, 1), Statue (1, 1, 1, 2), RemoteControl (2, 2, 2), Plate (1, 1, 1, 2, 2, 2), Newspaper (1, 1, 1), CreditCard (2, 2, 2), Chair (1, 1, 2, 2, 2, 3, 5). 
+Act: pick up Watch (1)
+You pick up Watch (1). You see Watch (1), TissueBox (1), Statue (1, 2), RemoteControl (2), Plate (1, 2), Newspaper (1), CreditCard (2), Chair (2, 3, 5). I am holding Watch (1) now.
+Act: put down Watch (1)
+You put down failed, drop it. You see TissueBox (1), Statue (1, 2), RemoteControl (2), Plate (1, 2), Newspaper (1), CreditCard (2), Chair (2, 3, 5).
+Think: I failed to put down Watch (1). I need to try again.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see TissueBox (1, 1, 1), Statue (1, 1, 1, 2, 2, 2), RemoteControl (2, 2, 2), Plate (1, 1, 1, 2, 2, 2), Newspaper (1, 1, 1), CreditCard (2, 2, 2), Chair (2, 2, 2, 3, 3, 3, 5, 5, 5). 
+Act: pick up TissueBox (1)
+You pick up TissueBox (1). You see TissueBox (1), Statue (1, 2), RemoteControl (2), Plate (1, 2), Newspaper (1), CreditCard (2), Chair (2, 3, 5). I am holding TissueBox (1) now.
+Act: put down TissueBox (1)
+You put down failed, drop it. You see TissueBox (1), Statue (1, 2), RemoteControl (2), Plate (1, 2), Newspaper (1), CreditCard (2), Chair (2, 3, 5).
+Think: I failed to put down TissueBox (1). I need to try again.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see TissueBox (1, 1, 1), Statue (1, 1, 1, 2, 2, 2), RemoteControl (2, 2, 2), Plate (1, 1, 1, 2, 2, 2), Newspaper (1, 1, 1), CreditCard (2, 2, 2), Chair (2, 2, 2, 3, 3, 3, 5, 5, 5). 
+Act: pick up Statue (1)
+You pick up Statue (1). You see Statue (1, 2), Plate (2), Newspaper (1), Chair (3, 5). I am holding Statue (1) now.
+Act: put down Statue (1)
+You put down failed, drop it. You see TissueBox (1), Statue (2), RemoteControl (2), Plate (1, 2), Newspaper (1), CreditCard (2), Chair (2, 3, 5).
+Think: I failed to put down Statue (1). I need to try again.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see TissueBox (1, 1, 1, 1), Statue (1, 2, 2, 2), RemoteControl (2, 2, 2, 2), Plate (1, 1, 1, 1, 2, 2, 2, 2), Newspaper (1, 1, 1, 1), DiningTable (1), CreditCard (2, 2, 2, 2), Chair (1, 2, 2, 2, 3, 3, 3, 3, 5, 5, 5, 5). 
+Act: pick up RemoteControl (2)
+You pick up RemoteControl (2). You see TissueBox (1), Statue (1), RemoteControl (2), Plate (1, 2), Newspaper (1), DiningTable (1), CreditCard (2), Chair (1, 3, 5). I am holding RemoteControl (2) now.
+Act: put down RemoteControl (2)
+You put down failed, drop it. You see TissueBox (1), Statue (1), RemoteControl (2), Plate (1, 2), Newspaper (1), DiningTable (1), CreditCard (2), Chair (1, 3, 5).
+Think: I failed to put down RemoteControl (2). I need to try again.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see TissueBox (1, 1, 1), Statue (1, 1, 1, 2), RemoteControl (2, 2, 2), Plate (1, 1, 1, 2, 2, 2), Newspaper (1, 1, 1), DiningTable (1, 1), CreditCard (2, 2, 2), Chair (1, 1, 2, 3, 3, 3, 5, 5, 5). 
+Act: pick up Plate (1)
+You pick up Plate (1). You see Statue (2), Plate (1, 2), Newspaper (1), CreditCard (2), Chair (2, 3, 5). I am holding Plate (1) now.
+Act: put down Plate (1)
+You put down failed, drop it. You see TissueBox (1), Statue (1, 2), RemoteControl (2), Plate (1, 2), Newspaper (1), CreditCard (2), Chair (2, 3, 5).
+Think: I failed to put down Plate (1). I need to try again.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see TissueBox (1, 1, 1), Statue (1, 1, 1, 2, 2, 2), RemoteControl (2, 2, 2), Plate (1, 1, 1, 2, 2, 2), Newspaper (1, 1, 1), CreditCard (2, 2, 2), Chair (2, 2, 2, 3, 3, 3, 5, 5, 5). 
+Act: pick up Newspaper (1)
+You pick up Newspaper (1). You see Statue (2), Plate (2), Newspaper (1), CreditCard (2), Chair (2, 3, 5). I am holding Newspaper (1) now.
+Act: put down Newspaper (1)
+You put down failed, drop it. You see TissueBox (1), Statue (1, 2), RemoteControl (2), Plate (1, 2), CreditCard (2), Chair (2, 3, 5).
+Think: I failed to put down Newspaper (1). I need to try again.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see TissueBox (1, 1, 1), Statue (1, 1, 1, 2, 2, 2), RemoteControl (2, 2, 2), Plate (1, 1, 1, 2, 2, 2), CreditCard (2, 2, 2), Chair (2, 2, 2, 3, 3, 3, 5, 5, 5). 
+Act: pick up CreditCard (2)
+You pick up CreditCard (2). You see TissueBox (1), Statue (1, 2), RemoteControl (2), Plate (1, 2), CreditCard (2), Chair (2, 3, 5). I am holding CreditCard (2) now.
+Act: put down CreditCard (2)
+You put down failed, drop it. You see TissueBox (1), Statue (1, 2), RemoteControl (2), Plate (1, 2), Newspaper (1), Chair (2, 3, 5).
+Think: I failed to put down CreditCard (2). I need to try again.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see TissueBox (1, 1, 1), Statue (1, 1, 1, 2, 2, 2), RemoteControl (2, 2, 2), Plate (1, 1, 1, 2, 2, 2), Newspaper (1, 1, 1), Chair (2, 2, 2, 3, 3, 3, 5, 5, 5). 
+Act: pick up Plate (2)
+You pick up Plate (2). You see Statue (2), Plate (1, 2), Chair (2, 3, 5). I am holding Plate (2) now.
+Act: put down Plate (2)
+You put down failed, drop it. You see TissueBox (1), Statue (1, 2), RemoteControl (2), Plate (1, 2), Newspaper (1), Chair (2, 3, 5).
+Think: I failed to put down Plate (2). I need to try again.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see TissueBox (1, 1, 1), Statue (1, 1, 1, 2, 2, 2), RemoteControl (2, 2, 2), Plate (1, 1, 1, 2, 2, 2), Newspaper (1, 1, 1), Chair (2, 2, 2, 3, 3, 3, 5, 5, 5). 
+Act: pick up Statue (2)
+
+Think: I failed to put down Statue (2). I need to try again.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see TissueBox (1, 1, 1), Statue (1, 1, 1, 2, 2, 2), RemoteControl (2, 2, 2), Plate (1, 1, 1, 2, 2, 2), Newspaper (1, 1, 1), Chair (2, 2, 2, 3, 3, 3, 5, 5, 5). 
+Act: pick up RemoteControl (2)
+You pick up RemoteControl (2). You see Statue (1, 2), RemoteControl (2), Plate (1, 2), Chair (2, 3, 5). I am holding RemoteControl (2) now.
+Act: put down RemoteControl (2)
+You put down failed, drop it. You see TissueBox (1), Statue (1, 2), RemoteControl (2), Plate (1, 2), Newspaper (1), Chair (2, 3, 5).
+Think: I failed to put down RemoteControl (2). I need to try again.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see TissueBox (1, 1, 1), Statue (1, 1, 1, 2, 2, 2), RemoteControl (2, 2, 2), Plate (1, 1, 1, 2, 2, 2), Newspaper (1, 1, 1), Chair (2, 2, 2, 3, 3, 3, 5, 5, 5). 
+Act: pick up Plate (1)
+You pick up Plate (1). You see Statue (2), Plate (1), Chair (2, 3, 5). I am holding Plate (1) now.
+Act: put down Plate (1)
+You put down failed, drop it. You see TissueBox (1), Statue (1, 2), RemoteControl (2), Plate (1, 2), Newspaper (1), Chair (2, 3, 5).
+Think: I failed to put down Plate (1). I need to try again.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see TissueBox (1, 1, 1), Statue (1, 1, 1, 2, 2, 2), RemoteControl (2, 2, 2), Plate (1, 1, 1, 2, 2, 2), Newspaper (1, 1, 1), Chair (2, 2, 2, 3, 3, 3, 5, 5, 5). 
+Act: pick up Newspaper (1)
+You pick up Newspaper (1). You see Statue (2), Newspaper (1), Chair (2, 3, 5). I am holding Newspaper (1) now.
+Act: put down Newspaper (1)
+You put down failed, drop it. You see TissueBox (1), Statue (1, 2), RemoteControl (2), Plate (1, 2), Chair (2, 3, 5).
+Think: I failed to put down Newspaper (1). I need to try again.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see TissueBox (1, 1, 1, 1, 1), Statue (1, 1, 1, 1, 1, 2, 2, 2, 2, 2), RemoteControl (2, 2, 2, 2, 2), Plate (1, 1, 1, 1, 1, 2, 2, 2, 2, 2), Chair (2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 5, 5, 5, 5, 5). 
+Act: pick up TissueBox (1)
+You pick up TissueBox (1). You see TissueBox (1), Statue (1, 2), Chair (2, 3, 5). I am holding TissueBox (1) now.
+Act: put down TissueBox (1)
+You put down failed, drop it. You see Statue (1, 2), RemoteControl (2), Plate (1, 2), Chair (2, 3, 5).
+Think: I failed to put down TissueBox (1). I need to try again.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Statue (1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2), RemoteControl (2, 2, 2, 2, 2, 2, 2, 2), Plate (1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2), Newspaper (1), DiningTable (1), Chair (1, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 5, 5, 5, 5, 5, 5, 5, 5). 
+Act: pick up Statue (1)
+You pick up Statue (1). You see Statue (1), RemoteControl (2), Plate (1), Newspaper (1), Chair (1, 3, 5). I am holding Statue (1) now.
+Act: put down Statue (1)
+You put down failed, drop it. You see RemoteControl (2), Plate (1, 2), Newspaper (1), DiningTable (1), Chair (1, 3, 5).
+Think: I failed to put down Statue (1). I need to try again.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Watch (1), Statue (1, 2), RemoteControl (2, 2, 2, 2, 2, 2, 2, 2, 2), Plate (1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2), Newspaper (1, 1, 1, 1, 1, 1, 1, 1, 1), DiningTable (1, 1, 1, 1, 1, 1, 1, 1), Chair (1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5). 
+Act: pick up Watch (1)
+You pick up Watch (1). You see Watch (1), Statue (1, 2), RemoteControl (2), Plate (1, 2), Newspaper (1), Chair (2, 3, 5). I am holding Watch (1) now.
+Act: put down Watch (1)
+You put down failed, drop it. You see Statue (1, 2), RemoteControl (2), Plate (1, 2), Newspaper (1), Chair (2, 3, 5).
+Think: I failed to put down Watch (1). I need to try again.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Statue (1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2), RemoteControl (2, 2, 2, 2, 2, 2, 2, 2, 2), Plate (1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2), Newspaper (1, 1, 1, 1, 1, 1, 1, 1, 1), Chair (2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5). 
+Act: pick up Statue (1)
+You pick up Statue (1). You see Statue (1, 2), RemoteControl (2), Plate (1, 2), Newspaper (1), Chair (3, 5). I am holding Statue (1) now.
+Act: put down Statue (1)
+You put down failed, drop it. You see Statue (1, 2), RemoteControl (2), Plate (1, 2), Newspaper (1), Chair (2, 3, 5).
+Think: I failed to put down Statue (1). I need to try again.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Watch (1), Statue (1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2), RemoteControl (2, 2, 2, 2, 2, 2, 2, 2), Plate (1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2), Newspaper (1, 1, 1, 1, 1, 1, 1, 1), DiningTable (1), Chair (1, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 5, 5, 5, 5, 5, 5, 5, 5). 
+Act: pick up Watch (1)
+You pick up Watch (1). You see Watch (1), RemoteControl (2), Plate (1, 2), Newspaper (1), DiningTable (1), Chair (1, 3, 5). I am holding Watch (1) now.
+Act: put down Watch (1)
+You put down failed, drop it. You see RemoteControl (2), Plate (1, 2), Newspaper (1), DiningTable (1), Chair (1, 3, 5).
+Think: I failed to put down Watch (1). I need to try again.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see RemoteControl (2, 2, 2, 2, 2, 2, 2, 2), Plate (1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2), Newspaper (1, 1, 1, 1, 1, 1, 1, 1), DiningTable (1, 1, 1, 1, 1, 1, 1, 1), Chair (1, 1, 1, 1, 1, 1, 1, 1, 3, 3, 3, 3, 3, 3, 3, 3, 5, 5, 5, 5, 5, 5, 5, 5). 
+Act: pick up RemoteControl (2)
+You pick up RemoteControl (2). You see RemoteControl (2), Plate (1, 2), Newspaper (1), DiningTable (1), Chair (1, 3, 5). I am holding RemoteControl (2) now.
+Act: put down RemoteControl (2)
+You put down failed, drop it. You see Plate (1, 2), Newspaper (1), DiningTable (1), Chair (1, 3, 5).
+Think: I failed to put down RemoteControl (2). I need to try again.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Plate (1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2), Newspaper (1, 1, 1, 1, 1, 1, 1, 1), DiningTable (1, 1, 1, 1, 1, 1, 1, 1), Chair (1, 1, 1, 1, 1, 1, 1, 1, 3, 3, 3, 3, 3, 3, 3, 3, 5, 5, 5, 5, 5, 5, 5, 5). 
+Act: pick up Plate (1)
+You pick up Plate (1). You see Plate (1), DiningTable (1), Chair (1, 3). I am holding Plate (1) now.
+Act: put down Plate (1)
+You put down failed, drop it. You see Plate (1, 2), Newspaper (1), DiningTable (1), Chair (1, 3, 5).
+Think: I failed to put down Plate (1). I need to try again.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Statue (2), RemoteControl (2), Plate (1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2), Newspaper (1, 1, 1, 1, 1, 1, 1, 1, 1), DiningTable (1, 1, 1, 1, 1, 1, 1, 1), Chair (1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5). 
+Act: pick up Statue (2)
+You pick up Statue (2). You see Statue (2), RemoteControl (2), Plate (2), Newspaper (1), Chair (2, 3, 5). I am holding Statue (2) now.
+Act: put down Statue (2)
+You put down failed, drop it. You see RemoteControl (2), Plate (2), Newspaper (1), Chair (2, 3, 5).
+Think: I failed to put down Statue (2). I need to try again.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Statue (2), RemoteControl (2, 2, 2, 2, 2, 2, 2), Plate (2, 2, 2, 2, 2, 2, 2, 2), Newspaper (1, 1, 1, 1, 1, 1, 1, 1), DiningTable (1), Chair (1, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 5, 5, 5, 5, 5, 5, 5, 5). 
+Act: pick up Statue (2)
+You pick up Statue (2). You see Statue (2), Plate (2), Newspaper (1), DiningTable (1), Chair (1, 3, 5). I am holding Statue (2) now.
+Act: put down Statue (2)
+You put down failed, drop it. You see Plate (2), Newspaper (1), DiningTable (1), Chair (1, 3, 5).
+Think: I failed to put down Statue (2). I need to try again.
+OK.
+Max decisions

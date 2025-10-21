@@ -1,0 +1,23 @@
+Your primary goal is to: examine a set of keys in the light of a lamp
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up keys, and find and turn on lamp.
+Your task is to: find and turn on lamp
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), Ottoman (1), GarbageCan (1), Dresser (1, 2), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CoffeeTable (1, 2), ArmChair (1). I am holding KeyChain (2) now.
+Think: First, I need to recall location of the lamp.
+OK.
+Act: recall location of DeskLamp
+You have not seen DeskLamp before.
+Think: Now I need to find the lamp. The lamp is more likely to appear on Dresser (1-2), CoffeeTable (1-2), or in Drawer (1-8). I can check each place one by one, starting from Dresser (1), until I find the lamp.
+OK.
+Act: go to Dresser (1)
+You arrive at Dresser (1). You see Watch (1), Television (1), RemoteControl (1), KeyChain (1, 2), Dresser (1), Drawer (5, 6, 7, 8).  I am holding KeyChain (2) now.
+Act: go to Dresser (2)
+You arrive at Dresser (2). You see KeyChain (2), Dresser (2), Drawer (1, 2, 3, 4), Curtains (2).  I am holding KeyChain (2) now.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see KeyChain (2), DeskLamp (1), CoffeeTable (1), Chair (1).  I am holding KeyChain (2) now.
+Think: I find DeskLamp (1). Now, I need to turn it on.
+OK.
+Act: turn on DeskLamp (1)
+The DeskLamp (1) already turn on. I am holding KeyChain (2) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

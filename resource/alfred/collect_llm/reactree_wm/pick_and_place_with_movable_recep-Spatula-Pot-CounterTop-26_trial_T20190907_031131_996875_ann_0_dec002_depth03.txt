@@ -1,0 +1,201 @@
+Your primary goal is to: Move pan to counter, move spatula to pan
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: move pan to counter, and move spatula to pan.
+Your task is to: move pan to counter
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10).
+Think: I need to move Pan (1) to CounterTop (1). I can see Pan (1) and CounterTop (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (1), Knife (1), Fridge (1), DiningTable (2), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), Potato (1), PepperShaker (2), Faucet (1), Egg (2), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4). 
+Max decisions

@@ -1,0 +1,19 @@
+Your primary goal is to: Place a bowl with a pencil on a table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up bowl, place bowl on table, and place pencil on bowl near table.
+Your task is to: find and pick up bowl
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1), Ottoman (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7), DiningTable (1), CoffeeTable (1), ArmChair (1).
+Think: First, I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: Now, I need to find the bowl. The bowl is more likely to appear on DiningTable (1), CoffeeTable (1), SideTable (1), or in Drawer (1-7). I can check each place one by one, starting from DiningTable (1), until I find the bowl.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (2), TissueBox (3), RemoteControl (3), Plate (1, 2), Pencil (2), Newspaper (2), DiningTable (1), CreditCard (2), Chair (1, 2, 3, 4), Bowl (1, 2). 
+Think: I find Bowl (1). Now, I need to pick it up.
+OK.
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Vase (2), TissueBox (3), RemoteControl (3), Plate (1, 2), Pencil (2), Newspaper (2), DiningTable (1), CreditCard (2), Chair (1, 2, 3, 4), Bowl (1, 2). I am holding Bowl (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

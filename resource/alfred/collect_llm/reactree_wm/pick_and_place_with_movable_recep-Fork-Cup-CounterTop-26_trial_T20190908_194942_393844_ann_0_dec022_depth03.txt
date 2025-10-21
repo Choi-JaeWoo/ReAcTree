@@ -1,0 +1,21 @@
+Your primary goal is to: Place a chalice containing a fork on top of a dishwasher
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up chalice, place chalice on dishwasher, find and pick up fork, and place fork on chalice near dishwasher.
+Your task is to: place fork on chalice near dishwasher
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10). I am holding Fork (1) now.
+Think: I hold Fork (1). Now, I need to recall location of the chalice.
+OK.
+Act: recall location of DishSponge
+You saw DishSponge (3) near DiningTable (2).
+Think: I can find DishSponge (3) near DiningTable (2).
+OK.
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Spoon (1), Pot (1), Fork (1), DishSponge (3), DiningTable (2), Cup (1, 3), Bowl (1, 2, 3), Apple (2).  I am holding Fork (1) now.
+Think: I find DishSponge (3). Now, I need to put down Fork (1) on DishSponge (3).
+OK.
+Act: go to DishSponge (3)
+You see Window (1), Spoon (1), Pot (1), Fork (1), DishSponge (3), DiningTable (2), Cup (1, 3), Bowl (2, 3), Apple (2).  I am holding Fork (1) now.
+Act: put down Fork (1)
+You put down failed, drop it. You see Window (1), Spoon (1), Pot (1), Fork (1), DishSponge (3), DiningTable (2), Cup (1, 3), Bowl (2, 3), Apple (2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

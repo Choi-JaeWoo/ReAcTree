@@ -1,0 +1,19 @@
+Your primary goal is to: Put two rags on the end table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up rag, place rag on end table, Find and pick up rag away from end table, and place rag on end table.
+Your task is to: Find and pick up rag away from end table
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1, 2), Toilet (1), ToiletPaperHanger (1), Sink (1), SinkBasin (1, 2), SideTable (1), HandTowelHolder (1), GarbageCan (1), Drawer (1), Bathtub (1).
+Think: First, I need to recall location of the rag.
+OK.
+Act: recall location of Cloth
+You saw Cloth (1) near SideTable (1). You saw Cloth (3) near SinkBasin (1).
+Think: Now, I need to find the rag. The rag is more likely to appear on SinkBasin (1-2), SideTable (1), or in Drawer (1). I can check each place one by one, starting from SinkBasin (1), until I find the rag.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see SoapBar (2), SinkBasin (1), Cloth (3), Bathtub (1). 
+Think: I find Cloth (3). Now, I need to pick it up.
+OK.
+Act: pick up Cloth (3)
+You pick up Cloth (3). You see SoapBar (2), SinkBasin (1), Cloth (3), Bathtub (1). I am holding Cloth (3) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

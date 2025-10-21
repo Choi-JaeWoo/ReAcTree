@@ -1,0 +1,7 @@
+Your task is to: Place two bottles in a cabinet
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1), HandTowelHolder (1), GarbageCan (1), Drawer (1), CounterTop (1, 2), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9), BathtubBasin (1).
+Think: Since I’m not holding the bottles, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up bottle, place bottle in cabinet, find and pick up bottle away from cabinet, and place bottle in cabinet.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up bottle, place bottle in cabinet, find and pick up bottle away from cabinet, place bottle in cabinet

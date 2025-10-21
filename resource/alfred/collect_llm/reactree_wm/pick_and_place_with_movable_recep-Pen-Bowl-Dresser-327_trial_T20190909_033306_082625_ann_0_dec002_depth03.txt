@@ -1,0 +1,69 @@
+Your primary goal is to: put a bowl and pen on a bedroom table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up bowl, place bowl on table, find and pick up pen, and place pen on table.
+Your task is to: find and pick up bowl
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1, 2, 3, 4, 5), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), Desk (1), Bed (1).
+Think: First, I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: Now, I need to find the bowl. The bowl is more likely to appear on Desk (1), or in Drawer (1-8), Dresser (1). I can check each place one by one, starting from Desk (1), until I find the bowl.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Window (1, 2), Shelf (4), Pen (1), Laptop (1), KeyChain (2), Desk (1), CreditCard (1), Chair (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Shelf (4), KeyChain (2), Drawer (1, 2, 3, 4, 5, 8), Desk (1), CreditCard (1), Chair (1), CellPhone (1), Boots (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Shelf (4), KeyChain (2), Drawer (1, 2, 3, 4, 5, 8), Desk (1), CreditCard (1), Chair (1), CellPhone (1), Boots (1), BasketBall (1).
+Act: close Drawer (1)
+You close Drawer (1). You see Shelf (4), KeyChain (2), Drawer (1, 2, 3, 4, 5, 8), Desk (1), CreditCard (1), Chair (1), CellPhone (1), Boots (1), BasketBall (1).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Shelf (4), KeyChain (2), Drawer (1, 2, 3, 4, 5, 8), Desk (1), CreditCard (1), Chair (1), CellPhone (1), Boots (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see Shelf (4), KeyChain (2), Drawer (1, 2, 3, 4, 5, 8), Desk (1), CreditCard (1), Chair (1), CellPhone (1), CD (2), Boots (1), BasketBall (1).
+Act: close Drawer (2)
+You close Drawer (2). You see Shelf (4), KeyChain (2), Drawer (1, 2, 3, 4, 5, 8), Desk (1), CreditCard (1), Chair (1), CellPhone (1), Boots (1), BasketBall (1).
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Shelf (4), KeyChain (2), Drawer (1, 2, 3, 4, 5, 8), Desk (1), CreditCard (1), Chair (1), CellPhone (1), Boots (1). Drawer (3) is closed. 
+Act: open Drawer (3)
+You open Drawer (3). You see Shelf (4), KeyChain (2), Drawer (1, 2, 3, 4, 5, 8), Desk (1), CreditCard (1), Chair (1), CellPhone (1), Boots (1), BasketBall (1).
+Act: close Drawer (3)
+You close Drawer (3). You see Shelf (4), KeyChain (2), Drawer (1, 2, 3, 4, 5, 8), Desk (1), CreditCard (1), Chair (1), CellPhone (1), Boots (1), BasketBall (1).
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Shelf (2, 4), Drawer (1, 2, 3, 4, 5, 8), Desk (1), CellPhone (1), Boots (1). Drawer (4) is closed. 
+Act: open Drawer (4)
+The Drawer (4) is open failed.
+Act: close Drawer (4)
+The Drawer (4) is already closed.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Shelf (2, 4), Drawer (1, 2, 3, 4, 5, 8), Desk (1), CellPhone (1), Boots (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is open failed.
+Act: close Drawer (5)
+The Drawer (5) is already closed.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Window (3), Pencil (1), Pen (4), Dresser (1), Drawer (6, 7), DeskLamp (1), CreditCard (2), Bed (1), AlarmClock (1, 2). Drawer (6) is closed. 
+Act: open Drawer (6)
+You open Drawer (6). You see Window (2, 3), Pencil (1), Pen (4), Dresser (1), Drawer (6, 7), DeskLamp (1), CreditCard (2), Bed (1), AlarmClock (1, 2).
+Act: close Drawer (6)
+You close Drawer (6). You see Window (2, 3), Pencil (1), Pen (4), Dresser (1), Drawer (6, 7), DeskLamp (1), CreditCard (2), Bed (1), AlarmClock (1, 2).
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see Window (3), Pencil (1), Pen (4), Dresser (1), Drawer (6, 7), DeskLamp (1), CreditCard (2), Bed (1), AlarmClock (1, 2). Drawer (7) is closed. 
+Act: open Drawer (7)
+You open Drawer (7). You see Window (2, 3), Pencil (1), Pen (4), Dresser (1), Drawer (7), DeskLamp (1), CreditCard (2), Bed (1), AlarmClock (1, 2).
+Act: close Drawer (7)
+You close Drawer (7). You see Window (2, 3), Pencil (1), Pen (4), Dresser (1), Drawer (6, 7), DeskLamp (1), CreditCard (2), Bed (1), AlarmClock (1, 2).
+Act: go to Drawer (8)
+You arrive at Drawer (8). You see Shelf (2, 4), Drawer (1, 2, 3, 4, 5, 8), Desk (1), CellPhone (1), Boots (1). Drawer (8) is closed. 
+Act: open Drawer (8)
+The Drawer (8) is open failed.
+Act: close Drawer (8)
+The Drawer (8) is already closed.
+Act: go to Dresser (1)
+You arrive at Dresser (1). You see Window (3), Pencil (1), Pen (4), Dresser (1), Drawer (6, 7), DeskLamp (1), CreditCard (2), Bed (1), AlarmClock (1, 2). 
+Think: I find Bowl (1). Now, I need to pick it up.
+OK.
+Act: pick up AlarmClock (1)
+You pick up AlarmClock (1). You see Window (3), Pencil (1), Pen (4), Dresser (1), Drawer (6, 7), DeskLamp (1), CreditCard (2), Bed (1), AlarmClock (1, 2). I am holding AlarmClock (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

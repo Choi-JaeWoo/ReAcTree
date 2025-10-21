@@ -1,0 +1,7 @@
+Your task is to: To move two spheres from the mantle to a black end table to the left of the couch.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2, 3, 4, 5), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21), Cabinet (1), ArmChair (1).
+Think: Since I’m not holding sphere, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up sphere, place sphere on black end table, Find and pick up sphere away from black end table, and place sphere on black end table.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up sphere, place sphere on black end table, Find and pick up sphere away from black end table, place sphere on black end table

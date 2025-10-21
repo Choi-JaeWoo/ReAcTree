@@ -1,0 +1,55 @@
+Your primary goal is to: To put the keys in a box. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up keys, find and pick up box, and place keys in box.
+Your task is to: find and pick up box
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2, 3), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12), DiningTable (1), CoffeeTable (1), ArmChair (1, 2). I am holding KeyChain (1) now.
+Think: First, I need to recall location of the box.
+OK.
+Act: recall location of Box
+You have not seen Box before.
+Think: Now, I need to find the box. The box is more likely to appear on Sofa (1), SideTable (1-3), CoffeeTable (1), ArmChair (1-2), or in Drawer (1-12). I can check each place one by one, starting from Sofa (1), until I find the box.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1, 2, 3), KeyChain (1).  I am holding KeyChain (1) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Window (1), SideTable (1, 2), KeyChain (1), HousePlant (1).  I am holding KeyChain (1) now.
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Window (1), Watch (1), SideTable (1, 2), KeyChain (1), HousePlant (1), CreditCard (1).  I am holding KeyChain (1) now.
+Act: go to SideTable (3)
+You arrive at SideTable (3). You see SideTable (3), KeyChain (1).  I am holding KeyChain (1) now.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Laptop (1), KeyChain (1, 2), CoffeeTable (1).  I am holding KeyChain (1) now.
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see KeyChain (1), GarbageCan (1), CreditCard (2), ArmChair (1, 2).  I am holding KeyChain (1) now.
+Act: go to ArmChair (2)
+You arrive at ArmChair (2). You see KeyChain (1), Chair (1), ArmChair (1, 2).  I am holding KeyChain (1) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see KeyChain (1, 3), Dresser (1), Drawer (1, 2, 4, 5, 6, 7, 9, 11). Drawer (1) is open.  I am holding KeyChain (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Television (1), KeyChain (1), Dresser (1), Drawer (1, 2, 5, 7). Drawer (2) is closed.  I am holding KeyChain (1) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Television (1), Statue (1), RemoteControl (1), KeyChain (1, 3), Dresser (1), Drawer (1, 3, 4, 6, 10, 11, 12). Drawer (3) is closed.  I am holding KeyChain (1) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Television (1), Statue (1), RemoteControl (1), KeyChain (1, 3), Dresser (1), Drawer (1, 3, 4, 6, 8, 9, 10, 11, 12). Drawer (4) is closed.  I am holding KeyChain (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Television (1), KeyChain (1), Dresser (1), Drawer (1, 2, 5, 7). Drawer (5) is closed.  I am holding KeyChain (1) now.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Television (1), Statue (1), RemoteControl (1), KeyChain (1, 3), Dresser (1), Drawer (1, 3, 4, 6, 8, 9, 10, 11, 12). Drawer (6) is closed.  I am holding KeyChain (1) now.
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see Television (1), KeyChain (1), Dresser (1), Drawer (1, 2, 7). Drawer (7) is closed.  I am holding KeyChain (1) now.
+Act: go to Drawer (8)
+You arrive at Drawer (8). You see Television (1), KeyChain (1, 3), Dresser (1), Drawer (1, 2, 4, 5, 6, 7, 9, 11). Drawer (8) is closed.  I am holding KeyChain (1) now.
+Act: go to Drawer (9)
+You arrive at Drawer (9). You see Television (1), KeyChain (1, 3), Dresser (1), Drawer (1, 2, 4, 5, 6, 7, 9, 11). Drawer (9) is closed.  I am holding KeyChain (1) now.
+Act: go to Drawer (10)
+You arrive at Drawer (10). You see Television (1), Statue (1), RemoteControl (1), KeyChain (1, 3), Dresser (1), Drawer (1, 3, 4, 6, 10, 11, 12). Drawer (10) is closed.  I am holding KeyChain (1) now.
+Act: go to Drawer (11)
+You arrive at Drawer (11). You see Television (1), Statue (1), RemoteControl (1), KeyChain (1, 3), Dresser (1), Drawer (1, 3, 4, 6, 8, 9, 10, 11, 12). Drawer (11) is closed.  I am holding KeyChain (1) now.
+Act: go to Drawer (12)
+You arrive at Drawer (12). You see Television (1), Statue (1), RemoteControl (1), KeyChain (1, 3), Dresser (1), Drawer (1, 3, 4, 6, 10, 11, 12). Drawer (12) is closed.  I am holding KeyChain (1) now.
+Think: I find Box (1). Now, I need to pick it up.
+OK.
+Act: pick up KeyChain (1)
+You are currently holding KeyChain (1). I am holding KeyChain (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

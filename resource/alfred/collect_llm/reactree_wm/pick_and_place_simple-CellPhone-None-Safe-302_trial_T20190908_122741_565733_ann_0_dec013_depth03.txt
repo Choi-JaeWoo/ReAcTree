@@ -1,0 +1,17 @@
+Your primary goal is to: Move a cell phone to the safe. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up cell phone, and place cell phone in safe..
+Your task is to: place cell phone in safe.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1, 2), Shelf (1, 2, 3, 4, 5), Safe (1), GarbageCan (1), Drawer (1, 2, 3), Desk (1), Bed (1). I am holding CellPhone (1) now.
+Think: I hold CellPhone (1). Now, I need to put it in the safe. I can see Safe (1).
+OK.
+Act: go to Safe (1)
+You arrive at Safe (1). You see Safe (1), Laptop (1), CellPhone (1), Bed (1). Safe (1) is closed.  I am holding CellPhone (1) now.
+Act: open Safe (1)
+You open Safe (1). You see Safe (1), Laptop (1), KeyChain (3), CellPhone (1), Bed (1). I am holding CellPhone (1) now.
+Act: put down CellPhone (1)
+You put CellPhone (1) on Safe (1). You see Safe (1), Laptop (1), KeyChain (3), CellPhone (1), Bed (1).
+Act: close Safe (1)
+You close Safe (1). You see Safe (1), Laptop (1), Bed (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

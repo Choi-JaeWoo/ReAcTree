@@ -1,0 +1,35 @@
+Your task is to: Place a tomato in the black pan.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1, 2, 3), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: To solve the task, I need to find and pick up the tomato, then put it in the black pan.
+OK.
+Think: First, I need to recall location of the tomato.
+OK.
+Act: recall location of Tomato
+You have not seen Tomato before.
+Think: Now I need to find the tomato. The tomato is more likely to appear on DiningTable (1-3), CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1). I can check each place one by one, starting from DiningTable (1), until I find the tomato.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spatula (1), SoapBottle (2), SaltShaker (3), PepperShaker (1), Knife (2), Egg (1), DishSponge (3), DiningTable (1), Cup (1), ButterKnife (3). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Toaster (1), Pot (2), Plate (1), DishSponge (2), ButterKnife (1, 2). 
+Act: go to DiningTable (3)
+You arrive at DiningTable (3). You see SoapBottle (1), SaltShaker (1), Microwave (1), DiningTable (3). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Tomato (3), Spoon (1), Spatula (3), Sink (1), SinkBasin (1), SideTable (1), SaltShaker (2), Knife (1), Fork (1), Faucet (1), Drawer (1), CounterTop (1), Cabinet (2, 4), Bread (1, 2), Bowl (2). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (1), Sink (1), SinkBasin (1), Potato (2), Knife (1), Fork (1), Faucet (1), Drawer (1), CounterTop (1), CoffeeMachine (1), Cabinet (2, 4), Bowl (2). 
+Think: I find Tomato (3). Now, I need to pick it up.
+OK.
+Act: pick up Tomato (3)
+You pick up Tomato (3). You see Tomato (3), Spoon (1), Sink (1), SinkBasin (1), Potato (2), Knife (1), Fork (1), Faucet (1), Drawer (1), CounterTop (1), CoffeeMachine (1), Cabinet (2, 4), Bowl (2). I am holding Tomato (3) now.
+Think: I hold Tomato (3). Now, I need to put it in the black pan.
+OK.
+Act: go to StoveBurner (1)
+You arrive at StoveBurner (1). You see Tomato (3), StoveKnob (3, 4), StoveBurner (1, 2, 3, 4), Pot (1), Pan (1).  I am holding Tomato (3) now.
+Act: go to Pan (1)
+You arrive at Pan (1). You see Tomato (3), StoveKnob (2, 3, 4), StoveBurner (1, 2, 3, 4), Pot (1), Pan (1).  I am holding Tomato (3) now.
+Act: put down Tomato (3)
+You put Tomato (3) on Pan (1). You see Tomato (3), StoveKnob (2, 3, 4), StoveBurner (1, 2, 3, 4), Pot (1), Pan (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

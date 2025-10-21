@@ -1,0 +1,7 @@
+Your task is to: Look at some keys under a lit tall lamp.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2, 3, 4, 5), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21), Cabinet (1), ArmChair (1).
+Think: Since I’m not holding keys, I need to accomplish 2 subgoals sequentially to solve the task. Find and pick up keys and find and turn on lamp.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up keys, find and turn on lamp

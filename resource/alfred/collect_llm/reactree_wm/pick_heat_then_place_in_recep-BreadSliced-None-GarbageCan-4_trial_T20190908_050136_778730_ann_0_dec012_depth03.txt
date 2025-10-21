@@ -1,0 +1,27 @@
+Your primary goal is to: Toast a slice of bread in the microwave and place in bin.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, slice and pick up bread, heat and pick up bread, and place bread in bin.
+Your task is to: slice and pick up bread
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2). I am holding Knife (1) now.
+Think: I hold Knife (1). Now, I need to recall location of the bread.
+OK.
+Act: recall location of Bread
+You saw Bread (1) near DiningTable (1).
+Think: I can find Bread (1) near DiningTable (1).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see SaltShaker (1), Plate (3), Knife (1), Fork (1), DiningTable (1), Bread (1), Bowl (1).  I am holding Knife (1) now.
+Think: I find Bread (1). Now, I need to slice it.
+OK.
+Act: slice Bread (1)
+You slice Bread (1). You see SaltShaker (1), Plate (3), Knife (1), Fork (1), DiningTable (1), Bread (7), Bowl (1). Bread (2, 3, 4, 5, 6, 7) are sliced. I am holding Knife (1) now.
+Think: I slice Bread (1). Now, I need to put down the knife.
+OK.
+Act: put down Knife (1)
+You put down failed, drop it. You see SaltShaker (1), Plate (3), Knife (1), Fork (1), DiningTable (1), Bread (7), Bowl (1).
+Think: Now I need to pick up Bread (7).
+OK.
+Act: pick up Bread (7)
+You pick up Bread (7). You see SaltShaker (1), Plate (3), Knife (1), Fork (1), DiningTable (1), Bread (6, 7), Bowl (1). I am holding Bread (7) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

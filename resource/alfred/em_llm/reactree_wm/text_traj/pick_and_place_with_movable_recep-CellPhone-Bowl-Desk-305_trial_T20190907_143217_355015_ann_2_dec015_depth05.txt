@@ -1,0 +1,23 @@
+Your primary goal is to: place phone in bowl
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up phone, and place phone in bowl.
+Your task is to: find and pick up phone
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1), LaundryHamper (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5), Desk (1), Bed (1).
+Think: First, I need to recall location of the phone.
+OK.
+Act: recall location of CellPhone
+You saw CellPhone (3) near Drawer (1).
+Think: I can find CellPhone (3) near Drawer (1).
+OK.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Window (1), Pencil (3), Mug (1, 2), Dresser (1), Drawer (1, 4), DeskLamp (1), CreditCard (2), CellPhone (3), Box (1). Drawer (1) is closed. 
+Think: I need to open Drawer (1) to find CellPhone (3).
+OK.
+Act: open Drawer (1)
+You open Drawer (1). You see Window (1), Pencil (3), Mug (1, 2), Dresser (1), Drawer (1), DeskLamp (1), CreditCard (2), CellPhone (3), Box (1).
+Think: I find CellPhone (3). Now, I need to pick it up.
+OK.
+Act: pick up CellPhone (3)
+You pick up CellPhone (3). You see Window (1), Pencil (3), Mug (1, 2), Dresser (1), Drawer (1), DeskLamp (1), CreditCard (2), CellPhone (3), Box (1). I am holding CellPhone (3) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

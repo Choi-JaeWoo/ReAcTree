@@ -1,0 +1,61 @@
+Your primary goal is to: Put a mug with pencil on the black dresser.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up mug, place mug on dresser, and find and pick up pencil.
+Your task is to: find and pick up mug
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1, 2), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6), Cabinet (1, 2, 3, 4), Bed (1), ArmChair (1).
+Think: First, I need to recall location of the mug.
+OK.
+Act: recall location of Mug
+You have not seen Mug before.
+Think: Now, I need to find the mug. The mug is more likely to appear on SideTable (1-2), or in Drawer (1-6), Cabinet (1-4). I can check each place one by one, starting from SideTable (1), until I find the mug.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (1), Mug (2), Lamp (2), Drawer (1), Bed (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), Pen (3), Lamp (1), Drawer (6), Bed (1), AlarmClock (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (1), Pencil (1), Mug (2), Lamp (2), Drawer (1), Bed (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see SideTable (1), Pencil (1), Mug (2), Lamp (2), Drawer (1), Bed (1).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Dresser (1), Drawer (2), Cabinet (1, 2), Book (1), ArmChair (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see Laptop (1), Dresser (1), Drawer (2, 4), Cabinet (1, 2, 3), Book (1), ArmChair (1).
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Pen (1, 2), Dresser (1), Drawer (3), Cabinet (3, 4), AlarmClock (2). Drawer (3) is closed. 
+Act: open Drawer (3)
+You open Drawer (3). You see Pen (1, 2), Dresser (1), Drawer (3, 5), Cabinet (2, 3, 4), AlarmClock (2).
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Dresser (1), Drawer (2, 4, 5), Cabinet (1, 2, 3), Book (1). Drawer (4) is closed. 
+Act: open Drawer (4)
+You open Drawer (4). You see Dresser (1), Drawer (2, 4, 5), Cabinet (1, 2, 3), Book (1).
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Pen (1), Dresser (1), Drawer (3, 4, 5), Cabinet (2, 3), AlarmClock (2). Drawer (5) is closed. 
+Act: open Drawer (5)
+You open Drawer (5). You see Pen (1), Dresser (1), Drawer (3, 4, 5), Cabinet (1, 2, 3, 4), AlarmClock (2).
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see SideTable (2), Pen (3), Lamp (1), Drawer (6), Bed (1), AlarmClock (1). Drawer (6) is closed. 
+Act: open Drawer (6)
+You open Drawer (6). You see SideTable (2), Pen (3), Lamp (1), Drawer (6), Bed (1), AlarmClock (1).
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Laptop (1), Dresser (1), Drawer (2), Cabinet (1, 2), ArmChair (1). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see Laptop (1), Dresser (1), Drawer (2), Cabinet (1, 2), ArmChair (1).
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Dresser (1), Drawer (4, 5), Cabinet (2, 3, 4). Cabinet (2) is closed. 
+Act: open Cabinet (2)
+You open Cabinet (2). You see Dresser (1), Drawer (4, 5), Cabinet (2, 3, 4).
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see Pen (1, 2), Dresser (1), Drawer (2, 3, 4, 5), Cabinet (1, 2, 3, 4), Book (1), AlarmClock (2). Cabinet (3) is closed. 
+Act: open Cabinet (3)
+You open Cabinet (3). You see Pen (1, 2), Dresser (1), Drawer (2, 3, 4, 5), Cabinet (1, 2, 3, 4), Book (1), AlarmClock (2).
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see Pen (2), Dresser (1), Drawer (3), Cabinet (4). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+You open Cabinet (4). You see Mug (1), Dresser (1), Drawer (3), Cabinet (4).
+Think: I find Mug (1). Now, I need to pick it up.
+OK.
+Act: pick up Mug (1)
+You pick up Mug (1). You see Mug (1), Dresser (1), Drawer (3), Cabinet (4). I am holding Mug (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

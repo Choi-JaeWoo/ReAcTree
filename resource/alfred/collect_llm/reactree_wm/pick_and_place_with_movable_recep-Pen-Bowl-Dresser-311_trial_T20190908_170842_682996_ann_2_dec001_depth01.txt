@@ -1,0 +1,7 @@
+Your task is to: Place a container with a pen on a stand.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), LaundryHamper (1), GarbageCan (1), Dresser (1), Drawer (1, 2), DiningTable (1), CounterTop (1), Bed (1), ArmChair (1, 2).
+Think: Since I’m not holding a container with a pen, I need to accomplish 3 subgoals sequentially to solve the task. Find and pick up container, place container on stand, and place pen in container.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up container, place container on stand, place pen in container

@@ -1,0 +1,23 @@
+Your primary goal is to: Move the pen on the table to the bowl on top shelf, put the bowl back on the table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pen, place pen in bowl, and place bowl on table.
+Your task is to: place bowl on table
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1, 2, 3, 4, 5), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), Desk (1), Bed (1).
+Think: I hold Bowl (1). Now, I need to put it on the table. I can see Desk (1).
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Window (1, 2), Shelf (1, 4), Pencil (1), Pen (1, 2, 3), Laptop (1), Drawer (1, 2, 3, 4), Desk (1), DeskLamp (1), Chair (1), Bowl (1), AlarmClock (1). 
+Act: recall location of Pen
+You saw Pen (1) near Desk (1). You saw Pen (2) near Desk (1). You saw Pen (3) near Desk (1).
+Think: I can find Pen (1) in Desk (1).
+OK.
+Act: go to Pen (1)
+You see Shelf (1), Pen (1), Bowl (1), AlarmClock (1). 
+Act: pick up Pen (1)
+You pick up Pen (1). You see Shelf (1), Pen (1), Bowl (1), AlarmClock (1). I am holding Pen (1) now.
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Shelf (1), Pen (1), DeskLamp (1), Bowl (1), AlarmClock (1).  I am holding Pen (1) now.
+Act: put down Pen (1)
+You put Pen (1) on Bowl (1). You see Shelf (1), Pen (1), DeskLamp (1), Bowl (1), AlarmClock (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

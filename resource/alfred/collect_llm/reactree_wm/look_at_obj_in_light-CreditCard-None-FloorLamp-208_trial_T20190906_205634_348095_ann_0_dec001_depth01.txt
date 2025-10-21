@@ -1,0 +1,7 @@
+Your task is to: Inspect a credit card near a lit lamp.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8), Ottoman (1), GarbageCan (1), Drawer (1), DiningTable (1), ArmChair (1).
+Think: Since I’m not holding credit card, I need to accomplish 2 subgoals sequentially to solve the task. Find and pick up credit card and find and turn on lamp.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up credit card, find and turn on lamp

@@ -1,0 +1,13 @@
+Your primary goal is to: Put a glass with a fork in it on the counter.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up glass, place glass on counter, find and pick up fork, and place fork in glass near counter.
+Your task is to: place glass on counter
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2), DiningTable (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10). I am holding Glassbottle (1) now.
+Think: I hold Glassbottle (1). Now, I need to put it on the counter. I can see CounterTop (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), Spatula (1), SoapBottle (1), Sink (1), SinkBasin (1), SaltShaker (1), Pen (2), Mug (2), Glassbottle (1), Drawer (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 7).  I am holding Glassbottle (1) now.
+Act: put down Glassbottle (1)
+You put down failed, drop it. You see Toaster (1), Spatula (1), SoapBottle (1), Sink (1), SinkBasin (1), SaltShaker (1), Pen (2), Mug (2), Glassbottle (1), Drawer (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 7).
+Think: Now I accomplish the goal.
+OK.
+Act: done

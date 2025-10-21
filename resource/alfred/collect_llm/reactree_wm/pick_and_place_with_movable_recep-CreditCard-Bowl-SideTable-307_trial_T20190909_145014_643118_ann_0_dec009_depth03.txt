@@ -1,0 +1,13 @@
+Your primary goal is to: Put a bowl with a card in it on the small desk. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up bowl, place bowl on desk, find and pick up card, and place card in bowl near desk.
+Your task is to: place bowl on desk
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2), LaundryHamper (1), GarbageCan (1), Drawer (1, 2, 3), Desk (1), Bed (1). I am holding Bowl (1) now.
+Think: I hold Bowl (1). Now, I need to put it on the desk. I can see Desk (1).
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pencil (3), Pen (2, 3), Desk (1), Chair (1), CellPhone (2, 3), Bowl (1).  I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put Bowl (1) on Desk (1). You see Pencil (3), Pen (2, 3), Desk (1), Chair (1), CellPhone (2, 3), Bowl (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

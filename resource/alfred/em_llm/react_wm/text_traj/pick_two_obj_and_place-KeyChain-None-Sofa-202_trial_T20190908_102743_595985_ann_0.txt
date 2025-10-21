@@ -1,0 +1,57 @@
+Your task is to: put two sets of keys on a sofa
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1), GarbageCan (1), CoffeeTable (1), ArmChair (1).
+Think: To solve the task, I need to find and pick up the keys, then put it on the sofa. And I need to find and pick up another keys, then put it on the sofa.
+OK.
+Think: First, I need to recall location of the keys.
+OK.
+Act: recall location of KeyChain
+You have not seen KeyChain before.
+Think: Now I need to find the key chain. The key chain is more likely to appear on Sofa (1), CoffeeTable (1), ArmChair (1), or in TVStand (1), SideTable (1). I can check each place one by one, starting from Sofa (1), until I find the key chain.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1), CreditCard (1, 2), Box (2). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Laptop (1), HousePlant (1), CoffeeTable (1). 
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see RemoteControl (1), Book (1, 2), ArmChair (1). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), Book (3). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Watch (2), Statue (1), Sofa (1), SideTable (1), KeyChain (1, 4), Box (1). 
+Think: I find KeyChain (1). Now, I need to pick it up.
+OK.
+Act: pick up KeyChain (1)
+You pick up KeyChain (1). You see Watch (2), Statue (1), Sofa (1), SideTable (1), KeyChain (1, 4), Box (1). I am holding KeyChain (1) now.
+Think: I hold KeyChain (1). Now, I need to put it on the sofa.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1), KeyChain (1), CreditCard (1, 2), Box (2).  I am holding KeyChain (1) now.
+Act: put down KeyChain (1)
+You put KeyChain (1) on Sofa (1). You see Sofa (1), Pillow (1), KeyChain (1), CreditCard (1, 2), Box (2).
+Think: I put KeyChain (1) on the Sofa (1). Now, I need to recall location of KeyChain.
+OK.
+Act: recall location of KeyChain
+You saw KeyChain (1) near Sofa (1). You saw KeyChain (4) near SideTable (1).
+Think: KeyChain (1) is on Sofa (1). KeyChain (4) is on SideTable (1). Now, I need to find another key chain. The key chain is more likely to appear on CoffeeTable (1), ArmChair (1), or in TVStand (1), SideTable (1). I can check each place one by one, starting from CoffeeTable (1), until I find the key chain.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Laptop (1), HousePlant (1), CoffeeTable (1). 
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see RemoteControl (1), Book (1, 2), ArmChair (1). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), Book (3). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Watch (2), Statue (1), Sofa (1), SideTable (1), KeyChain (4), Box (1). 
+Think: I find KeyChain (4). Now, I need to pick it up.
+OK.
+Act: pick up KeyChain (4)
+You pick up KeyChain (4). You see Watch (2), Statue (1), Sofa (1), SideTable (1), KeyChain (4), Box (1). I am holding KeyChain (4) now.
+Think: I hold KeyChain (4). Now, I need to put it on the sofa.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1), KeyChain (1, 4), CreditCard (1, 2), Box (2).  I am holding KeyChain (4) now.
+Act: put down KeyChain (4)
+You put KeyChain (4) on Sofa (1). You see Sofa (1), Pillow (1), KeyChain (1, 4), CreditCard (1, 2), Box (2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,47 @@
+Your primary goal is to: Collect a knife, slice a chilled potato followed by putting in a bowl
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, place knife in fridge, find and pick up potato, slice and pick up potato, and and place potato in bowl near fridge.
+Your task is to: and place potato in bowl near fridge
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10). I am holding Potato (1) now.
+Think: I hold Potato (1). Now, I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: I have not seen Bowl before. Now, I need to find the bowl. The bowl is more likely to appear on CounterTop (1-3), SinkBasin (1), or in Microwave (1), Cabinet (1-10), Drawer (1-6). I can check each place one by one, starting from CounterTop (1), until I find the bowl.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), Potato (1), PepperShaker (1), Kettle (1), GarbageCan (1), Drawer (1, 4), CounterTop (1), CoffeeMachine (1), Cabinet (2, 4).  I am holding Potato (1) now.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Potato (1), Plate (3), Microwave (1), Fork (1), Drawer (2, 5, 6), CounterTop (2), Cabinet (3, 7, 8, 10).  I am holding Potato (1) now.
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see StoveKnob (2), StoveBurner (2, 3), Potato (1), Lettuce (2), Knife (3), Egg (1), Drawer (3), CounterTop (3), Cabinet (9).  I am holding Potato (1) now.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (1), Spoon (1), SoapBottle (1), Sink (1), SinkBasin (1), Potato (1), Plate (3), Faucet (1), Egg (2), Drawer (2), CounterTop (2), Cabinet (1, 3, 6).  I am holding Potato (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Potato (1), Plate (3), Microwave (1), Drawer (5, 6), Cabinet (7, 8, 10). Microwave (1) is closed.  I am holding Potato (1) now.
+Act: open Microwave (1)
+You open Microwave (1). You see Potato (1), Microwave (1), Drawer (5, 6), Cabinet (7, 8, 10). I am holding Potato (1) now.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Spoon (1), SoapBottle (1), Sink (1), SinkBasin (1), Potato (1), Plate (3), Fork (1), Drawer (2, 5), CounterTop (2), Cabinet (1, 3, 6, 10). Cabinet (1) is closed.  I am holding Potato (1) now.
+Act: open Cabinet (1)
+You open Cabinet (1). You see Potato (1), Fork (1), Drawer (2, 5), CounterTop (2), Cabinet (1, 3, 6, 10). I am holding Potato (1) now.
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Toaster (1), Potato (1), PepperShaker (1), Kettle (1), GarbageCan (1), Drawer (1, 4), DishSponge (1), CounterTop (1), Cabinet (2, 4). Cabinet (2) is closed.  I am holding Potato (1) now.
+Act: open Cabinet (2)
+You open Cabinet (2). You see Potato (1), GarbageCan (1), DiningTable (1), Cabinet (2). I am holding Potato (1) now.
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see Spoon (1), SoapBottle (1), Sink (1), SinkBasin (1), Potato (1), Plate (3), Fork (1), Drawer (2, 5), CounterTop (2), Cabinet (1, 3, 6, 10). Cabinet (3) is closed.  I am holding Potato (1) now.
+Act: open Cabinet (3)
+The Cabinet (3) is open failed. I am holding Potato (1) now.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see Toaster (1), StoveKnob (1, 4), StoveBurner (1, 4), Potato (1), Pot (1), Pan (1), Drawer (1, 4), CounterTop (1), CoffeeMachine (1), Cabinet (2, 4). Cabinet (4) is closed.  I am holding Potato (1) now.
+Act: open Cabinet (4)
+You open Cabinet (4). You see StoveKnob (1, 3, 4), Potato (1), Mug (1), Drawer (1, 4), CounterTop (1), Cabinet (2, 4), Bowl (1). I am holding Potato (1) now.
+Think: I find Bowl (1). Now, I need to put down Potato (1) on Bowl (1).
+OK.
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Toaster (1), StoveBurner (1, 4), Potato (1), Pot (1), PepperShaker (1), Mug (1), Kettle (1), Drawer (1, 4), CounterTop (1), CoffeeMachine (1), Cabinet (2, 4), Bowl (1).  I am holding Potato (1) now.
+Act: put down Potato (1)
+You put Potato (1) on Bowl (1). You see Toaster (1), StoveBurner (1, 4), Potato (1), Pot (1), PepperShaker (1), Mug (1), Kettle (1), Drawer (1, 4), CounterTop (1), CoffeeMachine (1), Cabinet (2, 4), Bowl (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,13 @@
+Your primary goal is to: Put two pepper mills on the counter.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pepper mill, place pepper mill on counter, find and pick up pepper mill away from counter, and place pepper mill on counter.
+Your task is to: place pepper mill on counter
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13). I am holding PepperShaker (1) now.
+Think: I hold PepperShaker (1). Now, I need to put it on the counter. I can see CounterTop (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), Spatula (2), Sink (1), SinkBasin (1), SaltShaker (4), PepperShaker (1), Lettuce (1), Ladle (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), Bread (1).  I am holding PepperShaker (1) now.
+Act: put down PepperShaker (1)
+You put PepperShaker (1) on CounterTop (1). You see Window (1), Spatula (2), Sink (1), SinkBasin (1), SaltShaker (4), PepperShaker (1), Lettuce (1), Ladle (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), Bread (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

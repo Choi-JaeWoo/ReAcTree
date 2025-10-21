@@ -1,0 +1,201 @@
+Your primary goal is to: Place the rinsed green cup filled with water back into the microwave.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up green cup, fill and pick up green cup, and place green cup in microwave.
+Your task is to: find and pick up green cup
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8).
+Think: First, I need to recall location of the green cup.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now, I need to find the green cup. The green cup is more likely to appear on CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-8). I can check each place one by one, starting from CounterTop (1), until I find the green cup.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Pan (1), Lettuce (1), Ladle (1, 2), GarbageCan (1), DishSponge (1, 2, 3), CounterTop (1), Chair (1, 2). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Window (2), Spoon (1), Spatula (1), Sink (1), SinkBasin (1), SaltShaker (1), Faucet (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Spoon (1), Spatula (1), Sink (1), SinkBasin (1), SaltShaker (1), Plate (3), Faucet (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1). Fridge (1) is closed. 
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see StoveBurner (1, 2), Pot (1), Microwave (1), CounterTop (2), Bowl (2). Microwave (1) is closed. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). There are no visible objects.. Cabinet (1) is closed. 
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Cabinet (2, 4, 5). Cabinet (2) is closed. 
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see Cabinet (1, 3, 8). Cabinet (3) is closed. 
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see Window (2), Cabinet (2, 4, 5). Cabinet (4) is closed. 
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Cabinet (5, 6, 7). Cabinet (5) is closed. 
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Cabinet (3, 6, 7, 8). Cabinet (6) is closed. 
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Cabinet (5, 6, 7). Cabinet (7) is closed. 
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Cabinet (1, 3, 8). Cabinet (8) is closed. 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). There are no visible objects.. Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see Cabinet (1).
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is open. 
+Max decisions

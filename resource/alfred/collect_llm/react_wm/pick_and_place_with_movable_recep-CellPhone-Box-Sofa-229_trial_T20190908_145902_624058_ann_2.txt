@@ -1,0 +1,63 @@
+Your task is to: Put the box with cellphone on the sofa
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2, 3), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), CoffeeTable (1), ArmChair (1).
+Think: To solve the task, I need to find and pick up the box. And I need to find and pick up the cellphone. And I need to put the cellphone in the box. And I need to put the box on the sofa.
+OK.
+Think: First, I need to recall location of the box.
+OK.
+Act: recall location of Box
+You have not seen Box before.
+Think: Now I need to find the box. The box is more likely to appear on Sofa (1), SideTable (1-3), CoffeeTable (1), ArmChair (1), or in Drawer (1-4). I can check each place one by one, starting from Sofa (1), until I find the box.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), CellPhone (2), Book (3). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see WateringCan (1), SideTable (1), HousePlant (1), Book (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2, 3), Pencil (2), Painting (3), Laptop (1), Chair (2). 
+Act: go to SideTable (3)
+You arrive at SideTable (3). You see Window (2, 3), Statue (2), SideTable (2, 3), Pen (2), Chair (2). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see TissueBox (1, 2), Statue (1), RemoteControl (1), Pencil (3), Pen (1), CreditCard (1), CoffeeTable (1), CellPhone (1), Box (1), Book (2). 
+Think: I find Box (1). Now, I need to pick it up.
+OK.
+Act: pick up Box (1)
+You pick up Box (1). You see TissueBox (1, 2), Statue (1), RemoteControl (1), Pencil (3), Pen (1), CoffeeTable (1), CellPhone (1), Box (1), Book (2). I am holding Box (1) now.
+Think: I hold Box (1). Now, I need to recall location of the cellphone.
+OK.
+Act: recall location of CellPhone
+You saw CellPhone (2) near Sofa (1). You saw CellPhone (1) near CoffeeTable (1).
+Think: CellPhone (2) is on Sofa (1). Now, I need to pick it up.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), CellPhone (2), Box (1), Book (3).  I am holding Box (1) now.
+Act: pick up CellPhone (2)
+You are currently holding Box (1). I am holding Box (1) now.
+Think: I hold Box (1). Now, I need to put the cellphone in the box.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see TissueBox (1, 2), Statue (1), RemoteControl (1), Pencil (3), Pen (1), CoffeeTable (1), CellPhone (1), Box (1), Book (2).  I am holding Box (1) now.
+Act: put down Box (1)
+You put down failed, drop it. You see TissueBox (1, 2), Statue (1), RemoteControl (1), Pencil (3), Pen (1), CreditCard (1), CoffeeTable (1), CellPhone (1), Book (2).
+Think: Now I need to pick up CellPhone (1).
+OK.
+Act: pick up CellPhone (1)
+You pick up CellPhone (1). You see TissueBox (1, 2), Statue (1), RemoteControl (1), Pencil (3), Pen (1), CreditCard (1), CoffeeTable (1), CellPhone (1), Book (2). I am holding CellPhone (1) now.
+Think: I hold CellPhone (1). Now, I need to put it in the box.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see TissueBox (1, 2), Statue (1), RemoteControl (1), Pencil (3), Pen (1), CreditCard (1), CoffeeTable (1), CellPhone (1), Book (2).  I am holding CellPhone (1) now.
+Act: put down CellPhone (1)
+You put CellPhone (1) on CoffeeTable (1). You see TissueBox (1, 2), Statue (1), RemoteControl (1), Pencil (3), Pen (1), CreditCard (1), CoffeeTable (1), CellPhone (1), Book (2).
+Think: I put CellPhone (1) in Box (1). Now, I need to pick up the box.
+OK.
+Act: pick up CellPhone (1)
+You pick up CellPhone (1). You see TissueBox (1, 2), Statue (1), RemoteControl (1), Pencil (3), Pen (1), CreditCard (1), CoffeeTable (1), CellPhone (1), Book (2). I am holding CellPhone (1) now.
+Think: I hold CellPhone (1). Now, I need to put the box on the sofa.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see TissueBox (1, 1, 2, 2), Statue (1, 1), Sofa (1), RemoteControl (1, 1), Pillow (1), Pencil (3, 3), Pen (1, 1), CreditCard (1, 1), CoffeeTable (1, 1), CellPhone (1, 1, 1, 2), Box (1), Book (2, 2, 3).  I am holding CellPhone (1) now.
+Act: put down CellPhone (1)
+You put CellPhone (1) on Sofa (1). You see Sofa (1), Pillow (1), CellPhone (1, 2), Box (1), Book (3).
+Think: Now I accomplish the goal.
+OK.
+Act: done

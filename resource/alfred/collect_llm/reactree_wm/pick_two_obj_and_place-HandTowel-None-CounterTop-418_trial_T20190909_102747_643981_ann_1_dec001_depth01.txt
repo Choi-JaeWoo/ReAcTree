@@ -1,0 +1,7 @@
+Your task is to: To move two towels from the wall to the right side of the sink.
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1), HandTowelHolder (1, 2), GarbageCan (1), CounterTop (1), Cabinet (1, 2, 3).
+Think: Since I’m not holding towels, I need to accomplish 2 subgoals sequentially to solve the task. Find and pick up towels and place towels on the right side of the sink.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up towels, place towels on the right side of the sink

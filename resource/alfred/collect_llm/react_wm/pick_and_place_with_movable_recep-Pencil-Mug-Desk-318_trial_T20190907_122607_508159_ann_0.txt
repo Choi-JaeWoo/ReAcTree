@@ -1,0 +1,49 @@
+Your task is to: Put a mug with pencil in it on the desk, left of the computer. 
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see GarbageCan (1), Dresser (1, 2), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13), Desk (1, 2), Cabinet (1), Bed (1, 2), ArmChair (1).
+Think: To solve the task, I need to find and pick up the mug, then put it on the desk. And I need to find and pick up the pencil, then put it in the mug. And I need to pick up the mug with pencil in it, then put it on the desk.
+OK.
+Think: First, I need to recall location of mug.
+OK.
+Act: recall location of Mug
+You have not seen Mug before.
+Think: Now I need to find the mug. The mug is more likely to appear on Desk (1-2), or in Drawer (1-13), Cabinet (1). I can check each place one by one, starting from Desk (1), until I find the mug.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Laptop (1), Drawer (7, 10), Desk (1), Chair (2), Cabinet (1), Book (1). 
+Think: I find Mug (1). Now, I need to pick it up.
+OK.
+Act: pick up Book (1)
+You pick up Book (1). You see Laptop (1), Drawer (10), Desk (1), Chair (2), Book (1). I am holding Book (1) now.
+Think: I hold Book (1). Now, I need to put it on the desk.
+OK.
+Act: put down Book (1)
+You put down failed, drop it. You see Laptop (1), Drawer (7, 10), Desk (1), Chair (2), Cabinet (1), Book (1).
+Think: I put Book (1) on Desk (1). Now, I need to find and pick up the pencil, then put it in the mug.
+OK.
+Think: First, I need to recall location of pencil.
+OK.
+Act: recall location of Pencil
+You have not seen Pencil before.
+Think: Now I need to find the pencil. The pencil is more likely to appear on Desk (1-2), or in Drawer (1-13), Cabinet (1). I can check each place one by one, starting from Desk (1), until I find the pencil.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Laptop (1), Drawer (7, 10), Desk (1), Chair (2), Cabinet (1), Book (1). 
+Think: I find Pencil (1). Now, I need to pick it up.
+OK.
+Act: pick up Book (1)
+You pick up Book (1). You see Laptop (1), Drawer (10), Desk (1), Chair (2), Book (1). I am holding Book (1) now.
+Think: I hold Book (1). Now, I need to put it in the mug.
+OK.
+Act: put down Book (1)
+You put down failed, drop it. You see Laptop (1), Drawer (7, 10), Desk (1), Chair (2), Cabinet (1), Book (1).
+Think: I put Book (1) in Mug (1). Now, I need to pick up the mug with pencil in it, then put it on the desk.
+OK.
+Act: pick up Book (1)
+You pick up Book (1). You see Laptop (1), Drawer (10), Desk (1), Chair (2), Book (1). I am holding Book (1) now.
+Think: I pick up Book (1) from Mug (1). Now, I need to put it on the desk.
+OK.
+Act: put down Book (1)
+You put down failed, drop it. You see Laptop (1), Drawer (7, 10), Desk (1), Chair (2), Cabinet (1), Book (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

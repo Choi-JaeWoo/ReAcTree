@@ -1,0 +1,34 @@
+Your task is to: Move two toilet paper tubes into a cabinet.
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1, 2), Toilet (1), ToiletPaperHanger (1), SinkBasin (1, 2), Shelf (1), HandTowelHolder (1, 2), GarbageCan (1), CounterTop (1), Cabinet (1, 2, 3, 4), Bathtub (1), BathtubBasin (1).
+Think: To solve the task, I need to find and pick up the toilet paper tubes, then put them in the cabinet.
+OK.
+Think: First, I need to recall location of the toilet paper tubes.
+OK.
+Act: recall location of ToiletPaper
+You have not seen ToiletPaper before.
+Think: Now I need to find the toilet paper tubes. The toilet paper tubes are more likely to appear on ToiletPaperHanger (1), Shelf (1), or in Cabinet (1-4). I can check each place one by one, starting from ToiletPaperHanger (1), until I find the toilet paper tubes.
+OK.
+Act: go to ToiletPaperHanger (1)
+You arrive at ToiletPaperHanger (1). You see Toilet (1), ToiletPaper (2), ToiletPaperHanger (1), Plunger (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see ShowerGlass (1), Cloth (2), Bathtub (1), BathtubBasin (1). 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Sink (1, 2), SinkBasin (1, 2), CounterTop (1), Cabinet (1, 2, 3, 4). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see ScrubBrush (1), GarbageCan (1), CounterTop (1), Cabinet (1, 2, 3, 4).
+Act: close Cabinet (1)
+You close Cabinet (1). You see ScrubBrush (1), GarbageCan (1), CounterTop (1), Cabinet (1, 2, 3, 4).
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see ToiletPaper (1), Sink (1), SinkBasin (2), CounterTop (1), Cabinet (2, 4). Cabinet (2) is closed. 
+Act: open Cabinet (2)
+You open Cabinet (2). You see ToiletPaper (1), Sink (1), SinkBasin (2), CounterTop (1), Cabinet (2, 4).
+Think: I find ToiletPaper (1). Now, I need to pick it up.
+OK.
+Act: pick up ToiletPaper (1)
+You pick up ToiletPaper (1). You see ToiletPaper (1), Sink (1), SinkBasin (2), CounterTop (1), Cabinet (2, 4). I am holding ToiletPaper (1) now.
+Think: I hold ToiletPaper (1). Now, I need to put it in the cabinet.
+OK.
+Act: put down ToiletPaper (1)
+You put down failed, drop it. You see ToiletPaper (1), Sink (1), SinkBasin (2), CounterTop (1), Cabinet (2, 4).
+Think: Now I need to recall location of the toilet paper tubes.
+OK.

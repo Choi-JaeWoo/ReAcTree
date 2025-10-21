@@ -1,0 +1,19 @@
+Your primary goal is to: Putting a candle in a box, putting the box away
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up candle, put candle in box, and put box away.
+Your task is to: find and pick up candle
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1, 2), SideTable (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1, 2), CoffeeTable (1), ArmChair (1).
+Think: First, I need to recall location of the candle.
+OK.
+Act: recall location of Candle
+You have not seen Candle before.
+Think: Now, I need to find the candle. The candle is more likely to appear on DiningTable (1-2), CoffeeTable (1), SideTable (1), or in Drawer (1-6), Dresser (1). I can check each place one by one, starting from DiningTable (1), until I find the candle.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Television (1), TVStand (1), RemoteControl (2), DiningTable (1, 2), Candle (1, 3). 
+Think: I find Candle (1). Now, I need to pick it up.
+OK.
+Act: pick up Candle (1)
+You pick up Candle (1). You see Television (1), TVStand (1), RemoteControl (2), DiningTable (1, 2), Candle (1, 3). I am holding Candle (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

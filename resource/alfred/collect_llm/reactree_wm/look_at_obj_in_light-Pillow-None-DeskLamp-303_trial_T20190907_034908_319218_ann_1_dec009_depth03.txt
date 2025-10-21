@@ -1,0 +1,19 @@
+Your primary goal is to: To see the pillow in the light. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pillow, and find and turn on lamp.
+Your task is to: find and turn on lamp
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5), Desk (1), Bed (1). I am holding Pillow (1) now.
+Think: First, I need to recall location of the lamp.
+OK.
+Act: recall location of DeskLamp
+You have not seen DeskLamp before.
+Think: Now I need to find the desk lamp. The desk lamp is more likely to appear near Desk (1), Shelf (1-12), Bed (1). I can check each place one by one, starting from Desk (1), until I find the desk lamp.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Vase (1), Pillow (1), Pencil (2, 3), Mug (3), Desk (1), DeskLamp (1), CreditCard (1), CD (1), AlarmClock (1).  I am holding Pillow (1) now.
+Think: I find DeskLamp (1). Now, I need to turn it on.
+OK.
+Act: turn on DeskLamp (1)
+You turn on DeskLamp (1). You see Vase (1), Pillow (1), Pencil (2, 3), Mug (3), Desk (1), DeskLamp (1), CreditCard (1), CD (1), AlarmClock (1). I am holding Pillow (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

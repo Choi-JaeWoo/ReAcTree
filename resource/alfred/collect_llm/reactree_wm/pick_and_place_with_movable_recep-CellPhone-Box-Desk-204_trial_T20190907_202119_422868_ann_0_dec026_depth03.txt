@@ -1,0 +1,13 @@
+Your primary goal is to: To move a box with a cell phone in it to the black table. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up box, and place box on black table.
+Your task is to: place box on black table
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1, 2), Shelf (1, 2, 3), Safe (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), Desk (1), CoffeeTable (1), ArmChair (1). I am holding Box (1) now.
+Think: I hold Box (1). Now, I need to put it on the black table. I can see CoffeeTable (1).
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Laptop (1), CoffeeTable (1), Box (1).  I am holding Box (1) now.
+Act: put down Box (1)
+You put Box (1) on CoffeeTable (1). You see Laptop (1), CoffeeTable (1), Box (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

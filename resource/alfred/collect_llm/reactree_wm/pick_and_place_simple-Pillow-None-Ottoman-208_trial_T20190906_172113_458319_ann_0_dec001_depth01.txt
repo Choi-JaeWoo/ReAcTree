@@ -1,0 +1,7 @@
+Your task is to: put a cushion on an ottoman
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8), Ottoman (1), GarbageCan (1), Drawer (1), DiningTable (1), ArmChair (1).
+Think: Since I’m not holding cushion, I need to accomplish 2 subgoals sequentially to solve the task. Find and pick up cushion and place cushion on ottoman.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up cushion, place cushion on ottoman

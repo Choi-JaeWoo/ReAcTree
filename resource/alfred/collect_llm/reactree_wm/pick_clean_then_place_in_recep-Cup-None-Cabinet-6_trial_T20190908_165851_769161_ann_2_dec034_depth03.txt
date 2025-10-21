@@ -1,0 +1,23 @@
+Your primary goal is to: Put a cup filled with water in the cupboard.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up cup, fill and pick up cup, and place cup in cupboard.
+Your task is to: fill and pick up cup
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), CounterTop (1, 2, 3, 4), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15). I am holding Knife (1) now.
+Think: I hold Knife (1). Now, I need to fill it with water using the sink.
+OK.
+Act: go to Sink (1)
+You arrive at Sink (1). You see Window (1), Sink (1), SinkBasin (1), SaltShaker (2), Mug (1), Knife (1), Faucet (1), CounterTop (3).  I am holding Knife (1) now.
+Act: put down Knife (1)
+You put Knife (1) on Sink (1). You see Window (1), Sink (1), SinkBasin (1), SaltShaker (2), Mug (1), Knife (1), Faucet (1), CounterTop (3).
+Act: pick up Mug (1)
+You pick up Mug (1). You see Window (1), Sink (1), SinkBasin (1), SaltShaker (2), Mug (1), Knife (1), Faucet (1), CounterTop (3). I am holding Mug (1) now.
+Act: turn on Faucet (1)
+You turn on Faucet (1). You see Window (1), Sink (1), SinkBasin (1), SaltShaker (2), Mug (1), Knife (1), Faucet (1), CounterTop (3). I am holding Mug (1) now.
+Act: turn off Faucet (1)
+You turn off Faucet (1). You see Window (1), Sink (1), SinkBasin (1), SaltShaker (2), Mug (1), Knife (1), Faucet (1), CounterTop (3). I am holding Mug (1) now.
+Think: I fill Mug (1) with water using Sink (1). Now, I need to pick up the mug from the sink.
+OK.
+Act: pick up Mug (1)
+You are currently holding Mug (1). I am holding Mug (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

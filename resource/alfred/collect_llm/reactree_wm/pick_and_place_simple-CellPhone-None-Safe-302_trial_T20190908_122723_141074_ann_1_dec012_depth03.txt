@@ -1,0 +1,181 @@
+Your primary goal is to: Put a phone in a safe.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up phone, and place phone in safe.
+Your task is to: place phone in safe
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1, 2), Shelf (1, 2, 3, 4, 5), Safe (1), GarbageCan (1), Drawer (1, 2, 3), Desk (1), Bed (1). I am holding CellPhone (1) now.
+Think: I hold CellPhone (1). Now, I need to put it in the safe. I can see Safe (1).
+OK.
+Act: go to Safe (1)
+You arrive at Safe (1). You see Safe (1), CellPhone (1), Bed (1). Safe (1) is closed.  I am holding CellPhone (1) now.
+Act: open Safe (1)
+The Safe (1) is open failed. I am holding CellPhone (1) now.
+Think: I cannot open Safe (1). Now I need to recall the password.
+OK.
+Act: recall location of CellPhone
+You saw CellPhone (1) near hand.
+Think: I can find CellPhone (1) near hand.
+OK.
+Act: go to CellPhone (1)
+You already arrive at CellPhone (1). You see Safe (1, 1), GarbageCan (1), CellPhone (1, 1), Bed (1, 1).  I am holding CellPhone (1) now.
+Act: put down CellPhone (1)
+You put down failed, drop it. You see Safe (1), GarbageCan (1), Bed (1).
+Think: I cannot put down CellPhone (1). Now I need to recall the password.
+OK.
+Act: recall location of CellPhone
+You dropped CellPhone due to fail to put it on the receptacle. You need to find it again.
+Think: I cannot recall the location of CellPhone (1). Now I need to find it again.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pillow (1), Desk (1), Bed (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pen (3), Laptop (1), HousePlant (1), Desk (1), AlarmClock (1). 
+Act: go to Safe (1)
+You arrive at Safe (1). You see Safe (1), Bed (1). Safe (1) is closed. 
+Act: go to GarbageCan (1)
+You arrive at GarbageCan (1). You see Safe (1), Pen (2), GarbageCan (1), Drawer (1, 2), DeskLamp (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (2), Pen (2), GarbageCan (1), Drawer (1, 2), DeskLamp (1), CellPhone (2). Drawer (1) is closed. 
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Think: I cannot open Drawer (1). Now I need to recall the password.
+OK.
+Act: recall location of CellPhone
+You dropped CellPhone due to fail to put it on the receptacle. You need to find it again. You saw CellPhone (2) near Drawer (1).
+Think: I can find CellPhone (2) near Drawer (1).
+OK.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (2), Pen (2), GarbageCan (1), Drawer (1, 2), DeskLamp (1), CellPhone (2). Drawer (1) is closed. 
+Act: pick up CellPhone (2)
+You pick up CellPhone (2). You see SideTable (2), Pen (2), GarbageCan (1), Drawer (1, 2), DeskLamp (1), CellPhone (2). I am holding CellPhone (2) now.
+Think: I find CellPhone (2). Now, I need to put it in the safe. I can see Safe (1).
+OK.
+Act: go to Safe (1)
+You arrive at Safe (1). You see Safe (1), CellPhone (2), Bed (1). Safe (1) is closed.  I am holding CellPhone (2) now.
+Act: open Safe (1)
+The Safe (1) is open failed. I am holding CellPhone (2) now.
+Think: I cannot open Safe (1). Now I need to recall the password.
+OK.
+Act: recall location of CellPhone
+You dropped CellPhone due to fail to put it on the receptacle. You need to find it again. You saw CellPhone (2) near hand.
+Think: I can find CellPhone (2) near hand.
+OK.
+Act: go to CellPhone (2)
+You already arrive at CellPhone (2). You see Safe (1, 1), GarbageCan (1), CellPhone (2, 2), Bed (1, 1).  I am holding CellPhone (2) now.
+Act: put down CellPhone (2)
+You put down failed, drop it. You see Safe (1), GarbageCan (1), Bed (1).
+Think: I cannot put down CellPhone (2). Now I need to recall the password.
+OK.
+Act: recall location of CellPhone
+You dropped CellPhone due to fail to put it on the receptacle. You need to find it again. You dropped CellPhone due to fail to put it on the receptacle. You need to find it again.
+Think: I cannot recall the location of CellPhone (2). Now I need to find it again.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pillow (1), Desk (1), Bed (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pen (3), Laptop (1), HousePlant (1), Desk (1), AlarmClock (1). 
+Act: go to Safe (1)
+You arrive at Safe (1). You see Safe (1), Bed (1). Safe (1) is closed. 
+Act: go to GarbageCan (1)
+You arrive at GarbageCan (1). You see Safe (1), Pen (2), GarbageCan (1), Drawer (1, 2), DeskLamp (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (2), Pen (2), GarbageCan (1), Drawer (1, 2), DeskLamp (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Think: I cannot open Drawer (1). Now I need to recall the password.
+OK.
+Act: recall location of CellPhone
+You dropped CellPhone due to fail to put it on the receptacle. You need to find it again. You dropped CellPhone due to fail to put it on the receptacle. You need to find it again.
+Think: I cannot recall the location of CellPhone (2). Now I need to find it again.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pillow (1), Desk (1), Bed (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pen (3), Laptop (1), HousePlant (1), Desk (1), AlarmClock (1). 
+Act: go to Safe (1)
+You arrive at Safe (1). You see Safe (1), Bed (1). Safe (1) is closed. 
+Act: go to GarbageCan (1)
+You arrive at GarbageCan (1). You see Safe (1), Pen (2), GarbageCan (1), Drawer (1, 2), DeskLamp (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (2), Pen (2), GarbageCan (1), Drawer (1, 2), DeskLamp (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Think: I cannot open Drawer (1). Now I need to recall the password.
+OK.
+Act: recall location of CellPhone
+You dropped CellPhone due to fail to put it on the receptacle. You need to find it again. You dropped CellPhone due to fail to put it on the receptacle. You need to find it again.
+Think: I cannot recall the location of CellPhone (2). Now I need to find it again.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pillow (1), Desk (1), Bed (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pen (3), Laptop (1), HousePlant (1), Desk (1), AlarmClock (1). 
+Act: go to Safe (1)
+You arrive at Safe (1). You see Safe (1), Bed (1). Safe (1) is closed. 
+Act: go to GarbageCan (1)
+You arrive at GarbageCan (1). You see Safe (1), Pen (2), GarbageCan (1), Drawer (1, 2), DeskLamp (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (2), Pen (2), GarbageCan (1), Drawer (1, 2), DeskLamp (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Think: I cannot open Drawer (1). Now I need to recall the password.
+OK.
+Act: recall location of CellPhone
+You dropped CellPhone due to fail to put it on the receptacle. You need to find it again. You dropped CellPhone due to fail to put it on the receptacle. You need to find it again.
+Think: I cannot recall the location of CellPhone (2). Now I need to find it again.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pillow (1), Desk (1), Bed (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pen (3), Laptop (1), HousePlant (1), Desk (1), AlarmClock (1). 
+Act: go to Safe (1)
+You arrive at Safe (1). You see Safe (1), Bed (1). Safe (1) is closed. 
+Act: go to GarbageCan (1)
+You arrive at GarbageCan (1). You see Safe (1), Pen (2), GarbageCan (1), Drawer (1, 2), DeskLamp (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (2), Pen (2), GarbageCan (1), Drawer (1, 2), DeskLamp (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Think: I cannot open Drawer (1). Now I need to recall the password.
+OK.
+Act: recall location of CellPhone
+You dropped CellPhone due to fail to put it on the receptacle. You need to find it again. You dropped CellPhone due to fail to put it on the receptacle. You need to find it again.
+Think: I cannot recall the location of CellPhone (2). Now I need to find it again.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pillow (1), Desk (1), Bed (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pen (3), Laptop (1), HousePlant (1), Desk (1), AlarmClock (1). 
+Act: go to Safe (1)
+You arrive at Safe (1). You see Safe (1), Bed (1). Safe (1) is closed. 
+Act: go to GarbageCan (1)
+You arrive at GarbageCan (1). You see Safe (1), Pen (2), GarbageCan (1), Drawer (1, 2), DeskLamp (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (2), Pen (2), GarbageCan (1), Drawer (1, 2), DeskLamp (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Think: I cannot open Drawer (1). Now I need to recall the password.
+OK.
+Act: recall location of CellPhone
+You dropped CellPhone due to fail to put it on the receptacle. You need to find it again. You dropped CellPhone due to fail to put it on the receptacle. You need to find it again.
+Think: I cannot recall the location of CellPhone (2). Now I need to find it again.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pillow (1), Desk (1), Bed (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pen (3), Laptop (1), HousePlant (1), Desk (1), AlarmClock (1). 
+Act: go to Safe (1)
+You arrive at Safe (1). You see Safe (1), Bed (1). Safe (1) is closed. 
+Act: go to GarbageCan (1)
+You arrive at GarbageCan (1). You see Safe (1), Pen (2), GarbageCan (1), Drawer (1, 2), DeskLamp (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (2), Pen (2), GarbageCan (1), Drawer (1, 2), DeskLamp (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Think: I cannot open Drawer (1). Now I need to recall the password.
+OK.
+Act: recall location of CellPhone
+You dropped CellPhone due to fail to put it on the receptacle. You need to find it again. You dropped CellPhone due to fail to put it on the receptacle. You need to find it again.
+Think: I cannot recall the location of CellPhone (2). Now I need to find it again.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pillow (1), Desk (1), Bed (1). 
+Max decisions

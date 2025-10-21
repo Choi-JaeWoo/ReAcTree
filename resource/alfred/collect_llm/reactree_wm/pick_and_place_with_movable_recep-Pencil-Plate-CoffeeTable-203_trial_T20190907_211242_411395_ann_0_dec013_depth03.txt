@@ -1,0 +1,179 @@
+Your primary goal is to: Get the pencil, put the pencil on the tray, take tray to coffee table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pencil, place pencil on tray, and take tray to coffee table.
+Your task is to: take tray to coffee table
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1), Ottoman (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7), DiningTable (1), CoffeeTable (1), ArmChair (1).
+Think: I hold Tray (1). Now, I need to put it on the coffee table. I can see CoffeeTable (1).
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Max decisions

@@ -1,0 +1,73 @@
+Your task is to: Pu the cup with pencil on the desk
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1, 2, 3, 4, 5), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), Desk (1), Bed (1).
+Think: To solve the task, I need to find and pick up the cup, then put it on the desk.
+OK.
+Think: First, I need to recall location of the cup.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the cup. The cup is more likely to appear on Desk (1), Shelf (1-5), or in Drawer (1-8). I can check each place one by one, starting from Desk (1), until I find the cup.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Window (1, 2), Shelf (4), Pencil (1), Laptop (1), Desk (1), Chair (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), DeskLamp (1). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Shelf (2, 3), Pen (1), KeyChain (1), CellPhone (1), Boots (1). 
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Shelf (2, 3), Pen (1), KeyChain (1), CellPhone (1), Boots (1), AlarmClock (1). 
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see Shelf (4), Drawer (1, 2, 3, 4, 5, 8), Desk (1), Bowl (1), Boots (1). 
+Act: go to Shelf (5)
+You arrive at Shelf (5). You see Shelf (3, 5), CellPhone (1), AlarmClock (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Shelf (4), Pencil (1), Drawer (1, 2, 3, 4, 5, 8), Desk (1), Chair (1), Bowl (1), Boots (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Shelf (4), Pencil (1), Drawer (1, 2, 3, 4, 5, 8), Desk (1), Chair (1), Bowl (1), Boots (1), BasketBall (1).
+Act: close Drawer (1)
+You close Drawer (1). You see Shelf (4), Pencil (1), Drawer (1, 2, 3, 4, 5, 8), Desk (1), Chair (1), Bowl (1), Boots (1), BasketBall (1).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Shelf (4), Pencil (1), Drawer (1, 2, 3, 4, 5, 8), Desk (1), Chair (1), Bowl (1), Boots (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see Shelf (4), Pencil (1), KeyChain (3), Drawer (1, 2, 3, 4, 5, 8), Desk (1), Chair (1), Bowl (1), Boots (1), BasketBall (1).
+Act: close Drawer (2)
+You close Drawer (2). You see Shelf (4), Pencil (1), KeyChain (3), Drawer (1, 2, 3, 4, 5, 8), Desk (1), Chair (1), Bowl (1), Boots (1), BasketBall (1).
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Shelf (4), Pencil (1), KeyChain (3), Drawer (1, 2, 3, 4, 5, 8), Desk (1), Chair (1), Bowl (1), Boots (1). Drawer (3) is closed. 
+Act: open Drawer (3)
+You open Drawer (3). You see Shelf (4), Pencil (1), Drawer (1, 2, 3, 4, 5, 8), Desk (1), Chair (1), CD (1), Bowl (1), Boots (1), BasketBall (1).
+Act: close Drawer (3)
+You close Drawer (3). You see Shelf (4), Pencil (1), KeyChain (3), Drawer (1, 2, 3, 4, 5, 8), Desk (1), Chair (1), Bowl (1), Boots (1), BasketBall (1).
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Shelf (2, 4), KeyChain (1, 3), Drawer (1, 2, 3, 4, 5, 8), Desk (1), Bowl (1), Boots (1). Drawer (4) is closed. 
+Act: open Drawer (4)
+The Drawer (4) is open failed.
+Act: close Drawer (4)
+The Drawer (4) is already closed.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Shelf (2, 4), KeyChain (1, 3), Drawer (1, 2, 3, 4, 5, 8), Desk (1), Bowl (1), Boots (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is open failed.
+Act: close Drawer (5)
+The Drawer (5) is already closed.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Window (3), Pen (2), Dresser (1), Drawer (6, 7), DeskLamp (1), CreditCard (1), Bowl (2), Bed (1). Drawer (6) is closed. 
+Act: open Drawer (6)
+You open Drawer (6). You see Window (2, 3), Pen (2), KeyChain (2), Dresser (1), Drawer (6, 7), DeskLamp (1), CreditCard (1), Bowl (2), Bed (1).
+Act: close Drawer (6)
+You close Drawer (6). You see Window (2, 3), Pen (2), Dresser (1), Drawer (6, 7), DeskLamp (1), CreditCard (1), Bowl (2), Bed (1).
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see Window (3), Pen (2), Dresser (1), Drawer (6, 7), DeskLamp (1), CreditCard (1), Bowl (2), Bed (1). Drawer (7) is closed. 
+Act: open Drawer (7)
+You open Drawer (7). You see Window (2, 3), Pen (2), Dresser (1), Drawer (7), DeskLamp (1), CreditCard (1), Bowl (2), Bed (1).
+Act: close Drawer (7)
+You close Drawer (7). You see Window (2, 3), Pen (2), Dresser (1), Drawer (6, 7), DeskLamp (1), CreditCard (1), Bowl (2), Bed (1).
+Act: go to Drawer (8)
+You arrive at Drawer (8). You see Shelf (2, 4), KeyChain (1, 3), Drawer (1, 2, 3, 4, 5, 8), Desk (1), Bowl (1), Boots (1). Drawer (8) is closed. 
+Act: open Drawer (8)
+The Drawer (8) is open failed.
+Act: close Drawer (8)
+The Drawer (8) is already closed.
+Think: I cannot find the cup.
+OK.
+Act: failure

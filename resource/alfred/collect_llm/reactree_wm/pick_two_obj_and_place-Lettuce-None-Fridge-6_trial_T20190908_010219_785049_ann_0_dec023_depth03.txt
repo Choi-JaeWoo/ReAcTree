@@ -1,0 +1,159 @@
+Your primary goal is to: Place two heads of lettuce in a fridge. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, slice and pick up lettuce, place lettuce in fridge, find and pick up lettuce away from fridge, and and place lettuce in fridge.
+Your task is to: slice and pick up lettuce
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), CounterTop (1, 2, 3, 4), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15). I am holding Knife (2) now.
+Think: I hold Knife (2). Now, I need to recall location of the lettuce.
+OK.
+Act: recall location of Lettuce
+You saw Lettuce (3) near Cabinet (1).
+Think: I can find Lettuce (3) near Cabinet (1).
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Plate (3), Pan (1), Lettuce (3), Knife (2), Fork (1), Drawer (2, 3, 4), CounterTop (4), Cabinet (1, 2, 3, 12). Cabinet (1) is closed.  I am holding Knife (2) now.
+Act: open Cabinet (1)
+You open Cabinet (1). You see Plate (3), Knife (2), Fridge (1), Fork (1), Drawer (2, 3, 4), CounterTop (4), Cabinet (1, 2, 3, 12). I am holding Knife (2) now.
+Think: I find Lettuce (3). Now, I need to slice it.
+OK.
+Act: go to CounterTop (4)
+You arrive at CounterTop (4). You see Knife (2), Chair (1), Cabinet (2, 3).  I am holding Knife (2) now.
+Act: put down Knife (2)
+You put down failed, drop it. You see Chair (1), Cabinet (2, 3).
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Tomato (3), Plate (3), Pan (1), Lettuce (3), Knife (2), Fork (1), Drawer (1, 2, 3, 4), CounterTop (4), Chair (1), Cabinet (1, 2, 2, 3, 3, 12). Cabinet (1) is open. 
+Act: pick up Lettuce (3)
+You pick up Lettuce (3). You see Tomato (3), Plate (3), Pan (1), Lettuce (3), Knife (2), Fork (1), Drawer (1, 2, 3, 4), CounterTop (4), Cabinet (1, 2, 3, 12). I am holding Lettuce (3) now.
+Act: go to CounterTop (4)
+You arrive at CounterTop (4). You see Lettuce (3), Chair (1), Cabinet (2, 3).  I am holding Lettuce (3) now.
+Act: put down Lettuce (3)
+You put down failed, drop it. You see Chair (1), Cabinet (2, 3).
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Tomato (3), Plate (3), Pan (1), Knife (2), Fork (1), Drawer (1, 2, 3, 4), CounterTop (4), Chair (1), Cabinet (1, 2, 2, 3, 3, 12). Cabinet (1) is open. 
+Act: pick up Knife (2)
+You pick up Knife (2). You see Tomato (3), Plate (3), Pan (1), Knife (2), Fork (1), Drawer (1, 2, 3, 4), CounterTop (4), Cabinet (1, 2, 3, 12). I am holding Knife (2) now.
+Act: go to CounterTop (4)
+You arrive at CounterTop (4). You see Knife (2), Chair (1), Cabinet (2, 3).  I am holding Knife (2) now.
+Act: put down Knife (2)
+You put down failed, drop it. You see Chair (1), Cabinet (2, 3).
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Plate (3), Pan (1), Fork (1), Drawer (2, 3, 4), CounterTop (4), Cabinet (1, 2, 3, 12). Cabinet (1) is open. 
+Act: pick up Plate (3)
+You pick up Plate (3). You see Plate (3), Pan (1), Fork (1), Drawer (2, 3, 4), CounterTop (4), Cabinet (1, 2, 3, 12). I am holding Plate (3) now.
+Act: go to CounterTop (4)
+You arrive at CounterTop (4). You see Plate (3), Chair (1), Cabinet (2, 3).  I am holding Plate (3) now.
+Act: put down Plate (3)
+You put down failed, drop it. You see Plate (3), Chair (1), Cabinet (2, 3).
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Pan (1), Fork (1), Drawer (2, 3, 4), CounterTop (4), Cabinet (1, 2, 3, 12). Cabinet (1) is open. 
+Act: pick up Pan (1)
+You pick up Pan (1). You see Pan (1), Fork (1), Drawer (2, 3, 4), CounterTop (4), Cabinet (1, 2, 3, 12). I am holding Pan (1) now.
+Act: go to CounterTop (4)
+You arrive at CounterTop (4). You see Pan (1), Chair (1), Cabinet (2, 3).  I am holding Pan (1) now.
+Act: put down Pan (1)
+You put down failed, drop it. You see Pan (1), Chair (1), Cabinet (2, 3).
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fork (1), Drawer (2, 3, 4), CounterTop (4), Cabinet (1, 2, 3, 12). Cabinet (1) is open. 
+Act: pick up Fork (1)
+You pick up Fork (1). You see Fork (1), Drawer (2, 3, 4), CounterTop (4), Cabinet (1, 2, 3, 12). I am holding Fork (1) now.
+Act: go to CounterTop (4)
+You arrive at CounterTop (4). You see Pan (1), Fork (1), Chair (1), Cabinet (2, 3).  I am holding Fork (1) now.
+Act: put down Fork (1)
+You put down failed, drop it. You see Pan (1), Chair (1), Cabinet (2, 3).
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Tomato (3), Pan (1), Fork (1), Drawer (1, 2, 3, 4), CounterTop (4), Chair (1), Cabinet (1, 2, 2, 3, 3, 12). Cabinet (1) is open. 
+Act: pick up Tomato (3)
+You pick up Tomato (3). You see Tomato (3), Fork (1), Drawer (1, 2, 3, 4), CounterTop (4), Cabinet (1, 2, 3, 12). I am holding Tomato (3) now.
+Act: go to CounterTop (4)
+You arrive at CounterTop (4). You see Tomato (3), Pan (1), Chair (1), Cabinet (2, 3).  I am holding Tomato (3) now.
+Act: put down Tomato (3)
+You put down failed, drop it. You see Pan (1), Chair (1), Cabinet (2, 3).
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fork (1), Drawer (2, 3, 4), CounterTop (4), Cabinet (1, 2, 3, 12). Cabinet (1) is open. 
+Act: pick up Fork (1)
+You pick up Fork (1). You see Fork (1), Drawer (2, 3, 4), CounterTop (4), Cabinet (1, 2, 3, 12). I am holding Fork (1) now.
+Act: go to CounterTop (4)
+You arrive at CounterTop (4). You see Pan (1), Fork (1), Chair (1), Cabinet (2, 3).  I am holding Fork (1) now.
+Act: put down Fork (1)
+You put down failed, drop it. You see Pan (1), Chair (1), Cabinet (2, 3).
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Pan (1), Fork (1), Drawer (1, 2, 3, 4), CounterTop (4), Chair (1), Cabinet (1, 2, 2, 3, 3, 12). Cabinet (1) is open. 
+Act: pick up Pan (1)
+The Pan (1) is not close to you.
+Act: go to CounterTop (4)
+You arrive at CounterTop (4). You see Pan (1), Chair (1), Cabinet (2, 3). 
+Act: pick up Pan (1)
+You pick up Pan (1). You see Pan (1), Chair (1), Cabinet (2, 3). I am holding Pan (1) now.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Pan (1), Drawer (2, 3, 4), CounterTop (4), Cabinet (1, 2, 3, 12). Cabinet (1) is open.  I am holding Pan (1) now.
+Act: put down Pan (1)
+You put down failed, drop it. You see Pan (1), Fork (1), Drawer (2, 3, 4), CounterTop (4), Cabinet (1, 2, 3, 12).
+Act: go to CounterTop (4)
+You arrive at CounterTop (4). You see Pan (1), Chair (1), Cabinet (2, 3). 
+Act: pick up Pan (1)
+You pick up Pan (1). You see Pan (1), Chair (1), Cabinet (2, 3). I am holding Pan (1) now.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Pan (1), Drawer (2, 3, 4), CounterTop (4), Cabinet (1, 2, 3, 12). Cabinet (1) is open.  I am holding Pan (1) now.
+Act: put down Pan (1)
+You put down failed, drop it. You see Pan (1), Fork (1), Drawer (2, 3, 4), CounterTop (4), Cabinet (1, 2, 3, 12).
+Act: go to CounterTop (4)
+You arrive at CounterTop (4). You see Pan (1), Chair (1), Cabinet (2, 3). 
+Act: pick up Pan (1)
+You pick up Pan (1). You see Pan (1), Chair (1), Cabinet (2, 3). I am holding Pan (1) now.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Pan (1), Drawer (2, 3, 4), CounterTop (4), Cabinet (1, 2, 3, 12). Cabinet (1) is open.  I am holding Pan (1) now.
+Act: put down Pan (1)
+You put down failed, drop it. You see Pan (1), Fork (1), Drawer (2, 3, 4), CounterTop (4), Cabinet (1, 2, 3, 12).
+Act: go to CounterTop (4)
+You arrive at CounterTop (4). You see Pan (1), Chair (1), Cabinet (2, 3). 
+Act: pick up Pan (1)
+You pick up Pan (1). You see Pan (1), Chair (1), Cabinet (2, 3). I am holding Pan (1) now.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Pan (1), Drawer (2, 3, 4), CounterTop (4), Cabinet (1, 2, 3, 12). Cabinet (1) is open.  I am holding Pan (1) now.
+Act: put down Pan (1)
+You put down failed, drop it. You see Pan (1), Fork (1), Drawer (2, 3, 4), CounterTop (4), Cabinet (1, 2, 3, 12).
+Act: go to CounterTop (4)
+You arrive at CounterTop (4). You see Chair (1), Cabinet (2, 3). 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Pan (1), Fork (1), Drawer (2, 3, 4), CounterTop (4), Cabinet (1, 2, 3, 12). Cabinet (1) is open. 
+Act: pick up Fork (1)
+You pick up Fork (1). You see Pan (1), Fork (1), Drawer (2, 3, 4), CounterTop (4), Cabinet (1, 2, 3, 12). I am holding Fork (1) now.
+Act: go to CounterTop (4)
+You arrive at CounterTop (4). You see Fork (1), Chair (1), Cabinet (2, 3).  I am holding Fork (1) now.
+Act: put down Fork (1)
+You put down failed, drop it. You see Chair (1), Cabinet (2, 3).
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Pan (1), Fridge (1), Fork (1), Drawer (1, 2, 3, 4), CounterTop (4), Chair (1, 1), Cabinet (1, 2, 2, 2, 3, 3, 3, 12). Cabinet (1) is open. 
+Act: pick up Fork (1)
+You pick up Fork (1). You see Pan (1), Fridge (1), Fork (1), Drawer (1, 2, 3, 4), CounterTop (4), Cabinet (1, 2, 3, 12). I am holding Fork (1) now.
+Act: go to CounterTop (4)
+You arrive at CounterTop (4). You see Fork (1), Chair (1), Cabinet (2, 3).  I am holding Fork (1) now.
+Act: put down Fork (1)
+You put down failed, drop it. You see Chair (1), Cabinet (2, 3).
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Pan (1), Fridge (1), Fork (1), Drawer (1, 2, 3, 4), CounterTop (4), Chair (1, 1), Cabinet (1, 2, 2, 2, 3, 3, 3, 12). Cabinet (1) is open. 
+Act: pick up Fork (1)
+You pick up Fork (1). You see Pan (1), Fridge (1), Fork (1), Drawer (1, 2, 3, 4), CounterTop (4), Cabinet (1, 2, 3, 12). I am holding Fork (1) now.
+Act: go to CounterTop (4)
+You arrive at CounterTop (4). You see Fork (1), Chair (1), Cabinet (2, 3).  I am holding Fork (1) now.
+Act: put down Fork (1)
+You put down failed, drop it. You see Chair (1), Cabinet (2, 3).
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Pan (1), Fridge (1), Fork (1), Drawer (1, 2, 3, 4), CounterTop (4), Chair (1, 1), Cabinet (1, 2, 2, 2, 3, 3, 3, 12). Cabinet (1) is open. 
+Act: pick up Fork (1)
+You pick up Fork (1). You see Pan (1), Fridge (1), Fork (1), Drawer (1, 2, 3, 4), CounterTop (4), Cabinet (1, 2, 3, 12). I am holding Fork (1) now.
+Act: go to CounterTop (4)
+You arrive at CounterTop (4). You see Fork (1), Chair (1), Cabinet (2, 3).  I am holding Fork (1) now.
+Act: put down Fork (1)
+You put down failed, drop it. You see Chair (1), Cabinet (2, 3).
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Pan (1), Fridge (1), Fork (1), Drawer (1, 2, 3, 4), CounterTop (4), Chair (1, 1), Cabinet (1, 2, 2, 2, 3, 3, 3, 12). Cabinet (1) is open. 
+Act: pick up Fork (1)
+You pick up Fork (1). You see Pan (1), Fridge (1), Fork (1), Drawer (1, 2, 3, 4), CounterTop (4), Cabinet (1, 2, 3, 12). I am holding Fork (1) now.
+Act: go to CounterTop (4)
+You arrive at CounterTop (4). You see Fork (1), Chair (1), Cabinet (2, 3).  I am holding Fork (1) now.
+Act: put down Fork (1)
+You put down failed, drop it. You see Chair (1), Cabinet (2, 3).
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Pan (1), Fridge (1), Fork (1), Drawer (1, 2, 3, 4), CounterTop (4), Chair (1, 1), Cabinet (1, 2, 2, 2, 3, 3, 3, 12). Cabinet (1) is open. 
+Act: pick up Fork (1)
+You pick up Fork (1). You see Pan (1), Fridge (1), Fork (1), Drawer (1, 2, 3, 4), CounterTop (4), Cabinet (1, 2, 3, 12). I am holding Fork (1) now.
+Max decisions

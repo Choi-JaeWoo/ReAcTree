@@ -1,0 +1,41 @@
+Your task is to: Put a cup with a pencil in it on the desk.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1, 2), Safe (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11), Desk (1), Bed (1, 2).
+Think: To solve the task, I need to find and pick up the cup, then put it on the desk. And I need to find and pick up the pencil, then put it in the cup.
+OK.
+Think: First, I need to recall location of the cup.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the cup. The cup is more likely to appear on Desk (1), SideTable (1-2), or in Drawer (1-11). I can check each place one by one, starting from Desk (1), until I find the cup.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pencil (1, 2), Pen (1), KeyChain (1), Drawer (1, 8, 9), Desk (1), DeskLamp (1), Chair (1), CellPhone (1, 2), Bowl (1). 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Pencil (1, 2), Pen (1), KeyChain (1), Drawer (1, 9), Desk (1), DeskLamp (1), Chair (1), CellPhone (1, 2), Bowl (1). I am holding Bowl (1) now.
+Think: I hold Bowl (1). Now, I need to put it on the desk.
+OK.
+Act: put down Bowl (1)
+You put down failed, drop it. You see Pencil (1, 2), Pen (1), KeyChain (1), Drawer (1, 8, 9), Desk (1), DeskLamp (1), Chair (1), CellPhone (1, 2).
+Think: I put Bowl (1) on Desk (1). Now, I need to find and pick up the pencil, then put it in the cup.
+OK.
+Think: First, I need to recall location of the pencil.
+OK.
+Act: recall location of Pencil
+You saw Pencil (1) near Desk (1). You saw Pencil (2) near Desk (1).
+Think: Now I need to find the pencil. The pencil is more likely to appear on Desk (1), SideTable (1-2), or in Drawer (1-11). I can check each place one by one, starting from Desk (1), until I find the pencil.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pencil (1, 2), Pen (1), KeyChain (1), Drawer (1, 8, 9), Desk (1), DeskLamp (1), Chair (1), CellPhone (1, 2). 
+Think: I find Pencil (1). Now, I need to pick it up.
+OK.
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see Pencil (1, 2), Pen (1), KeyChain (1), Drawer (1, 8, 9), Desk (1), DeskLamp (1), Chair (1), CellPhone (1, 2). I am holding Pencil (1) now.
+Think: I hold Pencil (1). Now, I need to put it in the cup.
+OK.
+Act: put down Pencil (1)
+You put down failed, drop it. You see Pencil (1, 2), Pen (1), KeyChain (1), Drawer (1, 8, 9), Desk (1), DeskLamp (1), Chair (1), CellPhone (1, 2).
+Think: I put Pencil (1) in Bowl (1). Now I accomplish the goal.
+OK.
+Act: done

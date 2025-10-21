@@ -1,0 +1,13 @@
+Your primary goal is to: place pen in container
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pen, and place pen in container.
+Your task is to: place pen in container
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), LaundryHamper (1), GarbageCan (1), Dresser (1), Drawer (1, 2), DiningTable (1), CounterTop (1), Bed (1), ArmChair (1, 2). I am holding Pen (3) now.
+Think: I hold Pen (3). Now, I need to put it in the container. I can see GarbageCan (1).
+OK.
+Act: go to GarbageCan (1)
+You arrive at GarbageCan (1). You see Pen (3), GarbageCan (1), CounterTop (1).  I am holding Pen (3) now.
+Act: put down Pen (3)
+You put Pen (3) on GarbageCan (1). You see GarbageCan (1), CounterTop (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

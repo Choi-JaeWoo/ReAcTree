@@ -1,0 +1,7 @@
+Your task is to: Look at the basketball under the lamp light.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1, 2, 3, 4, 5), GarbageCan (1), Desk (1, 2), Bed (1).
+Think: Since I’m not holding basketball, I need to accomplish 2 subgoals sequentially to solve the task. Find and pick up basketball and find and turn on lamp.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up basketball, find and turn on lamp

@@ -1,0 +1,13 @@
+Your primary goal is to: Move the nightstand cup and the bookshelf cup over to the desk. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up cup, place cup on desk, find and pick up cup, and place cup on desk.
+Your task is to: place cup on desk
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), Bed (1). I am holding Mug (1) now.
+Think: I hold Mug (1). Now, I need to put it on the desk. I can see Desk (1).
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (2), Mug (1), Laptop (1), Lamp (1), Drawer (1, 2, 3, 5, 6), Desk (1), Chair (1), CellPhone (1, 3), CD (2), Book (1).  I am holding Mug (1) now.
+Act: put down Mug (1)
+You put Mug (1) on Desk (1). You see Pen (2), Mug (1), Laptop (1), Lamp (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), Chair (1), CellPhone (1, 3), CD (2), Book (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

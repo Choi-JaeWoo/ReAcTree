@@ -1,0 +1,7 @@
+Your task is to: Move credit card from table to coffee table, place it in a box, pick up box with credit card, move both to shelf.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1, 2), SideTable (1), Shelf (1, 2), GarbageCan (1), CoffeeTable (1), ArmChair (1).
+Think: Since I’m not holding anything, I need to accomplish 5 subgoals sequentially to solve the task. Find and pick up credit card, place credit card in box, find and pick up box, move box with credit card to shelf, and place box with credit card on shelf.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up credit card, place credit card in box, find and pick up box, move box with credit card to shelf, place box with credit card on shelf

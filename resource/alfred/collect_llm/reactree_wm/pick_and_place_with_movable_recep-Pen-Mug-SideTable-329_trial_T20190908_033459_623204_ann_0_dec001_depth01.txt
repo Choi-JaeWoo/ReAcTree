@@ -1,0 +1,7 @@
+Your task is to: Place a black cup with a pen on the bedside table.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1, 2), GarbageCan (1), Drawer (1, 2, 3, 4), DiningTable (1), Bed (1).
+Think: Since I’m not holding black cup, I need to accomplish 3 subgoals sequentially to solve the task. Find and pick up black cup, find and pick up pen, and place black cup and pen on bedside table.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up black cup, find and pick up pen, place black cup and pen on bedside table

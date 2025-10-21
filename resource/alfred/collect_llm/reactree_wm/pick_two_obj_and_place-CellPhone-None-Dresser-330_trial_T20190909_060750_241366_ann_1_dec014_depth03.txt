@@ -1,0 +1,25 @@
+Your primary goal is to: Move two cell  phones to the dresser.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up cell phone, place cell phone on dresser, Find and pick up cell phone away from dresser, and place cell phone on dresser.
+Your task is to: Find and pick up cell phone away from dresser
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1, 2), Shelf (1, 2), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16), Bed (1), ArmChair (1).
+Think: First, I need to recall location of the cell phone.
+OK.
+Act: recall location of CellPhone
+You saw CellPhone (2) near Dresser (1).
+Think: CellPhone (2) is on Dresser (1). Now, I need to find another cell phone. The cell phone is more likely to appear on Bed (1), SideTable (1-2), ArmChair (1), or in Drawer (1-16). I can check each place one by one, starting from Bed (1), until I find the cell phone.
+OK.
+Act: go to Bed (1)
+You arrive at Bed (1). You see Laptop (2, 3), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Lamp (2), Drawer (1, 3), CD (1), ArmChair (1), AlarmClock (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Lamp (1), Drawer (2, 12), Bed (1). 
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Drawer (1), CD (1, 2), ArmChair (1), AlarmClock (1). 
+Think: I find CellPhone (1). Now, I need to pick it up.
+OK.
+Act: pick up AlarmClock (1)
+You pick up AlarmClock (1). You see Drawer (1), CD (1, 2), ArmChair (1), AlarmClock (1). I am holding AlarmClock (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

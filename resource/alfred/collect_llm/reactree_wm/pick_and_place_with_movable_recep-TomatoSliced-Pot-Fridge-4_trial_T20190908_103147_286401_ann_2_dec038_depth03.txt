@@ -1,0 +1,29 @@
+Your primary goal is to: Put a pot with a tomato slice in the fridge
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pot, place pot in fridge, find and pick up knife, slice and pick up tomato, and and place tomato in pot near fridge.
+Your task is to: and place tomato in pot near fridge
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2). I am holding Tomato (6) now.
+Think: I hold Tomato (6). Now, I need to recall location of the pot.
+OK.
+Act: recall location of Pot
+You saw Pot (1) near CounterTop (2).
+Think: I can find Pot (1) near CounterTop (2). 
+OK.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Tomato (6).  I am holding Tomato (6) now.
+Think: I find Pot (1). Now, I need to put down Tomato (6) in Pot (1).
+OK.
+Act: go to Tomato (6)
+You already arrive at Tomato (6). You see Tomato (6, 6).  I am holding Tomato (6) now.
+Act: put down Tomato (6)
+You put down failed, drop it. You see Tomato (6).
+Think: Now I need to pick up Tomato (6).
+OK.
+Act: pick up Tomato (6)
+You pick up Tomato (6). You see Tomato (6). I am holding Tomato (6) now.
+Act: go to Tomato (6)
+You already arrive at Tomato (6). You see Tomato (6, 6).  I am holding Tomato (6) now.
+Act: put down Tomato (6)
+You put down failed, drop it. You see .
+Think: Now I need to pick up Tomato (6).
+OK.
+Act: failure

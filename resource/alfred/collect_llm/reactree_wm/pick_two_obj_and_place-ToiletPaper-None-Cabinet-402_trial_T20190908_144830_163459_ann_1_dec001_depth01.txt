@@ -1,0 +1,7 @@
+Your task is to: Move two toilet paper tubes into a cabinet.
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1, 2), Toilet (1), ToiletPaperHanger (1), SinkBasin (1, 2), Shelf (1), HandTowelHolder (1, 2), GarbageCan (1), CounterTop (1), Cabinet (1, 2, 3, 4), Bathtub (1), BathtubBasin (1).
+Think: Since I’m not holding the toilet paper tube, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up toilet paper tube, place toilet paper tube in cabinet, Find and pick up toilet paper tube away from cabinet, and place toilet paper tube in cabinet.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up toilet paper tube, place toilet paper tube in cabinet, Find and pick up toilet paper tube away from cabinet, place toilet paper tube in cabinet

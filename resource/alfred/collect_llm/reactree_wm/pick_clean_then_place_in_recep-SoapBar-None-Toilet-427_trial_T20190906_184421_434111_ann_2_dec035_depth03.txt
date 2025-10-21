@@ -1,0 +1,21 @@
+Your primary goal is to: To wash a bar of soap and put it back in it's original spot.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up soap, clean and pick up soap, and place soap on counter top.
+Your task is to: clean and pick up soap
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), Sink (1), SinkBasin (1), HandTowelHolder (1, 2), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1), Bathtub (1), BathtubBasin (1). I am holding SoapBottle (2) now.
+Think: I hold SoapBottle (2). Now, I need to clean it using sink basin.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see SoapBottle (1, 2), Sink (1), SinkBasin (1), Mirror (1), GarbageCan (1), Faucet (2), DishSponge (1).  I am holding SoapBottle (2) now.
+Act: put down SoapBottle (2)
+You put SoapBottle (2) on SinkBasin (1). You see SoapBottle (1, 2), Sink (1), SinkBasin (1), Mirror (1), GarbageCan (1), Faucet (2), DishSponge (1).
+Act: turn on Faucet (2)
+You turn on Faucet (2). You see SoapBottle (1, 2), Sink (1), SinkBasin (1), Mirror (1), GarbageCan (1), Faucet (2), DishSponge (1).
+Act: turn off Faucet (2)
+You turn off Faucet (2). You see SoapBottle (1, 2), Sink (1), SinkBasin (1), Mirror (1), GarbageCan (1), Faucet (2), DishSponge (1).
+Think: I clean SoapBottle (2) using SinkBasin (1). Now, I need to pick up the soap from the sink basin.
+OK.
+Act: pick up SoapBottle (2)
+You pick up SoapBottle (2). You see SoapBottle (1, 2), Sink (1), SinkBasin (1), Mirror (1), GarbageCan (1), Faucet (2), DishSponge (1). I am holding SoapBottle (2) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

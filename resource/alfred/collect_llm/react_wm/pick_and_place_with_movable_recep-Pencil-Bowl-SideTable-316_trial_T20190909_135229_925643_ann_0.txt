@@ -1,0 +1,126 @@
+Your task is to: Put a bowl with a pencil in it on the table next to the bed. 
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1), GarbageCan (1), Drawer (1, 2), Desk (1), Bed (1).
+Think: To solve the task, I need to find and pick up the bowl, then put it on the table next to the bed. And I need to find and pick up the pencil, then put it in the bowl.
+OK.
+Think: First, I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: Now I need to find the bowl. The bowl is more likely to appear on SideTable (1), Shelf (1), or in Drawer (1-2). I can check each place one by one, starting from SideTable (1), until I find the bowl.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Drawer (1, 2), Bed (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pencil (2), Laptop (1), GarbageCan (1), Desk (1), CreditCard (2), Chair (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (1), Drawer (1, 2), Bed (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see SideTable (1), Drawer (1), Bed (1).
+Act: close Drawer (1)
+You close Drawer (1). You see SideTable (1), Drawer (1, 2), Bed (1).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (1), Drawer (1, 2), Bed (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see SideTable (1), Drawer (1, 2), Bed (1).
+Act: close Drawer (2)
+You close Drawer (2). You see SideTable (1), Drawer (1, 2), Bed (1).
+Think: I have not found the bowl. I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: Now I need to find the bowl. The bowl is more likely to appear on SideTable (1), Shelf (1), or in Drawer (1-2). I can check each place one by one, starting from SideTable (1), until I find the bowl.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Drawer (1, 2), Bed (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pencil (2), Laptop (1), GarbageCan (1), Desk (1), CreditCard (2), Chair (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (1), Drawer (1, 2), Bed (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see SideTable (1), Drawer (1), Bed (1).
+Act: close Drawer (1)
+You close Drawer (1). You see SideTable (1), Drawer (1, 2), Bed (1).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (1), Drawer (1, 2), Bed (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see SideTable (1), Drawer (1, 2), Bed (1).
+Act: close Drawer (2)
+You close Drawer (2). You see SideTable (1), Drawer (1, 2), Bed (1).
+Think: I have not found the bowl. I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: Now I need to find the bowl. The bowl is more likely to appear on SideTable (1), Shelf (1), or in Drawer (1-2). I can check each place one by one, starting from SideTable (1), until I find the bowl.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Drawer (1, 2), Bed (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pencil (2), Laptop (1), GarbageCan (1), Desk (1), CreditCard (2), Chair (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (1), Drawer (1, 2), Bed (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see SideTable (1), Drawer (1), Bed (1).
+Act: close Drawer (1)
+You close Drawer (1). You see SideTable (1), Drawer (1, 2), Bed (1).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (1), Drawer (1, 2), Bed (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see SideTable (1), Drawer (1, 2), Bed (1).
+Act: close Drawer (2)
+You close Drawer (2). You see SideTable (1), Drawer (1, 2), Bed (1).
+Think: I have not found the bowl. I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: Now I need to find the bowl. The bowl is more likely to appear on SideTable (1), Shelf (1), or in Drawer (1-2). I can check each place one by one, starting from SideTable (1), until I find the bowl.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Drawer (1, 2), Bed (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pencil (2), Laptop (1), GarbageCan (1), Desk (1), CreditCard (2), Chair (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (1), Drawer (1, 2), Bed (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see SideTable (1), Drawer (1), Bed (1).
+Act: close Drawer (1)
+You close Drawer (1). You see SideTable (1), Drawer (1, 2), Bed (1).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (1), Drawer (1, 2), Bed (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see SideTable (1), Drawer (1, 2), Bed (1).
+Act: close Drawer (2)
+You close Drawer (2). You see SideTable (1), Drawer (1, 2), Bed (1).
+Think: I have not found the bowl. I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: Now I need to find the bowl. The bowl is more likely to appear on SideTable (1), Shelf (1), or in Drawer (1-2). I can check each place one by one, starting from SideTable (1), until I find the bowl.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Drawer (1, 2), Bed (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pencil (2), Laptop (1), GarbageCan (1), Desk (1), CreditCard (2), Chair (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (1), Drawer (1, 2), Bed (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see SideTable (1), Drawer (1), Bed (1).
+Act: close Drawer (1)
+You close Drawer (1). You see SideTable (1), Drawer (1, 2), Bed (1).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (1), Drawer (1, 2), Bed (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see SideTable (1), Drawer (1, 2), Bed (1).
+Act: close Drawer (2)
+You close Drawer (2). You see SideTable (1), Drawer (1, 2), Bed (1).
+Think: I have not found the bowl. I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: Now I need to find the bowl. The bowl is more likely to appear on SideTable (1), Shelf (1), or in Drawer (1-2). I can check each place one by one, starting from SideTable (1), until I find the bowl.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Drawer (1, 2), Bed (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pencil (2), Laptop (1), GarbageCan (1), Desk (1), CreditCard (2), Chair (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (1), Drawer (1, 2), Bed (1). Drawer (1) is closed. 

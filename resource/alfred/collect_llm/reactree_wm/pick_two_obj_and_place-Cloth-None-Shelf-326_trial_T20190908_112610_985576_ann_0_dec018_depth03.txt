@@ -1,0 +1,33 @@
+Your primary goal is to: Put two rags on the shelf.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up rag, place rag on shelf, Find and pick up rag away from shelf, and place rag on shelf.
+Your task is to: Find and pick up rag away from shelf
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14), GarbageCan (1), Drawer (1, 2), DiningTable (1), Bed (1, 2).
+Think: First, I need to recall location of the rag.
+OK.
+Act: recall location of Cloth
+You saw Cloth (1) near Shelf (1).
+Think: Now, I need to find the rag. The rag is more likely to appear on SideTable (1), DiningTable (1), or in Drawer (1-2). I can check each place one by one, starting from SideTable (1), until I find the rag.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Watch (1, 2), SideTable (1), Pen (1), Mug (1), Drawer (1, 2), CreditCard (1), Bed (1, 2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Shelf (9), Pencil (1), Lamp (1), DiningTable (1), Chair (2), CellPhone (1), CD (1), Bowl (3). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Watch (1, 2), SideTable (1), Pen (1), Mug (1), Drawer (1, 2), CreditCard (1), Bed (1, 2). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Watch (1, 2), SideTable (1), Pen (1), Mug (1), Drawer (1, 2), CreditCard (1), Bed (1, 2).
+Act: close Drawer (1)
+You close Drawer (1). You see Watch (1, 2), SideTable (1), Pen (1), Mug (1), Drawer (1, 2), CreditCard (1), Bed (1, 2).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 2), SideTable (1), Pen (1), Mug (1), Drawer (1, 2), CreditCard (1), Bed (1, 2). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see Watch (1, 2), SideTable (1), Pen (1), Mug (1), Drawer (2), CreditCard (1), Bed (1, 2).
+Act: close Drawer (2)
+You close Drawer (2). You see Watch (1, 2), SideTable (1), Pen (1), Mug (1), Drawer (1, 2), CreditCard (1), Bed (1, 2).
+Think: I find Cloth (1). Now, I need to pick it up.
+OK.
+Act: pick up CreditCard (1)
+You pick up CreditCard (1). You see Watch (1, 2), SideTable (1), Pen (1), Mug (1), Drawer (1, 2), CreditCard (1), Bed (1, 2). I am holding CreditCard (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,23 @@
+Your primary goal is to: Grab the watch on the table, turn on the floor lamp
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up watch, and turn on floor lamp.
+Your task is to: find and pick up watch
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1), GarbageCan (1), CoffeeTable (1), ArmChair (1).
+Think: First, I need to recall location of the watch.
+OK.
+Act: recall location of Watch
+You have not seen Watch before.
+Think: Now, I need to find the watch. The watch is more likely to appear on TVStand (1), Sofa (1), SideTable (1), CoffeeTable (1), ArmChair (1). I can check each place one by one, starting from TVStand (1), until I find the watch.
+OK.
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), Statue (2), CreditCard (2, 3). 
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1), KeyChain (1, 3), Book (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Watch (1), Sofa (1), SideTable (1), Laptop (1), CreditCard (1), Box (1). 
+Think: I find Watch (1). Now, I need to pick it up.
+OK.
+Act: pick up Watch (1)
+You pick up Watch (1). You see Watch (1), Sofa (1), SideTable (1), Laptop (1), CreditCard (1), Box (1). I am holding Watch (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

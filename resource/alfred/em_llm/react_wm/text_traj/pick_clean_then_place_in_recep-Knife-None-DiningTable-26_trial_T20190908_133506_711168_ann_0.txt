@@ -1,0 +1,41 @@
+Your task is to: Get knife, clean knife, put in apple on table.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10).
+Think: To solve the task, I need to find and pick up the knife, then put it in the sink basin. And I need to turn on and off the faucet. And I need to pick up the knife from the sink basin, then put it on the table.
+OK.
+Think: First, I need to recall location of the knife.
+OK.
+Act: recall location of Knife
+You have not seen Knife before.
+Think: Now I need to find the knife. The knife is more likely to appear on DiningTable (1-2), CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-10), Drawer (1-3). I can check each place one by one, starting from DiningTable (1), until I find the knife.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (1), Toaster (1), Potato (1), Lettuce (1), Knife (3), Fork (1), DishSponge (3), DiningTable (1), ButterKnife (2, 3). 
+Think: I find Knife (3). Now, I need to pick it up.
+OK.
+Act: pick up Knife (3)
+You pick up Knife (3). You see Tomato (1), Toaster (1), Potato (1), Lettuce (1), Knife (3), Fork (1), DishSponge (3), DiningTable (1), ButterKnife (2, 3). I am holding Knife (3) now.
+Think: I hold Knife (3). Now, I need to put it in the sink basin.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Plate (1), Microwave (1), Knife (3), Fork (2), Faucet (1), Egg (1), Drawer (1, 2), Cup (1), CounterTop (1), Cabinet (1, 4, 6, 7).  I am holding Knife (3) now.
+Act: put down Knife (3)
+You put Knife (3) on SinkBasin (1). You see Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Plate (1), Microwave (1), Knife (3), Fork (2), Faucet (1), Egg (1), Drawer (1, 2), Cup (1), CounterTop (1), Cabinet (1, 4, 6, 7).
+Think: I put Knife (3) in SinkBasin (1). Now, I need to turn on and off Faucet (1).
+OK.
+Act: turn on Faucet (1)
+You turn on Faucet (1). You see Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Plate (1), Microwave (1), Knife (3), Fork (2), Faucet (1), Egg (1), Drawer (1, 2), Cup (1), CounterTop (1), Cabinet (1, 4, 6, 7).
+Act: turn off Faucet (1)
+You turn off Faucet (1). You see Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Plate (1), Microwave (1), Knife (3), Fork (2), Faucet (1), Egg (1), Drawer (1, 2), Cup (1), CounterTop (1), Cabinet (1, 4, 6, 7).
+Think: Now I need to pick up the knife from the sink basin.
+OK.
+Act: pick up Knife (3)
+You pick up Knife (3). You see Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Plate (1), Microwave (1), Knife (3), Fork (2), Faucet (1), Egg (1), Drawer (1, 2), Cup (1), CounterTop (1), Cabinet (1, 4, 6, 7). I am holding Knife (3) now.
+Think: I pick up Knife (3) from SinkBasin (1). Now, I need to put it on the table.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (1), Toaster (1), Potato (1), Lettuce (1), Knife (3), Fork (1), DishSponge (3), DiningTable (1), ButterKnife (2, 3).  I am holding Knife (3) now.
+Act: put down Knife (3)
+You put Knife (3) on DiningTable (1). You see Tomato (1), Toaster (1), Potato (1), Lettuce (1), Knife (3), Fork (1), DishSponge (3), DiningTable (1), ButterKnife (2, 3).
+Think: Now I accomplish the goal.
+OK.
+Act: done

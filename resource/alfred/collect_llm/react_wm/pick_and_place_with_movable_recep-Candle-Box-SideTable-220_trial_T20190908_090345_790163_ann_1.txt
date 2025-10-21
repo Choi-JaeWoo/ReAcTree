@@ -1,0 +1,23 @@
+Your task is to: Putting a candle in a box, putting the box away
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1, 2), SideTable (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1, 2), CoffeeTable (1), ArmChair (1).
+Think: To solve the task, I need to find and pick up the candle, then put it in the box. And I need to put the box away.
+OK.
+Think: First, I need to recall location of the candle.
+OK.
+Act: recall location of Candle
+You have not seen Candle before.
+Think: Now I need to find the candle. The candle is more likely to appear on CoffeeTable (1), SideTable (1), DiningTable (1-2), or in Drawer (1-6). I can check each place one by one, starting from CoffeeTable (1), until I find the candle.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see TissueBox (1), Statue (1), Sofa (2), CoffeeTable (1), Box (1). 
+Think: I find Candle (1). Now, I need to pick it up.
+OK.
+Act: pick up Box (1)
+You pick up Box (1). You see TissueBox (1), Statue (1), Sofa (2), CoffeeTable (1), Box (1). I am holding Box (1) now.
+Think: I hold Box (1). Now, I need to put it in the box.
+OK.
+Act: put down Box (1)
+You put down failed, drop it. You see TissueBox (1), Statue (1), Sofa (2), CoffeeTable (1), Box (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

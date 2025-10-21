@@ -1,0 +1,19 @@
+Your primary goal is to: Put the phone in the box and set the box on the desk.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up phone, find and pick up box, place phone in box, and place box on desk.
+Your task is to: find and pick up box
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1, 2), Shelf (1, 2, 3), Safe (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), Desk (1), CoffeeTable (1), ArmChair (1). I am holding CellPhone (4) now.
+Think: First, I need to recall location of the box.
+OK.
+Act: recall location of Box
+You saw Box (1) near Sofa (1). You saw Box (2) near Sofa (1). You saw Box (4) near Sofa (2).
+Think: I can find Box (1) near Sofa (1). I can find Box (2) near Sofa (1). I can find Box (4) near Sofa (2).
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1), CellPhone (4), Box (1, 2).  I am holding CellPhone (4) now.
+Think: I find Box (1). Now, I need to pick it up.
+OK.
+Act: pick up Box (1)
+You are currently holding CellPhone (4). I am holding CellPhone (4) now.
+Think: I cannot pick up Box (1) because I am holding CellPhone (4).
+OK.
+Act: failure

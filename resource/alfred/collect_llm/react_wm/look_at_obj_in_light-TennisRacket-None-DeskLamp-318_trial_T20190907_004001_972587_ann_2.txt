@@ -1,0 +1,112 @@
+Your task is to: Grab the tennis bat on the floor, turn on the lamp on the table
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see GarbageCan (1), Dresser (1, 2), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13), Desk (1, 2), Cabinet (1), Bed (1, 2), ArmChair (1).
+Think: To solve the task, I need to find and pick up the tennis bat. And I need to find and turn on the lamp.
+OK.
+Think: First, I need to recall location of the tennis bat.
+OK.
+Act: recall location of TennisRacket
+You have not seen TennisRacket before.
+Think: Now I need to find the tennis racket. The tennis racket is more likely to appear on Bed (1-2), Desk (1-2), ArmChair (1), or in Drawer (1-13). I can check each place one by one, starting from Bed (1), until I find the tennis racket.
+OK.
+Act: go to Bed (1)
+You arrive at Bed (1). You see Bed (1). 
+Act: go to Bed (2)
+You arrive at Bed (2). You see Dresser (2), Drawer (1, 11, 12), Box (1), Bed (2). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (3), Drawer (7, 10), Desk (1), Chair (2), Cabinet (1), Book (1). 
+Act: go to Desk (2)
+You arrive at Desk (2). You see Pen (2), Drawer (2, 5, 6, 9, 13), Desk (2), Chair (1). 
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Desk (2), Book (3), ArmChair (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Drawer (1, 11, 12), Box (1), Bed (2). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Mug (2), Dresser (2), Drawer (1, 11), Box (1), Bed (2), AlarmClock (1, 2).
+Act: go to Drawer (11)
+You arrive at Drawer (11). You see Drawer (1, 11), Bed (2). Drawer (11) is closed. 
+Act: open Drawer (11)
+The Drawer (11) is open failed.
+Act: go to Drawer (12)
+You arrive at Drawer (12). You see Drawer (1, 11), Box (1), Bed (2). Drawer (12) is closed. 
+Act: open Drawer (12)
+The Drawer (12) is not close to you.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Pen (2), GarbageCan (1), Drawer (2, 4, 6), Desk (2), Chair (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see Pen (2), GarbageCan (1), Drawer (2, 4, 6), Desk (2), Chair (1).
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Pen (2), GarbageCan (1), Drawer (2, 4, 6), Desk (2), Chair (1). Drawer (4) is closed. 
+Act: open Drawer (4)
+You open Drawer (4). You see Pen (2), GarbageCan (1), Drawer (2, 4, 6), Desk (2), Chair (1).
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Pen (2), GarbageCan (1), Drawer (2, 4, 6), Desk (2), Chair (1). Drawer (6) is closed. 
+Act: open Drawer (6)
+You open Drawer (6). You see Pen (2), GarbageCan (1), Drawer (2, 4, 6), Desk (2), Chair (1).
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Pen (2), GarbageCan (1), Drawer (2, 4, 5, 6, 9, 13), Desk (2), Chair (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+You open Drawer (5). You see Pen (2), GarbageCan (1), Drawer (2, 4, 5, 6, 13), Desk (2), Chair (1).
+Act: go to Drawer (9)
+You arrive at Drawer (9). You see Pen (2), GarbageCan (1), Drawer (2, 4, 5, 6, 13), Desk (2), Chair (1). Drawer (9) is closed. 
+Act: open Drawer (9)
+You open Drawer (9). You see Pen (2), GarbageCan (1), Drawer (2, 4, 5, 6, 13), Desk (2), Chair (1).
+Act: go to Drawer (13)
+You arrive at Drawer (13). You see Pen (2), GarbageCan (1), Drawer (2, 4, 5, 6, 13), Desk (2), Chair (1). Drawer (13) is closed. 
+Act: open Drawer (13)
+You open Drawer (13). You see Pen (2), GarbageCan (1), Drawer (2, 4, 5, 6, 13), Desk (2), Chair (1).
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see Pen (3), KeyChain (1), Dresser (1), Drawer (3, 7, 8, 10), Desk (1), Chair (2), Cabinet (1), Book (1). Drawer (7) is closed. 
+Act: open Drawer (7)
+You open Drawer (7). You see Pen (3), KeyChain (1), Dresser (1), Drawer (3, 7, 8, 10), Desk (1), Chair (2), Book (1).
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Pen (1), KeyChain (1), Dresser (1), Drawer (3, 7, 8, 10), Desk (1), CreditCard (1). Drawer (3) is closed. 
+Act: open Drawer (3)
+You open Drawer (3). You see Pen (1), KeyChain (1), Dresser (1), Drawer (3, 7), Desk (1), CreditCard (1), Book (1).
+Act: go to Drawer (8)
+You arrive at Drawer (8). You see Pen (1), KeyChain (1), Dresser (1), Drawer (3, 7), Desk (1), CreditCard (1), Book (1). Drawer (8) is closed. 
+Act: open Drawer (8)
+You open Drawer (8). You see Pen (1), KeyChain (1), Dresser (1), Drawer (3, 7), Desk (1), CreditCard (1), Book (1).
+Act: go to Drawer (10)
+You arrive at Drawer (10). You see Pen (1), KeyChain (1), Dresser (1), Drawer (3, 7), Desk (1), CreditCard (1). Drawer (10) is closed. 
+Act: open Drawer (10)
+You open Drawer (10). You see Pen (1), KeyChain (1), Dresser (1), Drawer (3, 7), Desk (1), CreditCard (1).
+Think: I find TennisRacket (1). Now, I need to pick it up.
+OK.
+Act: pick up Pen (1)
+You pick up Pen (1). You see Pen (1), KeyChain (1), Dresser (1), Drawer (3, 7), Desk (1), CreditCard (1). I am holding Pen (1) now.
+Think: I hold Pen (1). Now, I need to recall location of the lamp.
+OK.
+Act: recall location of DeskLamp
+You have not seen DeskLamp before.
+Think: Now I need to find the desk lamp. The desk lamp is more likely to appear on Bed (1-2), Desk (1-2), ArmChair (1), or in Drawer (1-13). I can check each place one by one, starting from Bed (1), until I find the desk lamp.
+OK.
+Act: go to Bed (1)
+You arrive at Bed (1). You see Pen (1), Book (2), Bed (1).  I am holding Pen (1) now.
+Act: go to Bed (2)
+You arrive at Bed (2). You see Pen (1), Dresser (2), Drawer (1, 11), Box (1), Bed (2).  I am holding Pen (1) now.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Dresser (1), Drawer (3, 7), Desk (1), Chair (2), Book (1), Bed (1).  I am holding Pen (1) now.
+Act: go to Desk (2)
+You arrive at Desk (2). You see Pen (1, 2), Drawer (4, 5, 9, 13), Desk (2), Chair (1).  I am holding Pen (1) now.
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Pen (1), Desk (2), Book (3), ArmChair (1).  I am holding Pen (1) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (1), Drawer (1, 11), Bed (2). Drawer (1) is open.  I am holding Pen (1) now.
+Act: go to Drawer (11)
+You arrive at Drawer (11). You see Pen (1), Drawer (1, 11), Bed (2). Drawer (11) is closed.  I am holding Pen (1) now.
+Act: open Drawer (11)
+The Drawer (11) is open failed. I am holding Pen (1) now.
+Act: go to Drawer (12)
+You arrive at Drawer (12). You see Pen (1), Drawer (1, 11), Box (1), Bed (2). Drawer (12) is closed.  I am holding Pen (1) now.
+Act: open Drawer (12)
+The Drawer (12) is not close to you. I am holding Pen (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Pen (1), GarbageCan (1), Drawer (2, 4, 5, 6, 13), Desk (2). Drawer (2) is open.  I am holding Pen (1) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Pen (1), GarbageCan (1), Drawer (2, 4, 5, 6, 13), Desk (2). Drawer (4) is open.  I am holding Pen (1) now.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Pen (1), GarbageCan (1), Drawer (2, 4, 5, 6, 13), Desk (2). Drawer (6) is open.  I am holding Pen (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Pen (1, 2), Drawer (2, 4, 5, 6, 13), Desk (2), Chair (1). Drawer (5) is open.  I am holding Pen (1) now.
+Act: go to Drawer (9)
+You arrive at Drawer (9). You see Pen (1, 2), GarbageCan (1), Drawer (2, 4, 5, 6, 13), Desk (2), Chair (1). Drawer (9) is closed.  I am holding Pen (1) now.

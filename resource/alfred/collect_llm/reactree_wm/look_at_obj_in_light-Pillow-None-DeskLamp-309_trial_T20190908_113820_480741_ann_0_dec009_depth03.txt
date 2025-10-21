@@ -1,0 +1,27 @@
+Your primary goal is to: Examine a pillow using the light of a lamp.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pillow, and find and turn on lamp.
+Your task is to: find and turn on lamp
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Safe (1), LaundryHamper (1), GarbageCan (1), Drawer (1, 2, 3, 4), Desk (1), Cabinet (1, 2), Bed (1), ArmChair (1, 2, 3). I am holding Pillow (1) now.
+Think: First, I need to recall location of the lamp.
+OK.
+Act: recall location of DeskLamp
+You have not seen DeskLamp before.
+Think: Now I need to find the desk lamp. The desk lamp is more likely to appear near Desk (1), Cabinet (1-2), Bed (1), ArmChair (1-3). I can check each place one by one, starting from Desk (1), until I find the desk lamp.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pillow (1), Pencil (2), Pen (1), Mug (1), Desk (1), CellPhone (1), CD (1), AlarmClock (3).  I am holding Pillow (1) now.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Pillow (1, 1, 1, 1), Pencil (2, 2, 2), Pen (1, 1, 1), Mug (1, 1, 1), Desk (1, 1, 1), CellPhone (1, 1, 1), Cabinet (1), CD (1, 1, 1), AlarmClock (3, 3, 3). Cabinet (1) is closed.  I am holding Pillow (1) now.
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Pillow (1, 1, 1, 1, 1, 1), Cabinet (1, 1, 1, 1, 1, 2). Cabinet (2) is closed.  I am holding Pillow (1) now.
+Act: go to Bed (1)
+You arrive at Bed (1). You see Pillow (1), Book (2), Bed (1).  I am holding Pillow (1) now.
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Pillow (1), ArmChair (1, 3).  I am holding Pillow (1) now.
+Act: go to ArmChair (2)
+You arrive at ArmChair (2). You see Pillow (1), ArmChair (2, 3).  I am holding Pillow (1) now.
+Act: go to ArmChair (3)
+You arrive at ArmChair (3). You see Pillow (1), ArmChair (1, 3).  I am holding Pillow (1) now.
+Think: I cannot find the desk lamp.
+OK.
+Act: failure

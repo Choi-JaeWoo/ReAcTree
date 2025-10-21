@@ -1,0 +1,13 @@
+Your primary goal is to: Put a pan with sliced potato on the round table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pan, place pan on countertop, find and pick up potato, and slice and pick up potato.
+Your task is to: place pan on countertop
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11). I am holding Pan (1) now.
+Think: I hold Pan (1). Now, I need to put it on the countertop. I can see CounterTop (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see StoveBurner (2), Spoon (3), SaltShaker (3), Pot (1), PepperShaker (1), Pan (1, 2), Fridge (1), Fork (3), DishSponge (1), Cup (1, 2), CounterTop (1).  I am holding Pan (1) now.
+Act: put down Pan (1)
+You put down failed, drop it. You see StoveKnob (1), StoveBurner (2), Spoon (3), SaltShaker (3), Pot (1), PepperShaker (1), Pan (1, 2), Fridge (1), Fork (3), DishSponge (1), Cup (1, 2), CounterTop (1), ButterKnife (2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

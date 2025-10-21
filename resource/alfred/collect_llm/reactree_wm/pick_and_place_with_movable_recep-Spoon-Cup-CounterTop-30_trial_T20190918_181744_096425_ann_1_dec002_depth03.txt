@@ -1,0 +1,27 @@
+Your primary goal is to: Place a cup with a spoon inside on the table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up cup, place cup on table, find and pick up spoon, and place spoon on cup near table.
+Your task is to: find and pick up cup
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27), CounterTop (1, 2, 3, 4), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13).
+Think: First, I need to recall location of the cup.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now, I need to find the cup. The cup is more likely to appear on CounterTop (1-4), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1-27). I can check each place one by one, starting from CounterTop (1), until I find the cup.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), Pan (1), Mirror (1), Drawer (3, 6, 10, 22, 24, 25), CounterTop (1). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Window (1), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), SaltShaker (2), HousePlant (1), Fork (1), Faucet (1), Egg (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6). 
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see StoveBurner (2, 4), Spatula (1), SoapBottle (1), Potato (1), PepperShaker (3), Mug (2), Lettuce (1), Drawer (2, 8, 13, 14, 19, 21, 23, 26), CounterTop (3), CellPhone (2), Cabinet (2, 4). 
+Act: go to CounterTop (4)
+You arrive at CounterTop (4). You see Tomato (1), Pot (1), Plate (1), Lettuce (2), Ladle (2), Kettle (1), DishSponge (1), CounterTop (4), ButterKnife (3), Bread (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Spoon (2), Spatula (2), Sink (1), SinkBasin (1), SaltShaker (2), HousePlant (1), Fork (1), Faucet (1), Egg (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: pick up Spoon (2)
+You pick up Spoon (2). You see Spoon (2), Spatula (2), Sink (1), SinkBasin (1), SaltShaker (2), HousePlant (1), Fork (1), Faucet (1), Egg (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). I am holding Spoon (2) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,27 @@
+Your primary goal is to: Place a soap bottle on a toilet tank lid.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up soap bottle, and place soap bottle on toilet tank lid.
+Your task is to: find and pick up soap bottle
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), Sink (1), SinkBasin (1), HandTowelHolder (1), GarbageCan (1), CounterTop (1), Cabinet (1, 2), Bathtub (1), BathtubBasin (1).
+Think: First, I need to recall location of the soap bottle.
+OK.
+Act: recall location of SoapBottle
+You have not seen SoapBottle before.
+Think: Now, I need to find the soap bottle. The soap bottle is more likely to appear on CounterTop (1), BathtubBasin (1), SinkBasin (1), or in Cabinet (1-2). I can check each place one by one, starting from CounterTop (1), until I find the soap bottle.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Sink (1), SinkBasin (1), Mirror (1), Faucet (2, 3), CounterTop (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Faucet (1), Cloth (2), Bathtub (1), BathtubBasin (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), Mirror (1), Faucet (2, 3), CounterTop (1), Cabinet (1). 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see SprayBottle (3), Sink (1), GarbageCan (1), CounterTop (1), Cabinet (1, 2). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see ToiletPaper (1), SprayBottle (1, 3), SoapBottle (3), GarbageCan (1), Cloth (3), Cabinet (1, 2).
+Think: I find SoapBottle (3). Now, I need to pick it up.
+OK.
+Act: pick up SoapBottle (3)
+You pick up SoapBottle (3). You see ToiletPaper (1), SprayBottle (1, 3), SoapBottle (3), GarbageCan (1), Cloth (3), Cabinet (1, 2). I am holding SoapBottle (3) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

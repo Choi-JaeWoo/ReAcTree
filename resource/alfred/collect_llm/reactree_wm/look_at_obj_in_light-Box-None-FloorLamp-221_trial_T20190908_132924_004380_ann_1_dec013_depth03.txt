@@ -1,0 +1,9 @@
+Your primary goal is to: take a box from the coffee table to the lamp by the door and turn it on
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up box, place box on lamp, and and turn on lamp.
+Your task is to: and turn on lamp
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1), GarbageCan (1), Drawer (1), DiningTable (1), CoffeeTable (1, 2), ArmChair (1).
+Think: I hold Box (1). Now, I need to find and turn on either the floor lamp or the desk lamp.
+OK.
+Expand:
+- control flow: fallback
+- subgoals: find and turn on the floor lamp, find and turn on the desk lamp

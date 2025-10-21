@@ -1,0 +1,13 @@
+Your primary goal is to: Place the two pencils in the stand
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pencil, place pencil in stand, find and pick up pencil away from stand, and place pencil in stand.
+Your task is to: place pencil in stand
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1), GarbageCan (1), Drawer (1, 2), Desk (1), Bed (1). I am holding Pencil (3) now.
+Think: I hold Pencil (3). Now, I need to put it in the stand. I can see Desk (1).
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pencil (3), Pen (2), Desk (1), Chair (1), CD (2), Bowl (1), Book (1).  I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put Pencil (3) on Desk (1). You see Pencil (3), Pen (2), Desk (1), Chair (1), CD (2), Bowl (1), Book (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

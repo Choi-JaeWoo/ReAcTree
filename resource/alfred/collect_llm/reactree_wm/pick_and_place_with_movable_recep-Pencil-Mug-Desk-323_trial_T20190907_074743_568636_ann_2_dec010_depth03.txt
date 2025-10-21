@@ -1,0 +1,177 @@
+Your primary goal is to: Place a mug with two pencils onto the desk
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up mug, find and pick up pencils, and place mug and pencils on desk.
+Your task is to: find and pick up pencils
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1, 2), Safe (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11), Desk (1), Bed (1, 2). I am holding Mug (1) now.
+Think: First, I need to recall location of the pencils.
+OK.
+Act: recall location of Pencil
+You have not seen Pencil before.
+Think: Now, I need to find the pencils. The pencils are more likely to appear on Desk (1), SideTable (1-2), or in Dresser (1), Drawer (1-11). I can check each place one by one, starting from Desk (1), until I find the pencils.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), Drawer (1, 8, 9), Desk (1), DeskLamp (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1).  I am holding Mug (1) now.
+Think: I find Pencil (1). Now, I need to pick it up.
+OK.
+Act: pick up Pen (1)
+You are currently holding Mug (1). I am holding Mug (1) now.
+Think: I find Pencil (2). Now, I need to pick it up.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pen (1), Mug (1, 2), KeyChain (1), Drawer (3, 6), CellPhone (2), Bed (2).  I am holding Mug (1) now.
+Think: I find Pencil (1). Now, I need to pick it up.
+OK.
+Act: pick up Pen (1)
+You are currently holding Mug (1). I am holding Mug (1) now.
+Think: I find Pencil (2). Now, I need to pick it up.
+OK.
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), Pen (1), Mug (1), Drawer (7, 11), DeskLamp (2), Bed (2).  I am holding Mug (1) now.
+Think: I find Pencil (1). Now, I need to pick it up.
+OK.
+Act: pick up Pen (1)
+You are currently holding Mug (1). I am holding Mug (1) now.
+Think: I find Pencil (2). Now, I need to pick it up.
+OK.
+Act: go to Dresser (1)
+You arrive at Dresser (1). You see Safe (1), Pen (1), Mug (1), Dresser (1), Drawer (2, 4, 5, 10), AlarmClock (2).  I am holding Mug (1) now.
+Think: I find Pencil (1). Now, I need to pick it up.
+OK.
+Act: pick up Pen (1)
+You are currently holding Mug (1). I am holding Mug (1) now.
+Think: I find Pencil (2). Now, I need to pick it up.
+OK.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (1), Mug (1), GarbageCan (1), Drawer (1, 8, 9), Desk (1), Chair (1), AlarmClock (1). Drawer (1) is closed.  I am holding Mug (1) now.
+Act: open Drawer (1)
+You open Drawer (1). You see Pen (1), Mug (1), GarbageCan (1), Drawer (1, 8, 9), Desk (1), Chair (1), AlarmClock (1). I am holding Mug (1) now.
+Think: I find Pencil (1). Now, I need to pick it up.
+OK.
+Act: pick up Pen (1)
+You are currently holding Mug (1). I am holding Mug (1) now.
+Think: I find Pencil (2). Now, I need to pick it up.
+OK.
+Act: close Drawer (1)
+You close Drawer (1). You see Pen (1), Mug (1), GarbageCan (1), Drawer (1, 8, 9), Desk (1), Chair (1), AlarmClock (1). I am holding Mug (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Safe (1), Pen (1), Mug (1), Dresser (1), Drawer (2, 4, 5, 10), AlarmClock (2). Drawer (2) is closed.  I am holding Mug (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Safe (1), Pen (1), Mug (1), Dresser (1), Drawer (2), AlarmClock (2). I am holding Mug (1) now.
+Think: I find Pencil (1). Now, I need to pick it up.
+OK.
+Act: pick up Pen (1)
+You are currently holding Mug (1). I am holding Mug (1) now.
+Think: I find Pencil (2). Now, I need to pick it up.
+OK.
+Act: close Drawer (2)
+You close Drawer (2). You see Safe (1), Pen (1), Mug (1), Dresser (1), Drawer (2, 4, 5, 10), Bed (1), AlarmClock (2). I am holding Mug (1) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see SideTable (1), Pen (1), Mug (1, 2), KeyChain (1), Drawer (3, 6), CellPhone (2), Bed (2). Drawer (3) is closed.  I am holding Mug (1) now.
+Act: open Drawer (3)
+You open Drawer (3). You see SideTable (1), Pen (1), Mug (1, 2), KeyChain (1), Drawer (3, 6), CellPhone (2), Bed (2). I am holding Mug (1) now.
+Think: I find Pencil (1). Now, I need to pick it up.
+OK.
+Act: pick up Pen (1)
+You are currently holding Mug (1). I am holding Mug (1) now.
+Think: I find Pencil (2). Now, I need to pick it up.
+OK.
+Act: close Drawer (3)
+You close Drawer (3). You see SideTable (1), Pen (1), Mug (1, 2), KeyChain (1), Drawer (3, 6), CellPhone (2), Bed (2). I am holding Mug (1) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Safe (1), Pen (1), Mug (1), Dresser (1), Drawer (2, 4, 5, 10), AlarmClock (2). Drawer (4) is closed.  I am holding Mug (1) now.
+Act: open Drawer (4)
+You open Drawer (4). You see Safe (1), Pen (1), Mug (1), Dresser (1), Drawer (2, 4), Bed (1). I am holding Mug (1) now.
+Think: I find Pencil (1). Now, I need to pick it up.
+OK.
+Act: pick up Pen (1)
+You are currently holding Mug (1). I am holding Mug (1) now.
+Think: I find Pencil (2). Now, I need to pick it up.
+OK.
+Act: close Drawer (4)
+You close Drawer (4). You see Safe (1), Pen (1), Mug (1), Dresser (1), Drawer (2, 4, 5, 10), Bed (1). I am holding Mug (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Safe (1), Pen (1), Mug (1), Dresser (1), Drawer (2, 4, 5, 10), AlarmClock (2). Drawer (5) is closed.  I am holding Mug (1) now.
+Act: open Drawer (5)
+You open Drawer (5). You see Pen (1), Mug (1), KeyChain (2), Dresser (1), Drawer (2, 4, 5), Bed (1). I am holding Mug (1) now.
+Think: I find Pencil (1). Now, I need to pick it up.
+OK.
+Act: pick up Pen (1)
+You are currently holding Mug (1). I am holding Mug (1) now.
+Think: I find Pencil (2). Now, I need to pick it up.
+OK.
+Act: close Drawer (5)
+You close Drawer (5). You see Pen (1), Mug (1), Dresser (1), Drawer (2, 4, 5, 10), Bed (1). I am holding Mug (1) now.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see SideTable (1), Pen (1), Mug (1, 2), KeyChain (1), Drawer (3, 6), CellPhone (2), Bed (2). Drawer (6) is closed.  I am holding Mug (1) now.
+Act: open Drawer (6)
+You open Drawer (6). You see SideTable (1), Pen (1), Mug (1, 2), KeyChain (1), Drawer (6), CellPhone (2), CD (1), Bed (2). I am holding Mug (1) now.
+Think: I find Pencil (1). Now, I need to pick it up.
+OK.
+Act: pick up Pen (1)
+You are currently holding Mug (1). I am holding Mug (1) now.
+Think: I find Pencil (2). Now, I need to pick it up.
+OK.
+Act: close Drawer (6)
+You close Drawer (6). You see SideTable (1), Pen (1), Mug (1, 2), KeyChain (1), Drawer (3, 6), CellPhone (2), Bed (2). I am holding Mug (1) now.
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see SideTable (2), Pen (1), Mug (1), Drawer (7, 11), DeskLamp (2), Bed (2). Drawer (7) is closed.  I am holding Mug (1) now.
+Act: open Drawer (7)
+You open Drawer (7). You see SideTable (2), Pen (1), Mug (1), Drawer (7, 11), DeskLamp (2), Bed (2). I am holding Mug (1) now.
+Think: I find Pencil (1). Now, I need to pick it up.
+OK.
+Act: pick up Pen (1)
+You are currently holding Mug (1). I am holding Mug (1) now.
+Think: I find Pencil (2). Now, I need to pick it up.
+OK.
+Act: close Drawer (7)
+You close Drawer (7). You see SideTable (2), Pen (1), Mug (1), Drawer (7, 11), DeskLamp (2), Bed (2). I am holding Mug (1) now.
+Act: go to Drawer (8)
+You arrive at Drawer (8). You see Pen (1), Mug (1), GarbageCan (1), Drawer (1, 8, 9), Desk (1), Chair (1), AlarmClock (1). Drawer (8) is closed.  I am holding Mug (1) now.
+Act: open Drawer (8)
+You open Drawer (8). You see Pen (1), Mug (1), GarbageCan (1), Drawer (8), Desk (1), Chair (1), AlarmClock (1). I am holding Mug (1) now.
+Think: I find Pencil (1). Now, I need to pick it up.
+OK.
+Act: pick up Pen (1)
+You are currently holding Mug (1). I am holding Mug (1) now.
+Think: I find Pencil (2). Now, I need to pick it up.
+OK.
+Act: close Drawer (8)
+You close Drawer (8). You see Pen (1), Mug (1), GarbageCan (1), Drawer (1, 8, 9), Desk (1), Chair (1), AlarmClock (1). I am holding Mug (1) now.
+Act: go to Drawer (9)
+You arrive at Drawer (9). You see Pen (1), Mug (1), GarbageCan (1), Drawer (1, 8, 9), Desk (1), Chair (1), AlarmClock (1). Drawer (9) is closed.  I am holding Mug (1) now.
+Act: open Drawer (9)
+You open Drawer (9). You see Pen (1), Mug (1), GarbageCan (1), Drawer (8, 9), Desk (1), Chair (1), AlarmClock (1). I am holding Mug (1) now.
+Think: I find Pencil (1). Now, I need to pick it up.
+OK.
+Act: pick up Pen (1)
+You are currently holding Mug (1). I am holding Mug (1) now.
+Think: I find Pencil (2). Now, I need to pick it up.
+OK.
+Act: close Drawer (9)
+You close Drawer (9). You see Pen (1), Mug (1), GarbageCan (1), Drawer (1, 8, 9), Desk (1), Chair (1), AlarmClock (1). I am holding Mug (1) now.
+Act: go to Drawer (10)
+You arrive at Drawer (10). You see Safe (1), Pen (1), Mug (1), Dresser (1), Drawer (2, 4, 5, 10), AlarmClock (2). Drawer (10) is closed.  I am holding Mug (1) now.
+Act: open Drawer (10)
+You open Drawer (10). You see Pen (1), Mug (1), Dresser (1), Drawer (2, 4, 5, 10), Bed (1). I am holding Mug (1) now.
+Think: I find Pencil (1). Now, I need to pick it up.
+OK.
+Act: pick up Pen (1)
+You are currently holding Mug (1). I am holding Mug (1) now.
+Think: I find Pencil (2). Now, I need to pick it up.
+OK.
+Act: close Drawer (10)
+You close Drawer (10). You see Pen (1), Mug (1), Dresser (1), Drawer (2, 4, 5, 10), Bed (1). I am holding Mug (1) now.
+Act: go to Drawer (11)
+You arrive at Drawer (11). You see SideTable (2), Pen (1), Mug (1), Drawer (7, 11), DeskLamp (2), Bed (2). Drawer (11) is closed.  I am holding Mug (1) now.
+Act: open Drawer (11)
+You open Drawer (11). You see SideTable (2), Pen (1), Mug (1), Drawer (11), DeskLamp (2), Bed (2). I am holding Mug (1) now.
+Think: I find Pencil (1). Now, I need to pick it up.
+OK.
+Act: pick up Pen (1)
+You are currently holding Mug (1). I am holding Mug (1) now.
+Think: I find Pencil (2). Now, I need to pick it up.
+OK.
+Act: close Drawer (11)
+You close Drawer (11). You see SideTable (2), Pen (1), Mug (1), Drawer (7, 11), DeskLamp (2), Bed (2). I am holding Mug (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

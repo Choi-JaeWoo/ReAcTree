@@ -1,0 +1,116 @@
+Your task is to: Put a cardboard box with a phone in it on the seat of a chair.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1, 2), Shelf (1, 2, 3), Safe (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), Desk (1), CoffeeTable (1), ArmChair (1).
+Think: To solve the task, I need to find and pick up the phone, then put it in the cardboard box. And I need to find and pick up the cardboard box, then put it on the seat of a chair.
+OK.
+Think: First, I need to recall location of the phone.
+OK.
+Act: recall location of CellPhone
+You have not seen CellPhone before.
+Think: Now I need to find the phone. The phone is more likely to appear on TVStand (1), Sofa (1-2), Shelf (1-3), Safe (1), GarbageCan (1), Drawer (1-6), DiningTable (1), Desk (1), CoffeeTable (1), ArmChair (1). I can check each place one by one, starting from TVStand (1), until I find the phone.
+OK.
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), Sofa (1). 
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), CreditCard (3), Box (3). 
+Act: go to Sofa (2)
+You arrive at Sofa (2). You see Sofa (2), Laptop (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Vase (1, 4), Statue (3), Shelf (1, 2). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Vase (1, 4), Statue (3), Shelf (1, 2). 
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Statue (3), Shelf (1, 3). 
+Act: go to Safe (1)
+You arrive at Safe (1). You see Safe (1). Safe (1) is closed. 
+Act: go to GarbageCan (1)
+You arrive at GarbageCan (1). You see Laptop (2), GarbageCan (1), Desk (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Laptop (2), Lamp (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), Chair (4). Drawer (1) is closed. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Laptop (2), Lamp (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1). Drawer (2) is closed. 
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Laptop (2), Lamp (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1). Drawer (3) is closed. 
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Laptop (2), Lamp (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1). Drawer (4) is closed. 
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Laptop (2), Lamp (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), Chair (4). Drawer (5) is closed. 
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Laptop (2), Lamp (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), Chair (4). Drawer (6) is closed. 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (3), Statue (2), RemoteControl (1), KeyChain (1), DiningTable (1), Chair (1, 2, 5, 6), CellPhone (3), Box (1, 2, 4). 
+Think: I find CellPhone (3). Now, I need to pick it up.
+OK.
+Act: pick up CellPhone (3)
+You pick up CellPhone (3). You see Vase (3), Statue (2), RemoteControl (1), KeyChain (1), DiningTable (1), Chair (1, 2, 5, 6), CellPhone (3), Box (1, 2, 4). I am holding CellPhone (3) now.
+Think: I hold CellPhone (3). Now, I need to put it in the cardboard box.
+OK.
+Act: go to Box (1)
+You arrive at Box (1). You see Vase (3), Statue (2), RemoteControl (1), DiningTable (1), Chair (1, 2, 5, 6), CellPhone (3), Box (1, 2, 4). Box (1) is open.  I am holding CellPhone (3) now.
+Act: put down CellPhone (3)
+You put CellPhone (3) on Box (1). You see Vase (3), Statue (2), RemoteControl (1), DiningTable (1), Chair (1, 2, 5, 6), Box (1, 2, 4).
+Think: I put CellPhone (3) in Box (1). Now, I need to recall location of the cardboard box.
+OK.
+Act: recall location of Box
+You saw Box (3) near Sofa (1). You saw Box (1) near DiningTable (1). You saw Box (2) near DiningTable (1). You saw Box (4) near DiningTable (1).
+Think: Box (1) is near DiningTable (1). Now, I need to pick it up.
+OK.
+Act: pick up Box (1)
+You pick up Box (1). You see Vase (3), Statue (2), RemoteControl (1), DiningTable (1), Chair (1, 2, 5), Box (1, 2, 4). I am holding Box (1) now.
+Think: I hold Box (1). Now, I need to put it on the seat of a chair.
+OK.
+Act: go to Chair (1)
+You see Vase (3), RemoteControl (1), DiningTable (1), Chair (6), Box (1, 2, 4).  I am holding Box (1) now.
+Act: put down Box (1)
+You put down failed, drop it. You see Vase (3), DiningTable (1), Chair (1, 6), Box (1, 2, 4).
+Act: go to Chair (6)
+You see Vase (3), RemoteControl (1), DiningTable (1), Chair (1, 6), Box (4). 
+Act: go to Chair (1)
+You see Vase (3, 3, 3, 3), RemoteControl (1, 1, 1, 1), DiningTable (1, 1, 1, 1), Chair (1, 1, 1, 1, 6, 6, 6, 6), CellPhone (3), Box (1, 2, 2, 2, 2, 4, 4, 4). 
+Act: go to Chair (6)
+You see Vase (3), RemoteControl (1), DiningTable (1), Chair (1, 6), Box (2, 4). 
+Act: go to Chair (1)
+You see Vase (3, 3, 3, 3), RemoteControl (1, 1, 1, 1), DiningTable (1, 1, 1, 1), Chair (1, 1, 1, 1, 6, 6, 6, 6), CellPhone (3), Box (1, 2, 2, 2, 2, 4, 4, 4). 
+Act: go to Chair (6)
+You see Vase (3), RemoteControl (1), DiningTable (1), Chair (1, 6), Box (2, 4). 
+Act: go to Chair (1)
+You see Vase (3, 3, 3, 3), RemoteControl (1, 1, 1, 1), DiningTable (1, 1, 1, 1), Chair (1, 1, 1, 1, 6, 6, 6, 6), CellPhone (3), Box (1, 2, 2, 2, 2, 4, 4, 4). 
+Act: go to Chair (6)
+You see Vase (3), RemoteControl (1), DiningTable (1), Chair (1, 6), Box (2, 4). 
+Act: go to Chair (1)
+You see Vase (3, 3, 3, 3), RemoteControl (1, 1, 1, 1), DiningTable (1, 1, 1, 1), Chair (1, 1, 1, 1, 6, 6, 6, 6), CellPhone (3), Box (1, 2, 2, 2, 2, 4, 4, 4). 
+Act: go to Chair (6)
+You see Vase (3), RemoteControl (1), DiningTable (1), Chair (1, 6), Box (2, 4). 
+Act: go to Chair (1)
+You see Vase (3, 3, 3, 3), RemoteControl (1, 1, 1, 1), DiningTable (1, 1, 1, 1), Chair (1, 1, 1, 1, 6, 6, 6, 6), CellPhone (3), Box (1, 2, 2, 2, 2, 4, 4, 4). 
+Act: go to Chair (6)
+You see Vase (3), RemoteControl (1), DiningTable (1), Chair (1, 6), Box (2, 4). 
+Act: go to Chair (1)
+You see Vase (3, 3, 3, 3), RemoteControl (1, 1, 1, 1), DiningTable (1, 1, 1, 1), Chair (1, 1, 1, 1, 6, 6, 6, 6), CellPhone (3), Box (1, 2, 2, 2, 2, 4, 4, 4). 
+Act: go to Chair (6)
+You see Vase (3), RemoteControl (1), DiningTable (1), Chair (1, 6), Box (2, 4). 
+Act: go to Chair (1)
+You see Vase (3, 3, 3, 3), RemoteControl (1, 1, 1, 1), DiningTable (1, 1, 1, 1), Chair (1, 1, 1, 1, 6, 6, 6, 6), CellPhone (3), Box (1, 2, 2, 2, 2, 4, 4, 4). 
+Act: go to Chair (6)
+You see Vase (3), RemoteControl (1), DiningTable (1), Chair (1, 6), Box (2, 4). 
+Act: go to Chair (1)
+You see Vase (3, 3, 3, 3), RemoteControl (1, 1, 1, 1), DiningTable (1, 1, 1, 1), Chair (1, 1, 1, 1, 6, 6, 6, 6), CellPhone (3), Box (1, 2, 2, 2, 2, 4, 4, 4). 
+Act: go to Chair (6)
+You see Vase (3), RemoteControl (1), DiningTable (1), Chair (1, 6), Box (2, 4). 
+Act: go to Chair (1)
+You see Vase (3, 3, 3, 3), RemoteControl (1, 1, 1, 1), DiningTable (1, 1, 1, 1), Chair (1, 1, 1, 1, 6, 6, 6, 6), CellPhone (3), Box (1, 2, 2, 2, 2, 4, 4, 4). 
+Act: go to Chair (6)
+You see Vase (3), RemoteControl (1), DiningTable (1), Chair (1, 6), Box (2, 4). 
+Act: go to Chair (1)
+You see Vase (3, 3, 3, 3), RemoteControl (1, 1, 1, 1), DiningTable (1, 1, 1, 1), Chair (1, 1, 1, 1, 6, 6, 6, 6), CellPhone (3), Box (1, 2, 2, 2, 2, 4, 4, 4). 
+Act: go to Chair (6)
+You see Vase (3), RemoteControl (1), DiningTable (1), Chair (1, 6), Box (2, 4). 
+Act: go to Chair (1)
+You see Vase (3, 3, 3, 3), RemoteControl (1, 1, 1, 1), DiningTable (1, 1, 1, 1), Chair (1, 1, 1, 1, 6, 6, 6, 6), CellPhone (3), Box (1, 2, 2, 2, 2, 4, 4, 4). 
+Act: go to Chair (6)
+You see Vase (3), RemoteControl (1), DiningTable (1), Chair (1, 6), Box (2, 4). 
+Act: go to Chair (1)
+You see Vase (3, 3, 3, 3), RemoteControl (1, 1, 1, 1), DiningTable (1, 1, 1, 1), Chair (1, 1, 1, 1, 6, 6, 6, 6), CellPhone (3), Box (1, 2, 2, 2, 2, 4, 4, 4). 
+Act: go to Chair (6)
+You see Vase (3), RemoteControl (1), DiningTable (1), Chair (1, 6), Box (2, 4). 
+Act: go to Chair (1)
+You see Vase (3, 3, 3, 3), RemoteControl (1, 1, 1, 1), DiningTable (1, 1, 1, 1), Chair (1, 1, 1, 1, 6, 6, 6, 6), CellPhone (3), Box (1, 2, 2, 2, 2, 4, 4, 4). 

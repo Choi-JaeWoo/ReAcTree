@@ -1,0 +1,51 @@
+Your task is to: Put a heated black glass on a shelving unit.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11).
+Think: To solve the task, I need to find and pick up the glass, then put it in the microwave. And I need to turn on and off the microwave. And I need to pick up the glass from the microwave, then put it on the shelving unit.
+OK.
+Think: First, I need to recall location of the glass.
+OK.
+Act: recall location of Glassbottle
+You have not seen Glassbottle before.
+Think: Now I need to find the glass. The glass is more likely to appear on DiningTable (1-2), CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-11), Drawer (1-3). I can check each place one by one, starting from DiningTable (1), until I find the glass.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spoon (1), SoapBottle (1), Potato (1), Lettuce (2), Knife (1), DiningTable (1), Cup (1, 2), ButterKnife (1), Bread (1), Bowl (1). 
+Think: I find Glassbottle (1). Now, I need to pick it up.
+OK.
+Act: pick up Cup (1)
+You pick up Cup (1). You see Spoon (1), Potato (1), Lettuce (2), Knife (1), DiningTable (1), Cup (1, 2), ButterKnife (1), Bread (1), Bowl (1). I am holding Cup (1) now.
+Think: I hold Glassbottle (1). Now, I need to put it in the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see StoveBurner (2), Pan (1), Microwave (1), Cup (1), CounterTop (1). Microwave (1) is closed.  I am holding Cup (1) now.
+Act: open Microwave (1)
+You open Microwave (1). You see StoveBurner (2), Pan (1), Microwave (1), Cup (1), CounterTop (1). I am holding Cup (1) now.
+Act: put down Cup (1)
+You put Cup (1) on Microwave (1). You see StoveBurner (2), Pan (1), Microwave (1), Cup (1), CounterTop (1).
+Act: close Microwave (1)
+You close Microwave (1). You see StoveBurner (2), Pan (1), Microwave (1), CounterTop (1).
+Think: I put Glassbottle (1) in Microwave (1). Now, I need to turn on and off Microwave (1).
+OK.
+Act: turn on Microwave (1)
+You turn on Microwave (1). You see StoveBurner (2), Pan (1), Microwave (1), CounterTop (1).
+Act: turn off Microwave (1)
+You turn off Microwave (1). You see StoveBurner (2), Pan (1), Microwave (1), CounterTop (1).
+Think: Now, I need to pick up the glass from the microwave.
+OK.
+Act: open Microwave (1)
+You open Microwave (1). You see StoveBurner (2), Pan (1), Microwave (1), Cup (1), CounterTop (1).
+Act: pick up Cup (1)
+You pick up Cup (1). You see StoveBurner (2), Pan (1), Microwave (1), Cup (1), CounterTop (1). I am holding Cup (1) now.
+Think: I pick up Glassbottle (1) from Microwave (1). Now, I need to put it on the shelving unit.
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Microwave (1), Fridge (1), Cup (1), Cabinet (1, 6, 9). Cabinet (1) is closed.  I am holding Cup (1) now.
+Act: open Cabinet (1)
+You open Cabinet (1). You see Microwave (1), Fridge (1), Cup (1), Cabinet (1, 5, 6, 9). I am holding Cup (1) now.
+Act: put down Cup (1)
+You put Cup (1) on Cabinet (1). You see Microwave (1), Fridge (1), Cup (1), Cabinet (1, 5, 6, 9).
+Act: close Cabinet (1)
+You close Cabinet (1). You see Microwave (1), Fridge (1), Cabinet (1, 5, 6, 9).
+Think: Now I accomplish the goal.
+OK.
+Act: done

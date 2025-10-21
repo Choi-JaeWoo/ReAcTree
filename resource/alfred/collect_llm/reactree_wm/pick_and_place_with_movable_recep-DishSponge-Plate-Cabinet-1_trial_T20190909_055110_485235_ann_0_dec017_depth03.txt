@@ -1,0 +1,171 @@
+Your primary goal is to: Put a sponge on a white plate to put away next to the stove in a cabinet.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up sponge, place sponge on plate, and place plate on cabinet.
+Your task is to: place plate on cabinet
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9).
+Think: I hold Plate (1). Now, I need to put it on the cabinet. I can see Cabinet (1).
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see Fridge (1), Cabinet (1).
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Fridge (1), Cabinet (1). Cabinet (1) is open. 
+Max decisions

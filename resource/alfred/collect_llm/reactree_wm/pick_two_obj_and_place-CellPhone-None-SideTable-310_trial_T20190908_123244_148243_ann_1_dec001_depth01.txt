@@ -1,0 +1,7 @@
+Your task is to: Put two cellphones, standing vertically, on a nightstand.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1), GarbageCan (1), Drawer (1, 2), Desk (1), Cabinet (1, 2, 3, 4), Bed (1).
+Think: Since I’m not holding cellphone, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up cellphone, place cellphone on nightstand, Find and pick up cellphone away from nightstand, and place cellphone on nightstand.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up cellphone, place cellphone on nightstand, Find and pick up cellphone away from nightstand, place cellphone on nightstand

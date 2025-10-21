@@ -1,0 +1,51 @@
+Your task is to: Heat a bread slice and place it on the counter to the left of the sink.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1, 2, 3), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: To solve the task, I need to find and pick up the bread. And I need to put it in the microwave. And I need to turn on and off the microwave. And I need to pick up the bread from the microwave, then put it on the counter.
+OK.
+Think: First, I need to recall location of the bread.
+OK.
+Act: recall location of Bread
+You have not seen Bread before.
+Think: Now I need to find the bread. The bread is more likely to appear on DiningTable (1-3), CounterTop (1), SideTable (1), or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1). I can check each place one by one, starting from DiningTable (1), until I find the bread.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Plate (1), DiningTable (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Tomato (1), Toaster (1), Egg (2), ButterKnife (2), Bread (1). 
+Think: I find Bread (1). Now, I need to pick it up.
+OK.
+Act: pick up Bread (1)
+You pick up Bread (1). You see Tomato (1), Toaster (1), Egg (2), ButterKnife (2), Bread (1). I am holding Bread (1) now.
+Think: I hold Bread (1). Now, I need to put it in the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see SoapBottle (1, 2), SaltShaker (1), PepperShaker (1), Mug (1), Microwave (1), GarbageCan (1), DiningTable (3), Bread (1). Microwave (1) is closed.  I am holding Bread (1) now.
+Act: open Microwave (1)
+You open Microwave (1). You see SoapBottle (2), Microwave (1), GarbageCan (1), DiningTable (3), Bread (1). I am holding Bread (1) now.
+Act: put down Bread (1)
+You put down failed, drop it. You see SoapBottle (2), Microwave (1), GarbageCan (1), DiningTable (3), Bread (1).
+Act: close Microwave (1)
+You close Microwave (1). You see SoapBottle (1, 2), SaltShaker (1), PepperShaker (1), Mug (1), Microwave (1), GarbageCan (1), DiningTable (3).
+Think: Now, I need to turn on and off Microwave (1).
+OK.
+Act: turn on Microwave (1)
+You turn on Microwave (1). You see SoapBottle (1, 2), SaltShaker (1), PepperShaker (1), Mug (1), Microwave (1), GarbageCan (1), DiningTable (3).
+Act: turn off Microwave (1)
+You turn off Microwave (1). You see SoapBottle (1, 2), SaltShaker (1), PepperShaker (1), Mug (1), Microwave (1), GarbageCan (1), DiningTable (3).
+Think: Now, I need to pick up the bread from the microwave.
+OK.
+Act: open Microwave (1)
+You open Microwave (1). You see SoapBottle (2), Microwave (1), GarbageCan (1), DiningTable (3).
+Act: pick up SoapBottle (2)
+You pick up SoapBottle (2). You see SoapBottle (2), Microwave (1), GarbageCan (1), DiningTable (3). I am holding SoapBottle (2) now.
+Act: close Microwave (1)
+You close Microwave (1). You see SoapBottle (1, 2), SaltShaker (1), PepperShaker (1), Mug (1), Microwave (1), GarbageCan (1), DiningTable (3). I am holding SoapBottle (2) now.
+Think: I pick up SoapBottle (2) from Microwave (1). Now, I need to put it on the counter.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spoon (1), Spatula (2), SoapBottle (2), Sink (1), SinkBasin (1), SideTable (1), Fork (2, 3), Faucet (1), Egg (3), Drawer (1), CounterTop (1), Cabinet (2, 4), Apple (1).  I am holding SoapBottle (2) now.
+Act: put down SoapBottle (2)
+You put SoapBottle (2) on CounterTop (1). You see Spoon (1), Spatula (2), SoapBottle (2), Sink (1), SinkBasin (1), SideTable (1), Fork (2, 3), Faucet (1), Egg (3), Drawer (1), CounterTop (1), Cabinet (2, 4), Apple (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

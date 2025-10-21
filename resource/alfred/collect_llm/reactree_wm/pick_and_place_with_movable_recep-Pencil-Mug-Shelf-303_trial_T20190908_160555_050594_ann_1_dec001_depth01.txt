@@ -1,0 +1,7 @@
+Your task is to: Pick up pencil, move it to coffee mug, place both on book case
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5), Desk (1), Bed (1).
+Think: Since I’m not holding pencil, I need to accomplish 3 subgoals sequentially to solve the task. Find and pick up pencil, place pencil on coffee mug, and place pencil and coffee mug on book case.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up pencil, place pencil on coffee mug, place pencil and coffee mug on book case

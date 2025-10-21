@@ -1,0 +1,81 @@
+Your task is to: place a box with a yellow object inside on top of the dining table
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1, 2), GarbageCan (1), Drawer (1, 2), DiningTable (1, 2), CoffeeTable (1), ArmChair (1, 2).
+Think: To solve the task, I need to find and pick up the box, then put it on the dining table. And I need to find and pick up the yellow object. And I need to put down the yellow object in the box, then put it on the dining table.
+OK.
+Think: First, I need to recall location of the box.
+OK.
+Act: recall location of Box
+You have not seen Box before.
+Think: Now I need to find the box. The box is more likely to appear on DiningTable (1-2), CoffeeTable (1), SideTable (1-2), or in Drawer (1-2). I can check each place one by one, starting from DiningTable (1), until I find the box.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Watch (3), Vase (1), Plate (2), Laptop (1), DiningTable (1), Chair (2, 3, 4, 5), Bowl (1), Book (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see SideTable (1), HousePlant (1), Drawer (1), DiningTable (2). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), TissueBox (1), Sofa (1), RemoteControl (1), Plate (1), Newspaper (1), KeyChain (1), CoffeeTable (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pen (1, 2), Drawer (1), DiningTable (2). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Watch (2), SideTable (2), Lamp (1), Drawer (2), Curtains (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (1), Pen (1, 2), Painting (1), Drawer (1), DiningTable (2). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see SideTable (1), Pen (1, 2), Painting (1), Drawer (1), DiningTable (2).
+Think: I find Box (1). Now, I need to pick it up.
+OK.
+Act: pick up Pen (1)
+You pick up Pen (1). You see SideTable (1), Pen (1, 2), Painting (1), Drawer (1), DiningTable (2). I am holding Pen (1) now.
+Think: I hold Pen (1). Now, I need to put it on the dining table.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Watch (3), Vase (1), Plate (2), Pen (1), Laptop (1), DiningTable (1), Chair (2, 3, 4, 5), Bowl (1), Book (1).  I am holding Pen (1) now.
+Act: put down Pen (1)
+You put Pen (1) on DiningTable (1). You see Watch (3), Vase (1), Plate (2), Pen (1), Laptop (1), DiningTable (1), Chair (2, 3, 4, 5), Bowl (1), Book (1).
+Think: Now I put Pen (1) on DiningTable (1). Now, I need to recall location of the yellow object.
+OK.
+Act: recall location of Pen
+You saw Pen (1) near DiningTable (1). You saw Pen (2) near Drawer (1).
+Think: I can find Pen (1) near DiningTable (1). Now, I need to pick it up.
+OK.
+Act: pick up Pen (1)
+You pick up Pen (1). You see Watch (3), Vase (1), Plate (2), Pen (1), Laptop (1), DiningTable (1), Chair (2, 3, 4, 5), Bowl (1), Book (1). I am holding Pen (1) now.
+Think: I hold Pen (1). Now, I need to recall location of the box.
+OK.
+Act: recall location of Box
+You have not seen Box before.
+Think: Now I need to find the box. The box is more likely to appear on DiningTable (1-2), CoffeeTable (1), SideTable (1-2), or in Drawer (1-2). I can check each place one by one, starting from DiningTable (1), until I find the box.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Watch (3), Vase (1), Plate (2), Pen (1), Laptop (1), DiningTable (1), Chair (2, 3, 4, 5), Bowl (1), Book (1).  I am holding Pen (1) now.
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see SideTable (1), Pen (1), HousePlant (1), Drawer (1), DiningTable (2).  I am holding Pen (1) now.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), TissueBox (1), Sofa (1), RemoteControl (1), Plate (1), Pen (1), Newspaper (1), KeyChain (1), CoffeeTable (1).  I am holding Pen (1) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pen (1, 2), Drawer (1).  I am holding Pen (1) now.
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Watch (2), SideTable (2), Pen (1), Lamp (1), Drawer (2), Curtains (1).  I am holding Pen (1) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (1), Pen (1, 2), Drawer (1), DiningTable (2). Drawer (1) is open.  I am holding Pen (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (2), SideTable (2), Pen (1), Lamp (1), Drawer (2), Curtains (1). Drawer (2) is closed.  I am holding Pen (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Watch (2), SideTable (2), Pen (1), Lamp (1), Drawer (2), Curtains (1). I am holding Pen (1) now.
+Think: I find Box (1). Now, I need to put down the yellow object in the box.
+OK.
+Act: put down Pen (1)
+You put down failed, drop it. You see Watch (2), SideTable (2), Pen (1), Lamp (1), Drawer (2), Curtains (1).
+Think: Now I need to pick up Box (1).
+OK.
+Act: pick up Pen (1)
+You pick up Pen (1). You see Watch (2), SideTable (2), Pen (1), Lamp (1), Drawer (2), Curtains (1). I am holding Pen (1) now.
+Think: I hold Pen (1). Now, I need to put it on the dining table.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Watch (3), Vase (1), Plate (2), Pen (1), Laptop (1), DiningTable (1), Chair (2, 3, 4, 5), Bowl (1), Book (1).  I am holding Pen (1) now.
+Act: put down Pen (1)
+You put Pen (1) on DiningTable (1). You see Watch (3), Vase (1), Plate (2), Pen (1), Laptop (1), DiningTable (1), Chair (2, 3, 4, 5), Bowl (1), Book (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

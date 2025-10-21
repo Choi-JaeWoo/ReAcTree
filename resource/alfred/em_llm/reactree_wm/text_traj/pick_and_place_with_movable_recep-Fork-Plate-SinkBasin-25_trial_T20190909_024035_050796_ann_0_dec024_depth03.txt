@@ -1,0 +1,13 @@
+Your primary goal is to: place a plate with a fork on it inside the left side kitchen sink
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up plate, place plate in sink basin, find and pick up fork, and and place fork on plate near sink basin.
+Your task is to: place plate in sink basin
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13). I am holding Plate (1) now.
+Think: I hold Plate (1). Now, I need to put it in the sink basin. I can see SinkBasin (1).
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (1), Spatula (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (3), Fork (1), Faucet (1), Egg (1, 2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7).  I am holding Plate (1) now.
+Act: put down Plate (1)
+You put Plate (1) on SinkBasin (1). You see Window (1), Spatula (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (3), Fork (1), Faucet (1), Egg (1, 2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7).
+Think: Now I accomplish the goal.
+OK.
+Act: done

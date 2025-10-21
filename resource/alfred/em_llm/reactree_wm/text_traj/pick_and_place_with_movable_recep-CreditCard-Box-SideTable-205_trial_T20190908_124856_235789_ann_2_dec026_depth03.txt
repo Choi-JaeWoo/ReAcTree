@@ -1,0 +1,9 @@
+Your primary goal is to: Put a box with credit card on the small, round, black table. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up box, place box on small, round, black table, place credit card on box near small, round, and black table.
+Your task is to: place credit card on box near small
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2, 3), Ottoman (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), DiningTable (1), ArmChair (1, 2).
+Think: I’m not holding anything. I need to accomplish 2 subgoals sequentially to solve the task. Find and pick up credit card, and place credit card on box near small, round, and black table.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up credit card, place credit card on box near small, round, and black table

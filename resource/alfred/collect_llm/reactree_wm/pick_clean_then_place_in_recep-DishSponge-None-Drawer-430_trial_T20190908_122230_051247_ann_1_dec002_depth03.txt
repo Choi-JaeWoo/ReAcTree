@@ -1,0 +1,19 @@
+Your primary goal is to: To wash the sponge. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up sponge, clean and pick up sponge, and place sponge on counter.
+Your task is to: find and pick up sponge
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1), Shelf (1), HandTowelHolder (1), GarbageCan (1), Drawer (1, 2, 3, 4), CounterTop (1), Cart (1), BathtubBasin (1).
+Think: First, I need to recall location of the sponge.
+OK.
+Act: recall location of DishSponge
+You have not seen DishSponge before.
+Think: Now, I need to find the sponge. The sponge is more likely to appear on CounterTop (1), BathtubBasin (1), SinkBasin (1), Shelf (1), or in Drawer (1-4). I can check each place one by one, starting from CounterTop (1), until I find the sponge.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see ToiletPaper (3), TissueBox (2), Mirror (1), Footstool (1), Drawer (1, 2, 3, 4), DishSponge (1, 2, 4), CounterTop (1). 
+Think: I find DishSponge (1). Now, I need to pick it up.
+OK.
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see ToiletPaper (3), TissueBox (2), Mirror (1), Footstool (1), Drawer (1, 2, 3, 4), DishSponge (1, 2, 4), CounterTop (1). I am holding DishSponge (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

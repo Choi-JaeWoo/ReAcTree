@@ -1,0 +1,29 @@
+Your task is to: Put a cardboard box with a remote in it on the seat of a chair.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1), GarbageCan (1), CoffeeTable (1), ArmChair (1).
+Think: To solve the task, I need to find and pick up the cardboard box, then put it on the chair.
+OK.
+Think: First, I need to recall location of the cardboard box.
+OK.
+Act: recall location of Box
+You have not seen Box before.
+Think: Now I need to find the cardboard box. The cardboard box is more likely to appear on TVStand (1), Sofa (1), SideTable (1), CoffeeTable (1), ArmChair (1). I can check each place one by one, starting from TVStand (1), until I find the cardboard box.
+OK.
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Watch (1), Television (1), TVStand (1), Statue (1, 2), RemoteControl (3), CreditCard (3). 
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1), Laptop (1, 2), CreditCard (2). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Sofa (1), SideTable (1), RemoteControl (2), Box (1), Book (1). 
+Think: I find Box (1). Now, I need to pick it up.
+OK.
+Act: pick up Box (1)
+You pick up Box (1). You see Sofa (1), SideTable (1), Box (1). I am holding Box (1) now.
+Think: I hold Box (1). Now, I need to put it on the chair.
+OK.
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: put down Box (1)
+You put down failed, drop it. You see Box (1), ArmChair (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

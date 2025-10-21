@@ -1,0 +1,29 @@
+Your primary goal is to: turn on the standing light with the newspaper at hand
+To achieve this, you should perform your sibling tasks using a fallback strategy. At this level, your sibling tasks are: find and turn on the standing light, and find and turn on the table light.
+Your task is to: find and turn on the standing light
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2, 3, 4, 5), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21), Cabinet (1), ArmChair (1).
+Think: First, I need to recall location of the standing light.
+OK.
+Act: recall location of FloorLamp
+You have not seen FloorLamp before.
+Think: Now I need to find the standing light. The standing light is more likely to appear near Sofa (1), SideTable (1-5), Dresser (1), ArmChair (1). I can check each place one by one, starting from Sofa (1), until I find the standing light.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), RemoteControl (1), Pillow (1), Box (1), Book (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), GarbageCan (1), Drawer (3, 5, 19), DeskLamp (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Statue (3), SideTable (2), Painting (2), Drawer (15). 
+Act: go to SideTable (3)
+You arrive at SideTable (3). You see Window (2), SideTable (3), Cabinet (1). 
+Act: go to SideTable (4)
+You arrive at SideTable (4). You see Statue (2), SideTable (4), GarbageCan (1), Drawer (3, 11, 16, 19, 20). 
+Act: go to SideTable (5)
+You arrive at SideTable (5). You see SideTable (5), Drawer (3, 11, 16, 20), Chair (4). 
+Act: go to Dresser (1)
+You arrive at Dresser (1). You see Television (1), Statue (1), Newspaper (1), Laptop (2), KeyChain (1, 2), Dresser (1), Drawer (1, 6, 9, 10, 12, 14, 17, 21). 
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Window (4, 5), Laptop (1), CreditCard (1), ArmChair (1). 
+Think: I cannot find the standing light.
+OK.
+Act: failure

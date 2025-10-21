@@ -1,0 +1,23 @@
+Your primary goal is to: place a cooled coffee cup underneath the coffee maker spout
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up coffee cup, cool and pick up coffee cup, and place coffee cup under coffee maker spout.
+Your task is to: cool and pick up coffee cup
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13). I am holding Mug (1) now.
+Think: I hold Mug (1). Now, I need to cool it using the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Mug (1), Fridge (1), Drawer (1), Cabinet (4), Bowl (2). Fridge (1) is closed.  I am holding Mug (1) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Mug (1), Lettuce (2), Fridge (1), Bowl (1), Apple (3). I am holding Mug (1) now.
+Act: put down Mug (1)
+You put Mug (1) on Fridge (1). You see Mug (1), Lettuce (2), Fridge (1), Bowl (1), Apple (3).
+Act: close Fridge (1)
+You close Fridge (1). You see Fridge (1), Drawer (1), Cabinet (4), Bowl (2).
+Think: I cool Mug (1) using Fridge (1). Now, I need to pick up the mug from the fridge.
+OK.
+Act: open Fridge (1)
+You open Fridge (1). You see Mug (1), Lettuce (2), Fridge (1), Bowl (1), Apple (3).
+Act: pick up Mug (1)
+You pick up Mug (1). You see Mug (1), Lettuce (2), Fridge (1), Bowl (1), Apple (3). I am holding Mug (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

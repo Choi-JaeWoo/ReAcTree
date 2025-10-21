@@ -1,0 +1,75 @@
+Your task is to: Place the rinsed green cup filled with water back into the microwave.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8).
+Think: To solve the task, I need to find and pick up the green cup, then put it in the sink. And I need to turn on and off the faucet. And I need to pick up the green cup from the sink, then put it in the microwave.
+OK.
+Think: First, I need to recall location of the green cup.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the green cup. The green cup is more likely to appear on CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-8). I can check each place one by one, starting from CounterTop (1), until I find the green cup.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Pan (1), Lettuce (1), Ladle (1, 2), GarbageCan (1), DishSponge (1, 2, 3), CounterTop (1), Chair (1, 2). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Window (2), Spoon (1), Spatula (1), Sink (1), SinkBasin (1), SaltShaker (1), Faucet (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Spoon (1), Spatula (1), Sink (1), SinkBasin (1), SaltShaker (1), Plate (3), Faucet (1), CounterTop (2), CoffeeMachine (1). 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: pick up Plate (3)
+You pick up Plate (3). You see Window (2), Spoon (1), Spatula (1), Sink (1), SinkBasin (1), SaltShaker (1), Plate (3), Knife (1), Faucet (1), CounterTop (2), CoffeeMachine (1). I am holding Plate (3) now.
+Think: I hold Plate (3). Now, I need to put it in the sink.
+OK.
+Act: put down Plate (3)
+You put down failed, drop it. You see Window (2), Spoon (1), Spatula (1), Sink (1), SinkBasin (1), SaltShaker (1), Faucet (1), CounterTop (2), CoffeeMachine (1).
+Act: pick up Spoon (1)
+You pick up Spoon (1). You see Window (2), Spoon (1), Spatula (1), Sink (1), SinkBasin (1), SaltShaker (1), Faucet (1), CounterTop (2), CoffeeMachine (1). I am holding Spoon (1) now.
+Think: I hold Spoon (1). Now, I need to put it in the sink.
+OK.
+Act: put down Spoon (1)
+You put down failed, drop it. You see Window (2), Spatula (1), Sink (1), SinkBasin (1), SaltShaker (1), Faucet (1), CounterTop (2), CoffeeMachine (1).
+Act: pick up Spatula (1)
+You pick up Spatula (1). You see Window (2), Spatula (1), Sink (1), SinkBasin (1), SaltShaker (1), Faucet (1), CounterTop (2), CoffeeMachine (1). I am holding Spatula (1) now.
+Think: I hold Spatula (1). Now, I need to put it in the sink.
+OK.
+Act: put down Spatula (1)
+You put down failed, drop it. You see Window (2), Sink (1), SinkBasin (1), SaltShaker (1), Faucet (1), CounterTop (2), CoffeeMachine (1).
+Act: pick up SaltShaker (1)
+You pick up SaltShaker (1). You see Window (2), Sink (1), SinkBasin (1), SaltShaker (1), Faucet (1), CounterTop (2), CoffeeMachine (1). I am holding SaltShaker (1) now.
+Think: I hold SaltShaker (1). Now, I need to put it in the sink.
+OK.
+Act: put down SaltShaker (1)
+You put down failed, drop it. You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (2), CoffeeMachine (1).
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see StoveBurner (1, 2), Pot (1), Microwave (1), CounterTop (2), Bowl (2). Microwave (1) is closed. 
+Act: open Microwave (1)
+You open Microwave (1). You see StoveKnob (4), StoveBurner (2), Sink (1), Pot (1), Microwave (1), Egg (1), Cup (4), CounterTop (2), Bowl (2).
+Act: pick up Cup (4)
+You pick up Cup (4). You see StoveKnob (4), StoveBurner (2), Sink (1), Pot (1), Microwave (1), Egg (1), Cup (4), CounterTop (2), Bowl (2). I am holding Cup (4) now.
+Think: I hold Cup (4). Now, I need to put it in the sink.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), Cup (4), CounterTop (2), CoffeeMachine (1).  I am holding Cup (4) now.
+Act: put down Cup (4)
+You put Cup (4) on SinkBasin (1). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), Cup (4), CounterTop (2), CoffeeMachine (1).
+Think: I put Cup (4) in SinkBasin (1). Now, I need to turn on and off the faucet.
+OK.
+Act: turn on Faucet (1)
+You turn on Faucet (1). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), Cup (4), CounterTop (2), CoffeeMachine (1).
+Act: turn off Faucet (1)
+You turn off Faucet (1). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), Cup (4), CounterTop (2), CoffeeMachine (1).
+Think: Now, I need to pick up the green cup from the sink.
+OK.
+Act: pick up Cup (4)
+You pick up Cup (4). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), Cup (4), CounterTop (2), CoffeeMachine (1). I am holding Cup (4) now.
+Think: I pick up Cup (4) from SinkBasin (1). Now, I need to put it in the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Pot (1), Microwave (1), Egg (1), Cup (4), CounterTop (2), Bowl (2). Microwave (1) is open.  I am holding Cup (4) now.
+Act: put down Cup (4)
+You put Cup (4) on Microwave (1). You see Pot (1), Microwave (1), Egg (1), Cup (4), CounterTop (2), Bowl (2).
+Act: close Microwave (1)
+You close Microwave (1). You see StoveBurner (1, 2), Pot (1), Microwave (1), CounterTop (2), Bowl (2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

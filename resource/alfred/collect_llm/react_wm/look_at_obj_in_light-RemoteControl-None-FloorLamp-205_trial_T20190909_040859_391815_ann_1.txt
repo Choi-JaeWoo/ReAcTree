@@ -1,0 +1,35 @@
+Your task is to: Turn off a lamp with a remote. 
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2, 3), Ottoman (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), DiningTable (1), ArmChair (1, 2).
+Think: To solve the task, I need to find and pick up the remote control. And I need to find and turn off the lamp.
+OK.
+Think: First, I need to recall location of the remote control.
+OK.
+Act: recall location of RemoteControl
+You have not seen RemoteControl before.
+Think: Now I need to find the remote control. The remote control is more likely to appear on Sofa (1), SideTable (1-3), Ottoman (1), or in Drawer (1-4). I can check each place one by one, starting from Sofa (1), until I find the remote control.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Watch (1), Television (1), SideTable (1), RemoteControl (1), Dresser (1). 
+Think: I find RemoteControl (1). Now, I need to pick it up.
+OK.
+Act: pick up RemoteControl (1)
+You pick up RemoteControl (1). You see Watch (1), Television (1), SideTable (1), RemoteControl (1), Dresser (1). I am holding RemoteControl (1) now.
+Think: I hold RemoteControl (1). Now, I need to recall location of the lamp.
+OK.
+Act: recall location of DeskLamp
+You have not seen DeskLamp before.
+Think: Now I need to find the desk lamp The desk lamp is more likely to appear on SideTable (1-3), Ottoman (1), or in Drawer (1-4). I can check each place one by one, starting from SideTable (1), until I find the desk lamp.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Watch (1), Television (1), SideTable (1), RemoteControl (1), Dresser (1).  I am holding RemoteControl (1) now.
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), RemoteControl (1), HousePlant (1), DeskLamp (1), CreditCard (3).  I am holding RemoteControl (1) now.
+Think: I find DeskLamp (1). Now, I need to turn it off.
+OK.
+Act: turn off DeskLamp (1)
+You turn off DeskLamp (1). You see SideTable (2), RemoteControl (1), HousePlant (1), DeskLamp (1), CreditCard (3). I am holding RemoteControl (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

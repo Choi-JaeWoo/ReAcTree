@@ -1,0 +1,25 @@
+Your primary goal is to: Look at a CD by the light of a lamp.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up CD, and find and turn on lamp.
+Your task is to: find and turn on lamp
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1), LaundryHamper (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5), Desk (1), Bed (1). I am holding CD (2) now.
+Think: First, I need to recall location of the lamp.
+OK.
+Act: recall location of DeskLamp
+You have not seen DeskLamp before.
+Think: Now I need to find the desk lamp. The desk lamp is more likely to appear near Desk (1), Shelf (1), Bed (1), Drawer (1-5). I can check each place one by one, starting from Desk (1), until I find the desk lamp.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pencil (3), Pen (2), Mug (1), KeyChain (1), GarbageCan (1), Drawer (2, 3), Desk (1), Chair (1), CellPhone (1), CD (2), Bowl (1), Book (1).  I am holding CD (2) now.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pencil (1, 2, 3), Pen (2, 3), Mug (1), KeyChain (1), Desk (1), CreditCard (1), CellPhone (1), CD (2), Bowl (1), Book (1).  I am holding CD (2) now.
+Act: go to Bed (1)
+You arrive at Bed (1). You see Pillow (2), Laptop (1), CellPhone (2), CD (2), Bed (1).  I am holding CD (2) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Window (1), KeyChain (2), Dresser (1), Drawer (1, 4), DeskLamp (1), CD (2, 3, 4), Box (1), AlarmClock (1). Drawer (1) is closed.  I am holding CD (2) now.
+Think: I find DeskLamp (1). Now, I need to turn it on.
+OK.
+Act: turn on DeskLamp (1)
+You turn on DeskLamp (1). You see Window (1), KeyChain (2), Dresser (1), Drawer (1, 4), DeskLamp (1), CD (2, 3, 4), Box (1), AlarmClock (1). I am holding CD (2) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

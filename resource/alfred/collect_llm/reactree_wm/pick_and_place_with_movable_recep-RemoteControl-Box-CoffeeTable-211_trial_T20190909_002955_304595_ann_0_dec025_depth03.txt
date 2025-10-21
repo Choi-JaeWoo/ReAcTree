@@ -1,0 +1,155 @@
+Your primary goal is to: Put box on table and put remote in box
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up box, place box on table, and and put remote in box.
+Your task is to: and put remote in box
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1, 2), Shelf (1, 2, 3, 4, 5), GarbageCan (1), Drawer (1), CoffeeTable (1), ArmChair (1).
+Think: I hold RemoteControl (1). Now, I need to put it in the box. I can see Box (1).
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1), Laptop (1), CreditCard (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1, 2), SideTable (1), Plate (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Sofa (1), SideTable (2), Pillow (1), Drawer (1), CreditCard (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Statue (2), Shelf (5). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Television (1), TVStand (1), Statue (1), Shelf (2, 3), Newspaper (2), CellPhone (1). 
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Television (1), TVStand (1), Statue (1), Shelf (2, 3), Newspaper (2), CellPhone (1). 
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see Statue (2), Shelf (5). 
+Act: go to Shelf (5)
+You arrive at Shelf (5). You see Statue (2), Shelf (5). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see RemoteControl (1), CoffeeTable (1). 
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Newspaper (1), KeyChain (1), ArmChair (1). 
+Think: I find Box (1). Now, I need to put RemoteControl (1) in it.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1), Laptop (1), CreditCard (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1, 2), SideTable (1), Plate (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Sofa (1), SideTable (2), Pillow (1), Drawer (1), CreditCard (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Statue (2), Shelf (5). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Television (1), TVStand (1), Statue (1), Shelf (2, 3), Newspaper (2), CellPhone (1). 
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Television (1), TVStand (1), Statue (1), Shelf (2, 3), Newspaper (2), CellPhone (1). 
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see Statue (2), Shelf (5). 
+Act: go to Shelf (5)
+You arrive at Shelf (5). You see Statue (2), Shelf (5). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see RemoteControl (1), CoffeeTable (1). 
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Newspaper (1), KeyChain (1), ArmChair (1). 
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1), Laptop (1), CreditCard (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1, 2), SideTable (1), Plate (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Sofa (1), SideTable (2), Pillow (1), Drawer (1), CreditCard (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Statue (2), Shelf (5). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Television (1), TVStand (1), Statue (1), Shelf (2, 3), Newspaper (2), CellPhone (1). 
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Television (1), TVStand (1), Statue (1), Shelf (2, 3), Newspaper (2), CellPhone (1). 
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see Statue (2), Shelf (5). 
+Act: go to Shelf (5)
+You arrive at Shelf (5). You see Statue (2), Shelf (5). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see RemoteControl (1), CoffeeTable (1). 
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Newspaper (1), KeyChain (1), ArmChair (1). 
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1), Laptop (1), CreditCard (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1, 2), SideTable (1), Plate (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Sofa (1), SideTable (2), Pillow (1), Drawer (1), CreditCard (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Statue (2), Shelf (5). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Television (1), TVStand (1), Statue (1), Shelf (2, 3), Newspaper (2), CellPhone (1). 
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Television (1), TVStand (1), Statue (1), Shelf (2, 3), Newspaper (2), CellPhone (1). 
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see Statue (2), Shelf (5). 
+Act: go to Shelf (5)
+You arrive at Shelf (5). You see Statue (2), Shelf (5). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see RemoteControl (1), CoffeeTable (1). 
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Newspaper (1), KeyChain (1), ArmChair (1). 
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1), Laptop (1), CreditCard (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1, 2), SideTable (1), Plate (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Sofa (1), SideTable (2), Pillow (1), Drawer (1), CreditCard (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Statue (2), Shelf (5). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Television (1), TVStand (1), Statue (1), Shelf (2, 3), Newspaper (2), CellPhone (1). 
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Television (1), TVStand (1), Statue (1), Shelf (2, 3), Newspaper (2), CellPhone (1). 
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see Statue (2), Shelf (5). 
+Act: go to Shelf (5)
+You arrive at Shelf (5). You see Statue (2), Shelf (5). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see RemoteControl (1), CoffeeTable (1). 
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Newspaper (1), KeyChain (1), ArmChair (1). 
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1), Laptop (1), CreditCard (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1, 2), SideTable (1), Plate (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Sofa (1), SideTable (2), Pillow (1), Drawer (1), CreditCard (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Statue (2), Shelf (5). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Television (1), TVStand (1), Statue (1), Shelf (2, 3), Newspaper (2), CellPhone (1). 
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Television (1), TVStand (1), Statue (1), Shelf (2, 3), Newspaper (2), CellPhone (1). 
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see Statue (2), Shelf (5). 
+Act: go to Shelf (5)
+You arrive at Shelf (5). You see Statue (2), Shelf (5). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see RemoteControl (1), CoffeeTable (1). 
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Newspaper (1), KeyChain (1), ArmChair (1). 
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1), Laptop (1), CreditCard (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1, 2), SideTable (1), Plate (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Sofa (1), SideTable (2), Pillow (1), Drawer (1), CreditCard (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Statue (2), Shelf (5). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Television (1), TVStand (1), Statue (1), Shelf (2, 3), Newspaper (2), CellPhone (1). 
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Television (1), TVStand (1), Statue (1), Shelf (2, 3), Newspaper (2), CellPhone (1). 
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see Statue (2), Shelf (5). 
+Act: go to Shelf (5)
+You arrive at Shelf (5). You see Statue (2), Shelf (5). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see RemoteControl (1), CoffeeTable (1). 
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Newspaper (1), KeyChain (1), ArmChair (1). 
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1), Laptop (1), CreditCard (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1, 2), SideTable (1), Plate (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Sofa (1), SideTable (2), Pillow (1), Drawer (1), CreditCard (1). 
+Max decisions

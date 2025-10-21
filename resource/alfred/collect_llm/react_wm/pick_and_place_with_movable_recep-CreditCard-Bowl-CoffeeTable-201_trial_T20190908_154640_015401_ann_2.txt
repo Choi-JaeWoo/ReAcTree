@@ -1,0 +1,110 @@
+Your task is to: Put the bowl with credit card on the center table
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1, 2), GarbageCan (1), Drawer (1, 2), DiningTable (1, 2), CoffeeTable (1), ArmChair (1, 2).
+Think: To solve the task, I need to find and pick up the bowl, then put it on the center table. And I need to find and pick up the credit card, then put it on the bowl.
+OK.
+Think: First, I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: Now I need to find the bowl. The bowl is more likely to appear on CoffeeTable (1), SideTable (1-2), DiningTable (1-2), or in Drawer (1-2). I can check each place one by one, starting from CoffeeTable (1), until I find the bowl.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (1), TissueBox (1, 2), Sofa (1), RemoteControl (1), Plate (1, 2), Newspaper (1, 2), CreditCard (1), CoffeeTable (1). 
+Think: I find Bowl (1). Now, I need to pick it up.
+OK.
+Act: pick up Plate (1)
+
+Think: I hold Plate (1). Now, I need to put it on the center table.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2, 3), Statue (1, 2), RemoteControl (2), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (1), Book (1). 

@@ -1,0 +1,49 @@
+Your task is to: Put two remote controls on to the grey arm chair
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1, 2), SideTable (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1, 2), CoffeeTable (1), ArmChair (1).
+Think: To solve the task, I need to find and pick up the remote controls, then put it on the grey arm chair. And I need to find and pick up another remote controls, then put it on the grey arm chair.
+OK.
+Think: First, I need to recall location of the remote control.
+OK.
+Act: recall location of RemoteControl
+You have not seen RemoteControl before.
+Think: Now I need to find the remote control. The remote control is more likely to appear on TVStand (1), Sofa (1-2), SideTable (1), CoffeeTable (1), ArmChair (1), or in Drawer (1-6). I can check each place one by one, starting from TVStand (1), until I find the remote control.
+OK.
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (1, 2), CreditCard (2), Candle (1). 
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), RemoteControl (4), Pillow (1). 
+Think: I find RemoteControl (4). Now, I need to pick it up.
+OK.
+Act: pick up RemoteControl (4)
+You pick up RemoteControl (4). You see Sofa (1), RemoteControl (4), Pillow (1). I am holding RemoteControl (4) now.
+Think: I hold RemoteControl (4). Now, I need to put it on the grey arm chair.
+OK.
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Sofa (1), RemoteControl (4), Chair (1), ArmChair (1).  I am holding RemoteControl (4) now.
+Act: put down RemoteControl (4)
+You put RemoteControl (4) on ArmChair (1). You see Sofa (1), RemoteControl (4), Chair (1), ArmChair (1).
+Think: I put RemoteControl (4) on the ArmChair (1). Now, I need to recall location of RemoteControl.
+OK.
+Act: recall location of RemoteControl
+You saw RemoteControl (4) near ArmChair (1).
+Think: RemoteControl (4) is on ArmChair (1). Now, I need to find another remote control. The remote control is more likely to appear on Sofa (1-2), SideTable (1), CoffeeTable (1), or in Drawer (1-6). I can check each place one by one, starting from Sofa (1), until I find the remote control.
+OK.
+Act: go to Sofa (2)
+You arrive at Sofa (2). You see Sofa (2), Laptop (1), CreditCard (1), Box (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), HousePlant (1), Drawer (2, 4), CreditCard (3), Boots (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Sofa (2), RemoteControl (1, 2), CoffeeTable (1). 
+Think: I find RemoteControl (1). Now, I need to pick it up.
+OK.
+Act: pick up RemoteControl (1)
+You pick up RemoteControl (1). You see Sofa (2), RemoteControl (1, 2), CoffeeTable (1). I am holding RemoteControl (1) now.
+Think: I hold RemoteControl (1). Now, I need to put it on the grey arm chair.
+OK.
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Sofa (1), RemoteControl (1, 4), Chair (1), ArmChair (1).  I am holding RemoteControl (1) now.
+Act: put down RemoteControl (1)
+You put RemoteControl (1) on ArmChair (1). You see Sofa (1), RemoteControl (1, 4), Chair (1), ArmChair (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

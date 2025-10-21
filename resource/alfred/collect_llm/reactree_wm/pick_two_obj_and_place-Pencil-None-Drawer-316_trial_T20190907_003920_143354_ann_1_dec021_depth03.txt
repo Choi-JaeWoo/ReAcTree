@@ -1,0 +1,13 @@
+Your primary goal is to: Put two pencils in a drawer.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pencil, place pencil in drawer, Find and pick up pencil away from drawer, and place pencil in drawer.
+Your task is to: place pencil in drawer
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1), GarbageCan (1), Drawer (1, 2), Desk (1), Bed (1). I am holding Pencil (3) now.
+Think: I hold Pencil (3). Now, I need to put it in the drawer. I can see Drawer (1).
+OK.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (1), Pencil (1, 2, 3), KeyChain (1), Drawer (1), Book (2), Bed (1). Drawer (1) is open.  I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put Pencil (3) on Drawer (1). You see SideTable (1), Pencil (1, 2, 3), KeyChain (1), Drawer (1), Book (2), Bed (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

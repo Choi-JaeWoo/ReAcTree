@@ -1,0 +1,43 @@
+Your task is to: Move the phone to a bowl and place it on the dresser. 
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), LaundryHamper (1), GarbageCan (1), Dresser (1), Drawer (1, 2), DiningTable (1), CounterTop (1), Bed (1), ArmChair (1, 2).
+Think: To solve the task, I need to find and pick up the phone, then put it in the bowl. And I need to pick up the bowl, then put it on the dresser.
+OK.
+Think: First, I need to recall location of the phone.
+OK.
+Act: recall location of CellPhone
+You have not seen CellPhone before.
+Think: Now I need to find the phone. The phone is more likely to appear on SideTable (1), DiningTable (1), CounterTop (1), or in Drawer (1-2). I can check each place one by one, starting from SideTable (1), until I find the phone.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pen (3), Lamp (2), KeyChain (3), CreditCard (1, 2), CellPhone (2), ArmChair (2). 
+Think: I find CellPhone (2). Now, I need to pick it up.
+OK.
+Act: pick up CellPhone (2)
+You pick up CellPhone (2). You see SideTable (1), Pen (3), Lamp (2), KeyChain (3), CreditCard (1, 2), CellPhone (2), ArmChair (2). I am holding CellPhone (2) now.
+Think: I hold CellPhone (2). Now, I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: Now I need to find the bowl. The bowl is more likely to appear on DiningTable (1), CounterTop (1), or in Drawer (1-2). I can check each place one by one, starting from DiningTable (1), until I find the bowl.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see RemoteControl (1), Laptop (2), Lamp (1), KeyChain (1), DiningTable (1), Chair (1, 3), CellPhone (2, 3), Bowl (1, 2), Book (1).  I am holding CellPhone (2) now.
+Think: I find Bowl (1). Now, I need to put CellPhone (2) in Bowl (1).
+OK.
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Painting (1), Laptop (2), Lamp (1), KeyChain (1), DiningTable (1), Chair (1, 2), CellPhone (2), Bowl (1, 2).  I am holding CellPhone (2) now.
+Act: put down CellPhone (2)
+You put CellPhone (2) on Bowl (1). You see Painting (1), Laptop (2), Lamp (1), KeyChain (1), DiningTable (1), Chair (1, 2), CellPhone (2), Bowl (1, 2).
+Think: I put CellPhone (2) in Bowl (1). Now, I need to pick up Bowl (1).
+OK.
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Painting (1), Laptop (2), Lamp (1), KeyChain (1), DiningTable (1), Chair (1, 2), CellPhone (2), Bowl (1, 2). I am holding Bowl (1) now.
+Think: I hold Bowl (1). Now, I need to put it on the dresser.
+OK.
+Act: go to Dresser (1)
+You arrive at Dresser (1). You see Television (1), Pencil (1), Pen (1), Dresser (1), Drawer (1, 2), CellPhone (2), Bowl (1), AlarmClock (2).  I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put Bowl (1) on Dresser (1). You see Television (1), Pencil (1), Pen (1), Dresser (1), Drawer (1, 2), CellPhone (2), Bowl (1), AlarmClock (2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,19 @@
+Your primary goal is to: Move the two pens from the desk to the night stand table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pen, place pen on night stand table, Find and pick up pen away from night stand table, and place pen on night stand table.
+Your task is to: Find and pick up pen away from night stand table
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1, 2), GarbageCan (1), Drawer (1, 2, 3, 4), DiningTable (1), Bed (1).
+Think: First, I need to recall location of the pen.
+OK.
+Act: recall location of Pen
+You saw Pen (1) near SideTable (1). You saw Pen (2) near DiningTable (1).
+Think: I can find Pen (1) near SideTable (1). I can find Pen (2) near DiningTable (1).
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pen (1), Drawer (1, 2), CreditCard (1), CellPhone (2), Bed (1). 
+Think: I find Pen (1). Now, I need to pick it up.
+OK.
+Act: pick up Pen (1)
+You pick up Pen (1). You see SideTable (1), Pen (1), Drawer (1, 2), CreditCard (1), CellPhone (2), Bed (1). I am holding Pen (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,27 @@
+Your primary goal is to: put the spoon and the plate into the door under the sink
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up spoon, place spoon in door, find and pick up plate, and and place plate in door.
+Your task is to: find and pick up spoon
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2).
+Think: First, I need to recall location of the spoon.
+OK.
+Act: recall location of Spoon
+You have not seen Spoon before.
+Think: Now, I need to find the spoon. The spoon is more likely to appear on DiningTable (1), CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-2), Drawer (1-6). I can check each place one by one, starting from DiningTable (1), until I find the spoon.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see SoapBottle (2), Pot (1), Knife (3), Fork (1, 2), DishSponge (1), DiningTable (1), Bowl (3). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1, 2), Ladle (2), HousePlant (1), Drawer (1, 5), Cup (2), CounterTop (1), ButterKnife (2). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Window (1), StoveKnob (4), StoveBurner (2, 4), Pot (2), PepperShaker (1), Ladle (1), CounterTop (2). 
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Microwave (1), Knife (1), CounterTop (3). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Tomato (2), Spoon (1), Sink (1), SinkBasin (1), Potato (1), Ladle (3), Knife (2), Faucet (1), Egg (2), Drawer (3), CounterTop (1, 3), Cabinet (1, 2), Apple (1). 
+Think: I find Spoon (1). Now, I need to pick it up.
+OK.
+Act: pick up Spoon (1)
+You pick up Spoon (1). You see Window (2), Tomato (2), Spoon (1), Sink (1), SinkBasin (1), Potato (1), Ladle (3), Knife (2), Faucet (1), Egg (2), Drawer (3), CounterTop (1, 3), Cabinet (1, 2), Apple (1). I am holding Spoon (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

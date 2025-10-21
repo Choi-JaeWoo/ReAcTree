@@ -1,0 +1,27 @@
+Your primary goal is to: Move a plate and ladle to the counter.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up plate, place plate on counter, find and pick up ladle, and place ladle on counter.
+Your task is to: find and pick up plate
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2).
+Think: First, I need to recall location of the plate.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now, I need to find the plate. The plate is more likely to appear on DiningTable (1), CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-2), Drawer (1-6). I can check each place one by one, starting from DiningTable (1), until I find the plate.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (1, 2), Potato (1), Lettuce (1), Ladle (1), Knife (1, 3), Fork (1), DiningTable (1), Cup (1), ButterKnife (3). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1, 2), Spatula (1), Mug (2), Ladle (4), HousePlant (1), Drawer (1, 5), CounterTop (1). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Window (1), StoveKnob (4), StoveBurner (2, 4), Spoon (1), Pot (1), CounterTop (2). 
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Microwave (1), Ladle (2, 3), CounterTop (3). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Plate (4), Ladle (2), Faucet (1), Egg (3), Drawer (3), Cup (2), CounterTop (1, 3), Cabinet (1, 2), ButterKnife (1), Apple (1, 2). 
+Think: I find Plate (4). Now, I need to pick it up.
+OK.
+Act: pick up Plate (4)
+You pick up Plate (4). You see Window (2), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Plate (4), Ladle (2), Faucet (1), Egg (3), Drawer (3), Cup (2), CounterTop (1, 3), Cabinet (1, 2), ButterKnife (1), Apple (1, 2). I am holding Plate (4) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

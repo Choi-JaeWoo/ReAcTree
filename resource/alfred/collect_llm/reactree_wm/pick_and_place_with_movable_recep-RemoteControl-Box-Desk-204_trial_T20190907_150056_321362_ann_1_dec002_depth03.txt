@@ -1,0 +1,69 @@
+Your primary goal is to: Place a cardboard with a remote in it on a desk.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up cardboard, place remote in cardboard, and place cardboard on desk.
+Your task is to: find and pick up cardboard
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1, 2), Shelf (1, 2, 3), Safe (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), Desk (1), CoffeeTable (1), ArmChair (1).
+Think: First, I need to recall location of the cardboard.
+OK.
+Act: recall location of Box
+You have not seen Box before.
+Think: Now, I need to find the cardboard. The cardboard is more likely to appear on Desk (1), CoffeeTable (1), DiningTable (1), or in Drawer (1-6), TVStand (1), Shelf (1-3), Safe (1). I can check each place one by one, starting from Desk (1), until I find the cardboard.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see RemoteControl (3), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2, 3), Statue (2), KeyChain (1), CoffeeTable (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Statue (3), RemoteControl (2), Laptop (1, 2, 3), KeyChain (2), DiningTable (1), Chair (1, 2, 5, 6). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see RemoteControl (3), Lamp (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), Chair (4). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see RemoteControl (3), Lamp (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), Chair (4).
+Act: close Drawer (1)
+You close Drawer (1). You see RemoteControl (3), Lamp (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), Chair (4).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Lamp (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+The Drawer (2) is open failed.
+Act: close Drawer (2)
+The Drawer (2) is already closed.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Lamp (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1). Drawer (3) is closed. 
+Act: open Drawer (3)
+The Drawer (3) is open failed.
+Act: close Drawer (3)
+The Drawer (3) is already closed.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Lamp (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1). Drawer (4) is closed. 
+Act: open Drawer (4)
+The Drawer (4) is open failed.
+Act: close Drawer (4)
+The Drawer (4) is already closed.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see RemoteControl (3), Lamp (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), Chair (4). Drawer (5) is closed. 
+Act: open Drawer (5)
+You open Drawer (5). You see RemoteControl (3), Lamp (1), Drawer (2, 3, 4, 5, 6), Desk (1), Chair (4).
+Act: close Drawer (5)
+You close Drawer (5). You see RemoteControl (3), Lamp (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), Chair (4).
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see RemoteControl (3), Lamp (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), Chair (4). Drawer (6) is closed. 
+Act: open Drawer (6)
+You open Drawer (6). You see Statue (1), RemoteControl (3), Lamp (1), Drawer (2, 3, 4, 6), Desk (1), Chair (4).
+Act: close Drawer (6)
+You close Drawer (6). You see Statue (1), RemoteControl (3), Lamp (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), Chair (4).
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), Sofa (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Vase (1, 4), Shelf (1, 2). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Vase (1, 4), Shelf (1, 2). 
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Shelf (1, 3). 
+Act: go to Safe (1)
+You arrive at Safe (1). You see Safe (1). Safe (1) is closed. 
+Act: open Safe (1)
+The Safe (1) is open failed.
+Act: close Safe (1)
+The Safe (1) is already closed.
+Think: I can't find the cardboard. I need to ask for help.
+OK.
+Act: failure

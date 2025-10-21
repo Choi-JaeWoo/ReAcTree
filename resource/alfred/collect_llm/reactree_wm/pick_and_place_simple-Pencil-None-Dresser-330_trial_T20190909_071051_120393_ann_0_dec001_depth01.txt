@@ -1,0 +1,23 @@
+Your task is to: Place pencil on brown dresser
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1, 2), Shelf (1, 2), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16), Bed (1), ArmChair (1).
+Think: I hold Pencil (1). Now, I need to recall location of the brown dresser.
+OK.
+Act: recall location of Pencil
+You have not seen Pencil before.
+Think: Now, I need to find the brown dresser. The brown dresser is more likely to appear near SideTable (1-2), Shelf (1-2), GarbageCan (1), Dresser (1), Drawer (1-16), Bed (1), ArmChair (1). I can check each place one by one, starting from SideTable (1), until I find the brown dresser.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Statue (1), Lamp (2), KeyChain (1), Drawer (1, 3), CellPhone (1), ArmChair (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Pencil (1), Lamp (1), Drawer (2, 12), Bed (1). 
+Think: I find Pencil (1). Now, I need to put it on the brown dresser.
+OK.
+Act: go to Pencil (1)
+You already arrive at Pencil (1). You see Pencil (1, 1), Lamp (1, 1), Drawer (2, 2, 12, 12), Bed (1). 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Pencil (1), Lamp (1), Drawer (2, 12), Bed (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see SideTable (2), Pencil (1), Lamp (1), Drawer (2, 12), Bed (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

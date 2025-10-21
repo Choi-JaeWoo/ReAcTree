@@ -1,0 +1,101 @@
+Your task is to: Putting a tomato slice in the trash can
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12).
+Think: To solve the task, I need to find and pick up the knife. And I need to find and slice the tomato. And I need to put down the knife and pick up the tomato, then put it in the trash can.
+OK.
+Think: First, I need to recall location of the knife.
+OK.
+Act: recall location of Knife
+You have not seen Knife before.
+Think: Now I need to find the knife. The knife is more likely to appear on CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-12). I can check each place one by one, starting from CounterTop (1), until I find the knife.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (1), Toaster (1), StoveKnob (4), StoveBurner (1, 3), Potato (2), PepperShaker (1, 2), Pan (1), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7), ButterKnife (1). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Spoon (2), Spatula (3), Sink (1), SinkBasin (1), Faucet (1, 2), Curtains (1), CounterTop (2), Cabinet (4, 5). 
+Think: Now I need to find the knife. The knife is more likely to appear on SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-12). I can check each place one by one, starting from SinkBasin (1), until I find the knife.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Spoon (2), Spatula (3), Sink (1), SinkBasin (1), Faucet (1, 2), Curtains (1), Cabinet (4, 5). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Cabinet (7). Fridge (1) is closed. 
+Act: open Fridge (1)
+You open Fridge (1). You see Plate (2), Fridge (1), Cabinet (7).
+Act: close Fridge (1)
+You close Fridge (1). You see Fridge (1), Cabinet (7).
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Mug (2), Microwave (1), Ladle (1), Knife (1), Drawer (1), DiningTable (1), Cup (3), Cabinet (9). Microwave (1) is closed. 
+Think: I find Knife (1). Now, I need to pick it up.
+OK.
+Act: open Microwave (1)
+You open Microwave (1). You see Potato (1), Mug (2), Microwave (1), Ladle (1), Drawer (1), Cup (3), Cabinet (9), Apple (1).
+Act: pick up Potato (1)
+You pick up Potato (1). You see Potato (1), Mug (2), Microwave (1), Ladle (1), Drawer (1), Cup (3), Cabinet (9), Apple (1). I am holding Potato (1) now.
+Act: put down Potato (1)
+You put down failed, drop it. You see Mug (2), Microwave (1), Ladle (1), Drawer (1), Cup (3), Cabinet (9), Apple (1).
+Act: pick up Apple (1)
+You pick up Apple (1). You see Mug (2), Microwave (1), Ladle (1), Drawer (1), Cup (3), Cabinet (9), Apple (1). I am holding Apple (1) now.
+Act: put down Apple (1)
+You put down failed, drop it. You see Mug (2), Microwave (1), Ladle (1), Drawer (1), Cup (3), Cabinet (9).
+Act: pick up Mug (2)
+You pick up Mug (2). You see Mug (2), Microwave (1), Ladle (1), Drawer (1), Cup (3), Cabinet (9). I am holding Mug (2) now.
+Act: put down Mug (2)
+You put down failed, drop it. You see Microwave (1), Ladle (1), Drawer (1), Cup (3), Cabinet (9).
+Act: pick up Ladle (1)
+You pick up Ladle (1). You see Microwave (1), Ladle (1), Drawer (1), Cup (3), Cabinet (9). I am holding Ladle (1) now.
+Act: put down Ladle (1)
+You put down failed, drop it. You see Microwave (1), Drawer (1), Cup (3), Cabinet (9).
+Act: pick up Cup (3)
+You pick up Cup (3). You see Microwave (1), Drawer (1), Cup (3), Cabinet (9). I am holding Cup (3) now.
+Act: put down Cup (3)
+You put down failed, drop it. You see Microwave (1), Drawer (1), Cabinet (9).
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SaltShaker (1), Potato (1), Microwave (1, 1, 1), Egg (1), Drawer (1, 1, 1), DiningTable (1), Cup (3), CounterTop (2), Cabinet (5, 9, 9, 9), ButterKnife (2). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see SaltShaker (1), Potato (1), Microwave (1), Fork (2), Egg (1), Drawer (1), DiningTable (1), Cup (3), CounterTop (2), Cabinet (5, 9), ButterKnife (2).
+Act: close Drawer (1)
+You close Drawer (1). You see SaltShaker (1), Potato (1), Microwave (1), Egg (1), Drawer (1), DiningTable (1), Cup (3), CounterTop (2), Cabinet (5, 9), ButterKnife (2).
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see SaltShaker (1, 1), Potato (1, 1, 1), Mug (2), Microwave (1, 1, 1), Ladle (1), Knife (1), Egg (1, 1), Drawer (1, 1, 1), DiningTable (1, 1, 1), Cup (3, 3, 3), CounterTop (2, 2), Cabinet (5, 5, 5, 9, 9, 9), ButterKnife (2, 2), Apple (1). Cabinet (9) is closed. 
+Act: open Cabinet (9)
+You open Cabinet (9). You see Potato (1), Microwave (1), Ladle (1, 2), Knife (1), Drawer (1), DiningTable (1), Cabinet (5, 9), Apple (1).
+Act: pick up Knife (1)
+You pick up Knife (1). You see Potato (1), Microwave (1), Ladle (1, 2), Knife (1), Drawer (1), DiningTable (1), Cabinet (5, 9), Apple (1). I am holding Knife (1) now.
+Think: I hold Knife (1). Now, I need to recall location of the tomato.
+OK.
+Act: recall location of Tomato
+You have not seen Tomato before.
+Think: Now, I need to find the tomato. The tomato is more likely to appear on SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-12). I can check each place one by one, starting from SinkBasin (1), until I find the tomato.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Spoon (2), Spatula (3), Sink (1), SinkBasin (1), Potato (1), Microwave (1), Ladle (1, 2), Knife (1, 1), Faucet (1, 2), Drawer (1), DiningTable (1), Curtains (1), Cabinet (4, 5, 5, 9), Apple (1).  I am holding Knife (1) now.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Knife (1), Fridge (1), Cabinet (7). Fridge (1) is closed.  I am holding Knife (1) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Plate (2), Knife (1), Fridge (1), Cabinet (7). I am holding Knife (1) now.
+Act: close Fridge (1)
+You close Fridge (1). You see Knife (1), Fridge (1), Cabinet (7). I am holding Knife (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see SaltShaker (1), Microwave (1), Ladle (2), Knife (1, 1), Fridge (1), Drawer (1), Cabinet (7, 9), ButterKnife (2). Microwave (1) is open.  I am holding Knife (1) now.
+Think: I find Tomato (1). Now, I need to slice it.
+OK.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see SaltShaker (1, 1), Potato (1), Microwave (1, 1, 1), Ladle (1, 2, 2, 2), Knife (1, 1, 1), Drawer (1, 1, 1), DiningTable (1), Cabinet (5, 9, 9, 9), ButterKnife (2, 2), Apple (1). Cabinet (9) is open.  I am holding Knife (1) now.
+Act: slice Apple (1)
+You slice Apple (1). You see Potato (1), Microwave (1), Ladle (1, 2), Knife (1), Drawer (1), DiningTable (1), Cabinet (5, 9), Apple (4, 6). Apple (4, 5, 6) are sliced. I am holding Knife (1) now.
+Think: I slice Apple (1). Now, I need to put down the knife.
+OK.
+Act: put down Knife (1)
+You put down failed, drop it. You see Potato (1), Microwave (1), Ladle (1, 2), Knife (1), Drawer (1), DiningTable (1), Cabinet (5, 9), Apple (4, 6).
+Think: Now I need to pick up Apple (4).
+OK.
+Act: pick up Apple (4)
+You pick up Apple (4). You see Potato (1), Microwave (1), Ladle (1, 2), Knife (1), Drawer (1), DiningTable (1), Cabinet (5, 9), Apple (4, 6). I am holding Apple (4) now.
+Think: I hold Apple (4). Now, I need to put it in the trash can.
+OK.
+Act: go to GarbageCan (1)
+You arrive at GarbageCan (1). You see GarbageCan (1), Chair (1), Apple (4).  I am holding Apple (4) now.
+Act: put down Apple (4)
+You put Apple (4) on GarbageCan (1). You see GarbageCan (1), Chair (1), Apple (4).
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,47 @@
+Your primary goal is to: turn on the lamp while holding a remote controller
+To achieve this, you should perform your sibling tasks using a fallback strategy. At this level, your sibling tasks are: find and turn on the floor lamp, and find and turn on the desk lamp.
+Your task is to: find and turn on the floor lamp
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1, 2), Sofa (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14), GarbageCan (1), CoffeeTable (1), ArmChair (1).
+Think: First, I need to recall location of the floor lamp.
+OK.
+Act: recall location of FloorLamp
+You have not seen FloorLamp before.
+Think: Now I need to find the floor lamp. The floor lamp is more likely to appear near Sofa (1), CoffeeTable (1), ArmChair (1), Shelf (1-14). I can check each place one by one, starting from Sofa (1), until I find the floor lamp.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), RemoteControl (2), Pillow (1), KeyChain (1), Box (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Statue (3), RemoteControl (1, 3, 4), KeyChain (3), CreditCard (2), CoffeeTable (1). 
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Box (2), ArmChair (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Window (1), Vase (2), Television (1), TVStand (2), Shelf (1, 3, 6, 11). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Vase (1), Shelf (2, 5). 
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Vase (2), Television (1), TVStand (2), Shelf (1, 3, 4, 6, 11, 13), GarbageCan (1). 
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see Window (2), Vase (2), Television (1), TVStand (2), Shelf (1, 3, 4, 6, 11, 13), GarbageCan (1). 
+Act: go to Shelf (5)
+You arrive at Shelf (5). You see TVStand (1), Shelf (5), Bowl (1). 
+Act: go to Shelf (6)
+You arrive at Shelf (6). You see Window (1), Vase (2), Television (1), TVStand (2), Shelf (1, 3, 6, 11). 
+Act: go to Shelf (7)
+You arrive at Shelf (7). You see TVStand (1), Statue (1), Shelf (7, 10, 12, 14), HousePlant (1). 
+Act: go to Shelf (8)
+You arrive at Shelf (8). You see Vase (3, 4), TVStand (1), Shelf (8, 9, 10), Laptop (1). 
+Act: go to Shelf (9)
+You arrive at Shelf (9). You see Vase (3, 4), TVStand (1), Shelf (8, 9, 10), Laptop (1). 
+Act: go to Shelf (10)
+You arrive at Shelf (10). You see Vase (4), TVStand (1), Statue (1), Shelf (8, 9, 10, 14), Laptop (1). 
+Act: go to Shelf (11)
+You arrive at Shelf (11). You see Vase (2), Television (1), TVStand (2), Shelf (1, 3, 4, 6, 11, 13). 
+Act: go to Shelf (12)
+You arrive at Shelf (12). You see TVStand (1), Statue (1), Shelf (7, 10, 12, 14), HousePlant (1). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Window (2), Vase (2), Television (1), TVStand (2), Shelf (1, 3, 4, 6, 11, 13), GarbageCan (1). 
+Act: go to Shelf (14)
+You arrive at Shelf (14). You see TVStand (1), Statue (1), Shelf (7, 10, 12, 14), HousePlant (1). 
+Think: I cannot find the floor lamp.
+OK.
+Act: failure

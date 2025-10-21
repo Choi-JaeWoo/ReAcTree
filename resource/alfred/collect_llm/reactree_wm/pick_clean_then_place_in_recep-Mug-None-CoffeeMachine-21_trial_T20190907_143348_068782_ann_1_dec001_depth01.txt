@@ -1,0 +1,7 @@
+Your task is to: Get a mug for a cup of coffee.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1, 2, 3), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: Since I’m not holding mug, I need to accomplish 2 subgoals sequentially to solve the task. Find and pick up mug, and place mug on coffee maker.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up mug, place mug on coffee maker

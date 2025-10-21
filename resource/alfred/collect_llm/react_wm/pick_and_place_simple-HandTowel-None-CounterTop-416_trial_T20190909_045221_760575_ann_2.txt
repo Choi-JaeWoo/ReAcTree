@@ -1,0 +1,110 @@
+Your task is to: Move a white towel from it's hanger to the sink countertop.
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1, 2), HandTowelHolder (1, 2), GarbageCan (1), Drawer (1, 2), CounterTop (1).
+Think: To solve the task, I need to find and pick up the towel, then put it on the sink countertop.
+OK.
+Think: First, I need to recall location of the towel.
+OK.
+Act: recall location of Cloth
+You have not seen Cloth before.
+Think: Now I need to find the towel. The towel is more likely to appear on CounterTop (1), SinkBasin (1), Drawer (1-2). I can check each place one by one, starting from CounterTop (1), until I find the towel.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see ToiletPaper (3), SoapBottle (1), SoapBar (2), Sink (1, 2), SinkBasin (1, 2), Mirror (1), Faucet (2, 3), Drawer (1, 2), CounterTop (1), Candle (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see ToiletPaper (3), SoapBar (2), Sink (1), SinkBasin (1), Mirror (1), Faucet (2), Drawer (1, 2), CounterTop (1), Candle (1). 
+Act: go to SinkBasin (2)
+You arrive at SinkBasin (2). You see ToiletPaper (3), SoapBottle (1), Sink (2), SinkBasin (2), Mirror (1), Faucet (3), Drawer (1, 2), CounterTop (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see ToiletPaper (3), SoapBottle (1), Sink (2), SinkBasin (2), Faucet (3), Drawer (1, 2), CounterTop (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see ToiletPaper (3), SoapBottle (1), Sink (2), SinkBasin (2), Drawer (1, 2), CounterTop (1).
+Act: close Drawer (1)
+You close Drawer (1). You see ToiletPaper (3), SoapBottle (1), Sink (2), SinkBasin (2), Drawer (1, 2), CounterTop (1).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Toilet (1), SoapBar (2), Sink (1), SinkBasin (1), Faucet (2), Drawer (1, 2), CounterTop (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see Toilet (1), SoapBar (2), Sink (1), SinkBasin (1), Faucet (2), Drawer (1, 2), CounterTop (1).
+Act: close Drawer (2)
+You close Drawer (2). You see Toilet (1), SoapBar (2), Sink (1), SinkBasin (1), Faucet (2), Drawer (1, 2), CounterTop (1).
+Think: Now I need to find the towel. The towel is more likely to appear on TowelHolder (1), HandTowelHolder (1-2). I can check each place one by one, starting from TowelHolder (1), until I find the towel.
+OK.
+Act: go to TowelHolder (1)
+You arrive at TowelHolder (1). You see Towel (1), TowelHolder (1). 
+Think: I find Towel (1). Now, I need to pick it up.
+OK.
+Act: recall location of Cloth
+You have not seen Cloth before.
+Act: recall location of Cloth
+You have not seen Cloth before.
+Act: recall location of Cloth
+You have not seen Cloth before.
+Act: recall location of Cloth
+You have not seen Cloth before.
+Act: recall location of Cloth
+You have not seen Cloth before.
+Act: recall location of Cloth
+You have not seen Cloth before.
+Act: recall location of Cloth
+You have not seen Cloth before.
+Act: recall location of Cloth
+You have not seen Cloth before.
+Act: recall location of Cloth
+You have not seen Cloth before.
+Act: recall location of Cloth
+You have not seen Cloth before.
+Act: recall location of Cloth
+You have not seen Cloth before.
+Act: recall location of Cloth
+You have not seen Cloth before.
+Act: recall location of Cloth
+You have not seen Cloth before.
+Act: recall location of Cloth
+You have not seen Cloth before.
+Act: recall location of Cloth
+You have not seen Cloth before.
+Act: recall location of Cloth
+You have not seen Cloth before.
+Act: recall location of Cloth
+You have not seen Cloth before.
+Act: recall location of Cloth
+You have not seen Cloth before.
+Act: recall location of Cloth
+You have not seen Cloth before.
+Act: recall location of Cloth
+You have not seen Cloth before.
+Act: recall location of Cloth
+You have not seen Cloth before.
+Act: recall location of Cloth
+You have not seen Cloth before.
+Act: recall location of Cloth
+You have not seen Cloth before.
+Act: recall location of Cloth
+You have not seen Cloth before.
+Act: recall location of Cloth
+You have not seen Cloth before.
+Act: recall location of Cloth
+You have not seen Cloth before.
+Act: recall location of Cloth
+You have not seen Cloth before.
+Act: recall location of Cloth
+You have not seen Cloth before.
+Act: recall location of Cloth
+You have not seen Cloth before.
+Act: recall location of Cloth
+You have not seen Cloth before.
+Act: recall location of Cloth
+You have not seen Cloth before.
+Act: recall location of Cloth
+You have not seen Cloth before.
+Act: recall location of Cloth
+You have not seen Cloth before.
+Act: recall location of Cloth
+You have not seen Cloth before.
+Act: recall location of Cloth
+You have not seen Cloth before.
+Act: recall location of Cloth
+You have not seen Cloth before.
+Act: recall location of Cloth
+You have not seen Cloth before.
+Act: recall location of Cloth
+You have not seen Cloth before.

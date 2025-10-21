@@ -1,0 +1,13 @@
+Your primary goal is to: Place pen on bedside table, place coffee mug on desk to left of chair
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pen, and place pen on bedside table.
+Your task is to: place pen on bedside table
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1), GarbageCan (1), Drawer (1, 2), Desk (1), Bed (1). I am holding Pen (1) now.
+Think: I hold Pen (1). Now, I need to put it on the bedside table. I can see SideTable (1).
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Window (1, 2), SideTable (1), Pen (1, 2), Mug (1), Drawer (1, 2), Desk (1), CreditCard (3), Chair (1), CellPhone (1), Bed (1), AlarmClock (1).  I am holding Pen (1) now.
+Act: put down Pen (1)
+You put Pen (1) on SideTable (1). You see Window (1, 2), SideTable (1), Pen (1, 2), Mug (1), Drawer (1, 2), Desk (1), CreditCard (3), Chair (1), CellPhone (1), Bed (1), AlarmClock (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

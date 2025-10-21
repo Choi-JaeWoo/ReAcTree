@@ -1,0 +1,21 @@
+Your primary goal is to: Move two salt shakers to a black shelving unit.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up salt shaker, place salt shaker on black shelving unit, find and pick up salt shaker away from black shelving unit, and place salt shaker on black shelving unit.
+Your task is to: find and pick up salt shaker away from black shelving unit
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11).
+Think: First, I need to recall location of the salt shaker.
+OK.
+Act: recall location of SaltShaker
+You saw SaltShaker (1) near SideTable (1). You saw SaltShaker (3) near SideTable (1).
+Think: SaltShaker (1) is in SideTable (1). SaltShaker (3) is in SideTable (1). Now, I need to find another salt shaker. The salt shaker is more likely to appear on DiningTable (1-2), CounterTop (1-2), or in Fridge (1), Microwave (1), Cabinet (1-11), Drawer (1-3). I can check each place one by one, starting from DiningTable (1), until I find the salt shaker.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (1), Pan (1), DiningTable (1), Apple (1, 2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Tomato (2), SoapBottle (1), SaltShaker (3), Plate (1), DiningTable (2), Bread (1, 2). 
+Think: I find SaltShaker (3). Now, I need to pick it up.
+OK.
+Act: pick up SaltShaker (3)
+You pick up SaltShaker (3). You see Tomato (2), SoapBottle (1), SaltShaker (3), Plate (1), DiningTable (2), Bread (1, 2). I am holding SaltShaker (3) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

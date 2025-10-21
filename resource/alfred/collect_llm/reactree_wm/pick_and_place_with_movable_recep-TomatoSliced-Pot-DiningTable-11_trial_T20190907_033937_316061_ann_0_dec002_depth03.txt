@@ -1,0 +1,27 @@
+Your primary goal is to: Place a metal bowl with a tomato slice inside on a white table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up bowl, place bowl in fridge, find and pick up knife, slice and pick up tomato, and place tomato in bowl near fridge.
+Your task is to: find and pick up bowl
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10).
+Think: First, I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: Now, I need to find the bowl. The bowl is more likely to appear on DiningTable (1), CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-10), Drawer (1-6). I can check each place one by one, starting from DiningTable (1), until I find the bowl.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see DiningTable (1), Chair (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Tomato (2), Toaster (1), Spoon (2), SaltShaker (1), PaperTowelRoll (1), GarbageCan (1), Drawer (1, 4), CounterTop (1), CoffeeMachine (1), Cabinet (2, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Plate (1), Microwave (1), Drawer (2, 5, 6), CounterTop (2), Cabinet (3, 7, 8, 10). 
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Tomato (1), StoveKnob (2), StoveBurner (2, 3), Spatula (2, 3), Pot (2), Drawer (3), DishSponge (1, 2), CounterTop (3), Cabinet (9). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (1), Spatula (1), Sink (1), SinkBasin (1), Plate (1), Faucet (1), Drawer (2), CounterTop (2), Cabinet (1, 3, 6), ButterKnife (2), Bowl (1). 
+Think: I find Bowl (1). Now, I need to pick it up.
+OK.
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Window (1), Spatula (1), Sink (1), SinkBasin (1), Plate (1), Faucet (1), Drawer (2), CounterTop (2), Cabinet (1, 3, 6), ButterKnife (2), Bowl (1). I am holding Bowl (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

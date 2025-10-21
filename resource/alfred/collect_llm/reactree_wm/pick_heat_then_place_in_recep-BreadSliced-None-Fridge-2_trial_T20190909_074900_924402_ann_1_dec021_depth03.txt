@@ -1,0 +1,27 @@
+Your primary goal is to: Put a cooked slice of bread in the fridge.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, slice and pick up bread, heat and pick up bread, and place bread in fridge.
+Your task is to: heat and pick up bread
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4, 5, 6), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9). I am holding Bread (4) now.
+Think: I hold Bread (4). Now, I need to heat it using the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Window (1), Toaster (1), Microwave (1), Kettle (1), Drawer (4), CounterTop (1), Bread (4). Microwave (1) is closed.  I am holding Bread (4) now.
+Act: open Microwave (1)
+You open Microwave (1). You see Window (1), Toaster (1), Microwave (1), Kettle (1), Drawer (4), CounterTop (1), Bread (4). I am holding Bread (4) now.
+Act: put down Bread (4)
+You put Bread (4) on Microwave (1). You see Window (1), Toaster (1), Microwave (1), Kettle (1), Drawer (4), CounterTop (1), Bread (4).
+Act: close Microwave (1)
+You close Microwave (1). You see Window (1), Toaster (1), Microwave (1), Kettle (1), Drawer (4), CounterTop (1).
+Act: turn on Microwave (1)
+You turn on Microwave (1). You see Window (1), Toaster (1), Microwave (1), Kettle (1), Drawer (4), CounterTop (1).
+Act: turn off Microwave (1)
+You turn off Microwave (1). You see Window (1), Toaster (1), Microwave (1), Kettle (1), Drawer (4), CounterTop (1).
+Think: I heat Bread (4) using Microwave (1). Now, I need to pick up the bread from the microwave.
+OK.
+Act: open Microwave (1)
+You open Microwave (1). You see Window (1), Toaster (1), Microwave (1), Kettle (1), Drawer (4), CounterTop (1), Bread (4).
+Act: pick up Bread (4)
+You pick up Bread (4). You see Window (1), Toaster (1), Microwave (1), Kettle (1), Drawer (4), CounterTop (1), Bread (4). I am holding Bread (4) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

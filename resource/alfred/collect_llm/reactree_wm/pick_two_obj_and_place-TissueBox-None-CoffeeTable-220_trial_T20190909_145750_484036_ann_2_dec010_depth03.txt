@@ -1,0 +1,13 @@
+Your primary goal is to: Move the kleenex box to the coffee table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up kleenex box, and place kleenex box on coffee table.
+Your task is to: place kleenex box on coffee table
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1, 2), SideTable (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1, 2), CoffeeTable (1), ArmChair (1). I am holding TissueBox (1) now.
+Think: I hold TissueBox (1). Now, I need to put it on the coffee table. I can see CoffeeTable (1).
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see TissueBox (1), Statue (1), Sofa (2), KeyChain (1), CreditCard (3), CoffeeTable (1), Box (1).  I am holding TissueBox (1) now.
+Act: put down TissueBox (1)
+You put TissueBox (1) on CoffeeTable (1). You see TissueBox (1), Statue (1), Sofa (2), KeyChain (1), CreditCard (3), CoffeeTable (1), Box (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,21 @@
+Your primary goal is to: cool the cabbage in the refrigerator, put it back on the table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up cabbage, place cabbage in fridge, find and pick up cabbage away from fridge, and and place cabbage on table.
+Your task is to: find and pick up cabbage away from fridge
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12).
+Think: First, I need to recall location of the cabbage.
+OK.
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Think: Now, I need to find the cabbage. The cabbage is more likely to appear on CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-12), Drawer (1-3). I can check each place one by one, starting from CounterTop (1), until I find the cabbage.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), StoveKnob (4), StoveBurner (1, 3), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see SoapBottle (1), Sink (1), SinkBasin (1), Potato (2), PepperShaker (2), Faucet (1, 2), Curtains (1), Cabinet (4, 5). 
+Think: I find Potato (2). Now, I need to pick it up.
+OK.
+Act: pick up Potato (2)
+You pick up Potato (2). You see SoapBottle (1), Sink (1), SinkBasin (1), Potato (2), PepperShaker (2), Faucet (1, 2), Curtains (1), Cabinet (4, 5). I am holding Potato (2) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

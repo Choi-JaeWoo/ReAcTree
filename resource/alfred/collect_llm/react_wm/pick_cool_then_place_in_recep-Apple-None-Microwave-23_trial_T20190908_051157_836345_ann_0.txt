@@ -1,0 +1,27 @@
+Your task is to: Place the apple in the microwave.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2), DiningTable (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10).
+Think: To solve the task, I need to find and pick up the apple, then put it in the microwave.
+OK.
+Think: First, I need to recall location of the apple.
+OK.
+Act: recall location of Apple
+You have not seen Apple before.
+Think: Now I need to find the apple. The apple is more likely to appear on DiningTable (1), CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-10), Drawer (1-2). I can check each place one by one, starting from DiningTable (1), until I find the apple.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (1), Tomato (1), Spoon (1), Spatula (1, 2), SoapBottle (1), Pot (1), PepperShaker (3), Pen (3), Lettuce (1), Glassbottle (2), Fork (1), DiningTable (1), Cup (1, 2), Chair (1, 2), ButterKnife (1), Bowl (1), Apple (1). 
+Think: I find Apple (1). Now, I need to pick it up.
+OK.
+Act: pick up Apple (1)
+You pick up Apple (1). You see WineBottle (1), Tomato (1), Spoon (1), Spatula (1, 2), SoapBottle (1), Pot (1), PepperShaker (3), Pen (3), Lettuce (1), Glassbottle (2), Fork (1), DiningTable (1), Cup (1, 2), Chair (1, 2), ButterKnife (1), Bowl (1), Apple (1). I am holding Apple (1) now.
+Think: I hold Apple (1). Now, I need to put it in the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see StoveKnob (2, 3, 4), StoveBurner (3), Pan (2), Microwave (1), Apple (1). Microwave (1) is closed.  I am holding Apple (1) now.
+Act: open Microwave (1)
+You open Microwave (1). You see StoveKnob (2, 3, 4), StoveBurner (3), Pan (2), Microwave (1), Cup (3), Apple (1). I am holding Apple (1) now.
+Act: put down Apple (1)
+You put Apple (1) on Microwave (1). You see StoveKnob (1, 2, 3, 4), StoveBurner (3), Pan (2), Microwave (1), Cup (3), Apple (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

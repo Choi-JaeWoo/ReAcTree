@@ -1,0 +1,27 @@
+Your task is to: cool the cabbage in the refrigerator, put it back on the table
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12).
+Think: To solve the task, I need to find and pick up the cabbage, then put it in the fridge. And I need to wait for a while. And I need to pick up the cabbage from the fridge, then put it on the table.
+OK.
+Think: First, I need to recall location of the cabbage.
+OK.
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Think: Now I need to find the cabbage. The cabbage is more likely to appear on DiningTable (1), CounterTop (1-2) SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-12), Drawer (1-3). I can check each place one by one, starting from DiningTable (1), until I find the cabbage.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (1), Tomato (1), Spatula (2), SaltShaker (1), Mug (1), Lettuce (1), Knife (1), Egg (1), DiningTable (1), Cup (1), Chair (1), ButterKnife (1), Bread (1), Apple (2). 
+Think: I find Lettuce (1). Now, I need to pick it up.
+OK.
+Act: pick up Lettuce (1)
+You pick up Lettuce (1). You see WineBottle (1), Tomato (1), Spatula (2), SaltShaker (1), Mug (1), Lettuce (1), Knife (1), Egg (1), DiningTable (1), Cup (1), Chair (1), ButterKnife (1), Bread (1), Apple (2). I am holding Lettuce (1) now.
+Think: I hold Lettuce (1). Now, I need to put it in the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Lettuce (1), Fridge (1), Cabinet (7). Fridge (1) is closed.  I am holding Lettuce (1) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Tomato (3), Lettuce (1), Fridge (1), Cabinet (7), Bowl (1), Apple (3). I am holding Lettuce (1) now.
+Act: put down Lettuce (1)
+You put Lettuce (1) on Fridge (1). You see Tomato (3), Lettuce (1), Fridge (1), Cabinet (7), Bowl (1), Apple (3).
+Think: I put Lettuce (1) in Fridge (1). Now, I need to wait for a while.
+OK.
+Act: done

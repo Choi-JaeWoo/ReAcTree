@@ -1,0 +1,29 @@
+Your task is to: Put two pencils in a drawer.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1), GarbageCan (1), Drawer (1, 2), Desk (1), Bed (1).
+Think: To solve the task, I need to find and pick up the pencils, then put them in the drawer.
+OK.
+Think: First, I need to recall location of the pencils.
+OK.
+Act: recall location of Pencil
+You have not seen Pencil before.
+Think: Now I need to find the pencils. The pencils are more likely to appear on Desk (1), SideTable (1), or in Drawer (1-2), Shelf (1). I can check each place one by one, starting from Desk (1), until I find the pencils.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pencil (3), Pen (2), Desk (1), Chair (1), CD (2), Bowl (1), Book (1). 
+Think: I find Pencil (3). Now, I need to pick it up.
+OK.
+Act: pick up Pencil (3)
+You pick up Pencil (3). You see Pencil (3), Pen (2), Desk (1), Chair (1), CD (2), Bowl (1), Book (1). I am holding Pencil (3) now.
+Think: I hold Pencil (3). Now, I need to put it in the drawer.
+OK.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (1), Pencil (1, 2, 3), Drawer (1, 2), Book (2), Bed (1). Drawer (1) is closed.  I am holding Pencil (3) now.
+Act: open Drawer (1)
+You open Drawer (1). You see SideTable (1), Pencil (1, 2, 3), KeyChain (1), Drawer (1), Book (2), Bed (1). I am holding Pencil (3) now.
+Act: put down Pencil (3)
+You put Pencil (3) on Drawer (1). You see SideTable (1), Pencil (1, 2, 3), KeyChain (1), Drawer (1), Book (2), Bed (1).
+Act: close Drawer (1)
+You close Drawer (1). You see SideTable (1), Pencil (1, 2), Drawer (1, 2), Book (2), Bed (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

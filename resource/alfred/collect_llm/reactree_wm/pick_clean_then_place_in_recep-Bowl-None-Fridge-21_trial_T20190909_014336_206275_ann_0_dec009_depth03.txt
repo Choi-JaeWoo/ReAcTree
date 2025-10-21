@@ -1,0 +1,21 @@
+Your primary goal is to: Retrieve a dish on cabinet, fill with water, put in the fridge.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up dish, fill and pick up dish, and place dish in fridge.
+Your task is to: fill and pick up dish
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1, 2, 3), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4). I am holding DishSponge (3) now.
+Think: I hold DishSponge (3). Now, I need to find the sink.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), PepperShaker (1), Fork (2), Faucet (1), Drawer (1), DishSponge (3), CounterTop (1), CoffeeMachine (1), Cabinet (2, 4).  I am holding DishSponge (3) now.
+Think: I find SinkBasin (1). Now, I need to fill DishSponge (3) with water.
+OK.
+Act: turn on Faucet (1)
+You turn on Faucet (1). You see Sink (1), SinkBasin (1), PepperShaker (1), Fork (2), Faucet (1), Drawer (1), DishSponge (3), CounterTop (1), CoffeeMachine (1), Cabinet (2, 4). I am holding DishSponge (3) now.
+Act: pick up DishSponge (3)
+You are currently holding DishSponge (3). I am holding DishSponge (3) now.
+Think: I fill DishSponge (3) with water. Now, I need to turn off the faucet.
+OK.
+Act: turn off Microwave (1)
+The Microwave (1) already turn off. I am holding DishSponge (3) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

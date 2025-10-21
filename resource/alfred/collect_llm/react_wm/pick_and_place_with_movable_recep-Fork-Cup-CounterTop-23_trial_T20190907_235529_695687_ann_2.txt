@@ -1,0 +1,63 @@
+Your task is to: Move a martini glass with a fork in it to the counter by the sink.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2), DiningTable (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10).
+Think: To solve the task, I need to find and pick up the martini glass, then put it on the counter by the sink. And I need to find and pick up the fork, then put it on the martini glass on the counter by the sink.
+OK.
+Think: First, I need to recall location of the martini glass.
+OK.
+Act: recall location of Glassbottle
+You have not seen Glassbottle before.
+Think: Now I need to find the martini glass. The martini glass is more likely to appear on DiningTable (1), CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-10), Drawer (1-2). I can check each place one by one, starting from DiningTable (1), until I find the martini glass.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spoon (1), Spatula (1), SoapBottle (2), SaltShaker (1), Pencil (2, 3), Pen (1, 3), Lettuce (1), Fork (1), Egg (2), DishSponge (1, 2), DiningTable (1), Cup (2, 3), Chair (1, 2), ButterKnife (2), Bowl (1), Apple (3). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), Sink (1), SinkBasin (1), Mug (2), Drawer (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 7). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Toaster (1), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), Cabinet (4, 7). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1). Fridge (1) is closed. 
+Act: open Fridge (1)
+You open Fridge (1). You see Fridge (1), Bread (1).
+Act: close Fridge (1)
+You close Fridge (1). You see Fridge (1).
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see StoveKnob (1, 2, 3, 4), Pan (1), Microwave (1). Microwave (1) is closed. 
+Act: open Microwave (1)
+You open Microwave (1). You see StoveKnob (1, 2, 3, 4), Pan (1), Mug (1), Microwave (1), Apple (1).
+Act: close Microwave (1)
+You close Microwave (1). You see StoveKnob (1, 2, 3, 4), Pan (1), Microwave (1).
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see SoapBottle (1), Pot (1), Plate (3), PepperShaker (1), Pen (2), Mug (2), Drawer (1, 2), CounterTop (1), CoffeeMachine (1), Cabinet (1, 5), ButterKnife (1). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see SoapBottle (1), Pot (1), Plate (3), PepperShaker (1), Pen (2), Mug (2), Glassbottle (2), Drawer (1, 2), CounterTop (1), CoffeeMachine (1), Cabinet (1, 5), ButterKnife (1).
+Think: I find Glassbottle (2). Now, I need to pick it up.
+OK.
+Act: pick up Glassbottle (2)
+You pick up Glassbottle (2). You see SoapBottle (1), Pot (1), Plate (3), PepperShaker (1), Pen (2), Mug (2), Glassbottle (2), Drawer (1, 2), CounterTop (1), CoffeeMachine (1), Cabinet (1, 5), ButterKnife (1). I am holding Glassbottle (2) now.
+Think: I hold Glassbottle (2). Now, I need to put it on the counter by the sink.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), Sink (1), SinkBasin (1), Mug (2), Glassbottle (2), Drawer (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 7).  I am holding Glassbottle (2) now.
+Act: put down Glassbottle (2)
+You put Glassbottle (2) on CounterTop (1). You see Toaster (1), Sink (1), SinkBasin (1), Mug (2), Glassbottle (2), Drawer (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 7).
+Think: I put Glassbottle (2) on the CounterTop (1). Now, I need to recall location of the fork.
+OK.
+Act: recall location of Fork
+You saw Fork (1) near DiningTable (1).
+Think: Fork (1) is on the DiningTable (1). Now, I need to pick it up.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spoon (1), Spatula (1), SoapBottle (2), SaltShaker (1), Pencil (2, 3), Pen (1, 3), Lettuce (1), Fork (1), Egg (2), DishSponge (1, 2), DiningTable (1), Cup (2, 3), Chair (1, 2), ButterKnife (2), Bowl (1), Apple (3). 
+Act: pick up Fork (1)
+You pick up Fork (1). You see Spoon (1), Spatula (1), SoapBottle (2), SaltShaker (1), Pencil (2, 3), Pen (1, 3), Lettuce (1), Fork (1), Egg (2), DishSponge (1, 2), DiningTable (1), Cup (2, 3), Chair (1, 2), ButterKnife (2), Bowl (1), Apple (3). I am holding Fork (1) now.
+Think: I hold Fork (1). Now, I need to put it on the Glassbottle (2) on the CounterTop (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), Sink (1), SinkBasin (1), Mug (2), Glassbottle (2), Fork (1), Drawer (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 7).  I am holding Fork (1) now.
+Act: go to Glassbottle (2)
+You see Toaster (1), Sink (1), SinkBasin (1), Mug (2), Glassbottle (2), Fork (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 4, 7).  I am holding Fork (1) now.
+Act: put down Fork (1)
+You put down failed, drop it. You see Toaster (1), Sink (1), SinkBasin (1), Mug (2), Glassbottle (2), Fork (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 4, 7).
+Think: Now I accomplish the goal.
+OK.
+Act: done

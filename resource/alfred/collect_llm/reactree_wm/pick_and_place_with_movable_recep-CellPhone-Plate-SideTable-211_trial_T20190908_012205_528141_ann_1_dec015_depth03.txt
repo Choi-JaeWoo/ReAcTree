@@ -1,0 +1,11 @@
+Your primary goal is to: Place a cell phone on a tray and carry it to another table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up cell phone, place cell phone on tray, and carry tray to another table.
+Your task is to: carry tray to another table
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1, 2), Shelf (1, 2, 3, 4, 5), GarbageCan (1), Drawer (1), CoffeeTable (1), ArmChair (1).
+Think: I hold Tray (1). Now, I need to carry it to another table. I can see CoffeeTable (1).
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Statue (1, 2), RemoteControl (1), Plate (1, 2, 3), CoffeeTable (1). 
+Think: Now I accomplish the goal.
+OK.
+Act: done

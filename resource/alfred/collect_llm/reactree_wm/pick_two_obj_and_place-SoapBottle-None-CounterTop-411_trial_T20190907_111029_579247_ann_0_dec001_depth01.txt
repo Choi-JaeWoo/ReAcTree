@@ -1,0 +1,7 @@
+Your task is to: Put two bottles of lotion on the counter by the tub.
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1, 2), Toilet (1), ToiletPaperHanger (1), SinkBasin (1), HandTowelHolder (1), GarbageCan (1), Drawer (1, 2, 3, 4), CounterTop (1, 2), BathtubBasin (1).
+Think: Since I’m not holding lotion, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up lotion, place lotion on counter, find and pick up lotion away from counter, and place lotion on counter.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up lotion, place lotion on counter, find and pick up lotion away from counter, place lotion on counter

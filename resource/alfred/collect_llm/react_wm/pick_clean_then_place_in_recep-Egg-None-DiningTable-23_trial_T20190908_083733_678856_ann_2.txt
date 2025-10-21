@@ -1,0 +1,39 @@
+Your task is to: Put a clean egg on the kitchen island.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2), DiningTable (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10).
+Think: To solve the task, I need to find and pick up the egg. And I need to find and wash the egg. And I need to put down the egg, then put it on the kitchen island.
+OK.
+Think: First, I need to recall location of the egg.
+OK.
+Act: recall location of Egg
+You have not seen Egg before.
+Think: Now I need to find the egg. The egg is more likely to appear on DiningTable (1), CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-10), Drawer (1-2). I can check each place one by one, starting from DiningTable (1), until I find the egg.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1), Pot (2), Pen (2, 3), Pan (1), Lettuce (1), Knife (1), Fork (1), DishSponge (3), DiningTable (1), Chair (1, 2), Bowl (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), Sink (1), SinkBasin (1), SaltShaker (1), Glassbottle (1), Egg (3), Drawer (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 7). 
+Think: I find Egg (3). Now, I need to pick it up.
+OK.
+Act: pick up Egg (3)
+You pick up Egg (3). You see Toaster (1), Sink (1), SinkBasin (1), SaltShaker (1), Glassbottle (1), Egg (3), Drawer (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 7). I am holding Egg (3) now.
+Think: I hold Egg (3). Now, I need to find and wash the egg.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Toaster (1), Sink (1), SinkBasin (1), Mug (2), Fork (2), Faucet (1), Egg (3), CounterTop (1), Cabinet (4, 7).  I am holding Egg (3) now.
+Act: put down Egg (3)
+You put Egg (3) on SinkBasin (1). You see Toaster (1), Sink (1), SinkBasin (1), Mug (2), Fork (2), Faucet (1), Egg (3), CounterTop (1), Cabinet (4, 7).
+Act: turn on Faucet (1)
+You turn on Faucet (1). You see Toaster (1), Sink (1), SinkBasin (1), Mug (2), Fork (2), Faucet (1), Egg (3), CounterTop (1), Cabinet (4, 7).
+Act: turn off Faucet (1)
+You turn off Faucet (1). You see Toaster (1), Sink (1), SinkBasin (1), Mug (2), Fork (2), Faucet (1), Egg (3), CounterTop (1), Cabinet (4, 7).
+Act: pick up Egg (3)
+You pick up Egg (3). You see Toaster (1), Sink (1), SinkBasin (1), Mug (2), Fork (2), Faucet (1), Egg (3), CounterTop (1), Cabinet (4, 7). I am holding Egg (3) now.
+Think: I wash Egg (3). Now, I need to put it on the kitchen island.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), Sink (1), SinkBasin (1), SaltShaker (1), Glassbottle (1), Egg (3), Drawer (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 7).  I am holding Egg (3) now.
+Act: put down Egg (3)
+You put Egg (3) on CounterTop (1). You see Toaster (1), Sink (1), SinkBasin (1), SaltShaker (1), Glassbottle (1), Egg (3), Drawer (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 7).
+Think: Now I accomplish the goal.
+OK.
+Act: done

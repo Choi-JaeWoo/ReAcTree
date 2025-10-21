@@ -1,0 +1,53 @@
+Your task is to: place a bowl with a cellphone in it on the right side of the desk
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1), LaundryHamper (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5), Desk (1), Bed (1).
+Think: To solve the task, I need to find and pick up the bowl, then put it in the drawer. And I need to pick up the cellphone from the drawer, then put it in the bowl. And I need to pick up the bowl from the drawer, then put it on the desk.
+OK.
+Think: First, I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: Now I need to find the bowl. The bowl is more likely to appear on Desk (1), or in Drawer (1-5). I can check each place one by one, starting from Desk (1), until I find the bowl.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Mug (1), Laptop (1), KeyChain (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1, 2), Chair (1), CD (1), Book (1), AlarmClock (1, 2). 
+Think: I find Bowl (1). Now, I need to pick it up.
+OK.
+Act: pick up Book (1)
+You pick up Book (1). You see Mug (1), Laptop (1), KeyChain (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1, 2), Chair (1), CD (1), Book (1), AlarmClock (1, 2). I am holding Book (1) now.
+Think: I hold Book (1). Now, I need to put it in the drawer.
+OK.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Window (1), Pencil (2), Dresser (1), Drawer (1), DeskLamp (1), Box (1), Bowl (1), Book (1). Drawer (1) is closed.  I am holding Book (1) now.
+Act: open Drawer (1)
+You open Drawer (1). You see Window (1), Pencil (2, 3), Dresser (1), Drawer (1), DeskLamp (1), Box (1), Bowl (1), Book (1). I am holding Book (1) now.
+Act: put down Book (1)
+You put down failed, drop it. You see Window (1), Pencil (2, 3), KeyChain (2), Dresser (1), Drawer (1), DeskLamp (1), Box (1), Bowl (1), Book (1).
+Act: close Drawer (1)
+You close Drawer (1). You see Window (1), Pencil (2, 3), KeyChain (2), Dresser (1), Drawer (1), DeskLamp (1), Box (1), Bowl (1), Book (1).
+Think: I put Book (1) in Drawer (1). Now, I need to pick up the cellphone from the drawer.
+OK.
+Act: open Drawer (1)
+The Drawer (1) is already open.
+Act: pick up Book (1)
+You pick up Book (1). You see Window (1), Pencil (2, 3), Dresser (1), Drawer (1), DeskLamp (1), Box (1), Bowl (1), Book (1). I am holding Book (1) now.
+Think: I pick up Book (1) from Drawer (1). Now, I need to put it in the bowl.
+OK.
+Act: put down Book (1)
+You put down failed, drop it. You see Window (1), Pencil (2, 3), KeyChain (2), Dresser (1), Drawer (1), DeskLamp (1), Box (1), Bowl (1), Book (1).
+Act: close Drawer (1)
+You close Drawer (1). You see Window (1), Pencil (2, 3), KeyChain (2), Dresser (1), Drawer (1), DeskLamp (1), Box (1), Bowl (1), Book (1).
+Think: Now, I need to pick up the bowl from the drawer.
+OK.
+Act: open Drawer (1)
+The Drawer (1) is already open.
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Window (1), Pencil (2, 3), KeyChain (2), Dresser (1), Drawer (1), DeskLamp (1), Box (1), Bowl (1), Book (1). I am holding Bowl (1) now.
+Think: I pick up Bowl (1) from Drawer (1). Now, I need to put it on the desk.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Mug (1), Laptop (1), KeyChain (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1, 2), Chair (1), CD (1), Bowl (1), AlarmClock (1, 2).  I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put Bowl (1) on Desk (1). You see Mug (1), Laptop (1), KeyChain (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1, 2), Chair (1), CD (1), Bowl (1), AlarmClock (1, 2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

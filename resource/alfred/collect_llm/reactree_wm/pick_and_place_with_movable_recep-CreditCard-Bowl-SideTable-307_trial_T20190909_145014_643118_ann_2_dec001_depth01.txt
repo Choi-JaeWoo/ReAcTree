@@ -1,0 +1,7 @@
+Your task is to: Place a container with a card on a table.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2), LaundryHamper (1), GarbageCan (1), Drawer (1, 2, 3), Desk (1), Bed (1).
+Think: Since I’m not holding anything, I need to accomplish 3 subgoals sequentially to solve the task. Find and pick up container, place container on table, and place card on container near table.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up container, place container on table, place card on container near table

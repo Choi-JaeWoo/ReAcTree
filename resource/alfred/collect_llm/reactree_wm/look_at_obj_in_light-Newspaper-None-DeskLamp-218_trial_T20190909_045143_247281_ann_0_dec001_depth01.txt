@@ -1,0 +1,7 @@
+Your task is to: Look at a newspaper by the light of a lamp.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), DiningTable (1), CoffeeTable (1).
+Think: Since I’m not holding newspaper, I need to accomplish 2 subgoals sequentially to solve the task. Find and pick up newspaper and find and turn on lamp.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up newspaper, find and turn on lamp

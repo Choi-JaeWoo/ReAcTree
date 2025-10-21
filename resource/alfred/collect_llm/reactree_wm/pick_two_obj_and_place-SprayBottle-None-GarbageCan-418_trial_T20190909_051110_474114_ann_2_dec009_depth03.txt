@@ -1,0 +1,13 @@
+Your primary goal is to: place two spray bottles inside of the garbage bin in the corner of the room
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up spray bottle, place spray bottle in garbage bin, Find and pick up spray bottle away from garbage bin, and place spray bottle in garbage bin.
+Your task is to: place spray bottle in garbage bin
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1), HandTowelHolder (1, 2), GarbageCan (1), CounterTop (1), Cabinet (1, 2, 3). I am holding SprayBottle (1) now.
+Think: I hold SprayBottle (1). Now, I need to put it in the garbage bin. I can see GarbageCan (1).
+OK.
+Act: go to GarbageCan (1)
+You arrive at GarbageCan (1). You see Toilet (1), SprayBottle (1), ScrubBrush (1), Plunger (1), GarbageCan (1).  I am holding SprayBottle (1) now.
+Act: put down SprayBottle (1)
+You put SprayBottle (1) on GarbageCan (1). You see Toilet (1), SprayBottle (1), ScrubBrush (1), Plunger (1), GarbageCan (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

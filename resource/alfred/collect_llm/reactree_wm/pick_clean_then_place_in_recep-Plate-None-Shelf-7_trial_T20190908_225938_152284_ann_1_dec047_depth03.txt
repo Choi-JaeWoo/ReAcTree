@@ -1,0 +1,25 @@
+Your primary goal is to: Wash a dish in the sink to put it on the bookshelf.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up dish, clean and pick up dish, find and pick up dish away from sink, and place dish on bookshelf.
+Your task is to: place dish on bookshelf
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13).
+Think: I hold Dish (1). Now, I need to put it on the bookshelf. I can see Shelf (1).
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Statue (1, 2), Shelf (1, 2, 3). 
+Think: I find Shelf (1). Now, I need to put down Dish (1) on Shelf (1).
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Statue (1, 2), Shelf (1, 2, 3). 
+Act: recall location of DishSponge
+You saw DishSponge (1) near Sink (1).
+Act: go to Sink (1)
+You arrive at Sink (1). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), DishSponge (1), CounterTop (1), Cabinet (4, 7, 13), Bowl (1), Book (2). 
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), DishSponge (1), CounterTop (1), Cabinet (4, 7, 13), Bowl (1), Book (2). I am holding DishSponge (1) now.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Statue (1, 2), Shelf (1, 2, 3), DishSponge (1).  I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put DishSponge (1) on Shelf (1). You see Statue (1, 2), Shelf (1, 2, 3), DishSponge (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

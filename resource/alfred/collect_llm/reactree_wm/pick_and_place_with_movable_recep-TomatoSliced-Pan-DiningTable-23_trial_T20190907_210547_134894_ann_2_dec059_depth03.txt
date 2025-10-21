@@ -1,0 +1,87 @@
+Your primary goal is to: To Cut a tomato slice plus place the slice as well as the knife in a pan as well as moving the pan to the kitchen table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, slice and pick up tomato, place tomato in pan, place knife in pan, and and place pan on table.
+Your task is to: place knife in pan
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2), DiningTable (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10).
+Think: I hold Knife (1). Now, I need to recall location of the pan.
+OK.
+Act: recall location of Pan
+You saw Pan (1) near StoveBurner (1).
+Think: I can find Pan (1) near StoveBurner (1).
+OK.
+Act: go to StoveBurner (1)
+You arrive at StoveBurner (1). You see Tomato (3), StoveKnob (1, 2, 3), StoveBurner (2, 3, 4), Spatula (2), SoapBottle (1), Pot (1), Pan (1), Drawer (1, 2), CounterTop (1), Cabinet (1), Bread (1). 
+Think: I find Pan (1). Now, I need to put down Knife (1) on Pan (1).
+OK.
+Act: go to Pan (1)
+You arrive at Pan (1). You see Tomato (3), StoveKnob (1, 2, 3), StoveBurner (2, 3, 4), Spatula (2), SoapBottle (1), Pot (1), Pan (1), Drawer (1, 2), CounterTop (1), Cabinet (1), Bread (1). 
+Act: go to Pan (1)
+You arrive at Pan (1). You see Tomato (3), StoveKnob (1, 2, 3), StoveBurner (2, 3, 4), Spatula (2), SoapBottle (1), Pot (1), Pan (1), Drawer (1, 2), CounterTop (1), Cabinet (1), Bread (1). 
+Act: go to Pan (1)
+You arrive at Pan (1). You see Tomato (3), StoveKnob (1, 2, 3), StoveBurner (2, 3, 4), Spatula (2), SoapBottle (1), Pot (1), Pan (1), Drawer (1, 2), CounterTop (1), Cabinet (1), Bread (1). 
+Act: go to Pan (1)
+You arrive at Pan (1). You see Tomato (3), StoveKnob (1, 2, 3), StoveBurner (2, 3, 4), Spatula (2), SoapBottle (1), Pot (1), Pan (1), Drawer (1, 2), CounterTop (1), Cabinet (1), Bread (1). 
+Act: go to Pan (1)
+You arrive at Pan (1). You see Tomato (3), StoveKnob (1, 2, 3), StoveBurner (2, 3, 4), Spatula (2), SoapBottle (1), Pot (1), Pan (1), Drawer (1, 2), CounterTop (1), Cabinet (1), Bread (1). 
+Act: go to Pan (1)
+You arrive at Pan (1). You see Tomato (3), StoveKnob (1, 2, 3), StoveBurner (2, 3, 4), Spatula (2), SoapBottle (1), Pot (1), Pan (1), Drawer (1, 2), CounterTop (1), Cabinet (1), Bread (1). 
+Act: go to Pan (1)
+You arrive at Pan (1). You see Tomato (3), StoveKnob (1, 2, 3), StoveBurner (2, 3, 4), Spatula (2), SoapBottle (1), Pot (1), Pan (1), Drawer (1, 2), CounterTop (1), Cabinet (1), Bread (1). 
+Act: go to Pan (1)
+You arrive at Pan (1). You see Tomato (3), StoveKnob (1, 2, 3), StoveBurner (2, 3, 4), Spatula (2), SoapBottle (1), Pot (1), Pan (1), Drawer (1, 2), CounterTop (1), Cabinet (1), Bread (1). 
+Act: go to Pan (1)
+You arrive at Pan (1). You see Tomato (3), StoveKnob (1, 2, 3), StoveBurner (2, 3, 4), Spatula (2), SoapBottle (1), Pot (1), Pan (1), Drawer (1, 2), CounterTop (1), Cabinet (1), Bread (1). 
+Act: go to Pan (1)
+You arrive at Pan (1). You see Tomato (3), StoveKnob (1, 2, 3), StoveBurner (2, 3, 4), Spatula (2), SoapBottle (1), Pot (1), Pan (1), Drawer (1, 2), CounterTop (1), Cabinet (1), Bread (1). 
+Act: go to Pan (1)
+You arrive at Pan (1). You see Tomato (3), StoveKnob (1, 2, 3), StoveBurner (2, 3, 4), Spatula (2), SoapBottle (1), Pot (1), Pan (1), Drawer (1, 2), CounterTop (1), Cabinet (1), Bread (1). 
+Act: go to Pan (1)
+You arrive at Pan (1). You see Tomato (3), StoveKnob (1, 2, 3), StoveBurner (2, 3, 4), Spatula (2), SoapBottle (1), Pot (1), Pan (1), Drawer (1, 2), CounterTop (1), Cabinet (1), Bread (1). 
+Act: go to Pan (1)
+You arrive at Pan (1). You see Tomato (3), StoveKnob (1, 2, 3), StoveBurner (2, 3, 4), Spatula (2), SoapBottle (1), Pot (1), Pan (1), Drawer (1, 2), CounterTop (1), Cabinet (1), Bread (1). 
+Act: go to Pan (1)
+You arrive at Pan (1). You see Tomato (3), StoveKnob (1, 2, 3), StoveBurner (2, 3, 4), Spatula (2), SoapBottle (1), Pot (1), Pan (1), Drawer (1, 2), CounterTop (1), Cabinet (1), Bread (1). 
+Act: go to Pan (1)
+You arrive at Pan (1). You see Tomato (3), StoveKnob (1, 2, 3), StoveBurner (2, 3, 4), Spatula (2), SoapBottle (1), Pot (1), Pan (1), Drawer (1, 2), CounterTop (1), Cabinet (1), Bread (1). 
+Act: go to Pan (1)
+You arrive at Pan (1). You see Tomato (3), StoveKnob (1, 2, 3), StoveBurner (2, 3, 4), Spatula (2), SoapBottle (1), Pot (1), Pan (1), Drawer (1, 2), CounterTop (1), Cabinet (1), Bread (1). 
+Act: go to Pan (1)
+You arrive at Pan (1). You see Tomato (3), StoveKnob (1, 2, 3), StoveBurner (2, 3, 4), Spatula (2), SoapBottle (1), Pot (1), Pan (1), Drawer (1, 2), CounterTop (1), Cabinet (1), Bread (1). 
+Act: go to Pan (1)
+You arrive at Pan (1). You see Tomato (3), StoveKnob (1, 2, 3), StoveBurner (2, 3, 4), Spatula (2), SoapBottle (1), Pot (1), Pan (1), Drawer (1, 2), CounterTop (1), Cabinet (1), Bread (1). 
+Act: go to Pan (1)
+You arrive at Pan (1). You see Tomato (3), StoveKnob (1, 2, 3), StoveBurner (2, 3, 4), Spatula (2), SoapBottle (1), Pot (1), Pan (1), Drawer (1, 2), CounterTop (1), Cabinet (1), Bread (1). 
+Act: go to Pan (1)
+You arrive at Pan (1). You see Tomato (3), StoveKnob (1, 2, 3), StoveBurner (2, 3, 4), Spatula (2), SoapBottle (1), Pot (1), Pan (1), Drawer (1, 2), CounterTop (1), Cabinet (1), Bread (1). 
+Act: go to Pan (1)
+You arrive at Pan (1). You see Tomato (3), StoveKnob (1, 2, 3), StoveBurner (2, 3, 4), Spatula (2), SoapBottle (1), Pot (1), Pan (1), Drawer (1, 2), CounterTop (1), Cabinet (1), Bread (1). 
+Act: go to Pan (1)
+You arrive at Pan (1). You see Tomato (3), StoveKnob (1, 2, 3), StoveBurner (2, 3, 4), Spatula (2), SoapBottle (1), Pot (1), Pan (1), Drawer (1, 2), CounterTop (1), Cabinet (1), Bread (1). 
+Act: go to Pan (1)
+You arrive at Pan (1). You see Tomato (3), StoveKnob (1, 2, 3), StoveBurner (2, 3, 4), Spatula (2), SoapBottle (1), Pot (1), Pan (1), Drawer (1, 2), CounterTop (1), Cabinet (1), Bread (1). 
+Act: go to Pan (1)
+You arrive at Pan (1). You see Tomato (3), StoveKnob (1, 2, 3), StoveBurner (2, 3, 4), Spatula (2), SoapBottle (1), Pot (1), Pan (1), Drawer (1, 2), CounterTop (1), Cabinet (1), Bread (1). 
+Act: go to Pan (1)
+You arrive at Pan (1). You see Tomato (3), StoveKnob (1, 2, 3), StoveBurner (2, 3, 4), Spatula (2), SoapBottle (1), Pot (1), Pan (1), Drawer (1, 2), CounterTop (1), Cabinet (1), Bread (1). 
+Act: go to Pan (1)
+You arrive at Pan (1). You see Tomato (3), StoveKnob (1, 2, 3), StoveBurner (2, 3, 4), Spatula (2), SoapBottle (1), Pot (1), Pan (1), Drawer (1, 2), CounterTop (1), Cabinet (1), Bread (1). 
+Act: go to Pan (1)
+You arrive at Pan (1). You see Tomato (3), StoveKnob (1, 2, 3), StoveBurner (2, 3, 4), Spatula (2), SoapBottle (1), Pot (1), Pan (1), Drawer (1, 2), CounterTop (1), Cabinet (1), Bread (1). 
+Act: go to Pan (1)
+You arrive at Pan (1). You see Tomato (3), StoveKnob (1, 2, 3), StoveBurner (2, 3, 4), Spatula (2), SoapBottle (1), Pot (1), Pan (1), Drawer (1, 2), CounterTop (1), Cabinet (1), Bread (1). 
+Act: go to Pan (1)
+You arrive at Pan (1). You see Tomato (3), StoveKnob (1, 2, 3), StoveBurner (2, 3, 4), Spatula (2), SoapBottle (1), Pot (1), Pan (1), Drawer (1, 2), CounterTop (1), Cabinet (1), Bread (1). 
+Act: go to Pan (1)
+You arrive at Pan (1). You see Tomato (3), StoveKnob (1, 2, 3), StoveBurner (2, 3, 4), Spatula (2), SoapBottle (1), Pot (1), Pan (1), Drawer (1, 2), CounterTop (1), Cabinet (1), Bread (1). 
+Act: go to Pan (1)
+You arrive at Pan (1). You see Tomato (3), StoveKnob (1, 2, 3), StoveBurner (2, 3, 4), Spatula (2), SoapBottle (1), Pot (1), Pan (1), Drawer (1, 2), CounterTop (1), Cabinet (1), Bread (1). 
+Act: go to Pan (1)
+You arrive at Pan (1). You see Tomato (3), StoveKnob (1, 2, 3), StoveBurner (2, 3, 4), Spatula (2), SoapBottle (1), Pot (1), Pan (1), Drawer (1, 2), CounterTop (1), Cabinet (1), Bread (1). 
+Act: go to Pan (1)
+You arrive at Pan (1). You see Tomato (3), StoveKnob (1, 2, 3), StoveBurner (2, 3, 4), Spatula (2), SoapBottle (1), Pot (1), Pan (1), Drawer (1, 2), CounterTop (1), Cabinet (1), Bread (1). 
+Act: go to Pan (1)
+You arrive at Pan (1). You see Tomato (3), StoveKnob (1, 2, 3), StoveBurner (2, 3, 4), Spatula (2), SoapBottle (1), Pot (1), Pan (1), Drawer (1, 2), CounterTop (1), Cabinet (1), Bread (1). 
+Act: go to Pan (1)
+You arrive at Pan (1). You see Tomato (3), StoveKnob (1, 2, 3), StoveBurner (2, 3, 4), Spatula (2), SoapBottle (1), Pot (1), Pan (1), Drawer (1, 2), CounterTop (1), Cabinet (1), Bread (1). 
+Act: go to Pan (1)
+You arrive at Pan (1). You see Tomato (3), StoveKnob (1, 2, 3), StoveBurner (2, 3, 4), Spatula (2), SoapBottle (1), Pot (1), Pan (1), Drawer (1, 2), CounterTop (1), Cabinet (1), Bread (1). 
+Max decisions

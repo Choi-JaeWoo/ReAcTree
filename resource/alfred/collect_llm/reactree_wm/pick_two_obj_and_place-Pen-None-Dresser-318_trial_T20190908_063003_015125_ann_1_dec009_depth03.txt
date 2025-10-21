@@ -1,0 +1,13 @@
+Your primary goal is to: Moving blue pens from a desk to another location 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up blue pens, and place blue pens on another location.
+Your task is to: place blue pens on another location
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see GarbageCan (1), Dresser (1, 2), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13), Desk (1, 2), Cabinet (1), Bed (1, 2), ArmChair (1). I am holding Pen (1) now.
+Think: I hold Pen (1). Now, I need to put it on another location. I can see Desk (1).
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1, 3, 4), KeyChain (3), Drawer (7, 10), Desk (1), Chair (2), Cabinet (1), Book (1), AlarmClock (2).  I am holding Pen (1) now.
+Act: put down Pen (1)
+You put Pen (1) on Desk (1). You see Pen (1, 3, 4), KeyChain (3), Drawer (7, 10), Desk (1), Chair (2), Cabinet (1), Book (1), AlarmClock (2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

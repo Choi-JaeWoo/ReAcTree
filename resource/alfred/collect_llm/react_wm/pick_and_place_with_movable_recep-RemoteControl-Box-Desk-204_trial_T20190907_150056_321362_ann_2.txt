@@ -1,0 +1,53 @@
+Your task is to: Put the remote in a box, on the table.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1, 2), Shelf (1, 2, 3), Safe (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), Desk (1), CoffeeTable (1), ArmChair (1).
+Think: To solve the task, I need to find and pick up the remote, then put it in the box. And I need to pick up the remote from the box, then put it on the table.
+OK.
+Think: First, I need to recall location of the remote.
+OK.
+Act: recall location of RemoteControl
+You have not seen RemoteControl before.
+Think: Now I need to find the remote. The remote is more likely to appear on TVStand (1), Sofa (1-2), CoffeeTable (1), ArmChair (1), Shelf (1-3), or in Drawer (1-6). I can check each place one by one, starting from TVStand (1), until I find the remote.
+OK.
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), Sofa (1). 
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Box (1). 
+Act: go to Sofa (2)
+You arrive at Sofa (2). You see Sofa (2), Pillow (2). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2, 3), Statue (2), KeyChain (1), CoffeeTable (1). 
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Sofa (2), CreditCard (2), CellPhone (1), ArmChair (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Vase (1, 4), Shelf (1, 2). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Vase (1, 4), Shelf (1, 2). 
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Shelf (1, 3). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see RemoteControl (3), Lamp (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), Chair (4). Drawer (1) is closed. 
+Think: I find RemoteControl (3). Now, I need to pick it up.
+OK.
+Act: open Drawer (1)
+You open Drawer (1). You see RemoteControl (3), Lamp (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), Chair (4).
+Act: pick up RemoteControl (3)
+You pick up RemoteControl (3). You see RemoteControl (3), Lamp (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), Chair (4). I am holding RemoteControl (3) now.
+Think: I hold RemoteControl (3). Now, I need to put it in the box.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), RemoteControl (3), Box (1).  I am holding RemoteControl (3) now.
+Act: put down RemoteControl (3)
+You put RemoteControl (3) on Sofa (1). You see Sofa (1), RemoteControl (3), Box (1).
+Think: I put RemoteControl (3) in Box (1). Now, I need to pick up the remote from the box.
+OK.
+Act: pick up RemoteControl (3)
+You pick up RemoteControl (3). You see Sofa (1), RemoteControl (3), Box (1). I am holding RemoteControl (3) now.
+Think: I pick up RemoteControl (3) from Box (1). Now, I need to put it on the table.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Statue (3), RemoteControl (2, 3), Laptop (1, 2, 3), KeyChain (2), DiningTable (1), Chair (1, 2, 5, 6).  I am holding RemoteControl (3) now.
+Act: put down RemoteControl (3)
+You put RemoteControl (3) on DiningTable (1). You see Statue (3), RemoteControl (2, 3), Laptop (1, 2, 3), KeyChain (2), DiningTable (1), Chair (1, 2, 5, 6).
+Think: Now I accomplish the goal.
+OK.
+Act: done

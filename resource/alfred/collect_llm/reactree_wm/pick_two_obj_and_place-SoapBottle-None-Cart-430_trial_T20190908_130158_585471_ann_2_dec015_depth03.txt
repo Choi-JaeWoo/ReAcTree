@@ -1,0 +1,23 @@
+Your primary goal is to: Move two spray bottles from the toilet to a rack
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up spray bottle, place spray bottle on rack, Find and pick up spray bottle away from rack, and place spray bottle on rack.
+Your task is to: Find and pick up spray bottle away from rack
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1), Shelf (1), HandTowelHolder (1), GarbageCan (1), Drawer (1, 2, 3, 4), CounterTop (1), Cart (1), BathtubBasin (1).
+Think: First, I need to recall location of the spray bottle.
+OK.
+Act: recall location of SprayBottle
+You have not seen SprayBottle before.
+Think: Now, I need to find the spray bottle. The spray bottle is more likely to appear on CounterTop (1), BathtubBasin (1), SinkBasin (1), or in Drawer (1-4). I can check each place one by one, starting from CounterTop (1), until I find the spray bottle.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see TissueBox (1, 2), SoapBottle (1), Mirror (1), Footstool (1), Drawer (1, 2, 3, 4), DishSponge (2, 3), CounterTop (1), Cloth (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see DishSponge (1), Bathtub (1), BathtubBasin (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (3), SoapBar (2), Sink (1), SinkBasin (1), Faucet (1, 2), Cart (1). 
+Think: I find SprayBottle (1). Now, I need to pick it up.
+OK.
+Act: pick up SoapBar (2)
+You pick up SoapBar (2). You see Window (3), SoapBar (2), Sink (1), SinkBasin (1), Faucet (1, 2), Cart (1). I am holding SoapBar (2) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

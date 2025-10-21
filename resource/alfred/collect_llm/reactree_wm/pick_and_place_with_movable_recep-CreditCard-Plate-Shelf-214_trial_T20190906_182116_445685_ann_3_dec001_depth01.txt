@@ -1,0 +1,7 @@
+Your task is to: Put a plate with a credit card on it on a bench.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1, 2), SideTable (1), Shelf (1, 2), GarbageCan (1), CoffeeTable (1), ArmChair (1).
+Think: Since I’m not holding anything, I need to accomplish 3 subgoals sequentially to solve the task. Find and pick up plate, place plate on bench, and find and pick up credit card.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up plate, place plate on bench, find and pick up credit card

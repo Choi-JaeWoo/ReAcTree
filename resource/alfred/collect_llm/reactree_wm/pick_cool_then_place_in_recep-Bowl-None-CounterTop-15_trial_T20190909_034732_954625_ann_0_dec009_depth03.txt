@@ -1,0 +1,19 @@
+Your primary goal is to: Place a heated bowl on a counter.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up bowl, heat and pick up bowl, and place bowl on counter.
+Your task is to: heat and pick up bowl
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11). I am holding Bowl (1) now.
+Think: I hold Bowl (1). Now, I need to heat it using the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see WineBottle (3), Pot (1, 2), PepperShaker (1), Microwave (1), Kettle (1, 2), CounterTop (1, 2), Cabinet (11), Bowl (1). Microwave (1) is closed.  I am holding Bowl (1) now.
+Act: open Microwave (1)
+You open Microwave (1). You see WineBottle (3), Pot (1, 2), PepperShaker (1), Microwave (1), Kettle (1, 2), CounterTop (1, 2), Bowl (1, 2). I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put down failed, drop it. You see WineBottle (3), StoveBurner (1, 2), Pot (1, 2), PepperShaker (1), Microwave (1), Kettle (1, 2), CounterTop (1, 2), Bowl (2).
+Think: Now I need to pick up Bowl (2).
+OK.
+Act: pick up Bowl (2)
+You pick up Bowl (2). You see WineBottle (3), StoveBurner (1, 2), Pot (1, 2), PepperShaker (1), Microwave (1), Kettle (1, 2), CounterTop (1, 2), Bowl (2). I am holding Bowl (2) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

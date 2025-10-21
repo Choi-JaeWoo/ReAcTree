@@ -1,0 +1,57 @@
+Your task is to: Move the candle onto a plate and place it on the shelf.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), GarbageCan (1), DiningTable (1, 2), CoffeeTable (1), ArmChair (1, 2, 3).
+Think: To solve the task, I need to find and pick up the candle, then put it on the plate. And I need to pick up the plate with the candle, then put it on the shelf.
+OK.
+Think: First, I need to recall location of the candle.
+OK.
+Act: recall location of Candle
+You have not seen Candle before.
+Think: Now I need to find the candle. The candle is more likely to appear on DiningTable (1-2), CoffeeTable (1), or in TVStand (1), GarbageCan (1). I can check each place one by one, starting from DiningTable (1), until I find the candle.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (2), Statue (2), DiningTable (1), Chair (1, 2), Candle (3), Box (2). 
+Think: I find Candle (3). Now, I need to pick it up.
+OK.
+Act: pick up Candle (3)
+You pick up Candle (3). You see Vase (2), Statue (2), DiningTable (1), Chair (1, 2), Candle (3), Box (2). I am holding Candle (3) now.
+Think: I hold Candle (3). Now, I need to recall location of the plate.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now I need to find the plate. The plate is more likely to appear on DiningTable (1-2), CoffeeTable (1), or in TVStand (1), GarbageCan (1). I can check each place one by one, starting from DiningTable (1), until I find the plate.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (2), Statue (2), DiningTable (1), Chair (1, 2), Candle (3), Box (2).  I am holding Candle (3) now.
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), DiningTable (2), CreditCard (1), Candle (3).  I am holding Candle (3) now.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (1), Plate (1), Laptop (1), KeyChain (1), CoffeeTable (1), Candle (3).  I am holding Candle (3) now.
+Think: I find Plate (1). Now, I need to put Candle (3) on Plate (1).
+OK.
+Act: put down Candle (3)
+You put Candle (3) on CoffeeTable (1). You see Vase (1), Plate (1), Laptop (1), KeyChain (1), CoffeeTable (1), Candle (3).
+Think: I put Candle (3) on Plate (1). Now, I need to pick up the plate with the candle.
+OK.
+Act: pick up Plate (1)
+You pick up Plate (1). You see Vase (1), Plate (1), Laptop (1), KeyChain (1), CoffeeTable (1), Candle (3). I am holding Plate (1) now.
+Think: I hold Plate (1) with Candle (3). Now, I need to recall location of the shelf.
+OK.
+Act: recall location of Book
+You have not seen Book before.
+Think: Now I need to find the shelf. The shelf is more likely to appear on DiningTable (1-2), CoffeeTable (1), or in TVStand (1), GarbageCan (1). I can check each place one by one, starting from DiningTable (1), until I find the shelf.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (2), Statue (2), Plate (1), DiningTable (1), Chair (1, 2), Box (2).  I am holding Plate (1) now.
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), Plate (1), DiningTable (2), CreditCard (1).  I am holding Plate (1) now.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (1), Plate (1), Laptop (1), KeyChain (1), CoffeeTable (1), Candle (3).  I am holding Plate (1) now.
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), Plate (1), DiningTable (2), CreditCard (1).  I am holding Plate (1) now.
+Think: I find TVStand (1). Now, I need to put Plate (1) with Candle (3) on TVStand (1).
+OK.
+Act: put down Plate (1)
+You put down failed, drop it. You see Television (1), TVStand (1), DiningTable (2), CreditCard (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

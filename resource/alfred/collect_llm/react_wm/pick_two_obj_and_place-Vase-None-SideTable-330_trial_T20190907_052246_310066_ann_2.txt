@@ -1,0 +1,114 @@
+Your task is to: Put two object on a night stand.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1, 2), Shelf (1, 2), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16), Bed (1), ArmChair (1).
+Think: To solve the task, I need to find and pick up the object, then put it on the night stand. And I need to find and pick up another object, then put it on the night stand.
+OK.
+Think: First, I need to recall location of the object.
+OK.
+Act: recall location of RemoteControl
+You have not seen RemoteControl before.
+Think: Now I need to find the object. The object is more likely to appear on Bed (1), ArmChair (1), SideTable (1-2), Shelf (1-2), or in Drawer (1-16). I can check each place one by one, starting from Bed (1), until I find the object.
+OK.
+Act: go to Bed (1)
+You arrive at Bed (1). You see Pillow (2), Book (1, 2), Bed (1). 
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Drawer (1), CreditCard (1, 3), CD (1, 3), ArmChair (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Lamp (2), Drawer (1, 3), ArmChair (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Lamp (1), Drawer (2, 12), Bed (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Vase (1), Shelf (1, 2). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Statue (3), Shelf (2), Dresser (2), Drawer (13), CellPhone (1), Bowl (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Lamp (2), Drawer (1, 3), ArmChair (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Lamp (2), Drawer (1), CreditCard (3), CD (3), ArmChair (1).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Lamp (1), Drawer (2, 12), Bed (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see SideTable (2), Lamp (1), Drawer (2, 12), Bed (1).
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Lamp (2), Drawer (1), ArmChair (1). Drawer (3) is closed. 
+Act: open Drawer (3)
+The Drawer (3) is not close to you.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Vase (2, 3), Statue (2), Pencil (1), Dresser (1), Drawer (4, 5, 6, 9, 10, 11, 14, 15, 16), Bowl (2), AlarmClock (1). Drawer (4) is closed. 
+Act: open Drawer (4)
+You open Drawer (4). You see Dresser (1, 2), Drawer (4, 5, 6, 7, 9, 10, 11, 14, 15, 16), Boots (1).
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Vase (4), Statue (1, 2), Pencil (1), Pen (1, 2, 3), Mirror (1), HousePlant (1), Dresser (1), Drawer (4, 5, 7, 9, 10, 11, 14, 15, 16), Bowl (2). Drawer (5) is closed. 
+Act: open Drawer (5)
+You open Drawer (5). You see Vase (2, 4), Statue (1, 2), Pencil (1), Pen (1, 2, 3), Mirror (1), HousePlant (1), GarbageCan (1), Dresser (1), Drawer (4, 5, 9, 10), Bowl (2).
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Vase (2, 3), Statue (2), Pencil (1), Mirror (1), Dresser (1, 2), Drawer (4, 6, 9, 10, 11, 14, 15), Bowl (2), AlarmClock (1). Drawer (6) is closed. 
+Act: open Drawer (6)
+The Drawer (6) is open failed.
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see Vase (2, 3, 4), Statue (1, 2), Pencil (1), Pen (1, 2, 3), Mirror (1), HousePlant (1), GarbageCan (1), Dresser (1), Drawer (4, 5, 6, 9, 10, 15), Bowl (2), AlarmClock (1). Drawer (7) is closed. 
+Act: open Drawer (7)
+The Drawer (7) is not close to you.
+Act: go to Drawer (8)
+You arrive at Drawer (8). You see Statue (3), Shelf (2), Pencil (3), Dresser (2), Drawer (8, 13), CellPhone (1), Bowl (1). Drawer (8) is closed. 
+Act: open Drawer (8)
+You open Drawer (8). You see Dresser (2), Drawer (8, 13), CellPhone (1), Boots (1).
+Act: go to Drawer (9)
+You arrive at Drawer (9). You see Vase (2, 3), Statue (2), Pencil (1), Mirror (1), Dresser (1, 2), Drawer (4, 6, 9, 10, 11, 14, 15), Bowl (2), AlarmClock (1). Drawer (9) is closed. 
+Act: open Drawer (9)
+The Drawer (9) is open failed.
+Act: go to Drawer (10)
+You arrive at Drawer (10). You see Vase (2, 3), Statue (2), Pencil (1), Pen (3), Mirror (1), Dresser (1, 2), Drawer (4, 6, 9, 10, 11, 14, 15), Bowl (2), AlarmClock (1). Drawer (10) is closed. 
+Act: open Drawer (10)
+The Drawer (10) is open failed.
+Act: go to Drawer (11)
+You arrive at Drawer (11). You see Vase (2, 3, 4), Statue (1, 2), Pencil (1), Pen (1, 2, 3), Mirror (1), HousePlant (1), GarbageCan (1), Dresser (1), Drawer (4, 5, 6, 9, 10, 15), Bowl (2), AlarmClock (1). Drawer (11) is closed. 
+Act: open Drawer (11)
+The Drawer (11) is not close to you.
+Act: go to Drawer (12)
+You arrive at Drawer (12). You see SideTable (2), Lamp (1), Drawer (2, 12), Bed (1). Drawer (12) is closed. 
+Act: open Drawer (12)
+You open Drawer (12). You see SideTable (2), Lamp (1), Drawer (2, 12), CD (2), Bed (1).
+Act: go to Drawer (13)
+You arrive at Drawer (13). You see Vase (1), Statue (3), Shelf (1, 2), Pencil (2), Dresser (2), Drawer (8, 13), CellPhone (1), Bowl (1), Boots (1). Drawer (13) is closed. 
+Act: open Drawer (13)
+You open Drawer (13). You see Vase (1), Statue (3), Shelf (1, 2), Dresser (2), Drawer (8, 13), CellPhone (1), Bowl (1), Boots (1).
+Act: go to Drawer (14)
+You arrive at Drawer (14). You see Vase (2, 3, 4), Statue (1, 2), Pencil (1), Pen (1, 2, 3), Mirror (1), HousePlant (1), GarbageCan (1), Dresser (1), Drawer (4, 5, 6, 9, 10, 15), Bowl (2), AlarmClock (1). Drawer (14) is closed. 
+Act: open Drawer (14)
+The Drawer (14) is not close to you.
+Act: go to Drawer (15)
+You arrive at Drawer (15). You see Vase (2, 3), Statue (2), Pencil (1), Pen (3), Mirror (1), Dresser (1, 2), Drawer (4, 6, 9, 10, 11, 14, 15), Bowl (2), AlarmClock (1). Drawer (15) is closed. 
+Act: open Drawer (15)
+The Drawer (15) is open failed.
+Act: go to Drawer (16)
+You arrive at Drawer (16). You see Vase (2, 3, 4), Statue (1, 2), Pencil (1), Pen (1, 2, 3), Mirror (1), HousePlant (1), GarbageCan (1), Dresser (1), Drawer (4, 5, 6, 9, 10, 15), Bowl (2), AlarmClock (1). Drawer (16) is closed. 
+Act: open Drawer (16)
+The Drawer (16) is not close to you.
+Think: I find RemoteControl (1). Now, I need to pick it up.
+OK.
+Act: pick up AlarmClock (1)
+You pick up AlarmClock (1). You see Vase (2, 3, 4), Statue (1, 2), Pencil (1), Pen (1, 2, 3), Mirror (1), HousePlant (1), GarbageCan (1), Dresser (1), Drawer (4, 5, 6, 9, 10, 15), Bowl (2), AlarmClock (1). I am holding AlarmClock (1) now.
+Think: I hold AlarmClock (1). Now, I need to put it on the night stand.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Lamp (2), Drawer (1), ArmChair (1), AlarmClock (1).  I am holding AlarmClock (1) now.
+Act: put down AlarmClock (1)
+You put down failed, drop it. You see Lamp (2), Drawer (1), ArmChair (1), AlarmClock (1).
+Think: I put AlarmClock (1) on SideTable (1). Now, I need to recall location of RemoteControl.
+OK.
+Act: recall location of RemoteControl
+You have not seen RemoteControl before.
+Think: Now I need to find the object. The object is more likely to appear on Bed (1), ArmChair (1), SideTable (1-2), Shelf (1-2), or in Drawer (1-16). I can check each place one by one, starting from Bed (1), until I find the object.
+OK.
+Act: go to Bed (1)
+You arrive at Bed (1). You see Pillow (2), Book (1, 2), Bed (1). 
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Drawer (1), CreditCard (1, 3), CD (1, 3), ArmChair (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Lamp (2), Drawer (1), ArmChair (1), AlarmClock (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), Lamp (1), Drawer (2, 12), CD (2), Bed (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). There are no visible objects.. 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Vase (1), Shelf (1), Pencil (2), Dresser (2), Bowl (1). 

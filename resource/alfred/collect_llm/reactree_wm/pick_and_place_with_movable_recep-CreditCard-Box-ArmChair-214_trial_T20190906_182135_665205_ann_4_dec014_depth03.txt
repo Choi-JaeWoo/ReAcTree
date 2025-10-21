@@ -1,0 +1,13 @@
+Your primary goal is to: Put a box with a credit card inside onto the chair.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up box, place credit card in box, find and pick up box, and place box on chair.
+Your task is to: place credit card in box
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1, 2), SideTable (1), Shelf (1, 2), GarbageCan (1), CoffeeTable (1), ArmChair (1). I am holding CreditCard (1) now.
+Think: I hold CreditCard (1). Now, I need to put it in the box. I can see Box (1).
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Vase (2), Shelf (1), CreditCard (1).  I am holding CreditCard (1) now.
+Act: put down CreditCard (1)
+You put CreditCard (1) on Shelf (1). You see Vase (2), Shelf (1), CreditCard (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

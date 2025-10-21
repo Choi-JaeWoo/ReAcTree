@@ -1,0 +1,25 @@
+Your task is to: Look at a remote by the light of a lamp.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), GarbageCan (1), DiningTable (1, 2), CoffeeTable (1), ArmChair (1, 2, 3).
+Think: To solve the task, I need to find and pick up the remote. And I need to find and turn on the lamp.
+OK.
+Think: First, I need to recall location of the remote.
+OK.
+Act: recall location of RemoteControl
+You have not seen RemoteControl before.
+Think: Now I need to find the remote control. The remote control is more likely to appear on TVStand (1), Sofa (1), CoffeeTable (1), ArmChair (1-3). I can check each place one by one, starting from TVStand (1), until I find the remote control.
+OK.
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Vase (1), Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Laptop (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Statue (1), KeyChain (1), CoffeeTable (1), Candle (2). 
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Window (1), Pillow (1), ArmChair (1). 
+Act: go to ArmChair (2)
+You arrive at ArmChair (2). You see FloorLamp (1), ArmChair (2, 3). 
+Act: go to ArmChair (3)
+You arrive at ArmChair (3). You see ArmChair (2, 3). 
+Think: I cannot find the remote control. I fail to accomplish the goal.
+OK.
+Act: failure

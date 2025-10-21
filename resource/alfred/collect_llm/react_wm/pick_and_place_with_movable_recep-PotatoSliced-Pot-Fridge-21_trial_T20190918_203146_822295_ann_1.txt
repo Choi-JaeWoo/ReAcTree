@@ -1,0 +1,27 @@
+Your task is to: Put a pan containing potato in a fridge. 
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1, 2, 3), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: To solve the task, I need to find and pick up the pan. And I need to find and put the potato in the pan. And I need to put the pan in the fridge.
+OK.
+Think: First, I need to recall location of the pan.
+OK.
+Act: recall location of Pan
+You have not seen Pan before.
+Think: Now I need to find the pan. The pan is more likely to appear on CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1). I can check each place one by one, starting from CounterTop (1), until I find the pan.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spoon (1, 2), Spatula (1), Sink (1), SinkBasin (1), SideTable (1), Potato (1), PepperShaker (1, 2), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), ButterKnife (1), Apple (1). 
+Think: I find Pan (1). Now, I need to pick it up.
+OK.
+Act: pick up Potato (1)
+You pick up Potato (1). You see Spoon (1, 2), Spatula (1), Sink (1), SinkBasin (1), SideTable (1), Potato (1), PepperShaker (1, 2), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), ButterKnife (1), Apple (1). I am holding Potato (1) now.
+Think: I hold Potato (1). Now, I need to put it in the pan.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (1), Fridge (1). Fridge (1) is closed.  I am holding Potato (1) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Tomato (1), Potato (1), Fridge (1). I am holding Potato (1) now.
+Act: put down Potato (1)
+You put Potato (1) on Fridge (1). You see Tomato (1), Potato (1), Fridge (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

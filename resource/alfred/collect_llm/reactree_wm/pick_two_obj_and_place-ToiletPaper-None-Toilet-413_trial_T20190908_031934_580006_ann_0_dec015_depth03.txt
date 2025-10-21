@@ -1,0 +1,81 @@
+Your primary goal is to: Place an empty and a full toilet paper roll on the toilet.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up toilet paper, place toilet paper on toilet, Find and pick up toilet paper away from toilet, and place toilet paper on toilet.
+Your task is to: Find and pick up toilet paper away from toilet
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1, 2), HandTowelHolder (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), CounterTop (1), Cabinet (1, 2, 3, 4), Bathtub (1), BathtubBasin (1).
+Think: First, I need to recall location of the toilet paper.
+OK.
+Act: recall location of ToiletPaper
+You saw ToiletPaper (1) near Toilet (1). You saw ToiletPaper (3) near Toilet (1).
+Think: Now, I need to find the toilet paper. The toilet paper is more likely to appear on CounterTop (1), BathtubBasin (1), SinkBasin (1-2), or in Cabinet (1-4), Drawer (1-4). I can check each place one by one, starting from CounterTop (1), until I find the toilet paper.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Sink (1, 2), SinkBasin (1, 2), ScrubBrush (1), Mirror (1), Faucet (1, 2), CounterTop (1), Cabinet (1, 2, 3, 4). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1, 2), SoapBar (3), Faucet (3), Cloth (1), Bathtub (1), BathtubBasin (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see ToiletPaper (3), ToiletPaperHanger (1), SoapBottle (1), Sink (1, 2), SinkBasin (1, 2), Mirror (1), GarbageCan (1), Faucet (1, 2), CounterTop (1), Cabinet (1, 2, 3, 4). 
+Act: go to SinkBasin (2)
+You arrive at SinkBasin (2). You see Sink (1, 2), SinkBasin (1, 2), ScrubBrush (1), Plunger (1), Mirror (1), Faucet (1, 2), CounterTop (1), Cabinet (1, 2, 3, 4). 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Sink (2), SinkBasin (2), ScrubBrush (1), Plunger (1), HandTowel (1), Faucet (1), CounterTop (1), Cabinet (1, 2, 4). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see Sink (2), SinkBasin (2), ScrubBrush (1), Plunger (1), HandTowel (1), Faucet (1), CounterTop (1), Cabinet (1, 2, 4).
+Act: close Cabinet (1)
+You close Cabinet (1). You see Sink (2), SinkBasin (2), ScrubBrush (1), Plunger (1), HandTowel (1), Faucet (1), CounterTop (1), Cabinet (1, 2, 4).
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Sink (1, 2), SinkBasin (1, 2), ScrubBrush (1), Mirror (1), GarbageCan (1), Faucet (1, 2), CounterTop (1), Cabinet (1, 2, 3, 4). Cabinet (2) is closed. 
+Act: open Cabinet (2)
+You open Cabinet (2). You see SoapBottle (1), Sink (1, 2), SinkBasin (1, 2), ScrubBrush (1), GarbageCan (1), Faucet (1, 2), CounterTop (1), Cabinet (1, 2, 3, 4).
+Act: close Cabinet (2)
+You close Cabinet (2). You see SoapBottle (1), Sink (1, 2), SinkBasin (1, 2), ScrubBrush (1), GarbageCan (1), Faucet (1, 2), CounterTop (1), Cabinet (1, 2, 3, 4).
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see Toilet (1), ToiletPaper (3), ToiletPaperHanger (1), SoapBottle (1), Sink (1), SinkBasin (1), GarbageCan (1), Faucet (2), CounterTop (1), Cabinet (2, 3, 4). Cabinet (3) is closed. 
+Act: open Cabinet (3)
+You open Cabinet (3). You see Toilet (1), ToiletPaper (3), ToiletPaperHanger (1), SoapBottle (1), Sink (1), SinkBasin (1), GarbageCan (1), Faucet (2), CounterTop (1), Cabinet (2, 3, 4).
+Act: close Cabinet (3)
+You close Cabinet (3). You see Toilet (1), ToiletPaper (3), ToiletPaperHanger (1), SoapBottle (1), Sink (1), SinkBasin (1), GarbageCan (1), Faucet (2), CounterTop (1), Cabinet (2, 3, 4).
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see Sink (1, 2), SinkBasin (1, 2), ScrubBrush (1), Faucet (1, 2), CounterTop (1), Cabinet (1, 2, 3, 4). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+You open Cabinet (4). You see ToiletPaper (3), Sink (1, 2), SinkBasin (1, 2), ScrubBrush (1), GarbageCan (1), Faucet (1, 2), CounterTop (1), Cabinet (1, 2, 3, 4).
+Act: close Cabinet (4)
+You close Cabinet (4). You see ToiletPaper (3), Sink (1, 2), SinkBasin (1, 2), ScrubBrush (1), GarbageCan (1), Faucet (1, 2), CounterTop (1), Cabinet (1, 2, 3, 4).
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Dresser (1), Drawer (1, 2, 3, 4), Candle (2). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Dresser (1), Drawer (1, 2, 3, 4), Candle (2).
+Act: close Drawer (1)
+You close Drawer (1). You see Dresser (1), Drawer (1, 2, 3, 4), Candle (2).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Dresser (1), Drawer (1, 2, 3, 4), Candle (2). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see Dresser (1), Drawer (1, 2, 3, 4).
+Act: close Drawer (2)
+You close Drawer (2). You see Dresser (1), Drawer (1, 2, 3, 4).
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Dresser (1), Drawer (1, 2, 3, 4), Candle (2). Drawer (3) is closed. 
+Act: open Drawer (3)
+You open Drawer (3). You see Dresser (1), Drawer (1, 2, 3, 4), Candle (2).
+Act: close Drawer (3)
+You close Drawer (3). You see Dresser (1), Drawer (1, 2, 3, 4), Candle (2).
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Dresser (1), Drawer (1, 2, 3, 4), Candle (2). Drawer (4) is closed. 
+Act: open Drawer (4)
+You open Drawer (4). You see Dresser (1), Drawer (1, 2, 3, 4).
+Act: close Drawer (4)
+You close Drawer (4). You see Dresser (1), Drawer (1, 2, 3, 4).
+Think: I find ToiletPaper (3). Now, I need to pick it up.
+OK.
+Act: recall location of ToiletPaper
+You saw ToiletPaper (1) near Toilet (1). You saw ToiletPaper (3) near Cabinet (4).
+Act: go to Toilet (1)
+You arrive at Toilet (1). You see Toilet (1), ToiletPaper (1, 3), ToiletPaperHanger (1), SoapBottle (1), GarbageCan (1), Cabinet (3), Bathtub (1), BathtubBasin (1). Toilet (1) is closed. 
+Act: open Cabinet (3)
+You open Cabinet (3). You see Toilet (1), ToiletPaper (1, 3), ToiletPaperHanger (1), SoapBottle (1), GarbageCan (1), Cabinet (3), Bathtub (1), BathtubBasin (1).
+Act: close Cabinet (3)
+You close Cabinet (3). You see Toilet (1), ToiletPaper (1, 3), ToiletPaperHanger (1), SoapBottle (1), GarbageCan (1), Cabinet (3), Bathtub (1), BathtubBasin (1).
+Act: pick up ToiletPaper (1)
+You pick up ToiletPaper (1). You see Toilet (1), ToiletPaper (1, 3), ToiletPaperHanger (1), SoapBottle (1), GarbageCan (1), Cabinet (3), Bathtub (1), BathtubBasin (1). I am holding ToiletPaper (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

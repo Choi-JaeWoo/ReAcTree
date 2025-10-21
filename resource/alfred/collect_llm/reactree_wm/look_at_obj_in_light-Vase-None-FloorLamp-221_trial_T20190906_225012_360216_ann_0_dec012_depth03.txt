@@ -1,0 +1,25 @@
+Your primary goal is to: Examine the bowl in the light of the tall lamp. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up bowl, and find and turn on lamp.
+Your task is to: find and turn on lamp
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1), GarbageCan (1), Drawer (1), DiningTable (1), CoffeeTable (1, 2), ArmChair (1). I am holding RemoteControl (2) now.
+Think: First, I need to recall location of the lamp.
+OK.
+Act: recall location of FloorLamp
+You have not seen FloorLamp before.
+Think: Now I need to find the floor lamp. The floor lamp is more likely to appear near Sofa (1), SideTable (1), CoffeeTable (1-2), ArmChair (1), or in Drawer (1). I can check each place one by one, starting from Sofa (1), until I find the floor lamp.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), RemoteControl (1, 2), KeyChain (1), CreditCard (1).  I am holding RemoteControl (2) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Television (1), Statue (1), SideTable (1), RemoteControl (2), Drawer (1), CoffeeTable (2), ArmChair (1).  I am holding RemoteControl (2) now.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (1, 2), RemoteControl (2), Pen (1), Laptop (1), CoffeeTable (1).  I am holding RemoteControl (2) now.
+Act: go to CoffeeTable (2)
+You arrive at CoffeeTable (2). You see Television (1), SideTable (1), RemoteControl (2), CoffeeTable (2).  I am holding RemoteControl (2) now.
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see SideTable (1), RemoteControl (2), Pillow (1), HousePlant (1, 2), Chair (6), ArmChair (1).  I am holding RemoteControl (2) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Television (1), Statue (1), SideTable (1), RemoteControl (2), Drawer (1), CoffeeTable (2). Drawer (1) is closed.  I am holding RemoteControl (2) now.
+Think: I cannot find the floor lamp.
+OK.
+Act: failure

@@ -1,0 +1,25 @@
+Your primary goal is to: Examine a key chain by the light of a floor lamp.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up key chain, and find and turn on floor lamp.
+Your task is to: find and turn on floor lamp
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1, 2), SideTable (1, 2), GarbageCan (1), Drawer (1), DiningTable (1), CoffeeTable (1). I am holding Watch (3) now.
+Think: First, I need to recall location of the floor lamp.
+OK.
+Act: recall location of FloorLamp
+You have not seen FloorLamp before.
+Think: Now I need to find the floor lamp. The floor lamp is more likely to appear near Sofa (1-2), SideTable (1-2), CoffeeTable (1), or in Drawer (1). I can check each place one by one, starting from Sofa (1), until I find the floor lamp.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Watch (3), Sofa (1), RemoteControl (3), Box (1).  I am holding Watch (3) now.
+Act: go to Sofa (2)
+You arrive at Sofa (2). You see Watch (3), Sofa (2), Pillow (1), CreditCard (1).  I am holding Watch (3) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Watch (1, 3), Statue (2), SideTable (1, 2), Drawer (1).  I am holding Watch (3) now.
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Watch (3), Television (1), SideTable (2), RemoteControl (1), Newspaper (1), Laptop (2).  I am holding Watch (3) now.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (3), Vase (2), Statue (1), RemoteControl (2), CoffeeTable (1), Box (2).  I am holding Watch (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Watch (1, 3), Statue (2), SideTable (1, 2), Drawer (1). Drawer (1) is closed.  I am holding Watch (3) now.
+Think: I cannot find the floor lamp.
+OK.
+Act: failure

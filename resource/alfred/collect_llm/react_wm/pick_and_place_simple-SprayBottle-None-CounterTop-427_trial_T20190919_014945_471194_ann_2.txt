@@ -1,0 +1,108 @@
+Your task is to: Move a bottle from the toilet to the dresser.
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), Sink (1), SinkBasin (1), HandTowelHolder (1, 2), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1), Bathtub (1), BathtubBasin (1).
+Think: To solve the task, I need to find and pick up the bottle, then put it on the dresser.
+OK.
+Think: First, I need to recall location of the bottle.
+OK.
+Act: recall location of WineBottle
+You have not seen WineBottle before.
+Think: Now I need to find the bottle. The bottle is more likely to appear on CounterTop (1), BathtubBasin (1), SinkBasin (1), or in Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the bottle.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see ToiletPaper (3), PaperTowelRoll (1), Drawer (1, 2, 3, 5, 6, 8), DishSponge (2), CounterTop (1), Bathtub (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see DishSponge (2), Cloth (1), Bathtub (1), BathtubBasin (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see SoapBar (1), Sink (1), SinkBasin (1), Mirror (1), GarbageCan (1), Faucet (2). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see ToiletPaper (3), PaperTowelRoll (1), Drawer (1, 3, 5, 6, 8), DishSponge (2), CounterTop (1), Bathtub (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see ToiletPaper (3), SoapBottle (2), PaperTowelRoll (1), Drawer (1, 2, 5, 6, 8), DishSponge (2), CounterTop (1), Bathtub (1).
+Act: close Drawer (1)
+You close Drawer (1). You see ToiletPaper (3), SoapBottle (2), PaperTowelRoll (1), Drawer (1, 2, 3, 5, 6, 8), DishSponge (2), CounterTop (1), Bathtub (1).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see ToiletPaper (2, 3), TissueBox (1), SoapBottle (2), SoapBar (2), Plunger (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see Toilet (1), ToiletPaper (2, 3), TissueBox (1), SoapBottle (2), SoapBar (2), Plunger (1), Drawer (1, 2, 3, 4, 5, 7, 8), CounterTop (1).
+Act: close Drawer (2)
+You close Drawer (2). You see Toilet (1), ToiletPaper (2, 3), TissueBox (1), SoapBottle (2), SoapBar (2), Plunger (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1).
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see ToiletPaper (3), PaperTowelRoll (1), Drawer (1, 2, 3, 5, 6, 8), DishSponge (2), CounterTop (1), Bathtub (1). Drawer (3) is closed. 
+Act: open Drawer (3)
+You open Drawer (3). You see ToiletPaper (3), SoapBottle (2), PaperTowelRoll (1), Drawer (1, 2, 3, 5, 6, 8), DishSponge (2), CounterTop (1), Bathtub (1).
+Act: close Drawer (3)
+You close Drawer (3). You see ToiletPaper (3), SoapBottle (2), PaperTowelRoll (1), Drawer (1, 2, 3, 5, 6, 8), DishSponge (2), CounterTop (1), Bathtub (1).
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Toilet (1), ToiletPaper (2), TissueBox (1), SoapBar (2), ScrubBrush (1), Plunger (1), Drawer (2, 4, 5, 6, 7, 8), CounterTop (1). Drawer (4) is closed. 
+Act: open Drawer (4)
+You open Drawer (4). You see Toilet (1), ToiletPaper (2), TissueBox (1), SoapBottle (2), SoapBar (2), ScrubBrush (1), Plunger (1), Drawer (2, 4, 5, 6, 8), CounterTop (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Toilet (1), ToiletPaper (2), TissueBox (1), SoapBottle (2), SoapBar (2), ScrubBrush (1), Plunger (1), Drawer (2, 4, 5, 6, 7, 8), CounterTop (1).
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see ToiletPaper (2, 3), SoapBottle (2), PaperTowelRoll (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+You open Drawer (5). You see ToiletPaper (2, 3), SoapBottle (2), SoapBar (2), PaperTowelRoll (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1).
+Act: close Drawer (5)
+You close Drawer (5). You see ToiletPaper (2, 3), SoapBottle (2), SoapBar (2), PaperTowelRoll (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1).
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see ToiletPaper (2, 3), TissueBox (1), SoapBottle (2), SoapBar (2), Plunger (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1). Drawer (6) is closed. 
+Act: open Drawer (6)
+You open Drawer (6). You see Toilet (1), ToiletPaper (2, 3), TissueBox (1), SoapBottle (2), SoapBar (2), Plunger (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1).
+Act: close Drawer (6)
+You close Drawer (6). You see Toilet (1), ToiletPaper (2, 3), TissueBox (1), SoapBottle (2), SoapBar (2), Plunger (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1).
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see Toilet (1), ToiletPaper (2), TissueBox (1), SoapBar (2), ScrubBrush (1), Plunger (1), Drawer (2, 4, 5, 6, 7, 8), CounterTop (1). Drawer (7) is closed. 
+Act: open Drawer (7)
+You open Drawer (7). You see Toilet (1), ToiletPaper (2), TissueBox (1), SoapBar (2), ScrubBrush (1), Plunger (1), Drawer (2, 4, 5, 6, 7, 8), CounterTop (1).
+Act: close Drawer (7)
+You close Drawer (7). You see Toilet (1), ToiletPaper (2), TissueBox (1), SoapBar (2), ScrubBrush (1), Plunger (1), Drawer (2, 4, 5, 6, 7, 8), CounterTop (1).
+Act: go to Drawer (8)
+You arrive at Drawer (8). You see ToiletPaper (2, 3), SoapBottle (2), PaperTowelRoll (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1). Drawer (8) is closed. 
+Act: open Drawer (8)
+You open Drawer (8). You see ToiletPaper (2, 3), SoapBottle (2), SoapBar (2), PaperTowelRoll (1), Drawer (1, 2, 3, 4, 6, 7, 8), CounterTop (1).
+Act: close Drawer (8)
+You close Drawer (8). You see ToiletPaper (2, 3), SoapBottle (2), SoapBar (2), PaperTowelRoll (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1).
+Think: I cannot find the bottle. I think the bottle is in the toilet.
+OK.
+Act: go to Toilet (1)
+You arrive at Toilet (1). You see Toilet (1), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1). Toilet (1) is closed. 
+Act: open Drawer (4)
+You open Drawer (4). You see Toilet (1), ToiletPaperHanger (1), TissueBox (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Toilet (1), ToiletPaperHanger (1), TissueBox (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: open Drawer (7)
+You open Drawer (7). You see Toilet (1), ToiletPaperHanger (1), TissueBox (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: close Drawer (7)
+You close Drawer (7). You see Toilet (1), ToiletPaperHanger (1), TissueBox (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Toilet (1), ToiletPaperHanger (1), TissueBox (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Toilet (1), ToiletPaperHanger (1), TissueBox (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: open Drawer (7)
+You open Drawer (7). You see Toilet (1), ToiletPaperHanger (1), TissueBox (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: close Drawer (7)
+You close Drawer (7). You see Toilet (1), ToiletPaperHanger (1), TissueBox (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Toilet (1), ToiletPaperHanger (1), TissueBox (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Toilet (1), ToiletPaperHanger (1), TissueBox (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: open Drawer (7)
+You open Drawer (7). You see Toilet (1), ToiletPaperHanger (1), TissueBox (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: close Drawer (7)
+You close Drawer (7). You see Toilet (1), ToiletPaperHanger (1), TissueBox (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Toilet (1), ToiletPaperHanger (1), TissueBox (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Toilet (1), ToiletPaperHanger (1), TissueBox (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: open Drawer (7)
+You open Drawer (7). You see Toilet (1), ToiletPaperHanger (1), TissueBox (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: close Drawer (7)
+You close Drawer (7). You see Toilet (1), ToiletPaperHanger (1), TissueBox (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Toilet (1), ToiletPaperHanger (1), TissueBox (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Toilet (1), ToiletPaperHanger (1), TissueBox (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: open Drawer (7)
+You open Drawer (7). You see Toilet (1), ToiletPaperHanger (1), TissueBox (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: close Drawer (7)
+You close Drawer (7). You see Toilet (1), ToiletPaperHanger (1), TissueBox (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).

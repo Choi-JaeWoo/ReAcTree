@@ -1,0 +1,7 @@
+Your task is to: Move key to plate, plate to coffee table
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1), GarbageCan (1), Drawer (1), DiningTable (1), CoffeeTable (1, 2), ArmChair (1).
+Think: Since I’m not holding anything, I need to accomplish 2 subgoals sequentially to solve the task. Find and pick up key, place key on plate near coffee table.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up key, place key on plate near coffee table

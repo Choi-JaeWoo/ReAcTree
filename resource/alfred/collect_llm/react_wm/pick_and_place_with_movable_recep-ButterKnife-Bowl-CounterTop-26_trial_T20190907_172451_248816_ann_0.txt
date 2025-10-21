@@ -1,0 +1,61 @@
+Your task is to: Collect dishes to prepare food.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10).
+Think: To solve the task, I need to find and pick up the plate, then put it on the counter. And I need to find and pick up the knife, then put it on the counter. And I need to find and pick up the fork, then put it on the counter.
+OK.
+Think: First, I need to recall location of the plate.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now I need to find the plate. The plate is more likely to appear on DiningTable (1-2), CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-10), Drawer (1-3). I can check each place one by one, starting from DiningTable (1), until I find the plate.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (3), Toaster (1), Spatula (2, 3), Pot (1, 2), PepperShaker (2), DiningTable (1), Bread (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Spoon (1), Plate (1), Mug (1), Lettuce (1), Fork (1), DiningTable (2), ButterKnife (2, 3), Bowl (1). 
+Think: I find Plate (1). Now, I need to pick it up.
+OK.
+Act: pick up Plate (1)
+You pick up Plate (1). You see Spoon (1), Plate (1), Mug (1), Lettuce (1), Fork (1), DiningTable (2), ButterKnife (2, 3), Bowl (1). I am holding Plate (1) now.
+Think: I hold Plate (1). Now, I need to put it on the counter.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Plate (1, 3), Knife (1, 3), Faucet (1), Drawer (1), DishSponge (3), Cup (1, 3), CounterTop (1), Cabinet (1), ButterKnife (4).  I am holding Plate (1) now.
+Act: put down Plate (1)
+You put down failed, drop it. You see Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Plate (1, 3), Knife (1, 3), Faucet (1), Drawer (1), DishSponge (3), Cup (1, 3), CounterTop (1), Cabinet (1, 4), ButterKnife (4).
+Think: Now I put Plate (1) on the counter. Now, I need to recall location of the knife.
+OK.
+Act: recall location of Knife
+You saw Knife (1) near CounterTop (1). You saw Knife (3) near CounterTop (1).
+Think: I can find Knife (1) near CounterTop (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Plate (1, 3), Knife (1, 3), Faucet (1), Drawer (1), DishSponge (3), Cup (1, 3), CounterTop (1), Cabinet (1, 4), ButterKnife (4). 
+Think: I find Knife (1). Now, I need to pick it up.
+OK.
+Act: pick up Knife (1)
+You pick up Knife (1). You see Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Plate (1, 3), Knife (1, 3), Faucet (1), Drawer (1), DishSponge (3), Cup (1, 3), CounterTop (1), Cabinet (1, 4), ButterKnife (4). I am holding Knife (1) now.
+Think: I hold Knife (1). Now, I need to put it on the counter.
+OK.
+Act: put down Knife (1)
+You put down failed, drop it. You see Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Plate (1, 3), Knife (3), Faucet (1), Drawer (1), DishSponge (3), Cup (1, 3), CounterTop (1), Cabinet (1, 4), ButterKnife (4).
+Think: Now I put Knife (1) on the counter. Now, I need to recall location of the fork.
+OK.
+Act: recall location of Fork
+You saw Fork (1) near DiningTable (2).
+Think: I can find Fork (1) near DiningTable (2).
+OK.
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Mug (1), Lettuce (1), Fork (1), DiningTable (2), ButterKnife (2, 3), Bowl (1). 
+Think: I find Fork (1). Now, I need to pick it up.
+OK.
+Act: pick up Fork (1)
+You pick up Fork (1). You see Mug (1), Lettuce (1), Fork (1), DiningTable (2), ButterKnife (2, 3), Bowl (1). I am holding Fork (1) now.
+Think: I hold Fork (1). Now, I need to put it on the counter.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Plate (1, 3), Knife (3), Fork (1), Faucet (1), Drawer (1), DishSponge (3), Cup (1, 3), CounterTop (1), Cabinet (1, 4), ButterKnife (4).  I am holding Fork (1) now.
+Act: put down Fork (1)
+You put Fork (1) on CounterTop (1). You see Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Plate (1, 3), Knife (3), Fork (1), Faucet (1), Drawer (1), DishSponge (3), Cup (1, 3), CounterTop (1), Cabinet (1, 4), ButterKnife (4).
+Think: Now I accomplish the goal.
+OK.
+Act: done

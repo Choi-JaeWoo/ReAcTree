@@ -1,0 +1,7 @@
+Your task is to: Move the alarm clocks on the desk to the drawer shelf. 
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1), GarbageCan (1), Drawer (1, 2), Desk (1), Bed (1).
+Think: Since I’m not holding alarm clock, I need to accomplish 3 subgoals sequentially to solve the task. Find and pick up alarm clock, place alarm clock on shelf, and find and pick up alarm clock away from shelf.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up alarm clock, place alarm clock on shelf, find and pick up alarm clock away from shelf

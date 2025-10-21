@@ -1,0 +1,11 @@
+Your primary goal is to: Move two books to the lower rightmost drawer of the right desk.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up book, place book in drawer, find and pick up book away from drawer, and place book in drawer.
+Your task is to: place book in drawer
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2), LaundryHamper (1), GarbageCan (1), Drawer (1, 2, 3), Desk (1), Bed (1). I am holding Book (1) now.
+Think: I hold Book (1). Now, I need to put it in the drawer. I can see Drawer (1).
+OK.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see RemoteControl (2), Pencil (2), Pen (1, 2), KeyChain (1), Drawer (1, 2, 3), Desk (1), Chair (1), CellPhone (1, 3), CD (1), Bowl (1), Book (1), AlarmClock (1). Drawer (1) is closed.  I am holding Book (1) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (1) now.
+Act: failure

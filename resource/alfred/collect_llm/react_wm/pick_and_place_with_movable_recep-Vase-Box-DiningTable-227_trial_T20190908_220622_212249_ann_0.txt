@@ -1,0 +1,115 @@
+Your task is to: Put blue lid in box and placed on kitchen table
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7), DiningTable (1), CoffeeTable (1, 2), Cabinet (1, 2, 3, 4, 5, 6, 7, 8), ArmChair (1, 2).
+Think: To solve the task, I need to find and pick up the blue lid, then put it in the box. And I need to find and pick up the box, then put it on the kitchen table.
+OK.
+Think: First, I need to recall location of the blue lid.
+OK.
+Act: recall location of Box
+You have not seen Box before.
+Think: Now I need to find the blue lid. The blue lid is more likely to appear on DiningTable (1), CoffeeTable (1-2), or in Drawer (1-7), Cabinet (1-8). I can check each place one by one, starting from DiningTable (1), until I find the blue lid.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Statue (7), Newspaper (1), KeyChain (1), DiningTable (1), Chair (3, 4, 6). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see RemoteControl (1), Laptop (1), CreditCard (1), CoffeeTable (1, 2). 
+Act: go to CoffeeTable (2)
+You arrive at CoffeeTable (2). You see RemoteControl (1), Laptop (1), Drawer (4), CreditCard (1), CoffeeTable (1, 2). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Statue (5), Shelf (3), Drawer (1, 6), Cabinet (7). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Statue (5), Shelf (3, 8), Drawer (1, 6), Cabinet (2, 7).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Vase (4), Statue (2), Shelf (5), Drawer (2, 5), Cabinet (8). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see Vase (4), Shelf (5), Drawer (2, 5), Cabinet (8).
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Vase (3), Shelf (4, 7), Drawer (3, 4). Drawer (3) is closed. 
+Act: open Drawer (3)
+You open Drawer (3). You see Vase (3), Shelf (4, 7), Drawer (3).
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Television (1), Shelf (7), Drawer (3, 4, 7), Box (1). Drawer (4) is closed. 
+Act: open Drawer (4)
+You open Drawer (4). You see Shelf (7), Drawer (3, 4), Box (1).
+Think: I find Box (1). Now, I need to pick it up.
+OK.
+Act: pick up Box (1)
+You pick up Box (1). You see Shelf (7), Drawer (3, 4), Box (1). I am holding Box (1) now.
+Think: I hold Box (1). Now, I need to recall location of the blue lid.
+OK.
+Act: recall location of Box
+You saw Box (1) near hand.
+Think: I can find Box (1) near hand. Now, I need to put Box (1) in the box.
+OK.
+Act: go to Box (1)
+You arrive at Box (1). You see RemoteControl (1), Laptop (1), Drawer (4), CreditCard (1), CoffeeTable (1, 2), Box (1). Box (1) is open.  I am holding Box (1) now.
+Act: put down Box (1)
+You put down failed, drop it. You see RemoteControl (1), Laptop (1), Drawer (3, 4), CreditCard (1), CoffeeTable (1, 2), Box (1).
+Think: Now I need to recall location of the box.
+OK.
+Act: recall location of Box
+You dropped Box due to fail to put it on the receptacle. You need to find it again.
+Think: Now I need to find the box. The box is more likely to appear on DiningTable (1), CoffeeTable (1-2), or in Drawer (1-7), Cabinet (1-8). I can check each place one by one, starting from DiningTable (1), until I find the box.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Statue (7), Newspaper (1), KeyChain (1), DiningTable (1), Chair (3, 4, 6). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see RemoteControl (1), Laptop (1), Drawer (4), CreditCard (1), CoffeeTable (1, 2). 
+Act: go to CoffeeTable (2)
+You arrive at CoffeeTable (2). You see RemoteControl (1), Laptop (1), Drawer (4), CreditCard (1), CoffeeTable (1, 2). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Statue (5), Shelf (3, 8), RemoteControl (1, 1), Laptop (1, 1), Drawer (1, 4, 4, 6), CreditCard (1, 1), CoffeeTable (1, 1, 2, 2), Cabinet (2, 7). Drawer (1) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Vase (4), Statue (5, 5), Shelf (3, 3, 5, 8, 8), Drawer (1, 1, 2, 5, 6, 6), Cabinet (2, 2, 7, 7, 8). Drawer (2) is open. 
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Vase (3, 6), Shelf (4, 7, 9), Drawer (3, 4), Cabinet (3), ArmChair (2). Drawer (3) is open. 
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Vase (3, 3, 3, 6, 6, 6), Television (1), Shelf (4, 4, 4, 7, 7, 7, 7, 9, 9, 9), Drawer (3, 3, 3, 3, 4, 4, 4, 4, 7), CoffeeTable (2), Cabinet (3, 3, 3), Box (1), ArmChair (2, 2, 2). Drawer (4) is open. 
+Think: I find Box (1). Now, I need to pick it up.
+OK.
+Act: pick up Box (1)
+You pick up Box (1). You see Television (1), Shelf (7), Drawer (4, 7), Box (1). I am holding Box (1) now.
+Think: I hold Box (1). Now, I need to recall location of the kitchen table.
+OK.
+Act: recall location of Box
+You saw Box (1) near hand.
+Think: I can find Box (1) near hand. Now, I need to put Box (1) on the kitchen table.
+OK.
+Act: go to Box (1)
+You arrive at Box (1). You see RemoteControl (1), Laptop (1), Drawer (3, 4), CoffeeTable (1, 2), Box (1), ArmChair (2). Box (1) is open.  I am holding Box (1) now.
+Act: put down Box (1)
+You put down failed, drop it. You see RemoteControl (1), Laptop (1), Drawer (3, 4), CoffeeTable (1, 2), Box (1), ArmChair (2).
+Think: Now I need to recall location of the box.
+OK.
+Act: recall location of Box
+You dropped Box due to fail to put it on the receptacle. You need to find it again.
+Think: Now I need to find the box. The box is more likely to appear on DiningTable (1), CoffeeTable (1-2), or in Drawer (1-7), Cabinet (1-8). I can check each place one by one, starting from DiningTable (1), until I find the box.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Statue (7), Newspaper (1), KeyChain (1), DiningTable (1), Chair (3, 4, 6). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see RemoteControl (1), Laptop (1), Drawer (4), CreditCard (1), CoffeeTable (1, 2). 
+Act: go to CoffeeTable (2)
+You arrive at CoffeeTable (2). You see RemoteControl (1), Laptop (1), Drawer (4), CreditCard (1), CoffeeTable (1, 2). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Statue (5), Shelf (3, 8), RemoteControl (1, 1), Laptop (1, 1), Drawer (1, 4, 4, 6), CreditCard (1, 1), CoffeeTable (1, 1, 2, 2), Cabinet (2, 7). Drawer (1) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Vase (4), Statue (5, 5), Shelf (3, 3, 5, 8, 8), Drawer (1, 1, 2, 5, 6, 6), Cabinet (2, 2, 7, 7, 8). Drawer (2) is open. 
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Vase (3, 6), Shelf (4, 7, 9), Drawer (3, 4), Cabinet (3), ArmChair (2). Drawer (3) is open. 
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Shelf (7), RemoteControl (1), Drawer (3, 4), CoffeeTable (1, 2). Drawer (4) is open. 
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Vase (4), Statue (2), Shelf (5, 7, 7, 7, 7), RemoteControl (1, 1, 1, 1), Drawer (2, 3, 3, 3, 3, 4, 4, 4, 4, 5), CoffeeTable (1, 1, 1, 1, 2, 2, 2, 2), Cabinet (1, 8). Drawer (5) is closed. 
+Act: open Drawer (5)
+You open Drawer (5). You see Statue (2), Shelf (5), Drawer (2, 5), Cabinet (8).
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Statue (2, 2, 2, 5), Shelf (3, 5, 5, 5, 8), Drawer (1, 2, 2, 2, 5, 5, 5, 6), Cabinet (7, 8, 8, 8). Drawer (6) is closed. 
+Act: open Drawer (6)
+You open Drawer (6). You see Statue (5), Shelf (3), Drawer (1, 6), Cabinet (7).
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see Television (1), Shelf (7), Drawer (4, 7). Drawer (7) is closed. 
+Act: open Drawer (7)
+You open Drawer (7). You see Shelf (7), Drawer (4, 7).
+Think: Now I accomplish the goal.
+OK.
+Act: done

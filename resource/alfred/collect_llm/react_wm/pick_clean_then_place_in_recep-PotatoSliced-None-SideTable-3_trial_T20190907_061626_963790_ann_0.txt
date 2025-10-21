@@ -1,0 +1,40 @@
+Your task is to: Place a washed potato slice in front of the microwave.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: To solve the task, I need to find and pick up the potato, then put it in the sink basin. And I need to turn on and off the faucet. And I need to pick up the potato from the sink basin, then put it on the counter. And I need to find and pick up the knife, then put it on the counter. And I need to slice the potato. And I need to pick up the potato slice, then put it in front of the microwave.
+OK.
+Think: First, I need to recall location of the potato.
+OK.
+Act: recall location of Potato
+You have not seen Potato before.
+Think: Now I need to find the potato. The potato is more likely to appear on CounterTop (1), SinkBasin (1), SideTable (1) or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the potato.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see CounterTop (1), Bread (1, 2). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Spoon (1), Spatula (2), Sink (1), SinkBasin (1), Potato (1), Knife (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1). 
+Think: I find Potato (1). Now, I need to pick it up.
+OK.
+Act: pick up Potato (1)
+You pick up Potato (1). You see Spoon (1), Spatula (2), Sink (1), SinkBasin (1), Potato (1), Knife (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1). I am holding Potato (1) now.
+Think: I hold Potato (1). Now, I need to put it in the sink basin.
+OK.
+Act: put down Potato (1)
+You put down failed, drop it. You see Spoon (1), Spatula (2), Sink (1), SinkBasin (1), Knife (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1).
+Think: I put Potato (1) in the SinkBasin (1). Now, I need to turn on and off Faucet (1).
+OK.
+Act: turn on Faucet (1)
+You turn on Faucet (1). You see Spoon (1), Spatula (2), Sink (1), SinkBasin (1), Knife (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1).
+Act: turn off Faucet (1)
+You turn off Faucet (1). You see Spoon (1), Spatula (2), Sink (1), SinkBasin (1), Knife (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1).
+Think: Now, I need to pick up the potato from the sink basin.
+OK.
+Act: pick up Knife (1)
+You pick up Knife (1). You see Spoon (1), Spatula (2), Sink (1), SinkBasin (1), Knife (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1). I am holding Knife (1) now.
+Think: I pick up Knife (1) from SinkBasin (1). Now, I need to put it on the counter.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Knife (1), CounterTop (1), Bread (1, 2).  I am holding Knife (1) now.
+Act: put down Knife (1)
+You put Knife (1) on CounterTop (1). You see Knife (1), CounterTop (1), Bread (1, 2).
+Think: I put Knife (1) on the CounterTop (1). Now, I need to recall location of the potato.
+OK.

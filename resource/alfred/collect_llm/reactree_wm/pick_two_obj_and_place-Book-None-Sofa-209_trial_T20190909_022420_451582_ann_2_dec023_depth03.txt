@@ -1,0 +1,13 @@
+Your primary goal is to: Retrieve two books from the coffee table, put the books on the couch
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up book, place book on couch, Find and pick up book away from couch, and place book on couch.
+Your task is to: place book on couch
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), CoffeeTable (1), ArmChair (1). I am holding Book (1) now.
+Think: I hold Book (1). Now, I need to put it on the couch. I can see Sofa (1).
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1), Newspaper (1), Book (1).  I am holding Book (1) now.
+Act: put down Book (1)
+You put Book (1) on Sofa (1). You see Sofa (1), Pillow (1), Newspaper (1), Book (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

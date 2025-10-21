@@ -1,0 +1,19 @@
+Your primary goal is to: put mug and sharp knife on kitchen counter
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up mug, place mug on countertop, find and pick up knife, and place knife on countertop.
+Your task is to: place knife on countertop
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11). I am holding Knife (1) now.
+Think: I hold Knife (1). Now, I need to recall location of the countertop.
+OK.
+Act: recall location of CreditCard
+You have not seen CreditCard before.
+Think: Now, I need to find the countertop. The countertop is more likely to appear on CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-11), Drawer (1-3). I can check each place one by one, starting from CounterTop (1), until I find the countertop.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see StoveKnob (4), StoveBurner (2), Knife (1), Kettle (2), Drawer (2), CounterTop (1), Cabinet (11).  I am holding Knife (1) now.
+Think: I find CounterTop (1). Now, I need to put down Knife (1) on CounterTop (1).
+OK.
+Act: put down Knife (1)
+You put Knife (1) on CounterTop (1). You see StoveKnob (4), StoveBurner (2), Knife (1), Kettle (2), Drawer (2), CounterTop (1), Cabinet (11).
+Think: Now I accomplish the goal.
+OK.
+Act: done

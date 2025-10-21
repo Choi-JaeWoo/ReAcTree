@@ -1,0 +1,13 @@
+Your primary goal is to: Put two bottles on a metal rack.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up bottle, place bottle on metal rack, Find and pick up bottle away from metal rack, and place bottle on metal rack.
+Your task is to: place bottle on metal rack
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1), Shelf (1), HandTowelHolder (1), GarbageCan (1), Drawer (1, 2, 3, 4), CounterTop (1), Cart (1), BathtubBasin (1). I am holding SprayBottle (1) now.
+Think: I hold SprayBottle (1). Now, I need to put it on the metal rack. I think metal rack means Cart (1). I can see Cart (1).
+OK.
+Act: go to Cart (1)
+You arrive at Cart (1). You see ToiletPaper (1), SprayBottle (1, 3), GarbageCan (1), Cart (1), Candle (1).  I am holding SprayBottle (1) now.
+Act: put down SprayBottle (1)
+You put SprayBottle (1) on Cart (1). You see ToiletPaper (1), SprayBottle (1, 3), GarbageCan (1), Cart (1), Candle (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

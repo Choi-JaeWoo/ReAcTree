@@ -1,0 +1,7 @@
+Your task is to: Put a phone in the safe next to the bed. 
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1, 2), Shelf (1, 2, 3, 4, 5), Safe (1), GarbageCan (1), Drawer (1, 2, 3), Desk (1), Bed (1).
+Think: Since I’m not holding the phone, I need to accomplish 2 subgoals sequentially to solve the task. Find and pick up phone, and place phone in safe.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up phone, place phone in safe

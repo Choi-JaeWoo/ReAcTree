@@ -1,0 +1,31 @@
+Your task is to: Examine an opened box by lamp light
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Safe (1), LaundryHamper (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11), Bed (1).
+Think: To solve the task, I need to find and pick up the box. And I need to find and turn on the desk lamp.
+OK.
+Think: First, I need to recall location of the box.
+OK.
+Act: recall location of Box
+You have not seen Box before.
+Think: Now I need to find the box. The box is more likely to appear on Bed (1), SideTable (1), or in Drawer (1-11). I can check each place one by one, starting from Bed (1), until I find the box.
+OK.
+Act: go to Bed (1)
+You arrive at Bed (1). You see Pillow (1, 2), Laptop (2), CellPhone (3), Book (1), Bed (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (1), Drawer (2), DeskLamp (1), CreditCard (2), Bed (1), AlarmClock (1). 
+Think: I find Box (1). Now, I need to pick it up.
+OK.
+Act: pick up AlarmClock (1)
+You pick up AlarmClock (1). You see SideTable (1), Pencil (1), Drawer (2), DeskLamp (1), CreditCard (2), Bed (1), AlarmClock (1). I am holding AlarmClock (1) now.
+Think: I hold AlarmClock (1). Now, I need to recall location of the desk lamp.
+OK.
+Act: recall location of DeskLamp
+You saw DeskLamp (1) near SideTable (1).
+Think: I can find DeskLamp (1) near SideTable (1). Now, I need to go to SideTable (1) and turn on DeskLamp (1).
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (1), Drawer (2), DeskLamp (1), CreditCard (2), Bed (1), AlarmClock (1).  I am holding AlarmClock (1) now.
+Act: turn on DeskLamp (1)
+You turn on DeskLamp (1). You see SideTable (1), Pencil (1), Drawer (2), DeskLamp (1), CreditCard (2), Bed (1), AlarmClock (1). I am holding AlarmClock (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

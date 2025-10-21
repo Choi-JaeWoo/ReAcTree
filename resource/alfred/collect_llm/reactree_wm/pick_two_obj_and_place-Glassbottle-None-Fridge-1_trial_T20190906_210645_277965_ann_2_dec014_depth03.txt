@@ -1,0 +1,21 @@
+Your primary goal is to: Place two bottles, one from the trash can, one from the sink, in the refrigerator.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up bottle, place bottle in fridge, find and pick up bottle away from fridge, place bottle in fridge, and and find and pick up bottle away from fridge.
+Your task is to: find and pick up bottle away from fridge
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9).
+Think: First, I need to recall location of the bottle.
+OK.
+Act: recall location of WineBottle
+You have not seen WineBottle before.
+Think: Now, I need to find the bottle. The bottle is more likely to appear on DiningTable (1), CounterTop (1-2), SinkBasin (1), or in Fridge (1), Cabinet (1-9), Drawer (1-9). I can check each place one by one, starting from DiningTable (1), until I find the bottle.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Vase (1), Tomato (2), Statue (2), Spoon (1), Potato (2), Lettuce (1), CounterTop (1), Bread (2), Book (1). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Window (1), Spatula (2, 3), Sink (1), SinkBasin (1), Knife (2), Glassbottle (1, 4), Faucet (1), Egg (2), CounterTop (2), Cabinet (2). 
+Think: I find Glassbottle (4). Now, I need to pick it up.
+OK.
+Act: pick up Glassbottle (4)
+You pick up Glassbottle (4). You see Window (1), Spatula (2, 3), Sink (1), SinkBasin (1), Knife (2), Glassbottle (1, 4), Faucet (1), Egg (2), CounterTop (2), Cabinet (2). I am holding Glassbottle (4) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

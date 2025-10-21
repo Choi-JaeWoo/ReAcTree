@@ -1,0 +1,7 @@
+Your task is to: Move the baseball bats to the bed. 
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1, 2), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6), Cabinet (1, 2, 3, 4), Bed (1), ArmChair (1).
+Think: Since I’m not holding baseball bats, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up baseball bats, place baseball bats on bed, Find and pick up baseball bats away from bed, and place baseball bats on bed.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up baseball bats, place baseball bats on bed, Find and pick up baseball bats away from bed, place baseball bats on bed

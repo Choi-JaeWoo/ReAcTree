@@ -1,0 +1,35 @@
+Your task is to: Look at a box of tissues in the light.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1), GarbageCan (1), Drawer (1, 2), Desk (1), Bed (1).
+Think: To solve the task, I need to find and pick up the box of tissues. And I need to find and turn on the desk lamp.
+OK.
+Think: First, I need to recall location of the box of tissues.
+OK.
+Act: recall location of TissueBox
+You have not seen TissueBox before.
+Think: Now I need to find the box of tissues. The box of tissues is more likely to appear on Bed (1), Desk (1), SideTable (1), Shelf (1), or in Drawer (1-2). I can check each place one by one, starting from Bed (1), until I find the box of tissues.
+OK.
+Act: go to Bed (1)
+You arrive at Bed (1). You see TeddyBear (1), SideTable (1), Pillow (1), Laptop (2), Drawer (1, 2), CellPhone (2), Bed (1). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Window (2), Pencil (1), Laptop (1), Desk (1), Chair (1), CellPhone (1), Book (1), AlarmClock (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Window (1, 2), TissueBox (1), SideTable (1), Mug (2), Drawer (1, 2), Desk (1), Chair (1), CD (1), Bed (1). 
+Think: I find TissueBox (1). Now, I need to pick it up.
+OK.
+Act: pick up TissueBox (1)
+You pick up TissueBox (1). You see Window (1, 2), TissueBox (1), SideTable (1), Mug (2), Drawer (1, 2), Desk (1), Chair (1), CD (1), Bed (1). I am holding TissueBox (1) now.
+Think: I hold TissueBox (1). Now, I need to recall location of the desk lamp.
+OK.
+Act: recall location of DeskLamp
+You have not seen DeskLamp before.
+Think: Now I need to find the desk lamp The desk lamp is more likely to appear on Shelf (1), or in Drawer (1-2). I can check each place one by one, starting from Shelf (1), until I find the desk lamp.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TissueBox (1), Laptop (1), Desk (1), DeskLamp (1), Chair (1), Book (1), AlarmClock (1).  I am holding TissueBox (1) now.
+Think: I find DeskLamp (1). Now, I need to turn it on.
+OK.
+Act: turn on DeskLamp (1)
+You turn on DeskLamp (1). You see TissueBox (1), Laptop (1), Desk (1), DeskLamp (1), Chair (1), Book (1), AlarmClock (1). I am holding TissueBox (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

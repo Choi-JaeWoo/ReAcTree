@@ -1,0 +1,13 @@
+Your primary goal is to: Place a pot with a knife and a potato slice in it on a table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pot, place pot on table, find and pick up knife, slice and pick up potato, and place potato on pot near table.
+Your task is to: place pot on table
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11). I am holding Pot (1) now.
+Think: I hold Pot (1). Now, I need to put it on the table. I can see DiningTable (1).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see SoapBottle (1), Pot (1), DiningTable (1), Bowl (1).  I am holding Pot (1) now.
+Act: put down Pot (1)
+You put Pot (1) on DiningTable (1). You see SoapBottle (1), SaltShaker (2), Pot (1), Mug (1), Lettuce (2), DishSponge (2), DiningTable (1), Bowl (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

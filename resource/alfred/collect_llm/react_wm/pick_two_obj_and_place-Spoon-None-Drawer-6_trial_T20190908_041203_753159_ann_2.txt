@@ -1,0 +1,118 @@
+Your task is to: Put two spoons in the drawer.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), CounterTop (1, 2, 3, 4), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15).
+Think: To solve the task, I need to find and pick up two spoons, then put them in the drawer.
+OK.
+Think: First, I need to recall location of the spoons.
+OK.
+Act: recall location of Spoon
+You have not seen Spoon before.
+Think: Now I need to find the spoons. The spoons are more likely to appear on CoffeeMachine (1), DiningTable (1), CounterTop (1-4), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-15), Drawer (1-4). I can check each place one by one, starting from CoffeeMachine (1), until I find the spoons.
+OK.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see Window (1), Sink (1), SinkBasin (1), Fork (1), Faucet (1), CounterTop (3), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (2), StoveKnob (3, 4), StoveBurner (2, 3), SoapBottle (1), Pan (1), Mug (2), GarbageCan (1), CounterTop (1). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Spatula (1), SaltShaker (2), PaperTowelRoll (1), Knife (1), Fork (2), CounterTop (2), ButterKnife (3), Bowl (2). 
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Kettle (1), Fork (1), CounterTop (3), CoffeeMachine (1). 
+Act: go to CounterTop (4)
+You arrive at CounterTop (4). You see Lettuce (1), Chair (1), Cabinet (2, 3). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (1), Spoon (1, 2), SoapBottle (2), Sink (1), SinkBasin (1), Potato (1), Kettle (1), Fork (1), Faucet (1), CounterTop (3), ButterKnife (1). 
+Think: I find Spoon (1). Now, I need to pick it up.
+OK.
+Act: pick up Spoon (1)
+You pick up Spoon (1). You see Window (1), Spoon (1, 2), SoapBottle (2), Sink (1), SinkBasin (1), Potato (1), Kettle (1), Fork (1), Faucet (1), CounterTop (3), ButterKnife (1). I am holding Spoon (1) now.
+Think: I hold Spoon (1). Now, I need to find another spoon.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (2), StoveKnob (3, 4), StoveBurner (2, 3), Spoon (1), SoapBottle (1), Pan (1), Mug (2), GarbageCan (1), CounterTop (1).  I am holding Spoon (1) now.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Spoon (1), Spatula (1), SaltShaker (2), PaperTowelRoll (1), Knife (1), Fork (2), CounterTop (2), ButterKnife (3), Bowl (2).  I am holding Spoon (1) now.
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Spoon (1), Kettle (1), Fork (1), CounterTop (3), CoffeeMachine (1).  I am holding Spoon (1) now.
+Act: go to CounterTop (4)
+You arrive at CounterTop (4). You see Spoon (1), Lettuce (1), Chair (1), Cabinet (2, 3).  I am holding Spoon (1) now.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (1), Spoon (1, 2), SoapBottle (2), Sink (1), SinkBasin (1), Potato (1), Kettle (1), Fork (1), Faucet (1), CounterTop (3), ButterKnife (1).  I am holding Spoon (1) now.
+Think: I find Spoon (2). Now, I need to pick it up.
+OK.
+Act: pick up Spoon (2)
+You are currently holding Spoon (1). I am holding Spoon (1) now.
+Think: I hold Spoon (1) and Spoon (2). Now, I need to put them in the drawer.
+OK.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Tomato (2), Toaster (1), Spoon (1), Fork (3), Drawer (1, 3), CounterTop (4), Chair (1), Cabinet (1, 2, 3), ButterKnife (2), Bread (3), Apple (1). Drawer (1) is closed.  I am holding Spoon (1) now.
+Act: open Drawer (1)
+You open Drawer (1). You see Tomato (2), Toaster (1), Spoon (1), Lettuce (1), Drawer (1, 3), CounterTop (4), Chair (1), Cabinet (1, 2, 3), ButterKnife (2), Bread (3), Apple (1). I am holding Spoon (1) now.
+Act: put down Spoon (1)
+You put Spoon (1) on Drawer (1). You see Tomato (2), Toaster (1), Spoon (1), Lettuce (1), Drawer (1, 3), CounterTop (4), Chair (1), Cabinet (1, 2, 3), ButterKnife (2), Bread (3), Apple (1).
+Act: close Drawer (1)
+You close Drawer (1). You see Tomato (2), Toaster (1), Lettuce (1), Drawer (1, 3), CounterTop (4), Chair (1), Cabinet (1, 2, 3), ButterKnife (2), Bread (3), Apple (1).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Potato (2), Fridge (1), Drawer (2, 3, 4), Cup (2), CounterTop (4), Cabinet (1, 2, 3, 12), Bread (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see Potato (2), Fridge (1), Drawer (2, 3, 4), Cup (2), CounterTop (4), Cabinet (1, 2, 3, 12), Bread (1).
+Act: close Drawer (2)
+You close Drawer (2). You see Potato (2), Fridge (1), Drawer (2, 3, 4), Cup (2), CounterTop (4), Cabinet (1, 2, 3, 12), Bread (1).
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Potato (2), Drawer (1, 2, 3), CounterTop (4), Cabinet (1, 2, 3, 12), Bread (1), Apple (1). Drawer (3) is closed. 
+Act: open Drawer (3)
+You open Drawer (3). You see Potato (2), Drawer (1, 2, 3), CounterTop (4), Cabinet (1, 2, 3, 12), Bread (1, 3), Apple (1).
+Act: close Drawer (3)
+You close Drawer (3). You see Potato (2), Drawer (1, 2, 3), CounterTop (4), Cabinet (1, 2, 3, 12), Bread (1, 3), Apple (1).
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Potato (2), Fridge (1), Drawer (2, 4), Cup (2), CounterTop (4), Cabinet (1, 3, 12), Bread (1). Drawer (4) is closed. 
+Act: open Drawer (4)
+You open Drawer (4). You see Potato (2), Fridge (1), Drawer (2, 4), Cup (2), CounterTop (4), Cabinet (1, 3, 12), Bread (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Potato (2), Fridge (1), Drawer (2, 4), Cup (2), CounterTop (4), Cabinet (1, 3, 12), Bread (1).
+Think: I put Spoon (1) in Drawer (1). Now, I need to put Spoon (2) in the drawer.
+OK.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Tomato (2), Toaster (1), Fork (3), Drawer (1, 3), CounterTop (4), Chair (1), Cabinet (1, 2, 3), ButterKnife (2), Bread (3), Apple (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Tomato (2), Toaster (1), Spoon (1), Lettuce (1), Drawer (1, 3), CounterTop (4), Chair (1), Cabinet (1, 2, 3), ButterKnife (2), Bread (3), Apple (1).
+Act: go to Spoon (1)
+You see Tomato (2), Toaster (1), Spoon (1), Fork (3), Drawer (1, 3), CounterTop (4), Chair (1), Cabinet (1, 3), ButterKnife (2), Bread (1, 3), Apple (1). 
+Act: pick up Spoon (1)
+You pick up Spoon (1). You see Tomato (2), Toaster (1), Spoon (1), Fork (3), Drawer (1, 3), CounterTop (4), Chair (1), Cabinet (1, 3), ButterKnife (2), Bread (1, 3), Apple (1). I am holding Spoon (1) now.
+Act: put down Spoon (1)
+You put down failed, drop it. You see Tomato (2), Toaster (1), Spoon (1), Fork (3), Drawer (1, 3), CounterTop (4), Chair (1), Cabinet (1, 3), ButterKnife (2), Bread (1, 3), Apple (1).
+Act: close Drawer (1)
+You close Drawer (1). You see Tomato (2), Toaster (1), Fork (3), Drawer (1, 3), CounterTop (4), Chair (1), Cabinet (1, 2, 3), ButterKnife (2), Bread (1, 3), Apple (1).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Potato (2), Fridge (1), Drawer (2, 3, 4), Cup (2), CounterTop (4), Cabinet (1, 2, 3, 12), Bread (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see Potato (2), Fridge (1), Drawer (2, 3, 4), Cup (2), CounterTop (4), Cabinet (1, 2, 3, 12), Bread (1).
+Act: close Drawer (2)
+You close Drawer (2). You see Potato (2), Fridge (1), Drawer (2, 3, 4), Cup (2), CounterTop (4), Cabinet (1, 2, 3, 12), Bread (1).
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Potato (2), Drawer (1, 2, 3), CounterTop (4), Cabinet (1, 2, 3, 12), Bread (1), Apple (1). Drawer (3) is closed. 
+Act: open Drawer (3)
+You open Drawer (3). You see Potato (2), Drawer (1, 2, 3), CounterTop (4), Cabinet (1, 2, 3, 12), Bread (1, 3), Apple (1).
+Act: close Drawer (3)
+You close Drawer (3). You see Potato (2), Drawer (1, 2, 3), CounterTop (4), Cabinet (1, 2, 3, 12), Bread (1, 3), Apple (1).
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Potato (2), Fridge (1), Drawer (2, 4), Cup (2), CounterTop (4), Cabinet (1, 3, 12), Bread (1). Drawer (4) is closed. 
+Act: open Drawer (4)
+You open Drawer (4). You see Potato (2), Fridge (1), Drawer (2, 4), Cup (2), CounterTop (4), Cabinet (1, 3, 12), Bread (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Potato (2), Fridge (1), Drawer (2, 4), Cup (2), CounterTop (4), Cabinet (1, 3, 12), Bread (1).
+Think: I put Spoon (1) in Drawer (1). Now, I need to put Spoon (2) in the drawer.
+OK.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Tomato (2), Toaster (1), Fork (3), Drawer (1, 3), CounterTop (4), Chair (1), Cabinet (1, 2, 3), ButterKnife (2), Bread (3), Apple (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Tomato (2), Toaster (1), Spoon (1), Lettuce (1), Drawer (1, 3), CounterTop (4), Chair (1), Cabinet (1, 2, 3), ButterKnife (2), Bread (3), Apple (1).
+Act: go to Spoon (1)
+You see Tomato (2), Toaster (1), Spoon (1), Fork (3), Drawer (1, 3), CounterTop (4), Chair (1), Cabinet (1, 3), ButterKnife (2), Bread (1, 3), Apple (1). 
+Act: pick up Spoon (1)
+You pick up Spoon (1). You see Tomato (2), Toaster (1), Spoon (1), Fork (3), Drawer (1, 3), CounterTop (4), Chair (1), Cabinet (1, 3), ButterKnife (2), Bread (1, 3), Apple (1). I am holding Spoon (1) now.
+Act: put down Spoon (1)
+You put down failed, drop it. You see Tomato (2), Toaster (1), Spoon (1), Fork (3), Drawer (1, 3), CounterTop (4), Chair (1), Cabinet (1, 3), ButterKnife (2), Bread (1, 3), Apple (1).
+Act: close Drawer (1)
+You close Drawer (1). You see Tomato (2), Toaster (1), Spoon (1), Fork (3), Drawer (1, 3), CounterTop (4), Chair (1), Cabinet (1, 2, 3), ButterKnife (2), Bread (1, 3), Apple (1).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Potato (2), Fridge (1), Drawer (2, 3, 4), Cup (2), CounterTop (4), Cabinet (1, 2, 3, 12), Bread (1). Drawer (2) is closed. 

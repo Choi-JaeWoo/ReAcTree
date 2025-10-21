@@ -1,0 +1,13 @@
+Your primary goal is to: Put a mug with fork in it, on the counter, right of the sink. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up mug, place mug on countertop, find and pick up fork, and and place fork on mug near countertop.
+Your task is to: place mug on countertop
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2), DiningTable (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10). I am holding Cup (3) now.
+Think: I hold Cup (3). Now, I need to put it on the countertop. I can see CounterTop (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), Sink (1), SinkBasin (1), Drawer (1), Cup (3), CounterTop (1), CoffeeMachine (1), Cabinet (1, 7).  I am holding Cup (3) now.
+Act: put down Cup (3)
+You put Cup (3) on CounterTop (1). You see Toaster (1), Sink (1), SinkBasin (1), Drawer (1), Cup (3), CounterTop (1), CoffeeMachine (1), Cabinet (1, 7).
+Think: Now I accomplish the goal.
+OK.
+Act: done

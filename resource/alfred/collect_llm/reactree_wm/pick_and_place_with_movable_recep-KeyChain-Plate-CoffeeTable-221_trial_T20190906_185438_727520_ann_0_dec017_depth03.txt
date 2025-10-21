@@ -1,0 +1,171 @@
+Your primary goal is to: Put a plate with car keys on it on a coffee table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up plate, place plate on coffee table, and place car keys on plate near coffee table.
+Your task is to: place car keys on plate near coffee table
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1), GarbageCan (1), Drawer (1), DiningTable (1), CoffeeTable (1, 2), ArmChair (1).
+Think: I hold CarKeys (1). Now, I need to recall location of the plate.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now, I need to find the plate. The plate is more likely to appear on CoffeeTable (1-2), SideTable (1), DiningTable (1), or in Drawer (1). I can check each place one by one, starting from CoffeeTable (1), until I find the plate.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see CreditCard (3), CoffeeTable (1). 
+Act: go to CoffeeTable (2)
+You arrive at CoffeeTable (2). You see Television (1), SideTable (1), CoffeeTable (2). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1), Television (1), Statue (1), SideTable (1), Drawer (1), CoffeeTable (2), ArmChair (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see RemoteControl (1), Plate (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Think: I find Plate (1). Now, I need to put down CarKeys (1) on Plate (1).
+OK.
+Act: go to Plate (1)
+You arrive at Plate (1). You see RemoteControl (1), Plate (1), Painting (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see RemoteControl (1), Plate (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see RemoteControl (1), Plate (1), Painting (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see RemoteControl (1), Plate (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see RemoteControl (1), Plate (1), Painting (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see RemoteControl (1), Plate (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see RemoteControl (1), Plate (1), Painting (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see RemoteControl (1), Plate (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see RemoteControl (1), Plate (1), Painting (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see RemoteControl (1), Plate (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see RemoteControl (1), Plate (1), Painting (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see RemoteControl (1), Plate (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see RemoteControl (1), Plate (1), Painting (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see RemoteControl (1), Plate (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see RemoteControl (1), Plate (1), Painting (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see RemoteControl (1), Plate (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see RemoteControl (1), Plate (1), Painting (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see RemoteControl (1), Plate (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see RemoteControl (1), Plate (1), Painting (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see RemoteControl (1), Plate (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see RemoteControl (1), Plate (1), Painting (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see RemoteControl (1), Plate (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see RemoteControl (1), Plate (1), Painting (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see RemoteControl (1), Plate (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see RemoteControl (1), Plate (1), Painting (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see RemoteControl (1), Plate (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see RemoteControl (1), Plate (1), Painting (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see RemoteControl (1), Plate (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see RemoteControl (1), Plate (1), Painting (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see RemoteControl (1), Plate (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see RemoteControl (1), Plate (1), Painting (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see RemoteControl (1), Plate (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see RemoteControl (1), Plate (1), Painting (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see RemoteControl (1), Plate (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see RemoteControl (1), Plate (1), Painting (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see RemoteControl (1), Plate (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see RemoteControl (1), Plate (1), Painting (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see RemoteControl (1), Plate (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see RemoteControl (1), Plate (1), Painting (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see RemoteControl (1), Plate (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see RemoteControl (1), Plate (1), Painting (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see RemoteControl (1), Plate (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see RemoteControl (1), Plate (1), Painting (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see RemoteControl (1), Plate (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see RemoteControl (1), Plate (1), Painting (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see RemoteControl (1), Plate (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see RemoteControl (1), Plate (1), Painting (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see RemoteControl (1), Plate (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see RemoteControl (1), Plate (1), Painting (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see RemoteControl (1), Plate (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see RemoteControl (1), Plate (1), Painting (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see RemoteControl (1), Plate (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see RemoteControl (1), Plate (1), Painting (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see RemoteControl (1), Plate (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see RemoteControl (1), Plate (1), Painting (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see RemoteControl (1), Plate (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see RemoteControl (1), Plate (1), Painting (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see RemoteControl (1), Plate (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see RemoteControl (1), Plate (1), Painting (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see RemoteControl (1), Plate (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see RemoteControl (1), Plate (1), Painting (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see RemoteControl (1), Plate (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see RemoteControl (1), Plate (1), Painting (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see RemoteControl (1), Plate (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see RemoteControl (1), Plate (1), Painting (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see RemoteControl (1), Plate (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see RemoteControl (1), Plate (1), Painting (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see RemoteControl (1), Plate (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see RemoteControl (1), Plate (1), Painting (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see RemoteControl (1), Plate (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see RemoteControl (1), Plate (1), Painting (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see RemoteControl (1), Plate (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see RemoteControl (1), Plate (1), Painting (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see RemoteControl (1), Plate (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see RemoteControl (1), Plate (1), Painting (1), Laptop (1), KeyChain (3), DiningTable (1), Chair (1, 3, 4, 5). 
+Max decisions

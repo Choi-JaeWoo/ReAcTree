@@ -1,0 +1,177 @@
+Your primary goal is to: Place a mug with a pen on a dresser.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up mug, place mug on dresser, and place pen on mug.
+Your task is to: place pen on mug
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1, 2, 3, 4, 5, 6), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17), Desk (1), Bed (1).
+Think: I hold Pen (1). Now, I need to recall location of the mug.
+OK.
+Act: recall location of Mug
+You saw Mug (1) near Dresser (1).
+Think: I can find Mug (1) on Dresser (1).
+OK.
+Act: go to Dresser (1)
+You arrive at Dresser (1). You see Pencil (1), Mug (1), KeyChain (1), Dresser (1), Drawer (3, 4, 5, 8, 11, 12, 13, 15), DeskLamp (1), CD (1), Boots (1), Bed (1). 
+Think: I find Mug (1). Now, I need to put down Pen (1) on Mug (1).
+OK.
+Act: go to Mug (1)
+You arrive at Mug (1). You see Watch (2, 3), Pencil (1), Mug (1), KeyChain (1), Dresser (1), Drawer (4, 8, 11, 12, 13), DeskLamp (1), CD (1), Bed (1). 
+Act: go to Pencil (1)
+You see Watch (2, 3), Pencil (1), Mug (1), KeyChain (1), Dresser (1), Drawer (4, 8, 11, 13), DeskLamp (1), CD (1), Bed (1). 
+Act: go to KeyChain (1)
+You see Watch (2, 3), Pencil (1), Mug (1), KeyChain (1), Dresser (1), Drawer (4, 8, 11, 13), DeskLamp (1), CD (1), Boots (1), Bed (1). 
+Act: go to Dresser (1)
+You arrive at Dresser (1). You see Pencil (1), Mug (1), KeyChain (1), Dresser (1), Drawer (3, 4, 5, 8, 11, 12, 13, 15), DeskLamp (1), CD (1), Boots (1), Bed (1). 
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Pencil (1), KeyChain (1), Dresser (1), Drawer (3, 4, 5, 8, 11, 12, 13, 15), DeskLamp (1), Boots (1), Bed (1). Drawer (3) is closed. 
+Act: open Drawer (3)
+You open Drawer (3). You see Pencil (1), KeyChain (1), Dresser (1), Drawer (3, 4, 5, 8, 11, 12, 13, 15), DeskLamp (1), Boots (1), Bed (1).
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Watch (2, 3), Pencil (1), Mug (1), KeyChain (1), Dresser (1), Drawer (3, 4, 5, 8, 11, 12, 13, 15), DeskLamp (1), CD (1), Boots (1), Bed (1). Drawer (4) is closed. 
+Act: open Drawer (4)
+You open Drawer (4). You see Watch (2, 3), Pencil (1), Pen (3), Mug (1), KeyChain (1), Dresser (1), Drawer (3, 4, 8, 11, 12, 13), DeskLamp (1), CD (1), Boots (1), Bed (1).
+Act: go to Drawer (8)
+You arrive at Drawer (8). You see Watch (2, 3), Pencil (1), Pen (3), Mug (1), KeyChain (1), Dresser (1), Drawer (3, 4, 8, 11, 12, 13, 15), DeskLamp (1), Boots (1). Drawer (8) is closed. 
+Act: open Drawer (8)
+You open Drawer (8). You see Watch (2, 3), Pencil (1), Pen (2, 3), Mug (1), KeyChain (1), Dresser (1), Drawer (3, 4, 8, 11), DeskLamp (1), Boots (1).
+Act: go to Drawer (11)
+You arrive at Drawer (11). You see Watch (2, 3), Pencil (1), Pen (2, 3), Mug (1), KeyChain (1), Dresser (1), Drawer (3, 4, 8, 11, 13), DeskLamp (1), CD (1), Boots (1), Bed (1). Drawer (11) is closed. 
+Act: open Drawer (11)
+You open Drawer (11). You see Watch (2, 3), Pencil (1), Pen (2), Mug (1), KeyChain (1), Dresser (1), Drawer (3, 4, 8, 11), DeskLamp (1), CD (1), Boots (1), Bed (1).
+Act: go to Drawer (13)
+You arrive at Drawer (13). You see Watch (2, 3), Pencil (1), Pen (2, 3), Mug (1), KeyChain (1), Dresser (1), Drawer (3, 4, 8, 11), DeskLamp (1), Boots (1). Drawer (13) is closed. 
+Act: open Drawer (13)
+You open Drawer (13). You see Watch (2, 3), Pencil (1), Pen (2, 3), Mug (1), KeyChain (1), Dresser (1), Drawer (3, 4, 8, 11, 13), DeskLamp (1), Boots (1).
+Act: go to Drawer (15)
+You arrive at Drawer (15). You see Watch (2), Pencil (1), Pen (2), Mug (1), KeyChain (1), Dresser (1), Drawer (3, 4, 8, 11, 13), CD (1), Bed (1). Drawer (15) is closed. 
+Act: open Drawer (15)
+You open Drawer (15). You see Watch (2), Pencil (1), Pen (2), Mug (1), KeyChain (1), Dresser (1), Drawer (3, 4, 8, 11, 13, 15), CD (1), Bed (1).
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Pen (2, 3), Dresser (1), Drawer (3, 4, 8, 11, 13, 15), Boots (1). Drawer (3) is open. 
+Act: close Drawer (3)
+You close Drawer (3). You see Pen (2, 3), Dresser (1), Drawer (4, 8, 11, 13, 15), Boots (1).
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Pencil (1), Pen (2), Mug (1), KeyChain (1), Dresser (1), Drawer (4, 8, 11, 13, 15), CD (1), Bed (1). Drawer (4) is open. 
+Act: close Drawer (4)
+You close Drawer (4). You see Pencil (1), Pen (2), Mug (1), KeyChain (1), Dresser (1), Drawer (8, 11, 13, 15), CD (1), Bed (1).
+Act: go to Drawer (8)
+You arrive at Drawer (8). You see Watch (2, 3), Pencil (1), Pen (2), Mug (1), KeyChain (1), Dresser (1), Drawer (8, 11, 13, 15), DeskLamp (1), Boots (1), Bed (1). Drawer (8) is open. 
+Act: close Drawer (8)
+You close Drawer (8). You see Watch (1, 2, 3), Pencil (1), Mug (1), KeyChain (1), Dresser (1), Drawer (4, 8, 11, 13, 15), DeskLamp (1), Boots (1), Bed (1).
+Act: go to Drawer (11)
+You arrive at Drawer (11). You see Watch (1, 2, 3), Pencil (1), Mug (1), KeyChain (1), Dresser (1), Drawer (8, 11, 13, 15), DeskLamp (1), CD (1), Bed (1). Drawer (11) is open. 
+Act: close Drawer (11)
+You close Drawer (11). You see Watch (1, 2, 3), Pencil (1), Mug (1), KeyChain (1), Dresser (1), Drawer (4, 8, 11, 12, 13, 15), DeskLamp (1), CD (1), Bed (1).
+Act: go to Drawer (13)
+You arrive at Drawer (13). You see Watch (1), KeyChain (1), Dresser (1), Drawer (4, 8, 11, 13, 15), DeskLamp (1), Boots (1), Bed (1). Drawer (13) is open. 
+Act: close Drawer (13)
+You close Drawer (13). You see KeyChain (1), Dresser (1), Drawer (3, 4, 5, 8, 11, 12, 13, 15), DeskLamp (1), Boots (1), Bed (1).
+Act: go to Drawer (15)
+You arrive at Drawer (15). You see Mug (1), Dresser (1), Drawer (3, 4, 8, 11, 12, 13, 15), CD (1), Boots (1), Bed (1). Drawer (15) is open. 
+Act: close Drawer (15)
+You close Drawer (15). You see Mug (1), Dresser (1), Drawer (3, 4, 5, 8, 11, 12, 13, 15), CD (1), Boots (1), Bed (1).
+Act: go to Mug (1)
+You arrive at Mug (1). You see Watch (2, 3), Pencil (1), Mug (1), KeyChain (1), Dresser (1), Drawer (4, 8, 11, 12, 13), DeskLamp (1), CD (1), Bed (1). 
+Act: go to Pencil (1)
+You see Watch (2, 3), Pencil (1), Mug (1), KeyChain (1), Dresser (1), Drawer (4, 8, 11, 13), DeskLamp (1), CD (1), Bed (1). 
+Act: go to KeyChain (1)
+You see Watch (2, 3), Pencil (1), Mug (1), KeyChain (1), Dresser (1), Drawer (4, 8, 11, 13), DeskLamp (1), CD (1), Boots (1), Bed (1). 
+Act: go to Dresser (1)
+You arrive at Dresser (1). You see Pencil (1), Mug (1), KeyChain (1), Dresser (1), Drawer (3, 4, 5, 8, 11, 12, 13, 15), DeskLamp (1), CD (1), Boots (1), Bed (1). 
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Pencil (1), KeyChain (1), Dresser (1), Drawer (3, 4, 5, 8, 11, 12, 13, 15), DeskLamp (1), Boots (1), Bed (1). Drawer (3) is closed. 
+Act: open Drawer (3)
+You open Drawer (3). You see Pencil (1), KeyChain (1), Dresser (1), Drawer (3, 4, 5, 8, 11, 12, 13, 15), DeskLamp (1), Boots (1), Bed (1).
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Watch (2, 3), Pencil (1), Mug (1), KeyChain (1), Dresser (1), Drawer (3, 4, 5, 8, 11, 12, 13, 15), DeskLamp (1), CD (1), Boots (1), Bed (1). Drawer (4) is closed. 
+Act: open Drawer (4)
+You open Drawer (4). You see Watch (2, 3), Pencil (1), Pen (3), Mug (1), KeyChain (1), Dresser (1), Drawer (3, 4, 8, 11, 12, 13), DeskLamp (1), CD (1), Boots (1), Bed (1).
+Act: go to Drawer (8)
+You arrive at Drawer (8). You see Watch (2, 3), Pencil (1), Pen (3), Mug (1), KeyChain (1), Dresser (1), Drawer (3, 4, 8, 11, 12, 13, 15), DeskLamp (1), Boots (1). Drawer (8) is closed. 
+Act: open Drawer (8)
+You open Drawer (8). You see Watch (2, 3), Pencil (1), Pen (2, 3), Mug (1), KeyChain (1), Dresser (1), Drawer (3, 4, 8, 11), DeskLamp (1), Boots (1).
+Act: go to Drawer (11)
+You arrive at Drawer (11). You see Watch (2, 3), Pencil (1), Pen (2, 3), Mug (1), KeyChain (1), Dresser (1), Drawer (3, 4, 8, 11, 13), DeskLamp (1), CD (1), Boots (1), Bed (1). Drawer (11) is closed. 
+Act: open Drawer (11)
+You open Drawer (11). You see Watch (2, 3), Pencil (1), Pen (2), Mug (1), KeyChain (1), Dresser (1), Drawer (3, 4, 8, 11), DeskLamp (1), CD (1), Boots (1), Bed (1).
+Act: go to Drawer (13)
+You arrive at Drawer (13). You see Watch (2, 3), Pencil (1), Pen (2, 3), Mug (1), KeyChain (1), Dresser (1), Drawer (3, 4, 8, 11), DeskLamp (1), Boots (1). Drawer (13) is closed. 
+Act: open Drawer (13)
+You open Drawer (13). You see Watch (2, 3), Pencil (1), Pen (2, 3), Mug (1), KeyChain (1), Dresser (1), Drawer (3, 4, 8, 11, 13), DeskLamp (1), Boots (1).
+Act: go to Drawer (15)
+You arrive at Drawer (15). You see Watch (2), Pencil (1), Pen (2), Mug (1), KeyChain (1), Dresser (1), Drawer (3, 4, 8, 11, 13), CD (1), Bed (1). Drawer (15) is closed. 
+Act: open Drawer (15)
+You open Drawer (15). You see Watch (2), Pencil (1), Pen (2), Mug (1), KeyChain (1), Dresser (1), Drawer (3, 4, 8, 11, 13, 15), CD (1), Bed (1).
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Pen (2, 3), Dresser (1), Drawer (3, 4, 8, 11, 13, 15), Boots (1). Drawer (3) is open. 
+Act: close Drawer (3)
+You close Drawer (3). You see Pen (2, 3), Dresser (1), Drawer (4, 8, 11, 13, 15), Boots (1).
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Pencil (1), Pen (2), Mug (1), KeyChain (1), Dresser (1), Drawer (4, 8, 11, 13, 15), CD (1), Bed (1). Drawer (4) is open. 
+Act: close Drawer (4)
+You close Drawer (4). You see Pencil (1), Pen (2), Mug (1), KeyChain (1), Dresser (1), Drawer (8, 11, 13, 15), CD (1), Bed (1).
+Act: go to Drawer (8)
+You arrive at Drawer (8). You see Watch (2, 3), Pencil (1), Pen (2), Mug (1), KeyChain (1), Dresser (1), Drawer (8, 11, 13, 15), DeskLamp (1), Boots (1), Bed (1). Drawer (8) is open. 
+Act: close Drawer (8)
+You close Drawer (8). You see Watch (1, 2, 3), Pencil (1), Mug (1), KeyChain (1), Dresser (1), Drawer (4, 8, 11, 13, 15), DeskLamp (1), Boots (1), Bed (1).
+Act: go to Drawer (11)
+You arrive at Drawer (11). You see Watch (1, 2, 3), Pencil (1), Mug (1), KeyChain (1), Dresser (1), Drawer (8, 11, 13, 15), DeskLamp (1), CD (1), Bed (1). Drawer (11) is open. 
+Act: close Drawer (11)
+You close Drawer (11). You see Watch (1, 2, 3), Pencil (1), Mug (1), KeyChain (1), Dresser (1), Drawer (4, 8, 11, 12, 13, 15), DeskLamp (1), CD (1), Bed (1).
+Act: go to Drawer (13)
+You arrive at Drawer (13). You see Watch (1), KeyChain (1), Dresser (1), Drawer (4, 8, 11, 13, 15), DeskLamp (1), Boots (1), Bed (1). Drawer (13) is open. 
+Act: close Drawer (13)
+You close Drawer (13). You see KeyChain (1), Dresser (1), Drawer (3, 4, 5, 8, 11, 12, 13, 15), DeskLamp (1), Boots (1), Bed (1).
+Act: go to Drawer (15)
+You arrive at Drawer (15). You see Mug (1), Dresser (1), Drawer (3, 4, 8, 11, 12, 13, 15), CD (1), Boots (1), Bed (1). Drawer (15) is open. 
+Act: close Drawer (15)
+You close Drawer (15). You see Mug (1), Dresser (1), Drawer (3, 4, 5, 8, 11, 12, 13, 15), CD (1), Boots (1), Bed (1).
+Act: go to Mug (1)
+You arrive at Mug (1). You see Watch (2, 3), Pencil (1), Mug (1), KeyChain (1), Dresser (1), Drawer (4, 8, 11, 12, 13), DeskLamp (1), CD (1), Bed (1). 
+Act: go to Pencil (1)
+You see Watch (2, 3), Pencil (1), Mug (1), KeyChain (1), Dresser (1), Drawer (4, 8, 11, 13), DeskLamp (1), CD (1), Bed (1). 
+Act: go to KeyChain (1)
+You see Watch (2, 3), Pencil (1), Mug (1), KeyChain (1), Dresser (1), Drawer (4, 8, 11, 13), DeskLamp (1), CD (1), Boots (1), Bed (1). 
+Act: go to Dresser (1)
+You arrive at Dresser (1). You see Pencil (1), Mug (1), KeyChain (1), Dresser (1), Drawer (3, 4, 5, 8, 11, 12, 13, 15), DeskLamp (1), CD (1), Boots (1), Bed (1). 
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Pencil (1), KeyChain (1), Dresser (1), Drawer (3, 4, 5, 8, 11, 12, 13, 15), DeskLamp (1), Boots (1), Bed (1). Drawer (3) is closed. 
+Act: open Drawer (3)
+You open Drawer (3). You see Pencil (1), KeyChain (1), Dresser (1), Drawer (3, 4, 5, 8, 11, 12, 13, 15), DeskLamp (1), Boots (1), Bed (1).
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Watch (2, 3), Pencil (1), Mug (1), KeyChain (1), Dresser (1), Drawer (3, 4, 5, 8, 11, 12, 13, 15), DeskLamp (1), CD (1), Boots (1), Bed (1). Drawer (4) is closed. 
+Act: open Drawer (4)
+You open Drawer (4). You see Watch (2, 3), Pencil (1), Pen (3), Mug (1), KeyChain (1), Dresser (1), Drawer (3, 4, 8, 11, 12, 13), DeskLamp (1), CD (1), Boots (1), Bed (1).
+Act: go to Drawer (8)
+You arrive at Drawer (8). You see Watch (2, 3), Pencil (1), Pen (3), Mug (1), KeyChain (1), Dresser (1), Drawer (3, 4, 8, 11, 12, 13, 15), DeskLamp (1), Boots (1). Drawer (8) is closed. 
+Act: open Drawer (8)
+You open Drawer (8). You see Watch (2, 3), Pencil (1), Pen (2, 3), Mug (1), KeyChain (1), Dresser (1), Drawer (3, 4, 8, 11), DeskLamp (1), Boots (1).
+Act: go to Drawer (11)
+You arrive at Drawer (11). You see Watch (2, 3), Pencil (1), Pen (2, 3), Mug (1), KeyChain (1), Dresser (1), Drawer (3, 4, 8, 11, 13), DeskLamp (1), CD (1), Boots (1), Bed (1). Drawer (11) is closed. 
+Act: open Drawer (11)
+You open Drawer (11). You see Watch (2, 3), Pencil (1), Pen (2), Mug (1), KeyChain (1), Dresser (1), Drawer (3, 4, 8, 11), DeskLamp (1), CD (1), Boots (1), Bed (1).
+Act: go to Drawer (13)
+You arrive at Drawer (13). You see Watch (2, 3), Pencil (1), Pen (2, 3), Mug (1), KeyChain (1), Dresser (1), Drawer (3, 4, 8, 11), DeskLamp (1), Boots (1). Drawer (13) is closed. 
+Act: open Drawer (13)
+You open Drawer (13). You see Watch (2, 3), Pencil (1), Pen (2, 3), Mug (1), KeyChain (1), Dresser (1), Drawer (3, 4, 8, 11, 13), DeskLamp (1), Boots (1).
+Act: go to Drawer (15)
+You arrive at Drawer (15). You see Watch (2), Pencil (1), Pen (2), Mug (1), KeyChain (1), Dresser (1), Drawer (3, 4, 8, 11, 13), CD (1), Bed (1). Drawer (15) is closed. 
+Act: open Drawer (15)
+You open Drawer (15). You see Watch (2), Pencil (1), Pen (2), Mug (1), KeyChain (1), Dresser (1), Drawer (3, 4, 8, 11, 13, 15), CD (1), Bed (1).
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Pen (2, 3), Dresser (1), Drawer (3, 4, 8, 11, 13, 15), Boots (1). Drawer (3) is open. 
+Act: close Drawer (3)
+You close Drawer (3). You see Pen (2, 3), Dresser (1), Drawer (4, 8, 11, 13, 15), Boots (1).
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Pencil (1), Pen (2), Mug (1), KeyChain (1), Dresser (1), Drawer (4, 8, 11, 13, 15), CD (1), Bed (1). Drawer (4) is open. 
+Act: close Drawer (4)
+You close Drawer (4). You see Pencil (1), Pen (2), Mug (1), KeyChain (1), Dresser (1), Drawer (8, 11, 13, 15), CD (1), Bed (1).
+Act: go to Drawer (8)
+You arrive at Drawer (8). You see Watch (2, 3), Pencil (1), Pen (2), Mug (1), KeyChain (1), Dresser (1), Drawer (8, 11, 13, 15), DeskLamp (1), Boots (1), Bed (1). Drawer (8) is open. 
+Act: close Drawer (8)
+You close Drawer (8). You see Watch (1, 2, 3), Pencil (1), Mug (1), KeyChain (1), Dresser (1), Drawer (4, 8, 11, 13, 15), DeskLamp (1), Boots (1), Bed (1).
+Act: go to Drawer (11)
+You arrive at Drawer (11). You see Watch (1, 2, 3), Pencil (1), Mug (1), KeyChain (1), Dresser (1), Drawer (8, 11, 13, 15), DeskLamp (1), CD (1), Bed (1). Drawer (11) is open. 
+Act: close Drawer (11)
+You close Drawer (11). You see Watch (1, 2, 3), Pencil (1), Mug (1), KeyChain (1), Dresser (1), Drawer (4, 8, 11, 12, 13, 15), DeskLamp (1), CD (1), Bed (1).
+Act: go to Drawer (13)
+You arrive at Drawer (13). You see Watch (1), KeyChain (1), Dresser (1), Drawer (4, 8, 11, 13, 15), DeskLamp (1), Boots (1), Bed (1). Drawer (13) is open. 
+Max decisions

@@ -1,0 +1,15 @@
+Your primary goal is to: place basketball on cabinet
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up basketball, and place basketball on cabinet.
+Your task is to: place basketball on cabinet
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1), LaundryHamper (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5), Desk (1), Bed (1). I am holding AlarmClock (1) now.
+Think: I hold AlarmClock (1). Now, I need to put it on the cabinet. I can see Cabinet (1).
+OK.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Window (1), Pencil (2), Pen (2), Mug (2), Dresser (1), Drawer (1, 4), DeskLamp (1), CD (1), Box (1), AlarmClock (1). Drawer (1) is closed.  I am holding AlarmClock (1) now.
+Act: open Drawer (1)
+You open Drawer (1). You see Window (1), Pencil (2), Pen (2), Mug (2), Dresser (1), Drawer (1, 4), DeskLamp (1), CD (1), Box (1), AlarmClock (1). I am holding AlarmClock (1) now.
+Act: put down AlarmClock (1)
+You put down failed, drop it. You see Window (1), Pen (2), Mug (2), Dresser (1), Drawer (1, 4), DeskLamp (1), Box (1), AlarmClock (1).
+Think: I failed to put down AlarmClock (1).
+OK.
+Act: failure

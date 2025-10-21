@@ -1,0 +1,37 @@
+Your task is to: Put a knife on a small black table.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11).
+Think: To solve the task, I need to find and pick up the knife, then put it on the small black table.
+OK.
+Think: First, I need to recall location of the knife.
+OK.
+Act: recall location of Knife
+You have not seen Knife before.
+Think: Now I need to find the knife. The knife is more likely to appear on DiningTable (1-2), SideTable (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-11), Drawer (1-3). I can check each place one by one, starting from DiningTable (1), until I find the knife.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spoon (1), Pot (1), Pan (1), Lettuce (1), Fork (1), DiningTable (1), Cup (3), ButterKnife (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see PepperShaker (3), Knife (1), DiningTable (2), Bread (1), Bowl (1). 
+Think: I find Knife (1). Now, I need to pick it up.
+OK.
+Act: pick up Knife (1)
+You pick up Knife (1). You see PepperShaker (3), Knife (1), DiningTable (2), Bread (1), Bowl (1). I am holding Knife (1) now.
+Think: I hold Knife (1). Now, I need to recall location of the small black table.
+OK.
+Act: recall location of DeskLamp
+You have not seen DeskLamp before.
+Think: Now I need to find the small black table. The small black table is more likely to appear on DiningTable (1-2), SideTable (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-11), Drawer (1-3). I can check each place one by one, starting from DiningTable (1), until I find the small black table.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spoon (1), Pot (1), Pan (1), Lettuce (1), Knife (1), Fork (1), DiningTable (1), Cup (3), ButterKnife (1).  I am holding Knife (1) now.
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see PepperShaker (3), Knife (1), DiningTable (2), Bread (1), Bowl (1).  I am holding Knife (1) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), SaltShaker (1), Potato (1, 2), Mug (2), Knife (1), DishSponge (3), DiningTable (2), Bread (1, 2), Apple (2).  I am holding Knife (1) now.
+Think: I find DeskLamp (1). Now, I need to put Knife (1) on DeskLamp (1).
+OK.
+Act: put down Knife (1)
+You put Knife (1) on SideTable (1). You see SideTable (1), SaltShaker (1), Potato (1, 2), Mug (2), Knife (1), DishSponge (3), DiningTable (2), Bread (1, 2), Apple (2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

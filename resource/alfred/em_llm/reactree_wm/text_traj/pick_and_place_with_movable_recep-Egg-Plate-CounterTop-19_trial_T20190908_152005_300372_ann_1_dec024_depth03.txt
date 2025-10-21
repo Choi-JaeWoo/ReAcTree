@@ -1,0 +1,21 @@
+Your primary goal is to: Put a plate with an egg on it on the counter.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up plate, place plate on counter, find and pick up egg, and place egg on plate near counter.
+Your task is to: place egg on plate near counter
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21). I am holding Egg (1) now.
+Think: I hold Egg (1). Now, I need to recall location of the plate.
+OK.
+Act: recall location of Plate
+You saw Plate (1) near CounterTop (1).
+Think: I can find Plate (1) near CounterTop (1). 
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (2), SaltShaker (2), Plate (1), Microwave (1), Egg (1), Drawer (4, 5), DishSponge (2), Cup (2), CounterTop (1), Cabinet (10, 11, 18, 21).  I am holding Egg (1) now.
+Think: I find Plate (1). Now, I need to put down Egg (1) on Plate (1).
+OK.
+Act: go to Plate (1)
+You arrive at Plate (1). You see StoveBurner (1), SaltShaker (2), Pot (1), Plate (1), Microwave (1), Egg (1), Drawer (4, 5), DishSponge (2), Cup (2), CounterTop (1), Cabinet (10, 18, 21).  I am holding Egg (1) now.
+Act: put down Egg (1)
+You put Egg (1) on Plate (1). You see StoveBurner (1), SaltShaker (2), Pot (1), Plate (1), Microwave (1), Egg (1), Drawer (4, 5), DishSponge (2), Cup (2), CounterTop (1), Cabinet (10, 18, 21).
+Think: Now I accomplish the goal.
+OK.
+Act: done

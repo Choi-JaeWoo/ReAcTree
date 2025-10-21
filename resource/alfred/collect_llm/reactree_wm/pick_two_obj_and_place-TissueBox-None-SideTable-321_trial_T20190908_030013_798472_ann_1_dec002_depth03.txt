@@ -1,0 +1,23 @@
+Your primary goal is to: Move two tissue boxes to a small black table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up tissue box, place tissue box on table, find and pick up tissue box away from table, and place tissue box on table.
+Your task is to: find and pick up tissue box
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1, 2), GarbageCan (1), Drawer (1, 2), DiningTable (1), Bed (1), ArmChair (1).
+Think: First, I need to recall location of the tissue box.
+OK.
+Act: recall location of TissueBox
+You have not seen TissueBox before.
+Think: Now, I need to find the tissue box. The tissue box is more likely to appear on SideTable (1-2), DiningTable (1), Drawer (1-2), or in GarbageCan (1). I can check each place one by one, starting from SideTable (1), until I find the tissue box.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), Mirror (1), Drawer (2), CreditCard (2), CellPhone (2), Bed (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), Lamp (2), Drawer (1), Bed (1), ArmChair (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see TissueBox (1, 2), Pencil (1, 3), Pen (1, 2), Lamp (1), GarbageCan (1), DiningTable (1), CreditCard (1), CellPhone (1), Book (2), AlarmClock (1). 
+Think: I find TissueBox (1). Now, I need to pick it up.
+OK.
+Act: pick up TissueBox (1)
+You pick up TissueBox (1). You see TissueBox (1, 2), Pencil (1, 3), Pen (1, 2), Lamp (1), GarbageCan (1), DiningTable (1), CreditCard (1), CellPhone (1), Book (2), AlarmClock (1). I am holding TissueBox (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

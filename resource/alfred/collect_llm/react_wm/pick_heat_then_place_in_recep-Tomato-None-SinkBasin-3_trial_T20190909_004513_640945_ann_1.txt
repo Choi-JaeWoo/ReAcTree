@@ -1,0 +1,112 @@
+Your task is to: Put a heated tomato in the sink.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: To solve the task, I need to find and pick up the tomato. And I need to find and heat the tomato. And I need to put down the tomato in the sink.
+OK.
+Think: First, I need to recall location of the tomato.
+OK.
+Act: recall location of Tomato
+You have not seen Tomato before.
+Think: Now I need to find the tomato. The tomato is more likely to appear on CounterTop (1), SinkBasin (1), or in Fridge (1), Mircowave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the tomato.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Lettuce (2), Knife (2), Cup (1), CounterTop (1), Bread (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (2), Sink (1), SinkBasin (1), Lettuce (1), HousePlant (1), Fork (2), Faucet (1), Drawer (2, 4), CounterTop (1). 
+Think: I find Tomato (2). Now, I need to pick it up.
+OK.
+Act: pick up Tomato (2)
+You pick up Tomato (2). You see Tomato (2), Sink (1), SinkBasin (1), Lettuce (1), HousePlant (1), Fork (2), Faucet (1), Drawer (2, 4), CounterTop (1). I am holding Tomato (2) now.
+Think: I hold Tomato (2). Now, I need to recall location of the stove burner.
+OK.
+Act: recall location of Statue
+You have not seen Statue before.
+Think: Now I need to find the stove burner. The stove burner is more likely to appear on CounterTop (1), SinkBasin (1), or in Fridge (1), Mircowave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the stove burner.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Tomato (2), Lettuce (2), Knife (2), Cup (1), CounterTop (1), Bread (1).  I am holding Tomato (2) now.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (2), Sink (1), SinkBasin (1), Lettuce (1), HousePlant (1), Fork (2), Faucet (1), Drawer (2, 4), CounterTop (1).  I am holding Tomato (2) now.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (2), Fridge (1), Drawer (1). Fridge (1) is closed.  I am holding Tomato (2) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Tomato (2), Fridge (1), Drawer (1). I am holding Tomato (2) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see WineBottle (1), Tomato (2), SideTable (1), SaltShaker (1), PepperShaker (3), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (1) is closed.  I am holding Tomato (2) now.
+Act: open Drawer (1)
+You open Drawer (1). You see WineBottle (1), Tomato (2), SideTable (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). I am holding Tomato (2) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see WineBottle (1), Tomato (2), SideTable (1), PepperShaker (3), Microwave (1), Fridge (1).  I am holding Tomato (2) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see WineBottle (1), Tomato (2), SideTable (1), PepperShaker (3), Microwave (1), Fridge (1). Microwave (1) is closed.  I am holding Tomato (2) now.
+Act: open Microwave (1)
+You open Microwave (1). You see Tomato (2), SideTable (1), Microwave (1), Fridge (1). I am holding Tomato (2) now.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (2), Fridge (1). Fridge (1) is open.  I am holding Tomato (2) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Tomato (2), SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (1) is open.  I am holding Tomato (2) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see WineBottle (1), Tomato (2), SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (3) is closed.  I am holding Tomato (2) now.
+Act: open Drawer (3)
+The Drawer (3) is open failed. I am holding Tomato (2) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Tomato (2), SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (5) is closed.  I am holding Tomato (2) now.
+Act: open Drawer (5)
+The Drawer (5) is open failed. I am holding Tomato (2) now.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Tomato (2), SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (6) is closed.  I am holding Tomato (2) now.
+Act: open Drawer (6)
+The Drawer (6) is open failed. I am holding Tomato (2) now.
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see Tomato (2), SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (7) is closed.  I am holding Tomato (2) now.
+Act: open Drawer (7)
+The Drawer (7) is open failed. I am holding Tomato (2) now.
+Act: go to Drawer (8)
+You arrive at Drawer (8). You see WineBottle (1), Tomato (2), SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (8) is closed.  I am holding Tomato (2) now.
+Act: open Drawer (8)
+The Drawer (8) is open failed. I am holding Tomato (2) now.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Tomato (2), Mug (1), CounterTop (1), CoffeeMachine (1), Chair (1), Cabinet (1). Cabinet (1) is closed.  I am holding Tomato (2) now.
+Act: open Cabinet (1)
+You open Cabinet (1). You see Tomato (2), SoapBottle (3), Plate (2), Mug (1), CounterTop (1), CoffeeMachine (1), Chair (1), Cabinet (1). I am holding Tomato (2) now.
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Tomato (2), PaperTowelRoll (1), Lettuce (2), Knife (2), GarbageCan (1), CounterTop (1), Cabinet (2, 4), Bread (1). Cabinet (2) is closed.  I am holding Tomato (2) now.
+Act: open Cabinet (2)
+You open Cabinet (2). You see Tomato (2), Plate (1), PaperTowelRoll (1), Lettuce (2), Knife (2), Kettle (2), GarbageCan (1), CounterTop (1), Cabinet (2, 4), Bread (1), Bowl (1). I am holding Tomato (2) now.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see Tomato (2), HousePlant (1), Drawer (4), CounterTop (1), Cabinet (2, 4), Bowl (1). Cabinet (4) is closed.  I am holding Tomato (2) now.
+Act: open Cabinet (4)
+You open Cabinet (4). You see Tomato (2), HousePlant (1), CounterTop (1), Cabinet (2, 4), Bowl (1). I am holding Tomato (2) now.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Tomato (2), Lettuce (2), Knife (2), Cup (1), CounterTop (1), Bread (1).  I am holding Tomato (2) now.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (2), Sink (1), SinkBasin (1), Lettuce (1), HousePlant (1), Fork (2), Faucet (1), Drawer (2, 4), CounterTop (1).  I am holding Tomato (2) now.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (2), Fridge (1). Fridge (1) is open.  I am holding Tomato (2) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Tomato (2), SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (1) is open.  I am holding Tomato (2) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see WineBottle (1), Tomato (2), SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (3) is closed.  I am holding Tomato (2) now.
+Act: open Drawer (3)
+The Drawer (3) is open failed. I am holding Tomato (2) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Tomato (2), SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (5) is closed.  I am holding Tomato (2) now.
+Act: open Drawer (5)
+The Drawer (5) is open failed. I am holding Tomato (2) now.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Tomato (2), SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (6) is closed.  I am holding Tomato (2) now.
+Act: open Drawer (6)
+The Drawer (6) is open failed. I am holding Tomato (2) now.
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see Tomato (2), SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (7) is closed.  I am holding Tomato (2) now.
+Act: open Drawer (7)
+The Drawer (7) is open failed. I am holding Tomato (2) now.
+Act: go to Drawer (8)
+You arrive at Drawer (8). You see WineBottle (1), Tomato (2), SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (8) is closed.  I am holding Tomato (2) now.
+Act: open Drawer (8)
+The Drawer (8) is open failed. I am holding Tomato (2) now.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Tomato (2), SoapBottle (3), Plate (2), Mug (1), CounterTop (1), CoffeeMachine (1), Chair (1), Cabinet (1). Cabinet (1) is open.  I am holding Tomato (2) now.
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Tomato (2), Plate (1), PaperTowelRoll (1), Lettuce (2), Knife (2), Kettle (2), GarbageCan (1), CounterTop (1), Cabinet (2), Bread (1), Bowl (1). Cabinet (2) is open.  I am holding Tomato (2) now.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see Tomato (2), HousePlant (1), CounterTop (1), Cabinet (2, 4), Bowl (1). Cabinet (4) is open.  I am holding Tomato (2) now.

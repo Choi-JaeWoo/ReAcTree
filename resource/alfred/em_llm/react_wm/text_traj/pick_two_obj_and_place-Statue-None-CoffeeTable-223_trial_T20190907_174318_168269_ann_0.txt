@@ -1,0 +1,43 @@
+Your task is to: Put two statues on the coffee table.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), GarbageCan (1), DiningTable (1, 2), CoffeeTable (1), ArmChair (1, 2, 3).
+Think: To solve the task, I need to find and pick up the statues, then put them on the coffee table.
+OK.
+Think: First, I need to recall location of the statues.
+OK.
+Act: recall location of Statue
+You have not seen Statue before.
+Think: Now I need to find the statues. The statues are more likely to appear on CoffeeTable (1), DiningTable (1-2), or in TVStand (1), Cabinet (1-2), Drawer (1-2). I can check each place one by one, starting from CoffeeTable (1), until I find the statues.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Plate (1), KeyChain (2), CreditCard (3), CoffeeTable (1), Candle (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2), Statue (1, 2), DiningTable (1), Chair (1, 2), Box (1). 
+Think: I find Statue (1). Now, I need to pick it up.
+OK.
+Act: pick up Statue (1)
+You pick up Statue (1). You see Vase (1, 2), Statue (1, 2), DiningTable (1), Chair (1, 2), Box (1). I am holding Statue (1) now.
+Think: I hold Statue (1). Now, I need to put it on the coffee table.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Statue (1), Plate (1), KeyChain (2), CreditCard (3), CoffeeTable (1), Candle (1).  I am holding Statue (1) now.
+Act: put down Statue (1)
+You put Statue (1) on CoffeeTable (1). You see Statue (1), Plate (1), KeyChain (2), CreditCard (3), CoffeeTable (1), Candle (1).
+Think: I put Statue (1) on the CoffeeTable (1). Now, I need to recall location of the statues.
+OK.
+Act: recall location of Statue
+You saw Statue (1) near CoffeeTable (1). You saw Statue (2) near DiningTable (1).
+Think: Statue (2) is on the DiningTable (1). Now, I need to pick it up.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2), Statue (2), DiningTable (1), Chair (1, 2), Box (1). 
+Act: pick up Statue (2)
+You pick up Statue (2). You see Vase (1, 2), Statue (2), DiningTable (1), Chair (1, 2), Box (1). I am holding Statue (2) now.
+Think: I hold Statue (2). Now, I need to put it on the coffee table.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Statue (1, 2), CoffeeTable (1), Candle (1).  I am holding Statue (2) now.
+Act: put down Statue (2)
+You put Statue (2) on CoffeeTable (1). You see Statue (1, 2), Plate (1), KeyChain (2), CreditCard (3), CoffeeTable (1), Candle (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

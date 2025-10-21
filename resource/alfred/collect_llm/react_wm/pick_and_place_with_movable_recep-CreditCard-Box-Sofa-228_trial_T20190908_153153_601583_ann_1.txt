@@ -1,0 +1,53 @@
+Your task is to: Put a cardboard box with a credit card in it on the couch.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1, 2), SideTable (1, 2), GarbageCan (1), Drawer (1), DiningTable (1), CoffeeTable (1).
+Think: To solve the task, I need to find and pick up the cardboard box, then put it on the couch. And I need to find and pick up the credit card, then put it in the cardboard box.
+OK.
+Think: First, I need to recall location of the cardboard box.
+OK.
+Act: recall location of Box
+You have not seen Box before.
+Think: Now I need to find the cardboard box. The cardboard box is more likely to appear on Sofa (1-2), SideTable (1-2), GarbageCan (1), Drawer (1), DiningTable (1), CoffeeTable (1). I can check each place one by one, starting from Sofa (1), until I find the cardboard box.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), RemoteControl (3). 
+Act: go to Sofa (2)
+You arrive at Sofa (2). You see Sofa (2), Pillow (1), CreditCard (3). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Statue (2), SideTable (1, 2), Drawer (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Television (1), SideTable (2), Plate (2), Newspaper (1). 
+Act: go to GarbageCan (1)
+You arrive at GarbageCan (1). You see GarbageCan (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Statue (2), SideTable (1, 2), Drawer (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Statue (2), SideTable (1, 2), KeyChain (1), Drawer (1).
+Think: I find Box (1). Now, I need to pick it up.
+OK.
+Act: pick up KeyChain (1)
+You pick up KeyChain (1). You see Statue (2), SideTable (1, 2), KeyChain (1), Drawer (1). I am holding KeyChain (1) now.
+Think: I hold KeyChain (1). Now, I need to put it on the couch.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), RemoteControl (3), KeyChain (1).  I am holding KeyChain (1) now.
+Act: put down KeyChain (1)
+You put KeyChain (1) on Sofa (1). You see Sofa (1), RemoteControl (3), KeyChain (1).
+Think: I put KeyChain (1) on Sofa (1). Now, I need to recall location of the credit card.
+OK.
+Act: recall location of CreditCard
+You saw CreditCard (3) near Sofa (2).
+Think: CreditCard (3) is on Sofa (2). Now, I need to pick it up.
+OK.
+Act: go to Sofa (2)
+You arrive at Sofa (2). You see Sofa (2), Pillow (1), CreditCard (3). 
+Act: pick up CreditCard (3)
+You pick up CreditCard (3). You see Sofa (2), Pillow (1), CreditCard (3). I am holding CreditCard (3) now.
+Think: I hold CreditCard (3). Now, I need to put it in the cardboard box.
+OK.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Statue (2), Sofa (2, 2), SideTable (1, 2), Pillow (1, 1), Drawer (1), CreditCard (3, 3, 3). Drawer (1) is open.  I am holding CreditCard (3) now.
+Act: put down CreditCard (3)
+You put CreditCard (3) on Drawer (1). You see Statue (2), SideTable (1, 2), Drawer (1), CreditCard (3).
+Think: Now I accomplish the goal.
+OK.
+Act: done

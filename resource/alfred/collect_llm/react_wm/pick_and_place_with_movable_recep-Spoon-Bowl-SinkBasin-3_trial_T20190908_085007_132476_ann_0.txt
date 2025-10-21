@@ -1,0 +1,109 @@
+Your task is to: Put a bowl with a spoon in it, in the sink. 
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: To solve the task, I need to find and pick up the bowl, then put it in the sink basin. And I need to find and pick up the spoon, then put it on the bowl in the sink basin.
+OK.
+Think: First, I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: Now I need to find the bowl. The bowl is more likely to appear on CounterTop (1), SinkBasin (1) or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the bowl.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spoon (2), Kettle (1), CounterTop (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (2), Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Lettuce (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1), Apple (1). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Drawer (1). Fridge (1) is closed. 
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Tomato (1), SideTable (1), SaltShaker (3), Microwave (1), Fridge (1). Microwave (1) is closed. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cup (3), CounterTop (1), CoffeeMachine (1), Chair (1), Cabinet (1). Cabinet (1) is closed. 
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Spoon (2), Kettle (1), GarbageCan (1), CounterTop (1), Cabinet (2, 4), Bread (1). Cabinet (2) is closed. 
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see Toaster (1), Pot (1), Drawer (2), DishSponge (1), CounterTop (1), Cabinet (3), Bread (2). Cabinet (3) is closed. 
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see HousePlant (1), Drawer (4), CounterTop (1), Cabinet (2, 4). Cabinet (4) is closed. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Tomato (1), SideTable (1), SaltShaker (3), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (1) is closed. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Spatula (1), Sink (1), Potato (2), Pot (1), Lettuce (1), Faucet (1), Drawer (2, 4), DishSponge (1), CounterTop (1), Cabinet (3). Drawer (2) is closed. 
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Tomato (1), SideTable (1), SaltShaker (3), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (3) is closed. 
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Tomato (2), Spoon (1), Sink (1), SinkBasin (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1), Cabinet (4). Drawer (4) is closed. 
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (5) is closed. 
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (6) is closed. 
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (7) is closed. 
+Act: go to Drawer (8)
+You arrive at Drawer (8). You see Tomato (1), SideTable (1), SaltShaker (3), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (8) is closed. 
+Think: I find Bowl (1). Now, I need to pick it up.
+OK.
+Act: pick up Tomato (1)
+You pick up Tomato (1). You see Tomato (1), SideTable (1), SaltShaker (3), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). I am holding Tomato (1) now.
+Think: I hold Tomato (1). Now, I need to put it in the sink basin.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (1, 2), Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Lettuce (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1), Apple (1).  I am holding Tomato (1) now.
+Act: put down Tomato (1)
+You put Tomato (1) on SinkBasin (1). You see Tomato (1, 2), Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Lettuce (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1), Apple (1).
+Think: I put Tomato (1) in the SinkBasin (1). Now, I need to recall location of the spoon.
+OK.
+Act: recall location of Spoon
+You saw Spoon (2) near Cabinet (2). You saw Spoon (1) near SinkBasin (1).
+Think: Spoon (1) is in the SinkBasin (1). Now, I need to pick it up.
+OK.
+Act: pick up Spoon (1)
+You pick up Spoon (1). You see Tomato (1, 2), Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Lettuce (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1), Apple (1). I am holding Spoon (1) now.
+Think: I hold Spoon (1). Now, I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: Now I need to find the bowl. The bowl is more likely to appear on CounterTop (1), SinkBasin (1) or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the bowl.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spoon (1, 2), Kettle (1), CounterTop (1).  I am holding Spoon (1) now.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (1, 2), Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Lettuce (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1), Apple (1).  I am holding Spoon (1) now.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Spoon (1), Fridge (1), Drawer (1). Fridge (1) is closed.  I am holding Spoon (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Spoon (1), SideTable (1), SaltShaker (3), Microwave (1), Fridge (1). Microwave (1) is closed.  I am holding Spoon (1) now.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Spoon (1), Cup (3), CounterTop (1), CoffeeMachine (1), Chair (1), Cabinet (1). Cabinet (1) is closed.  I am holding Spoon (1) now.
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Spoon (1, 2), Kettle (1), GarbageCan (1), CounterTop (1), Cabinet (2, 4), Bread (1). Cabinet (2) is closed.  I am holding Spoon (1) now.
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see Toaster (1), Spoon (1), Pot (1), Drawer (2), DishSponge (1), CounterTop (1), Cabinet (3), Bread (2). Cabinet (3) is closed.  I am holding Spoon (1) now.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see Spoon (1), HousePlant (1), Drawer (4), CounterTop (1), Cabinet (2, 4). Cabinet (4) is closed.  I am holding Spoon (1) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Spoon (1), SideTable (1), SaltShaker (3), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (1) is closed.  I am holding Spoon (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Spoon (1), Spatula (1), Sink (1), Potato (2), Pot (1), Lettuce (1), Faucet (1), Drawer (2, 4), DishSponge (1), CounterTop (1), Cabinet (3). Drawer (2) is closed.  I am holding Spoon (1) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Spoon (1), SideTable (1), SaltShaker (3), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (3) is closed.  I am holding Spoon (1) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Tomato (1, 2), Spoon (1), Sink (1), SinkBasin (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1), Cabinet (4). Drawer (4) is closed.  I am holding Spoon (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Spoon (1), SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (5) is closed.  I am holding Spoon (1) now.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Spoon (1), SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (6) is closed.  I am holding Spoon (1) now.
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see Spoon (1), SideTable (1), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (7) is closed.  I am holding Spoon (1) now.
+Act: go to Drawer (8)
+You arrive at Drawer (8). You see Spoon (1), SideTable (1), SaltShaker (3), Microwave (1), Fridge (1), Drawer (1, 3, 5, 6, 7, 8). Drawer (8) is closed.  I am holding Spoon (1) now.
+Think: I find Bowl (1). Now, I need to put Spoon (1) on Bowl (1).
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (1, 2), Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Lettuce (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1), Apple (1).  I am holding Spoon (1) now.
+Act: go to Tomato (1)
+You see Tomato (1, 2), Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Lettuce (1), HousePlant (1), Faucet (1), CounterTop (1).  I am holding Spoon (1) now.
+Act: put down Spoon (1)
+You put down failed, drop it. You see Tomato (1, 2), Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Lettuce (1), HousePlant (1), Faucet (1), CounterTop (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

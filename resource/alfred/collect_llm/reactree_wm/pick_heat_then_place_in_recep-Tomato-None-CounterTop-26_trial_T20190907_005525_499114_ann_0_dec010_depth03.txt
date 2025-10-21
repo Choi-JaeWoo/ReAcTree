@@ -1,0 +1,27 @@
+Your primary goal is to: Put a microwaved tomato onto the counter to the right of the sink.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up tomato, heat and pick up tomato, and place tomato on counter.
+Your task is to: heat and pick up tomato
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10). I am holding Tomato (3) now.
+Think: I hold Tomato (3). Now, I need to heat it using the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Tomato (3), Sink (1), SinkBasin (1), Plate (1), Microwave (1), Drawer (2), CounterTop (1), Cabinet (6). Microwave (1) is closed.  I am holding Tomato (3) now.
+Act: open Microwave (1)
+You open Microwave (1). You see Tomato (3), Sink (1), SinkBasin (1), Plate (1), Microwave (1), Drawer (2), CounterTop (1), Cabinet (6). I am holding Tomato (3) now.
+Act: put down Tomato (3)
+You put Tomato (3) on Microwave (1). You see Tomato (3), Sink (1), SinkBasin (1), Plate (1), Microwave (1), Drawer (2), CounterTop (1), Cabinet (6).
+Act: close Microwave (1)
+You close Microwave (1). You see Sink (1), SinkBasin (1), Plate (1), Microwave (1), Drawer (2), CounterTop (1), Cabinet (6).
+Act: turn on Microwave (1)
+You turn on Microwave (1). You see Sink (1), SinkBasin (1), Plate (1), Microwave (1), Drawer (2), CounterTop (1), Cabinet (6).
+Act: turn off Microwave (1)
+You turn off Microwave (1). You see Sink (1), SinkBasin (1), Plate (1), Microwave (1), Drawer (2), CounterTop (1), Cabinet (6).
+Think: I heat Tomato (3) using Microwave (1). Now, I need to pick up the tomato from the microwave.
+OK.
+Act: open Microwave (1)
+You open Microwave (1). You see Tomato (3), Sink (1), SinkBasin (1), Plate (1), Microwave (1), Drawer (2), CounterTop (1), Cabinet (6).
+Act: pick up Tomato (3)
+You pick up Tomato (3). You see Tomato (3), Sink (1), SinkBasin (1), Plate (1), Microwave (1), Drawer (2), CounterTop (1), Cabinet (6). I am holding Tomato (3) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

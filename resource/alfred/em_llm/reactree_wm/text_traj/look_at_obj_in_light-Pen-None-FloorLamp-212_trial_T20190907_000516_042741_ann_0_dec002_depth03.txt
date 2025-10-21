@@ -1,0 +1,21 @@
+Your primary goal is to: Grab the pen from the table, turn on the floor lamp
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pen, and turn on floor lamp.
+Your task is to: find and pick up pen
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1, 2), Sofa (1), SideTable (1), Shelf (1, 2, 3, 4), GarbageCan (1), Drawer (1), CoffeeTable (1), ArmChair (1, 2).
+Think: First, I need to recall location of the pen.
+OK.
+Act: recall location of Pen
+You have not seen Pen before.
+Think: Now, I need to find the pen. The pen is more likely to appear on CoffeeTable (1), SideTable (1), or in TVStand (1-2), Drawer (1). I can check each place one by one, starting from CoffeeTable (1), until I find the pen.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see TissueBox (1), RemoteControl (1, 2), Laptop (1), CoffeeTable (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Statue (1), SideTable (1), Pen (1), Drawer (1), Boots (1). 
+Think: I find Pen (1). Now, I need to pick it up.
+OK.
+Act: pick up Pen (1)
+You pick up Pen (1). You see Statue (1), SideTable (1), Pen (1), Drawer (1), Boots (1). I am holding Pen (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,19 @@
+Your primary goal is to: drop two spray containers in the cupboard
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up spray container, place spray container in cupboard, find and pick up spray container away from cupboard, and place spray container in cupboard.
+Your task is to: find and pick up spray container away from cupboard
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1), HandTowelHolder (1), GarbageCan (1), Drawer (1), CounterTop (1, 2), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9), BathtubBasin (1).
+Think: First, I need to recall location of the spray container.
+OK.
+Act: recall location of SprayBottle
+You saw SprayBottle (2) near Cabinet (1).
+Think: SprayBottle (2) is in Cabinet (1). I can find another spray container, SprayBottle (3), near CounterTop (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toilet (1), ToiletPaper (1), SoapBottle (2, 3), Sink (1), SinkBasin (1), Mirror (1), CounterTop (1, 2), Candle (2). 
+Think: I find SprayBottle (3). Now, I need to pick it up.
+OK.
+Act: pick up SoapBottle (3)
+You pick up SoapBottle (3). You see Toilet (1), ToiletPaper (1), SoapBottle (2, 3), Sink (1), SinkBasin (1), Mirror (1), CounterTop (1, 2), Candle (2). I am holding SoapBottle (3) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,41 @@
+Your task is to: place a cooled tomato on top of the table
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10).
+Think: To solve the task, I need to find and pick up the tomato, then put it in fridge. I need to pick up the tomato from the fridge, then put it on the table.
+OK.
+Think: First, I need to recall location of the tomato.
+OK.
+Act: recall location of Tomato
+You have not seen Tomato before.
+Think: Now I need to find the tomato. The tomato is more likely to appear on DiningTable (1), CounterTop (1-3), SinkBasin (1), or in Fridge (1), Mircowave (1), Cabinet (1-10), Drawer (1-6). I can check each place one by one, starting from DiningTable (1), until I find the tomato.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (1), Spoon (1), Spatula (1), SoapBottle (1), SaltShaker (1, 2, 3), Potato (1), Plate (1), Mug (1), Knife (1), Kettle (2), Egg (3), DishSponge (2), DiningTable (1), Cup (2), Chair (1), ButterKnife (2), Apple (1, 3). 
+Think: I find Tomato (1). Now, I need to pick it up.
+OK.
+Act: pick up Tomato (1)
+You pick up Tomato (1). You see Tomato (1), Spoon (1), Spatula (1), SoapBottle (1), SaltShaker (1, 2, 3), Potato (1), Plate (1), Mug (1), Knife (1), Kettle (2), Egg (3), DishSponge (2), DiningTable (1), Cup (2), Chair (1), ButterKnife (2), Apple (1, 3). I am holding Tomato (1) now.
+Think: I hold Tomato (1). Now, I need to put it in the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (1), Fridge (1), Cabinet (7). Fridge (1) is closed.  I am holding Tomato (1) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Tomato (1), Lettuce (2), Fridge (1). I am holding Tomato (1) now.
+Act: put down Tomato (1)
+You put Tomato (1) on Fridge (1). You see Tomato (1), Lettuce (2), Fridge (1).
+Act: close Fridge (1)
+You close Fridge (1). You see Fridge (1), Cabinet (7).
+Think: I put Tomato (1) in Fridge (1). Now, I need to pick up the tomato from the fridge.
+OK.
+Act: open Fridge (1)
+You open Fridge (1). You see Tomato (1), Lettuce (2), Fridge (1).
+Act: pick up Tomato (1)
+You pick up Tomato (1). You see Tomato (1), Lettuce (2), Fridge (1). I am holding Tomato (1) now.
+Think: I pick up Tomato (1) from Fridge (1). Now, I need to put it on the table.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (1), Spoon (1), Spatula (1), SoapBottle (1), SaltShaker (1, 2, 3), Potato (1), Plate (1), Mug (1), Knife (1), Kettle (2), Egg (3), DishSponge (2), DiningTable (1), Cup (2), Chair (1), ButterKnife (2), Apple (1, 3).  I am holding Tomato (1) now.
+Act: put down Tomato (1)
+You put Tomato (1) on DiningTable (1). You see Tomato (1), Spoon (1), Spatula (1), SoapBottle (1), SaltShaker (1, 2, 3), Potato (1), Plate (1), Mug (1), Knife (1), Kettle (2), Egg (3), DishSponge (2), DiningTable (1), Cup (2), Chair (1), ButterKnife (2), Apple (1, 3).
+Think: Now I accomplish the goal.
+OK.
+Act: done

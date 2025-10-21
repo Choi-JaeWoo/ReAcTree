@@ -1,0 +1,7 @@
+Your task is to: Slice an onion with a knife to put it in the fridge followed by place it on a shelf.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1, 2, 3), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: Since I’m not holding anything, I need to accomplish 5 subgoals sequentially to solve the task. Find and pick up knife, slice and pick up onion, place onion in fridge, find and pick up onion away from fridge, and place onion on shelf.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up knife, slice and pick up onion, place onion in fridge, find and pick up onion away from fridge, place onion on shelf

@@ -1,0 +1,21 @@
+Your primary goal is to: Put a mug with a pen in it on the long table. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up mug, place mug on table, find and pick up pen, and place pen in mug near table.
+Your task is to: place pen in mug near table
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1, 2), GarbageCan (1), Drawer (1, 2, 3, 4), DiningTable (1), Bed (1). I am holding Pen (1) now.
+Think: I hold Pen (1). Now, I need to recall location of the mug.
+OK.
+Act: recall location of Mug
+You saw Mug (1) near DiningTable (1).
+Think: I can find Mug (1) on DiningTable (1).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Pencil (1), Pen (1, 3, 4), Mug (1), Laptop (1), KeyChain (1, 2, 3), DiningTable (1), AlarmClock (1).  I am holding Pen (1) now.
+Think: I find Mug (1). Now, I need to put down Pen (1) in Mug (1).
+OK.
+Act: go to Mug (1)
+You arrive at Mug (1). You see Pencil (1), Pen (1, 3, 4), Mug (1), Laptop (1), KeyChain (1, 2, 3), DiningTable (1), AlarmClock (1).  I am holding Pen (1) now.
+Act: put down Pen (1)
+You put Pen (1) on Mug (1). You see Pencil (1), Pen (1, 3, 4), Mug (1), Laptop (1), KeyChain (1, 2, 3), DiningTable (1), AlarmClock (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

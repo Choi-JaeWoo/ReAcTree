@@ -1,0 +1,45 @@
+Your primary goal is to: Put a plate with a knife on it in the sink.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up plate, place plate in sink basin, find and pick up knife, and place knife on plate near sink basin.
+Your task is to: find and pick up plate
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27).
+Think: First, I need to recall location of the plate.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now, I need to find the plate. The plate is more likely to appear on DiningTable (1), CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-27), Drawer (1-12). I can check each place one by one, starting from DiningTable (1), until I find the plate.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2, 3), Spatula (1), SoapBottle (1, 2), SaltShaker (2), PaperTowelRoll (1), Lettuce (1, 2), Knife (1), DiningTable (1), Cup (1, 2, 3), Chair (1), ButterKnife (1, 2), Bread (1), Apple (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Pan (2), Knife (2), CounterTop (1). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Tomato (2), Toaster (1), Sink (1), Glassbottle (1), CounterTop (2), Bread (2). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Toaster (1), Sink (1), SinkBasin (1), Faucet (1), Drawer (4, 7), CounterTop (2), CoffeeMachine (1), Cabinet (8, 17). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Cabinet (8). Fridge (1) is closed. 
+Act: open Fridge (1)
+You open Fridge (1). You see Potato (1, 3), Fridge (1), Cabinet (8).
+Act: close Fridge (1)
+You close Fridge (1). You see Fridge (1), Cabinet (8).
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Pot (2), Microwave (1). Microwave (1) is closed. 
+Act: open Microwave (1)
+You open Microwave (1). You see Pot (2), Microwave (1), Bowl (1).
+Act: close Microwave (1)
+You close Microwave (1). You see Pot (2), Microwave (1).
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Microwave (1), Cabinet (1, 3, 12, 13). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see Microwave (1), Cabinet (1, 3, 12, 13).
+Act: close Cabinet (1)
+You close Cabinet (1). You see Microwave (1), Cabinet (1, 3, 12, 13).
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Plate (1), Knife (3), Drawer (1, 2, 10, 11), CounterTop (1), Cabinet (2, 10, 22, 27). Cabinet (2) is closed. 
+Think: I find Plate (1). Now, I need to pick it up.
+OK.
+Act: pick up Plate (1)
+You pick up Plate (1). You see Plate (1), Ladle (1), Knife (3), Drawer (1, 2, 10, 11), CounterTop (1), Cabinet (2, 10, 22, 27). I am holding Plate (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

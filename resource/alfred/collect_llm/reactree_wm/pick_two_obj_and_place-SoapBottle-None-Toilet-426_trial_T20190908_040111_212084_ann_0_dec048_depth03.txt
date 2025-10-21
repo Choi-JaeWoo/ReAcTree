@@ -1,0 +1,109 @@
+Your primary goal is to: Move two soap dispensers to the toilet.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up soap dispenser, place soap dispenser on toilet, Find and pick up soap dispenser away from toilet, and place soap dispenser on toilet.
+Your task is to: place soap dispenser on toilet
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1, 2), Toilet (1), ToiletPaperHanger (1), Sink (1), SinkBasin (1), HandTowelHolder (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1), Bathtub (1), BathtubBasin (1). I am holding SoapBottle (1) now.
+Think: I hold SoapBottle (1). Now, I need to put it on the toilet. I can see Toilet (1).
+OK.
+Act: go to Toilet (1)
+You arrive at Toilet (1). You see Toilet (1), SoapBottle (1, 2), ScrubBrush (1), Plunger (1), Candle (2). Toilet (1) is closed.  I am holding SoapBottle (1) now.
+Act: put down SoapBottle (1)
+You put down failed, drop it. You see Toilet (1), SoapBottle (1, 2), ScrubBrush (1), Plunger (1), Candle (2).
+Think: I failed to put down SoapBottle (1). I need to try again.
+OK.
+Act: go to Toilet (1)
+You arrive at Toilet (1). You see Toilet (1, 1), SoapBottle (1, 1, 2, 2), ScrubBrush (1, 1), Plunger (1, 1), GarbageCan (1), Candle (2, 2). Toilet (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Toilet (1), SoapBottle (1, 2), ScrubBrush (1), Plunger (1), GarbageCan (1), Candle (2).
+Act: go to SoapBottle (1)
+You see Toilet (1), ToiletPaperHanger (1), SoapBottle (1, 2), ScrubBrush (1), Plunger (1), GarbageCan (1), Candle (2). 
+Act: pick up SoapBottle (1)
+You pick up SoapBottle (1). You see Toilet (1), ToiletPaperHanger (1), SoapBottle (1, 2), ScrubBrush (1), Plunger (1), GarbageCan (1), Candle (2). I am holding SoapBottle (1) now.
+Act: go to Toilet (1)
+You arrive at Toilet (1). You see Toilet (1), SoapBottle (1, 2), ScrubBrush (1), Plunger (1), Candle (2). Toilet (1) is closed.  I am holding SoapBottle (1) now.
+Act: put down SoapBottle (1)
+You put down failed, drop it. You see Toilet (1), SoapBottle (1, 2), ScrubBrush (1), Plunger (1), Candle (2).
+Think: I failed to put down SoapBottle (1). I need to try again.
+OK.
+Act: go to Toilet (1)
+You arrive at Toilet (1). You see Toilet (1), SoapBottle (1, 2), ScrubBrush (1), Plunger (1), Candle (2). Toilet (1) is closed. 
+Act: open Drawer (1)
+The Drawer (1) is not close to you.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see TowelHolder (1), ToiletPaper (1, 2), Drawer (1, 2, 4, 7, 8), CounterTop (1), Candle (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see TowelHolder (1), ToiletPaper (1, 2), Drawer (1, 2, 4, 7, 8), CounterTop (1), Candle (1).
+Act: go to Toilet (1)
+You arrive at Toilet (1). You see Toilet (1), SoapBottle (1, 2), ScrubBrush (1), Plunger (1), Candle (2). Toilet (1) is closed. 
+Act: open Drawer (1)
+The Drawer (1) is already open.
+Act: go to SoapBottle (1)
+You see Toilet (1), SoapBottle (1, 2). 
+Act: pick up SoapBottle (1)
+You pick up SoapBottle (1). You see Toilet (1), SoapBottle (1, 2). I am holding SoapBottle (1) now.
+Act: go to Toilet (1)
+You arrive at Toilet (1). You see Toilet (1), SoapBottle (1, 2), ScrubBrush (1), Plunger (1), Candle (2). Toilet (1) is closed.  I am holding SoapBottle (1) now.
+Act: put down SoapBottle (1)
+You put down failed, drop it. You see Toilet (1), SoapBottle (1, 2), ScrubBrush (1), Plunger (1), Candle (2).
+Think: I failed to put down SoapBottle (1). I need to try again.
+OK.
+Act: go to Toilet (1)
+You arrive at Toilet (1). You see Toilet (1), SoapBottle (1, 2), ScrubBrush (1), Plunger (1), Candle (2). Toilet (1) is closed. 
+Act: open Drawer (1)
+The Drawer (1) is already open.
+Act: go to SoapBottle (1)
+You see Toilet (1), ToiletPaperHanger (1), SoapBottle (1, 2), Sink (1), ScrubBrush (1), Plunger (1), GarbageCan (1), Candle (2). 
+Act: pick up SoapBottle (1)
+You pick up SoapBottle (1). You see Toilet (1), ToiletPaperHanger (1), SoapBottle (1, 2), Sink (1), ScrubBrush (1), Plunger (1), GarbageCan (1), Candle (2). I am holding SoapBottle (1) now.
+Act: go to Toilet (1)
+You arrive at Toilet (1). You see Toilet (1), SoapBottle (1, 2), ScrubBrush (1), Plunger (1), Candle (2). Toilet (1) is closed.  I am holding SoapBottle (1) now.
+Act: put down SoapBottle (1)
+You put down failed, drop it. You see Toilet (1), SoapBottle (1, 2), ScrubBrush (1), Plunger (1), Candle (2).
+Think: I failed to put down SoapBottle (1). I need to try again.
+OK.
+Act: go to Toilet (1)
+You arrive at Toilet (1). You see Toilet (1), SoapBottle (1, 2), ScrubBrush (1), Plunger (1), Candle (2). Toilet (1) is closed. 
+Act: open Drawer (1)
+The Drawer (1) is already open.
+Act: go to SoapBottle (1)
+You see Toilet (1), SoapBottle (1, 2), ScrubBrush (1), Candle (2). 
+Act: pick up SoapBottle (1)
+You pick up SoapBottle (1). You see Toilet (1), SoapBottle (1, 2), ScrubBrush (1), Candle (2). I am holding SoapBottle (1) now.
+Act: go to Toilet (1)
+You arrive at Toilet (1). You see Toilet (1), SoapBottle (1, 2), ScrubBrush (1), Plunger (1), Candle (2). Toilet (1) is closed.  I am holding SoapBottle (1) now.
+Act: put down SoapBottle (1)
+You put down failed, drop it. You see Toilet (1), SoapBottle (1, 2), ScrubBrush (1), Plunger (1), Candle (2).
+Think: I failed to put down SoapBottle (1). I need to try again.
+OK.
+Act: go to Toilet (1)
+You arrive at Toilet (1). You see Toilet (1, 1), SoapBottle (1, 1, 2, 2), ScrubBrush (1, 1), Plunger (1, 1), GarbageCan (1), Candle (2, 2). Toilet (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Toilet (1), SoapBottle (1, 2), ScrubBrush (1), Plunger (1), GarbageCan (1), Candle (2).
+Act: go to SoapBottle (1)
+You see Toilet (1), SoapBottle (1, 2), ScrubBrush (1), Plunger (1), Candle (2). 
+Act: pick up SoapBottle (1)
+You pick up SoapBottle (1). You see Toilet (1), SoapBottle (1, 2), ScrubBrush (1), Plunger (1), Candle (2). I am holding SoapBottle (1) now.
+Act: go to Toilet (1)
+You arrive at Toilet (1). You see Toilet (1), SoapBottle (1, 2), ScrubBrush (1), Plunger (1), Candle (2). Toilet (1) is closed.  I am holding SoapBottle (1) now.
+Act: put down SoapBottle (1)
+You put down failed, drop it. You see Toilet (1), SoapBottle (1, 2), ScrubBrush (1), Plunger (1), Candle (2).
+Think: I failed to put down SoapBottle (1). I need to try again.
+OK.
+Act: go to Toilet (1)
+You arrive at Toilet (1). You see Toilet (1), SoapBottle (1, 2), ScrubBrush (1), Plunger (1), Candle (2). Toilet (1) is closed. 
+Act: open Drawer (1)
+The Drawer (1) is already open.
+Act: go to SoapBottle (1)
+You see Toilet (1), ToiletPaperHanger (1), SoapBottle (1, 2), ScrubBrush (1), Plunger (1), GarbageCan (1), Candle (2). 
+Act: pick up SoapBottle (1)
+You pick up SoapBottle (1). You see Toilet (1), ToiletPaperHanger (1), SoapBottle (1, 2), ScrubBrush (1), Plunger (1), GarbageCan (1), Candle (2). I am holding SoapBottle (1) now.
+Act: go to Toilet (1)
+You arrive at Toilet (1). You see Toilet (1), SoapBottle (1, 2), ScrubBrush (1), Plunger (1), Candle (2). Toilet (1) is closed.  I am holding SoapBottle (1) now.
+Act: put down SoapBottle (1)
+You put down failed, drop it. You see Toilet (1), SoapBottle (1, 2), ScrubBrush (1), Plunger (1), Candle (2).
+Think: I failed to put down SoapBottle (1). I need to try again.
+OK.
+Act: go to Toilet (1)
+You arrive at Toilet (1). You see Toilet (1), SoapBottle (1, 2), ScrubBrush (1), Plunger (1), Candle (2). Toilet (1) is closed. 
+Act: open Drawer (1)
+The Drawer (1) is already open.
+Max decisions

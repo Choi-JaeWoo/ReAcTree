@@ -1,0 +1,114 @@
+Your task is to: Inspect a watch by lamp light.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1), Ottoman (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7), DiningTable (1), CoffeeTable (1), ArmChair (1).
+Think: To solve the task, I need to find and pick up the watch. And I need to find and turn on the desk lamp.
+OK.
+Think: First, I need to recall location of the watch.
+OK.
+Act: recall location of Watch
+You have not seen Watch before.
+Think: Now I need to find the watch. The watch is more likely to appear on Sofa (1), SideTable (1), Ottoman (1), CoffeeTable (1), ArmChair (1), or in Drawer (1-7). I can check each place one by one, starting from Sofa (1), until I find the watch.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), RemoteControl (1), Newspaper (1), Book (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see WateringCan (1), SideTable (1), Pencil (2), KeyChain (1), HousePlant (1), Drawer (4), CreditCard (2, 3), CellPhone (3). 
+Act: go to Ottoman (1)
+You arrive at Ottoman (1). You see RemoteControl (2), Pillow (1), Ottoman (1), KeyChain (3), CellPhone (1), ArmChair (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (1, 2, 3), TissueBox (1), RemoteControl (3), Laptop (1), Drawer (2, 6, 7), CoffeeTable (1). 
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Pillow (1), Ottoman (1), Box (1), ArmChair (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Vase (1, 2, 3), TissueBox (1), RemoteControl (3), Laptop (1), Drawer (1, 3, 5), CoffeeTable (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Vase (1, 2, 3), TissueBox (1), RemoteControl (3), Laptop (1), Drawer (1, 3), CoffeeTable (1).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Vase (1, 2, 3), TissueBox (1), RemoteControl (3), Laptop (1), Drawer (1, 2, 6, 7), CoffeeTable (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see Vase (1, 2, 3), TissueBox (1), RemoteControl (3), Laptop (1), Drawer (2, 7), CoffeeTable (1).
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Vase (1, 2, 3), TissueBox (1), RemoteControl (3), Laptop (1), Drawer (1, 3), CoffeeTable (1). Drawer (3) is closed. 
+Act: open Drawer (3)
+You open Drawer (3). You see Vase (1, 2, 3), TissueBox (1), RemoteControl (3), Laptop (1), Drawer (1, 3), CoffeeTable (1).
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see WateringCan (1), SideTable (1), Pencil (2), KeyChain (1), HousePlant (1), Drawer (4), CreditCard (2, 3), CellPhone (3). Drawer (4) is closed. 
+Act: open Drawer (4)
+You open Drawer (4). You see SideTable (1), Pencil (2), KeyChain (1), HousePlant (1), Drawer (4), CreditCard (2, 3), CellPhone (3).
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Vase (1, 2, 3), TissueBox (1), RemoteControl (3), Laptop (1), Drawer (1, 3), CoffeeTable (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is not close to you.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Vase (1, 2, 3), TissueBox (1), RemoteControl (3), Laptop (1), Drawer (2, 3, 7), CoffeeTable (1). Drawer (6) is closed. 
+Act: open Drawer (6)
+The Drawer (6) is not close to you.
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see Vase (1, 2, 3), TissueBox (1), RemoteControl (3), Laptop (1), Drawer (2, 3, 7), CoffeeTable (1). Drawer (7) is closed. 
+Act: open Drawer (7)
+You open Drawer (7). You see Vase (1, 2, 3), TissueBox (1), RemoteControl (3), Laptop (1), Drawer (2, 3, 7), CoffeeTable (1).
+Think: I find Watch (1). Now, I need to pick it up.
+OK.
+Act: pick up RemoteControl (3)
+You pick up RemoteControl (3). You see Vase (1, 2, 3), TissueBox (1), RemoteControl (3), Laptop (1), Drawer (2, 3, 7), CoffeeTable (1). I am holding RemoteControl (3) now.
+Think: I hold RemoteControl (3). Now, I need to recall location of the desk lamp.
+OK.
+Act: recall location of DeskLamp
+You have not seen DeskLamp before.
+Think: Now I need to find the desk lamp The desk lamp is more likely to appear on SideTable (1), Ottoman (1), CoffeeTable (1), ArmChair (1). I can check each place one by one, starting from SideTable (1), until I find the desk lamp.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), RemoteControl (3), Pencil (2), KeyChain (1), HousePlant (1), Drawer (4), CreditCard (2, 3), CellPhone (3).  I am holding RemoteControl (3) now.
+Act: go to Ottoman (1)
+You arrive at Ottoman (1). You see RemoteControl (2, 3), Pillow (1), Ottoman (1), KeyChain (3), CellPhone (1), ArmChair (1).  I am holding RemoteControl (3) now.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (1, 2, 3), TissueBox (1), RemoteControl (3), Laptop (1), Drawer (3, 7), CoffeeTable (1).  I am holding RemoteControl (3) now.
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see RemoteControl (3), Pillow (1), Ottoman (1), Box (1), ArmChair (1).  I am holding RemoteControl (3) now.
+Think: I find DeskLamp (1). Now, I need to turn it on.
+OK.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Vase (1, 2, 3), TissueBox (1), RemoteControl (3), Laptop (1), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (3) is open.  I am holding RemoteControl (3) now.
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see Vase (1, 2, 3), TissueBox (1), RemoteControl (3), Laptop (1), Drawer (3, 7), CoffeeTable (1). Drawer (7) is open.  I am holding RemoteControl (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Vase (2, 3), TissueBox (1), RemoteControl (3), Laptop (1), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (1) is open.  I am holding RemoteControl (3) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Vase (1, 2, 3), TissueBox (1), RemoteControl (3), Laptop (1), Drawer (3, 7), CoffeeTable (1). Drawer (2) is open.  I am holding RemoteControl (3) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see SideTable (1), RemoteControl (3), Pencil (2), KeyChain (1), HousePlant (1), Drawer (4), CreditCard (2, 3), CellPhone (3). Drawer (4) is open.  I am holding RemoteControl (3) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Vase (1, 2, 3), TissueBox (1), RemoteControl (3), Laptop (1), Drawer (1, 3, 7), CoffeeTable (1). Drawer (5) is closed.  I am holding RemoteControl (3) now.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Vase (1, 2, 3), TissueBox (1), RemoteControl (3), Laptop (1), Drawer (3, 7), CoffeeTable (1). Drawer (6) is closed.  I am holding RemoteControl (3) now.
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see Vase (1, 2, 3), TissueBox (1), RemoteControl (3), Laptop (1), Drawer (3, 7), CoffeeTable (1). Drawer (7) is open.  I am holding RemoteControl (3) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Vase (1, 2, 3), TissueBox (1), RemoteControl (3), Laptop (1), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (3) is open.  I am holding RemoteControl (3) now.
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see Vase (1, 2, 3), TissueBox (1), RemoteControl (3), Laptop (1), Drawer (3, 7), CoffeeTable (1). Drawer (7) is open.  I am holding RemoteControl (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Vase (2, 3), TissueBox (1), RemoteControl (3), Laptop (1), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (1) is open.  I am holding RemoteControl (3) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Vase (1, 2, 3), TissueBox (1), RemoteControl (3), Laptop (1), Drawer (3, 7), CoffeeTable (1). Drawer (2) is open.  I am holding RemoteControl (3) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see SideTable (1), RemoteControl (3), Pencil (2), KeyChain (1), HousePlant (1), Drawer (4), CreditCard (2, 3), CellPhone (3). Drawer (4) is open.  I am holding RemoteControl (3) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Vase (1, 2, 3), TissueBox (1), RemoteControl (3), Laptop (1), Drawer (1, 3, 7), CoffeeTable (1). Drawer (5) is closed.  I am holding RemoteControl (3) now.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Vase (1, 2, 3), TissueBox (1), RemoteControl (3), Laptop (1), Drawer (3, 7), CoffeeTable (1). Drawer (6) is closed.  I am holding RemoteControl (3) now.
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see Vase (1, 2, 3), TissueBox (1), RemoteControl (3), Laptop (1), Drawer (3, 7), CoffeeTable (1). Drawer (7) is open.  I am holding RemoteControl (3) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Vase (1, 2, 3), TissueBox (1), RemoteControl (3), Laptop (1), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (3) is open.  I am holding RemoteControl (3) now.
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see Vase (1, 2, 3), TissueBox (1), RemoteControl (3), Laptop (1), Drawer (3, 7), CoffeeTable (1). Drawer (7) is open.  I am holding RemoteControl (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Vase (2, 3), TissueBox (1), RemoteControl (3), Laptop (1), Drawer (1, 3), CoffeeTable (1), Book (1). Drawer (1) is open.  I am holding RemoteControl (3) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Vase (1, 2, 3), TissueBox (1), RemoteControl (3), Laptop (1), Drawer (3, 7), CoffeeTable (1). Drawer (2) is open.  I am holding RemoteControl (3) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see SideTable (1), RemoteControl (3), Pencil (2), KeyChain (1), HousePlant (1), Drawer (4), CreditCard (2, 3), CellPhone (3). Drawer (4) is open.  I am holding RemoteControl (3) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Vase (1, 2, 3), TissueBox (1), RemoteControl (3), Laptop (1), Drawer (1, 3, 7), CoffeeTable (1). Drawer (5) is closed.  I am holding RemoteControl (3) now.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Vase (1, 2, 3), TissueBox (1), RemoteControl (3), Laptop (1), Drawer (3, 7), CoffeeTable (1). Drawer (6) is closed.  I am holding RemoteControl (3) now.

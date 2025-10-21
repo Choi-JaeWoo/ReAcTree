@@ -1,0 +1,19 @@
+Your primary goal is to: Grab two pen and put them on the bedside table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pen, Find and pick up pen away from the first pen, and place pen on bedside table.
+Your task is to: Find and pick up pen away from the first pen
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14), GarbageCan (1), Drawer (1, 2), DiningTable (1), Bed (1, 2). I am holding Pen (1) now.
+Think: First, I need to recall location of the pen.
+OK.
+Act: recall location of Pen
+You saw Pen (1) near hand. You saw Pen (3) near Shelf (4).
+Think: I can find Pen (3) near Shelf (4).
+OK.
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see Shelf (4), Pen (1, 3), Lamp (1), DiningTable (1), CreditCard (1), Chair (1, 2).  I am holding Pen (1) now.
+Think: I find Pen (3). Now, I need to pick it up.
+OK.
+Act: pick up Pen (3)
+You are currently holding Pen (1). I am holding Pen (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

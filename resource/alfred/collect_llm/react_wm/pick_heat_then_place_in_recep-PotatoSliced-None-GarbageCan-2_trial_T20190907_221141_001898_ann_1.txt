@@ -1,0 +1,112 @@
+Your task is to: Throw away the end of the potato. 
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4, 5, 6), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9).
+Think: To solve the task, I need to find and pick up the knife. And I need to find and slice the potato. And I need to put down the knife and pick up the potato, then put it in the trash can.
+OK.
+Think: First, I need to recall location of the knife.
+OK.
+Act: recall location of Knife
+You have not seen Knife before.
+Think: Now I need to find the knife. The knife is more likely to appear on CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-9), Drawer (1-13). I can check each place one by one, starting from CounterTop (1), until I find the knife.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (2), Spatula (2), Sink (1), SinkBasin (1), Faucet (1), DishSponge (1), CounterTop (1), CellPhone (1), Cabinet (1, 8), Bowl (1). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Spatula (1), SoapBottle (1), Plate (1), Lettuce (1), Fork (1, 2), Egg (2), CounterTop (1, 2), Bread (1, 3), Bowl (3). 
+Think: I find Knife (1). Now, I need to pick it up.
+OK.
+Act: pick up Fork (1)
+You pick up Fork (1). You see Spatula (1), SoapBottle (1), Plate (1), Lettuce (1), Fork (1, 2), Egg (2), CounterTop (1, 2), Bread (1, 3), Bowl (3). I am holding Fork (1) now.
+Think: I hold Fork (1). Now, I need to recall location of the potato.
+OK.
+Act: recall location of Potato
+You have not seen Potato before.
+Think: Now, I need to find the potato. The potato is more likely to appear on SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-9), Drawer (1-13). I can check each place one by one, starting from SinkBasin (1), until I find the potato.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Spatula (2), Sink (1), SinkBasin (1), Fork (1), Faucet (1), Drawer (1, 6), DishSponge (1), CounterTop (1), CellPhone (1), Cabinet (1, 8), Bowl (1).  I am holding Fork (1) now.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Fork (1). Fridge (1) is closed.  I am holding Fork (1) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Tomato (3), Mug (1), Fridge (1), Fork (1). I am holding Fork (1) now.
+Act: close Fridge (1)
+You close Fridge (1). You see Fridge (1), Fork (1). I am holding Fork (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Window (1), Toaster (1), Microwave (1), Fork (1), Drawer (4), CounterTop (1). Microwave (1) is closed.  I am holding Fork (1) now.
+Act: open Microwave (1)
+You open Microwave (1). You see Window (1), Toaster (1), Microwave (1), Fork (1), Drawer (4), CounterTop (1). I am holding Fork (1) now.
+Act: close Microwave (1)
+You close Microwave (1). You see Window (1), Toaster (1), Microwave (1), Fork (1), Drawer (4), CounterTop (1). I am holding Fork (1) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Spatula (2), Sink (1), SinkBasin (1), Kettle (2), Fork (1), Drawer (1), DishSponge (1), CounterTop (1), CellPhone (1), Cabinet (2, 8), Bowl (1). Drawer (1) is closed.  I am holding Fork (1) now.
+Act: open Drawer (1)
+You open Drawer (1). You see Spatula (2), Sink (1), SinkBasin (1), Pan (1), Kettle (2), Fork (1), Drawer (1), DishSponge (1), CounterTop (1), CellPhone (1), Cabinet (1, 2, 8), Bowl (1). I am holding Fork (1) now.
+Act: close Drawer (1)
+You close Drawer (1). You see Spatula (2), Sink (1), SinkBasin (1), Pan (1), Kettle (2), Fork (1), Drawer (1), DishSponge (1), CounterTop (1), CellPhone (1), Cabinet (1, 2, 8), Bowl (1). I am holding Fork (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see StoveKnob (1, 2, 3, 4, 5, 6), StoveBurner (1, 2, 3, 4, 5, 6), Knife (1), Kettle (1, 3), Fork (1), Drawer (3, 4, 5, 7, 9, 10, 11, 12, 13), CounterTop (1). Drawer (2) is closed.  I am holding Fork (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Fork (1), Drawer (2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 13), Cabinet (9). I am holding Fork (1) now.
+Act: close Drawer (2)
+You close Drawer (2). You see Fork (1), Drawer (2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 13), Cabinet (9). I am holding Fork (1) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Toaster (1), StoveBurner (1, 3), Spoon (2), Microwave (1), Fork (1), Drawer (3, 4, 5, 7, 10, 11, 13), DishSponge (2), CounterTop (1). Drawer (3) is closed.  I am holding Fork (1) now.
+Act: open Drawer (3)
+You open Drawer (3). You see StoveKnob (5), Fork (1), Drawer (2, 3, 10, 11, 13), CounterTop (1). I am holding Fork (1) now.
+Act: close Drawer (3)
+You close Drawer (3). You see StoveKnob (5), Fork (1), Drawer (2, 3, 4, 5, 7, 10, 11, 13), CounterTop (1). I am holding Fork (1) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Toaster (1), StoveBurner (1, 3), Spoon (2), Microwave (1), Fork (1), Drawer (3, 4, 5, 7, 10, 11, 13), DishSponge (2), CounterTop (1). Drawer (4) is closed.  I am holding Fork (1) now.
+Act: open Drawer (4)
+You open Drawer (4). You see Fork (1), Drawer (2, 3, 4, 10, 11, 13), CounterTop (1). I am holding Fork (1) now.
+Act: close Drawer (4)
+You close Drawer (4). You see Fork (1), Drawer (2, 3, 4, 5, 7, 10, 11, 13), CounterTop (1). I am holding Fork (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Toaster (1), StoveBurner (1, 3), Microwave (1), Fork (1), Drawer (3, 4, 5, 7, 10, 11, 13), DishSponge (2), CounterTop (1). Drawer (5) is closed.  I am holding Fork (1) now.
+Act: open Drawer (5)
+You open Drawer (5). You see Fork (1), Drawer (2, 3, 4, 5, 7, 10, 11, 13). I am holding Fork (1) now.
+Act: close Drawer (5)
+You close Drawer (5). You see Fork (1), Drawer (2, 3, 4, 5, 7, 10, 11, 13). I am holding Fork (1) now.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Sink (1), SinkBasin (1), Pot (1), Fork (1), Drawer (6), CounterTop (1), CoffeeMachine (1), Cabinet (1, 3, 8). Drawer (6) is closed.  I am holding Fork (1) now.
+Act: open Drawer (6)
+You open Drawer (6). You see Sink (1), SinkBasin (1), Pot (1), Fork (1), Drawer (6), CounterTop (1), CoffeeMachine (1), Cabinet (1, 3, 8). I am holding Fork (1) now.
+Act: close Drawer (6)
+You close Drawer (6). You see Sink (1), SinkBasin (1), Pot (1), Fork (1), Drawer (6), CounterTop (1), CoffeeMachine (1), Cabinet (1, 3, 8). I am holding Fork (1) now.
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see Toaster (1), StoveBurner (1, 3), Spoon (2), Microwave (1), Fork (1), Drawer (3, 4, 5, 7, 10, 11, 13), DishSponge (2), CounterTop (1). Drawer (7) is closed.  I am holding Fork (1) now.
+Act: open Drawer (7)
+You open Drawer (7). You see Fork (1), Drawer (2, 3, 4, 7, 10, 11, 13), CounterTop (1). I am holding Fork (1) now.
+Act: close Drawer (7)
+You close Drawer (7). You see Fork (1), Drawer (2, 3, 4, 5, 7, 10, 11, 13), CounterTop (1). I am holding Fork (1) now.
+Act: go to Drawer (8)
+You arrive at Drawer (8). You see StoveBurner (2, 5, 6), Knife (1), Kettle (1), Fork (1), Drawer (2, 9, 10, 11, 12, 13), CounterTop (1). Drawer (8) is closed.  I am holding Fork (1) now.
+Act: open Drawer (8)
+You open Drawer (8). You see Fork (1), Drawer (2, 5, 8, 10, 11, 13), CounterTop (1). I am holding Fork (1) now.
+Act: close Drawer (8)
+You close Drawer (8). You see Fork (1), Drawer (2, 5, 8, 9, 10, 11, 12, 13), CounterTop (1). I am holding Fork (1) now.
+Act: go to Drawer (9)
+You arrive at Drawer (9). You see StoveBurner (2, 6), Knife (1), Kettle (1), Fork (1), Drawer (2, 9, 10, 11, 12, 13), CounterTop (1). Drawer (9) is closed.  I am holding Fork (1) now.
+Act: open Drawer (9)
+You open Drawer (9). You see Fork (1), Drawer (2, 5, 8, 9, 10, 11, 13), CounterTop (1). I am holding Fork (1) now.
+Act: close Drawer (9)
+You close Drawer (9). You see Fork (1), Drawer (2, 5, 8, 9, 10, 11, 12, 13), CounterTop (1). I am holding Fork (1) now.
+Act: go to Drawer (10)
+You arrive at Drawer (10). You see StoveKnob (1, 2, 3, 4, 5, 6), StoveBurner (1, 2, 3, 4, 5, 6), Knife (1), Kettle (1, 3), Fork (1), Drawer (3, 4, 5, 7, 9, 10, 11, 12, 13), CounterTop (1). Drawer (10) is closed.  I am holding Fork (1) now.
+Act: open Drawer (10)
+You open Drawer (10). You see StoveKnob (5), Fork (1), Drawer (3, 4, 5, 7, 8, 9, 10, 11, 12, 13), Cabinet (9). I am holding Fork (1) now.
+Act: close Drawer (10)
+You close Drawer (10). You see StoveKnob (5), Fork (1), Drawer (2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 13), Cabinet (9). I am holding Fork (1) now.
+Act: go to Drawer (11)
+You arrive at Drawer (11). You see StoveKnob (1, 2, 3, 4, 5, 6), StoveBurner (1, 2, 3, 4, 5, 6), Knife (1), Kettle (1, 3), Fork (1), Drawer (3, 4, 5, 7, 9, 10, 11, 12, 13), CounterTop (1). Drawer (11) is closed.  I am holding Fork (1) now.
+Act: open Drawer (11)
+You open Drawer (11). You see StoveKnob (2, 4, 5, 6), Fork (1), Drawer (3, 4, 5, 7, 8, 9, 11, 12, 13). I am holding Fork (1) now.
+Act: close Drawer (11)
+You close Drawer (11). You see StoveKnob (2, 4, 5, 6), Fork (1), Drawer (2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 13). I am holding Fork (1) now.
+Act: go to Drawer (12)
+You arrive at Drawer (12). You see StoveBurner (2, 6), Knife (1), Kettle (1), Fork (1), Drawer (2, 9, 10, 11, 12, 13), CounterTop (1). Drawer (12) is closed.  I am holding Fork (1) now.
+Act: open Drawer (12)
+You open Drawer (12). You see Fork (1), Drawer (2, 5, 8, 9, 10, 11, 12, 13), Cabinet (9). I am holding Fork (1) now.
+Act: close Drawer (12)
+You close Drawer (12). You see Fork (1), Drawer (2, 5, 8, 9, 10, 11, 12, 13), Cabinet (9). I am holding Fork (1) now.
+Act: go to Drawer (13)
+You arrive at Drawer (13). You see StoveKnob (1, 2, 3, 4, 5, 6), StoveBurner (1, 2, 3, 4, 5, 6), Knife (1), Kettle (1, 3), Fork (1), Drawer (3, 4, 5, 7, 9, 10, 11, 12, 13), CounterTop (1). Drawer (13) is closed.  I am holding Fork (1) now.

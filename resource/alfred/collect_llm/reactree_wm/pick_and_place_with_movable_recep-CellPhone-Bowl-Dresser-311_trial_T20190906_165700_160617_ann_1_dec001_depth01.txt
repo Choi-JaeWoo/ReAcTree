@@ -1,0 +1,7 @@
+Your task is to: Place a bowl containing a smartphone on a chest of drawers.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), LaundryHamper (1), GarbageCan (1), Dresser (1), Drawer (1, 2), DiningTable (1), CounterTop (1), Bed (1), ArmChair (1, 2).
+Think: Since I’m not holding a bowl containing a smartphone, I need to accomplish 3 subgoals sequentially to solve the task. Find and pick up bowl, put smartphone in bowl, and place bowl on chest of drawers.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up bowl, put smartphone in bowl, place bowl on chest of drawers

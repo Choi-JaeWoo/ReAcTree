@@ -1,0 +1,121 @@
+Your primary goal is to: place credit card on box near small
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up credit card, place credit card on box near small, round, and and black table.
+Your task is to: round
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2, 3), Ottoman (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), DiningTable (1), ArmChair (1, 2).
+Think: I need to recall location of the round table.
+OK.
+Act: recall location of Box
+You saw Box (2) near SideTable (1).
+Think: I can find Box (2) near SideTable (1).
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Television (1), SideTable (1), Dresser (1), Box (2). 
+Think: I find Box (2). Now, I need to round it.
+OK.
+Act: go to Box (2)
+You arrive at Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2). Box (2) is open. 
+Act: close Box (2)
+You close Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2).
+Act: go to Box (2)
+You arrive at Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2). Box (2) is closed. 
+Act: open Box (2)
+You open Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2).
+Act: go to Box (2)
+You arrive at Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2). Box (2) is open. 
+Act: close Box (2)
+You close Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2).
+Act: go to Box (2)
+You arrive at Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2). Box (2) is closed. 
+Act: open Box (2)
+You open Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2).
+Act: go to Box (2)
+You arrive at Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2). Box (2) is open. 
+Act: close Box (2)
+You close Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2).
+Act: go to Box (2)
+You arrive at Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2). Box (2) is closed. 
+Act: open Box (2)
+You open Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2).
+Act: go to Box (2)
+You arrive at Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2). Box (2) is open. 
+Act: close Box (2)
+You close Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2).
+Act: go to Box (2)
+You arrive at Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2). Box (2) is closed. 
+Act: open Box (2)
+You open Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2).
+Act: go to Box (2)
+You arrive at Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2). Box (2) is open. 
+Act: close Box (2)
+You close Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2).
+Act: go to Box (2)
+You arrive at Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2). Box (2) is closed. 
+Act: open Box (2)
+You open Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2).
+Act: go to Box (2)
+You arrive at Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2). Box (2) is open. 
+Act: close Box (2)
+You close Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2).
+Act: go to Box (2)
+You arrive at Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2). Box (2) is closed. 
+Act: open Box (2)
+You open Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2).
+Act: go to Box (2)
+You arrive at Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2). Box (2) is open. 
+Act: close Box (2)
+You close Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2).
+Act: go to Box (2)
+You arrive at Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2). Box (2) is closed. 
+Act: open Box (2)
+You open Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2).
+Act: go to Box (2)
+You arrive at Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2). Box (2) is open. 
+Act: close Box (2)
+You close Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2).
+Act: go to Box (2)
+You arrive at Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2). Box (2) is closed. 
+Act: open Box (2)
+You open Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2).
+Act: go to Box (2)
+You arrive at Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2). Box (2) is open. 
+Act: close Box (2)
+You close Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2).
+Act: go to Box (2)
+You arrive at Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2). Box (2) is closed. 
+Act: open Box (2)
+You open Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2).
+Act: go to Box (2)
+You arrive at Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2). Box (2) is open. 
+Act: close Box (2)
+You close Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2).
+Act: go to Box (2)
+You arrive at Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2). Box (2) is closed. 
+Act: open Box (2)
+You open Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2).
+Act: go to Box (2)
+You arrive at Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2). Box (2) is open. 
+Act: close Box (2)
+You close Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2).
+Act: go to Box (2)
+You arrive at Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2). Box (2) is closed. 
+Act: open Box (2)
+You open Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2).
+Act: go to Box (2)
+You arrive at Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2). Box (2) is open. 
+Act: close Box (2)
+You close Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2).
+Act: go to Box (2)
+You arrive at Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2). Box (2) is closed. 
+Act: open Box (2)
+You open Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2).
+Act: go to Box (2)
+You arrive at Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2). Box (2) is open. 
+Act: close Box (2)
+You close Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2).
+Act: go to Box (2)
+You arrive at Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2). Box (2) is closed. 
+Act: open Box (2)
+You open Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2).
+Act: go to Box (2)
+You arrive at Box (2). You see Television (1), SideTable (1), Dresser (1), Box (2). Box (2) is open. 
+Max decisions

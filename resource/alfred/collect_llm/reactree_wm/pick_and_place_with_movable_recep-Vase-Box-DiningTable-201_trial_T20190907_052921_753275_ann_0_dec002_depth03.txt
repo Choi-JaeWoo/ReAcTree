@@ -1,0 +1,21 @@
+Your primary goal is to: place a box with a yellow object inside on top of the dining table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up box, find and pick up yellow object, and place box with yellow object on dining table.
+Your task is to: find and pick up box
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1, 2), GarbageCan (1), Drawer (1, 2), DiningTable (1, 2), CoffeeTable (1), ArmChair (1, 2).
+Think: First, I need to recall location of the box.
+OK.
+Act: recall location of Box
+You have not seen Box before.
+Think: Now, I need to find the box. The box is more likely to appear on TVStand (1), Sofa (1), SideTable (1-2), CoffeeTable (1), ArmChair (1-2), or in Drawer (1-2). I can check each place one by one, starting from TVStand (1), until I find the box.
+OK.
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Vase (3), Television (1), TVStand (1), Statue (1), Plate (3), Pencil (1). 
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1), KeyChain (2), Box (1, 2). 
+Think: I find Box (1). Now, I need to pick it up.
+OK.
+Act: pick up Box (1)
+You pick up Box (1). You see Sofa (1), Pillow (1), KeyChain (2), Box (1, 2). I am holding Box (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

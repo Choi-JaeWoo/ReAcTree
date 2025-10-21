@@ -1,0 +1,53 @@
+Your task is to: put two soap bars in sink
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1, 2), HandTowelHolder (1, 2), GarbageCan (1), Drawer (1, 2), CounterTop (1).
+Think: To solve the task, I need to find and pick up two soap bars, then put them in the sink basin.
+OK.
+Think: First, I need to recall location of the soap bar.
+OK.
+Act: recall location of SoapBar
+You have not seen SoapBar before.
+Think: Now I need to find the soap bar. The soap bar is more likely to appear on CounterTop (1), SinkBasin (1-2), or in Drawer (1-2). I can check each place one by one, starting from CounterTop (1), until I find the soap bar.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see ToiletPaper (2), SprayBottle (1), SoapBar (1), Sink (1, 2), SinkBasin (1, 2), Mirror (1), Faucet (2, 3), Drawer (1, 2), CounterTop (1), Candle (1, 2). 
+Think: I find SoapBar (1). Now, I need to pick it up.
+OK.
+Act: pick up SoapBar (1)
+You pick up SoapBar (1). You see ToiletPaper (2), SprayBottle (1), SoapBar (1), Sink (1, 2), SinkBasin (1, 2), Mirror (1), Faucet (2, 3), Drawer (1, 2), CounterTop (1), Candle (1, 2). I am holding SoapBar (1) now.
+Think: I hold SoapBar (1). Now, I need to put it in the sink basin.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see ToiletPaper (2), SprayBottle (1), SoapBar (1), Sink (1), SinkBasin (1), Mirror (1), Faucet (2), Drawer (1, 2), CounterTop (1), Candle (1).  I am holding SoapBar (1) now.
+Act: put down SoapBar (1)
+You put SoapBar (1) on SinkBasin (1). You see ToiletPaper (2), SprayBottle (1), SoapBar (1), Sink (1), SinkBasin (1), Mirror (1), Faucet (2), Drawer (1, 2), CounterTop (1), Candle (1).
+Think: Now I need to recall location of the soap bar.
+OK.
+Act: recall location of SoapBar
+You saw SoapBar (1) near SinkBasin (1).
+Think: SoapBar (1) is in the SinkBasin (1). Now, I need to find another soap bar.
+OK.
+Act: go to SinkBasin (2)
+You arrive at SinkBasin (2). You see ToiletPaper (2), SprayBottle (1), Sink (2), SinkBasin (2), Mirror (1), Faucet (3), Drawer (1, 2), CounterTop (1), Candle (2). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see ToiletPaper (2), SprayBottle (1), Sink (2), SinkBasin (2), Faucet (3), Drawer (1, 2), CounterTop (1), Candle (2). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see SprayBottle (1), Sink (2), SinkBasin (2), Drawer (1, 2), CounterTop (1), Candle (2).
+Act: close Drawer (1)
+You close Drawer (1). You see SprayBottle (1), Sink (2), SinkBasin (2), Drawer (1, 2), CounterTop (1), Candle (2).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Toilet (1), SoapBar (1), Sink (1), SinkBasin (1), Faucet (2), Drawer (1, 2), CounterTop (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see Toilet (1), SoapBar (1), Sink (1), SinkBasin (1), Faucet (2), Drawer (1, 2), CounterTop (1).
+Think: I find SoapBar (1). Now, I need to pick it up.
+OK.
+Act: pick up SoapBar (1)
+You pick up SoapBar (1). You see Toilet (1), SoapBar (1), Sink (1), SinkBasin (1), Faucet (2), Drawer (1, 2), CounterTop (1). I am holding SoapBar (1) now.
+Think: I hold SoapBar (1). Now, I need to put it in the sink basin.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see ToiletPaper (2), SprayBottle (1), SoapBar (1), Sink (1), SinkBasin (1), Faucet (2), Drawer (1, 2), CounterTop (1), Candle (1, 2).  I am holding SoapBar (1) now.
+Act: put down SoapBar (1)
+You put SoapBar (1) on SinkBasin (1). You see ToiletPaper (2), SprayBottle (1), SoapBar (1), Sink (1), SinkBasin (1), Faucet (2), Drawer (1, 2), CounterTop (1), Candle (1, 2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

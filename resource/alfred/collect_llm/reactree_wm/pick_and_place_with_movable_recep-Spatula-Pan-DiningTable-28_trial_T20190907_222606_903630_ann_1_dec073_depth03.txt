@@ -1,0 +1,23 @@
+Your primary goal is to: Place the pan with the spatula in it on the table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pan, place pan on table, find and pick up spatula, and place spatula on pan near table.
+Your task is to: place spatula on pan near table
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11). I am holding Spatula (1) now.
+Think: I hold Spatula (1). Now, I need to recall location of the pan.
+OK.
+Act: recall location of Pan
+You saw Pan (1) near Drawer (2).
+Think: I can find Pan (1) in Drawer (2).
+OK.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see StoveBurner (1, 4), Spatula (1), Sink (1), SinkBasin (1), PepperShaker (1, 2), Pan (1), Mug (2), Lettuce (2), Knife (2), Drawer (2), CounterTop (2), Cabinet (2, 8). Drawer (2) is closed.  I am holding Spatula (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see StoveKnob (4), StoveBurner (4), Spatula (1), Sink (1), SinkBasin (1), PepperShaker (1, 2), Pan (1), Mug (2), Lettuce (2), Knife (2), Drawer (2), CounterTop (2), Cabinet (2, 4, 8), Apple (1). I am holding Spatula (1) now.
+Think: I find Pan (1). Now, I need to put down Spatula (1) on Pan (1).
+OK.
+Act: go to Pan (1)
+You arrive at Pan (1). You see StoveKnob (1, 2, 3, 4, 4, 4, 4, 4, 4), StoveBurner (2, 3, 4, 4, 4, 4, 4, 4), Spatula (1, 1, 1, 1, 1, 1), Sink (1, 1, 1, 1, 1), SinkBasin (1, 1, 1, 1, 1), PepperShaker (1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2), Pan (1, 1, 1, 1, 1, 1), Mug (2, 2, 2, 2, 2, 2), Microwave (1), Lettuce (2, 2, 2, 2, 2), Knife (2, 2, 2, 2, 2, 2), Drawer (2, 2, 2, 2, 2, 2), CounterTop (1, 2, 2, 2, 2, 2, 2), Cabinet (2, 2, 2, 2, 2, 4, 4, 4, 4, 4, 8, 8, 8, 8, 8, 11), ButterKnife (1), Apple (1, 1, 1, 1, 1, 1).  I am holding Spatula (1) now.
+Act: put down Spatula (1)
+You put Spatula (1) on Pan (1). You see StoveKnob (1, 2, 3, 4), StoveBurner (2, 3, 4), Spatula (1), PepperShaker (2), Pan (1), Mug (2), Microwave (1), Knife (2), Drawer (2), CounterTop (1, 2), Cabinet (11), ButterKnife (1), Apple (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

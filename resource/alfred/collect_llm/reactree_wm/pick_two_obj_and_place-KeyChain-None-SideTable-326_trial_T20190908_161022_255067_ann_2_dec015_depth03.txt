@@ -1,0 +1,65 @@
+Your primary goal is to: Move two sets of keys to a nightstand.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up keys, place keys on nightstand, Find and pick up keys away from nightstand, and and place keys on nightstand.
+Your task is to: Find and pick up keys away from nightstand
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14), GarbageCan (1), Drawer (1, 2), DiningTable (1), Bed (1, 2).
+Think: First, I need to recall location of the keys.
+OK.
+Act: recall location of KeyChain
+You have not seen KeyChain before.
+Think: Now, I need to find the key chain. The key chain is more likely to appear on Bed (1-2), SideTable (1), or in Drawer (1-2), DiningTable (1), Shelf (1-14). I can check each place one by one, starting from Bed (1), until I find the key chain.
+OK.
+Act: go to Bed (1)
+You arrive at Bed (1). You see Pillow (2), Drawer (1), CellPhone (2), Book (1, 2), Bed (1). 
+Act: go to Bed (2)
+You arrive at Bed (2). You see TeddyBear (1), Pillow (1), Laptop (1), Drawer (1), Bed (2). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Watch (1), SideTable (1), Pencil (2), Drawer (1, 2), CreditCard (3), Book (2), Bed (1, 2), AlarmClock (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Watch (1), SideTable (1), Pencil (2), Drawer (1, 2), CreditCard (3), Book (2), Bed (1, 2), AlarmClock (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Watch (1), SideTable (1), Pencil (2), Drawer (1, 2), CreditCard (3), Book (2), Bed (1, 2), AlarmClock (1).
+Act: close Drawer (1)
+You close Drawer (1). You see Watch (1), SideTable (1), Pencil (2), Drawer (1, 2), CreditCard (3), Book (2), Bed (1, 2), AlarmClock (1).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1), SideTable (1), Pencil (2), Drawer (1, 2), CreditCard (3), Book (2), Bed (1, 2), AlarmClock (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see Watch (1), SideTable (1), Pencil (2), Drawer (2), CreditCard (3), Book (2), Bed (1, 2), AlarmClock (1).
+Act: close Drawer (2)
+You close Drawer (2). You see Watch (1), SideTable (1), Pencil (2), Drawer (1, 2), CreditCard (3), Book (2), Bed (1, 2), AlarmClock (1).
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Watch (2), Shelf (9), Pencil (3), Pen (1), Lamp (1), KeyChain (2, 3), DiningTable (1), Chair (2). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TennisRacket (1), Shelf (1, 7), Bowl (2), BaseballBat (1). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Shelf (2, 10). 
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Shelf (2, 3, 10, 12), Laptop (1), Bowl (3), Bed (2). 
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see Watch (2), Shelf (4), Pen (1), Lamp (1), DiningTable (1), Chair (1, 2). 
+Act: go to Shelf (5)
+You arrive at Shelf (5). You see Shelf (5, 13), Mug (1), CreditCard (1, 2), Cloth (1). 
+Act: go to Shelf (6)
+You arrive at Shelf (6). You see Shelf (6, 8), Pencil (1), CellPhone (1), Bowl (1). 
+Act: go to Shelf (7)
+You arrive at Shelf (7). You see Shelf (1, 7), Bowl (2). 
+Act: go to Shelf (8)
+You arrive at Shelf (8). You see Shelf (6, 8), Pencil (1), Cloth (1, 2), CellPhone (1), Bowl (1). 
+Act: go to Shelf (9)
+You arrive at Shelf (9). You see Pencil (3), KeyChain (2, 3), DiningTable (1), Chair (2), Book (3). 
+Act: go to Shelf (10)
+You arrive at Shelf (10). You see TennisRacket (1), Shelf (2, 10), Bed (2), BaseballBat (1). 
+Act: go to Shelf (11)
+You arrive at Shelf (11). You see Shelf (11, 14), KeyChain (1). 
+Act: go to Shelf (12)
+You arrive at Shelf (12). You see Shelf (2, 3, 10, 12), Bowl (3), Bed (2). 
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Shelf (5, 13), Mug (1), CreditCard (1, 2). 
+Act: go to Shelf (14)
+You arrive at Shelf (14). You see Shelf (11, 14), KeyChain (1), Cloth (1, 2). 
+Think: I find KeyChain (1). Now, I need to pick it up.
+OK.
+Act: pick up KeyChain (1)
+You pick up KeyChain (1). You see Shelf (11, 14), KeyChain (1), Cloth (1, 2). I am holding KeyChain (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

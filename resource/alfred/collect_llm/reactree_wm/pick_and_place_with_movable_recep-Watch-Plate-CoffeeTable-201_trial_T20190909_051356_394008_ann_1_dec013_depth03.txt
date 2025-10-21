@@ -1,0 +1,179 @@
+Your primary goal is to: Put a white plate with a watch on it on a coffee table shelf.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up plate, place plate on coffee table shelf, and place watch on plate.
+Your task is to: place watch on plate
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1, 2), GarbageCan (1), Drawer (1, 2), DiningTable (1, 2), CoffeeTable (1), ArmChair (1, 2).
+Think: I hold Watch (1). Now, I need to recall location of the plate.
+OK.
+Act: recall location of Plate
+You dropped Plate due to fail to put it on the receptacle. You need to find it again.
+Think: Now, I need to find the plate. The plate is more likely to appear on SideTable (1-2), CoffeeTable (1), or in Drawer (1-2). I can check each place one by one, starting from SideTable (1), until I find the plate.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Watch (3), SideTable (1), Plate (2), Drawer (1), DiningTable (2). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Watch (2), SideTable (2), Pencil (2), Lamp (1), Drawer (2), Curtains (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (1), TissueBox (1), Sofa (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Think: I find Plate (1). Now, I need to put down Watch (1) on Plate (1).
+OK.
+Act: go to Watch (1)
+You see Watch (1, 4), TissueBox (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (4)
+You see Watch (1, 4), TissueBox (1), Sofa (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (1)
+You see Watch (1, 4), TissueBox (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (4)
+You see Watch (1, 4), TissueBox (1), Sofa (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (1)
+You see Watch (1, 4), TissueBox (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (4)
+You see Watch (1, 4), TissueBox (1), Sofa (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (1)
+You see Watch (1, 4), TissueBox (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (4)
+You see Watch (1, 4), TissueBox (1), Sofa (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (1)
+You see Watch (1, 4), TissueBox (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (4)
+You see Watch (1, 4), TissueBox (1), Sofa (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (1)
+You see Watch (1, 4), TissueBox (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (4)
+You see Watch (1, 4), TissueBox (1), Sofa (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (1)
+You see Watch (1, 4), TissueBox (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (4)
+You see Watch (1, 4), TissueBox (1), Sofa (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (1)
+You see Watch (1, 4), TissueBox (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (4)
+You see Watch (1, 4), TissueBox (1), Sofa (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (1)
+You see Watch (1, 4), TissueBox (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (4)
+You see Watch (1, 4), TissueBox (1), Sofa (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (1)
+You see Watch (1, 4), TissueBox (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (4)
+You see Watch (1, 4), TissueBox (1), Sofa (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (1)
+You see Watch (1, 4), TissueBox (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (4)
+You see Watch (1, 4), TissueBox (1), Sofa (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (1)
+You see Watch (1, 4), TissueBox (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (4)
+You see Watch (1, 4), TissueBox (1), Sofa (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (1)
+You see Watch (1, 4), TissueBox (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (4)
+You see Watch (1, 4), TissueBox (1), Sofa (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (1)
+You see Watch (1, 4), TissueBox (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (4)
+You see Watch (1, 4), TissueBox (1), Sofa (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (1)
+You see Watch (1, 4), TissueBox (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (4)
+You see Watch (1, 4), TissueBox (1), Sofa (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (1)
+You see Watch (1, 4), TissueBox (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (4)
+You see Watch (1, 4), TissueBox (1), Sofa (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (1)
+You see Watch (1, 4), TissueBox (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (4)
+You see Watch (1, 4), TissueBox (1), Sofa (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (1)
+You see Watch (1, 4), TissueBox (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (4)
+You see Watch (1, 4), TissueBox (1), Sofa (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (1)
+You see Watch (1, 4), TissueBox (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (4)
+You see Watch (1, 4), TissueBox (1), Sofa (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (1)
+You see Watch (1, 4), TissueBox (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (4)
+You see Watch (1, 4), TissueBox (1), Sofa (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (1)
+You see Watch (1, 4), TissueBox (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (4)
+You see Watch (1, 4), TissueBox (1), Sofa (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (1)
+You see Watch (1, 4), TissueBox (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (4)
+You see Watch (1, 4), TissueBox (1), Sofa (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (1)
+You see Watch (1, 4), TissueBox (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (4)
+You see Watch (1, 4), TissueBox (1), Sofa (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (1)
+You see Watch (1, 4), TissueBox (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (4)
+You see Watch (1, 4), TissueBox (1), Sofa (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (1)
+You see Watch (1, 4), TissueBox (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (4)
+You see Watch (1, 4), TissueBox (1), Sofa (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (1)
+You see Watch (1, 4), TissueBox (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (4)
+You see Watch (1, 4), TissueBox (1), Sofa (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (1)
+You see Watch (1, 4), TissueBox (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (4)
+You see Watch (1, 4), TissueBox (1), Sofa (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (1)
+You see Watch (1, 4), TissueBox (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (4)
+You see Watch (1, 4), TissueBox (1), Sofa (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (1)
+You see Watch (1, 4), TissueBox (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (4)
+You see Watch (1, 4), TissueBox (1), Sofa (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (1)
+You see Watch (1, 4), TissueBox (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (4)
+You see Watch (1, 4), TissueBox (1), Sofa (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (1)
+You see Watch (1, 4), TissueBox (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (4)
+You see Watch (1, 4), TissueBox (1), Sofa (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (1)
+You see Watch (1, 4), TissueBox (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (4)
+You see Watch (1, 4), TissueBox (1), Sofa (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (1)
+You see Watch (1, 4), TissueBox (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (4)
+You see Watch (1, 4), TissueBox (1), Sofa (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (1)
+You see Watch (1, 4), TissueBox (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (4)
+You see Watch (1, 4), TissueBox (1), Sofa (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (1)
+You see Watch (1, 4), TissueBox (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (4)
+You see Watch (1, 4), TissueBox (1), Sofa (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (1)
+You see Watch (1, 4), TissueBox (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (4)
+You see Watch (1, 4), TissueBox (1), Sofa (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (1)
+You see Watch (1, 4), TissueBox (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (4)
+You see Watch (1, 4), TissueBox (1), Sofa (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (1)
+You see Watch (1, 4), TissueBox (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (4)
+You see Watch (1, 4), TissueBox (1), Sofa (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (1)
+You see Watch (1, 4), TissueBox (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (4)
+You see Watch (1, 4), TissueBox (1), Sofa (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (1)
+You see Watch (1, 4), TissueBox (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Act: go to Watch (4)
+You see Watch (1, 4), TissueBox (1), Sofa (1), Pencil (3), Pen (1, 2, 3), CreditCard (1), CoffeeTable (1), Bowl (1), Book (2). 
+Max decisions

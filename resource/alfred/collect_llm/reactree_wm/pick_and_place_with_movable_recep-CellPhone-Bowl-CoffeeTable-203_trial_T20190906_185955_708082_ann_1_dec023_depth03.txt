@@ -1,0 +1,13 @@
+Your primary goal is to: Put a bowl with a phone in it on a coffee table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up bowl, put phone in bowl, and place bowl on coffee table.
+Your task is to: place bowl on coffee table
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1), Ottoman (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7), DiningTable (1), CoffeeTable (1), ArmChair (1). I am holding Bowl (2) now.
+Think: I hold Bowl (2). Now, I need to put it on the coffee table. I can see CoffeeTable (1).
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2, 2), TissueBox (2, 2), RemoteControl (2, 2), Laptop (2, 2), Drawer (2, 2, 6, 6, 7, 7), CoffeeTable (1, 1), CellPhone (1, 2, 2, 3, 3), Bowl (2, 2).  I am holding Bowl (2) now.
+Act: put down Bowl (2)
+You put Bowl (2) on CoffeeTable (1). You see Vase (2), TissueBox (2), RemoteControl (2), Laptop (2), Drawer (2, 6, 7), CoffeeTable (1), CellPhone (1, 2, 3), Bowl (2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

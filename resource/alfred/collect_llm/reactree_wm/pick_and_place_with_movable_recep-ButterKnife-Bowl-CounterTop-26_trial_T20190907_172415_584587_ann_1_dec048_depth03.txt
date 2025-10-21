@@ -1,0 +1,109 @@
+Your primary goal is to: Put a knife in a cup on the counter
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, place knife in cup, find and pick up cup, and and place cup on counter.
+Your task is to: and place cup on counter
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10).
+Think: I hold Cup (1). Now, I need to put it on the counter. I can see CounterTop (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (2), Sink (1), SinkBasin (1), Plate (1, 2, 3), Knife (1), Faucet (1), Drawer (1), CounterTop (1), Cabinet (1, 4), ButterKnife (2). 
+Act: pick up Knife (1)
+You pick up Knife (1). You see Spatula (2), Sink (1), SinkBasin (1), Plate (1, 2, 3), Knife (1), Faucet (1), Drawer (1), CounterTop (1), Cabinet (1, 4), ButterKnife (2). I am holding Knife (1) now.
+Act: put down Knife (1)
+You put down failed, drop it. You see Spatula (2), Sink (1), SinkBasin (1), Plate (1, 2, 3), Faucet (1), Drawer (1), CounterTop (1), Cabinet (1, 4), ButterKnife (2).
+Think: I failed to put Knife (1) on CounterTop (1). I need to try again.
+OK.
+Act: pick up Plate (1)
+You pick up Plate (1). You see Spatula (2), Sink (1), SinkBasin (1), Plate (1, 2, 3), Faucet (1), Drawer (1), CounterTop (1), Cabinet (1), ButterKnife (2). I am holding Plate (1) now.
+Act: put down Plate (1)
+You put down failed, drop it. You see Spatula (2), Sink (1), SinkBasin (1), Plate (2, 3), Faucet (1), Drawer (1), CounterTop (1), Cabinet (1, 4), ButterKnife (2).
+Think: I failed to put Plate (1) on CounterTop (1). I need to try again.
+OK.
+Act: pick up Plate (2)
+You pick up Plate (2). You see Spatula (2), Sink (1), SinkBasin (1), Plate (2, 3), Faucet (1), Drawer (1), ButterKnife (2). I am holding Plate (2) now.
+Act: put down Plate (2)
+You put down failed, drop it. You see Spatula (2), Sink (1), SinkBasin (1), Faucet (1), Drawer (1), CounterTop (1), Cabinet (1, 4), ButterKnife (2).
+Think: I failed to put Plate (2) on CounterTop (1). I need to try again.
+OK.
+Act: pick up Spatula (2)
+You pick up Spatula (2). You see Spatula (2), Sink (1), SinkBasin (1), Faucet (1), Drawer (1), CounterTop (1), Cabinet (1, 4), ButterKnife (2). I am holding Spatula (2) now.
+Act: put down Spatula (2)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), Faucet (1), Drawer (1), CounterTop (1), Cabinet (1, 4), ButterKnife (2).
+Think: I failed to put Spatula (2) on CounterTop (1). I need to try again.
+OK.
+Act: pick up ButterKnife (2)
+You pick up ButterKnife (2). You see Sink (1), SinkBasin (1), Faucet (1), Drawer (1), CounterTop (1), Cabinet (1, 4), ButterKnife (2). I am holding ButterKnife (2) now.
+Act: put down ButterKnife (2)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), Faucet (1), Drawer (1), CounterTop (1), Cabinet (1, 4).
+Think: I failed to put ButterKnife (2) on CounterTop (1). I need to try again.
+OK.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see SaltShaker (3), Lettuce (1), Fridge (1), DiningTable (2), CounterTop (2), CoffeeMachine (1), ButterKnife (1), Apple (1). 
+Act: pick up SaltShaker (3)
+You pick up SaltShaker (3). You see SaltShaker (3), Lettuce (1), Fridge (1), DiningTable (2), CounterTop (2), CoffeeMachine (1), ButterKnife (1), Apple (1). I am holding SaltShaker (3) now.
+Act: put down SaltShaker (3)
+You put down failed, drop it. You see Lettuce (1), Fridge (1), DiningTable (2), CounterTop (2), CoffeeMachine (1), ButterKnife (1), Apple (1).
+Think: I failed to put SaltShaker (3) on CounterTop (2). I need to try again.
+OK.
+Act: pick up Lettuce (1)
+You pick up Lettuce (1). You see Lettuce (1), Fridge (1), DiningTable (2), CounterTop (2), CoffeeMachine (1), ButterKnife (1), Apple (1). I am holding Lettuce (1) now.
+Act: put down Lettuce (1)
+You put down failed, drop it. You see Fridge (1), DiningTable (2), CounterTop (2), CoffeeMachine (1), ButterKnife (1), Apple (1).
+Think: I failed to put Lettuce (1) on CounterTop (2). I need to try again.
+OK.
+Act: pick up Apple (1)
+You pick up Apple (1). You see Fridge (1), DiningTable (2), CounterTop (2), CoffeeMachine (1), ButterKnife (1), Apple (1). I am holding Apple (1) now.
+Act: put down Apple (1)
+You put down failed, drop it. You see Fridge (1), DiningTable (2), CounterTop (2), CoffeeMachine (1), ButterKnife (1).
+Think: I failed to put Apple (1) on CounterTop (2). I need to try again.
+OK.
+Act: pick up ButterKnife (1)
+You pick up ButterKnife (1). You see Fridge (1), DiningTable (2), CounterTop (2), CoffeeMachine (1), ButterKnife (1). I am holding ButterKnife (1) now.
+Act: put down ButterKnife (1)
+You put down failed, drop it. You see Fridge (1), DiningTable (2), CounterTop (2), CoffeeMachine (1).
+Think: I failed to put ButterKnife (1) on CounterTop (2). I need to try again.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Sink (1), SinkBasin (1), Faucet (1), Drawer (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Spatula (1), Sink (1, 1), SinkBasin (1, 1), Mug (1), Fridge (1), Faucet (1, 1), Drawer (1, 1), DiningTable (2), CounterTop (1, 1, 2), CoffeeMachine (1), Cabinet (1, 1, 4, 4). 
+Act: pick up Mug (1)
+
+Think: I hold Mug (1). Now, I need to put it on the counter. I can see CounterTop (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Sink (1), SinkBasin (1), Faucet (1), Drawer (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Spatula (1), Sink (1, 1), SinkBasin (1, 1), Mug (1), Fridge (1), Faucet (1, 1), Drawer (1, 1), DiningTable (2), CounterTop (1, 1, 2), CoffeeMachine (1), Cabinet (1, 1, 4, 4). 
+Act: pick up Mug (1)
+
+Think: I hold Mug (1). Now, I need to put it on the counter. I can see CounterTop (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Sink (1), SinkBasin (1), Faucet (1), Drawer (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Spatula (1), Sink (1, 1), SinkBasin (1, 1), Mug (1), Fridge (1), Faucet (1, 1), Drawer (1, 1), DiningTable (2), CounterTop (1, 1, 2), CoffeeMachine (1), Cabinet (1, 1, 4, 4). 
+Act: pick up Mug (1)
+
+Think: I hold Mug (1). Now, I need to put it on the counter. I can see CounterTop (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Sink (1), SinkBasin (1), Faucet (1), Drawer (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Spatula (1), Sink (1, 1), SinkBasin (1, 1), Mug (1), Fridge (1), Faucet (1, 1), Drawer (1, 1), DiningTable (2), CounterTop (1, 1, 2), CoffeeMachine (1), Cabinet (1, 1, 4, 4). 
+Act: pick up Mug (1)
+
+Think: I hold Mug (1). Now, I need to put it on the counter. I can see CounterTop (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Sink (1), SinkBasin (1), Faucet (1), Drawer (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Spatula (1), Sink (1, 1), SinkBasin (1, 1), Mug (1), Fridge (1), Faucet (1, 1), Drawer (1, 1), DiningTable (2), CounterTop (1, 1, 2), CoffeeMachine (1), Cabinet (1, 1, 4, 4). 
+Act: pick up Mug (1)
+
+Think: I hold Mug (1). Now, I need to put it on the counter. I can see CounterTop (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Sink (1), SinkBasin (1), Faucet (1), Drawer (1), CounterTop (1), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Spatula (1), Sink (1, 1), SinkBasin (1, 1), Mug (1), Fridge (1), Faucet (1, 1), Drawer (1, 1), DiningTable (2), CounterTop (1, 1, 2), CoffeeMachine (1), Cabinet (1, 1, 4, 4). 
+Max decisions

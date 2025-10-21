@@ -1,0 +1,7 @@
+Your task is to: Put two pencils in a night stand drawer.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8), GarbageCan (1), Drawer (1, 2), Desk (1), Bed (1).
+Think: Since I’m not holding pencils, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up pencil, place pencil in drawer, find and pick up pencil away from drawer, and place pencil in drawer.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up pencil, place pencil in drawer, find and pick up pencil away from drawer, place pencil in drawer

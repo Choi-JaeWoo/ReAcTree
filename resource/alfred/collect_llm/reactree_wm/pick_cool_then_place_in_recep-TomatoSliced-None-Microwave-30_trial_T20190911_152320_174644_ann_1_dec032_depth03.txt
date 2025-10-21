@@ -1,0 +1,19 @@
+Your primary goal is to: place a cooled tomato slice inside of the microwave
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, slice and pick up tomato, cool and pick up tomato, find and pick up tomato away from microwave, and place tomato in microwave.
+Your task is to: find and pick up tomato away from microwave
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27), CounterTop (1, 2, 3, 4), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13). I am holding Tomato (4) now.
+Think: I hold Tomato (4). Now, I need to recall location of the tomato.
+OK.
+Act: recall location of Tomato
+You saw Tomato (4) near hand. You saw Tomato (5) near CounterTop (2). You saw Tomato (6) near CounterTop (2). You saw Tomato (7) near CounterTop (2). You saw Tomato (8) near CounterTop (2). You saw Tomato (9) near CounterTop (2). You saw Tomato (10) near CounterTop (2).
+Think: Tomato (4) is in hand. I can find another tomato, Tomato (5), near CounterTop (2).
+OK.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Window (1), Tomato (4, 5, 6, 7, 8, 9, 10), Spoon (1), Sink (1), SinkBasin (1), HousePlant (1), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), CellPhone (1), Cabinet (3, 6).  I am holding Tomato (4) now.
+Think: I find Tomato (5). Now, I need to pick it up.
+OK.
+Act: pick up Tomato (5)
+You are currently holding Tomato (4). I am holding Tomato (4) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

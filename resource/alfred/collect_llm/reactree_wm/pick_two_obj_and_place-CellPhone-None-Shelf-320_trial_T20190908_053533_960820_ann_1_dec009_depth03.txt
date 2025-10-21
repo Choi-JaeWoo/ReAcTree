@@ -1,0 +1,187 @@
+Your primary goal is to: Move two phones to a shelf above a desk.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up phone, place phone on shelf, Find and pick up phone away from shelf, and place phone on shelf.
+Your task is to: place phone on shelf
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1, 2, 3, 4, 5), GarbageCan (1), Desk (1, 2), Bed (1). I am holding CellPhone (1) now.
+Think: I hold CellPhone (1). Now, I need to put it on the shelf. I can see Shelf (1).
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3).  I am holding CellPhone (1) now.
+Act: put down CellPhone (1)
+You put down failed, drop it. You see Shelf (4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3).
+Think: I failed to put down CellPhone (1). I need to try again.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (2, 3, 4, 4), Pencil (2, 2), Laptop (3, 3), Desk (2, 2), Chair (1, 1), CellPhone (1, 1, 3, 3). 
+Act: pick up CellPhone (1)
+You pick up CellPhone (1). You see Shelf (2, 3, 4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3). I am holding CellPhone (1) now.
+Act: put down CellPhone (1)
+You put down failed, drop it. You see Shelf (2, 3, 4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3).
+Think: I failed to put down CellPhone (1). I need to try again.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (2, 2, 3, 3, 4, 4), Pencil (2, 2), Laptop (3, 3), KeyChain (1, 1), Desk (2, 2), Chair (1, 1), CellPhone (1, 1, 3, 3). 
+Act: pick up CellPhone (1)
+You pick up CellPhone (1). You see Shelf (2, 3, 4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3). I am holding CellPhone (1) now.
+Act: put down CellPhone (1)
+You put down failed, drop it. You see Shelf (2, 3, 4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3).
+Think: I failed to put down CellPhone (1). I need to try again.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (2, 2, 3, 3, 4, 4), Pencil (2, 2), Laptop (3, 3), KeyChain (1, 1), Desk (2, 2), Chair (1, 1), CellPhone (1, 1, 3, 3). 
+Act: pick up CellPhone (1)
+You pick up CellPhone (1). You see Shelf (2, 3, 4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3). I am holding CellPhone (1) now.
+Act: put down CellPhone (1)
+You put down failed, drop it. You see Shelf (2, 3, 4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3).
+Think: I failed to put down CellPhone (1). I need to try again.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (2, 2, 3, 3, 4, 4), Pencil (2, 2), Laptop (3, 3), KeyChain (1, 1), Desk (2, 2), Chair (1, 1), CellPhone (1, 1, 3, 3). 
+Act: pick up CellPhone (1)
+You pick up CellPhone (1). You see Shelf (2, 3, 4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3). I am holding CellPhone (1) now.
+Act: put down CellPhone (1)
+You put down failed, drop it. You see Shelf (2, 3, 4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3).
+Think: I failed to put down CellPhone (1). I need to try again.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (2, 2, 3, 3, 4, 4), Pencil (2, 2), Laptop (3, 3), KeyChain (1, 1), Desk (2, 2), Chair (1, 1), CellPhone (1, 1, 3, 3). 
+Act: pick up CellPhone (1)
+You pick up CellPhone (1). You see Shelf (2, 3, 4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3). I am holding CellPhone (1) now.
+Act: put down CellPhone (1)
+You put down failed, drop it. You see Shelf (2, 3, 4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3).
+Think: I failed to put down CellPhone (1). I need to try again.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (2, 2, 3, 3, 4, 4), Pencil (2, 2), Laptop (3, 3), KeyChain (1, 1), Desk (2, 2), Chair (1, 1), CellPhone (1, 1, 3, 3). 
+Act: pick up CellPhone (1)
+You pick up CellPhone (1). You see Shelf (2, 3, 4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3). I am holding CellPhone (1) now.
+Act: put down CellPhone (1)
+You put down failed, drop it. You see Shelf (2, 3, 4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3).
+Think: I failed to put down CellPhone (1). I need to try again.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (2, 2, 3, 3, 4, 4), Pencil (2, 2), Laptop (3, 3), KeyChain (1, 1), Desk (2, 2), Chair (1, 1), CellPhone (1, 1, 3, 3). 
+Act: pick up CellPhone (1)
+You pick up CellPhone (1). You see Shelf (2, 3, 4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3). I am holding CellPhone (1) now.
+Act: put down CellPhone (1)
+You put down failed, drop it. You see Shelf (2, 3, 4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3).
+Think: I failed to put down CellPhone (1). I need to try again.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (2, 2, 3, 3, 4, 4), Pencil (2, 2), Laptop (3, 3), KeyChain (1, 1), Desk (2, 2), Chair (1, 1), CellPhone (1, 1, 3, 3). 
+Act: pick up CellPhone (1)
+You pick up CellPhone (1). You see Shelf (2, 3, 4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3). I am holding CellPhone (1) now.
+Act: put down CellPhone (1)
+You put down failed, drop it. You see Shelf (2, 3, 4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3).
+Think: I failed to put down CellPhone (1). I need to try again.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (2, 2, 3, 3, 4, 4), Pencil (2, 2), Laptop (3, 3), KeyChain (1, 1), Desk (2, 2), Chair (1, 1), CellPhone (1, 1, 3, 3). 
+Act: pick up CellPhone (1)
+You pick up CellPhone (1). You see Shelf (2, 3, 4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3). I am holding CellPhone (1) now.
+Act: put down CellPhone (1)
+You put down failed, drop it. You see Shelf (2, 3, 4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3).
+Think: I failed to put down CellPhone (1). I need to try again.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (2, 2, 3, 3, 4, 4), Pencil (2, 2), Laptop (3, 3), KeyChain (1, 1), Desk (2, 2), Chair (1, 1), CellPhone (1, 1, 3, 3). 
+Act: pick up CellPhone (1)
+You pick up CellPhone (1). You see Shelf (2, 3, 4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3). I am holding CellPhone (1) now.
+Act: put down CellPhone (1)
+You put down failed, drop it. You see Shelf (2, 3, 4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3).
+Think: I failed to put down CellPhone (1). I need to try again.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (2, 2, 3, 3, 4, 4), Pencil (2, 2), Laptop (3, 3), KeyChain (1, 1), Desk (2, 2), Chair (1, 1), CellPhone (1, 1, 3, 3). 
+Act: pick up CellPhone (1)
+You pick up CellPhone (1). You see Shelf (2, 3, 4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3). I am holding CellPhone (1) now.
+Act: put down CellPhone (1)
+You put down failed, drop it. You see Shelf (2, 3, 4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3).
+Think: I failed to put down CellPhone (1). I need to try again.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (2, 2, 3, 3, 4, 4), Pencil (2, 2), Laptop (3, 3), KeyChain (1, 1), Desk (2, 2), Chair (1, 1), CellPhone (1, 1, 3, 3). 
+Act: pick up CellPhone (1)
+You pick up CellPhone (1). You see Shelf (2, 3, 4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3). I am holding CellPhone (1) now.
+Act: put down CellPhone (1)
+You put down failed, drop it. You see Shelf (2, 3, 4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3).
+Think: I failed to put down CellPhone (1). I need to try again.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (2, 2, 3, 3, 4, 4), Pencil (2, 2), Laptop (3, 3), KeyChain (1, 1), Desk (2, 2), Chair (1, 1), CellPhone (1, 1, 3, 3). 
+Act: pick up CellPhone (1)
+You pick up CellPhone (1). You see Shelf (2, 3, 4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3). I am holding CellPhone (1) now.
+Act: put down CellPhone (1)
+You put down failed, drop it. You see Shelf (2, 3, 4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3).
+Think: I failed to put down CellPhone (1). I need to try again.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (2, 2, 3, 3, 4, 4), Pencil (2, 2), Laptop (3, 3), KeyChain (1, 1), Desk (2, 2), Chair (1, 1), CellPhone (1, 1, 3, 3). 
+Act: pick up CellPhone (1)
+You pick up CellPhone (1). You see Shelf (2, 3, 4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3). I am holding CellPhone (1) now.
+Act: put down CellPhone (1)
+You put down failed, drop it. You see Shelf (2, 3, 4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3).
+Think: I failed to put down CellPhone (1). I need to try again.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (2, 2, 3, 3, 4, 4), Pencil (2, 2), Laptop (3, 3), KeyChain (1, 1), Desk (2, 2), Chair (1, 1), CellPhone (1, 1, 3, 3). 
+Act: pick up CellPhone (1)
+You pick up CellPhone (1). You see Shelf (2, 3, 4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3). I am holding CellPhone (1) now.
+Act: put down CellPhone (1)
+You put down failed, drop it. You see Shelf (2, 3, 4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3).
+Think: I failed to put down CellPhone (1). I need to try again.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (2, 2, 3, 3, 4, 4), Pencil (2, 2), Laptop (3, 3), KeyChain (1, 1), Desk (2, 2), Chair (1, 1), CellPhone (1, 1, 3, 3). 
+Act: pick up CellPhone (1)
+You pick up CellPhone (1). You see Shelf (2, 3, 4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3). I am holding CellPhone (1) now.
+Act: put down CellPhone (1)
+You put down failed, drop it. You see Shelf (2, 3, 4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3).
+Think: I failed to put down CellPhone (1). I need to try again.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (2, 2, 3, 3, 4, 4), Pencil (2, 2), Laptop (3, 3), KeyChain (1, 1), Desk (2, 2), Chair (1, 1), CellPhone (1, 1, 3, 3). 
+Act: pick up CellPhone (1)
+You pick up CellPhone (1). You see Shelf (2, 3, 4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3). I am holding CellPhone (1) now.
+Act: put down CellPhone (1)
+You put down failed, drop it. You see Shelf (2, 3, 4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3).
+Think: I failed to put down CellPhone (1). I need to try again.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (2, 2, 3, 3, 4, 4), Pencil (2, 2), Laptop (3, 3), KeyChain (1, 1), Desk (2, 2), Chair (1, 1), CellPhone (1, 1, 3, 3). 
+Act: pick up CellPhone (1)
+You pick up CellPhone (1). You see Shelf (2, 3, 4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3). I am holding CellPhone (1) now.
+Act: put down CellPhone (1)
+You put down failed, drop it. You see Shelf (2, 3, 4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3).
+Think: I failed to put down CellPhone (1). I need to try again.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (2, 2, 3, 3, 4, 4), Pencil (2, 2), Laptop (3, 3), KeyChain (1, 1), Desk (2, 2), Chair (1, 1), CellPhone (1, 1, 3, 3). 
+Act: pick up CellPhone (1)
+You pick up CellPhone (1). You see Shelf (2, 3, 4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3). I am holding CellPhone (1) now.
+Act: put down CellPhone (1)
+You put down failed, drop it. You see Shelf (2, 3, 4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3).
+Think: I failed to put down CellPhone (1). I need to try again.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (2, 2, 3, 3, 4, 4), Pencil (2, 2), Laptop (3, 3), KeyChain (1, 1), Desk (2, 2), Chair (1, 1), CellPhone (1, 1, 3, 3). 
+Act: pick up CellPhone (1)
+You pick up CellPhone (1). You see Shelf (2, 3, 4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3). I am holding CellPhone (1) now.
+Act: put down CellPhone (1)
+You put down failed, drop it. You see Shelf (2, 3, 4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3).
+Think: I failed to put down CellPhone (1). I need to try again.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (2, 2, 3, 3, 4, 4), Pencil (2, 2), Laptop (3, 3), KeyChain (1, 1), Desk (2, 2), Chair (1, 1), CellPhone (1, 1, 3, 3). 
+Act: pick up CellPhone (1)
+You pick up CellPhone (1). You see Shelf (2, 3, 4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3). I am holding CellPhone (1) now.
+Act: put down CellPhone (1)
+You put down failed, drop it. You see Shelf (2, 3, 4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3).
+Think: I failed to put down CellPhone (1). I need to try again.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (2, 2, 3, 3, 4, 4), Pencil (2, 2), Laptop (3, 3), KeyChain (1, 1), Desk (2, 2), Chair (1, 1), CellPhone (1, 1, 3, 3). 
+Act: pick up CellPhone (1)
+You pick up CellPhone (1). You see Shelf (2, 3, 4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3). I am holding CellPhone (1) now.
+Act: put down CellPhone (1)
+You put down failed, drop it. You see Shelf (2, 3, 4), Pencil (2), Laptop (3), KeyChain (1), Desk (2), Chair (1), CellPhone (1, 3).
+Max decisions

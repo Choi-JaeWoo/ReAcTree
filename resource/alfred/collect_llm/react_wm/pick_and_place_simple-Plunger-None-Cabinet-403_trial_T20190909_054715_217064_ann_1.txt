@@ -1,0 +1,45 @@
+Your task is to: Move a plunger to the cabinet.
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1, 2), Toilet (1), ToiletPaperHanger (1), SinkBasin (1, 2), Shelf (1), HandTowelHolder (1), GarbageCan (1), CounterTop (1), Cabinet (1, 2, 3, 4), Bathtub (1), BathtubBasin (1).
+Think: To solve the task, I need to find and pick up the plunger, then put it in the cabinet.
+OK.
+Think: First, I need to recall location of the plunger.
+OK.
+Act: recall location of Plunger
+You have not seen Plunger before.
+Think: Now I need to find the plunger. The plunger is more likely to appear on CounterTop (1), BathtubBasin (1), SinkBasin (1), Shelf (1), or in Cabinet (1-4). I can check each place one by one, starting from CounterTop (1), until I find the plunger.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see SprayBottle (1), Sink (1, 2), SinkBasin (1, 2), Mirror (1), Faucet (3, 4), CounterTop (1), Cabinet (4). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), ShowerGlass (1), DishSponge (1), Cloth (1, 2), Bathtub (1), BathtubBasin (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see SoapBar (2), Sink (2), SinkBasin (1), Mirror (1), Faucet (3), CounterTop (1), Cabinet (2, 3, 4). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Window (2), SprayBottle (2), ShowerGlass (1), ShowerDoor (1), Bathtub (1). 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see ToiletPaper (2), SoapBottle (1, 2), Sink (1), GarbageCan (1), CounterTop (1), Cabinet (1, 3, 4). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see ToiletPaper (2), SoapBottle (1, 2), Sink (1), GarbageCan (1), CounterTop (1), Cabinet (1, 3, 4).
+Act: close Cabinet (1)
+You close Cabinet (1). You see ToiletPaper (2), SoapBottle (1, 2), Sink (1), GarbageCan (1), CounterTop (1), Cabinet (1, 3, 4).
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Sink (2), SinkBasin (1), ShowerGlass (1), ShowerDoor (1), CounterTop (1), Cabinet (2, 4). Cabinet (2) is closed. 
+Act: open Cabinet (2)
+You open Cabinet (2). You see SprayBottle (2), ShowerGlass (1), ShowerDoor (1), Cabinet (2, 4).
+Act: close Cabinet (2)
+You close Cabinet (2). You see SprayBottle (2), ShowerGlass (1), ShowerDoor (1), Cabinet (2, 4).
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see SprayBottle (1), Sink (1, 2), SinkBasin (1), CounterTop (1), Cabinet (1, 2, 3, 4). Cabinet (3) is closed. 
+Act: open Cabinet (3)
+You open Cabinet (3). You see Cabinet (1, 2, 3, 4).
+Act: close Cabinet (3)
+You close Cabinet (3). You see Cabinet (1, 2, 3, 4).
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see SprayBottle (1), Sink (1, 2), SinkBasin (2), CounterTop (1), Cabinet (1, 2, 3, 4). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+You open Cabinet (4). You see Cabinet (1, 2, 3, 4).
+Act: close Cabinet (4)
+You close Cabinet (4). You see Cabinet (1, 2, 3, 4).
+Think: I cannot find the plunger.
+OK.
+Act: failure

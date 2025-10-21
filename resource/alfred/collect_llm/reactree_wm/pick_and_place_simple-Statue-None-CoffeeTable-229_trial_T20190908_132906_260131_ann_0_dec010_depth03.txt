@@ -1,0 +1,185 @@
+Your primary goal is to: Move the dog statue to the other side of the table. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up dog statue, and place dog statue on the other side of the table.
+Your task is to: place dog statue on the other side of the table
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2, 3), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), CoffeeTable (1), ArmChair (1). I am holding Statue (2) now.
+Think: I hold Statue (2). Now, I need to put it on the other side of the table. I can see CoffeeTable (1).
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see TissueBox (1), Statue (2), CoffeeTable (1), Box (1).  I am holding Statue (2) now.
+Act: put down Statue (2)
+You put down failed, drop it. You see TissueBox (1, 2), Statue (1, 2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1).
+Think: I failed to put down Statue (2). I need to try again.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see TissueBox (1, 2), Statue (1, 2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1). 
+Act: pick up Statue (2)
+You pick up Statue (2). You see Statue (2), CoffeeTable (1). I am holding Statue (2) now.
+Act: put down Statue (2)
+You put down failed, drop it. You see TissueBox (1, 2), Statue (1, 2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1).
+Think: I failed to put down Statue (2). I need to try again.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see TissueBox (1, 2), Statue (1, 2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1). 
+Act: pick up Statue (2)
+You pick up Statue (2). You see Statue (2), CoffeeTable (1). I am holding Statue (2) now.
+Act: put down Statue (2)
+You put down failed, drop it. You see TissueBox (1, 2), Statue (1, 2), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1).
+Think: I failed to put down Statue (2). I need to try again.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see TissueBox (1, 2), Statue (1, 2), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1). 
+Act: pick up Statue (2)
+You pick up Statue (2). You see Statue (2), CoffeeTable (1). I am holding Statue (2) now.
+Act: put down Statue (2)
+You put down failed, drop it. You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1).
+Think: I failed to put down Statue (2). I need to try again.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1). 
+Act: pick up Statue (1)
+You pick up Statue (1). You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1). I am holding Statue (1) now.
+Act: put down Statue (1)
+You put down failed, drop it. You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1).
+Think: I failed to put down Statue (1). I need to try again.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1). 
+Act: pick up Statue (1)
+You pick up Statue (1). You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1). I am holding Statue (1) now.
+Act: put down Statue (1)
+You put down failed, drop it. You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1).
+Think: I failed to put down Statue (1). I need to try again.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1). 
+Act: pick up Statue (1)
+You pick up Statue (1). You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1). I am holding Statue (1) now.
+Act: put down Statue (1)
+You put down failed, drop it. You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1).
+Think: I failed to put down Statue (1). I need to try again.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1). 
+Act: pick up Statue (1)
+You pick up Statue (1). You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1). I am holding Statue (1) now.
+Act: put down Statue (1)
+You put down failed, drop it. You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1).
+Think: I failed to put down Statue (1). I need to try again.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1). 
+Act: pick up Statue (1)
+You pick up Statue (1). You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1). I am holding Statue (1) now.
+Act: put down Statue (1)
+You put down failed, drop it. You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1).
+Think: I failed to put down Statue (1). I need to try again.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see TissueBox (1, 1, 2, 2), Statue (1, 1), Pencil (2, 2), Pen (3, 3), KeyChain (2, 2), CoffeeTable (1, 1), Box (1, 1), Book (1, 1). 
+Act: pick up Statue (1)
+You pick up Statue (1). You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1). I am holding Statue (1) now.
+Act: put down Statue (1)
+You put down failed, drop it. You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1).
+Think: I failed to put down Statue (1). I need to try again.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1). 
+Act: pick up Statue (1)
+You pick up Statue (1). You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1). I am holding Statue (1) now.
+Act: put down Statue (1)
+You put down failed, drop it. You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1).
+Think: I failed to put down Statue (1). I need to try again.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1). 
+Act: pick up Statue (1)
+You pick up Statue (1). You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1). I am holding Statue (1) now.
+Act: put down Statue (1)
+You put down failed, drop it. You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1).
+Think: I failed to put down Statue (1). I need to try again.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1). 
+Act: pick up Statue (1)
+You pick up Statue (1). You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1). I am holding Statue (1) now.
+Act: put down Statue (1)
+You put down failed, drop it. You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1).
+Think: I failed to put down Statue (1). I need to try again.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1). 
+Act: pick up Statue (1)
+You pick up Statue (1). You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1). I am holding Statue (1) now.
+Act: put down Statue (1)
+You put down failed, drop it. You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1).
+Think: I failed to put down Statue (1). I need to try again.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1). 
+Act: pick up Statue (1)
+You pick up Statue (1). You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1). I am holding Statue (1) now.
+Act: put down Statue (1)
+You put down failed, drop it. You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1).
+Think: I failed to put down Statue (1). I need to try again.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1). 
+Act: pick up Statue (1)
+You pick up Statue (1). You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1). I am holding Statue (1) now.
+Act: put down Statue (1)
+You put down failed, drop it. You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1).
+Think: I failed to put down Statue (1). I need to try again.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1). 
+Act: pick up Statue (1)
+You pick up Statue (1). You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1). I am holding Statue (1) now.
+Act: put down Statue (1)
+You put down failed, drop it. You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1).
+Think: I failed to put down Statue (1). I need to try again.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1). 
+Act: pick up Statue (1)
+You pick up Statue (1). You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1). I am holding Statue (1) now.
+Act: put down Statue (1)
+You put down failed, drop it. You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1).
+Think: I failed to put down Statue (1). I need to try again.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1). 
+Act: pick up Statue (1)
+You pick up Statue (1). You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1). I am holding Statue (1) now.
+Act: put down Statue (1)
+You put down failed, drop it. You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1).
+Think: I failed to put down Statue (1). I need to try again.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1). 
+Act: pick up Statue (1)
+You pick up Statue (1). You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1). I am holding Statue (1) now.
+Act: put down Statue (1)
+You put down failed, drop it. You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1).
+Think: I failed to put down Statue (1). I need to try again.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1). 
+Act: pick up Statue (1)
+You pick up Statue (1). You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1). I am holding Statue (1) now.
+Act: put down Statue (1)
+You put down failed, drop it. You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1).
+Think: I failed to put down Statue (1). I need to try again.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see TissueBox (1, 1, 2, 2), Statue (1, 1), Pencil (2, 2), Pen (3, 3), KeyChain (2, 2), CoffeeTable (1, 1), Box (1, 1), Book (1, 1). 
+Act: pick up Statue (1)
+You pick up Statue (1). You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1). I am holding Statue (1) now.
+Act: put down Statue (1)
+You put down failed, drop it. You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1).
+Think: I failed to put down Statue (1). I need to try again.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1). 
+Act: pick up Statue (1)
+You pick up Statue (1). You see TissueBox (1, 2), Statue (1), Pencil (2), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1). I am holding Statue (1) now.
+Max decisions

@@ -1,0 +1,7 @@
+Your task is to: Place two credit cards on a sofa
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), GarbageCan (1), DiningTable (1, 2), CoffeeTable (1), ArmChair (1, 2, 3).
+Think: Since I’m not holding the credit card, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up credit card, place credit card on sofa, Find and pick up credit card away from sofa, and place credit card on sofa.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up credit card, place credit card on sofa, Find and pick up credit card away from sofa, place credit card on sofa

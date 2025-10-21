@@ -1,0 +1,21 @@
+Your primary goal is to: To move two watches to the coffee table. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up watch, place watch on coffee table, Find and pick up watch away from coffee table, and place watch on coffee table.
+Your task is to: Find and pick up watch away from coffee table
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), CoffeeTable (1), ArmChair (1).
+Think: First, I need to recall location of the watch.
+OK.
+Act: recall location of Watch
+You saw Watch (2) near CoffeeTable (1).
+Think: Watch (2) is on CoffeeTable (1). Now, I need to find another watch. The watch is more likely to appear on Sofa (1), SideTable (1-2), ArmChair (1), or in Drawer (1-4). I can check each place one by one, starting from Sofa (1), until I find the watch.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1), Newspaper (1), KeyChain (2), CreditCard (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Dresser (1), Drawer (1, 2), Book (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), HousePlant (1), FloorLamp (1), Dresser (1), Drawer (4). 
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Sofa (1), Laptop (2), ArmChair (1). 
+Think: Now I accomplish the goal.
+OK.
+Act: failure

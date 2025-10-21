@@ -1,0 +1,159 @@
+Your primary goal is to: Place a cleaned head of lettuce on a small side table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up head of lettuce, clean and pick up head of lettuce, and place head of lettuce on small side table.
+Your task is to: place head of lettuce on small side table
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1, 2, 3), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4). I am holding DishSponge (1) now.
+Think: I hold DishSponge (1). Now, I need to recall location of the head of lettuce.
+OK.
+Act: recall location of Lettuce
+You saw Lettuce (1) near DiningTable (2).
+Think: I can find Lettuce (1) near DiningTable (2).
+OK.
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2).  I am holding DishSponge (1) now.
+Think: I find Lettuce (1). Now, I need to clean it using dish sponge.
+OK.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2).
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2).
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2).
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2).
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2).
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2).
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2).
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2).
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2).
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2).
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2).
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2).
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2).
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2).
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2).
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2).
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2).
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2).
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2).
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2).
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2).
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2).
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2).
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2).
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2).
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2).
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2).
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2).
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2).
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2).
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2).
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2).
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2).
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2).
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2).
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2).
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Toaster (1), Spoon (1), Spatula (1), SoapBottle (1), Lettuce (1), DishSponge (1), Cup (1), ButterKnife (2), Bread (1), Bowl (2). I am holding DishSponge (1) now.
+Max decisions

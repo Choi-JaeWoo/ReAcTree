@@ -1,0 +1,25 @@
+Your primary goal is to: Place the pencil on a plate on the coffee table. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pencil, place pencil on plate, find and pick up plate, and place plate on coffee table.
+Your task is to: place pencil on plate
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1), Ottoman (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7), DiningTable (1), CoffeeTable (1), ArmChair (1). I am holding Pencil (1) now.
+Think: I hold Pencil (1). Now, I need to recall location of the plate.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now, I need to find the plate. The plate is more likely to appear on CoffeeTable (1), SideTable (1), DiningTable (1) or in Drawer (1-7). I can check each place one by one, starting from CoffeeTable (1), until I find the plate.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3).  I am holding Pencil (1) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see WateringCan (1), Watch (3), SideTable (1), Pencil (1), HousePlant (1), Drawer (4).  I am holding Pencil (1) now.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (2, 3), TissueBox (1, 2, 3), Plate (1), Pencil (1), Newspaper (1), DiningTable (1), CreditCard (1), Chair (1, 2, 3, 4), Bowl (1), Book (2).  I am holding Pencil (1) now.
+Think: I find Plate (1). Now, I need to put down Pencil (1) on Plate (1).
+OK.
+Act: go to Plate (1)
+You arrive at Plate (1). You see Vase (2, 3), TissueBox (1, 2, 3), Plate (1), Pencil (1), Newspaper (1), DiningTable (1), Chair (1, 2, 3, 4, 5), Book (2).  I am holding Pencil (1) now.
+Act: put down Pencil (1)
+You put Pencil (1) on Plate (1). You see Vase (2, 3), TissueBox (1, 2, 3), Plate (1), Pencil (1), Newspaper (1), DiningTable (1), Chair (1, 2, 3, 4, 5), Book (2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

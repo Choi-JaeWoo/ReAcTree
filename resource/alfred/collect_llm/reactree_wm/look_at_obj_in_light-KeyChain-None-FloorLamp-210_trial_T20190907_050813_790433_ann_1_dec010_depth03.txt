@@ -1,0 +1,43 @@
+Your primary goal is to: Grab the key chain from the ottoman, turn on the floor lamp
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up key chain, and turn on floor lamp.
+Your task is to: turn on floor lamp
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), Ottoman (1), GarbageCan (1), Dresser (1, 2), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CoffeeTable (1, 2), ArmChair (1). I am holding KeyChain (1) now.
+Think: First, I need to recall location of the floor lamp.
+OK.
+Act: recall location of FloorLamp
+You have not seen FloorLamp before.
+Think: Now I need to find the floor lamp. The floor lamp is more likely to appear near Sofa (1), Ottoman (1), Dresser (1-2), Drawer (1-8), CoffeeTable (1-2), ArmChair (1). I can check each place one by one, starting from Sofa (1), until I find the floor lamp.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1), Newspaper (2), Laptop (1), KeyChain (1).  I am holding KeyChain (1) now.
+Act: go to Ottoman (1)
+You arrive at Ottoman (1). You see Ottoman (1), Newspaper (1, 3), Laptop (2), KeyChain (1).  I am holding KeyChain (1) now.
+Act: go to Dresser (1)
+You arrive at Dresser (1). You see Watch (2), Television (1), KeyChain (1, 2), Dresser (1), Drawer (5, 6, 7, 8).  I am holding KeyChain (1) now.
+Act: go to Dresser (2)
+You arrive at Dresser (2). You see KeyChain (1), Dresser (2), Drawer (1, 2, 3, 4), Curtains (2).  I am holding KeyChain (1) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see KeyChain (1), Dresser (2), Drawer (1, 2, 3, 4), Curtains (2). Drawer (1) is closed.  I am holding KeyChain (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see KeyChain (1), Dresser (2), Drawer (1, 2, 3, 4), Curtains (1). Drawer (2) is closed.  I am holding KeyChain (1) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see KeyChain (1), Dresser (2), Drawer (1, 2, 3, 4), Curtains (2). Drawer (3) is closed.  I am holding KeyChain (1) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see KeyChain (1), Dresser (2), Drawer (1, 2, 3, 4), Curtains (1). Drawer (4) is closed.  I am holding KeyChain (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Watch (2), Television (1), KeyChain (1, 2), Dresser (1), Drawer (5, 6, 7, 8). Drawer (5) is closed.  I am holding KeyChain (1) now.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Watch (2), Television (1), KeyChain (1, 2), Dresser (1), Drawer (5, 6, 7, 8). Drawer (6) is closed.  I am holding KeyChain (1) now.
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see Watch (2), Television (1), KeyChain (1), Dresser (1), Drawer (5, 6, 7, 8), Curtains (2), Box (1). Drawer (7) is closed.  I am holding KeyChain (1) now.
+Act: go to Drawer (8)
+You arrive at Drawer (8). You see Watch (2), Television (1), KeyChain (1, 2), Dresser (1), Drawer (5, 6, 7, 8), Curtains (2), Box (1). Drawer (8) is closed.  I am holding KeyChain (1) now.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see KeyChain (1), DeskLamp (1), CoffeeTable (1), Chair (1).  I am holding KeyChain (1) now.
+Act: go to CoffeeTable (2)
+You arrive at CoffeeTable (2). You see Watch (1), Statue (1), Sofa (1), KeyChain (1), GarbageCan (1), CreditCard (2), CoffeeTable (2), ArmChair (1).  I am holding KeyChain (1) now.
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see KeyChain (1), ArmChair (1).  I am holding KeyChain (1) now.
+Think: I cannot find the floor lamp.
+OK.
+Act: failure

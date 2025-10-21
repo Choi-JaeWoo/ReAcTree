@@ -1,0 +1,39 @@
+Your primary goal is to: Place a glass with a fork in it on the counter to the right of the sink.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up glass, place glass on counter, find and pick up fork, and place fork on glass near counter.
+Your task is to: find and pick up glass
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2), DiningTable (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10).
+Think: First, I need to recall location of the glass.
+OK.
+Act: recall location of Glassbottle
+You have not seen Glassbottle before.
+Think: Now, I need to find the glass. The glass is more likely to appear on DiningTable (1), CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-10), Drawer (1-2). I can check each place one by one, starting from DiningTable (1), until I find the glass.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (1), Spoon (2, 3), Spatula (2), SoapBottle (2, 3), SaltShaker (1, 2), Potato (1), Pen (1), Pan (1), Mug (3), Lettuce (1), Knife (2), DiningTable (1), Cup (2), Chair (1, 2), ButterKnife (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), Sink (1), SinkBasin (1), Drawer (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 7). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Toaster (1), Sink (1), SinkBasin (1), Fork (1), Faucet (1), DishSponge (3), Cup (3), CounterTop (1), Cabinet (4, 7), Apple (3). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1). Fridge (1) is closed. 
+Act: open Fridge (1)
+You open Fridge (1). You see Fridge (1), Bread (2).
+Act: close Fridge (1)
+You close Fridge (1). You see Fridge (1).
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see StoveKnob (1, 2, 3, 4), StoveBurner (3), Microwave (1). Microwave (1) is closed. 
+Act: open Microwave (1)
+You open Microwave (1). You see StoveKnob (1, 2, 3, 4), StoveBurner (3), Microwave (1), Apple (1).
+Act: close Microwave (1)
+You close Microwave (1). You see StoveKnob (1, 2, 3, 4), StoveBurner (3), Microwave (1).
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Spoon (1), Spatula (1), Pot (2), Glassbottle (3), Drawer (1, 2), CounterTop (1), CoffeeMachine (1), Cabinet (1, 5), Bread (1). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see Spoon (1), Spatula (1), SaltShaker (3), Pot (2), Glassbottle (3), Drawer (1, 2), CounterTop (1), CoffeeMachine (1), Cabinet (1, 5), Bread (1).
+Think: I find Glassbottle (3). Now, I need to pick it up.
+OK.
+Act: pick up Glassbottle (3)
+You pick up Glassbottle (3). You see Spoon (1), Spatula (1), SaltShaker (3), Pot (2), Glassbottle (3), Drawer (1, 2), CounterTop (1), CoffeeMachine (1), Cabinet (1, 5), Bread (1). I am holding Glassbottle (3) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

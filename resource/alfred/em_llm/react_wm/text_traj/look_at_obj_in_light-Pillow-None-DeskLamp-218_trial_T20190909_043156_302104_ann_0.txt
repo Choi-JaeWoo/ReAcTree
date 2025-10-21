@@ -1,0 +1,31 @@
+Your task is to: Look at a purple pillow under a lit lamp.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), DiningTable (1), CoffeeTable (1).
+Think: To solve the task, I need to find and pick up the purple pillow. And I need to find and turn on the desk lamp.
+OK.
+Think: First, I need to recall location of the purple pillow.
+OK.
+Act: recall location of Pillow
+You have not seen Pillow before.
+Think: Now I need to find the purple pillow. The purple pillow is more likely to appear on Sofa (1), SideTable (1-2), Dresser (1), or in Drawer (1-4). I can check each place one by one, starting from Sofa (1), until I find the purple pillow.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1). 
+Think: I find Pillow (1). Now, I need to pick it up.
+OK.
+Act: pick up Pillow (1)
+You pick up Pillow (1). You see Sofa (1), Pillow (1). I am holding Pillow (1) now.
+Think: I hold Pillow (1). Now, I need to recall location of the desk lamp.
+OK.
+Act: recall location of DeskLamp
+You have not seen DeskLamp before.
+Think: Now I need to find the desk lamp The desk lamp is more likely to appear on SideTable (1-2), Dresser (1), or in Drawer (1-4). I can check each place one by one, starting from SideTable (1), until I find the desk lamp.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pillow (1), Newspaper (2), DeskLamp (1), Chair (4).  I am holding Pillow (1) now.
+Think: I find DeskLamp (1). Now, I need to turn it on.
+OK.
+Act: turn on DeskLamp (1)
+You turn on DeskLamp (1). You see SideTable (1), Pillow (1), Newspaper (2), DeskLamp (1), Chair (4). I am holding Pillow (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

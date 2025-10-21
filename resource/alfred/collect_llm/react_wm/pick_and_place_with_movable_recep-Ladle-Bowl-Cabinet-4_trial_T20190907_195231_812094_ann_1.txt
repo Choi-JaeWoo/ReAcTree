@@ -1,0 +1,41 @@
+Your task is to: Put away a bowl and ladle into a kitchen cabinet.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2).
+Think: To solve the task, I need to find and pick up the bowl and ladle, then put them in the cabinet.
+OK.
+Think: First, I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: Now I need to find the bowl. The bowl is more likely to appear on DiningTable (1), CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-2), Drawer (1-6). I can check each place one by one, starting from DiningTable (1), until I find the bowl.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (3), Plate (1, 2), Egg (1), DiningTable (1), ButterKnife (2), Bowl (3), Apple (1). 
+Think: I find Bowl (3). Now, I need to pick it up.
+OK.
+Act: pick up Bowl (3)
+You pick up Bowl (3). You see Tomato (3), Plate (1, 2), Egg (1), DiningTable (1), ButterKnife (2), Bowl (3), Apple (1). I am holding Bowl (3) now.
+Think: I hold Bowl (3). Now, I need to recall location of the ladle.
+OK.
+Act: recall location of Ladle
+You have not seen Ladle before.
+Think: Now I need to find the ladle. The ladle is more likely to appear on DiningTable (1), CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-2), Drawer (1-6). I can check each place one by one, starting from DiningTable (1), until I find the ladle.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (3), Plate (1, 2), Egg (1), DiningTable (1), ButterKnife (2), Bowl (3), Apple (1).  I am holding Bowl (3) now.
+Think: I find Ladle (1). Now, I need to pick it up.
+OK.
+Act: pick up Bowl (3)
+You are currently holding Bowl (3). I am holding Bowl (3) now.
+Think: I hold Ladle (1). Now, I need to put them in the cabinet.
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Sink (1), SinkBasin (1), Mug (1, 2), Ladle (1), Drawer (1, 2, 3, 4, 6), Cup (2), CounterTop (1), Cabinet (1, 2), Bowl (3). Cabinet (1) is closed.  I am holding Bowl (3) now.
+Act: open Cabinet (1)
+You open Cabinet (1). You see SoapBottle (2), Drawer (2, 3, 4, 6), Cabinet (1, 2), Bowl (3). I am holding Bowl (3) now.
+Act: put down Bowl (3)
+You put Bowl (3) on Cabinet (1). You see SoapBottle (2), Drawer (2, 3, 4, 6), Cabinet (1, 2), Bowl (3).
+Act: close Cabinet (1)
+You close Cabinet (1). You see Drawer (2, 3, 4, 6), Cabinet (1, 2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

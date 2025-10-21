@@ -1,0 +1,27 @@
+Your primary goal is to: Put a cooked slice of potato in a bin.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, slice and pick up potato, cook and pick up potato, and place potato in bin.
+Your task is to: cook and pick up potato
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4). I am holding Potato (5) now.
+Think: I hold Potato (5). Now, I need to cook it using the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Tomato (2), SideTable (1), Potato (5), PepperShaker (1), Microwave (1), Fridge (1), Apple (1). Microwave (1) is closed.  I am holding Potato (5) now.
+Act: open Microwave (1)
+You open Microwave (1). You see SideTable (1), Potato (5), Microwave (1), Fridge (1). I am holding Potato (5) now.
+Act: put down Potato (5)
+You put Potato (5) on Microwave (1). You see SideTable (1), Potato (5), Microwave (1), Fridge (1).
+Act: close Microwave (1)
+You close Microwave (1). You see Tomato (2), SideTable (1), PepperShaker (1), Microwave (1), Fridge (1), Apple (1).
+Act: turn on Microwave (1)
+You turn on Microwave (1). You see Tomato (2), SideTable (1), PepperShaker (1), Microwave (1), Fridge (1), Apple (1).
+Act: turn off Microwave (1)
+You turn off Microwave (1). You see Tomato (2), SideTable (1), PepperShaker (1), Microwave (1), Fridge (1), Apple (1).
+Think: I cook Potato (5) using Microwave (1). Now, I need to pick up the potato from the microwave.
+OK.
+Act: open Microwave (1)
+You open Microwave (1). You see SideTable (1), Potato (5), Microwave (1), Fridge (1).
+Act: pick up Potato (5)
+You pick up Potato (5). You see SideTable (1), Potato (5), Microwave (1), Fridge (1). I am holding Potato (5) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

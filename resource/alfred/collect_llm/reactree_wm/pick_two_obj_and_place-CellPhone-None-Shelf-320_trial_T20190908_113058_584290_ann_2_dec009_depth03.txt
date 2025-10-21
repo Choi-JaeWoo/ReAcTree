@@ -1,0 +1,13 @@
+Your primary goal is to: Place two cell phones on a dresser.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up cell phone, place cell phone on dresser, Find and pick up cell phone away from dresser, and place cell phone on dresser.
+Your task is to: place cell phone on dresser
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1, 2, 3, 4, 5), GarbageCan (1), Desk (1, 2), Bed (1). I am holding CellPhone (1) now.
+Think: I hold CellPhone (1). Now, I need to put it on the dresser. I can see Dresser (1).
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Window (2), Pencil (1), Desk (1), Curtains (2), CellPhone (1), AlarmClock (1, 2).  I am holding CellPhone (1) now.
+Act: put down CellPhone (1)
+You put CellPhone (1) on Desk (1). You see Window (2), Pencil (1), Desk (1), Curtains (2), CellPhone (1), AlarmClock (1, 2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

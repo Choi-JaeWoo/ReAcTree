@@ -1,0 +1,45 @@
+Your primary goal is to: Look at a laptop under the light of a lamp.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up laptop, and find and turn on lamp.
+Your task is to: find and pick up laptop
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1, 2), Shelf (1, 2, 3, 4, 5), GarbageCan (1), Drawer (1), CoffeeTable (1), ArmChair (1).
+Think: First, I need to recall location of the laptop.
+OK.
+Act: recall location of Laptop
+You have not seen Laptop before.
+Think: Now, I need to find the laptop. The laptop is more likely to appear on TVStand (1), Sofa (1), SideTable (1-2), CoffeeTable (1), ArmChair (1), Shelf (1-5), or in Drawer (1). I can check each place one by one, starting from TVStand (1), until I find the laptop.
+OK.
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), Shelf (2, 3), Newspaper (2), CellPhone (1). 
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1), Newspaper (3), KeyChain (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (3), SideTable (1), KeyChain (2), CellPhone (2). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Sofa (1), SideTable (2), Pillow (1), Drawer (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Vase (1), Statue (1), Shelf (5). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Television (1), TVStand (1), Shelf (2, 3), Newspaper (2), CellPhone (1). 
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Television (1), TVStand (1), Shelf (2, 3), Newspaper (2), CellPhone (1). 
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see Vase (1), Statue (1), Shelf (5). 
+Act: go to Shelf (5)
+You arrive at Shelf (5). You see Vase (1), Statue (1), Shelf (5). 
+Act: go to GarbageCan (1)
+You arrive at GarbageCan (1). You see Television (1), TVStand (1), Shelf (3), Newspaper (2), GarbageCan (1), CellPhone (3), ArmChair (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Pillow (1), Drawer (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Sofa (1), SideTable (2), Pillow (1), Drawer (1).
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sofa (1), SideTable (2), Pillow (1), Drawer (1). Drawer (1) is open. 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), RemoteControl (1, 2), Laptop (1), CreditCard (2), CoffeeTable (1). 
+Think: I find Laptop (1). Now, I need to pick it up.
+OK.
+Act: pick up Laptop (1)
+You pick up Laptop (1). You see Vase (2), RemoteControl (2), Laptop (1), CreditCard (2), CoffeeTable (1). I am holding Laptop (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

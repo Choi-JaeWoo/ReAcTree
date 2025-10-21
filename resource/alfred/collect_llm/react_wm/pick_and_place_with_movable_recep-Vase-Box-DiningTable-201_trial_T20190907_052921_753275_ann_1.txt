@@ -1,0 +1,59 @@
+Your task is to: Place a yellow vase in the box on the table.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1, 2), GarbageCan (1), Drawer (1, 2), DiningTable (1, 2), CoffeeTable (1), ArmChair (1, 2).
+Think: To solve the task, I need to find and pick up the vase, then put it in the box. And I need to pick up the vase from the box, then put it on the table.
+OK.
+Think: First, I need to recall location of the vase.
+OK.
+Act: recall location of Vase
+You have not seen Vase before.
+Think: Now I need to find the vase. The vase is more likely to appear on DiningTable (1-2), CoffeeTable (1), SideTable (1-2), or in Drawer (1-2). I can check each place one by one, starting from DiningTable (1), until I find the vase.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Watch (3), Vase (1), Plate (2), Laptop (1), DiningTable (1), Chair (2, 3, 4, 5), Bowl (1), Book (1). 
+Think: I find Vase (1). Now, I need to pick it up.
+OK.
+Act: pick up Vase (1)
+You pick up Vase (1). You see Watch (3), Vase (1), Plate (2), Laptop (1), DiningTable (1), Chair (2, 3, 4, 5), Bowl (1), Book (1). I am holding Vase (1) now.
+Think: I hold Vase (1). Now, I need to put it in the box.
+OK.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Vase (1), SideTable (1), Pen (1, 2), Painting (1), Drawer (1), DiningTable (2). Drawer (1) is closed.  I am holding Vase (1) now.
+Act: open Drawer (1)
+You open Drawer (1). You see Vase (1), SideTable (1), Pen (1, 2), Painting (1), Drawer (1), DiningTable (2). I am holding Vase (1) now.
+Act: put down Vase (1)
+You put down failed, drop it. You see Vase (1), SideTable (1), Pen (1, 2), Painting (1), Drawer (1), DiningTable (2).
+Act: close Drawer (1)
+You close Drawer (1). You see Vase (1), SideTable (1), Pen (1, 2), Painting (1), Drawer (1), DiningTable (2).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (2), SideTable (2), Lamp (1), Drawer (2), Curtains (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see Watch (2), SideTable (2), Lamp (1), Drawer (2), Curtains (1).
+Act: close Drawer (2)
+You close Drawer (2). You see Watch (2), SideTable (2), Lamp (1), Drawer (2), Curtains (1).
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see SideTable (1), HousePlant (1), Drawer (1), DiningTable (2). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), TissueBox (1), Sofa (1), RemoteControl (1), Plate (1), Newspaper (1), KeyChain (1), CoffeeTable (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1, 2), TissueBox (1), Sofa (1), SideTable (1), RemoteControl (1), Plate (1), Pen (1, 2), Newspaper (1), KeyChain (1), Drawer (1), DiningTable (2), CoffeeTable (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Watch (2), SideTable (2), Lamp (1), Drawer (2), Curtains (1). 
+Think: I put Vase (1) in Drawer (1). Now, I need to pick up the vase from the box.
+OK.
+Act: open Drawer (1)
+The Drawer (1) is not close to you.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Watch (2), Vase (1), SideTable (1, 2), Pen (1, 2), Painting (1), Lamp (1), Drawer (1, 2), Curtains (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Vase (1), SideTable (1), Pen (1, 2), Painting (1), Drawer (1).
+Act: pick up Vase (1)
+You pick up Vase (1). You see Vase (1), SideTable (1), Pen (1, 2), Painting (1), Drawer (1). I am holding Vase (1) now.
+Think: I pick up Vase (1) from Drawer (1). Now, I need to put it on the table.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Watch (3), Vase (1), Plate (2), Laptop (1), DiningTable (1), Chair (2, 3, 4, 5), Bowl (1), Book (1).  I am holding Vase (1) now.
+Act: put down Vase (1)
+You put Vase (1) on DiningTable (1). You see Watch (3), Vase (1), Plate (2), Laptop (1), DiningTable (1), Chair (2, 3, 4, 5), Bowl (1), Book (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

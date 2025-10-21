@@ -1,0 +1,21 @@
+Your primary goal is to: put the spoon in the bowl on the table, move them to the cabinet under sink
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up spoon, place spoon in bowl, find and pick up bowl, and and place bowl in cabinet.
+Your task is to: place spoon in bowl
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2). I am holding Spoon (1) now.
+Think: I hold Spoon (1). Now, I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You saw Bowl (3) near DiningTable (1).
+Think: I can find Bowl (3) on DiningTable (1).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spoon (1), SoapBottle (2), Pot (1), Knife (3), Fork (1, 2), DishSponge (1), DiningTable (1), Bowl (3).  I am holding Spoon (1) now.
+Think: I find Bowl (3). Now, I need to put down Spoon (1) on Bowl (3).
+OK.
+Act: go to Bowl (3)
+You arrive at Bowl (3). You see Toaster (1), Spoon (1), Spatula (1), Pot (1), Pan (1), Mug (1), Knife (3), Fork (1), DishSponge (1), DiningTable (1), CoffeeMachine (1), Bread (2), Bowl (3).  I am holding Spoon (1) now.
+Act: put down Spoon (1)
+You put Spoon (1) on Bowl (3). You see Toaster (1), Spoon (1), Spatula (1), Pot (1), Pan (1), Mug (1), Knife (3), Fork (1), DishSponge (1), DiningTable (1), CoffeeMachine (1), Bread (2), Bowl (3).
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,43 @@
+Your task is to: Look at a book by the light of a lamp.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1, 2, 3, 4, 5), GarbageCan (1), Desk (1, 2), Bed (1).
+Think: To solve the task, I need to find and pick up the book. And I need to find and turn on the desk lamp.
+OK.
+Think: First, I need to recall location of the book.
+OK.
+Act: recall location of Book
+You have not seen Book before.
+Think: Now I need to find the book. The book is more likely to appear on Bed (1), Desk (1-2), Shelf (1-5). I can check each place one by one, starting from Bed (1), until I find the book.
+OK.
+Act: go to Bed (1)
+You arrive at Bed (1). You see TeddyBear (1), Pillow (1, 2), Laptop (1), Desk (2), Bed (1). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Window (2), Laptop (2), Desk (1), Curtains (2), CreditCard (1), Book (2), AlarmClock (1). 
+Think: I find Book (2). Now, I need to pick it up.
+OK.
+Act: pick up Book (2)
+You pick up Book (2). You see Window (2), Laptop (2), Desk (1), Curtains (2), CreditCard (1), Book (2), AlarmClock (1). I am holding Book (2) now.
+Think: I hold Book (2). Now, I need to recall location of the desk lamp.
+OK.
+Act: recall location of DeskLamp
+You have not seen DeskLamp before.
+Think: Now I need to find the desk lamp The desk lamp is more likely to appear on Desk (1-2), Shelf (1-5). I can check each place one by one, starting from Desk (1), until I find the desk lamp.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Window (2), Laptop (2), Desk (1), Curtains (2), CreditCard (1), Book (2), AlarmClock (1).  I am holding Book (2) now.
+Act: go to Desk (2)
+You arrive at Desk (2). You see Shelf (4), KeyChain (1), Desk (2), CreditCard (2, 3), Chair (1), Book (1, 2).  I am holding Book (2) now.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (4), KeyChain (1), Desk (2), CreditCard (2, 3), Chair (1), Book (2).  I am holding Book (2) now.
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Shelf (4), KeyChain (1), Desk (2), CreditCard (2, 3), Chair (1), Book (2).  I am holding Book (2) now.
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Shelf (4), KeyChain (1), Desk (2), CreditCard (2, 3), Chair (1), Book (2).  I am holding Book (2) now.
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see Shelf (4), Desk (2), DeskLamp (1), CreditCard (2), Book (2).  I am holding Book (2) now.
+Think: I find DeskLamp (1). Now, I need to turn it on.
+OK.
+Act: turn on DeskLamp (1)
+You turn on DeskLamp (1). You see Shelf (4), Desk (2), DeskLamp (1), CreditCard (2), Book (2). I am holding Book (2) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,110 @@
+Your task is to: Place a warm apple slice in the sink.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8).
+Think: To solve the task, I need to find and pick up the apple, then put it in the microwave. And I need to turn on and off the microwave. And I need to pick up the apple from the microwave, then put it in the sink basin.
+OK.
+Think: First, I need to recall location of the apple.
+OK.
+Act: recall location of Apple
+You have not seen Apple before.
+Think: Now I need to find the apple. The apple is more likely to appear on CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-8). I can check each place one by one, starting from CounterTop (1), until I find the apple.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (2), Potato (3), Lettuce (1), Ladle (1), GarbageCan (1), CounterTop (1), Chair (1, 2), ButterKnife (2), Bread (1). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Window (2), Spoon (2), Spatula (1), Sink (1), SinkBasin (1), Knife (2), Faucet (1), DishSponge (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Spoon (2), Spatula (1), Sink (1), SinkBasin (1), Ladle (2), Knife (2), Faucet (1), DishSponge (1), CounterTop (2), CoffeeMachine (1). 
+Think: I find Apple (1). Now, I need to pick it up.
+OK.
+Act: pick up Knife (2)
+You pick up Knife (2). You see Window (2), Spoon (2), Spatula (1), Sink (1), SinkBasin (1), Ladle (2), Knife (2), Faucet (1), DishSponge (1), CounterTop (2), CoffeeMachine (1). I am holding Knife (2) now.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (2), Potato (3), Lettuce (1), Ladle (1), Knife (2), GarbageCan (1), CounterTop (1), Chair (1, 2), ButterKnife (2), Bread (1).  I am holding Knife (2) now.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Window (2), Spoon (2), Spatula (1), Sink (1), SinkBasin (1), Knife (2), Faucet (1), DishSponge (1), CounterTop (2), CoffeeMachine (1).  I am holding Knife (2) now.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Spoon (2), Spatula (1), Sink (1), SinkBasin (1), Ladle (2), Knife (2), Faucet (1), DishSponge (1), CounterTop (2), CoffeeMachine (1).  I am holding Knife (2) now.
+Act: put down Knife (2)
+You put Knife (2) on SinkBasin (1). You see Window (2), Spoon (2), Spatula (1), Sink (1), SinkBasin (1), Ladle (2), Knife (2), Faucet (1), DishSponge (1), CounterTop (2), CoffeeMachine (1).
+Think: I hold Apple (1). Now, I need to put it in the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see StoveBurner (1, 2), SaltShaker (1), Pan (1), Microwave (1), Knife (3), DishSponge (1). Microwave (1) is closed. 
+Act: open Microwave (1)
+You open Microwave (1). You see SaltShaker (1), Microwave (1), Knife (3), DishSponge (1).
+Act: pick up Knife (3)
+You pick up Knife (3). You see SaltShaker (1), Microwave (1), Knife (3), DishSponge (1). I am holding Knife (3) now.
+Act: put down Knife (3)
+You put down failed, drop it. You see SaltShaker (1), Microwave (1), DishSponge (1).
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (2), Potato (3), Lettuce (1), Ladle (1), GarbageCan (1), CounterTop (1), Chair (1, 2), ButterKnife (2), Bread (1). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Window (2), Spoon (2), Spatula (1), Sink (1), SinkBasin (1), Knife (2), Faucet (1), DishSponge (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Spoon (2), Spatula (1), Sink (1), SinkBasin (1), Ladle (2), Knife (2), Faucet (1), DishSponge (1), CounterTop (2), CoffeeMachine (1). 
+Act: pick up Knife (2)
+You pick up Knife (2). You see Window (2), Spoon (2), Spatula (1), Sink (1), SinkBasin (1), Ladle (2), Knife (2), Faucet (1), DishSponge (1), CounterTop (2), CoffeeMachine (1). I am holding Knife (2) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see SaltShaker (1), Microwave (1), Knife (2), DishSponge (1). Microwave (1) is open.  I am holding Knife (2) now.
+Act: put down Knife (2)
+You put Knife (2) on Microwave (1). You see SaltShaker (1), Microwave (1), Knife (2), DishSponge (1).
+Act: close Microwave (1)
+You close Microwave (1). You see StoveBurner (1, 2), SaltShaker (1), Pan (1), Microwave (1), DishSponge (1).
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (2), Potato (3), Lettuce (1), Ladle (1), GarbageCan (1), CounterTop (1), Chair (1, 2), ButterKnife (2), Bread (1). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Window (2), Spoon (2), Spatula (1), Sink (1), SinkBasin (1), Faucet (1), DishSponge (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Spoon (2), Spatula (1), Sink (1), SinkBasin (1), Ladle (2), Faucet (1), DishSponge (1), CounterTop (2), CoffeeMachine (1). 
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Window (2), Spoon (2), Spatula (1), Sink (1), SinkBasin (1), Ladle (2), Faucet (1), DishSponge (1), CounterTop (2), CoffeeMachine (1). I am holding DishSponge (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see StoveBurner (1, 2), SaltShaker (1), Pan (1), Microwave (1), DishSponge (1). Microwave (1) is closed.  I am holding DishSponge (1) now.
+Act: open Microwave (1)
+You open Microwave (1). You see SaltShaker (1), Microwave (1), Knife (2), DishSponge (1). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put DishSponge (1) on Microwave (1). You see SaltShaker (1), Microwave (1), Knife (2), DishSponge (1).
+Act: close Microwave (1)
+You close Microwave (1). You see StoveBurner (1, 2), SaltShaker (1), Pan (1), Microwave (1).
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (2), Potato (3), Lettuce (1), Ladle (1), GarbageCan (1), CounterTop (1), Chair (1, 2), ButterKnife (2), Bread (1). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Window (2), Spoon (2), Spatula (1), Sink (1), SinkBasin (1), Faucet (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Spoon (2), Spatula (1), Sink (1), SinkBasin (1), Ladle (2), Faucet (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see StoveBurner (1, 2), SaltShaker (1), Pan (1), Microwave (1). Microwave (1) is closed. 
+Act: open Microwave (1)
+You open Microwave (1). You see SaltShaker (1), Microwave (1), Knife (2), DishSponge (1).
+Act: pick up Knife (2)
+You pick up Knife (2). You see SaltShaker (1), Microwave (1), Knife (2), DishSponge (1). I am holding Knife (2) now.
+Act: put down Knife (2)
+You put down failed, drop it. You see SaltShaker (1), Microwave (1), DishSponge (1).
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (2), Potato (3), Lettuce (1), Ladle (1), GarbageCan (1), CounterTop (1), Chair (1, 2), ButterKnife (2), Bread (1). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Window (2), Spoon (2), Spatula (1), Sink (1), SinkBasin (1), Faucet (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Spoon (2), Spatula (1), Sink (1), SinkBasin (1), Ladle (2), Faucet (1), CounterTop (2), CoffeeMachine (1). 
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see SaltShaker (1), Microwave (1), DishSponge (1). Microwave (1) is open. 
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see SaltShaker (1), Microwave (1), DishSponge (1). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see SaltShaker (1), Microwave (1).
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (2), Potato (3), Lettuce (1), Ladle (1), GarbageCan (1), CounterTop (1), Chair (1, 2), ButterKnife (2), Bread (1). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Window (2), Spoon (2), Spatula (1, 2), Sink (1), SinkBasin (1), Potato (3), Lettuce (1), Ladle (1, 2), GarbageCan (1), Faucet (1), CounterTop (1, 2), CoffeeMachine (1), Chair (1, 2), ButterKnife (2), Bread (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2, 2), Spoon (2, 2), Spatula (1, 1), Sink (1, 1), SinkBasin (1, 1), Ladle (2, 2), Faucet (1, 1), CounterTop (2, 2), CoffeeMachine (1, 1). 
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Window (2), StoveKnob (4), StoveBurner (1, 2), Spoon (2), Spatula (1), Sink (1, 1), SinkBasin (1), SaltShaker (1), Pan (1), Microwave (1), Ladle (2), Faucet (1), DishSponge (3), CounterTop (2, 2), CoffeeMachine (1). Microwave (1) is open. 
+Act: pick up DishSponge (3)
+You pick up DishSponge (3). You see StoveKnob (4), StoveBurner (1, 2), Sink (1), SaltShaker (1), Pan (1), Microwave (1), DishSponge (3), CounterTop (2). I am holding DishSponge (3) now.
+Act: put down DishSponge (3)
+You put down failed, drop it. You see StoveKnob (4), StoveBurner (1, 2), Sink (1), SaltShaker (1), Pan (1), Microwave (1), CounterTop (2).
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (2), Potato (3), Lettuce (1), Ladle (1), GarbageCan (1), CounterTop (1), Chair (1, 2), ButterKnife (2), Bread (1). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Window (2), Spoon (2), Spatula (1, 2), Sink (1), SinkBasin (1), Potato (3), Lettuce (1), Ladle (1, 2), GarbageCan (1), Faucet (1), CounterTop (1, 2), CoffeeMachine (1), Chair (1, 2), ButterKnife (2), Bread (1). 

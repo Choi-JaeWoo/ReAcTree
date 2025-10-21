@@ -1,0 +1,19 @@
+Your primary goal is to: Put the plate with candle under the tv stand
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up plate, place plate under tv stand, find and pick up candle, and place candle on plate near tv stand.
+Your task is to: find and pick up candle
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), GarbageCan (1), DiningTable (1, 2), CoffeeTable (1), ArmChair (1, 2, 3).
+Think: First, I need to recall location of the candle.
+OK.
+Act: recall location of Candle
+You saw Candle (3) near DiningTable (1).
+Think: I can find Candle (3) near DiningTable (1).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (2), Statue (2), DiningTable (1), Chair (1, 2), Candle (3), Box (2). 
+Think: I find Candle (3). Now, I need to pick it up.
+OK.
+Act: pick up Candle (3)
+You pick up Candle (3). You see Vase (2), Statue (2), DiningTable (1), Chair (1, 2), Candle (3), Box (2). I am holding Candle (3) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,25 @@
+Your primary goal is to: Put a clean knife in a tomato. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, clean and pick up knife, and place knife in tomato.
+Your task is to: place knife in tomato
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10). I am holding Knife (3) now.
+Think: I hold Knife (3). Now, I need to recall location of the tomato.
+OK.
+Act: recall location of Tomato
+You saw Tomato (1) near DiningTable (1).
+Think: I can find Tomato (1) near DiningTable (1).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (1), Toaster (1), Potato (1), Lettuce (1), Knife (3), Fork (1), DishSponge (3), DiningTable (1), ButterKnife (2, 3).  I am holding Knife (3) now.
+Think: I find Tomato (1). Now, I need to put down Knife (3) in Tomato (1).
+OK.
+Act: go to Tomato (1)
+You see Tomato (1), Spoon (2), Potato (1), Knife (3), Fork (1), DiningTable (1), ButterKnife (2, 3).  I am holding Knife (3) now.
+Act: put down Knife (3)
+You put down failed, drop it. You see Tomato (1), Spoon (2), Potato (1), Fork (1), DiningTable (1), ButterKnife (2, 3).
+Think: Now I need to pick up Knife (3).
+OK.
+Act: pick up Tomato (1)
+You pick up Tomato (1). You see Tomato (1), Spoon (2), Potato (1), Fork (1), DiningTable (1), ButterKnife (2, 3). I am holding Tomato (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,13 @@
+Your primary goal is to: Get knife, clean knife, put in apple on table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: get knife, clean knife, and put in apple on table.
+Your task is to: put in apple on table
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10). I am holding Knife (3) now.
+Think: I hold Knife (3). Now, I need to put it on the table. I can see DiningTable (1).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (1), Toaster (1), Potato (1), Lettuce (1), Knife (3), Fork (1), DishSponge (3), DiningTable (1), ButterKnife (2, 3).  I am holding Knife (3) now.
+Act: put down Knife (3)
+You put Knife (3) on DiningTable (1). You see Tomato (1), Toaster (1), Potato (1), Lettuce (1), Knife (3), Fork (1), DishSponge (3), DiningTable (1), ButterKnife (2, 3).
+Think: Now I accomplish the goal.
+OK.
+Act: done

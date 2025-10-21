@@ -1,0 +1,21 @@
+Your primary goal is to: put a pot with an apple and a knife in the sink
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pot, place pot in sink basin, find and pick up apple, and place apple in pot near sink basin.
+Your task is to: place apple in pot near sink basin
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9). I am holding Apple (1) now.
+Think: I hold Apple (1). Now, I need to recall location of the pot.
+OK.
+Act: recall location of Pot
+You saw Pot (1) near SinkBasin (1).
+Think: I can find Pot (1) in SinkBasin (1).
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (1), Sink (1), SinkBasin (1), Pot (1), Faucet (1), CounterTop (2), Cabinet (2), Apple (1).  I am holding Apple (1) now.
+Think: I find Pot (1). Now, I need to put down Apple (1) in Pot (1).
+OK.
+Act: go to Pot (1)
+You arrive at Pot (1). You see Window (1), Sink (1), SinkBasin (1), Pot (1), Knife (1), Faucet (1), CounterTop (2), Cabinet (2), Bowl (2), Apple (1).  I am holding Apple (1) now.
+Act: put down Apple (1)
+You put down failed, drop it. You see Window (1), Sink (1), SinkBasin (1), Pot (1), Knife (1), Faucet (1), CounterTop (2), Cabinet (2), Bowl (2), Apple (1).
+Think: I fail to put down Apple (1) in Pot (1).
+OK.
+Act: failure

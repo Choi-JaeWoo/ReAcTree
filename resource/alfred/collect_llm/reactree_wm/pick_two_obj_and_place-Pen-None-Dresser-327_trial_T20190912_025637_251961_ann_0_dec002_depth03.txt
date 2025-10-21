@@ -1,0 +1,19 @@
+Your primary goal is to: Collect the pens and put them on the top of the chest.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pens, place pens on chest, and close drawer.
+Your task is to: find and pick up pens
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1, 2, 3, 4, 5), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), Desk (1), Bed (1).
+Think: First, I need to recall location of the pens.
+OK.
+Act: recall location of Pen
+You have not seen Pen before.
+Think: Now, I need to find the pens. The pens are more likely to appear on Desk (1), Dresser (1), or in Drawer (1-8). I can check each place one by one, starting from Desk (1), until I find the pens.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Window (1, 2), Shelf (4), Pen (2, 3), KeyChain (3), Desk (1), CreditCard (1), Chair (1), Book (1). 
+Think: I find Pen (2). Now, I need to pick it up.
+OK.
+Act: pick up Pen (2)
+You pick up Pen (2). You see Window (1, 2), Shelf (4), Pen (2, 3), KeyChain (3), Desk (1), CreditCard (1), Chair (1), Book (1). I am holding Pen (2) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

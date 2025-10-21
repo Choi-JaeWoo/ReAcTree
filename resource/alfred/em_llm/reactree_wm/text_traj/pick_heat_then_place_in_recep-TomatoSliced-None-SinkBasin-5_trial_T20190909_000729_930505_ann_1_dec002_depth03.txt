@@ -1,0 +1,25 @@
+Your primary goal is to: Put a slice of cooked tomato in a sink.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, slice and pick up tomato, heat and pick up tomato, and place tomato in sink basin.
+Your task is to: find and pick up knife
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20).
+Think: First, I need to recall location of the knife.
+OK.
+Act: recall location of Knife
+You have not seen Knife before.
+Think: Now, I need to find the knife. The knife is more likely to appear on CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-20), Drawer (1-3). I can check each place one by one, starting from CounterTop (1), until I find the knife.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), Pan (1), Kettle (1), CounterTop (1), CoffeeMachine (1), Cabinet (4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Vase (1, 3), Plate (1), PepperShaker (2), PaperTowelRoll (1), Fork (2), CounterTop (2), Chair (1, 2). 
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Vase (3), Plate (1), PaperTowelRoll (1), Ladle (2), HousePlant (1), Fork (1, 2), Drawer (1, 2), CounterTop (2, 3), Cabinet (8, 11). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (1), Statue (1), Spatula (1), Sink (1), SinkBasin (1), Knife (1), Faucet (1), Drawer (3), Cup (1), CounterTop (1), CoffeeMachine (1), Cabinet (20), ButterKnife (1). 
+Think: I find Knife (1). Now, I need to pick it up.
+OK.
+Act: pick up Knife (1)
+You pick up Knife (1). You see Tomato (1), Statue (1), Spatula (1), Sink (1), SinkBasin (1), Knife (1), Faucet (1), Drawer (3), Cup (1), CounterTop (1), CoffeeMachine (1), Cabinet (20), ButterKnife (1). I am holding Knife (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

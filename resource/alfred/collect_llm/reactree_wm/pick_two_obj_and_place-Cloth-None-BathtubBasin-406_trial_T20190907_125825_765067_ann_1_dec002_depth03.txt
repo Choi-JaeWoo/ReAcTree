@@ -1,0 +1,29 @@
+Your primary goal is to: To place two tissues into the sink.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up tissue, find and pick up tissue, and place tissue in sink basin.
+Your task is to: find and pick up tissue
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), Sink (1), SinkBasin (1), HandTowelHolder (1), GarbageCan (1), CounterTop (1), Cabinet (1, 2), Bathtub (1), BathtubBasin (1).
+Think: First, I need to recall location of the tissue.
+OK.
+Act: recall location of TissueBox
+You have not seen TissueBox before.
+Think: Now, I need to find the tissue. The tissue is more likely to appear on CounterTop (1), SinkBasin (1), or in Cabinet (1-2). I can check each place one by one, starting from CounterTop (1), until I find the tissue.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Sink (1), SinkBasin (1), Mirror (1), Faucet (2, 3), CounterTop (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), Mirror (1), Faucet (2, 3), CounterTop (1), Cabinet (1). 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Sink (1), GarbageCan (1), CounterTop (1), Cabinet (1, 2). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see GarbageCan (1), Cloth (1, 4), Cabinet (1, 2).
+Act: close Cabinet (1)
+You close Cabinet (1). You see GarbageCan (1), Cabinet (1, 2).
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Toilet (1), Sink (1), CounterTop (1), Cabinet (2). Cabinet (2) is closed. 
+Act: open Cabinet (2)
+You open Cabinet (2). You see Toilet (1), Cloth (2), Cabinet (1, 2).
+Act: close Cabinet (2)
+You close Cabinet (2). You see Toilet (1), Cabinet (1, 2).
+Think: I cannot find TissueBox. I fail to accomplish the goal.
+OK.
+Act: failure

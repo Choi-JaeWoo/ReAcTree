@@ -1,0 +1,13 @@
+Your primary goal is to: Put two heads of lettuce in the fridge.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up lettuce, place lettuce in fridge, find and pick up lettuce away from fridge, and place lettuce in fridge.
+Your task is to: place lettuce in fridge
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), CounterTop (1, 2, 3, 4), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15). I am holding Apple (1) now.
+Think: I hold Apple (1). Now, I need to put it in the fridge. I can see Fridge (1).
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (2), Fridge (1), Cabinet (12), Bowl (1), Apple (1). Fridge (1) is open.  I am holding Apple (1) now.
+Act: put down Apple (1)
+You put Apple (1) on Fridge (1). You see Tomato (2), Fridge (1), Cabinet (12), Bowl (1), Apple (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,185 @@
+Your primary goal is to: Place a tomato in a pan and cut into slices.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up tomato, and place tomato in pan and cut into slices.
+Your task is to: place tomato in pan and cut into slices
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11). I am holding Tomato (1) now.
+Think: I hold Tomato (1). Now, I need to recall location of the pan.
+OK.
+Act: recall location of Pan
+You have not seen Pan before.
+Think: I have not seen Pan before. Now, I need to find it.
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Tomato (1), Microwave (1), Fridge (1), Cabinet (1, 6, 9). Cabinet (1) is closed.  I am holding Tomato (1) now.
+Act: open Cabinet (1)
+You open Cabinet (1). You see Tomato (1), Microwave (1), Fridge (1), Cabinet (1, 5, 6, 9). I am holding Tomato (1) now.
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Tomato (1, 1, 1, 1), Microwave (1, 1, 1), Fridge (1, 1, 1, 1), Cabinet (1, 1, 1, 5, 5, 5, 5, 6, 6, 6, 6, 9, 9, 9). Cabinet (5) is closed.  I am holding Tomato (1) now.
+Act: open Cabinet (5)
+You open Cabinet (5). You see Tomato (1), Fridge (1), Cabinet (5, 6). I am holding Tomato (1) now.
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Tomato (1, 1, 1, 1), Fridge (1, 1, 1, 1), Cabinet (1, 5, 5, 5, 5, 6, 6, 6, 9). Cabinet (6) is closed.  I am holding Tomato (1) now.
+Act: open Cabinet (6)
+You open Cabinet (6). You see Tomato (1), Fridge (1), Cabinet (1, 5, 6, 9). I am holding Tomato (1) now.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Tomato (1), Microwave (1), Cabinet (1, 7, 9). Cabinet (9) is closed.  I am holding Tomato (1) now.
+Act: open Cabinet (9)
+You open Cabinet (9). You see Tomato (1), Microwave (1), Cabinet (1, 7, 9). I am holding Tomato (1) now.
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Tomato (1), Microwave (1), Cabinet (7, 9, 11). Cabinet (7) is closed.  I am holding Tomato (1) now.
+Act: open Cabinet (7)
+You open Cabinet (7). You see Tomato (1), SaltShaker (2), Microwave (1), Cabinet (7, 9, 11). I am holding Tomato (1) now.
+Act: go to Cabinet (11)
+You arrive at Cabinet (11). You see Tomato (1), SaltShaker (2), Microwave (1), Cabinet (7, 9, 11). Cabinet (11) is closed.  I am holding Tomato (1) now.
+Act: open Cabinet (11)
+You open Cabinet (11). You see Tomato (1), SaltShaker (2), Plate (1), Microwave (1), Cabinet (7, 9, 11). I am holding Tomato (1) now.
+Act: go to Plate (1)
+You arrive at Plate (1). You see Tomato (1), Plate (1), Cabinet (11).  I am holding Tomato (1) now.
+Act: put down Tomato (1)
+You put Tomato (1) on Plate (1). You see Tomato (1), Plate (1), Cabinet (11).
+Think: Now I need to pick up Plate (1).
+OK.
+Act: pick up Plate (1)
+You pick up Plate (1). You see Tomato (1), Plate (1), Cabinet (11). I am holding Plate (1) now.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Tomato (1), Plate (1), Microwave (1), Cabinet (1, 7, 9). Cabinet (9) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Tomato (1, 1, 1, 1), SaltShaker (2), Plate (1, 1, 1, 1), Microwave (1, 1, 1, 1), Cabinet (1, 1, 1, 7, 7, 7, 7, 9, 9, 9, 9, 11). Cabinet (7) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (11)
+You arrive at Cabinet (11). You see Tomato (1, 1, 1, 1), SaltShaker (2, 2, 2), Plate (1, 1, 1, 1), Microwave (1, 1, 1, 1), Cabinet (7, 7, 7, 7, 9, 9, 9, 9, 11, 11, 11, 11). Cabinet (11) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Tomato (1), Plate (1), Microwave (1), Cabinet (1, 7, 9). Cabinet (9) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Tomato (1, 1, 1, 1), Plate (1, 1, 1, 1), Microwave (1, 1, 1), Fridge (1), Cabinet (1, 1, 1, 1, 5, 6, 7, 7, 7, 9, 9, 9, 9). Cabinet (1) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Tomato (1, 1, 1, 1, 1), Plate (1, 1, 1, 1, 1), Fridge (1, 1, 1, 1, 1), Cabinet (1, 1, 1, 1, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 9, 9, 9, 9). Cabinet (5) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Tomato (1, 1, 1, 1), Plate (1, 1, 1, 1), Fridge (1, 1, 1, 1), Cabinet (1, 5, 5, 5, 5, 6, 6, 6, 6, 9). Cabinet (6) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Tomato (1), Plate (1), Microwave (1), Cabinet (1, 7, 9). Cabinet (9) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Tomato (1, 1, 1), SaltShaker (2), Plate (1, 1, 1), Microwave (1, 1, 1, 1), Cabinet (1, 1, 1, 7, 7, 7, 7, 9, 9, 9, 9, 11). Cabinet (7) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (11)
+You arrive at Cabinet (11). You see Tomato (1, 1, 1, 1), SaltShaker (2, 2, 2), Plate (1, 1, 1, 1), Microwave (1, 1, 1, 1), Cabinet (7, 7, 7, 7, 9, 9, 9, 9, 11, 11, 11, 11). Cabinet (11) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Tomato (1), Plate (1), Microwave (1), Cabinet (1, 7, 9). Cabinet (9) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Tomato (1, 1, 1, 1), Plate (1, 1, 1, 1), Microwave (1, 1, 1), Fridge (1), Cabinet (1, 1, 1, 1, 5, 6, 7, 7, 7, 9, 9, 9, 9). Cabinet (1) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Tomato (1, 1, 1, 1, 1), Plate (1, 1, 1, 1, 1), Fridge (1, 1, 1, 1, 1), Cabinet (1, 1, 1, 1, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 9, 9, 9, 9). Cabinet (5) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Tomato (1, 1, 1, 1), Plate (1, 1, 1, 1), Fridge (1, 1, 1, 1), Cabinet (1, 5, 5, 5, 5, 6, 6, 6, 6, 9). Cabinet (6) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Tomato (1), Plate (1), Microwave (1), Cabinet (1, 7, 9). Cabinet (9) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Tomato (1, 1, 1, 1), SaltShaker (2), Plate (1, 1, 1, 1), Microwave (1, 1, 1, 1), Cabinet (1, 1, 1, 7, 7, 7, 7, 9, 9, 9, 9, 11). Cabinet (7) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (11)
+You arrive at Cabinet (11). You see Tomato (1, 1, 1, 1), SaltShaker (2, 2, 2), Plate (1, 1, 1, 1), Microwave (1, 1, 1, 1), Cabinet (7, 7, 7, 7, 9, 9, 9, 9, 11, 11, 11, 11). Cabinet (11) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Tomato (1), Plate (1), Microwave (1), Cabinet (1, 7, 9). Cabinet (9) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Tomato (1, 1, 1, 1), Plate (1, 1, 1, 1), Microwave (1, 1, 1), Fridge (1), Cabinet (1, 1, 1, 1, 5, 6, 7, 7, 7, 9, 9, 9, 9). Cabinet (1) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Tomato (1, 1, 1, 1, 1), Plate (1, 1, 1, 1, 1), Fridge (1, 1, 1, 1, 1), Cabinet (1, 1, 1, 1, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 9, 9, 9, 9). Cabinet (5) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Tomato (1, 1, 1, 1), Plate (1, 1, 1, 1), Fridge (1, 1, 1, 1), Cabinet (1, 5, 5, 5, 5, 6, 6, 6, 6, 9). Cabinet (6) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Tomato (1), Plate (1), Microwave (1), Cabinet (1, 7, 9). Cabinet (9) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Tomato (1, 1, 1, 1), SaltShaker (2), Plate (1, 1, 1, 1), Microwave (1, 1, 1, 1), Cabinet (1, 1, 1, 7, 7, 7, 7, 9, 9, 9, 9, 11). Cabinet (7) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (11)
+You arrive at Cabinet (11). You see Tomato (1, 1, 1, 1), SaltShaker (2, 2, 2), Plate (1, 1, 1, 1), Microwave (1, 1, 1, 1), Cabinet (7, 7, 7, 7, 9, 9, 9, 9, 11, 11, 11, 11). Cabinet (11) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Tomato (1), Plate (1), Microwave (1), Cabinet (1, 7, 9). Cabinet (9) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Tomato (1, 1, 1, 1), Plate (1, 1, 1, 1), Microwave (1, 1, 1), Fridge (1), Cabinet (1, 1, 1, 1, 5, 6, 7, 7, 7, 9, 9, 9, 9). Cabinet (1) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Tomato (1, 1, 1, 1, 1), Plate (1, 1, 1, 1, 1), Fridge (1, 1, 1, 1, 1), Cabinet (1, 1, 1, 1, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 9, 9, 9, 9). Cabinet (5) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Tomato (1, 1, 1, 1), Plate (1, 1, 1, 1), Fridge (1, 1, 1, 1), Cabinet (1, 5, 5, 5, 5, 6, 6, 6, 6, 9). Cabinet (6) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Tomato (1), Plate (1), Microwave (1), Cabinet (1, 7, 9). Cabinet (9) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Tomato (1, 1, 1, 1), SaltShaker (2), Plate (1, 1, 1, 1), Microwave (1, 1, 1, 1), Cabinet (1, 1, 1, 7, 7, 7, 7, 9, 9, 9, 9, 11). Cabinet (7) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (11)
+You arrive at Cabinet (11). You see Tomato (1, 1, 1, 1), SaltShaker (2, 2, 2), Plate (1, 1, 1, 1), Microwave (1, 1, 1, 1), Cabinet (7, 7, 7, 7, 9, 9, 9, 9, 11, 11, 11, 11). Cabinet (11) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Tomato (1), Plate (1), Microwave (1), Cabinet (1, 7, 9). Cabinet (9) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Tomato (1, 1, 1, 1), Plate (1, 1, 1, 1), Microwave (1, 1, 1), Fridge (1), Cabinet (1, 1, 1, 1, 5, 6, 7, 7, 7, 9, 9, 9, 9). Cabinet (1) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Tomato (1, 1, 1, 1, 1), Plate (1, 1, 1, 1, 1), Fridge (1, 1, 1, 1, 1), Cabinet (1, 1, 1, 1, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 9, 9, 9, 9). Cabinet (5) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Tomato (1, 1, 1, 1), Plate (1, 1, 1, 1), Fridge (1, 1, 1, 1), Cabinet (1, 5, 5, 5, 5, 6, 6, 6, 6, 9). Cabinet (6) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Tomato (1), Plate (1), Microwave (1), Cabinet (1, 7, 9). Cabinet (9) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Tomato (1, 1, 1, 1), SaltShaker (2), Plate (1, 1, 1, 1), Microwave (1, 1, 1, 1), Cabinet (1, 1, 1, 7, 7, 7, 7, 9, 9, 9, 9, 11). Cabinet (7) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (11)
+You arrive at Cabinet (11). You see Tomato (1, 1, 1, 1), SaltShaker (2, 2, 2), Plate (1, 1, 1, 1), Microwave (1, 1, 1, 1), Cabinet (7, 7, 7, 7, 9, 9, 9, 9, 11, 11, 11, 11). Cabinet (11) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Tomato (1), Plate (1), Microwave (1), Cabinet (1, 7, 9). Cabinet (9) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Tomato (1, 1, 1, 1), Plate (1, 1, 1, 1), Microwave (1, 1, 1), Fridge (1), Cabinet (1, 1, 1, 1, 5, 6, 7, 7, 7, 9, 9, 9, 9). Cabinet (1) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Tomato (1, 1, 1, 1, 1), Plate (1, 1, 1, 1, 1), Fridge (1, 1, 1, 1, 1), Cabinet (1, 1, 1, 1, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 9, 9, 9, 9). Cabinet (5) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Tomato (1, 1, 1, 1), Plate (1, 1, 1, 1), Fridge (1, 1, 1, 1), Cabinet (1, 5, 5, 5, 5, 6, 6, 6, 6, 9). Cabinet (6) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Tomato (1), Plate (1), Microwave (1), Cabinet (1, 7, 9). Cabinet (9) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Tomato (1, 1, 1, 1), SaltShaker (2), Plate (1, 1, 1, 1), Microwave (1, 1, 1, 1), Cabinet (1, 1, 1, 7, 7, 7, 7, 9, 9, 9, 9, 11). Cabinet (7) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (11)
+You arrive at Cabinet (11). You see Tomato (1, 1, 1, 1), SaltShaker (2, 2, 2), Plate (1, 1, 1, 1), Microwave (1, 1, 1, 1), Cabinet (7, 7, 7, 7, 9, 9, 9, 9, 11, 11, 11, 11). Cabinet (11) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Tomato (1), Plate (1), Microwave (1), Cabinet (1, 7, 9). Cabinet (9) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Tomato (1, 1, 1, 1), Plate (1, 1, 1, 1), Microwave (1, 1, 1), Fridge (1), Cabinet (1, 1, 1, 1, 5, 6, 7, 7, 7, 9, 9, 9, 9). Cabinet (1) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Tomato (1, 1, 1, 1, 1), Plate (1, 1, 1, 1, 1), Fridge (1, 1, 1, 1, 1), Cabinet (1, 1, 1, 1, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 9, 9, 9, 9). Cabinet (5) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Tomato (1, 1, 1, 1), Plate (1, 1, 1, 1), Fridge (1, 1, 1, 1), Cabinet (1, 5, 5, 5, 5, 6, 6, 6, 6, 9). Cabinet (6) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Tomato (1), Plate (1), Microwave (1), Cabinet (1, 7, 9). Cabinet (9) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Tomato (1, 1, 1, 1), SaltShaker (2), Plate (1, 1, 1, 1), Microwave (1, 1, 1, 1), Cabinet (1, 1, 1, 7, 7, 7, 7, 9, 9, 9, 9, 11). Cabinet (7) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (11)
+You arrive at Cabinet (11). You see Tomato (1, 1, 1, 1), SaltShaker (2, 2, 2), Plate (1, 1, 1, 1), Microwave (1, 1, 1, 1), Cabinet (7, 7, 7, 7, 9, 9, 9, 9, 11, 11, 11, 11). Cabinet (11) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Tomato (1), Plate (1), Microwave (1), Cabinet (1, 7, 9). Cabinet (9) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Tomato (1, 1, 1, 1), Plate (1, 1, 1, 1), Microwave (1, 1, 1), Fridge (1), Cabinet (1, 1, 1, 1, 5, 6, 7, 7, 7, 9, 9, 9, 9). Cabinet (1) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Tomato (1, 1, 1, 1, 1), Plate (1, 1, 1, 1, 1), Fridge (1, 1, 1, 1, 1), Cabinet (1, 1, 1, 1, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 9, 9, 9, 9). Cabinet (5) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Tomato (1, 1, 1, 1), Plate (1, 1, 1, 1), Fridge (1, 1, 1, 1), Cabinet (1, 5, 5, 5, 5, 6, 6, 6, 6, 9). Cabinet (6) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Tomato (1), Plate (1), Microwave (1), Cabinet (1, 7, 9). Cabinet (9) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Tomato (1, 1, 1, 1), SaltShaker (2), Plate (1, 1, 1, 1), Microwave (1, 1, 1, 1), Cabinet (1, 1, 1, 7, 7, 7, 7, 9, 9, 9, 9, 11). Cabinet (7) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (11)
+You arrive at Cabinet (11). You see Tomato (1, 1, 1, 1), SaltShaker (2, 2, 2), Plate (1, 1, 1, 1), Microwave (1, 1, 1, 1), Cabinet (7, 7, 7, 7, 9, 9, 9, 9, 11, 11, 11, 11). Cabinet (11) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Tomato (1), Plate (1), Microwave (1), Cabinet (1, 7, 9). Cabinet (9) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Tomato (1, 1, 1, 1), Plate (1, 1, 1, 1), Microwave (1, 1, 1), Fridge (1), Cabinet (1, 1, 1, 1, 5, 6, 7, 7, 7, 9, 9, 9, 9). Cabinet (1) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Tomato (1, 1, 1, 1, 1), Plate (1, 1, 1, 1, 1), Fridge (1, 1, 1, 1, 1), Cabinet (1, 1, 1, 1, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 9, 9, 9, 9). Cabinet (5) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Tomato (1, 1, 1, 1), Plate (1, 1, 1, 1), Fridge (1, 1, 1, 1), Cabinet (1, 5, 5, 5, 5, 6, 6, 6, 6, 9). Cabinet (6) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Tomato (1), Plate (1), Microwave (1), Cabinet (1, 7, 9). Cabinet (9) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Tomato (1, 1, 1, 1), SaltShaker (2), Plate (1, 1, 1, 1), Microwave (1, 1, 1, 1), Cabinet (1, 1, 1, 7, 7, 7, 7, 9, 9, 9, 9, 11). Cabinet (7) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (11)
+You arrive at Cabinet (11). You see Tomato (1, 1, 1, 1), SaltShaker (2, 2, 2), Plate (1, 1, 1, 1), Microwave (1, 1, 1, 1), Cabinet (7, 7, 7, 7, 9, 9, 9, 9, 11, 11, 11, 11). Cabinet (11) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Tomato (1), Plate (1), Microwave (1), Cabinet (1, 7, 9). Cabinet (9) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Tomato (1, 1, 1, 1), Plate (1, 1, 1, 1), Microwave (1, 1, 1), Fridge (1), Cabinet (1, 1, 1, 1, 5, 6, 7, 7, 7, 9, 9, 9, 9). Cabinet (1) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Tomato (1, 1, 1, 1, 1), Plate (1, 1, 1, 1, 1), Fridge (1, 1, 1, 1, 1), Cabinet (1, 1, 1, 1, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 9, 9, 9, 9). Cabinet (5) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Tomato (1, 1, 1, 1), Plate (1, 1, 1, 1), Fridge (1, 1, 1, 1), Cabinet (1, 5, 5, 5, 5, 6, 6, 6, 6, 9). Cabinet (6) is open.  I am holding Plate (1) now.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Tomato (1), Plate (1), Microwave (1), Cabinet (1, 7, 9). Cabinet (9) is open.  I am holding Plate (1) now.
+Max decisions

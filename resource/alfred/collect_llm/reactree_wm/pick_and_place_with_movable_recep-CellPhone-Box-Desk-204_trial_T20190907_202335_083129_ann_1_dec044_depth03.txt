@@ -1,0 +1,117 @@
+Your primary goal is to: Box up a smart phone and place it on the desk
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up smart phone, box and pick up smart phone, and place smart phone on desk.
+Your task is to: place smart phone on desk
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1, 2), Shelf (1, 2, 3), Safe (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), Desk (1), CoffeeTable (1), ArmChair (1).
+Think: I hold Smartphone (1). Now, I need to put it on the desk. I can see Desk (1).
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Laptop (2), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Max decisions

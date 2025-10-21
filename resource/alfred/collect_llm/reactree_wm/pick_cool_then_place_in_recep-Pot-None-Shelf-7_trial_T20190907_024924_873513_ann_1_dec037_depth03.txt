@@ -1,0 +1,13 @@
+Your primary goal is to: Cool the pan from shelf in the refrigerator, put it back on the shelf
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pan, cool and pick up pan, and place pan on shelf.
+Your task is to: place pan on shelf
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13). I am holding Pan (1) now.
+Think: I hold Pan (1). Now, I need to put it on the shelf. I can see Shelf (1).
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1, 2), Pan (1), Kettle (1).  I am holding Pan (1) now.
+Act: put down Pan (1)
+You put down failed, drop it. You see Statue (1), Shelf (1, 2, 3), PepperShaker (2), Pan (1), Kettle (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

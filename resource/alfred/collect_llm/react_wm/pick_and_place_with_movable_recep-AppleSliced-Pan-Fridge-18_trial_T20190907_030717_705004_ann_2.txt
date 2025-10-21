@@ -1,0 +1,43 @@
+Your task is to: Place an apple on a pan then place it in a cabinet
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Safe (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16).
+Think: To solve the task, I need to find and pick up the apple, then put it on the pan. And I need to find and pick up the pan, then put it in the cabinet.
+OK.
+Think: First, I need to recall location of the apple.
+OK.
+Act: recall location of Apple
+You have not seen Apple before.
+Think: Now I need to find the apple. The apple is more likely to appear on DiningTable (1), CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-16), Drawer (1-5). I can check each place one by one, starting from DiningTable (1), until I find the apple.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (2, 3), Spatula (3), PepperShaker (1), PaperTowelRoll (1), Lettuce (2), HousePlant (1), Fork (1), DiningTable (1), ButterKnife (1), Bowl (1, 2), Apple (1). 
+Think: I find Apple (1). Now, I need to pick it up.
+OK.
+Act: pick up Apple (1)
+You pick up Apple (1). You see Tomato (2, 3), Spatula (3), PepperShaker (1), PaperTowelRoll (1), Lettuce (2), HousePlant (1), Fork (1), DiningTable (1), Cup (1), ButterKnife (1), Bowl (1, 2), Apple (1). I am holding Apple (1) now.
+Think: I hold Apple (1). Now, I need to recall location of the pan.
+OK.
+Act: recall location of Pan
+You have not seen Pan before.
+Think: Now, I need to find the pan. The pan is more likely to appear on CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-16), Drawer (1-5). I can check each place one by one, starting from CounterTop (1), until I find the pan.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see SoapBottle (1), CounterTop (1), CoffeeMachine (1), Bread (1), Apple (1).  I am holding Apple (1) now.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Toaster (1), StoveKnob (1, 2, 3, 4), StoveBurner (1, 2), Pot (1, 2), Pan (1), CounterTop (2), Apple (1).  I am holding Apple (1) now.
+Think: I find Pan (1). Now, I need to put Apple (1) on it.
+OK.
+Act: put down Apple (1)
+You put Apple (1) on CounterTop (2). You see Toaster (1), StoveKnob (1, 2, 3, 4), StoveBurner (1, 2), Pot (1, 2), Pan (1), CounterTop (2), Apple (1).
+Act: pick up Pan (1)
+You pick up Pan (1). You see Toaster (1), StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Pot (1, 2), Pan (1), CounterTop (2), Apple (1). I am holding Pan (1) now.
+Think: I hold Pan (1). Now, I need to put it in the cabinet.
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Pan (1), Cabinet (1, 16). Cabinet (1) is closed.  I am holding Pan (1) now.
+Act: open Cabinet (1)
+You open Cabinet (1). You see Pan (1), Cabinet (1). I am holding Pan (1) now.
+Act: put down Pan (1)
+You put down failed, drop it. You see Cabinet (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

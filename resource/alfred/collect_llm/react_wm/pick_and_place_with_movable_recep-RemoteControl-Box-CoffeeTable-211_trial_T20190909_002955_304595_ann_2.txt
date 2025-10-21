@@ -1,0 +1,35 @@
+Your task is to: put the remote in a box on the coffee table and close it up.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1, 2), Shelf (1, 2, 3, 4, 5), GarbageCan (1), Drawer (1), CoffeeTable (1), ArmChair (1).
+Think: To solve the task, I need to find and pick up the remote, then put it in the box. And I need to close the box.
+OK.
+Think: First, I need to recall location of the remote.
+OK.
+Act: recall location of RemoteControl
+You have not seen RemoteControl before.
+Think: Now I need to find the remote. The remote is more likely to appear on TVStand (1), Sofa (1), SideTable (1-2), CoffeeTable (1), ArmChair (1), Shelf (1-5), or in Drawer (1). I can check each place one by one, starting from TVStand (1), until I find the remote.
+OK.
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), Statue (1), Shelf (2, 3), Newspaper (2), CellPhone (1). 
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1), Laptop (1), CreditCard (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1, 2), SideTable (1), Plate (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Sofa (1), SideTable (2), RemoteControl (1), Pillow (1), Drawer (1), CreditCard (1). 
+Think: I find RemoteControl (1). Now, I need to pick it up.
+OK.
+Act: pick up RemoteControl (1)
+You pick up RemoteControl (1). You see Sofa (1), SideTable (2), RemoteControl (1), Pillow (1), Drawer (1), CreditCard (1). I am holding RemoteControl (1) now.
+Think: I hold RemoteControl (1). Now, I need to put it in the box.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see RemoteControl (1), CoffeeTable (1).  I am holding RemoteControl (1) now.
+Act: put down RemoteControl (1)
+You put RemoteControl (1) on CoffeeTable (1). You see RemoteControl (1), CoffeeTable (1).
+Think: I put RemoteControl (1) in CoffeeTable (1). Now, I need to close the box.
+OK.
+Act: close Drawer (1)
+The Drawer (1) is already closed.
+Think: Now I accomplish the goal.
+OK.
+Act: done

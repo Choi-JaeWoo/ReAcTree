@@ -1,0 +1,41 @@
+Your task is to: Put a chilled apple on the table. 
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11).
+Think: To solve the task, I need to find and pick up the apple, then put it in the fridge. And I need to pick up the apple from the fridge, then put it on the table.
+OK.
+Think: First, I need to recall location of the apple.
+OK.
+Act: recall location of Apple
+You have not seen Apple before.
+Think: Now I need to find the apple. The apple is more likely to appear on DiningTable (1), CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-11), Drawer (1-3). I can check each place one by one, starting from DiningTable (1), until I find the apple.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Window (1), Spoon (2), Spatula (2), Lettuce (1, 2, 3), Knife (2, 3), Fork (1, 2), Egg (1), DiningTable (1), Chair (1), ButterKnife (1), Bowl (1, 2), Apple (3, 4). 
+Think: I find Apple (3). Now, I need to pick it up.
+OK.
+Act: pick up Apple (3)
+You pick up Apple (3). You see Window (1), Spoon (2), Spatula (2), Lettuce (1, 2, 3), Knife (2, 3), Fork (1, 2), Egg (1), DiningTable (1), Chair (1), ButterKnife (1), Bowl (1, 2), Apple (3, 4). I am holding Apple (3) now.
+Think: I hold Apple (3). Now, I need to put it in the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see GarbageCan (1), Fridge (1), Apple (3). Fridge (1) is closed.  I am holding Apple (3) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Tomato (1), Fridge (1), Bowl (3), Apple (3). I am holding Apple (3) now.
+Act: put down Apple (3)
+You put Apple (3) on Fridge (1). You see Tomato (1), Fridge (1), Bowl (3), Apple (3).
+Act: close Fridge (1)
+You close Fridge (1). You see GarbageCan (1), Fridge (1).
+Think: I put Apple (3) in Fridge (1). Now, I need to pick up the apple from the fridge.
+OK.
+Act: open Fridge (1)
+You open Fridge (1). You see Tomato (1), Fridge (1), Bowl (3), Apple (3).
+Act: pick up Apple (3)
+You pick up Apple (3). You see Tomato (1), Fridge (1), Bowl (3), Apple (3). I am holding Apple (3) now.
+Think: I pick up Apple (3) from Fridge (1). Now, I need to put it on the table.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Window (1), Spoon (2), Spatula (2), Lettuce (1, 2, 3), Knife (2, 3), Fork (1, 2), Egg (1), DiningTable (1), Chair (1), ButterKnife (1), Bowl (1, 2), Apple (3, 4).  I am holding Apple (3) now.
+Act: put down Apple (3)
+You put Apple (3) on DiningTable (1). You see Window (1), Spoon (2), Spatula (2), Lettuce (1, 2, 3), Knife (2, 3), Fork (1, 2), Egg (1), DiningTable (1), Chair (1), ButterKnife (1), Bowl (1, 2), Apple (3, 4).
+Think: Now I accomplish the goal.
+OK.
+Act: done

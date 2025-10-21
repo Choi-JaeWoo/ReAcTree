@@ -1,0 +1,114 @@
+Your task is to: turn on the standing light with the newspaper at hand
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2, 3, 4, 5), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21), Cabinet (1), ArmChair (1).
+Think: To solve the task, I need to find and pick up the newspaper. And I need to find and turn on the standing light.
+OK.
+Think: First, I need to recall location of the newspaper.
+OK.
+Act: recall location of Newspaper
+You have not seen Newspaper before.
+Think: Now I need to find the newspaper. The newspaper is more likely to appear on Sofa (1), SideTable (1-5), or in Drawer (1-21), Cabinet (1). I can check each place one by one, starting from Sofa (1), until I find the newspaper.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), RemoteControl (1), Pillow (1), Box (1), Book (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), GarbageCan (1), Drawer (3, 5, 19), DeskLamp (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Statue (3), SideTable (2), Painting (2), Drawer (15). 
+Act: go to SideTable (3)
+You arrive at SideTable (3). You see Window (2), SideTable (3), Cabinet (1). 
+Act: go to SideTable (4)
+You arrive at SideTable (4). You see Statue (2), SideTable (4), GarbageCan (1), Drawer (3, 11, 16, 19, 20). 
+Act: go to SideTable (5)
+You arrive at SideTable (5). You see SideTable (5), Drawer (3, 11, 16, 20), Chair (4). 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Window (2), SideTable (3), HousePlant (1), Chair (1), Cabinet (1). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see Window (2), SideTable (3), HousePlant (1), Chair (1), Cabinet (1).
+Act: close Cabinet (1)
+You close Cabinet (1). You see Window (2), SideTable (3), HousePlant (1), Chair (1), Cabinet (1).
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Television (1), Statue (1), Newspaper (1), KeyChain (2, 3), Dresser (1), Drawer (1, 2, 6, 7, 9, 10, 14, 17, 21). Drawer (1) is closed. 
+Think: I find Newspaper (1). Now, I need to pick it up.
+OK.
+Act: pick up Newspaper (1)
+You pick up Newspaper (1). You see Television (1), Statue (1), Newspaper (1), KeyChain (2, 3), Dresser (1), Drawer (2, 9, 10, 21). I am holding Newspaper (1) now.
+Think: I hold Newspaper (1). Now, I need to recall location of the standing light.
+OK.
+Act: recall location of FloorLamp
+You have not seen FloorLamp before.
+Think: Now I need to find the standing light The standing light is more likely to appear on Sofa (1), SideTable (1-5). I can check each place one by one, starting from Sofa (1), until I find the standing light.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), RemoteControl (1), Pillow (1), Newspaper (1), Box (1), Book (1).  I am holding Newspaper (1) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Newspaper (1), GarbageCan (1), Drawer (3, 5, 19), DeskLamp (1).  I am holding Newspaper (1) now.
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Statue (3), SideTable (2), Painting (2), Newspaper (1), Drawer (15).  I am holding Newspaper (1) now.
+Act: go to SideTable (3)
+You arrive at SideTable (3). You see Window (2), SideTable (3), Newspaper (1), Cabinet (1).  I am holding Newspaper (1) now.
+Act: go to SideTable (4)
+You arrive at SideTable (4). You see Statue (2), SideTable (4), Newspaper (1), GarbageCan (1), Drawer (11, 16, 19, 20).  I am holding Newspaper (1) now.
+Act: go to SideTable (5)
+You arrive at SideTable (5). You see SideTable (5), Newspaper (1), Drawer (3, 11, 16), Chair (4).  I am holding Newspaper (1) now.
+Think: I find FloorLamp (1). Now, I need to turn it on.
+OK.
+Act: go to SideTable (5)
+You arrive at SideTable (5). You see SideTable (5), Newspaper (1), Drawer (3, 11, 16), Chair (4).  I am holding Newspaper (1) now.
+Act: go to SideTable (4)
+You arrive at SideTable (4). You see Statue (2), SideTable (4), Newspaper (1), GarbageCan (1), Drawer (11, 16, 19, 20).  I am holding Newspaper (1) now.
+Act: go to SideTable (3)
+You arrive at SideTable (3). You see Window (2), SideTable (3), Newspaper (1), Cabinet (1).  I am holding Newspaper (1) now.
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Statue (3), SideTable (2), Painting (2), Newspaper (1), Drawer (15).  I am holding Newspaper (1) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Newspaper (1), GarbageCan (1), Drawer (3, 5, 19), DeskLamp (1).  I am holding Newspaper (1) now.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), RemoteControl (1), Pillow (1), Newspaper (1), Box (1), Book (1).  I am holding Newspaper (1) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Newspaper (1), GarbageCan (1), Drawer (3, 5, 19), DeskLamp (1).  I am holding Newspaper (1) now.
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Statue (3), SideTable (2), Painting (2), Newspaper (1), Drawer (15).  I am holding Newspaper (1) now.
+Act: go to SideTable (3)
+You arrive at SideTable (3). You see Window (2), SideTable (3), Newspaper (1), Cabinet (1).  I am holding Newspaper (1) now.
+Act: go to SideTable (4)
+You arrive at SideTable (4). You see Statue (2), SideTable (4), Newspaper (1), GarbageCan (1), Drawer (11, 16, 19, 20).  I am holding Newspaper (1) now.
+Act: go to SideTable (5)
+You arrive at SideTable (5). You see SideTable (5), Newspaper (1), Drawer (3, 11, 16), Chair (4).  I am holding Newspaper (1) now.
+Act: go to SideTable (4)
+You arrive at SideTable (4). You see Statue (2), SideTable (4), Newspaper (1), GarbageCan (1), Drawer (11, 16, 19, 20).  I am holding Newspaper (1) now.
+Act: go to SideTable (3)
+You arrive at SideTable (3). You see Window (2), SideTable (3), Newspaper (1), Cabinet (1).  I am holding Newspaper (1) now.
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Statue (3), SideTable (2), Painting (2), Newspaper (1), Drawer (15).  I am holding Newspaper (1) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Newspaper (1), GarbageCan (1), Drawer (3, 5, 19), DeskLamp (1).  I am holding Newspaper (1) now.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), RemoteControl (1), Pillow (1), Newspaper (1), Box (1), Book (1).  I am holding Newspaper (1) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Newspaper (1), GarbageCan (1), Drawer (3, 5, 19), DeskLamp (1).  I am holding Newspaper (1) now.
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Statue (3), SideTable (2), Painting (2), Newspaper (1), Drawer (15).  I am holding Newspaper (1) now.
+Act: go to SideTable (3)
+You arrive at SideTable (3). You see Window (2), SideTable (3), Newspaper (1), Cabinet (1).  I am holding Newspaper (1) now.
+Act: go to SideTable (4)
+You arrive at SideTable (4). You see Statue (2), SideTable (4), Newspaper (1), GarbageCan (1), Drawer (11, 16, 19, 20).  I am holding Newspaper (1) now.
+Act: go to SideTable (5)
+You arrive at SideTable (5). You see SideTable (5), Newspaper (1), Drawer (3, 11, 16), Chair (4).  I am holding Newspaper (1) now.
+Act: go to SideTable (4)
+You arrive at SideTable (4). You see Statue (2), SideTable (4), Newspaper (1), GarbageCan (1), Drawer (11, 16, 19, 20).  I am holding Newspaper (1) now.
+Act: go to SideTable (3)
+You arrive at SideTable (3). You see Window (2), SideTable (3), Newspaper (1), Cabinet (1).  I am holding Newspaper (1) now.
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Statue (3), SideTable (2), Painting (2), Newspaper (1), Drawer (15).  I am holding Newspaper (1) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Newspaper (1), GarbageCan (1), Drawer (3, 5, 19), DeskLamp (1).  I am holding Newspaper (1) now.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), RemoteControl (1), Pillow (1), Newspaper (1), Box (1), Book (1).  I am holding Newspaper (1) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Newspaper (1), GarbageCan (1), Drawer (3, 5, 19), DeskLamp (1).  I am holding Newspaper (1) now.
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Statue (3), SideTable (2), Painting (2), Newspaper (1), Drawer (15).  I am holding Newspaper (1) now.
+Act: go to SideTable (3)
+You arrive at SideTable (3). You see Window (2), SideTable (3), Newspaper (1), Cabinet (1).  I am holding Newspaper (1) now.
+Act: go to SideTable (4)
+You arrive at SideTable (4). You see Statue (2), SideTable (4), Newspaper (1), GarbageCan (1), Drawer (11, 16, 19, 20).  I am holding Newspaper (1) now.

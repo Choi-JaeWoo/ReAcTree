@@ -1,0 +1,19 @@
+Your primary goal is to: Use a knife to slice lettuce.  Cool lettuce in the fridge followed by a rinse in the sink.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, slice and pick up lettuce, place lettuce in fridge, find and pick up lettuce away from fridge, and and place lettuce in fridge.
+Your task is to: find and pick up lettuce away from fridge
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19).
+Think: First, I need to recall location of the lettuce.
+OK.
+Act: recall location of Lettuce
+You saw Lettuce (6) near Fridge (1). You saw Lettuce (7) near SinkBasin (1). You saw Lettuce (8) near SinkBasin (1).
+Think: Lettuce (6) is in Fridge (1). I can find another lettuce, Lettuce (7), near SinkBasin (1).
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), Potato (2), Lettuce (7, 8), Knife (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (2), Cabinet (1). 
+Think: I find Lettuce (7). Now, I need to pick it up.
+OK.
+Act: pick up Lettuce (7)
+You pick up Lettuce (7). You see Sink (1), SinkBasin (1), Potato (2), Lettuce (5, 7, 8), Knife (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (2), Cabinet (1). I am holding Lettuce (7) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

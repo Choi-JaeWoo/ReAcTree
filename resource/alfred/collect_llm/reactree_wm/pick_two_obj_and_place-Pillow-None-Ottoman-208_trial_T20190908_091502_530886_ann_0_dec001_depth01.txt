@@ -1,0 +1,7 @@
+Your task is to: place both pillows on top of the leg rest in front of the chair
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8), Ottoman (1), GarbageCan (1), Drawer (1), DiningTable (1), ArmChair (1).
+Think: Since I’m not holding the pillow, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up pillow, place pillow on leg rest, Find and pick up pillow away from leg rest, and place pillow on leg rest.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up pillow, place pillow on leg rest, Find and pick up pillow away from leg rest, place pillow on leg rest

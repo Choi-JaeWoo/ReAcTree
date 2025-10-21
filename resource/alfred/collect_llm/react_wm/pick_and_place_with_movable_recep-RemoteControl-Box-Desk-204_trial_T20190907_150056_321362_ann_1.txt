@@ -1,0 +1,101 @@
+Your task is to: Place a cardboard with a remote in it on a desk.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1, 2), Shelf (1, 2, 3), Safe (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), Desk (1), CoffeeTable (1), ArmChair (1).
+Think: To solve the task, I need to find and pick up the cardboard. And I need to find and pick up the remote. And I need to put the remote in the cardboard. And I need to put the cardboard on the desk.
+OK.
+Think: First, I need to recall location of the cardboard.
+OK.
+Act: recall location of Box
+You have not seen Box before.
+Think: Now I need to find the cardboard. The cardboard is more likely to appear on CoffeeTable (1), DiningTable (1), Desk (1), Sofa (1-2), ArmChair (1), or in Drawer (1-6). I can check each place one by one, starting from CoffeeTable (1), until I find the cardboard.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2, 3), Statue (2), KeyChain (1), CoffeeTable (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Statue (3), RemoteControl (2), Laptop (1, 2, 3), KeyChain (2), DiningTable (1), Chair (1, 2, 5, 6). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see RemoteControl (3), Lamp (1), GarbageCan (1), Desk (1), Chair (4). 
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Box (1). 
+Think: I find Box (1). Now, I need to pick it up.
+OK.
+Act: pick up Box (1)
+You pick up Box (1). You see Sofa (1), Box (1). I am holding Box (1) now.
+Think: I hold Box (1). Now, I need to recall location of the remote.
+OK.
+Act: recall location of RemoteControl
+You saw RemoteControl (2) near DiningTable (1). You saw RemoteControl (3) near Desk (1).
+Think: RemoteControl (2) is on DiningTable (1). RemoteControl (3) is on Desk (1). Now, I need to pick up the remote.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Statue (3), RemoteControl (2), Laptop (1, 2, 3), KeyChain (2), DiningTable (1), Chair (1, 6), Box (1).  I am holding Box (1) now.
+Act: pick up RemoteControl (2)
+You are currently holding Box (1). I am holding Box (1) now.
+Think: I hold Box (1). Now, I need to put the remote in the cardboard.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Box (1).  I am holding Box (1) now.
+Act: put down Box (1)
+You put Box (1) on Sofa (1). You see Sofa (1), Box (1).
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Statue (3), RemoteControl (2), Laptop (1, 2, 3), KeyChain (2), DiningTable (1), Chair (1, 2, 5, 6). 
+Act: pick up RemoteControl (2)
+You pick up RemoteControl (2). You see Statue (3), RemoteControl (2), Laptop (1, 2, 3), KeyChain (2), DiningTable (1), Chair (1, 2, 5, 6). I am holding RemoteControl (2) now.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), RemoteControl (2), Box (1).  I am holding RemoteControl (2) now.
+Act: put down RemoteControl (2)
+You put RemoteControl (2) on Sofa (1). You see Sofa (1), RemoteControl (2), Box (1).
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Statue (3), Laptop (1, 2, 3), KeyChain (2), DiningTable (1), Chair (1, 2, 5, 6). 
+Act: pick up Laptop (1)
+You pick up Laptop (1). You see Statue (3), Laptop (1, 2, 3), KeyChain (2), DiningTable (1), Chair (1, 5, 6). I am holding Laptop (1) now.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Laptop (1), Box (1).  I am holding Laptop (1) now.
+Act: put down Laptop (1)
+You put Laptop (1) on Sofa (1). You see Sofa (1), RemoteControl (2), Laptop (1), Box (1).
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Statue (3), Laptop (2, 3), KeyChain (2), DiningTable (1), Chair (1, 2, 5, 6). 
+Act: pick up Laptop (2)
+You pick up Laptop (2). You see Statue (3), Laptop (2, 3), KeyChain (2), DiningTable (1), Chair (1, 5, 6). I am holding Laptop (2) now.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Laptop (1, 2), Box (1).  I am holding Laptop (2) now.
+Act: put down Laptop (2)
+You put Laptop (2) on Sofa (1). You see Sofa (1), RemoteControl (2), Laptop (1, 2), Box (1).
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Statue (3), Laptop (3), KeyChain (2), DiningTable (1), Chair (1, 2, 5, 6). 
+Act: pick up Laptop (3)
+You pick up Laptop (3). You see Statue (3), Laptop (3), KeyChain (2), DiningTable (1), Chair (1, 5, 6). I am holding Laptop (3) now.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Laptop (1, 2, 3), Box (1).  I am holding Laptop (3) now.
+Act: put down Laptop (3)
+You put down failed, drop it. You see Sofa (1), Laptop (1, 2, 3), Box (1).
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Statue (3), KeyChain (2), DiningTable (1), Chair (1, 2, 5, 6). 
+Act: pick up KeyChain (2)
+You pick up KeyChain (2). You see Statue (3), KeyChain (2), DiningTable (1), Chair (1, 2, 5, 6). I am holding KeyChain (2) now.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Statue (3, 3), Sofa (1), RemoteControl (2), Laptop (1, 2, 3), KeyChain (2, 2, 2), DiningTable (1, 1), Chair (1, 1, 2, 2, 5, 5, 6, 6), Box (1).  I am holding KeyChain (2) now.
+Act: put down KeyChain (2)
+You put KeyChain (2) on Sofa (1). You see Sofa (1), RemoteControl (2), Laptop (1, 2, 3), KeyChain (2), Box (1).
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Statue (3), DiningTable (1), Chair (1, 2, 5, 6). 
+Act: pick up Statue (3)
+You pick up Statue (3). You see Statue (3), DiningTable (1), Chair (1, 2, 6). I am holding Statue (3) now.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Statue (3), Sofa (1), Laptop (1, 2), Box (1).  I am holding Statue (3) now.
+Act: put down Statue (3)
+You put Statue (3) on Sofa (1). You see Statue (3), Sofa (1), RemoteControl (2), Laptop (1, 2, 3), KeyChain (2), Box (1).
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see DiningTable (1), Chair (1, 2, 5, 6). 
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Statue (3), Sofa (1), RemoteControl (2), Laptop (1, 2, 3), KeyChain (2), Box (1). 
+Act: pick up Box (1)
+You pick up Box (1). You see Statue (3), Sofa (1), Laptop (1, 2), Box (1). I am holding Box (1) now.
+Think: I hold Box (1). Now, I need to put the cardboard on the desk.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see RemoteControl (3), Lamp (1), Desk (1), Chair (4), Box (1).  I am holding Box (1) now.
+Act: put down Box (1)
+You put Box (1) on Desk (1). You see RemoteControl (3), Lamp (1), GarbageCan (1), Desk (1), Chair (4), Box (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

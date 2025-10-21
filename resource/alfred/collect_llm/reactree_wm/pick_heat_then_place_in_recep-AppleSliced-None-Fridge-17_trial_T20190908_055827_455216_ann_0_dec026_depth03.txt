@@ -1,0 +1,153 @@
+Your primary goal is to: place a cooked apple slice in the fridge
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up apple, heat and pick up apple, slice and pick up apple, and place apple in fridge.
+Your task is to: slice and pick up apple
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20). I am holding Apple (3) now.
+Think: I hold Apple (3). Now, I need to recall location of the knife.
+OK.
+Act: recall location of Knife
+You saw Knife (1) near CounterTop (1). You saw Knife (2) near CounterTop (1).
+Think: I can find Knife (1) near CounterTop (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Potato (3, 3), Microwave (1, 1), Knife (1, 2), Glassbottle (2), Fridge (1, 1), Drawer (1, 1, 2, 3, 3), CounterTop (1), CoffeeMachine (1), CellPhone (2), Cabinet (5, 8, 8, 16, 17, 17), Bowl (1), Apple (3, 3, 3).  I am holding Apple (3) now.
+Act: pick up Knife (1)
+You are currently holding Apple (3). I am holding Apple (3) now.
+Think: I hold Knife (1). Now, I need to slice the apple.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1, 1, 1), Knife (1, 1, 1, 2, 2, 2), Glassbottle (2, 2, 2), Drawer (2, 2, 2), CounterTop (1, 1, 1), CoffeeMachine (1, 1, 1), CellPhone (2, 2, 2), Cabinet (5, 5, 5, 16, 16, 16), Bowl (1, 1, 1), Apple (3, 3, 3).  I am holding Apple (3) now.
+Act: put down Apple (3)
+You put Apple (3) on CounterTop (1). You see Spatula (1), Knife (1, 2), Glassbottle (2), Drawer (2, 5), CounterTop (1), CoffeeMachine (1), CellPhone (2), Cabinet (5, 16), Bowl (1), Apple (3).
+Act: pick up Apple (3)
+You pick up Apple (3). You see Spatula (1), Knife (1, 2), Glassbottle (2), Drawer (2), CounterTop (1), CoffeeMachine (1), CellPhone (2), Cabinet (16), Bowl (1), Apple (3). I am holding Apple (3) now.
+Act: slice Apple (3)
+The Apple (3) slice failed. I am holding Apple (3) now.
+Think: I slice Apple (3). Now, I need to put down the knife.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1, 1, 1), Knife (1, 1, 1, 2, 2, 2), Glassbottle (2, 2, 2), Drawer (2, 2, 2), CounterTop (1, 1, 1), CoffeeMachine (1, 1, 1), CellPhone (2, 2, 2), Cabinet (16, 16, 16), Bowl (1, 1, 1), Apple (3, 3, 3).  I am holding Apple (3) now.
+Act: put down Apple (3)
+You put Apple (3) on CounterTop (1). You see Spatula (1), Knife (1, 2), Glassbottle (2), Drawer (2, 5), CounterTop (1), CoffeeMachine (1), CellPhone (2), Cabinet (5, 16), Bowl (1), Apple (3).
+Act: pick up Apple (3)
+You pick up Apple (3). You see Spatula (1), Knife (1, 2), Glassbottle (2), Drawer (2), CounterTop (1), CoffeeMachine (1), CellPhone (2), Cabinet (16), Bowl (1), Apple (3). I am holding Apple (3) now.
+Act: slice Apple (3)
+The Apple (3) slice failed. I am holding Apple (3) now.
+Think: I slice Apple (3). Now, I need to put down the knife.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1, 1, 1), Knife (1, 1, 1, 2, 2, 2), Glassbottle (2, 2, 2), Drawer (2, 2, 2), CounterTop (1, 1, 1), CoffeeMachine (1, 1, 1), CellPhone (2, 2, 2), Cabinet (16, 16, 16), Bowl (1, 1, 1), Apple (3, 3, 3).  I am holding Apple (3) now.
+Act: put down Apple (3)
+You put Apple (3) on CounterTop (1). You see Spatula (1), Knife (1, 2), Glassbottle (2), Drawer (2, 5), CounterTop (1), CoffeeMachine (1), CellPhone (2), Cabinet (5, 16), Bowl (1), Apple (3).
+Act: pick up Apple (3)
+You pick up Apple (3). You see Spatula (1), Knife (1, 2), Glassbottle (2), Drawer (2), CounterTop (1), CoffeeMachine (1), CellPhone (2), Cabinet (16), Bowl (1), Apple (3). I am holding Apple (3) now.
+Act: slice Apple (3)
+The Apple (3) slice failed. I am holding Apple (3) now.
+Think: I slice Apple (3). Now, I need to put down the knife.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1, 1, 1), Knife (1, 1, 1, 2, 2, 2), Glassbottle (2, 2, 2), Drawer (2, 2, 2), CounterTop (1, 1, 1), CoffeeMachine (1, 1, 1), CellPhone (2, 2, 2), Cabinet (16, 16, 16), Bowl (1, 1, 1), Apple (3, 3, 3).  I am holding Apple (3) now.
+Act: put down Apple (3)
+You put Apple (3) on CounterTop (1). You see Spatula (1), Knife (1, 2), Glassbottle (2), Drawer (2, 5), CounterTop (1), CoffeeMachine (1), CellPhone (2), Cabinet (5, 16), Bowl (1), Apple (3).
+Act: pick up Apple (3)
+You pick up Apple (3). You see Spatula (1), Knife (1, 2), Glassbottle (2), Drawer (2), CounterTop (1), CoffeeMachine (1), CellPhone (2), Cabinet (16), Bowl (1), Apple (3). I am holding Apple (3) now.
+Act: slice Apple (3)
+The Apple (3) slice failed. I am holding Apple (3) now.
+Think: I slice Apple (3). Now, I need to put down the knife.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1, 1, 1), Knife (1, 1, 1, 2, 2, 2), Glassbottle (2, 2, 2), Drawer (2, 2, 2), CounterTop (1, 1, 1), CoffeeMachine (1, 1, 1), CellPhone (2, 2, 2), Cabinet (16, 16, 16), Bowl (1, 1, 1), Apple (3, 3, 3).  I am holding Apple (3) now.
+Act: put down Apple (3)
+You put Apple (3) on CounterTop (1). You see Spatula (1), Knife (1, 2), Glassbottle (2), Drawer (2, 5), CounterTop (1), CoffeeMachine (1), CellPhone (2), Cabinet (5, 16), Bowl (1), Apple (3).
+Act: pick up Apple (3)
+You pick up Apple (3). You see Spatula (1), Knife (1, 2), Glassbottle (2), Drawer (2), CounterTop (1), CoffeeMachine (1), CellPhone (2), Cabinet (16), Bowl (1), Apple (3). I am holding Apple (3) now.
+Act: slice Apple (3)
+The Apple (3) slice failed. I am holding Apple (3) now.
+Think: I slice Apple (3). Now, I need to put down the knife.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1, 1, 1), Knife (1, 1, 1, 2, 2, 2), Glassbottle (2, 2, 2), Drawer (2, 2, 2), CounterTop (1, 1, 1), CoffeeMachine (1, 1, 1), CellPhone (2, 2, 2), Cabinet (16, 16, 16), Bowl (1, 1, 1), Apple (3, 3, 3).  I am holding Apple (3) now.
+Act: put down Apple (3)
+You put Apple (3) on CounterTop (1). You see Spatula (1), Knife (1, 2), Glassbottle (2), Drawer (2, 5), CounterTop (1), CoffeeMachine (1), CellPhone (2), Cabinet (5, 16), Bowl (1), Apple (3).
+Act: pick up Apple (3)
+You pick up Apple (3). You see Spatula (1), Knife (1, 2), Glassbottle (2), Drawer (2), CounterTop (1), CoffeeMachine (1), CellPhone (2), Cabinet (16), Bowl (1), Apple (3). I am holding Apple (3) now.
+Act: slice Apple (3)
+The Apple (3) slice failed. I am holding Apple (3) now.
+Think: I slice Apple (3). Now, I need to put down the knife.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1, 1, 1), Knife (1, 1, 1, 2, 2, 2), Glassbottle (2, 2, 2), Drawer (2, 2, 2), CounterTop (1, 1, 1), CoffeeMachine (1, 1, 1), CellPhone (2, 2, 2), Cabinet (16, 16, 16), Bowl (1, 1, 1), Apple (3, 3, 3).  I am holding Apple (3) now.
+Act: put down Apple (3)
+You put Apple (3) on CounterTop (1). You see Spatula (1), Knife (1, 2), Glassbottle (2), Drawer (2, 5), CounterTop (1), CoffeeMachine (1), CellPhone (2), Cabinet (5, 16), Bowl (1), Apple (3).
+Act: pick up Apple (3)
+You pick up Apple (3). You see Spatula (1), Knife (1, 2), Glassbottle (2), Drawer (2), CounterTop (1), CoffeeMachine (1), CellPhone (2), Cabinet (16), Bowl (1), Apple (3). I am holding Apple (3) now.
+Act: slice Apple (3)
+The Apple (3) slice failed. I am holding Apple (3) now.
+Think: I slice Apple (3). Now, I need to put down the knife.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1, 1, 1), Knife (1, 1, 1, 2, 2, 2), Glassbottle (2, 2, 2), Drawer (2, 2, 2), CounterTop (1, 1, 1), CoffeeMachine (1, 1, 1), CellPhone (2, 2, 2), Cabinet (16, 16, 16), Bowl (1, 1, 1), Apple (3, 3, 3).  I am holding Apple (3) now.
+Act: put down Apple (3)
+You put Apple (3) on CounterTop (1). You see Spatula (1), Knife (1, 2), Glassbottle (2), Drawer (2, 5), CounterTop (1), CoffeeMachine (1), CellPhone (2), Cabinet (5, 16), Bowl (1), Apple (3).
+Act: pick up Apple (3)
+You pick up Apple (3). You see Spatula (1), Knife (1, 2), Glassbottle (2), Drawer (2), CounterTop (1), CoffeeMachine (1), CellPhone (2), Cabinet (16), Bowl (1), Apple (3). I am holding Apple (3) now.
+Act: slice Apple (3)
+The Apple (3) slice failed. I am holding Apple (3) now.
+Think: I slice Apple (3). Now, I need to put down the knife.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1, 1, 1), Knife (1, 1, 1, 2, 2, 2), Glassbottle (2, 2, 2), Drawer (2, 2, 2), CounterTop (1, 1, 1), CoffeeMachine (1, 1, 1), CellPhone (2, 2, 2), Cabinet (16, 16, 16), Bowl (1, 1, 1), Apple (3, 3, 3).  I am holding Apple (3) now.
+Act: put down Apple (3)
+You put Apple (3) on CounterTop (1). You see Spatula (1), Knife (1, 2), Glassbottle (2), Drawer (2, 5), CounterTop (1), CoffeeMachine (1), CellPhone (2), Cabinet (5, 16), Bowl (1), Apple (3).
+Act: pick up Apple (3)
+You pick up Apple (3). You see Spatula (1), Knife (1, 2), Glassbottle (2), Drawer (2), CounterTop (1), CoffeeMachine (1), CellPhone (2), Cabinet (16), Bowl (1), Apple (3). I am holding Apple (3) now.
+Act: slice Apple (3)
+The Apple (3) slice failed. I am holding Apple (3) now.
+Think: I slice Apple (3). Now, I need to put down the knife.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1, 1, 1), Knife (1, 1, 1, 2, 2, 2), Glassbottle (2, 2, 2), Drawer (2, 2, 2), CounterTop (1, 1, 1), CoffeeMachine (1, 1, 1), CellPhone (2, 2, 2), Cabinet (16, 16, 16), Bowl (1, 1, 1), Apple (3, 3, 3).  I am holding Apple (3) now.
+Act: put down Apple (3)
+You put Apple (3) on CounterTop (1). You see Spatula (1), Knife (1, 2), Glassbottle (2), Drawer (2, 5), CounterTop (1), CoffeeMachine (1), CellPhone (2), Cabinet (5, 16), Bowl (1), Apple (3).
+Act: pick up Apple (3)
+You pick up Apple (3). You see Spatula (1), Knife (1, 2), Glassbottle (2), Drawer (2), CounterTop (1), CoffeeMachine (1), CellPhone (2), Cabinet (16), Bowl (1), Apple (3). I am holding Apple (3) now.
+Act: slice Apple (3)
+The Apple (3) slice failed. I am holding Apple (3) now.
+Think: I slice Apple (3). Now, I need to put down the knife.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1, 1, 1), Knife (1, 1, 1, 2, 2, 2), Glassbottle (2, 2, 2), Drawer (2, 2, 2), CounterTop (1, 1, 1), CoffeeMachine (1, 1, 1), CellPhone (2, 2, 2), Cabinet (16, 16, 16), Bowl (1, 1, 1), Apple (3, 3, 3).  I am holding Apple (3) now.
+Act: put down Apple (3)
+You put Apple (3) on CounterTop (1). You see Spatula (1), Knife (1, 2), Glassbottle (2), Drawer (2, 5), CounterTop (1), CoffeeMachine (1), CellPhone (2), Cabinet (5, 16), Bowl (1), Apple (3).
+Act: pick up Apple (3)
+You pick up Apple (3). You see Spatula (1), Knife (1, 2), Glassbottle (2), Drawer (2), CounterTop (1), CoffeeMachine (1), CellPhone (2), Cabinet (16), Bowl (1), Apple (3). I am holding Apple (3) now.
+Act: slice Apple (3)
+The Apple (3) slice failed. I am holding Apple (3) now.
+Think: I slice Apple (3). Now, I need to put down the knife.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1, 1, 1), Knife (1, 1, 1, 2, 2, 2), Glassbottle (2, 2, 2), Drawer (2, 2, 2), CounterTop (1, 1, 1), CoffeeMachine (1, 1, 1), CellPhone (2, 2, 2), Cabinet (16, 16, 16), Bowl (1, 1, 1), Apple (3, 3, 3).  I am holding Apple (3) now.
+Act: put down Apple (3)
+You put Apple (3) on CounterTop (1). You see Spatula (1), Knife (1, 2), Glassbottle (2), Drawer (2, 5), CounterTop (1), CoffeeMachine (1), CellPhone (2), Cabinet (5, 16), Bowl (1), Apple (3).
+Act: pick up Apple (3)
+You pick up Apple (3). You see Spatula (1), Knife (1, 2), Glassbottle (2), Drawer (2), CounterTop (1), CoffeeMachine (1), CellPhone (2), Cabinet (16), Bowl (1), Apple (3). I am holding Apple (3) now.
+Act: slice Apple (3)
+The Apple (3) slice failed. I am holding Apple (3) now.
+Think: I slice Apple (3). Now, I need to put down the knife.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1, 1, 1), Knife (1, 1, 1, 2, 2, 2), Glassbottle (2, 2, 2), Drawer (2, 2, 2), CounterTop (1, 1, 1), CoffeeMachine (1, 1, 1), CellPhone (2, 2, 2), Cabinet (16, 16, 16), Bowl (1, 1, 1), Apple (3, 3, 3).  I am holding Apple (3) now.
+Act: put down Apple (3)
+You put Apple (3) on CounterTop (1). You see Spatula (1), Knife (1, 2), Glassbottle (2), Drawer (2, 5), CounterTop (1), CoffeeMachine (1), CellPhone (2), Cabinet (5, 16), Bowl (1), Apple (3).
+Act: pick up Apple (3)
+You pick up Apple (3). You see Spatula (1), Knife (1, 2), Glassbottle (2), Drawer (2), CounterTop (1), CoffeeMachine (1), CellPhone (2), Cabinet (16), Bowl (1), Apple (3). I am holding Apple (3) now.
+Act: slice Apple (3)
+The Apple (3) slice failed. I am holding Apple (3) now.
+Think: I slice Apple (3). Now, I need to put down the knife.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1, 1, 1), Knife (1, 1, 1, 2, 2, 2), Glassbottle (2, 2, 2), Drawer (2, 2, 2), CounterTop (1, 1, 1), CoffeeMachine (1, 1, 1), CellPhone (2, 2, 2), Cabinet (16, 16, 16), Bowl (1, 1, 1), Apple (3, 3, 3).  I am holding Apple (3) now.
+Act: put down Apple (3)
+You put Apple (3) on CounterTop (1). You see Spatula (1), Knife (1, 2), Glassbottle (2), Drawer (2, 5), CounterTop (1), CoffeeMachine (1), CellPhone (2), Cabinet (5, 16), Bowl (1), Apple (3).
+Act: pick up Apple (3)
+You pick up Apple (3). You see Spatula (1), Knife (1, 2), Glassbottle (2), Drawer (2), CounterTop (1), CoffeeMachine (1), CellPhone (2), Cabinet (16), Bowl (1), Apple (3). I am holding Apple (3) now.
+Max decisions

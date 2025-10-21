@@ -1,0 +1,25 @@
+Your primary goal is to: put an orange cup and knife onto a table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up orange cup, place orange cup on table, find and pick up knife, and place knife on table near orange cup.
+Your task is to: find and pick up orange cup
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13).
+Think: First, I need to recall location of the orange cup.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now, I need to find the orange cup. The orange cup is more likely to appear on DiningTable (1), CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1-4). I can check each place one by one, starting from DiningTable (1), until I find the orange cup.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (1), Spoon (1, 2, 3), Spatula (2), SaltShaker (1, 2, 3), Potato (1, 2), PepperShaker (1), Lettuce (1), Knife (2), HousePlant (1), Fork (3), DishSponge (3), DiningTable (1), ButterKnife (1), Book (1), Apple (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Pot (1), Fork (1), Drawer (3), Cup (4), CounterTop (1), Cabinet (2), Bowl (1). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Toaster (1), StoveKnob (3, 4), StoveBurner (2, 3, 4), Pan (2), Knife (1), Kettle (1), Drawer (2), CounterTop (2), Cabinet (11), Bread (2). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Spatula (1), Sink (1), SinkBasin (1), Faucet (1), DishSponge (2), Cup (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13). 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: pick up Cup (1)
+You pick up Cup (1). You see Window (2), Spatula (1), Sink (1), SinkBasin (1), Faucet (1), DishSponge (2), Cup (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13). I am holding Cup (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

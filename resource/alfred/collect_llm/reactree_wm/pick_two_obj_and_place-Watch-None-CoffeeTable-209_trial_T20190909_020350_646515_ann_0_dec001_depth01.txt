@@ -1,0 +1,7 @@
+Your task is to: Put two watches on a coffee table.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), CoffeeTable (1), ArmChair (1).
+Think: Since I’m not holding the watch, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up watch, place watch on coffee table, Find and pick up watch away from coffee table, and place watch on coffee table.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up watch, place watch on coffee table, Find and pick up watch away from coffee table, place watch on coffee table

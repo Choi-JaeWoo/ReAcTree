@@ -1,0 +1,19 @@
+Your primary goal is to: Place a cleaned spatula on a dining table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up spatula, clean and pick up spatula, and place spatula on dining table.
+Your task is to: find and pick up spatula
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2), DiningTable (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10).
+Think: First, I need to recall location of the spatula.
+OK.
+Act: recall location of Spatula
+You have not seen Spatula before.
+Think: Now, I need to find the spatula. The spatula is more likely to appear on DiningTable (1), CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-10), Drawer (1-2). I can check each place one by one, starting from DiningTable (1), until I find the spatula.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (1), Spatula (1, 2), SoapBottle (2), SaltShaker (1, 2), PepperShaker (2), Pen (1, 2), Pan (1), Lettuce (2), Glassbottle (1, 3), Egg (1), DiningTable (1), Chair (1, 2), ButterKnife (2). 
+Think: I find Spatula (1). Now, I need to pick it up.
+OK.
+Act: pick up Spatula (1)
+You pick up Spatula (1). You see Tomato (1), Spatula (1, 2), SoapBottle (2), SaltShaker (1, 2), PepperShaker (2), Pen (1, 2), Pan (1), Lettuce (2), Glassbottle (1, 3), Egg (1), DiningTable (1), Chair (1, 2), ButterKnife (2). I am holding Spatula (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

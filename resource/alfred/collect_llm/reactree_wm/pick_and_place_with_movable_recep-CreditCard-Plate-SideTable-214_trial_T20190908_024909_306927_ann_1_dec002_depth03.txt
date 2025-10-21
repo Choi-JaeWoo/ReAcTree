@@ -1,0 +1,23 @@
+Your primary goal is to: To put a card on a plate and move them to the end table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up card, place card on plate, and move plate to end table.
+Your task is to: find and pick up card
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1, 2), SideTable (1), Shelf (1, 2), GarbageCan (1), CoffeeTable (1), ArmChair (1).
+Think: First, I need to recall location of the card.
+OK.
+Act: recall location of CreditCard
+You have not seen CreditCard before.
+Think: Now, I need to find the card. The card is more likely to appear on Sofa (1-2), SideTable (1), Shelf (1-2), or in CoffeeTable (1), ArmChair (1). I can check each place one by one, starting from Sofa (1), until I find the card.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Laptop (1). 
+Act: go to Sofa (2)
+You arrive at Sofa (2). You see Sofa (2), Pillow (1), Newspaper (1), Curtains (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Sofa (2), SideTable (1), RemoteControl (2), Lamp (1), Curtains (2, 3), CreditCard (3). 
+Think: I find CreditCard (3). Now, I need to pick it up.
+OK.
+Act: pick up CreditCard (3)
+You pick up CreditCard (3). You see Sofa (2), SideTable (1), RemoteControl (2), Lamp (1), Curtains (2, 3), CreditCard (3). I am holding CreditCard (3) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

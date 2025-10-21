@@ -1,0 +1,7 @@
+Your task is to: Move the candle onto a plate and place it on the shelf.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), GarbageCan (1), DiningTable (1, 2), CoffeeTable (1), ArmChair (1, 2, 3).
+Think: Since I’m not holding anything, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up candle, find and pick up plate, place candle on plate, and place plate on shelf.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up candle, find and pick up plate, place candle on plate, place plate on shelf

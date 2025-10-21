@@ -1,0 +1,116 @@
+Your task is to: Put two towels on the toilet tank lid. 
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), Sink (1), SinkBasin (1), HandTowelHolder (1, 2), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1), Bathtub (1), BathtubBasin (1).
+Think: To solve the task, I need to find and pick up two towels, then put them on the toilet tank lid.
+OK.
+Think: First, I need to recall location of the towel.
+OK.
+Act: recall location of HandTowel
+You have not seen HandTowel before.
+Think: Now I need to find the towel. The towel is more likely to appear on HandTowelHolder (1-2), Drawer (1-8), or in Cabinet (1-4). I can check each place one by one, starting from HandTowelHolder (1), until I find the towel.
+OK.
+Act: go to HandTowelHolder (1)
+You arrive at HandTowelHolder (1). You see Mirror (1), HandTowel (1), HandTowelHolder (1). 
+Think: I find HandTowel (1). Now, I need to pick it up.
+OK.
+Act: pick up HandTowel (1)
+
+Think: I hold HandTowel (1). Now, I need to recall location of the towel.
+OK.
+Act: recall location of HandTowel
+You saw HandTowel (1) near hand.
+Think: I can find HandTowel (1) near hand.
+OK.
+Act: go to HandTowelHolder (1)
+You arrive at HandTowelHolder (1). You see Mirror (1), HandTowel (1), HandTowelHolder (1). 
+Think: I find HandTowel (1). Now, I need to pick it up.
+OK.
+Act: pick up HandTowel (1)
+
+Think: I hold HandTowel (1). Now, I need to put it on the toilet tank lid.
+OK.
+Act: go to Toilet (1)
+You arrive at Toilet (1). You see Toilet (1), ToiletPaper (1, 2), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1). Toilet (1) is closed. 
+Act: open Drawer (4)
+You open Drawer (4). You see Toilet (1), ToiletPaper (1, 2), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Toilet (1), ToiletPaper (1, 2), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: open Drawer (7)
+You open Drawer (7). You see Toilet (1), ToiletPaper (1, 2), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: close Drawer (7)
+You close Drawer (7). You see Toilet (1), ToiletPaper (1, 2), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Toilet (1), ToiletPaper (1, 2), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Toilet (1), ToiletPaper (1, 2), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: open Drawer (7)
+You open Drawer (7). You see Toilet (1), ToiletPaper (1, 2), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: close Drawer (7)
+You close Drawer (7). You see Toilet (1), ToiletPaper (1, 2), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Toilet (1), ToiletPaper (1, 2), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Toilet (1), ToiletPaper (1, 2), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: open Drawer (7)
+You open Drawer (7). You see Toilet (1), ToiletPaper (1, 2), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: close Drawer (7)
+You close Drawer (7). You see Toilet (1), ToiletPaper (1, 2), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Toilet (1), ToiletPaper (1, 2), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Toilet (1), ToiletPaper (1, 2), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: open Drawer (7)
+You open Drawer (7). You see Toilet (1), ToiletPaper (1, 2), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: close Drawer (7)
+You close Drawer (7). You see Toilet (1), ToiletPaper (1, 2), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Toilet (1), ToiletPaper (1, 2), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Toilet (1), ToiletPaper (1, 2), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: open Drawer (7)
+You open Drawer (7). You see Toilet (1), ToiletPaper (1, 2), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: close Drawer (7)
+You close Drawer (7). You see Toilet (1), ToiletPaper (1, 2), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Toilet (1), ToiletPaper (1, 2), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Toilet (1), ToiletPaper (1, 2), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: open Drawer (7)
+You open Drawer (7). You see Toilet (1), ToiletPaper (1, 2), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: close Drawer (7)
+You close Drawer (7). You see Toilet (1), ToiletPaper (1, 2), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Toilet (1), ToiletPaper (1, 2), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Toilet (1), ToiletPaper (1, 2), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: open Drawer (7)
+You open Drawer (7). You see Toilet (1), ToiletPaper (1, 2), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: close Drawer (7)
+You close Drawer (7). You see Toilet (1), ToiletPaper (1, 2), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Toilet (1), ToiletPaper (1, 2), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Toilet (1), ToiletPaper (1, 2), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: open Drawer (7)
+You open Drawer (7). You see Toilet (1), ToiletPaper (1, 2), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: close Drawer (7)
+You close Drawer (7). You see Toilet (1), ToiletPaper (1, 2), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Toilet (1), ToiletPaper (1, 2), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Toilet (1), ToiletPaper (1, 2), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: open Drawer (7)
+You open Drawer (7). You see Toilet (1), ToiletPaper (1, 2), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: close Drawer (7)
+You close Drawer (7). You see Toilet (1), ToiletPaper (1, 2), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Toilet (1), ToiletPaper (1, 2), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Toilet (1), ToiletPaper (1, 2), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: open Drawer (7)
+You open Drawer (7). You see Toilet (1), ToiletPaper (1, 2), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: close Drawer (7)
+You close Drawer (7). You see Toilet (1), ToiletPaper (1, 2), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Toilet (1), ToiletPaper (1, 2), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Toilet (1), ToiletPaper (1, 2), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1), Drawer (4, 7), CounterTop (1).

@@ -1,0 +1,130 @@
+Your task is to: Cut the tomato with the knife and cook one slice in the microwave.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: To solve the task, I need to find and pick up the tomato, then slice it with the knife. And I need to find and pick up the knife. And I need to put down the knife and pick up the tomato, then put it in the microwave. And I need to turn on and off the microwave.
+OK.
+Think: First, I need to recall location of the tomato.
+OK.
+Act: recall location of Tomato
+You have not seen Tomato before.
+Think: Now I need to find the tomato. The tomato is more likely to appear on CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the tomato.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Plate (1), Kettle (3), Bread (1, 3). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Spoon (1), Sink (1), SinkBasin (1), Potato (2), Mug (1), Lettuce (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Drawer (1). Fridge (1) is closed. 
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Tomato (4), Spoon (2), SideTable (1), Microwave (1), Fridge (1). Microwave (1) is closed. 
+Think: I find Tomato (4). Now, I need to pick it up.
+OK.
+Act: pick up Tomato (4)
+You pick up Tomato (4). You see Tomato (4), Spoon (2), SideTable (1), Microwave (1), Fridge (1). I am holding Tomato (4) now.
+Think: I hold Tomato (4). Now, I need to recall location of the knife.
+OK.
+Act: recall location of Knife
+You have not seen Knife before.
+Think: Now I need to find the knife. The knife is more likely to appear on CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the knife.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Tomato (4), Plate (1), Kettle (3), Bread (1, 3).  I am holding Tomato (4) now.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (4), Spoon (1), Sink (1), SinkBasin (1), Potato (2), Mug (1), Lettuce (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1).  I am holding Tomato (4) now.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (4), Fridge (1), Drawer (1). Fridge (1) is closed.  I am holding Tomato (4) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Tomato (4), Spoon (2), SideTable (1), Microwave (1), Fridge (1). Microwave (1) is closed.  I am holding Tomato (4) now.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Tomato (4), Spoon (3), Spatula (2), CounterTop (1), CoffeeMachine (1), Chair (1), Cabinet (1). Cabinet (1) is closed.  I am holding Tomato (4) now.
+Act: open Cabinet (1)
+You open Cabinet (1). You see Tomato (4), Spoon (3), Spatula (2), SoapBottle (1), Plate (3), CounterTop (1), CoffeeMachine (1), Chair (1), Cabinet (1). I am holding Tomato (4) now.
+Think: I find Knife (1). Now, I need to pick it up.
+OK.
+Act: pick up Tomato (4)
+You are currently holding Tomato (4). I am holding Tomato (4) now.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Tomato (4), Plate (1), Kettle (3), Bread (1, 3).  I am holding Tomato (4) now.
+Act: put down Tomato (4)
+You put down failed, drop it. You see Tomato (4), Plate (1), Kettle (3), Bread (1, 3).
+Act: pick up Tomato (4)
+You pick up Tomato (4). You see Tomato (4), Plate (1), Kettle (3), Bread (1, 3). I am holding Tomato (4) now.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (4), Spoon (1), Sink (1), SinkBasin (1), Potato (2), Mug (1), Lettuce (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1).  I am holding Tomato (4) now.
+Act: put down Tomato (4)
+You put Tomato (4) on SinkBasin (1). You see Tomato (4), Spoon (1), Sink (1), SinkBasin (1), Potato (2), Mug (1), Lettuce (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1).
+Think: I put Tomato (4) in the SinkBasin (1). Now, I need to recall location of the knife.
+OK.
+Act: recall location of Knife
+You have not seen Knife before.
+Think: Now I need to find the knife. The knife is more likely to appear on CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the knife.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Plate (1), Kettle (3), Bread (1, 3). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (4), Spoon (1), Sink (1), SinkBasin (1), Potato (2), Mug (1), Lettuce (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Drawer (1). Fridge (1) is closed. 
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Spoon (2), SideTable (1), Microwave (1), Fridge (1). Microwave (1) is closed. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Spoon (3), Spatula (2), SoapBottle (1), Plate (3), CounterTop (1), CoffeeMachine (1), Chair (1), Cabinet (1). Cabinet (1) is open. 
+Think: I find Knife (1). Now, I need to pick it up.
+OK.
+Act: pick up Spoon (3)
+You pick up Spoon (3). You see Spoon (3), Spatula (2), SoapBottle (1), Plate (3), CounterTop (1), CoffeeMachine (1), Chair (1), Cabinet (1). I am holding Spoon (3) now.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spoon (3), Plate (1), Kettle (3), Bread (1, 3).  I am holding Spoon (3) now.
+Act: put down Spoon (3)
+You put down failed, drop it. You see Spoon (3), Plate (1), Kettle (3), Bread (1, 3).
+Act: pick up Spoon (3)
+You pick up Spoon (3). You see Spoon (3), Plate (1), Kettle (3), Bread (1, 3). I am holding Spoon (3) now.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (4), Spoon (1, 3), Sink (1), SinkBasin (1), Potato (2), Mug (1), Lettuce (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1).  I am holding Spoon (3) now.
+Act: put down Spoon (3)
+You put Spoon (3) on SinkBasin (1). You see Tomato (4), Spoon (1, 3), Sink (1), SinkBasin (1), Potato (2), Mug (1), Lettuce (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1).
+Think: I put Spoon (3) in the SinkBasin (1). Now, I need to recall location of the knife.
+OK.
+Act: recall location of Knife
+You have not seen Knife before.
+Think: Now I need to find the knife. The knife is more likely to appear on CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the knife.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Plate (1), Kettle (3), Bread (1, 3). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (4), Spoon (1, 3), Sink (1), SinkBasin (1), Potato (2), Mug (1), Lettuce (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Drawer (1). Fridge (1) is closed. 
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Spoon (2), SideTable (1), Microwave (1), Fridge (1). Microwave (1) is closed. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Spatula (2), SoapBottle (1), Plate (3), CounterTop (1), CoffeeMachine (1), Chair (1), Cabinet (1). Cabinet (1) is open. 
+Think: I find Knife (1). Now, I need to pick it up.
+OK.
+Act: pick up Spatula (2)
+You pick up Spatula (2). You see Spatula (2), SoapBottle (1), Plate (3), CounterTop (1), CoffeeMachine (1), Chair (1), Cabinet (1). I am holding Spatula (2) now.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (2), Plate (1), Kettle (3), Bread (3).  I am holding Spatula (2) now.
+Act: put down Spatula (2)
+You put down failed, drop it. You see Spatula (2), Plate (1), Kettle (3), Bread (1, 3).
+Act: pick up Spatula (2)
+You pick up Spatula (2). You see Spatula (2), Plate (1), Kettle (3), Bread (3). I am holding Spatula (2) now.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (4), Spoon (1, 3), Spatula (2), Sink (1), SinkBasin (1), Potato (2), Mug (1), Lettuce (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1).  I am holding Spatula (2) now.
+Act: put down Spatula (2)
+You put Spatula (2) on SinkBasin (1). You see Tomato (4), Spoon (1, 3), Spatula (2), Sink (1), SinkBasin (1), Potato (2), Mug (1), Lettuce (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1).
+Think: I put Spatula (2) in the SinkBasin (1). Now, I need to recall location of the knife.
+OK.
+Act: recall location of Knife
+You have not seen Knife before.
+Think: Now I need to find the knife. The knife is more likely to appear on CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the knife.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Plate (1), Kettle (3), Bread (1, 3). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (4), Spoon (1, 3), Spatula (2), Sink (1), SinkBasin (1), Potato (2), Mug (1), Lettuce (1), HousePlant (1), Faucet (1), Drawer (2, 4), CounterTop (1). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Drawer (1). Fridge (1) is closed. 
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Spoon (2), SideTable (1), Microwave (1), Fridge (1). Microwave (1) is closed. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see SoapBottle (1), Plate (3), CounterTop (1), CoffeeMachine (1), Chair (1), Cabinet (1). Cabinet (1) is open. 

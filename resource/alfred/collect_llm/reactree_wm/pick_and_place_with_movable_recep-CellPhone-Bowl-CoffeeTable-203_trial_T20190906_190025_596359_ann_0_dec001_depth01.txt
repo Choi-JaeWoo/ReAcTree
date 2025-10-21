@@ -1,0 +1,7 @@
+Your task is to: Move a cell phone in a bowl to the coffee table. 
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1), Ottoman (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7), DiningTable (1), CoffeeTable (1), ArmChair (1).
+Think: Since I’m not holding cell phone, I need to accomplish 2 subgoals sequentially to solve the task. Find and pick up cell phone and place cell phone on coffee table.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up cell phone, place cell phone on coffee table

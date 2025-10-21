@@ -1,0 +1,25 @@
+Your primary goal is to: Put a pencil inside a cup on the desk.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pencil, place pencil on desk, and place pencil inside cup.
+Your task is to: place pencil inside cup
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), Bed (1).
+Think: I hold Pencil (1). Now, I need to recall location of the cup.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now, I need to find the cup. The cup is more likely to appear on Desk (1), SideTable (1), or in Drawer (1-6). I can check each place one by one, starting from Desk (1), until I find the cup.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see TissueBox (1), Pen (1), Lamp (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), Chair (1), CellPhone (1), Box (2), AlarmClock (1, 2). 
+Think: I find Cup (1). Now, I need to put down Pencil (1) inside Cup (1).
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see TissueBox (1), Pen (1), Lamp (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), Chair (1), CellPhone (1), Box (2), AlarmClock (1, 2). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), Chair (1), CellPhone (1), Box (2), AlarmClock (2). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Pen (1), Drawer (1, 2, 3, 5, 6), Desk (1), Chair (1), CellPhone (1), Box (2), AlarmClock (1, 2).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Pen (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), CellPhone (1), Box (2), AlarmClock (2). Drawer (2) is closed. 
+Act: open Drawer (2)
+The Drawer (2) is open failed.
+Act: failure

@@ -1,0 +1,13 @@
+Your primary goal is to: Throw away a slice of heated bread.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up bread, heat and pick up bread, and throw away bread.
+Your task is to: throw away bread
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2). I am holding Bread (1) now.
+Think: I hold Bread (1). Now, I need to throw it away. I can see GarbageCan (1).
+OK.
+Act: go to GarbageCan (1)
+You arrive at GarbageCan (1). You see Bread (1).  I am holding Bread (1) now.
+Act: put down Bread (1)
+You put down failed, drop it. You see Bread (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

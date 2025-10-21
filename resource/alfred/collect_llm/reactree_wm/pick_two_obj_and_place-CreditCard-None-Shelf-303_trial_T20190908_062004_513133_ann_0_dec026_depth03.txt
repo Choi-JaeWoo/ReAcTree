@@ -1,0 +1,53 @@
+Your primary goal is to: Move two credit cards from the dresser to the book shelf. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up credit card, place credit card on book shelf, Find and pick up credit card away from book shelf, and place credit card on book shelf.
+Your task is to: Find and pick up credit card away from book shelf
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5), Desk (1), Bed (1).
+Think: First, I need to recall location of the credit card.
+OK.
+Act: recall location of CreditCard
+You saw CreditCard (1) near Shelf (1). You saw CreditCard (2) near Shelf (1). You saw CreditCard (3) near Shelf (1).
+Think: CreditCard (1), CreditCard (2), and CreditCard (3) are in Shelf (1). Now, I need to find another credit card. The credit card is more likely to appear on Bed (1), Desk (1), SideTable (1), or in Drawer (1-5). I can check each place one by one, starting from Bed (1), until I find the credit card.
+OK.
+Act: go to Bed (1)
+You arrive at Bed (1). You see Pillow (1), Laptop (1), Drawer (1, 2, 5), Book (1), Bed (1). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pencil (1), Pen (1), KeyChain (1), Drawer (2, 5), Desk (1), DeskLamp (1), Chair (1), BaseballBat (1), AlarmClock (1, 2). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pillow (1), Drawer (1, 2, 5), Desk (1), DeskLamp (1), Chair (1), Bed (1), AlarmClock (1, 2). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (1), Pillow (1), Drawer (1, 2, 5), Desk (1), DeskLamp (1), Chair (1), Bed (1), AlarmClock (1, 2). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see SideTable (1), Pillow (1), Drawer (1, 2), Desk (1), DeskLamp (1), Chair (1), Bed (1), AlarmClock (1, 2).
+Act: close Drawer (1)
+You close Drawer (1). You see SideTable (1), Pillow (1), Drawer (1, 2, 5), Desk (1), DeskLamp (1), Chair (1), Bed (1), AlarmClock (1, 2).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (1), Pillow (1), Drawer (1, 2, 5), Desk (1), DeskLamp (1), Chair (1), Bed (1), AlarmClock (1, 2). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see SideTable (1), Pillow (1), Drawer (1, 2, 5), Desk (1), DeskLamp (1), Chair (1), Bed (1), AlarmClock (1, 2).
+Act: close Drawer (2)
+You close Drawer (2). You see SideTable (1), Pillow (1), Drawer (1, 2, 5), Desk (1), DeskLamp (1), Chair (1), Bed (1), AlarmClock (1, 2).
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Window (1), KeyChain (3), Dresser (1), Drawer (3, 4), CreditCard (2, 3), CD (1, 2), Bed (1). Drawer (3) is closed. 
+Act: open Drawer (3)
+You open Drawer (3). You see Shelf (12), KeyChain (3), Dresser (1), Drawer (3, 4), CreditCard (2, 3), CD (1, 2), Book (1), Bed (1).
+Act: close Drawer (3)
+You close Drawer (3). You see Shelf (12), KeyChain (3), Dresser (1), Drawer (3, 4), CreditCard (2, 3), CD (1, 2), Book (1), Bed (1).
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Window (1), Poster (1), KeyChain (3), Dresser (1), Drawer (3, 4), CreditCard (2, 3), CD (1, 2), Bed (1). Drawer (4) is closed. 
+Act: open Drawer (4)
+You open Drawer (4). You see Window (1), Shelf (12), KeyChain (3), Dresser (1), Drawer (4), CreditCard (2, 3), CD (1, 2), Bed (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Window (1), Shelf (12), KeyChain (3), Dresser (1), Drawer (3, 4), CreditCard (2, 3), CD (1, 2), Bed (1).
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see SideTable (1), Pillow (1), Drawer (1, 2, 5), Desk (1), DeskLamp (1), Chair (1), Bed (1), AlarmClock (1, 2). Drawer (5) is closed. 
+Act: open Drawer (5)
+You open Drawer (5). You see SideTable (1), Pillow (1), KeyChain (2), Drawer (1, 2, 5), Desk (1), DeskLamp (1), Chair (1), Bed (1), AlarmClock (1, 2).
+Act: close Drawer (5)
+You close Drawer (5). You see SideTable (1), Pillow (1), Drawer (1, 2, 5), Desk (1), DeskLamp (1), Chair (1), Bed (1), AlarmClock (1, 2).
+Think: I find CreditCard (2) and CreditCard (3). Now, I need to pick them up.
+OK.
+Act: pick up AlarmClock (1)
+You pick up AlarmClock (1). You see SideTable (1), Pillow (1), Drawer (1, 2), Desk (1), DeskLamp (1), Chair (1), Bed (1), AlarmClock (1, 2). I am holding AlarmClock (1) now.
+Act: pick up AlarmClock (2)
+You are currently holding AlarmClock (1). I am holding AlarmClock (1) now.
+Act: failure

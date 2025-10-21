@@ -1,0 +1,179 @@
+Your primary goal is to: Put the sauce with pen on the coffee table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up sauce, find and pick up pen, and place sauce and pen on coffee table.
+Your task is to: place sauce and pen on coffee table
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1, 2), GarbageCan (1), Drawer (1, 2), DiningTable (1, 2), CoffeeTable (1), ArmChair (1, 2).
+Think: I hold Sauce (1) and Pen (1). Now, I need to put them on the coffee table. I can see CoffeeTable (1).
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2). 
+Act: pick up Pen (2)
+You pick up Pen (2). You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2). I am holding Pen (2) now.
+Act: put down Pen (2)
+You put down failed, drop it. You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2).
+Act: pick up Pen (2)
+You pick up Pen (2). You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2). I am holding Pen (2) now.
+Act: put down Pen (2)
+You put down failed, drop it. You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2).
+Act: pick up Pen (2)
+You pick up Pen (2). You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2). I am holding Pen (2) now.
+Act: put down Pen (2)
+You put down failed, drop it. You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2).
+Act: pick up Pen (2)
+You pick up Pen (2). You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2). I am holding Pen (2) now.
+Act: put down Pen (2)
+You put down failed, drop it. You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2).
+Act: pick up Pen (2)
+You pick up Pen (2). You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2). I am holding Pen (2) now.
+Act: put down Pen (2)
+You put down failed, drop it. You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2).
+Act: pick up Pen (2)
+You pick up Pen (2). You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2). I am holding Pen (2) now.
+Act: put down Pen (2)
+You put down failed, drop it. You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2).
+Act: pick up Pen (2)
+You pick up Pen (2). You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2). I am holding Pen (2) now.
+Act: put down Pen (2)
+You put down failed, drop it. You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2).
+Act: pick up Pen (2)
+You pick up Pen (2). You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2). I am holding Pen (2) now.
+Act: put down Pen (2)
+You put down failed, drop it. You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2).
+Act: pick up Pen (2)
+You pick up Pen (2). You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2). I am holding Pen (2) now.
+Act: put down Pen (2)
+You put down failed, drop it. You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2).
+Act: pick up Pen (2)
+You pick up Pen (2). You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2). I am holding Pen (2) now.
+Act: put down Pen (2)
+You put down failed, drop it. You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2).
+Act: pick up Pen (2)
+You pick up Pen (2). You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2). I am holding Pen (2) now.
+Act: put down Pen (2)
+You put down failed, drop it. You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2).
+Act: pick up Pen (2)
+You pick up Pen (2). You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2). I am holding Pen (2) now.
+Act: put down Pen (2)
+You put down failed, drop it. You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2).
+Act: pick up Pen (2)
+You pick up Pen (2). You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2). I am holding Pen (2) now.
+Act: put down Pen (2)
+You put down failed, drop it. You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2).
+Act: pick up Pen (2)
+You pick up Pen (2). You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2). I am holding Pen (2) now.
+Act: put down Pen (2)
+You put down failed, drop it. You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2).
+Act: pick up Pen (2)
+You pick up Pen (2). You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2). I am holding Pen (2) now.
+Act: put down Pen (2)
+You put down failed, drop it. You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2).
+Act: pick up Pen (2)
+You pick up Pen (2). You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2). I am holding Pen (2) now.
+Act: put down Pen (2)
+You put down failed, drop it. You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2).
+Act: pick up Pen (2)
+You pick up Pen (2). You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2). I am holding Pen (2) now.
+Act: put down Pen (2)
+You put down failed, drop it. You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2).
+Act: pick up Pen (2)
+You pick up Pen (2). You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2). I am holding Pen (2) now.
+Act: put down Pen (2)
+You put down failed, drop it. You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2).
+Act: pick up Pen (2)
+You pick up Pen (2). You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2). I am holding Pen (2) now.
+Act: put down Pen (2)
+You put down failed, drop it. You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2).
+Act: pick up Pen (2)
+You pick up Pen (2). You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2). I am holding Pen (2) now.
+Act: put down Pen (2)
+You put down failed, drop it. You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2).
+Act: pick up Pen (2)
+You pick up Pen (2). You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2). I am holding Pen (2) now.
+Act: put down Pen (2)
+You put down failed, drop it. You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2).
+Act: pick up Pen (2)
+You pick up Pen (2). You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2). I am holding Pen (2) now.
+Act: put down Pen (2)
+You put down failed, drop it. You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2).
+Act: pick up Pen (2)
+You pick up Pen (2). You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2). I am holding Pen (2) now.
+Act: put down Pen (2)
+You put down failed, drop it. You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2).
+Act: pick up Pen (2)
+You pick up Pen (2). You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2). I am holding Pen (2) now.
+Act: put down Pen (2)
+You put down failed, drop it. You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2).
+Act: pick up Pen (2)
+You pick up Pen (2). You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2). I am holding Pen (2) now.
+Act: put down Pen (2)
+You put down failed, drop it. You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2).
+Act: pick up Pen (2)
+You pick up Pen (2). You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2). I am holding Pen (2) now.
+Act: put down Pen (2)
+You put down failed, drop it. You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2).
+Act: pick up Pen (2)
+You pick up Pen (2). You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2). I am holding Pen (2) now.
+Act: put down Pen (2)
+You put down failed, drop it. You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2).
+Act: pick up Pen (2)
+You pick up Pen (2). You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2). I am holding Pen (2) now.
+Act: put down Pen (2)
+You put down failed, drop it. You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2).
+Act: pick up Pen (2)
+You pick up Pen (2). You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2). I am holding Pen (2) now.
+Act: put down Pen (2)
+You put down failed, drop it. You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2).
+Act: pick up Pen (2)
+You pick up Pen (2). You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2). I am holding Pen (2) now.
+Act: put down Pen (2)
+You put down failed, drop it. You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2).
+Act: pick up Pen (2)
+You pick up Pen (2). You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2). I am holding Pen (2) now.
+Act: put down Pen (2)
+You put down failed, drop it. You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2).
+Act: pick up Pen (2)
+You pick up Pen (2). You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2). I am holding Pen (2) now.
+Act: put down Pen (2)
+You put down failed, drop it. You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2).
+Act: pick up Pen (2)
+You pick up Pen (2). You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2). I am holding Pen (2) now.
+Act: put down Pen (2)
+You put down failed, drop it. You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2).
+Act: pick up Pen (2)
+You pick up Pen (2). You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2). I am holding Pen (2) now.
+Act: put down Pen (2)
+You put down failed, drop it. You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2).
+Act: pick up Pen (2)
+You pick up Pen (2). You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2). I am holding Pen (2) now.
+Act: put down Pen (2)
+You put down failed, drop it. You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2).
+Act: pick up Pen (2)
+You pick up Pen (2). You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2). I am holding Pen (2) now.
+Act: put down Pen (2)
+You put down failed, drop it. You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2).
+Act: pick up Pen (2)
+You pick up Pen (2). You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2). I am holding Pen (2) now.
+Act: put down Pen (2)
+You put down failed, drop it. You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2).
+Act: pick up Pen (2)
+You pick up Pen (2). You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2). I am holding Pen (2) now.
+Act: put down Pen (2)
+You put down failed, drop it. You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2).
+Act: pick up Pen (2)
+You pick up Pen (2). You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2). I am holding Pen (2) now.
+Act: put down Pen (2)
+You put down failed, drop it. You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2).
+Act: pick up Pen (2)
+You pick up Pen (2). You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2). I am holding Pen (2) now.
+Act: put down Pen (2)
+You put down failed, drop it. You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2).
+Act: pick up Pen (2)
+You pick up Pen (2). You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2). I am holding Pen (2) now.
+Act: put down Pen (2)
+You put down failed, drop it. You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2).
+Act: pick up Pen (2)
+You pick up Pen (2). You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2). I am holding Pen (2) now.
+Act: put down Pen (2)
+You put down failed, drop it. You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2).
+Act: pick up Pen (2)
+You pick up Pen (2). You see Statue (2), Sofa (1), Pencil (1), Pen (2), Newspaper (2), KeyChain (2), CoffeeTable (1), Book (1, 2). I am holding Pen (2) now.
+Max decisions

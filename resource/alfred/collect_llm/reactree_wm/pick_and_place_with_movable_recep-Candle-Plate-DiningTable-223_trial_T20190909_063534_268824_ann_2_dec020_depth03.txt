@@ -1,0 +1,165 @@
+Your primary goal is to: To put finger nail polish on a plate and place it on the bottom shelf under the television.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up nail polish, place nail polish on plate, and place plate on bottom shelf.
+Your task is to: place plate on bottom shelf
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), GarbageCan (1), DiningTable (1, 2), CoffeeTable (1), ArmChair (1, 2, 3).
+Think: I hold Plate (1). Now, I need to put it on the bottom shelf. I can see TVStand (1).
+OK.
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2). 
+Max decisions

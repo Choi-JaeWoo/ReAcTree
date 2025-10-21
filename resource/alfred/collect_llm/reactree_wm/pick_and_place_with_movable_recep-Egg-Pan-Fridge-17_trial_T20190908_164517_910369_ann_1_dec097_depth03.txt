@@ -1,0 +1,11 @@
+Your primary goal is to: Place an egg on a frying pan inside a fridge.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up egg, find and open fridge, and place egg on pan.
+Your task is to: find and open fridge
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20). I am holding Potato (1) now.
+Think: First, I need to recall location of fridge.
+OK.
+Act: recall location of Fork
+You saw Fork (1) near DiningTable (1).
+Think: Fork (1) is near DiningTable (1). Now, I need to find another fridge. The fridge is more likely to appear on CounterTop (1-2), SinkBasin (1), or in Microwave (1), Cabinet (1-20), Drawer (1-6). I can check each place one by one, starting from CounterTop (1), until I find the fridge.
+OK.
+Max decisions

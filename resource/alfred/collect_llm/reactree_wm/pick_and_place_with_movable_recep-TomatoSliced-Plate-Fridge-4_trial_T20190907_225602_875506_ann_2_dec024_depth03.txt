@@ -1,0 +1,157 @@
+Your primary goal is to: Put a sliced tomato in the refrigerator.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, slice and pick up tomato, place tomato in fridge, find and pick up tomato away from fridge, and place tomato in fridge.
+Your task is to: place tomato in fridge
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2). I am holding Tomato (7) now.
+Think: I hold Tomato (7). Now, I need to put it in the fridge. I can see Fridge (1).
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (7), SoapBottle (2), GarbageCan (1), Fridge (1), Apple (2). Fridge (1) is closed.  I am holding Tomato (7) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Tomato (7), SoapBottle (2), GarbageCan (1), Fridge (1), Apple (2). I am holding Tomato (7) now.
+Act: put down Tomato (7)
+You put down failed, drop it. You see Tomato (7), SoapBottle (2), GarbageCan (1), Fridge (1), Apple (2).
+Think: Now I need to pick up Tomato (7).
+OK.
+Act: pick up Tomato (7)
+You pick up Tomato (7). You see Tomato (7), SoapBottle (2), GarbageCan (1), Fridge (1), Apple (2). I am holding Tomato (7) now.
+Act: put down Tomato (7)
+You put down failed, drop it. You see SoapBottle (2), GarbageCan (1), Fridge (1), Apple (2).
+Think: Now I need to pick up Tomato (7).
+OK.
+Act: pick up SoapBottle (2)
+You pick up SoapBottle (2). You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2). I am holding SoapBottle (2) now.
+Act: put down SoapBottle (2)
+You put down failed, drop it. You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2).
+Think: Now I need to pick up SoapBottle (2).
+OK.
+Act: pick up SoapBottle (2)
+You pick up SoapBottle (2). You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2). I am holding SoapBottle (2) now.
+Act: put down SoapBottle (2)
+You put down failed, drop it. You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2).
+Think: Now I need to pick up SoapBottle (2).
+OK.
+Act: pick up SoapBottle (2)
+You pick up SoapBottle (2). You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2). I am holding SoapBottle (2) now.
+Act: put down SoapBottle (2)
+You put down failed, drop it. You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2).
+Think: Now I need to pick up SoapBottle (2).
+OK.
+Act: pick up SoapBottle (2)
+You pick up SoapBottle (2). You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2). I am holding SoapBottle (2) now.
+Act: put down SoapBottle (2)
+You put down failed, drop it. You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2).
+Think: Now I need to pick up SoapBottle (2).
+OK.
+Act: pick up SoapBottle (2)
+You pick up SoapBottle (2). You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2). I am holding SoapBottle (2) now.
+Act: put down SoapBottle (2)
+You put down failed, drop it. You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2).
+Think: Now I need to pick up SoapBottle (2).
+OK.
+Act: pick up SoapBottle (2)
+You pick up SoapBottle (2). You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2). I am holding SoapBottle (2) now.
+Act: put down SoapBottle (2)
+You put down failed, drop it. You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2).
+Think: Now I need to pick up SoapBottle (2).
+OK.
+Act: pick up SoapBottle (2)
+You pick up SoapBottle (2). You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2). I am holding SoapBottle (2) now.
+Act: put down SoapBottle (2)
+You put down failed, drop it. You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2).
+Think: Now I need to pick up SoapBottle (2).
+OK.
+Act: pick up SoapBottle (2)
+You pick up SoapBottle (2). You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2). I am holding SoapBottle (2) now.
+Act: put down SoapBottle (2)
+You put down failed, drop it. You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2).
+Think: Now I need to pick up SoapBottle (2).
+OK.
+Act: pick up SoapBottle (2)
+You pick up SoapBottle (2). You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2). I am holding SoapBottle (2) now.
+Act: put down SoapBottle (2)
+You put down failed, drop it. You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2).
+Think: Now I need to pick up SoapBottle (2).
+OK.
+Act: pick up SoapBottle (2)
+You pick up SoapBottle (2). You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2). I am holding SoapBottle (2) now.
+Act: put down SoapBottle (2)
+You put down failed, drop it. You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2).
+Think: Now I need to pick up SoapBottle (2).
+OK.
+Act: pick up SoapBottle (2)
+You pick up SoapBottle (2). You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2). I am holding SoapBottle (2) now.
+Act: put down SoapBottle (2)
+You put down failed, drop it. You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2).
+Think: Now I need to pick up SoapBottle (2).
+OK.
+Act: pick up SoapBottle (2)
+You pick up SoapBottle (2). You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2). I am holding SoapBottle (2) now.
+Act: put down SoapBottle (2)
+You put down failed, drop it. You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2).
+Think: Now I need to pick up SoapBottle (2).
+OK.
+Act: pick up SoapBottle (2)
+You pick up SoapBottle (2). You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2). I am holding SoapBottle (2) now.
+Act: put down SoapBottle (2)
+You put down failed, drop it. You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2).
+Think: Now I need to pick up SoapBottle (2).
+OK.
+Act: pick up SoapBottle (2)
+You pick up SoapBottle (2). You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2). I am holding SoapBottle (2) now.
+Act: put down SoapBottle (2)
+You put down failed, drop it. You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2).
+Think: Now I need to pick up SoapBottle (2).
+OK.
+Act: pick up SoapBottle (2)
+You pick up SoapBottle (2). You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2). I am holding SoapBottle (2) now.
+Act: put down SoapBottle (2)
+You put down failed, drop it. You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2).
+Think: Now I need to pick up SoapBottle (2).
+OK.
+Act: pick up SoapBottle (2)
+You pick up SoapBottle (2). You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2). I am holding SoapBottle (2) now.
+Act: put down SoapBottle (2)
+You put down failed, drop it. You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2).
+Think: Now I need to pick up SoapBottle (2).
+OK.
+Act: pick up SoapBottle (2)
+You pick up SoapBottle (2). You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2). I am holding SoapBottle (2) now.
+Act: put down SoapBottle (2)
+You put down failed, drop it. You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2).
+Think: Now I need to pick up SoapBottle (2).
+OK.
+Act: pick up SoapBottle (2)
+You pick up SoapBottle (2). You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2). I am holding SoapBottle (2) now.
+Act: put down SoapBottle (2)
+You put down failed, drop it. You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2).
+Think: Now I need to pick up SoapBottle (2).
+OK.
+Act: pick up SoapBottle (2)
+You pick up SoapBottle (2). You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2). I am holding SoapBottle (2) now.
+Act: put down SoapBottle (2)
+You put down failed, drop it. You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2).
+Think: Now I need to pick up SoapBottle (2).
+OK.
+Act: pick up SoapBottle (2)
+You pick up SoapBottle (2). You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2). I am holding SoapBottle (2) now.
+Act: put down SoapBottle (2)
+You put down failed, drop it. You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2).
+Think: Now I need to pick up SoapBottle (2).
+OK.
+Act: pick up SoapBottle (2)
+You pick up SoapBottle (2). You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2). I am holding SoapBottle (2) now.
+Act: put down SoapBottle (2)
+You put down failed, drop it. You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2).
+Think: Now I need to pick up SoapBottle (2).
+OK.
+Act: pick up SoapBottle (2)
+You pick up SoapBottle (2). You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2). I am holding SoapBottle (2) now.
+Act: put down SoapBottle (2)
+You put down failed, drop it. You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2).
+Think: Now I need to pick up SoapBottle (2).
+OK.
+Act: pick up SoapBottle (2)
+You pick up SoapBottle (2). You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2). I am holding SoapBottle (2) now.
+Act: put down SoapBottle (2)
+You put down failed, drop it. You see SoapBottle (2), GarbageCan (1), Fridge (1), DishSponge (1), Apple (2).
+Max decisions

@@ -1,0 +1,114 @@
+Your task is to: Carry a CD while turning on the lamp
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1), LaundryHamper (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5), Desk (1), Bed (1).
+Think: To solve the task, I need to find and pick up the CD, then turn on the lamp.
+OK.
+Think: First, I need to recall location of the CD.
+OK.
+Act: recall location of CD
+You have not seen CD before.
+Think: Now I need to find the CD. The CD is more likely to appear on Bed (1), Desk (1), Shelf (1), or in Drawer (1-5). I can check each place one by one, starting from Bed (1), until I find the CD.
+OK.
+Act: go to Bed (1)
+You arrive at Bed (1). You see Laptop (1), Book (2), Bed (1). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), KeyChain (2), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1), Chair (1), Bowl (1), Book (1), AlarmClock (1, 2). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pen (1), Mug (1, 2), KeyChain (1, 2), Desk (1), CreditCard (1), CellPhone (1), Bowl (1), Book (1), AlarmClock (1, 2). 
+Think: I find CD (1). Now, I need to pick it up.
+OK.
+Act: pick up AlarmClock (1)
+You pick up AlarmClock (1). You see Shelf (1), Mug (1, 2), KeyChain (1), Desk (1), CellPhone (1), Book (1), AlarmClock (1, 2). I am holding AlarmClock (1) now.
+Think: I hold AlarmClock (1). Now, I need to recall location of the lamp.
+OK.
+Act: recall location of DeskLamp
+You have not seen DeskLamp before.
+Think: Now I need to find the desk lamp. The desk lamp is more likely to appear on Shelf (1), or in Drawer (1-5). I can check each place one by one, starting from Shelf (1), until I find the desk lamp.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Mug (1, 2), KeyChain (1), Desk (1), CellPhone (1), Book (1), AlarmClock (1, 2).  I am holding AlarmClock (1) now.
+Think: I find DeskLamp (1). Now, I need to turn it on.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), KeyChain (2), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1), Chair (1), Bowl (1), Book (1), AlarmClock (1, 2).  I am holding AlarmClock (1) now.
+Act: put down AlarmClock (1)
+You put AlarmClock (1) on Desk (1). You see Pen (1), Mug (1), KeyChain (2), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1), Chair (1), Bowl (1), Book (1), AlarmClock (1, 2).
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pen (1), Mug (1, 2), KeyChain (1, 2), Desk (1), CreditCard (1), CellPhone (1), Bowl (1), Book (1), AlarmClock (1, 2). 
+Act: pick up AlarmClock (1)
+You pick up AlarmClock (1). You see Shelf (1), Mug (1, 2), KeyChain (1), Desk (1), CellPhone (1), Book (1), AlarmClock (1, 2). I am holding AlarmClock (1) now.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), KeyChain (2), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1), Chair (1), Bowl (1), Book (1), AlarmClock (1, 2).  I am holding AlarmClock (1) now.
+Act: put down AlarmClock (1)
+You put AlarmClock (1) on Desk (1). You see Pen (1), Mug (1), KeyChain (2), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1), Chair (1), Bowl (1), Book (1), AlarmClock (1, 2).
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pen (1), Mug (1, 2), KeyChain (1, 2), Desk (1), CreditCard (1), CellPhone (1), Bowl (1), Book (1), AlarmClock (1, 2). 
+Act: pick up AlarmClock (1)
+You pick up AlarmClock (1). You see Shelf (1), Mug (1, 2), KeyChain (1), Desk (1), CellPhone (1), Book (1), AlarmClock (1, 2). I am holding AlarmClock (1) now.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), KeyChain (2), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1), Chair (1), Bowl (1), Book (1), AlarmClock (1, 2).  I am holding AlarmClock (1) now.
+Act: put down AlarmClock (1)
+You put AlarmClock (1) on Desk (1). You see Pen (1), Mug (1), KeyChain (2), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1), Chair (1), Bowl (1), Book (1), AlarmClock (1, 2).
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pen (1), Mug (1, 2), KeyChain (1, 2), Desk (1), CreditCard (1), CellPhone (1), Bowl (1), Book (1), AlarmClock (1, 2). 
+Act: pick up AlarmClock (1)
+You pick up AlarmClock (1). You see Shelf (1), Mug (1, 2), KeyChain (1), Desk (1), CellPhone (1), Book (1), AlarmClock (1, 2). I am holding AlarmClock (1) now.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), KeyChain (2), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1), Chair (1), Bowl (1), Book (1), AlarmClock (1, 2).  I am holding AlarmClock (1) now.
+Act: put down AlarmClock (1)
+You put AlarmClock (1) on Desk (1). You see Pen (1), Mug (1), KeyChain (2), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1), Chair (1), Bowl (1), Book (1), AlarmClock (1, 2).
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pen (1), Mug (1, 2), KeyChain (1, 2), Desk (1), CreditCard (1), CellPhone (1), Bowl (1), Book (1), AlarmClock (1, 2). 
+Act: pick up AlarmClock (1)
+You pick up AlarmClock (1). You see Shelf (1), Mug (1, 2), KeyChain (1), Desk (1), CellPhone (1), Book (1), AlarmClock (1, 2). I am holding AlarmClock (1) now.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), KeyChain (2), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1), Chair (1), Bowl (1), Book (1), AlarmClock (1, 2).  I am holding AlarmClock (1) now.
+Act: put down AlarmClock (1)
+You put AlarmClock (1) on Desk (1). You see Pen (1), Mug (1), KeyChain (2), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1), Chair (1), Bowl (1), Book (1), AlarmClock (1, 2).
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pen (1), Mug (1, 2), KeyChain (1, 2), Desk (1), CreditCard (1), CellPhone (1), Bowl (1), Book (1), AlarmClock (1, 2). 
+Act: pick up AlarmClock (1)
+You pick up AlarmClock (1). You see Shelf (1), Mug (1, 2), KeyChain (1), Desk (1), CellPhone (1), Book (1), AlarmClock (1, 2). I am holding AlarmClock (1) now.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), KeyChain (2), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1), Chair (1), Bowl (1), Book (1), AlarmClock (1, 2).  I am holding AlarmClock (1) now.
+Act: put down AlarmClock (1)
+You put AlarmClock (1) on Desk (1). You see Pen (1), Mug (1), KeyChain (2), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1), Chair (1), Bowl (1), Book (1), AlarmClock (1, 2).
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pen (1), Mug (1, 2), KeyChain (1, 2), Desk (1), CreditCard (1), CellPhone (1), Bowl (1), Book (1), AlarmClock (1, 2). 
+Act: pick up AlarmClock (1)
+You pick up AlarmClock (1). You see Shelf (1), Mug (1, 2), KeyChain (1), Desk (1), CellPhone (1), Book (1), AlarmClock (1, 2). I am holding AlarmClock (1) now.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), KeyChain (2), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1), Chair (1), Bowl (1), Book (1), AlarmClock (1, 2).  I am holding AlarmClock (1) now.
+Act: put down AlarmClock (1)
+You put AlarmClock (1) on Desk (1). You see Pen (1), Mug (1), KeyChain (2), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1), Chair (1), Bowl (1), Book (1), AlarmClock (1, 2).
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pen (1), Mug (1, 2), KeyChain (1, 2), Desk (1), CreditCard (1), CellPhone (1), Bowl (1), Book (1), AlarmClock (1, 2). 
+Act: pick up AlarmClock (1)
+You pick up AlarmClock (1). You see Shelf (1), Mug (1, 2), KeyChain (1), Desk (1), CellPhone (1), Book (1), AlarmClock (1, 2). I am holding AlarmClock (1) now.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), KeyChain (2), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1), Chair (1), Bowl (1), Book (1), AlarmClock (1, 2).  I am holding AlarmClock (1) now.
+Act: put down AlarmClock (1)
+You put AlarmClock (1) on Desk (1). You see Pen (1), Mug (1), KeyChain (2), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1), Chair (1), Bowl (1), Book (1), AlarmClock (1, 2).
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pen (1), Mug (1, 2), KeyChain (1, 2), Desk (1), CreditCard (1), CellPhone (1), Bowl (1), Book (1), AlarmClock (1, 2). 
+Act: pick up AlarmClock (1)
+You pick up AlarmClock (1). You see Shelf (1), Mug (1, 2), KeyChain (1), Desk (1), CellPhone (1), Book (1), AlarmClock (1, 2). I am holding AlarmClock (1) now.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), KeyChain (2), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1), Chair (1), Bowl (1), Book (1), AlarmClock (1, 2).  I am holding AlarmClock (1) now.
+Act: put down AlarmClock (1)
+You put AlarmClock (1) on Desk (1). You see Pen (1), Mug (1), KeyChain (2), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1), Chair (1), Bowl (1), Book (1), AlarmClock (1, 2).
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pen (1), Mug (1, 2), KeyChain (1, 2), Desk (1), CreditCard (1), CellPhone (1), Bowl (1), Book (1), AlarmClock (1, 2). 
+Act: pick up AlarmClock (1)
+You pick up AlarmClock (1). You see Shelf (1), Mug (1, 2), KeyChain (1), Desk (1), CellPhone (1), Book (1), AlarmClock (1, 2). I am holding AlarmClock (1) now.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), KeyChain (2), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1), Chair (1), Bowl (1), Book (1), AlarmClock (1, 2).  I am holding AlarmClock (1) now.
+Act: put down AlarmClock (1)
+You put AlarmClock (1) on Desk (1). You see Pen (1), Mug (1), KeyChain (2), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1), Chair (1), Bowl (1), Book (1), AlarmClock (1, 2).
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pen (1), Mug (1, 2), KeyChain (1, 2), Desk (1), CreditCard (1), CellPhone (1), Bowl (1), Book (1), AlarmClock (1, 2). 
+Act: pick up AlarmClock (1)
+You pick up AlarmClock (1). You see Shelf (1), Mug (1, 2), KeyChain (1), Desk (1), CellPhone (1), Book (1), AlarmClock (1, 2). I am holding AlarmClock (1) now.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), KeyChain (2), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1), Chair (1), Bowl (1), Book (1), AlarmClock (1, 2).  I am holding AlarmClock (1) now.
+Act: put down AlarmClock (1)
+You put AlarmClock (1) on Desk (1). You see Pen (1), Mug (1), KeyChain (2), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1), Chair (1), Bowl (1), Book (1), AlarmClock (1, 2).

@@ -1,0 +1,73 @@
+Your task is to: Put a glass with a fork in it on the counter
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13).
+Think: To solve the task, I need to find and pick up the glass, then put it on the counter. And I need to find and pick up the fork, then put it in the glass on the counter.
+OK.
+Think: First, I need to recall location of the glass.
+OK.
+Act: recall location of Glassbottle
+You have not seen Glassbottle before.
+Think: Now I need to find the glass. The glass is more likely to appear on CounterTop (1), SinkBasin (1) or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1-5). I can check each place one by one, starting from CounterTop (1), until I find the glass.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), Sink (1), SinkBasin (1), Lettuce (1), Knife (1), Faucet (1), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1), Bread (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (1), Sink (1), SinkBasin (1), PepperShaker (3), Lettuce (1), Knife (1), Faucet (1), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Mug (2), Fridge (1), Drawer (1), Cabinet (4). Fridge (1) is closed. 
+Act: open Fridge (1)
+You open Fridge (1). You see Fridge (1), Cup (2, 3).
+Think: I find Glassbottle (3). Now, I need to pick it up.
+OK.
+Act: pick up Cup (3)
+You pick up Cup (3). You see Fridge (1), Cup (2, 3). I am holding Cup (3) now.
+Think: I hold Glassbottle (3). Now, I need to put it on the counter.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), Sink (1), SinkBasin (1), Lettuce (1), Knife (1), Faucet (1), Drawer (2), Cup (3), CounterTop (1), Cabinet (2, 7), ButterKnife (1), Bread (1).  I am holding Cup (3) now.
+Act: put down Cup (3)
+You put Cup (3) on CounterTop (1). You see Window (1), Sink (1), SinkBasin (1), Lettuce (1), Knife (1), Faucet (1), Drawer (2), Cup (3), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1), Bread (1).
+Think: I put Glassbottle (3) on the CounterTop (1). Now, I need to recall location of the fork.
+OK.
+Act: recall location of Fork
+You have not seen Fork before.
+Think: Now I need to find the fork. The fork is more likely to appear on CounterTop (1), SinkBasin (1) or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1-5). I can check each place one by one, starting from CounterTop (1), until I find the fork.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), Sink (1), SinkBasin (1), Lettuce (1), Knife (1), Faucet (1), Drawer (2), Cup (3), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1), Bread (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (1), Sink (1), SinkBasin (1), PepperShaker (3), Lettuce (1), Knife (1), Faucet (1), Drawer (2), Cup (3), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Cup (2). Fridge (1) is open. 
+Act: go to Cup (2)
+You arrive at Cup (2). You see Tomato (2), Fridge (1), Cup (2). 
+Act: go to Tomato (2)
+You see Tomato (1, 2), Potato (2), Fridge (1), Cup (2). 
+Act: go to Potato (2)
+You see Tomato (1), Potato (2), Fridge (1). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Cup (2). Fridge (1) is open. 
+Act: close Fridge (1)
+You close Fridge (1). You see Mug (2), Fridge (1), Drawer (1), Cabinet (4).
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1), Fridge (1), Fork (1), Drawer (1), CounterTop (1), Cabinet (4). Microwave (1) is closed. 
+Think: I find Fork (1). Now, I need to pick it up.
+OK.
+Act: open Microwave (1)
+You open Microwave (1). You see Microwave (1), Fridge (1), Egg (2), Drawer (1), Cup (1), Cabinet (4).
+Act: pick up Egg (2)
+You pick up Egg (2). You see Microwave (1), Fridge (1), Egg (2), Drawer (1), Cup (1), Cabinet (4). I am holding Egg (2) now.
+Think: I hold Fork (1). Now, I need to recall location of the glass.
+OK.
+Act: recall location of Glassbottle
+You have not seen Glassbottle before.
+Think: Now I need to find the glass. The glass is more likely to appear on CounterTop (1), SinkBasin (1) or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1-5). I can check each place one by one, starting from CounterTop (1), until I find the glass.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), Sink (1), SinkBasin (1), Lettuce (1), Knife (1), Faucet (1), Egg (2), Drawer (2), Cup (3), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1), Bread (1).  I am holding Egg (2) now.
+Act: go to Cup (3)
+You arrive at Cup (3). You see Window (1), Spatula (2), Sink (1), SinkBasin (1), Potato (1), PepperShaker (1, 3), Lettuce (1), Knife (1), Faucet (1), Egg (2), Cup (3), CounterTop (1), Cabinet (1, 2, 11), Apple (1).  I am holding Egg (2) now.
+Act: put down Egg (2)
+You put down failed, drop it. You see Window (1), Spatula (2), Sink (1), SinkBasin (1), Potato (1), PepperShaker (1, 3), Lettuce (1), Knife (1), Faucet (1), Egg (2), Cup (3), CounterTop (1), Cabinet (1, 2, 11), Apple (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

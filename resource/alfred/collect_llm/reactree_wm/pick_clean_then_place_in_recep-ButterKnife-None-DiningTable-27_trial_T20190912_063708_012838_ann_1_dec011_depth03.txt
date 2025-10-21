@@ -1,0 +1,183 @@
+Your primary goal is to: wash the knife from the counter, put in on the table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, wash and pick up knife, and place knife on table.
+Your task is to: wash and pick up knife
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12). I am holding Knife (1) now.
+Think: First, I need to recall location of the sink.
+OK.
+Act: recall location of Spoon
+You saw Spoon (3) near DiningTable (1). You saw Spoon (1) near CounterTop (2).
+Think: I can find Spoon (3) near DiningTable (1).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spoon (3), SoapBottle (1, 2), Plate (1), PepperShaker (3), Mug (1), Ladle (3), Knife (1), Fork (1, 2, 3), DiningTable (1), Cup (1), Chair (1), Bread (1), Bowl (2).  I am holding Knife (1) now.
+Think: I can find Spoon (1) near CounterTop (2).
+OK.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see WineBottle (1), Spoon (1), Sink (1), SinkBasin (1), Potato (1), Knife (1), Faucet (1, 2), Egg (2), DishSponge (1), Curtains (1), CounterTop (2), Cabinet (4, 5).  I am holding Knife (1) now.
+Think: Now, I need to wash the knife. I can use the sink to wash the knife.
+OK.
+Act: go to Sink (1)
+You see Sink (1), SinkBasin (1), Potato (1), Knife (1), Faucet (1, 2), Egg (2), Curtains (1), Cabinet (4, 5).  I am holding Knife (1) now.
+Think: I can use the faucet to wash the knife.
+OK.
+Act: turn on Faucet (1)
+You turn on Faucet (1). You see Sink (1), SinkBasin (1), Potato (1), Knife (1), Faucet (1, 2), Egg (2), Curtains (1), Cabinet (4, 5). I am holding Knife (1) now.
+Think: Now, I need to wash the knife.
+OK.
+Act: put down Knife (1)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), Potato (1), Faucet (1, 2), Egg (2), Curtains (1), Cabinet (4, 5).
+Act: pick up Egg (2)
+You pick up Egg (2). You see Sink (1), SinkBasin (1), Potato (1), Faucet (1, 2), Egg (2), Curtains (1), Cabinet (4, 5). I am holding Egg (2) now.
+Act: put down Egg (2)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), Potato (1), Faucet (1, 2), Curtains (1), Cabinet (4, 5).
+Act: pick up Potato (1)
+You pick up Potato (1). You see Sink (1), SinkBasin (1), Potato (1), Faucet (1, 2), Curtains (1), Cabinet (4, 5). I am holding Potato (1) now.
+Act: put down Potato (1)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), Faucet (1, 2), Curtains (1), Cabinet (4, 5).
+Act: turn off Faucet (1)
+You turn off Faucet (1). You see Sink (1), SinkBasin (1), Faucet (1, 2), Curtains (1), Cabinet (4, 5).
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spoon (3), SoapBottle (1, 2), Plate (1), PepperShaker (3), Mug (1), Ladle (3), Fork (1, 2, 3), DiningTable (1), Cup (1), Chair (1), Bread (1), Bowl (2). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see WineBottle (1), Spoon (1), Sink (1), SinkBasin (1), Faucet (1, 2), DishSponge (1), Curtains (1), CounterTop (2), Cabinet (4, 5). 
+Act: go to Sink (1)
+You see Sink (1), SinkBasin (1), Faucet (1, 2), Curtains (1), Cabinet (4, 5). 
+Act: turn on Faucet (1)
+You turn on Faucet (1). You see Sink (1), SinkBasin (1), Faucet (1, 2), Curtains (1), Cabinet (4, 5).
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spoon (3), SoapBottle (1, 2), Plate (1), PepperShaker (3), Mug (1), Ladle (3), Fork (1, 2, 3), DiningTable (1), Cup (1), Chair (1), Bread (1), Bowl (2). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see WineBottle (1), Spoon (1), Sink (1), SinkBasin (1), Faucet (1, 2), DishSponge (1), Curtains (1), CounterTop (2), Cabinet (4, 5). 
+Act: go to Sink (1)
+You see Sink (1), SinkBasin (1), Faucet (1, 2), Curtains (1), Cabinet (4, 5). 
+Act: turn on Faucet (1)
+The Faucet (1) already turn on.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spoon (3), SoapBottle (1, 2), Plate (1), PepperShaker (3), Mug (1), Ladle (3), Fork (1, 2, 3), DiningTable (1), Cup (1), Chair (1), Bread (1), Bowl (2). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see WineBottle (1), Spoon (1), Sink (1), SinkBasin (1), Faucet (1, 2), DishSponge (1), Curtains (1), CounterTop (2), Cabinet (4, 5). 
+Act: go to Sink (1)
+You see Sink (1), SinkBasin (1), Faucet (1, 2), Curtains (1), Cabinet (4, 5). 
+Act: turn on Faucet (1)
+The Faucet (1) already turn on.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spoon (3), SoapBottle (1, 2), Plate (1), PepperShaker (3), Mug (1), Ladle (3), Fork (1, 2, 3), DiningTable (1), Cup (1), Chair (1), Bread (1), Bowl (2). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see WineBottle (1), Spoon (1), Sink (1), SinkBasin (1), Faucet (1, 2), DishSponge (1), Curtains (1), CounterTop (2), Cabinet (4, 5). 
+Act: go to Sink (1)
+You see Sink (1), SinkBasin (1), Faucet (1, 2), Curtains (1), Cabinet (4, 5). 
+Act: turn on Faucet (1)
+The Faucet (1) already turn on.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spoon (3), SoapBottle (1, 2), Plate (1), PepperShaker (3), Mug (1), Ladle (3), Fork (1, 2, 3), DiningTable (1), Cup (1), Chair (1), Bread (1), Bowl (2). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see WineBottle (1), Spoon (1), Sink (1), SinkBasin (1), Faucet (1, 2), DishSponge (1), Curtains (1), CounterTop (2), Cabinet (4, 5). 
+Act: go to Sink (1)
+You see Sink (1), SinkBasin (1), Faucet (1, 2), Curtains (1), Cabinet (4, 5). 
+Act: turn on Faucet (1)
+The Faucet (1) already turn on.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spoon (3), SoapBottle (1, 2), Plate (1), PepperShaker (3), Mug (1), Ladle (3), Fork (1, 2, 3), DiningTable (1), Cup (1), Chair (1), Bread (1), Bowl (2). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see WineBottle (1), Spoon (1), Sink (1), SinkBasin (1), Faucet (1, 2), DishSponge (1), Curtains (1), CounterTop (2), Cabinet (4, 5). 
+Act: go to Sink (1)
+You see Sink (1), SinkBasin (1), Faucet (1, 2), Curtains (1), Cabinet (4, 5). 
+Act: turn on Faucet (1)
+The Faucet (1) already turn on.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spoon (3), SoapBottle (1, 2), Plate (1), PepperShaker (3), Mug (1), Ladle (3), Fork (1, 2, 3), DiningTable (1), Cup (1), Chair (1), Bread (1), Bowl (2). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see WineBottle (1), Spoon (1), Sink (1), SinkBasin (1), Faucet (1, 2), DishSponge (1), Curtains (1), CounterTop (2), Cabinet (4, 5). 
+Act: go to Sink (1)
+You see Sink (1), SinkBasin (1), Faucet (1, 2), Curtains (1), Cabinet (4, 5). 
+Act: turn on Faucet (1)
+The Faucet (1) already turn on.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spoon (3), SoapBottle (1, 2), Plate (1), PepperShaker (3), Mug (1), Ladle (3), Fork (1, 2, 3), DiningTable (1), Cup (1), Chair (1), Bread (1), Bowl (2). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see WineBottle (1), Spoon (1), Sink (1), SinkBasin (1), Faucet (1, 2), DishSponge (1), Curtains (1), CounterTop (2), Cabinet (4, 5). 
+Act: go to Sink (1)
+You see Sink (1), SinkBasin (1), Faucet (1, 2), Curtains (1), Cabinet (4, 5). 
+Act: turn on Faucet (1)
+The Faucet (1) already turn on.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spoon (3), SoapBottle (1, 2), Plate (1), PepperShaker (3), Mug (1), Ladle (3), Fork (1, 2, 3), DiningTable (1), Cup (1), Chair (1), Bread (1), Bowl (2). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see WineBottle (1), Spoon (1), Sink (1), SinkBasin (1), Faucet (1, 2), DishSponge (1), Curtains (1), CounterTop (2), Cabinet (4, 5). 
+Act: go to Sink (1)
+You see Sink (1), SinkBasin (1), Faucet (1, 2), Curtains (1), Cabinet (4, 5). 
+Act: turn on Faucet (1)
+The Faucet (1) already turn on.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spoon (3), SoapBottle (1, 2), Plate (1), PepperShaker (3), Mug (1), Ladle (3), Fork (1, 2, 3), DiningTable (1), Cup (1), Chair (1), Bread (1), Bowl (2). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see WineBottle (1), Spoon (1), Sink (1), SinkBasin (1), Faucet (1, 2), DishSponge (1), Curtains (1), CounterTop (2), Cabinet (4, 5). 
+Act: go to Sink (1)
+You see Sink (1), SinkBasin (1), Faucet (1, 2), Curtains (1), Cabinet (4, 5). 
+Act: turn on Faucet (1)
+The Faucet (1) already turn on.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spoon (3), SoapBottle (1, 2), Plate (1), PepperShaker (3), Mug (1), Ladle (3), Fork (1, 2, 3), DiningTable (1), Cup (1), Chair (1), Bread (1), Bowl (2). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see WineBottle (1), Spoon (1), Sink (1), SinkBasin (1), Faucet (1, 2), DishSponge (1), Curtains (1), CounterTop (2), Cabinet (4, 5). 
+Act: go to Sink (1)
+You see Sink (1), SinkBasin (1), Faucet (1, 2), Curtains (1), Cabinet (4, 5). 
+Act: turn on Faucet (1)
+The Faucet (1) already turn on.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spoon (3), SoapBottle (1, 2), Plate (1), PepperShaker (3), Mug (1), Ladle (3), Fork (1, 2, 3), DiningTable (1), Cup (1), Chair (1), Bread (1), Bowl (2). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see WineBottle (1), Spoon (1), Sink (1), SinkBasin (1), Faucet (1, 2), DishSponge (1), Curtains (1), CounterTop (2), Cabinet (4, 5). 
+Act: go to Sink (1)
+You see Sink (1), SinkBasin (1), Faucet (1, 2), Curtains (1), Cabinet (4, 5). 
+Act: turn on Faucet (1)
+The Faucet (1) already turn on.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spoon (3), SoapBottle (1, 2), Plate (1), PepperShaker (3), Mug (1), Ladle (3), Fork (1, 2, 3), DiningTable (1), Cup (1), Chair (1), Bread (1), Bowl (2). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see WineBottle (1), Spoon (1), Sink (1), SinkBasin (1), Faucet (1, 2), DishSponge (1), Curtains (1), CounterTop (2), Cabinet (4, 5). 
+Act: go to Sink (1)
+You see Sink (1), SinkBasin (1), Faucet (1, 2), Curtains (1), Cabinet (4, 5). 
+Act: turn on Faucet (1)
+The Faucet (1) already turn on.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spoon (3), SoapBottle (1, 2), Plate (1), PepperShaker (3), Mug (1), Ladle (3), Fork (1, 2, 3), DiningTable (1), Cup (1), Chair (1), Bread (1), Bowl (2). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see WineBottle (1), Spoon (1), Sink (1), SinkBasin (1), Faucet (1, 2), DishSponge (1), Curtains (1), CounterTop (2), Cabinet (4, 5). 
+Act: go to Sink (1)
+You see Sink (1), SinkBasin (1), Faucet (1, 2), Curtains (1), Cabinet (4, 5). 
+Act: turn on Faucet (1)
+The Faucet (1) already turn on.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spoon (3), SoapBottle (1, 2), Plate (1), PepperShaker (3), Mug (1), Ladle (3), Fork (1, 2, 3), DiningTable (1), Cup (1), Chair (1), Bread (1), Bowl (2). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see WineBottle (1), Spoon (1), Sink (1), SinkBasin (1), Faucet (1, 2), DishSponge (1), Curtains (1), CounterTop (2), Cabinet (4, 5). 
+Act: go to Sink (1)
+You see Sink (1), SinkBasin (1), Faucet (1, 2), Curtains (1), Cabinet (4, 5). 
+Act: turn on Faucet (1)
+The Faucet (1) already turn on.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spoon (3), SoapBottle (1, 2), Plate (1), PepperShaker (3), Mug (1), Ladle (3), Fork (1, 2, 3), DiningTable (1), Cup (1), Chair (1), Bread (1), Bowl (2). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see WineBottle (1), Spoon (1), Sink (1), SinkBasin (1), Faucet (1, 2), DishSponge (1), Curtains (1), CounterTop (2), Cabinet (4, 5). 
+Act: go to Sink (1)
+You see Sink (1), SinkBasin (1), Faucet (1, 2), Curtains (1), Cabinet (4, 5). 
+Act: turn on Faucet (1)
+The Faucet (1) already turn on.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spoon (3), SoapBottle (1, 2), Plate (1), PepperShaker (3), Mug (1), Ladle (3), Fork (1, 2, 3), DiningTable (1), Cup (1), Chair (1), Bread (1), Bowl (2). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see WineBottle (1), Spoon (1), Sink (1), SinkBasin (1), Faucet (1, 2), DishSponge (1), Curtains (1), CounterTop (2), Cabinet (4, 5). 
+Act: go to Sink (1)
+You see Sink (1), SinkBasin (1), Faucet (1, 2), Curtains (1), Cabinet (4, 5). 
+Act: turn on Faucet (1)
+The Faucet (1) already turn on.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spoon (3), SoapBottle (1, 2), Plate (1), PepperShaker (3), Mug (1), Ladle (3), Fork (1, 2, 3), DiningTable (1), Cup (1), Chair (1), Bread (1), Bowl (2). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see WineBottle (1), Spoon (1), Sink (1), SinkBasin (1), Faucet (1, 2), DishSponge (1), Curtains (1), CounterTop (2), Cabinet (4, 5). 
+Act: go to Sink (1)
+You see Sink (1), SinkBasin (1), Faucet (1, 2), Curtains (1), Cabinet (4, 5). 
+Act: turn on Faucet (1)
+The Faucet (1) already turn on.
+Max decisions

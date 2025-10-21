@@ -1,0 +1,29 @@
+Your primary goal is to: find and turn on lamp
+To achieve this, you should perform your sibling tasks using a fallback strategy. At this level, your sibling tasks are: find and turn on the desk lamp, and find and turn on the floor lamp.
+Your task is to: find and turn on the desk lamp
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1, 2, 3, 4, 5), GarbageCan (1), Desk (1, 2), Bed (1). I am holding Pillow (1) now.
+Think: First, I need to recall location of the desk lamp.
+OK.
+Act: recall location of DeskLamp
+You have not seen DeskLamp before.
+Think: Now I need to find the desk lamp. The desk lamp is more likely to appear near Desk (1-2), Shelf (1-5), Bed (1). I can check each place one by one, starting from Desk (1), until I find the desk lamp.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Window (2), Pillow (1), Pencil (2), Pen (3), Laptop (1), Desk (1), Curtains (2), Book (1), AlarmClock (1).  I am holding Pillow (1) now.
+Act: go to Desk (2)
+You arrive at Desk (2). You see Shelf (4), Pillow (1), Pencil (3), Pen (1, 2), KeyChain (1), Desk (2), CreditCard (3), Chair (1).  I am holding Pillow (1) now.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (4), Pillow (1), Pen (1), KeyChain (1), Desk (2), CreditCard (3), Chair (1).  I am holding Pillow (1) now.
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Shelf (4), Pillow (1), Pen (1), KeyChain (1), Desk (2), CreditCard (3), Chair (1).  I am holding Pillow (1) now.
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Shelf (4), Pillow (1), Pen (1), KeyChain (1), Desk (2), CreditCard (3), Chair (1).  I am holding Pillow (1) now.
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see Shelf (4), Pillow (1), Pen (1), Desk (2), DeskLamp (1), CreditCard (3).  I am holding Pillow (1) now.
+Think: I find DeskLamp (1). Now, I need to turn it on.
+OK.
+Act: turn on DeskLamp (1)
+You turn on DeskLamp (1). You see Shelf (4), Pillow (1), Pen (1), Desk (2), DeskLamp (1), CreditCard (3). I am holding Pillow (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,31 @@
+Your primary goal is to: Carry a credit card while turning on a lamp
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up credit card, and find and turn on lamp.
+Your task is to: find and pick up credit card
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1), Ottoman (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7), DiningTable (1), CoffeeTable (1), ArmChair (1).
+Think: First, I need to recall location of the credit card.
+OK.
+Act: recall location of CreditCard
+You have not seen CreditCard before.
+Think: Now, I need to find the credit card. The credit card is more likely to appear on SideTable (1), CoffeeTable (1), or in Drawer (1-7). I can check each place one by one, starting from SideTable (1), until I find the credit card.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see WateringCan (1), Watch (1), TissueBox (1), SideTable (1), KeyChain (2), HousePlant (1), Drawer (4). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Plate (1), Newspaper (1, 2), Laptop (1), Drawer (2, 6, 7), CoffeeTable (1), Bowl (2, 3). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Plate (1), Newspaper (1, 2), Laptop (1), Drawer (1, 3, 5), CoffeeTable (1), Bowl (2, 3). Drawer (1) is closed. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Plate (1), Newspaper (1, 2), Laptop (1), Drawer (2, 6, 7), CoffeeTable (1), Bowl (2, 3). Drawer (2) is closed. 
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Plate (1), Newspaper (1, 2), Laptop (1), Drawer (1, 3, 5), CoffeeTable (1), Bowl (2, 3). Drawer (3) is closed. 
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see WateringCan (1), Watch (1), TissueBox (1), SideTable (1), KeyChain (2), HousePlant (1), Drawer (4). Drawer (4) is closed. 
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Plate (1), Newspaper (1, 2), Laptop (1), Drawer (1, 3, 5), CoffeeTable (1), Bowl (2, 3). Drawer (5) is closed. 
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Plate (1), Newspaper (1, 2), Laptop (1), Drawer (2, 6, 7), CoffeeTable (1), Bowl (2, 3). Drawer (6) is closed. 
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see Plate (1), Newspaper (1, 2), Laptop (1), Drawer (2, 6, 7), CoffeeTable (1), Bowl (2, 3). Drawer (7) is closed. 
+Think: I cannot find CreditCard. I fail to accomplish the goal.
+OK.
+Act: failure

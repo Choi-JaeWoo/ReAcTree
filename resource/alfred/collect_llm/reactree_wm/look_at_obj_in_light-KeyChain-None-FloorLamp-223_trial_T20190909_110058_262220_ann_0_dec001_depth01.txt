@@ -1,0 +1,7 @@
+Your task is to: pick up the keys on the table and view them in the lamp light
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), GarbageCan (1), DiningTable (1, 2), CoffeeTable (1), ArmChair (1, 2, 3).
+Think: Since I’m not holding keys, I need to accomplish 2 subgoals sequentially to solve the task. Find and pick up keys and find and turn on lamp.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up keys, find and turn on lamp

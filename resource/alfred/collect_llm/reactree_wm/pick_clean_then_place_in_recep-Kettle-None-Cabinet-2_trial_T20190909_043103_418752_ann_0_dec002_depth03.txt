@@ -1,0 +1,21 @@
+Your primary goal is to: Wash a teapot to put it away under the counter.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up teapot, clean and pick up teapot, and place teapot under counter.
+Your task is to: find and pick up teapot
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4, 5, 6), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9).
+Think: First, I need to recall location of the teapot.
+OK.
+Act: recall location of TennisRacket
+You have not seen TennisRacket before.
+Think: Now, I need to find the teapot. The teapot is more likely to appear on CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-9), Drawer (1-13). I can check each place one by one, starting from CounterTop (1), until I find the teapot.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), Cabinet (1, 8), ButterKnife (1). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Tomato (1), Spoon (1), SoapBottle (2), SaltShaker (1, 2), Pan (2), Mug (1, 2), Lettuce (2), Fork (1), DishSponge (1), Cup (3), CounterTop (1, 2), Bread (1), Bowl (1). 
+Think: I find TennisRacket (1). Now, I need to pick it up.
+OK.
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Tomato (1), Spoon (1), SoapBottle (2), SaltShaker (1, 2), Pan (2), Mug (1, 2), Lettuce (2), Fork (1), DishSponge (1), Cup (3), CounterTop (1, 2), Bread (1), Bowl (1). I am holding Bowl (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

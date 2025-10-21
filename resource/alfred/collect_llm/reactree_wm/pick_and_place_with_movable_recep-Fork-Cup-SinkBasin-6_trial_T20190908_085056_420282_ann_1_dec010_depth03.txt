@@ -1,0 +1,67 @@
+Your primary goal is to: Place a fork from the counter into a cup from a cabinet into the sink.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up fork, find and pick up cup, place cup in sink basin, and place fork in cup.
+Your task is to: find and pick up cup
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), CounterTop (1, 2, 3, 4), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15). I am holding Fork (1) now.
+Think: First, I need to recall location of the cup.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now, I need to find the cup. The cup is more likely to appear on CounterTop (1-4), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-15), Drawer (1-4). I can check each place one by one, starting from CounterTop (1), until I find the cup.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (2), StoveKnob (3), StoveBurner (2, 3), SoapBottle (2, 3), Pot (2), PaperTowelRoll (1), GarbageCan (1), Fork (1), Egg (2), CounterTop (1), ButterKnife (1).  I am holding Fork (1) now.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Plate (1, 2), PepperShaker (1), Pan (1), Fork (1), CounterTop (2), Bread (1).  I am holding Fork (1) now.
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Mug (1), Kettle (2), Fork (1), CounterTop (3), CoffeeMachine (1).  I am holding Fork (1) now.
+Act: go to CounterTop (4)
+You arrive at CounterTop (4). You see Lettuce (1), Fork (1), Chair (1), Cabinet (2, 3).  I am holding Fork (1) now.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (1), SoapBottle (1), Sink (1), SinkBasin (1), Kettle (2), Fork (1), Faucet (1), CounterTop (3).  I am holding Fork (1) now.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Fork (1). Fridge (1) is closed.  I am holding Fork (1) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Fridge (1), Fork (1), Cabinet (12). I am holding Fork (1) now.
+Act: go to Cabinet (12)
+You arrive at Cabinet (12). You see Pot (3), Fridge (1), Fork (1), Drawer (2, 4), CounterTop (4), Cabinet (1, 12). Cabinet (12) is closed.  I am holding Fork (1) now.
+Act: open Cabinet (12)
+You open Cabinet (12). You see Pot (3), Fridge (1), Fork (1), Drawer (2, 4), CounterTop (4), Cabinet (1, 12). I am holding Fork (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Spoon (2), Pot (1, 3), Fork (1), Drawer (2, 3, 4), CounterTop (4), Cabinet (1, 2, 3, 12). Drawer (2) is closed.  I am holding Fork (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Spoon (2), Pot (1, 3), Knife (1), Fork (1), Drawer (2, 3, 4), CounterTop (4), Cabinet (1, 2, 3, 12). I am holding Fork (1) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Spoon (1, 2), Pot (1), PepperShaker (2), Knife (1), Fork (1), Drawer (1, 2, 3), CounterTop (4), Cabinet (1, 2, 3), Bread (2). Drawer (3) is closed.  I am holding Fork (1) now.
+Act: open Drawer (3)
+You open Drawer (3). You see Spoon (1, 2), Pot (1), PepperShaker (2), Knife (1), Fork (1), Drawer (1, 2, 3), CounterTop (4), Cabinet (1, 2, 3, 12), Bread (2). I am holding Fork (1) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Spoon (2), Pot (3), Knife (1), Fridge (1), Fork (1), Drawer (2, 4), CounterTop (4), Cabinet (1, 12). Drawer (4) is closed.  I am holding Fork (1) now.
+Act: open Drawer (4)
+You open Drawer (4). You see Spoon (2), Pot (3), Knife (1, 3), Fridge (1), Fork (1), Drawer (2, 4), CounterTop (4), Cabinet (1, 3, 12). I am holding Fork (1) now.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Spoon (2), Pot (1, 3), Knife (1), Fork (1), Drawer (2, 3, 4), CounterTop (4), Cabinet (1, 2). Cabinet (1) is closed.  I am holding Fork (1) now.
+Act: open Cabinet (1)
+The Cabinet (1) is open failed. I am holding Fork (1) now.
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Toaster (1), Spoon (1, 2, 2), Pot (1, 1, 3, 3), PepperShaker (2), Lettuce (1), Knife (1, 1), Fork (1, 1, 1), Drawer (1, 2, 2, 3, 3, 3, 4, 4), CounterTop (4, 4, 4), Chair (1), Cabinet (1, 1, 2, 2, 2, 3), Bread (2), Bowl (1), Apple (1). Cabinet (2) is closed.  I am holding Fork (1) now.
+Act: open Cabinet (2)
+You open Cabinet (2). You see Toaster (1), Spoon (1), PepperShaker (2), Lettuce (1), Fork (1), Drawer (1, 3), CounterTop (4), Chair (1), Cabinet (2, 3), Bread (2), Bowl (1), Apple (1). I am holding Fork (1) now.
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see Spoon (2), Pot (1), Knife (1), Fork (1), Drawer (1, 2, 3), CounterTop (4), Cabinet (1, 2). Cabinet (3) is closed.  I am holding Fork (1) now.
+Act: open Cabinet (3)
+The Cabinet (3) is not close to you. I am holding Fork (1) now.
+Act: go to Cabinet (12)
+You arrive at Cabinet (12). You see Pot (3), Knife (3), Fridge (1), Fork (1), Drawer (4), CounterTop (4), Cabinet (12). Cabinet (12) is open.  I am holding Fork (1) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Toaster (1), Spoon (1), Pot (1), PepperShaker (2), Fork (1), Drawer (1, 3), CounterTop (4), Chair (1), Cabinet (2, 3), Bread (2), Bowl (1), Apple (1). Drawer (1) is closed.  I am holding Fork (1) now.
+Act: open Drawer (1)
+You open Drawer (1). You see Toaster (1), Spoon (1), Pot (1), PepperShaker (2), Lettuce (1), Knife (2), Fork (1), Drawer (1, 3), CounterTop (4), Chair (1), Cabinet (1, 2, 3), Bread (2), Bowl (1), Apple (1). I am holding Fork (1) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Spoon (1, 2), Pot (1), PepperShaker (2), Knife (1, 2), Fork (1), Drawer (1, 2, 3), CounterTop (4), Cabinet (1, 2). Drawer (3) is open.  I am holding Fork (1) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Spoon (2), Pot (3), Knife (1, 3), Fridge (1), Fork (1), Drawer (2, 4), CounterTop (4), Cabinet (1, 12). Drawer (4) is open.  I am holding Fork (1) now.
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: pick up Fork (1)
+You are currently holding Fork (1). I am holding Fork (1) now.
+Act: failure

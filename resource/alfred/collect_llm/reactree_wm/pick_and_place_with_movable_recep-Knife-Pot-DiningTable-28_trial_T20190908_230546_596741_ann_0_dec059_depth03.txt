@@ -1,0 +1,87 @@
+Your primary goal is to: Put a pan with a knife in it on the round table. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pan, place pan on table, find and pick up knife, and place knife on pan near table.
+Your task is to: place pan on table
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11).
+Think: I hold Pan (1). Now, I need to put it on the table. I can see DiningTable (1).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Plate (3), Knife (3), DiningTable (1), Cup (3), Bread (2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Spoon (2), SoapBottle (3), SaltShaker (1), Plate (1, 2), Mug (1), Lettuce (1), Knife (2), DiningTable (2), Cup (1), ButterKnife (1, 2), Bread (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Tomato (1, 2), Spoon (1), SoapBottle (1), SideTable (1), Fork (1), DiningTable (2), Bread (1), Apple (1, 2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Plate (3), Knife (3), DiningTable (1), Cup (3), Bread (2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Spoon (2), SoapBottle (3), SaltShaker (1), Plate (1, 2), Mug (1), Lettuce (1), Knife (2), DiningTable (2), Cup (1), ButterKnife (1, 2), Bread (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Tomato (1, 2), Spoon (1), SoapBottle (1), SideTable (1), Fork (1), DiningTable (2), Bread (1), Apple (1, 2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Plate (3), Knife (3), DiningTable (1), Cup (3), Bread (2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Spoon (2), SoapBottle (3), SaltShaker (1), Plate (1, 2), Mug (1), Lettuce (1), Knife (2), DiningTable (2), Cup (1), ButterKnife (1, 2), Bread (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Tomato (1, 2), Spoon (1), SoapBottle (1), SideTable (1), Fork (1), DiningTable (2), Bread (1), Apple (1, 2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Plate (3), Knife (3), DiningTable (1), Cup (3), Bread (2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Spoon (2), SoapBottle (3), SaltShaker (1), Plate (1, 2), Mug (1), Lettuce (1), Knife (2), DiningTable (2), Cup (1), ButterKnife (1, 2), Bread (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Tomato (1, 2), Spoon (1), SoapBottle (1), SideTable (1), Fork (1), DiningTable (2), Bread (1), Apple (1, 2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Plate (3), Knife (3), DiningTable (1), Cup (3), Bread (2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Spoon (2), SoapBottle (3), SaltShaker (1), Plate (1, 2), Mug (1), Lettuce (1), Knife (2), DiningTable (2), Cup (1), ButterKnife (1, 2), Bread (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Tomato (1, 2), Spoon (1), SoapBottle (1), SideTable (1), Fork (1), DiningTable (2), Bread (1), Apple (1, 2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Plate (3), Knife (3), DiningTable (1), Cup (3), Bread (2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Spoon (2), SoapBottle (3), SaltShaker (1), Plate (1, 2), Mug (1), Lettuce (1), Knife (2), DiningTable (2), Cup (1), ButterKnife (1, 2), Bread (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Tomato (1, 2), Spoon (1), SoapBottle (1), SideTable (1), Fork (1), DiningTable (2), Bread (1), Apple (1, 2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Plate (3), Knife (3), DiningTable (1), Cup (3), Bread (2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Spoon (2), SoapBottle (3), SaltShaker (1), Plate (1, 2), Mug (1), Lettuce (1), Knife (2), DiningTable (2), Cup (1), ButterKnife (1, 2), Bread (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Tomato (1, 2), Spoon (1), SoapBottle (1), SideTable (1), Fork (1), DiningTable (2), Bread (1), Apple (1, 2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Plate (3), Knife (3), DiningTable (1), Cup (3), Bread (2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Spoon (2), SoapBottle (3), SaltShaker (1), Plate (1, 2), Mug (1), Lettuce (1), Knife (2), DiningTable (2), Cup (1), ButterKnife (1, 2), Bread (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Tomato (1, 2), Spoon (1), SoapBottle (1), SideTable (1), Fork (1), DiningTable (2), Bread (1), Apple (1, 2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Plate (3), Knife (3), DiningTable (1), Cup (3), Bread (2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Spoon (2), SoapBottle (3), SaltShaker (1), Plate (1, 2), Mug (1), Lettuce (1), Knife (2), DiningTable (2), Cup (1), ButterKnife (1, 2), Bread (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Tomato (1, 2), Spoon (1), SoapBottle (1), SideTable (1), Fork (1), DiningTable (2), Bread (1), Apple (1, 2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Plate (3), Knife (3), DiningTable (1), Cup (3), Bread (2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Spoon (2), SoapBottle (3), SaltShaker (1), Plate (1, 2), Mug (1), Lettuce (1), Knife (2), DiningTable (2), Cup (1), ButterKnife (1, 2), Bread (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Tomato (1, 2), Spoon (1), SoapBottle (1), SideTable (1), Fork (1), DiningTable (2), Bread (1), Apple (1, 2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Plate (3), Knife (3), DiningTable (1), Cup (3), Bread (2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Spoon (2), SoapBottle (3), SaltShaker (1), Plate (1, 2), Mug (1), Lettuce (1), Knife (2), DiningTable (2), Cup (1), ButterKnife (1, 2), Bread (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Tomato (1, 2), Spoon (1), SoapBottle (1), SideTable (1), Fork (1), DiningTable (2), Bread (1), Apple (1, 2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Plate (3), Knife (3), DiningTable (1), Cup (3), Bread (2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Spoon (2), SoapBottle (3), SaltShaker (1), Plate (1, 2), Mug (1), Lettuce (1), Knife (2), DiningTable (2), Cup (1), ButterKnife (1, 2), Bread (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Tomato (1, 2), Spoon (1), SoapBottle (1), SideTable (1), Fork (1), DiningTable (2), Bread (1), Apple (1, 2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Plate (3), Knife (3), DiningTable (1), Cup (3), Bread (2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Spoon (2), SoapBottle (3), SaltShaker (1), Plate (1, 2), Mug (1), Lettuce (1), Knife (2), DiningTable (2), Cup (1), ButterKnife (1, 2), Bread (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Tomato (1, 2), Spoon (1), SoapBottle (1), SideTable (1), Fork (1), DiningTable (2), Bread (1), Apple (1, 2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Plate (3), Knife (3), DiningTable (1), Cup (3), Bread (2). 
+Max decisions

@@ -1,0 +1,27 @@
+Your primary goal is to: put a chilled lettuce head in kitchen sink
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, slice and pick up lettuce, clean and pick up lettuce, and place lettuce in sink.
+Your task is to: slice and pick up lettuce
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27). I am holding Knife (2) now.
+Think: I hold Knife (2). Now, I need to recall location of the lettuce.
+OK.
+Act: recall location of Lettuce
+You saw Lettuce (2) near DiningTable (1).
+Think: I can find Lettuce (2) near DiningTable (1).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (1, 2), Tomato (1), Spoon (1), Spatula (1, 2), SaltShaker (1), Lettuce (2), Knife (2), Fork (1), DishSponge (2), DiningTable (1), Cup (1, 2), Chair (1), ButterKnife (1), Bread (1, 2), Bowl (1).  I am holding Knife (2) now.
+Think: I find Lettuce (2). Now, I need to slice it.
+OK.
+Act: slice Lettuce (2)
+You slice Lettuce (2). You see WineBottle (1, 2), Tomato (1), Spoon (1), Spatula (1, 2), SaltShaker (1), Lettuce (3, 4, 5, 6, 7, 8, 9), Knife (2), Fork (1), DishSponge (2), DiningTable (1), Cup (1, 2), Chair (1), ButterKnife (1), Bread (1, 2), Bowl (1). Lettuce (3, 4, 5, 6, 7, 8, 9) are sliced. I am holding Knife (2) now.
+Think: I slice Lettuce (2). Now, I need to put down the knife.
+OK.
+Act: put down Knife (2)
+You put down failed, drop it. You see WineBottle (1, 2), Tomato (1), Spoon (1), Spatula (1, 2), SaltShaker (1), Lettuce (3, 4, 5, 6, 7, 8, 9), Fork (1), DishSponge (2), DiningTable (1), Cup (1, 2), Chair (1), ButterKnife (1), Bread (1, 2), Bowl (1).
+Think: Now I need to pick up Lettuce (3).
+OK.
+Act: pick up Lettuce (3)
+You pick up Lettuce (3). You see WineBottle (1, 2), Tomato (1), Spoon (1), Spatula (1, 2), SaltShaker (1), Lettuce (3, 4, 5, 6, 7, 8, 9), Fork (1), DishSponge (2), DiningTable (1), Cup (1, 2), Chair (1), ButterKnife (1), Bread (1, 2), Bowl (1). I am holding Lettuce (3) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

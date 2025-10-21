@@ -1,0 +1,19 @@
+Your primary goal is to: Look at a disk by the light of the lamp.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up disk, and find and turn on lamp.
+Your task is to: find and pick up disk
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1, 2), Safe (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11), Desk (1), Bed (1, 2).
+Think: First, I need to recall location of the disk.
+OK.
+Act: recall location of CD
+You have not seen CD before.
+Think: Now, I need to find the disk. The disk is more likely to appear on SideTable (1-2), Safe (1), Dresser (1), Desk (1), Bed (1-2), or in Drawer (1-11). I can check each place one by one, starting from SideTable (1), until I find the disk.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pillow (1), Pencil (1), Pen (1), Drawer (3, 6), CD (1), Bed (2). 
+Think: I find CD (1). Now, I need to pick it up.
+OK.
+Act: pick up CD (1)
+You pick up CD (1). You see SideTable (1), Pillow (1), Pencil (1), Pen (1), Drawer (3, 6), CD (1), Bed (2). I am holding CD (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,25 @@
+Your primary goal is to: Place plate and credit card on table next to couch.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up plate, place plate on table, find and pick up credit card, and place credit card on table.
+Your task is to: find and pick up plate
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1, 2), SideTable (1), Shelf (1, 2), GarbageCan (1), CoffeeTable (1), ArmChair (1).
+Think: First, I need to recall location of the plate.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now, I need to find the plate. The plate is more likely to appear on CoffeeTable (1), SideTable (1), or in Shelf (1-2), GarbageCan (1). I can check each place one by one, starting from CoffeeTable (1), until I find the plate.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see WateringCan (1, 3), Vase (2), Statue (1), HousePlant (1), CoffeeTable (1), Box (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Sofa (2), SideTable (1), RemoteControl (2), Lamp (1), Curtains (2, 3), CreditCard (1, 4). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Newspaper (2). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see WateringCan (2), Vase (3), Statue (3), Shelf (2), Plate (1), CreditCard (2). 
+Think: I find Plate (1). Now, I need to pick it up.
+OK.
+Act: pick up Plate (1)
+You pick up Plate (1). You see WateringCan (2), Vase (3), Statue (3), Shelf (2), Plate (1), CreditCard (2). I am holding Plate (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

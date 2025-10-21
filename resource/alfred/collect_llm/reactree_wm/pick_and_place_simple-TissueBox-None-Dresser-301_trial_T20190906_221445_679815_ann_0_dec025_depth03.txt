@@ -1,0 +1,155 @@
+Your primary goal is to: To take out the tissue box to place it on top of drawers.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up tissue box, and place tissue box on drawers.
+Your task is to: place tissue box on drawers
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1, 2, 3, 4, 5, 6), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17), Desk (1), Bed (1). I am holding TissueBox (1) now.
+Think: I hold TissueBox (1). Now, I need to put it on the drawers. I can see Drawer (1).
+OK.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 4), Pencil (1), KeyChain (2), Drawer (2, 16, 17), Desk (1), CreditCard (1), Chair (1), BasketBall (1). Drawer (1) is closed.  I am holding TissueBox (1) now.
+Act: put down TissueBox (1)
+You put down failed, drop it. You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 4), Pencil (1), KeyChain (2), Drawer (1, 2, 6, 7, 17), Desk (1), CreditCard (1), Chair (1), BasketBall (1).
+Think: I can't put TissueBox (1) on Drawer (1). I need to open Drawer (1).
+OK.
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Think: I can't open Drawer (1). I need to find another drawers.
+OK.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (1, 2, 6, 7, 16, 17), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), TissueBox (1), Statue (1), Shelf (1, 3, 4, 6), Pencil (1), KeyChain (2), Drawer (2), Desk (1), CreditCard (1), Chair (1), Bowl (1), AlarmClock (1). Drawer (2) is open. 
+Max decisions

@@ -1,0 +1,21 @@
+Your primary goal is to: place a bowl with a spoon in it in the kitchen cabinet next to the sink
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up bowl, place bowl in cabinet, find and pick up spoon, and place spoon in bowl near cabinet.
+Your task is to: find and pick up spoon
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20).
+Think: First, I need to recall location of the spoon.
+OK.
+Act: recall location of Spoon
+You saw Spoon (1) near Drawer (2).
+Think: I can find Spoon (1) near Drawer (2).
+OK.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Spoon (1), Spatula (3), Fork (2), Drawer (1, 2), CounterTop (3), Cabinet (3, 8, 11). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see Spatula (3), Fork (2), Drawer (1, 2), CounterTop (3), Cabinet (8, 11).
+Think: I find Spoon (1). Now, I need to pick it up.
+OK.
+Act: pick up Spatula (3)
+You pick up Spatula (3). You see Spatula (3), Fork (2), Drawer (1, 2), CounterTop (3), Cabinet (8, 11). I am holding Spatula (3) now.
+Think: Now I accomplish the goal.
+OK.
+Max decisions

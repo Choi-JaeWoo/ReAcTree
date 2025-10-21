@@ -1,0 +1,41 @@
+Your task is to: Put a chilled bowl on a shelf.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13).
+Think: To solve the task, I need to find and pick up the bowl, then put it in fridge. I need to pick up the bowl from the fridge, then put it on the shelf.
+OK.
+Think: First, I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: Now I need to find the bowl. The bowl is more likely to appear on DiningTable (1), CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1). I can check each place one by one, starting from DiningTable (1), until I find the bowl.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spoon (1), Spatula (2, 3), PepperShaker (1), Lettuce (2), DiningTable (1), Bread (1). 
+Think: I find Bowl (1). Now, I need to pick it up.
+OK.
+Act: pick up Spoon (1)
+You pick up Spoon (1). You see Spoon (1), Spatula (2, 3), PepperShaker (1), Lettuce (2), DiningTable (1), Bread (1). I am holding Spoon (1) now.
+Think: I hold Spoon (1). Now, I need to put it in the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Spoon (1), Fridge (1). Fridge (1) is closed.  I am holding Spoon (1) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Spoon (1), Potato (2), Plate (2), Fridge (1). I am holding Spoon (1) now.
+Act: put down Spoon (1)
+You put Spoon (1) on Fridge (1). You see Spoon (1), Potato (2), Plate (2), Fridge (1).
+Act: close Fridge (1)
+You close Fridge (1). You see Fridge (1).
+Think: I put Spoon (1) in Fridge (1). Now, I need to pick up the bowl from the fridge.
+OK.
+Act: open Fridge (1)
+You open Fridge (1). You see Spoon (1), Potato (2), Plate (2), Fridge (1).
+Act: pick up Spoon (1)
+You pick up Spoon (1). You see Spoon (1), Potato (2), Plate (2), Fridge (1). I am holding Spoon (1) now.
+Think: I pick up Spoon (1) from Fridge (1). Now, I need to put it on the shelf.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Spoon (1), SoapBottle (2), Shelf (3), SaltShaker (1), Bowl (1).  I am holding Spoon (1) now.
+Act: put down Spoon (1)
+You put down failed, drop it. You see Spoon (1), SoapBottle (2), Shelf (3), SaltShaker (1), Bowl (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

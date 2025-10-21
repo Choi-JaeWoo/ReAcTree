@@ -1,0 +1,48 @@
+Your task is to: place a microwaved red pepper slice inside the sink
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: To solve the task, I need to find and pick up the red pepper, then put it in the microwave. And I need to turn on and off the microwave. And I need to pick up the red pepper from the microwave, then put it in the sink basin.
+OK.
+Think: First, I need to recall location of the red pepper.
+OK.
+Act: recall location of PepperShaker
+You have not seen PepperShaker before.
+Think: Now I need to find the red pepper. The red pepper is more likely to appear on CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the red pepper.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Cup (1), CounterTop (1), Bread (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (1), Spoon (3), Sink (1), SinkBasin (1), Knife (1), HousePlant (1), Faucet (1), Drawer (2, 4), DishSponge (1), CounterTop (1). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Drawer (1). Fridge (1) is closed. 
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Spoon (1), SideTable (1), Microwave (1), Fridge (1), Egg (1). Microwave (1) is closed. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see PepperShaker (1), Mug (1), CounterTop (1), CoffeeMachine (1), Chair (1), Cabinet (1), Bowl (1). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see SaltShaker (1), PepperShaker (1), Pan (2), Mug (1), CounterTop (1), CoffeeMachine (1), Chair (1), Cabinet (1), Bowl (1).
+Think: I find PepperShaker (1). Now, I need to pick it up.
+OK.
+Act: pick up PepperShaker (1)
+You pick up PepperShaker (1). You see PepperShaker (1), Mug (1), CounterTop (1), CoffeeMachine (1), Chair (1), Cabinet (1), Bowl (1). I am holding PepperShaker (1) now.
+Think: I hold PepperShaker (1). Now, I need to put it in the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Spoon (1), SideTable (1), PepperShaker (1), Microwave (1), Fridge (1), Egg (1). Microwave (1) is closed.  I am holding PepperShaker (1) now.
+Act: open Microwave (1)
+You open Microwave (1). You see SideTable (1), PepperShaker (1), Microwave (1), Fridge (1), Apple (1). I am holding PepperShaker (1) now.
+Act: put down PepperShaker (1)
+You put down failed, drop it. You see SideTable (1), PepperShaker (1), Microwave (1), Fridge (1), Apple (1).
+Think: Now I need to pick up PepperShaker (1).
+OK.
+Act: pick up PepperShaker (1)
+You pick up PepperShaker (1). You see SideTable (1), PepperShaker (1), Microwave (1), Fridge (1), Apple (1). I am holding PepperShaker (1) now.
+Act: put down PepperShaker (1)
+You put down failed, drop it. You see SideTable (1), Microwave (1), Fridge (1), Apple (1).
+Think: Now I need to pick up PepperShaker (1).
+OK.
+Act: pick up Apple (1)
+You pick up Apple (1). You see SideTable (1), Microwave (1), Fridge (1), Apple (1). I am holding Apple (1) now.
+Act: put down Apple (1)
+You put down failed, drop it. You see SideTable (1), Microwave (1), Fridge (1).
+Think: Now I need to pick up Apple (1).
+OK.

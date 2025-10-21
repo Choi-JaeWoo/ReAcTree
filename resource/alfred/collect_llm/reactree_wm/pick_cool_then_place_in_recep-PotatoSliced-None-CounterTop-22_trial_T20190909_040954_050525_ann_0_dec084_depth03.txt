@@ -1,0 +1,23 @@
+Your primary goal is to: Cut and refrigerate the potato on the counter.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, slice and pick up potato, cool and pick up potato, and place potato in fridge.
+Your task is to: cool and pick up potato
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20). I am holding Potato (3) now.
+Think: I hold Potato (3). I need to cool it using the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (3), GarbageCan (1), Fridge (1), Drawer (3), CounterTop (2), Cabinet (7). Fridge (1) is closed.  I am holding Potato (3) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Tomato (1, 3), Toaster (1), Potato (3), Plate (1), Fridge (1), Drawer (3), Cup (1, 3), CounterTop (2), Cabinet (7), Bowl (2). I am holding Potato (3) now.
+Act: put down Potato (3)
+You put Potato (3) on Fridge (1). You see Tomato (1, 3), Toaster (1), Potato (3), Plate (1), Fridge (1), Drawer (3), Cup (1, 3), CounterTop (2), Cabinet (7), Bowl (2).
+Act: close Fridge (1)
+You close Fridge (1). You see GarbageCan (1), Fridge (1), Drawer (3), CounterTop (2), Cabinet (7).
+Think: I cool Potato (3) using Fridge (1). Now, I need to pick up the potato from the fridge.
+OK.
+Act: open Fridge (1)
+You open Fridge (1). You see Tomato (1, 3), Toaster (1), Potato (3), Plate (1), Fridge (1), Drawer (3), Cup (1, 3), CounterTop (2), Cabinet (7), Bowl (2).
+Act: pick up Potato (3)
+You pick up Potato (3). You see Tomato (1, 3), Toaster (1), Potato (3), Plate (1), Fridge (1), Drawer (3), Cup (1, 3), CounterTop (2), Cabinet (7), Bowl (2). I am holding Potato (3) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,7 @@
+Your task is to: pick up two green rags from the bath tub and place them on a shelf under the towel rack
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), Sink (1), SinkBasin (1), Shelf (1, 2, 3), HandTowelHolder (1), GarbageCan (1), BathtubBasin (1).
+Think: Since I’m not holding green rag, I need to accomplish 2 subgoals sequentially to solve the task. Find and pick up green rag, and place green rag on shelf.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up green rag, place green rag on shelf

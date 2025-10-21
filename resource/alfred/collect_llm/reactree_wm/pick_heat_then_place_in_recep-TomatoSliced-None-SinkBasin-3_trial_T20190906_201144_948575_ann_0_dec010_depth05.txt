@@ -1,0 +1,21 @@
+Your primary goal is to: find and pick up slice tomato
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: recall location of slice tomato, and and go to slice tomato.
+Your task is to: and go to slice tomato
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4). I am holding Fork (1) now.
+Think: I hold Fork (1). Now, I need to recall location of the slice tomato.
+OK.
+Act: recall location of Tomato
+You have not seen Tomato before.
+Think: Now, I need to find the slice tomato. The slice tomato is more likely to appear on CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-4). I can check each place one by one, starting from CounterTop (1), until I find the slice tomato.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Fork (1), CounterTop (1).  I am holding Fork (1) now.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (1), Sink (1), SinkBasin (1), Plate (3), Knife (1), HousePlant (1), Fork (1), Faucet (1), Drawer (2, 4), CounterTop (1).  I am holding Fork (1) now.
+Think: I find Tomato (3). Now, I need to pick up Tomato (3).
+OK.
+Act: pick up Tomato (3)
+You are currently holding Fork (1). I am holding Fork (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

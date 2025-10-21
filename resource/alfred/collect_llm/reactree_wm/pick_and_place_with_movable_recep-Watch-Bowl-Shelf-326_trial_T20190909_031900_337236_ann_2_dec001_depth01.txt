@@ -1,0 +1,7 @@
+Your task is to: Place a bowl with a watch in it on a shelf.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14), GarbageCan (1), Drawer (1, 2), DiningTable (1), Bed (1, 2).
+Think: Since I’m not holding anything, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up bowl, place bowl in shelf, find and pick up watch, and place watch in bowl near shelf.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up bowl, place bowl in shelf, find and pick up watch, place watch in bowl near shelf

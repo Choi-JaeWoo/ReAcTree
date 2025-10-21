@@ -1,0 +1,116 @@
+Your task is to: move candle from tub to back of toilet
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), Sink (1), SinkBasin (1), SideTable (1), HandTowelHolder (1), GarbageCan (1), Drawer (1, 2), Bathtub (1), BathtubBasin (1).
+Think: To solve the task, I need to find and pick up the candle, then put it on the back of the toilet.
+OK.
+Think: First, I need to recall location of candle.
+OK.
+Act: recall location of Candle
+You have not seen Candle before.
+Think: Now I need to find the candle. The candle is more likely to appear on BathtubBasin (1), SinkBasin (1), SideTable (1), or in Drawer (1-2). I can check each place one by one, starting from BathtubBasin (1), until I find the candle.
+OK.
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Cloth (1, 2, 3), Bathtub (1), BathtubBasin (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see SoapBar (2, 3), Sink (1), SinkBasin (1), ShowerCurtain (1), Mirror (1), HandTowel (1), Faucet (3), Drawer (1), Bathtub (1), BathtubBasin (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SoapBar (1, 2), Sink (1), SideTable (1), Drawer (1, 2). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SoapBar (1, 2), Sink (1), SideTable (1), Drawer (1, 2). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see SoapBar (1), Sink (1), SinkBasin (1), SideTable (1), Drawer (1, 2).
+Act: close Drawer (1)
+You close Drawer (1). You see SoapBar (1), Sink (1), SinkBasin (1), SideTable (1), Drawer (1, 2).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SoapBar (1, 2), Sink (1), SideTable (1), Drawer (1, 2). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see ToiletPaper (2), SoapBar (1), Sink (1), SinkBasin (1), SideTable (1), Drawer (2).
+Act: close Drawer (2)
+You close Drawer (2). You see SoapBar (1), Sink (1), SinkBasin (1), SideTable (1), Drawer (1, 2).
+Think: I have not found the candle. I think I need to check other places.
+OK.
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Cloth (1, 2, 3), Bathtub (1), BathtubBasin (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see SoapBar (2, 3), Sink (1), SinkBasin (1), ShowerCurtain (1), Mirror (1), HandTowel (1), Faucet (3), Drawer (1), Bathtub (1), BathtubBasin (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SoapBar (1, 2), Sink (1), SideTable (1), Drawer (1, 2). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SoapBar (1, 2), Sink (1), SideTable (1), Drawer (1, 2). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see SoapBar (1), Sink (1), SinkBasin (1), SideTable (1), Drawer (1, 2).
+Act: close Drawer (1)
+You close Drawer (1). You see SoapBar (1), Sink (1), SinkBasin (1), SideTable (1), Drawer (1, 2).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SoapBar (1, 2), Sink (1), SideTable (1), Drawer (1, 2). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see ToiletPaper (2), SoapBottle (1), SoapBar (1), Sink (1), SinkBasin (1), SideTable (1), Drawer (2).
+Act: close Drawer (2)
+You close Drawer (2). You see SoapBar (1), Sink (1), SinkBasin (1), SideTable (1), Drawer (1, 2).
+Think: I have not found the candle. I think I need to check other places.
+OK.
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Cloth (1, 2, 3), Bathtub (1), BathtubBasin (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see SoapBar (2, 3), Sink (1), SinkBasin (1), ShowerCurtain (1), Mirror (1), HandTowel (1), Faucet (3), Drawer (1), Bathtub (1), BathtubBasin (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SoapBar (1, 2), Sink (1), SideTable (1), Drawer (1, 2). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SoapBar (1, 2), Sink (1), SideTable (1), Drawer (1, 2). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see SoapBar (1), Sink (1), SinkBasin (1), SideTable (1), Drawer (1, 2).
+Act: close Drawer (1)
+You close Drawer (1). You see SoapBar (1), Sink (1), SinkBasin (1), SideTable (1), Drawer (1, 2).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SoapBar (1, 2), Sink (1), SideTable (1), Drawer (1, 2). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see ToiletPaper (2), SoapBottle (1), SoapBar (1), Sink (1), SinkBasin (1), SideTable (1), Drawer (2).
+Act: close Drawer (2)
+You close Drawer (2). You see SoapBar (1), Sink (1), SinkBasin (1), SideTable (1), Drawer (1, 2).
+Think: I have not found the candle. I think I need to check other places.
+OK.
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Cloth (1, 2, 3), Bathtub (1), BathtubBasin (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see SoapBar (2, 3), Sink (1), SinkBasin (1), ShowerCurtain (1), Mirror (1), HandTowel (1), Faucet (3), Drawer (1), Bathtub (1), BathtubBasin (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SoapBar (1, 2), Sink (1), SideTable (1), Drawer (1, 2). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SoapBar (1, 2), Sink (1), SideTable (1), Drawer (1, 2). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see SoapBar (1), Sink (1), SinkBasin (1), SideTable (1), Drawer (1, 2).
+Act: close Drawer (1)
+You close Drawer (1). You see SoapBar (1), Sink (1), SinkBasin (1), SideTable (1), Drawer (1, 2).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SoapBar (1, 2), Sink (1), SideTable (1), Drawer (1, 2). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see ToiletPaper (2), SoapBottle (1), SoapBar (1), Sink (1), SinkBasin (1), SideTable (1), Drawer (2).
+Act: close Drawer (2)
+You close Drawer (2). You see SoapBar (1), Sink (1), SinkBasin (1), SideTable (1), Drawer (1, 2).
+Think: I have not found the candle. I think I need to check other places.
+OK.
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Cloth (1, 2, 3), Bathtub (1), BathtubBasin (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see SoapBar (2, 3), Sink (1), SinkBasin (1), ShowerCurtain (1), Mirror (1), HandTowel (1), Faucet (3), Drawer (1), Bathtub (1), BathtubBasin (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SoapBar (1, 2), Sink (1), SideTable (1), Drawer (1, 2). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SoapBar (1, 2), Sink (1), SideTable (1), Drawer (1, 2). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see SoapBar (1), Sink (1), SinkBasin (1), SideTable (1), Drawer (1, 2).
+Act: close Drawer (1)
+You close Drawer (1). You see SoapBar (1), Sink (1), SinkBasin (1), SideTable (1), Drawer (1, 2).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SoapBar (1, 2), Sink (1), SideTable (1), Drawer (1, 2). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see ToiletPaper (2), SoapBottle (1), SoapBar (1), Sink (1), SinkBasin (1), SideTable (1), Drawer (2).
+Act: close Drawer (2)
+You close Drawer (2). You see SoapBar (1), Sink (1), SinkBasin (1), SideTable (1), Drawer (1, 2).
+Think: I have not found the candle. I think I need to check other places.
+OK.
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Cloth (1, 2, 3), Bathtub (1), BathtubBasin (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see SoapBar (2, 3), Sink (1), SinkBasin (1), ShowerCurtain (1), Mirror (1), HandTowel (1), Faucet (3), Drawer (1), Bathtub (1), BathtubBasin (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SoapBar (1, 2), Sink (1), SideTable (1), Drawer (1, 2). 

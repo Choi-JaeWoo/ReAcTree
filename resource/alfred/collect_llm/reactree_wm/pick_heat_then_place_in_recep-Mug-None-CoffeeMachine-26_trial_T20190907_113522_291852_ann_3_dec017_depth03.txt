@@ -1,0 +1,57 @@
+Your primary goal is to: Put a heated mug on the coffee maker.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up mug, heat and pick up mug, and place mug on coffee maker.
+Your task is to: heat and pick up mug
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10). I am holding Cup (2) now.
+Think: I hold Cup (2). Now, I need heat it using the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Sink (1), SinkBasin (1), Microwave (1), Drawer (2), Cup (2), CounterTop (1), Cabinet (6). Microwave (1) is closed.  I am holding Cup (2) now.
+Act: open Microwave (1)
+You open Microwave (1). You see Sink (1), SinkBasin (1), Microwave (1), Drawer (2), Cup (2), CounterTop (1), Cabinet (6), Apple (2, 3). I am holding Cup (2) now.
+Act: put down Cup (2)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), Microwave (1), Drawer (2), CounterTop (1), Cabinet (6), Apple (2, 3).
+Think: I heat Cup (2) using Microwave (1). Now, I need to pick up the cup from the microwave.
+OK.
+Act: open Microwave (1)
+The Microwave (1) is already open.
+Act: pick up Apple (2)
+You pick up Apple (2). You see Sink (1), SinkBasin (1), Microwave (1), Drawer (2), CounterTop (1), Cabinet (6), Apple (2, 3). I am holding Apple (2) now.
+Act: pick up Apple (3)
+You are currently holding Apple (2). I am holding Apple (2) now.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Sink (1), SinkBasin (1), Potato (1), Microwave (1), Fork (1), Faucet (1), Egg (1), Drawer (1, 2), CounterTop (1), Cabinet (1, 4, 6, 7), Apple (2).  I am holding Apple (2) now.
+Act: put down Apple (2)
+You put Apple (2) on SinkBasin (1). You see Tomato (3), Sink (1), SinkBasin (1), Potato (1), Microwave (1), Fork (1), Faucet (1), Egg (1), Drawer (1, 2), CounterTop (1), Cabinet (1, 4, 6, 7), Apple (2).
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Tomato (3, 3), Sink (1, 1), SinkBasin (1, 1), Potato (1, 1), Microwave (1, 1), Fork (1), Faucet (1, 1), Egg (1), Drawer (1, 2, 2), CounterTop (1, 1), Cabinet (1, 4, 6, 6, 7, 7), Apple (2, 3). Microwave (1) is open. 
+Act: pick up Apple (3)
+You pick up Apple (3). You see Tomato (3), Sink (1), SinkBasin (1), Potato (1), Microwave (1), Faucet (1), Drawer (2), CounterTop (1), Cabinet (6, 7), Apple (3). I am holding Apple (3) now.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Sink (1), SinkBasin (1), Potato (1), Microwave (1), Fork (1), Faucet (1), Egg (1), Drawer (1, 2), CounterTop (1), Cabinet (1, 4, 6, 7), Apple (2, 3).  I am holding Apple (3) now.
+Act: put down Apple (3)
+You put Apple (3) on SinkBasin (1). You see Tomato (3), Sink (1), SinkBasin (1), Potato (1), Microwave (1), Fork (1), Faucet (1), Egg (1), Drawer (1, 2), CounterTop (1), Cabinet (1, 4, 6, 7), Apple (2, 3).
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Tomato (3, 3), Sink (1, 1), SinkBasin (1, 1), Potato (1, 1), Microwave (1, 1), Fork (1), Faucet (1, 1), Egg (1), Drawer (1, 2, 2), CounterTop (1, 1), Cabinet (1, 4, 6, 6, 7, 7), Apple (2, 3). Microwave (1) is open. 
+Act: pick up Apple (2)
+The Apple (2) is not close to you.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Sink (1), SinkBasin (1), Potato (1), Microwave (1), Fork (1), Faucet (1), Egg (1), Drawer (1, 2), CounterTop (1), Cabinet (1, 4, 6, 7), Apple (2, 3). 
+Act: pick up Apple (2)
+You pick up Apple (2). You see Tomato (3), Sink (1), SinkBasin (1), Potato (1), Microwave (1), Fork (1), Faucet (1), Egg (1), Drawer (1, 2), CounterTop (1), Cabinet (1, 4, 6, 7), Apple (2, 3). I am holding Apple (2) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Tomato (3, 3), Sink (1, 1), SinkBasin (1, 1), Potato (1, 1), Microwave (1, 1), Fork (1), Faucet (1, 1), Egg (1), Drawer (1, 2, 2), CounterTop (1, 1), Cabinet (1, 4, 6, 6, 7, 7), Apple (2, 2, 3). Microwave (1) is open.  I am holding Apple (2) now.
+Act: put down Apple (2)
+You put Apple (2) on Microwave (1). You see Tomato (3), Sink (1), SinkBasin (1), Potato (1), Microwave (1), Faucet (1), Drawer (2), CounterTop (1), Cabinet (6, 7), Apple (2).
+Act: close Microwave (1)
+You close Microwave (1). You see Tomato (3), Sink (1), SinkBasin (1), Potato (1), Microwave (1), Faucet (1), Drawer (2), CounterTop (1), Cabinet (6, 7).
+Act: turn on Microwave (1)
+You turn on Microwave (1). You see Tomato (3), Sink (1), SinkBasin (1), Potato (1), Microwave (1), Faucet (1), Drawer (2), CounterTop (1), Cabinet (6, 7).
+Act: turn off Microwave (1)
+You turn off Microwave (1). You see Tomato (3), Sink (1), SinkBasin (1), Potato (1), Microwave (1), Faucet (1), Drawer (2), CounterTop (1), Cabinet (6, 7).
+Act: open Microwave (1)
+You open Microwave (1). You see Tomato (3), Sink (1), SinkBasin (1), Potato (1), Microwave (1), Faucet (1), Drawer (2), CounterTop (1), Cabinet (6, 7), Apple (2).
+Act: pick up Apple (2)
+You pick up Apple (2). You see Tomato (3), Sink (1), SinkBasin (1), Potato (1), Microwave (1), Faucet (1), Drawer (2), CounterTop (1), Cabinet (6, 7), Apple (2). I am holding Apple (2) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

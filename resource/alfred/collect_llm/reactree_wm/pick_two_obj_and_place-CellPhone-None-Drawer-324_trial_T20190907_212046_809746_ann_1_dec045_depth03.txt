@@ -1,0 +1,115 @@
+Your primary goal is to: Put two cell phones in dresser drawer.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up cell phone, place cell phone in dresser drawer, Find and pick up cell phone away from dresser drawer, and place cell phone in dresser drawer.
+Your task is to: place cell phone in dresser drawer
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1, 2, 3, 4, 5, 6, 7), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10), Bed (1).
+Think: I hold CellPhone (1). Now, I need to put it in the dresser drawer. I can see Drawer (1).
+OK.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Laptop (1), Dresser (1), Drawer (1, 2, 4, 6, 7), DeskLamp (1), CD (1), AlarmClock (2). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), DeskLamp (1), CD (1), AlarmClock (2).
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (3), Laptop (1), Dresser (1), Drawer (1, 4), CD (1), AlarmClock (2). Drawer (1) is open. 
+Max decisions

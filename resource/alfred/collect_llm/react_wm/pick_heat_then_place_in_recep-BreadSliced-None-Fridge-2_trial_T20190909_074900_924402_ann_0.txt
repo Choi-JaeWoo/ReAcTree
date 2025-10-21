@@ -1,0 +1,70 @@
+Your task is to: Put a knife and a warm slice of bread in the refrigerator. 
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4, 5, 6), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9).
+Think: To solve the task, I need to find and pick up the knife. And I need to find and slice the bread. And I need to put down the knife and pick up the bread, then put it in the microwave. And I need to turn on and off the microwave. And I need to pick up the bread from the microwave, then put it in the fridge. And I need to pick up the knife, then put it in the fridge.
+OK.
+Think: First, I need to recall location of the knife.
+OK.
+Act: recall location of Knife
+You have not seen Knife before.
+Think: Now I need to find the knife. The knife is more likely to appear on CounterTop (1-2), SinkBasin (1), or in Fridge (1), Mircowave (1), Cabinet (1-9), Drawer (1-13). I can check each place one by one, starting from CounterTop (1), until I find the knife.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (2), Spoon (2), Spatula (1), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), Cabinet (1, 8), Apple (1, 2). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Tomato (2), SoapBottle (1), Pot (3), Pan (1), Lettuce (1), Ladle (1), Knife (1), CounterTop (1, 2), ButterKnife (3), Bread (2), Bowl (1), Apple (3). 
+Think: I find Knife (1). Now, I need to pick it up.
+OK.
+Act: pick up Knife (1)
+You pick up Knife (1). You see Tomato (2), SoapBottle (1), Pot (3), Pan (1), Lettuce (1), Ladle (1), Knife (1), CounterTop (1, 2), ButterKnife (3), Bread (2), Bowl (1), Apple (3). I am holding Knife (1) now.
+Think: I hold Knife (1). Now, I need to recall location of the bread.
+OK.
+Act: recall location of Bread
+You saw Bread (2) near CounterTop (2).
+Think: I can find Bread (2) near CounterTop (2).
+OK.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Tomato (2), SoapBottle (1), Pot (3), Pan (1), Lettuce (1), Ladle (1), Knife (1), CounterTop (1, 2), ButterKnife (3), Bread (2), Bowl (1), Apple (3).  I am holding Knife (1) now.
+Think: I find Bread (2). Now, I need to slice it.
+OK.
+Act: slice Bread (2)
+You slice Bread (2). You see Tomato (2), SoapBottle (1), Pot (3), Pan (1), Lettuce (1), Ladle (1), Knife (1), CounterTop (1, 2), ButterKnife (3), Bread (4, 5, 6, 7, 8, 9, 10, 11), Bowl (1), Apple (3). Bread (3, 4, 5, 6, 7, 8, 9, 10, 11) are sliced. I am holding Knife (1) now.
+Think: I slice Bread (2). Now, I need to put down the knife.
+OK.
+Act: put down Knife (1)
+You put down failed, drop it. You see Tomato (2), SoapBottle (1), Pot (3), Pan (1), Lettuce (1), Ladle (1), CounterTop (1, 2), ButterKnife (3), Bread (4, 5, 6, 7, 8, 9, 10, 11), Bowl (1), Apple (3).
+Think: Now I need to pick up Bread (11).
+OK.
+Act: pick up Bread (11)
+You pick up Bread (11). You see Tomato (2), SoapBottle (1), Pot (3), Pan (1), Lettuce (1), Ladle (1), CounterTop (1, 2), ButterKnife (3), Bread (4, 5, 6, 7, 8, 9, 10, 11), Bowl (1), Apple (3). I am holding Bread (11) now.
+Think: I hold Bread (11). Now, I need to put it in the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Window (1), Toaster (1), Microwave (1), Kettle (1), Drawer (4), CounterTop (1), Bread (11). Microwave (1) is closed.  I am holding Bread (11) now.
+Act: open Microwave (1)
+You open Microwave (1). You see Window (1), Toaster (1), Microwave (1), Kettle (1), Drawer (4), CounterTop (1), Bread (11). I am holding Bread (11) now.
+Act: put down Bread (11)
+You put Bread (11) on Microwave (1). You see Window (1), Toaster (1), Microwave (1), Kettle (1), Drawer (4), CounterTop (1), Bread (11).
+Act: close Microwave (1)
+You close Microwave (1). You see Window (1), Toaster (1), Microwave (1), Kettle (1), Drawer (4), CounterTop (1).
+Think: I put Bread (11) in Microwave (1). Now, I need to turn on and off Microwave (1).
+OK.
+Act: turn on Microwave (1)
+You turn on Microwave (1). You see Window (1), Toaster (1), Microwave (1), Kettle (1), Drawer (4), CounterTop (1).
+Act: turn off Microwave (1)
+You turn off Microwave (1). You see Window (1), Toaster (1), Microwave (1), Kettle (1), Drawer (4), CounterTop (1).
+Think: Now, I need to pick up the bread from the microwave.
+OK.
+Act: open Microwave (1)
+You open Microwave (1). You see Window (1), Toaster (1), Microwave (1), Kettle (1), Drawer (4), CounterTop (1), Bread (11).
+Act: pick up Bread (11)
+You pick up Bread (11). You see Window (1), Toaster (1), Microwave (1), Kettle (1), Drawer (4), CounterTop (1), Bread (11). I am holding Bread (11) now.
+Think: I pick up Bread (11) from Microwave (1). Now, I need to put it in the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Bread (11). Fridge (1) is closed.  I am holding Bread (11) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Fridge (1), Egg (2), Cup (2), Bread (11), Bowl (2). I am holding Bread (11) now.
+Act: put down Bread (11)
+You put Bread (11) on Fridge (1). You see Fridge (1), Egg (2), Cup (2), Bread (11), Bowl (2).
+Think: I put Bread (11) in Fridge (1). Now, I need to recall location of the knife.
+OK.

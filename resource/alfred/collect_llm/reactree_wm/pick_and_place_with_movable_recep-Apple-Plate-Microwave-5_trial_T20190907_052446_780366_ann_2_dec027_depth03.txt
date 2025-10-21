@@ -1,0 +1,17 @@
+Your primary goal is to: Place an apple on a plate into a microwave.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up apple, heat and pick up apple, and place apple on plate.
+Your task is to: place apple on plate
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20). I am holding Apple (1) now.
+Think: I hold Apple (1). Now, I need to put it on the plate. I can see Plate (1).
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Vase (3), Statue (1), Shelf (3), PaperTowelRoll (1), Mug (1), GarbageCan (1), Apple (1).  I am holding Apple (1) now.
+Act: put down Apple (1)
+You put down failed, drop it. You see Vase (3), Statue (1), Shelf (3), PaperTowelRoll (1), Mug (1), GarbageCan (1), Apple (1).
+Think: Now I need to pick up Plate (1).
+OK.
+Act: pick up Apple (1)
+You pick up Apple (1). You see Vase (3), Statue (1), Shelf (3), PaperTowelRoll (1), Mug (1), GarbageCan (1), Apple (1). I am holding Apple (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

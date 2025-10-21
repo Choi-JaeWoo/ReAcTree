@@ -1,0 +1,7 @@
+Your task is to: Put a mug with pencil in it on the small dresser. 
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1), LaundryHamper (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5), Desk (1), Bed (1).
+Think: Since I’m not holding mug, I need to accomplish 3 subgoals sequentially to solve the task. Find and pick up mug, put pencil in mug, and place mug on dresser.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up mug, put pencil in mug, place mug on dresser

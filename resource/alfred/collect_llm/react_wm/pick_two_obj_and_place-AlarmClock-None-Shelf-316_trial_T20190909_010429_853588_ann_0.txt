@@ -1,0 +1,43 @@
+Your task is to: Move the alarm clocks on the desk to the drawer shelf. 
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1), GarbageCan (1), Drawer (1, 2), Desk (1), Bed (1).
+Think: To solve the task, I need to find and pick up the alarm clocks, then put them in the drawer shelf.
+OK.
+Think: First, I need to recall location of the alarm clocks.
+OK.
+Act: recall location of AlarmClock
+You have not seen AlarmClock before.
+Think: Now I need to find the alarm clocks. The alarm clocks are more likely to appear on Bed (1), Desk (1), SideTable (1), Shelf (1), or in Drawer (1-2). I can check each place one by one, starting from Bed (1), until I find the alarm clocks.
+OK.
+Act: go to Bed (1)
+You arrive at Bed (1). You see Pillow (1), Laptop (1, 2), Bed (1). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1, 2), KeyChain (1), Desk (1), CreditCard (1), Chair (1), Book (1), AlarmClock (1, 3). 
+Think: I find AlarmClock (1, 3). Now, I need to pick them up.
+OK.
+Act: pick up AlarmClock (1)
+You pick up AlarmClock (1). You see Pen (1, 2), KeyChain (1), Desk (1), CreditCard (1), Chair (1), Book (1), AlarmClock (1, 3). I am holding AlarmClock (1) now.
+Act: pick up AlarmClock (3)
+You are currently holding AlarmClock (1). I am holding AlarmClock (1) now.
+Think: I hold AlarmClock (1, 3). Now, I need to put them in the drawer shelf.
+OK.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (1), CreditCard (3), CD (1), Bowl (1), Bed (1), AlarmClock (1, 2). Drawer (1) is closed.  I am holding AlarmClock (1) now.
+Act: open Drawer (1)
+You open Drawer (1). You see SideTable (1), Drawer (1), CreditCard (3), CD (1), Bowl (1), Bed (1), AlarmClock (1, 2). I am holding AlarmClock (1) now.
+Act: put down AlarmClock (1)
+You put AlarmClock (1) on Drawer (1). You see SideTable (1), Drawer (1), CreditCard (3), CD (1), Bowl (1), Bed (1), AlarmClock (1, 2).
+Act: close Drawer (1)
+You close Drawer (1). You see SideTable (1), Drawer (1, 2), CreditCard (3), CD (1), Bowl (1), Bed (1), AlarmClock (2).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (1), Drawer (1, 2), CreditCard (3), CD (1), Bowl (1), Bed (1), AlarmClock (2). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see SideTable (1), Drawer (1, 2), CreditCard (3), CD (1), Bowl (1), Bed (1), AlarmClock (2).
+Act: pick up AlarmClock (2)
+You pick up AlarmClock (2). You see SideTable (1), Drawer (1, 2), CreditCard (3), CD (1), Bowl (1), Bed (1), AlarmClock (2). I am holding AlarmClock (2) now.
+Act: put down AlarmClock (2)
+You put down failed, drop it. You see SideTable (1), Drawer (1, 2), CreditCard (3), CD (1), Bowl (1), Bed (1), AlarmClock (2).
+Act: close Drawer (2)
+You close Drawer (2). You see SideTable (1), Drawer (1, 2), CreditCard (3), CD (1), Bowl (1), Bed (1), AlarmClock (2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,27 @@
+Your primary goal is to: wash the plate and put it away
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up plate, place plate in sink basin, find and pick up sponge, and clean and pick up plate.
+Your task is to: clean and pick up plate
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13). I am holding DishSponge (1) now.
+Think: I hold DishSponge (1). Now, I need to recall location of the plate.
+OK.
+Act: recall location of Plate
+You saw Plate (1) near SinkBasin (1). You saw Plate (2) near Shelf (3).
+Think: I can find Plate (1) near SinkBasin (1) or Plate (2) near Shelf (3).
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Spoon (2), Spatula (1, 2), Sink (1), SinkBasin (1), SaltShaker (3), Plate (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (10), ButterKnife (1).  I am holding DishSponge (1) now.
+Think: I find Plate (1). Now, I need to clean it using sink basin.
+OK.
+Act: put down DishSponge (1)
+You put DishSponge (1) on SinkBasin (1). You see Spoon (2), Spatula (1, 2), Sink (1), SinkBasin (1), SaltShaker (3), Plate (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (10), ButterKnife (1).
+Act: turn on Faucet (1)
+You turn on Faucet (1). You see Spoon (2), Spatula (1, 2), Sink (1), SinkBasin (1), SaltShaker (3), Plate (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (10), ButterKnife (1).
+Act: turn off Faucet (1)
+You turn off Faucet (1). You see Spoon (2), Spatula (1, 2), Sink (1), SinkBasin (1), SaltShaker (3), Plate (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (10), ButterKnife (1).
+Think: I clean Plate (1) using SinkBasin (1). Now, I need to pick up the plate from the sink basin.
+OK.
+Act: pick up Plate (1)
+You pick up Plate (1). You see Spoon (2), Spatula (1, 2), Sink (1), SinkBasin (1), Plate (1), Faucet (1), Drawer (1), DishSponge (1), Cabinet (10), ButterKnife (1). I am holding Plate (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

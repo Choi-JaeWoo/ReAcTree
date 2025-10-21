@@ -1,0 +1,37 @@
+Your primary goal is to: Put two CDs in a dresser drawer.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up CD, place CD in drawer, Find and pick up CD away from drawer, and place CD in drawer.
+Your task is to: Find and pick up CD away from drawer
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1, 2, 3, 4, 5, 6, 7, 8, 9), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10), Bed (1).
+Think: First, I need to recall location of the CD.
+OK.
+Act: recall location of CD
+You have not seen CD before.
+Think: Now, I need to find the CD. The CD is more likely to appear on Shelf (1-9), or in Drawer (1-10). I can check each place one by one, starting from Shelf (1), until I find the CD.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1, 3, 4, 6, 7, 9), Pencil (3), Pen (1), HousePlant (1), AlarmClock (1). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Shelf (1, 3, 4, 6, 7, 9), Pencil (3), Pen (1), HousePlant (1), Footstool (1), Box (1), AlarmClock (1). 
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Shelf (1, 3, 4, 6, 7, 9), Pencil (3), Pen (1), HousePlant (1), AlarmClock (1). 
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see Shelf (1, 3, 4, 6, 7, 9), Pencil (3), Pen (1), HousePlant (1), Box (1), AlarmClock (1). 
+Act: go to Shelf (5)
+You arrive at Shelf (5). You see Window (1), Statue (2, 3), Shelf (5), Footstool (1), Box (1), AlarmClock (3). 
+Act: go to Shelf (6)
+You arrive at Shelf (6). You see Shelf (1, 3, 4, 6, 7, 9), Pencil (3), Pen (1), HousePlant (1), AlarmClock (1). 
+Act: go to Shelf (7)
+You arrive at Shelf (7). You see Statue (3), Shelf (3, 4, 6, 7, 9), Pencil (3), Pen (1), HousePlant (1), Footstool (1), Box (1), AlarmClock (1). 
+Act: go to Shelf (8)
+You arrive at Shelf (8). You see Shelf (1, 3, 4, 6, 7, 9), Pencil (3), Pen (1), HousePlant (1), AlarmClock (1). 
+Act: go to Shelf (9)
+You arrive at Shelf (9). You see Shelf (1, 3, 4, 6, 7, 9), Pencil (3), Pen (1), HousePlant (1), Footstool (1), Box (1), AlarmClock (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see KeyChain (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10), CreditCard (2), CD (1, 2, 3), AlarmClock (2). Drawer (1) is open. 
+Think: I find CD (1). Now, I need to pick it up.
+OK.
+Act: pick up CD (1)
+You pick up CD (1). You see KeyChain (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10), CreditCard (2), CD (1, 2, 3), AlarmClock (2). I am holding CD (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,142 @@
+Your task is to: Put a plate with knife in the left sink. 
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13).
+Think: To solve the task, I need to find and pick up the plate, then put it in the left sink basin. And I need to find and pick up the knife, then put it on the plate in the left sink basin.
+OK.
+Think: First, I need to recall location of the plate.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now I need to find the plate. The plate is more likely to appear on CounterTop (1), SinkBasin (1) or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1-5). I can check each place one by one, starting from CounterTop (1), until I find the plate.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), Sink (1), SinkBasin (1), Lettuce (1), Knife (1), Faucet (1), Drawer (2), CounterTop (1), Cabinet (2, 3, 7). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (1), Sink (1), SinkBasin (1), Potato (1), Lettuce (1), Knife (1), Faucet (1), Drawer (2), DishSponge (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (2). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Drawer (1), DishSponge (1), Cabinet (4). Fridge (1) is closed. 
+Think: I find Plate (1). Now, I need to pick it up.
+OK.
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Fridge (1), Drawer (1), DishSponge (1), Cabinet (4). I am holding DishSponge (1) now.
+Think: I hold DishSponge (1). Now, I need to put it in the left sink basin.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (1), Sink (1), SinkBasin (1), Potato (1), Lettuce (1), Knife (1), Faucet (1), Drawer (2), DishSponge (1, 2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (2).  I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put DishSponge (1) on SinkBasin (1). You see Window (1), Sink (1), SinkBasin (1), Potato (1), Lettuce (1), Knife (1), Faucet (1), Drawer (2), DishSponge (1, 2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (2).
+Think: I put DishSponge (1) in the left SinkBasin (1). Now, I need to recall location of the knife.
+OK.
+Act: recall location of Knife
+You saw Knife (1) near SinkBasin (1).
+Think: Knife (1) is in the SinkBasin (1). Now, I need to pick it up.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (1), Sink (1), SinkBasin (1), Potato (1), Lettuce (1), Knife (1), Faucet (1), Drawer (2), DishSponge (1, 2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (2). 
+Act: pick up Knife (1)
+You pick up Knife (1). You see Window (1), Sink (1), SinkBasin (1), Potato (1), Lettuce (1), Knife (1), Faucet (1), Drawer (2), DishSponge (1, 2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (2). I am holding Knife (1) now.
+Think: I hold Knife (1). Now, I need to recall location of the plate.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now I need to find the plate. The plate is more likely to appear on CounterTop (1), SinkBasin (1) or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1-5). I can check each place one by one, starting from CounterTop (1), until I find the plate.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), Sink (1), SinkBasin (1), Lettuce (1), Knife (1), Faucet (1), Drawer (2), DishSponge (1), CounterTop (1), Cabinet (2, 3, 7).  I am holding Knife (1) now.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (1), Sink (1), SinkBasin (1), Potato (1), Lettuce (1), Knife (1), Faucet (1), Drawer (2), DishSponge (1, 2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (2).  I am holding Knife (1) now.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Knife (1), Fridge (1), Drawer (1), Cabinet (4). Fridge (1) is closed.  I am holding Knife (1) now.
+Think: I find Plate (1). Now, I need to put Knife (1) on it.
+OK.
+Act: go to Knife (1)
+You already arrive at Knife (1). You see Knife (1, 1), Fridge (1, 1), Drawer (1, 1), Cabinet (4, 4).  I am holding Knife (1) now.
+Act: put down Knife (1)
+You put down failed, drop it. You see Fridge (1), Drawer (1), Cabinet (4).
+Think: Now I need to pick up Plate (1).
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now I need to find the plate. The plate is more likely to appear on CounterTop (1), SinkBasin (1) or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1-5). I can check each place one by one, starting from CounterTop (1), until I find the plate.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), Sink (1), SinkBasin (1), Lettuce (1), Faucet (1), Drawer (2), DishSponge (1), CounterTop (1), Cabinet (2, 3, 7). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (1), Sink (1), SinkBasin (1), Potato (1), Lettuce (1), Faucet (1), Drawer (2), DishSponge (1, 2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (2). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Drawer (1), Cabinet (4). Fridge (1) is closed. 
+Think: I find Plate (1). Now, I need to pick it up.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now I need to find the plate. The plate is more likely to appear on CounterTop (1), SinkBasin (1) or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1-5). I can check each place one by one, starting from CounterTop (1), until I find the plate.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), Sink (1), SinkBasin (1), Lettuce (1), Faucet (1), Drawer (2), DishSponge (1), CounterTop (1), Cabinet (2, 3, 7). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (1), Sink (1), SinkBasin (1), Potato (1), Lettuce (1), Faucet (1), Drawer (2), DishSponge (1, 2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (2). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Drawer (1), Cabinet (4). Fridge (1) is closed. 
+Think: I find Plate (1). Now, I need to pick it up.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now I need to find the plate. The plate is more likely to appear on CounterTop (1), SinkBasin (1) or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1-5). I can check each place one by one, starting from CounterTop (1), until I find the plate.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), Sink (1), SinkBasin (1), Lettuce (1), Faucet (1), Drawer (2), DishSponge (1), CounterTop (1), Cabinet (2, 3, 7). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (1), Sink (1), SinkBasin (1), Potato (1), Lettuce (1), Faucet (1), Drawer (2), DishSponge (1, 2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (2). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Drawer (1), Cabinet (4). Fridge (1) is closed. 
+Think: I find Plate (1). Now, I need to pick it up.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now I need to find the plate. The plate is more likely to appear on CounterTop (1), SinkBasin (1) or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1-5). I can check each place one by one, starting from CounterTop (1), until I find the plate.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), Sink (1), SinkBasin (1), Lettuce (1), Faucet (1), Drawer (2), DishSponge (1), CounterTop (1), Cabinet (2, 3, 7). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (1), Sink (1), SinkBasin (1), Potato (1), Lettuce (1), Faucet (1), Drawer (2), DishSponge (1, 2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (2). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Drawer (1), Cabinet (4). Fridge (1) is closed. 
+Think: I find Plate (1). Now, I need to pick it up.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now I need to find the plate. The plate is more likely to appear on CounterTop (1), SinkBasin (1) or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1-5). I can check each place one by one, starting from CounterTop (1), until I find the plate.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), Sink (1), SinkBasin (1), Lettuce (1), Faucet (1), Drawer (2), DishSponge (1), CounterTop (1), Cabinet (2, 3, 7). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (1), Sink (1), SinkBasin (1), Potato (1), Lettuce (1), Faucet (1), Drawer (2), DishSponge (1, 2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (2). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Drawer (1), Cabinet (4). Fridge (1) is closed. 
+Think: I find Plate (1). Now, I need to pick it up.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now I need to find the plate. The plate is more likely to appear on CounterTop (1), SinkBasin (1) or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1-5). I can check each place one by one, starting from CounterTop (1), until I find the plate.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), Sink (1), SinkBasin (1), Lettuce (1), Faucet (1), Drawer (2), DishSponge (1), CounterTop (1), Cabinet (2, 3, 7). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (1), Sink (1), SinkBasin (1), Potato (1), Lettuce (1), Faucet (1), Drawer (2), DishSponge (1, 2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (2). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Drawer (1), Cabinet (4). Fridge (1) is closed. 
+Think: I find Plate (1). Now, I need to pick it up.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now I need to find the plate. The plate is more likely to appear on CounterTop (1), SinkBasin (1) or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1-5). I can check each place one by one, starting from CounterTop (1), until I find the plate.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), Sink (1), SinkBasin (1), Lettuce (1), Faucet (1), Drawer (2), DishSponge (1), CounterTop (1), Cabinet (2, 3, 7). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (1), Sink (1), SinkBasin (1), Potato (1), Lettuce (1), Faucet (1), Drawer (2), DishSponge (1, 2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (2). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Drawer (1), Cabinet (4). Fridge (1) is closed. 
+Think: I find Plate (1). Now, I need to pick it up.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.

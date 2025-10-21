@@ -1,0 +1,31 @@
+Your task is to: Turn a lamp on while holding a statue under it.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2, 3, 4, 5), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21), Cabinet (1), ArmChair (1).
+Think: To solve the task, I need to find and pick up the statue, then put it under the lamp. And I need to find and turn on the lamp.
+OK.
+Think: First, I need to recall location of the statue.
+OK.
+Act: recall location of Statue
+You have not seen Statue before.
+Think: Now I need to find the statue. The statue is more likely to appear on SideTable (1-5), or in Drawer (1-21), Cabinet (1). I can check each place one by one, starting from SideTable (1), until I find the statue.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), GarbageCan (1), Drawer (3, 5, 19), DeskLamp (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Statue (3), SideTable (2), Painting (2), Drawer (15). 
+Think: I find Statue (3). Now, I need to pick it up.
+OK.
+Act: pick up Statue (3)
+You pick up Statue (3). You see Statue (3), SideTable (2), Painting (2), Drawer (15). I am holding Statue (3) now.
+Think: I hold Statue (3). Now, I need to recall location of the lamp.
+OK.
+Act: recall location of DeskLamp
+You saw DeskLamp (1) near SideTable (1).
+Think: I can find DeskLamp (1) near SideTable (1). Now, I need to go to SideTable (1) and turn on DeskLamp (1).
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Statue (3), SideTable (1), GarbageCan (1), Drawer (5), DeskLamp (1).  I am holding Statue (3) now.
+Act: turn on DeskLamp (1)
+The DeskLamp (1) already turn on. I am holding Statue (3) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

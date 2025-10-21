@@ -1,0 +1,19 @@
+Your primary goal is to: drop two pens on the table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pen, place pen on table, Find and pick up pen away from table, and place pen on table.
+Your task is to: Find and pick up pen away from table
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see GarbageCan (1), Dresser (1, 2), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13), Desk (1, 2), Cabinet (1), Bed (1, 2), ArmChair (1).
+Think: First, I need to recall location of the pen.
+OK.
+Act: recall location of Pen
+You saw Pen (1) near Desk (1). You saw Pen (3) near Desk (1). You saw Pen (4) near Desk (1).
+Think: I can find Pen (1) near Desk (1). I can find Pen (3) near Desk (1). I can find Pen (4) near Desk (1).
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1, 3, 4), KeyChain (3), Drawer (7, 10), Desk (1), Chair (2), Cabinet (1), Book (1), AlarmClock (2). 
+Think: I find Pen (1). Now, I need to pick it up.
+OK.
+Act: pick up Pen (1)
+You pick up Pen (1). You see Pen (1, 3, 4), KeyChain (3), Drawer (7, 10), Desk (1), Chair (2), Cabinet (1), Book (1), AlarmClock (2). I am holding Pen (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

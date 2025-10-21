@@ -1,0 +1,23 @@
+Your primary goal is to: Put a chilled plate on the white table with shelves.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up plate, cool and pick up plate, and place plate on white table.
+Your task is to: cool and pick up plate
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20). I am holding Plate (1) now.
+Think: I hold Plate (1). Now, I need to cool it using the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Plate (1), Fridge (1). Fridge (1) is closed.  I am holding Plate (1) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Plate (1), Glassbottle (1, 2), Fridge (1), Cabinet (8), Bowl (3). I am holding Plate (1) now.
+Act: put down Plate (1)
+You put Plate (1) on Fridge (1). You see Plate (1), Glassbottle (1, 2), Fridge (1), Cabinet (8), Bowl (3).
+Act: close Fridge (1)
+You close Fridge (1). You see Fridge (1).
+Think: I cool Plate (1) using Fridge (1). Now, I need to pick up the plate from the fridge.
+OK.
+Act: open Fridge (1)
+You open Fridge (1). You see Plate (1), Glassbottle (1, 2), Fridge (1), Cabinet (8), Bowl (3).
+Act: pick up Plate (1)
+You pick up Plate (1). You see Plate (1), Glassbottle (1, 2), Fridge (1), Cabinet (8), Bowl (3). I am holding Plate (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

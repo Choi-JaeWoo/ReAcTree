@@ -1,0 +1,21 @@
+Your primary goal is to: TO move two empty rolls to the right cabinet under the sink.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up roll, place roll in cabinet, find and pick up roll away from cabinet, and place roll in cabinet.
+Your task is to: find and pick up roll
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1, 2), HandTowelHolder (1), GarbageCan (1), CounterTop (1), Cabinet (1, 2, 3, 4).
+Think: First, I need to recall location of the roll.
+OK.
+Act: recall location of ToiletPaper
+You have not seen ToiletPaper before.
+Think: Now, I need to find the roll. The roll is more likely to appear on CounterTop (1), SinkBasin (1-2), or in Cabinet (1-4). I can check each place one by one, starting from CounterTop (1), until I find the roll.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Sink (1, 2), SinkBasin (1, 2), Mirror (1), FloorLamp (1, 2), CounterTop (1), Candle (2), Cabinet (1, 2, 3). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see ToiletPaper (3), SprayBottle (1), Sink (1), SinkBasin (1), Mirror (1), FloorLamp (1), CounterTop (1), Candle (2), Cabinet (1, 2, 4). 
+Think: I find ToiletPaper (3). Now, I need to pick it up.
+OK.
+Act: pick up ToiletPaper (3)
+You pick up ToiletPaper (3). You see ToiletPaper (3), SprayBottle (1), Sink (1), SinkBasin (1), Mirror (1), FloorLamp (1), CounterTop (1), Candle (2), Cabinet (1, 2, 4). I am holding ToiletPaper (3) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

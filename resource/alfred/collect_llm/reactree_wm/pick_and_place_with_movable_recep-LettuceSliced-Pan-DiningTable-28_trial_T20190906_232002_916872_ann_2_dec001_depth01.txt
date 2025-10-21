@@ -1,0 +1,7 @@
+Your task is to: Place a pan with a piece of sliced lettuce plus a metal knife in it on a round black table.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11).
+Think: Since I’m not holding anything, I need to accomplish 5 subgoals sequentially to solve the task. Find and pick up pan, place pan on table, find and pick up knife, slice and pick up lettuce, and place lettuce on pan near table.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up pan, place pan on table, find and pick up knife, slice and pick up lettuce, place lettuce on pan near table

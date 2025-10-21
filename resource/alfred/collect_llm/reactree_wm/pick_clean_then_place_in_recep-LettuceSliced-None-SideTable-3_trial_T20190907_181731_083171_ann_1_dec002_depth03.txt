@@ -1,0 +1,19 @@
+Your primary goal is to: cut the lettuce into pieces and put it on the table by the microwave
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up lettuce, slice and pick up lettuce, and place lettuce on table.
+Your task is to: find and pick up lettuce
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: First, I need to recall location of the lettuce.
+OK.
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Think: I have not seen Lettuce before. I need to search for it.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (3), Pot (1), Plate (2), Knife (3), CounterTop (1), Bread (1). 
+Think: I find Lettuce (1). Now, I need to pick it up.
+OK.
+Act: pick up Pot (1)
+You pick up Pot (1). You see WineBottle (3), Pot (1), Plate (2), Knife (3), Bread (1). I am holding Pot (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

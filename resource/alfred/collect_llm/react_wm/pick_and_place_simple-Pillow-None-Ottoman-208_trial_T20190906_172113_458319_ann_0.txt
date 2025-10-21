@@ -1,0 +1,25 @@
+Your task is to: put a cushion on an ottoman
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8), Ottoman (1), GarbageCan (1), Drawer (1), DiningTable (1), ArmChair (1).
+Think: To solve the task, I need to find and pick up the cushion, then put it on the ottoman.
+OK.
+Think: First, I need to recall location of the cushion.
+OK.
+Act: recall location of Pillow
+You have not seen Pillow before.
+Think: Now I need to find the cushion. The cushion is more likely to appear on Sofa (1), Ottoman (1), SideTable (1), Shelf (1-8), or in Drawer (1). I can check each place one by one, starting from Sofa (1), until I find the cushion.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1, 2). 
+Think: I find Pillow (1). Now, I need to pick it up.
+OK.
+Act: pick up Pillow (1)
+You pick up Pillow (1). You see Sofa (1), Pillow (1, 2). I am holding Pillow (1) now.
+Think: I hold Pillow (1). Now, I need to put it on the ottoman.
+OK.
+Act: go to Ottoman (1)
+You arrive at Ottoman (1). You see Pillow (1), Ottoman (1), CreditCard (1), ArmChair (1).  I am holding Pillow (1) now.
+Act: put down Pillow (1)
+You put Pillow (1) on Ottoman (1). You see RemoteControl (2), Pillow (1), Ottoman (1), CreditCard (1), ArmChair (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

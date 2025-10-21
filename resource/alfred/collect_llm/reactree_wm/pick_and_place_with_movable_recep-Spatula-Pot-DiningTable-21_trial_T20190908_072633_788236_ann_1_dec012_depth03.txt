@@ -1,0 +1,13 @@
+Your primary goal is to: Put a pot with a spatula in it on the table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pot, place pot on table, find and pick up spatula, and place spatula on pot near table.
+Your task is to: place pot on table
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1, 2, 3), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4). I am holding Spatula (4) now.
+Think: I hold Spatula (4). Now, I need to put it on the table. I can see DiningTable (1).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spatula (1, 4), Plate (2), Mug (1), Egg (1), DishSponge (1), DiningTable (1), ButterKnife (2).  I am holding Spatula (4) now.
+Act: put down Spatula (4)
+You put Spatula (4) on DiningTable (1). You see Spatula (1, 4), Plate (2), Mug (1), Egg (1), DishSponge (1), DiningTable (1), ButterKnife (2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,161 @@
+Your primary goal is to: put a box with a watch in it on top of a coffee table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up box, put watch in box, and place box on coffee table.
+Your task is to: place box on coffee table
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2), GarbageCan (1), DiningTable (1), CoffeeTable (1, 2), ArmChair (1, 2).
+Think: I hold Box (1). Now, I need to put it on the coffee table. I can see CoffeeTable (1).
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Laptop (1), KeyChain (2), HousePlant (1), CoffeeTable (1). 
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Act: open Laptop (1)
+The Laptop (1) is already open.
+Max decisions

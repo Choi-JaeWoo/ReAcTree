@@ -1,0 +1,37 @@
+Your primary goal is to: heat the cup from the cabinet in the microwave, put the cup under the coffee machine
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up cup, heat and pick up cup, and place cup on coffee machine.
+Your task is to: find and pick up cup
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10).
+Think: First, I need to recall location of the cup.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now, I need to find the cup. The cup is more likely to appear on CoffeeMachine (1), DiningTable (1), CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-10), Drawer (1-6). I can check each place one by one, starting from CoffeeMachine (1), until I find the cup.
+OK.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see Tomato (2), Toaster (1), StoveBurner (1, 2, 4), Spoon (2), Spatula (2), Pot (1, 2), PepperShaker (1), Pan (1), Drawer (1, 4), CounterTop (1), CoffeeMachine (1), Cabinet (4). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spatula (3), SoapBottle (1), Potato (1), Lettuce (1, 2, 3), Knife (1), Fork (2), Egg (2, 3), DiningTable (1), Chair (1), ButterKnife (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Tomato (2), Toaster (1), Spoon (2), Spatula (2), PepperShaker (1), GarbageCan (1), Drawer (1, 4), CounterTop (1), CoffeeMachine (1), Cabinet (2, 4), Bread (3). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see SoapBottle (3), Microwave (1), Drawer (2, 5, 6), CounterTop (2), Cabinet (3, 7, 8, 10). 
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see StoveKnob (2), StoveBurner (2, 3), Pot (1), PepperShaker (2), Mug (1), Drawer (3), CounterTop (3), Cabinet (9), Bread (2). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (1), Spoon (1), SoapBottle (2, 3), Sink (1), SinkBasin (1), Faucet (1), Drawer (2), CounterTop (2), Cabinet (1, 3, 6), ButterKnife (2), Apple (2). 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: pick up SoapBottle (3)
+You pick up SoapBottle (3). You see Window (1), Spoon (1), SoapBottle (2, 3), Sink (1), SinkBasin (1), Faucet (1), Drawer (2), CounterTop (2), Cabinet (1, 3, 6), ButterKnife (2), Apple (2). I am holding SoapBottle (3) now.
+Act: pick up SoapBottle (2)
+You are currently holding SoapBottle (3). I am holding SoapBottle (3) now.
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see StoveKnob (2), StoveBurner (2, 3), SoapBottle (3), Pot (1), PepperShaker (2), Drawer (3), CounterTop (3), Cabinet (9), Bread (2).  I am holding SoapBottle (3) now.
+Act: put down SoapBottle (3)
+You put SoapBottle (3) on CounterTop (3). You see StoveKnob (2), StoveBurner (2, 3), SoapBottle (3), Pot (1), PepperShaker (2), Mug (1), Drawer (3), CounterTop (3), Cabinet (9), Bread (2).
+Act: pick up Mug (1)
+You pick up Mug (1). You see StoveKnob (2), StoveBurner (2, 3), SoapBottle (3), Pot (1), PepperShaker (2), Mug (1), Drawer (3), CounterTop (3), Cabinet (9), Bread (2). I am holding Mug (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

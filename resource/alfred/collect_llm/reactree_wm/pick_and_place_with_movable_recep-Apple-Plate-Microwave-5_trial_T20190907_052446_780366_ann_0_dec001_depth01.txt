@@ -1,0 +1,7 @@
+Your task is to: To place an apple on a plate in the microwave. 
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20).
+Think: Since I’m not holding apple, I need to accomplish 3 subgoals sequentially to solve the task. Find and pick up apple, place apple on plate, and place plate in microwave.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up apple, place apple on plate, place plate in microwave

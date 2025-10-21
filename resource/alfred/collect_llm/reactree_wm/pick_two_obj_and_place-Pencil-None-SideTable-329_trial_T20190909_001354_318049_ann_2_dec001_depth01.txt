@@ -1,0 +1,7 @@
+Your task is to: Move two pencils from the desk to the nightstand. 
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1, 2), GarbageCan (1), Drawer (1, 2, 3, 4), DiningTable (1), Bed (1).
+Think: Since I’m not holding anything, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up pencil, place pencil on nightstand, find and pick up pencil away from nightstand, and place pencil on nightstand.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up pencil, place pencil on nightstand, find and pick up pencil away from nightstand, place pencil on nightstand

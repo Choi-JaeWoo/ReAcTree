@@ -1,0 +1,15 @@
+Your primary goal is to: grab the blue pen on the floor, turn on the lamp on the table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pen, place pen on table, and turn on lamp.
+Your task is to: turn on lamp
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1), GarbageCan (1), Drawer (1, 2), Desk (1), Bed (1).
+Think: First, I need to recall location of the lamp.
+OK.
+Act: recall location of DeskLamp
+You have not seen DeskLamp before.
+Think: Now I need to find the lamp. The lamp is more likely to appear near Desk (1), Shelf (1), Bed (1). I can check each place one by one, starting from Desk (1), until I find the lamp.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see KeyChain (1), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1, 2). 
+Think: I cannot find the lamp.
+OK.
+Act: failure

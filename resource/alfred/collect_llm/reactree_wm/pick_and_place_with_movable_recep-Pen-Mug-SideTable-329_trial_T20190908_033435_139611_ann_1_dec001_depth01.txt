@@ -1,0 +1,7 @@
+Your task is to: Move a pen in a mug to the night stand
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1, 2), GarbageCan (1), Drawer (1, 2, 3, 4), DiningTable (1), Bed (1).
+Think: Since I’m not holding pen, I need to accomplish 2 subgoals sequentially to solve the task. Find and pick up pen and place pen on night stand.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up pen, place pen on night stand

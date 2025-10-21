@@ -1,0 +1,7 @@
+Your task is to: Place the newspapers in the trash.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), DiningTable (1), CoffeeTable (1).
+Think: Since I’m not holding newspapers, I need to accomplish 2 subgoals sequentially to solve the task. Find and pick up newspapers and place newspapers in trash.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up newspapers, place newspapers in trash

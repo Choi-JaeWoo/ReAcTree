@@ -1,0 +1,93 @@
+Your primary goal is to: place a microwaved cup inside the cupboard to the top left of the microwave
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up cup, heat and pick up cup, and place cup in cupboard.
+Your task is to: heat and pick up cup
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10). I am holding Plate (1) now.
+Think: I hold Plate (1). Now, I need to heat it using the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Spatula (1), Sink (1), Plate (1), Microwave (1), Drawer (2). Microwave (1) is closed.  I am holding Plate (1) now.
+Act: open Microwave (1)
+You open Microwave (1). You see Spatula (1), Sink (1), Potato (3), Plate (1), Microwave (1), Drawer (2), Cup (3), Apple (2). I am holding Plate (1) now.
+Act: put down Plate (1)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), Potato (3), Microwave (1), Drawer (2), Cup (3), CounterTop (1), Cabinet (6), Apple (2).
+Act: pick up Cup (3)
+You pick up Cup (3). You see Spatula (1), Sink (1), SinkBasin (1), Potato (3), Microwave (1), Drawer (2), Cup (3), CounterTop (1), Cabinet (6), Apple (2). I am holding Cup (3) now.
+Act: put down Cup (3)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), Potato (3), Microwave (1), Drawer (2), Cup (3), CounterTop (1), Cabinet (6), Apple (2).
+Act: pick up Apple (2)
+You pick up Apple (2). You see Spatula (1), Sink (1), SinkBasin (1), Potato (3), Microwave (1), Drawer (2), Cup (3), CounterTop (1), Cabinet (6), Apple (2). I am holding Apple (2) now.
+Act: put down Apple (2)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), Potato (3), Microwave (1), Drawer (2), Cup (3), CounterTop (1), Cabinet (6), Apple (2).
+Act: pick up Potato (3)
+You pick up Potato (3). You see Spatula (1), Sink (1), SinkBasin (1), Potato (3), Microwave (1), Drawer (2), Cup (3), CounterTop (1), Cabinet (6), Apple (2). I am holding Potato (3) now.
+Act: put down Potato (3)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), Microwave (1), Drawer (2), Cup (3), CounterTop (1), Cabinet (6), Apple (2).
+Act: pick up Cup (3)
+You pick up Cup (3). You see Spatula (1), Sink (1), SinkBasin (1), Microwave (1), Drawer (2), Cup (3), CounterTop (1), Cabinet (6), Apple (2). I am holding Cup (3) now.
+Act: put down Cup (3)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), Microwave (1), Drawer (2), Cup (3), CounterTop (1), Cabinet (6).
+Act: pick up Cup (3)
+You pick up Cup (3). You see Spatula (1), Sink (1), SinkBasin (1), Microwave (1), Drawer (2), Cup (3), CounterTop (1), Cabinet (6). I am holding Cup (3) now.
+Act: put down Cup (3)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), Microwave (1), Drawer (2), Cup (3), CounterTop (1), Cabinet (6).
+Act: pick up Cup (3)
+You pick up Cup (3). You see Spatula (1), Sink (1), SinkBasin (1), Microwave (1), Drawer (2), Cup (3), CounterTop (1), Cabinet (6). I am holding Cup (3) now.
+Act: put down Cup (3)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), Microwave (1), Drawer (2), Cup (3), CounterTop (1), Cabinet (6).
+Act: pick up Cup (3)
+You pick up Cup (3). You see Spatula (1), Sink (1), SinkBasin (1), Microwave (1), Drawer (2), Cup (3), CounterTop (1), Cabinet (6). I am holding Cup (3) now.
+Act: put down Cup (3)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), Microwave (1), Drawer (2), Cup (3), CounterTop (1), Cabinet (6).
+Act: pick up Cup (3)
+You pick up Cup (3). You see Spatula (1), Sink (1), SinkBasin (1), Microwave (1), Drawer (2), Cup (3), CounterTop (1), Cabinet (6). I am holding Cup (3) now.
+Act: put down Cup (3)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), Microwave (1), Drawer (2), Cup (3), CounterTop (1), Cabinet (6).
+Act: pick up Cup (3)
+You pick up Cup (3). You see Spatula (1), Sink (1), SinkBasin (1), Microwave (1), Drawer (2), Cup (3), CounterTop (1), Cabinet (6). I am holding Cup (3) now.
+Act: put down Cup (3)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), Microwave (1), Drawer (2), Cup (3), CounterTop (1), Cabinet (6).
+Act: pick up Cup (3)
+You pick up Cup (3). You see Spatula (1), Sink (1), SinkBasin (1), Microwave (1), Drawer (2), Cup (3), CounterTop (1), Cabinet (6). I am holding Cup (3) now.
+Act: put down Cup (3)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), Microwave (1), Drawer (2), Cup (3), CounterTop (1), Cabinet (6).
+Act: pick up Cup (3)
+You pick up Cup (3). You see Spatula (1), Sink (1), SinkBasin (1), Microwave (1), Drawer (2), Cup (3), CounterTop (1), Cabinet (6). I am holding Cup (3) now.
+Act: put down Cup (3)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), Microwave (1), Drawer (2), Cup (3), CounterTop (1), Cabinet (6).
+Act: pick up Cup (3)
+You pick up Cup (3). You see Spatula (1), Sink (1), SinkBasin (1), Microwave (1), Drawer (2), Cup (3), CounterTop (1), Cabinet (6). I am holding Cup (3) now.
+Act: put down Cup (3)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), Microwave (1), Drawer (2), Cup (3), CounterTop (1), Cabinet (6).
+Act: pick up Cup (3)
+You pick up Cup (3). You see Spatula (1), Sink (1), SinkBasin (1), Microwave (1), Drawer (2), Cup (3), CounterTop (1), Cabinet (6). I am holding Cup (3) now.
+Act: put down Cup (3)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), Microwave (1), Drawer (2), Cup (3), CounterTop (1), Cabinet (6).
+Act: pick up Cup (3)
+You pick up Cup (3). You see Spatula (1), Sink (1), SinkBasin (1), Microwave (1), Drawer (2), Cup (3), CounterTop (1), Cabinet (6). I am holding Cup (3) now.
+Act: put down Cup (3)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), Microwave (1), Drawer (2), CounterTop (1), Cabinet (6).
+Act: pick up Spatula (1)
+You pick up Spatula (1). You see Spatula (1), Sink (1), SinkBasin (1), Microwave (1), Drawer (2), CounterTop (1), Cabinet (6). I am holding Spatula (1) now.
+Act: put down Spatula (1)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), Microwave (1), Drawer (2), CounterTop (1), Cabinet (6).
+Act: go to Sink (1)
+You see Sink (1), SinkBasin (1), Mug (1, 2), Microwave (1), Faucet (1), Drawer (1), Cup (4), CounterTop (1), Cabinet (1, 4, 7). 
+Think: I find Cup (4). Now, I need to pick it up.
+OK.
+Act: pick up Cup (4)
+You pick up Cup (4). You see Sink (1), SinkBasin (1), Mug (2), Microwave (1), Faucet (1), Drawer (1), Cup (4), CounterTop (1), Cabinet (1, 4). I am holding Cup (4) now.
+Act: close Microwave (1)
+You close Microwave (1). You see Sink (1), SinkBasin (1), Mug (2), Microwave (1), Faucet (1), Drawer (1), Cup (4), CounterTop (1), Cabinet (1, 4). I am holding Cup (4) now.
+Act: turn on Microwave (1)
+You turn on Microwave (1). You see Sink (1), SinkBasin (1), Mug (2), Microwave (1), Faucet (1), Drawer (1), Cup (4), CounterTop (1), Cabinet (1, 4). I am holding Cup (4) now.
+Act: turn off Microwave (1)
+You turn off Microwave (1). You see Sink (1), SinkBasin (1), Mug (2), Microwave (1), Faucet (1), Drawer (1), Cup (4), CounterTop (1), Cabinet (1, 4). I am holding Cup (4) now.
+Think: I heat Cup (4) using Microwave (1). Now, I need to pick up the cup from the microwave.
+OK.
+Act: open Microwave (1)
+You open Microwave (1). You see Sink (1), SinkBasin (1), Mug (2), Microwave (1), Faucet (1), Drawer (1), Cup (4), CounterTop (1), Cabinet (1, 4). I am holding Cup (4) now.
+Act: pick up Cup (4)
+You are currently holding Cup (4). I am holding Cup (4) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

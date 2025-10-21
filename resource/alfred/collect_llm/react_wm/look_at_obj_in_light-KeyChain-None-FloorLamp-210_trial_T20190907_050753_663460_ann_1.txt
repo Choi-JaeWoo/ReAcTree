@@ -1,0 +1,33 @@
+Your task is to: To look at the keys in the light.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), Ottoman (1), GarbageCan (1), Dresser (1, 2), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CoffeeTable (1, 2), ArmChair (1).
+Think: To solve the task, I need to find and pick up the keys. And I need to find and turn on the lamp.
+OK.
+Think: First, I need to recall location of the keys.
+OK.
+Act: recall location of KeyChain
+You have not seen KeyChain before.
+Think: Now I need to find the key chain. The key chain is more likely to appear on Sofa (1), Ottoman (1), CoffeeTable (1-2), ArmChair (1), or in Dresser (1-2), Drawer (1-8). I can check each place one by one, starting from Sofa (1), until I find the key chain.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1), Laptop (2), KeyChain (1, 2), Box (2). 
+Think: I find KeyChain (1). Now, I need to pick it up.
+OK.
+Act: pick up KeyChain (1)
+You pick up KeyChain (1). You see Sofa (1), Pillow (1), Laptop (2), KeyChain (1, 2), Box (2). I am holding KeyChain (1) now.
+Think: I hold KeyChain (1). Now, I need to recall location of the lamp.
+OK.
+Act: recall location of FloorLamp
+You have not seen FloorLamp before.
+Think: Now I need to find the lamp. The lamp is more likely to appear on Ottoman (1), CoffeeTable (1-2), ArmChair (1), or in Dresser (1-2), Drawer (1-8). I can check each place one by one, starting from Ottoman (1), until I find the lamp.
+OK.
+Act: go to Ottoman (1)
+You arrive at Ottoman (1). You see Ottoman (1), Newspaper (1), KeyChain (1).  I am holding KeyChain (1) now.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see KeyChain (1, 3), DeskLamp (1), CoffeeTable (1), Chair (1).  I am holding KeyChain (1) now.
+Think: I find DeskLamp (1). Now, I need to turn it on.
+OK.
+Act: turn on DeskLamp (1)
+The DeskLamp (1) already turn on. I am holding KeyChain (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,19 @@
+Your primary goal is to: place two bars of soap inside the bathroom sink on the left
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up soap, place soap in sink basin, and find and pick up soap.
+Your task is to: find and pick up soap
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1, 2), HandTowelHolder (1, 2), GarbageCan (1), Drawer (1, 2), CounterTop (1).
+Think: First, I need to recall location of the soap.
+OK.
+Act: recall location of SoapBar
+You have not seen SoapBar before.
+Think: Now, I need to find the soap. The soap is more likely to appear on CounterTop (1), SinkBasin (1-2), or in Drawer (1-2). I can check each place one by one, starting from CounterTop (1), until I find the soap.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see ToiletPaper (1), SprayBottle (1, 2), SoapBottle (2), SoapBar (3, 4), Sink (1, 2), SinkBasin (1, 2), Mirror (1), Faucet (2, 3), Drawer (1, 2), CounterTop (1), Candle (1). 
+Think: I find SoapBar (3). Now, I need to pick it up.
+OK.
+Act: pick up SoapBar (3)
+You pick up SoapBar (3). You see ToiletPaper (1), SprayBottle (1, 2), SoapBottle (2), SoapBar (3, 4), Sink (1, 2), SinkBasin (1, 2), Mirror (1), Faucet (2, 3), Drawer (1, 2), CounterTop (1), Candle (1). I am holding SoapBar (3) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

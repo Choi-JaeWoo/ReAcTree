@@ -1,0 +1,49 @@
+Your primary goal is to: Move the pen on the table to the bowl on top shelf, put the bowl back on the table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pen, place pen in bowl, and place bowl on table.
+Your task is to: place pen in bowl
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1, 2, 3, 4, 5), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), Desk (1), Bed (1). I am holding Pen (1) now.
+Think: I hold Pen (1). Now, I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: Now, I need to find the bowl. The bowl is more likely to appear on Desk (1), Dresser (1), or in Drawer (1-8), Shelf (1-5). I can check each place one by one, starting from Desk (1), until I find the bowl.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Window (1, 2), Shelf (4), Pencil (1), Pen (1, 2, 3), Laptop (1), Desk (1), Chair (1).  I am holding Pen (1) now.
+Act: go to Dresser (1)
+You arrive at Dresser (1). You see Window (3), Pen (1), KeyChain (1), Dresser (1), Drawer (6, 7), DeskLamp (1), CellPhone (1), Bed (1).  I am holding Pen (1) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Shelf (4), Pencil (1), Pen (1, 2, 3), Drawer (1, 2, 3, 4, 5, 8), Desk (1), Chair (1), Boots (1). Drawer (1) is closed.  I am holding Pen (1) now.
+Act: open Drawer (1)
+You open Drawer (1). You see Shelf (4), Pencil (1), Pen (1, 2, 3), Drawer (1, 2, 3, 4, 5, 8), Desk (1), Chair (1), CD (1), Boots (1), BasketBall (1). I am holding Pen (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Shelf (4), Pen (1, 2, 3), Drawer (1, 2, 3, 4, 5, 8), Desk (1), Chair (1), CD (1), Boots (1), BasketBall (1). Drawer (2) is closed.  I am holding Pen (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Shelf (4), Pen (1, 2, 3), Drawer (1, 2, 3, 4, 5, 8), Desk (1), Chair (1), Boots (1), BasketBall (1). I am holding Pen (1) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Shelf (4), Pen (1, 2, 3), Drawer (1, 2, 3, 4, 5, 8), Desk (1), Chair (1), Boots (1), BasketBall (1). Drawer (3) is closed.  I am holding Pen (1) now.
+Act: open Drawer (3)
+You open Drawer (3). You see Shelf (4), Pen (1, 2, 3), Drawer (1, 2, 3, 4, 5, 8), Desk (1), Chair (1), Boots (1), BasketBall (1). I am holding Pen (1) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Shelf (2, 4), Pen (1), Drawer (1, 2, 3, 4, 5, 8), Boots (1), BasketBall (1). Drawer (4) is closed.  I am holding Pen (1) now.
+Act: open Drawer (4)
+You open Drawer (4). You see Shelf (2, 4), Pen (1), Drawer (1, 2, 3, 4, 8), Chair (1), Boots (1), BasketBall (1), AlarmClock (2). I am holding Pen (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Shelf (2, 3, 4), Pen (1, 3), Drawer (2, 4, 8), Desk (1), Boots (1). Drawer (5) is closed.  I am holding Pen (1) now.
+Act: open Drawer (5)
+The Drawer (5) is not close to you. I am holding Pen (1) now.
+Act: go to Drawer (8)
+You arrive at Drawer (8). You see Shelf (2, 3, 4), Pen (1), Drawer (2, 4, 8), Desk (1), Boots (1). Drawer (8) is closed.  I am holding Pen (1) now.
+Act: open Drawer (8)
+The Drawer (8) is open failed. I am holding Pen (1) now.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pen (1), DeskLamp (1), CellPhone (3), Bowl (1), AlarmClock (1).  I am holding Pen (1) now.
+Think: I find Bowl (1). Now, I need to put down Pen (1) in Bowl (1).
+OK.
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Shelf (1), Pen (1), DeskLamp (1), Bowl (1), AlarmClock (1).  I am holding Pen (1) now.
+Act: put down Pen (1)
+You put Pen (1) on Bowl (1). You see Shelf (1), Pen (1), DeskLamp (1), Bowl (1), AlarmClock (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

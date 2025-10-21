@@ -1,0 +1,13 @@
+Your primary goal is to: Place a slice of tomato on the small black table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, slice and pick up tomato, place tomato on small black table, find and pick up tomato away from small black table, and place tomato on small black table.
+Your task is to: place tomato on small black table
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11). I am holding Tomato (7) now.
+Think: I hold Tomato (7). Now, I need to put it on the small black table. I can see SideTable (1).
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Tomato (6, 7), SoapBottle (2, 3), SideTable (1), Potato (3), Egg (1), DiningTable (2), Bread (1, 2).  I am holding Tomato (7) now.
+Act: put down Tomato (7)
+You put Tomato (7) on SideTable (1). You see Tomato (6, 7), SoapBottle (2, 3), SideTable (1), Potato (3), Egg (1), DiningTable (2), Bread (1, 2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

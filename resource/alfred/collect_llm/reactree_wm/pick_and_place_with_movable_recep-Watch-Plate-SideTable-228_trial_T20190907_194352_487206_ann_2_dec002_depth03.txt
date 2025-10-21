@@ -1,0 +1,27 @@
+Your primary goal is to: place tray with watch on black table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up tray, place tray on black table, and place watch on tray.
+Your task is to: find and pick up tray
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1, 2), SideTable (1, 2), GarbageCan (1), Drawer (1), DiningTable (1), CoffeeTable (1).
+Think: First, I need to recall location of the tray.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now, I need to find the tray. The tray is more likely to appear on SideTable (1-2), CoffeeTable (1), or in Drawer (1). I can check each place one by one, starting from SideTable (1), until I find the tray.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Watch (2), SideTable (1, 2), Drawer (1), CreditCard (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Vase (3), Television (1), SideTable (2), Newspaper (1), KeyChain (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Statue (1), KeyChain (2, 3), CoffeeTable (1), Box (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Watch (2), SideTable (1, 2), Drawer (1), CreditCard (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Watch (2, 4), SideTable (1, 2), Drawer (1), CreditCard (1).
+Think: I find Plate (4). Now, I need to pick it up.
+OK.
+Act: pick up Watch (4)
+You pick up Watch (4). You see Watch (2, 4), SideTable (1, 2), Drawer (1), CreditCard (1). I am holding Watch (4) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

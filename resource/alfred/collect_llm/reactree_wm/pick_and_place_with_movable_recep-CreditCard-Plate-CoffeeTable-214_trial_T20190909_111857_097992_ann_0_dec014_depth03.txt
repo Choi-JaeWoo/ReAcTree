@@ -1,0 +1,177 @@
+Your primary goal is to: place white plate with newspaper on coffee table to the left of newspaper
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up white plate, place white plate on coffee table, and place newspaper on white plate.
+Your task is to: place newspaper on white plate
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1, 2), SideTable (1), Shelf (1, 2), GarbageCan (1), CoffeeTable (1), ArmChair (1).
+Think: I hold Newspaper (1). Now, I need to recall location of the white plate.
+OK.
+Act: recall location of Plate
+You saw Plate (1) near CoffeeTable (1).
+Think: I can find Plate (1) near CoffeeTable (1).
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (1, 3), HousePlant (1), CoffeeTable (1). 
+Think: I find Plate (1). Now, I need to put down Newspaper (1) on Plate (1).
+OK.
+Act: go to Plate (1)
+You arrive at Plate (1). You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (3), HousePlant (1), CoffeeTable (1). 
+Act: go to Newspaper (2)
+You see WateringCan (1, 2), Vase (2), Statue (2), Newspaper (2), KeyChain (1), HousePlant (1), CoffeeTable (1). 
+Act: go to KeyChain (1)
+You see WateringCan (1), Vase (2), Statue (2), Newspaper (2), KeyChain (1), HousePlant (1), CoffeeTable (1). 
+Act: go to HousePlant (1)
+You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (1, 3), HousePlant (1), CoffeeTable (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (1, 3), HousePlant (1), CoffeeTable (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (3), HousePlant (1), CoffeeTable (1). 
+Act: go to Newspaper (2)
+You see WateringCan (1, 2), Vase (2), Statue (2), Newspaper (2), KeyChain (1), HousePlant (1), CoffeeTable (1). 
+Act: go to KeyChain (1)
+You see WateringCan (1), Vase (2), Statue (2), Newspaper (2), KeyChain (1), HousePlant (1), CoffeeTable (1). 
+Act: go to HousePlant (1)
+You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (1, 3), HousePlant (1), CoffeeTable (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (1, 3), HousePlant (1), CoffeeTable (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (3), HousePlant (1), CoffeeTable (1). 
+Act: go to Newspaper (2)
+You see WateringCan (1, 2), Vase (2), Statue (2), Newspaper (2), KeyChain (1), HousePlant (1), CoffeeTable (1). 
+Act: go to KeyChain (1)
+You see WateringCan (1), Vase (2), Statue (2), Newspaper (2), KeyChain (1), HousePlant (1), CoffeeTable (1). 
+Act: go to HousePlant (1)
+You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (1, 3), HousePlant (1), CoffeeTable (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (1, 3), HousePlant (1), CoffeeTable (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (3), HousePlant (1), CoffeeTable (1). 
+Act: go to Newspaper (2)
+You see WateringCan (1, 2), Vase (2), Statue (2), Newspaper (2), KeyChain (1), HousePlant (1), CoffeeTable (1). 
+Act: go to KeyChain (1)
+You see WateringCan (1), Vase (2), Statue (2), Newspaper (2), KeyChain (1), HousePlant (1), CoffeeTable (1). 
+Act: go to HousePlant (1)
+You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (1, 3), HousePlant (1), CoffeeTable (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (1, 3), HousePlant (1), CoffeeTable (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (3), HousePlant (1), CoffeeTable (1). 
+Act: go to Newspaper (2)
+You see WateringCan (1, 2), Vase (2), Statue (2), Newspaper (2), KeyChain (1), HousePlant (1), CoffeeTable (1). 
+Act: go to KeyChain (1)
+You see WateringCan (1), Vase (2), Statue (2), Newspaper (2), KeyChain (1), HousePlant (1), CoffeeTable (1). 
+Act: go to HousePlant (1)
+You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (1, 3), HousePlant (1), CoffeeTable (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (1, 3), HousePlant (1), CoffeeTable (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (3), HousePlant (1), CoffeeTable (1). 
+Act: go to Newspaper (2)
+You see WateringCan (1, 2), Vase (2), Statue (2), Newspaper (2), KeyChain (1), HousePlant (1), CoffeeTable (1). 
+Act: go to KeyChain (1)
+You see WateringCan (1), Vase (2), Statue (2), Newspaper (2), KeyChain (1), HousePlant (1), CoffeeTable (1). 
+Act: go to HousePlant (1)
+You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (1, 3), HousePlant (1), CoffeeTable (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (1, 3), HousePlant (1), CoffeeTable (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (3), HousePlant (1), CoffeeTable (1). 
+Act: go to Newspaper (2)
+You see WateringCan (1, 2), Vase (2), Statue (2), Newspaper (2), KeyChain (1), HousePlant (1), CoffeeTable (1). 
+Act: go to KeyChain (1)
+You see WateringCan (1), Vase (2), Statue (2), Newspaper (2), KeyChain (1), HousePlant (1), CoffeeTable (1). 
+Act: go to HousePlant (1)
+You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (1, 3), HousePlant (1), CoffeeTable (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (1, 3), HousePlant (1), CoffeeTable (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (3), HousePlant (1), CoffeeTable (1). 
+Act: go to Newspaper (2)
+You see WateringCan (1, 2), Vase (2), Statue (2), Newspaper (2), KeyChain (1), HousePlant (1), CoffeeTable (1). 
+Act: go to KeyChain (1)
+You see WateringCan (1), Vase (2), Statue (2), Newspaper (2), KeyChain (1), HousePlant (1), CoffeeTable (1). 
+Act: go to HousePlant (1)
+You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (1, 3), HousePlant (1), CoffeeTable (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (1, 3), HousePlant (1), CoffeeTable (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (3), HousePlant (1), CoffeeTable (1). 
+Act: go to Newspaper (2)
+You see WateringCan (1, 2), Vase (2), Statue (2), Newspaper (2), KeyChain (1), HousePlant (1), CoffeeTable (1). 
+Act: go to KeyChain (1)
+You see WateringCan (1), Vase (2), Statue (2), Newspaper (2), KeyChain (1), HousePlant (1), CoffeeTable (1). 
+Act: go to HousePlant (1)
+You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (1, 3), HousePlant (1), CoffeeTable (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (1, 3), HousePlant (1), CoffeeTable (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (3), HousePlant (1), CoffeeTable (1). 
+Act: go to Newspaper (2)
+You see WateringCan (1, 2), Vase (2), Statue (2), Newspaper (2), KeyChain (1), HousePlant (1), CoffeeTable (1). 
+Act: go to KeyChain (1)
+You see WateringCan (1), Vase (2), Statue (2), Newspaper (2), KeyChain (1), HousePlant (1), CoffeeTable (1). 
+Act: go to HousePlant (1)
+You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (1, 3), HousePlant (1), CoffeeTable (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (1, 3), HousePlant (1), CoffeeTable (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (3), HousePlant (1), CoffeeTable (1). 
+Act: go to Newspaper (2)
+You see WateringCan (1, 2), Vase (2), Statue (2), Newspaper (2), KeyChain (1), HousePlant (1), CoffeeTable (1). 
+Act: go to KeyChain (1)
+You see WateringCan (1), Vase (2), Statue (2), Newspaper (2), KeyChain (1), HousePlant (1), CoffeeTable (1). 
+Act: go to HousePlant (1)
+You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (1, 3), HousePlant (1), CoffeeTable (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (1, 3), HousePlant (1), CoffeeTable (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (3), HousePlant (1), CoffeeTable (1). 
+Act: go to Newspaper (2)
+You see WateringCan (1, 2), Vase (2), Statue (2), Newspaper (2), KeyChain (1), HousePlant (1), CoffeeTable (1). 
+Act: go to KeyChain (1)
+You see WateringCan (1), Vase (2), Statue (2), Newspaper (2), KeyChain (1), HousePlant (1), CoffeeTable (1). 
+Act: go to HousePlant (1)
+You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (1, 3), HousePlant (1), CoffeeTable (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (1, 3), HousePlant (1), CoffeeTable (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (3), HousePlant (1), CoffeeTable (1). 
+Act: go to Newspaper (2)
+You see WateringCan (1, 2), Vase (2), Statue (2), Newspaper (2), KeyChain (1), HousePlant (1), CoffeeTable (1). 
+Act: go to KeyChain (1)
+You see WateringCan (1), Vase (2), Statue (2), Newspaper (2), KeyChain (1), HousePlant (1), CoffeeTable (1). 
+Act: go to HousePlant (1)
+You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (1, 3), HousePlant (1), CoffeeTable (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (1, 3), HousePlant (1), CoffeeTable (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (3), HousePlant (1), CoffeeTable (1). 
+Act: go to Newspaper (2)
+You see WateringCan (1, 2), Vase (2), Statue (2), Newspaper (2), KeyChain (1), HousePlant (1), CoffeeTable (1). 
+Act: go to KeyChain (1)
+You see WateringCan (1), Vase (2), Statue (2), Newspaper (2), KeyChain (1), HousePlant (1), CoffeeTable (1). 
+Act: go to HousePlant (1)
+You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (1, 3), HousePlant (1), CoffeeTable (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (1, 3), HousePlant (1), CoffeeTable (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (3), HousePlant (1), CoffeeTable (1). 
+Act: go to Newspaper (2)
+You see WateringCan (1, 2), Vase (2), Statue (2), Newspaper (2), KeyChain (1), HousePlant (1), CoffeeTable (1). 
+Act: go to KeyChain (1)
+You see WateringCan (1), Vase (2), Statue (2), Newspaper (2), KeyChain (1), HousePlant (1), CoffeeTable (1). 
+Act: go to HousePlant (1)
+You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (1, 3), HousePlant (1), CoffeeTable (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (1, 3), HousePlant (1), CoffeeTable (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (3), HousePlant (1), CoffeeTable (1). 
+Act: go to Newspaper (2)
+You see WateringCan (1, 2), Vase (2), Statue (2), Newspaper (2), KeyChain (1), HousePlant (1), CoffeeTable (1). 
+Act: go to KeyChain (1)
+You see WateringCan (1), Vase (2), Statue (2), Newspaper (2), KeyChain (1), HousePlant (1), CoffeeTable (1). 
+Act: go to HousePlant (1)
+You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (1, 3), HousePlant (1), CoffeeTable (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (1, 3), HousePlant (1), CoffeeTable (1). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see WateringCan (1, 2), Vase (2), Statue (2), Plate (1), Newspaper (2), KeyChain (3), HousePlant (1), CoffeeTable (1). 
+Max decisions

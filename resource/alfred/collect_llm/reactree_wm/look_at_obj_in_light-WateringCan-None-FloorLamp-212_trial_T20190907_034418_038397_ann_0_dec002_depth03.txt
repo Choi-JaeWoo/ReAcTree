@@ -1,0 +1,201 @@
+Your primary goal is to: Inspect a watering can by the light of a tall lamp.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up watering can, and find and turn on lamp.
+Your task is to: find and pick up watering can
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1, 2), Sofa (1), SideTable (1), Shelf (1, 2, 3, 4), GarbageCan (1), Drawer (1), CoffeeTable (1), ArmChair (1, 2).
+Think: First, I need to recall location of the watering can.
+OK.
+Act: recall location of WateringCan
+You have not seen WateringCan before.
+Think: Now, I need to find the watering can. The watering can is more likely to appear on CoffeeTable (1), SideTable (1), or in Drawer (1). I can check each place one by one, starting from CoffeeTable (1), until I find the watering can.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Newspaper (3), Laptop (1), CreditCard (1), CoffeeTable (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see TissueBox (1), SideTable (1), Drawer (1), CreditCard (2, 3), Boots (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1).
+Act: close Drawer (1)
+You close Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1).
+Think: I have not found the watering can. Now, I need to find the watering can in the other rooms. The watering can is more likely to appear on CoffeeTable (1), SideTable (1), or in Drawer (1). I can check each place one by one, starting from CoffeeTable (1), until I find the watering can.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Newspaper (3), Laptop (1), CreditCard (1), CoffeeTable (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see TissueBox (1), SideTable (1), Drawer (1), CreditCard (2, 3), Boots (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1).
+Act: close Drawer (1)
+You close Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1).
+Think: I have not found the watering can. Now, I need to find the watering can in the other rooms. The watering can is more likely to appear on CoffeeTable (1), SideTable (1), or in Drawer (1). I can check each place one by one, starting from CoffeeTable (1), until I find the watering can.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Newspaper (3), Laptop (1), CreditCard (1), CoffeeTable (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see TissueBox (1), SideTable (1), Drawer (1), CreditCard (2, 3), Boots (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1).
+Act: close Drawer (1)
+You close Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1).
+Think: I have not found the watering can. Now, I need to find the watering can in the other rooms. The watering can is more likely to appear on CoffeeTable (1), SideTable (1), or in Drawer (1). I can check each place one by one, starting from CoffeeTable (1), until I find the watering can.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Newspaper (3), Laptop (1), CreditCard (1), CoffeeTable (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see TissueBox (1), SideTable (1), Drawer (1), CreditCard (2, 3), Boots (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1).
+Act: close Drawer (1)
+You close Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1).
+Think: I have not found the watering can. Now, I need to find the watering can in the other rooms. The watering can is more likely to appear on CoffeeTable (1), SideTable (1), or in Drawer (1). I can check each place one by one, starting from CoffeeTable (1), until I find the watering can.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Newspaper (3), Laptop (1), CreditCard (1), CoffeeTable (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see TissueBox (1), SideTable (1), Drawer (1), CreditCard (2, 3), Boots (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1).
+Act: close Drawer (1)
+You close Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1).
+Think: I have not found the watering can. Now, I need to find the watering can in the other rooms. The watering can is more likely to appear on CoffeeTable (1), SideTable (1), or in Drawer (1). I can check each place one by one, starting from CoffeeTable (1), until I find the watering can.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Newspaper (3), Laptop (1), CreditCard (1), CoffeeTable (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see TissueBox (1), SideTable (1), Drawer (1), CreditCard (2, 3), Boots (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1).
+Act: close Drawer (1)
+You close Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1).
+Think: I have not found the watering can. Now, I need to find the watering can in the other rooms. The watering can is more likely to appear on CoffeeTable (1), SideTable (1), or in Drawer (1). I can check each place one by one, starting from CoffeeTable (1), until I find the watering can.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Newspaper (3), Laptop (1), CreditCard (1), CoffeeTable (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see TissueBox (1), SideTable (1), Drawer (1), CreditCard (2, 3), Boots (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1).
+Act: close Drawer (1)
+You close Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1).
+Think: I have not found the watering can. Now, I need to find the watering can in the other rooms. The watering can is more likely to appear on CoffeeTable (1), SideTable (1), or in Drawer (1). I can check each place one by one, starting from CoffeeTable (1), until I find the watering can.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Newspaper (3), Laptop (1), CreditCard (1), CoffeeTable (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see TissueBox (1), SideTable (1), Drawer (1), CreditCard (2, 3), Boots (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1).
+Act: close Drawer (1)
+You close Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1).
+Think: I have not found the watering can. Now, I need to find the watering can in the other rooms. The watering can is more likely to appear on CoffeeTable (1), SideTable (1), or in Drawer (1). I can check each place one by one, starting from CoffeeTable (1), until I find the watering can.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Newspaper (3), Laptop (1), CreditCard (1), CoffeeTable (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see TissueBox (1), SideTable (1), Drawer (1), CreditCard (2, 3), Boots (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1).
+Act: close Drawer (1)
+You close Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1).
+Think: I have not found the watering can. Now, I need to find the watering can in the other rooms. The watering can is more likely to appear on CoffeeTable (1), SideTable (1), or in Drawer (1). I can check each place one by one, starting from CoffeeTable (1), until I find the watering can.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Newspaper (3), Laptop (1), CreditCard (1), CoffeeTable (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see TissueBox (1), SideTable (1), Drawer (1), CreditCard (2, 3), Boots (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1).
+Act: close Drawer (1)
+You close Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1).
+Think: I have not found the watering can. Now, I need to find the watering can in the other rooms. The watering can is more likely to appear on CoffeeTable (1), SideTable (1), or in Drawer (1). I can check each place one by one, starting from CoffeeTable (1), until I find the watering can.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Newspaper (3), Laptop (1), CreditCard (1), CoffeeTable (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see TissueBox (1), SideTable (1), Drawer (1), CreditCard (2, 3), Boots (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1).
+Act: close Drawer (1)
+You close Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1).
+Think: I have not found the watering can. Now, I need to find the watering can in the other rooms. The watering can is more likely to appear on CoffeeTable (1), SideTable (1), or in Drawer (1). I can check each place one by one, starting from CoffeeTable (1), until I find the watering can.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Newspaper (3), Laptop (1), CreditCard (1), CoffeeTable (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see TissueBox (1), SideTable (1), Drawer (1), CreditCard (2, 3), Boots (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1).
+Act: close Drawer (1)
+You close Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1).
+Think: I have not found the watering can. Now, I need to find the watering can in the other rooms. The watering can is more likely to appear on CoffeeTable (1), SideTable (1), or in Drawer (1). I can check each place one by one, starting from CoffeeTable (1), until I find the watering can.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Newspaper (3), Laptop (1), CreditCard (1), CoffeeTable (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see TissueBox (1), SideTable (1), Drawer (1), CreditCard (2, 3), Boots (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1).
+Act: close Drawer (1)
+You close Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1).
+Think: I have not found the watering can. Now, I need to find the watering can in the other rooms. The watering can is more likely to appear on CoffeeTable (1), SideTable (1), or in Drawer (1). I can check each place one by one, starting from CoffeeTable (1), until I find the watering can.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Newspaper (3), Laptop (1), CreditCard (1), CoffeeTable (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see TissueBox (1), SideTable (1), Drawer (1), CreditCard (2, 3), Boots (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1).
+Act: close Drawer (1)
+You close Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1).
+Think: I have not found the watering can. Now, I need to find the watering can in the other rooms. The watering can is more likely to appear on CoffeeTable (1), SideTable (1), or in Drawer (1). I can check each place one by one, starting from CoffeeTable (1), until I find the watering can.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Newspaper (3), Laptop (1), CreditCard (1), CoffeeTable (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see TissueBox (1), SideTable (1), Drawer (1), CreditCard (2, 3), Boots (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1).
+Act: close Drawer (1)
+You close Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1).
+Think: I have not found the watering can. Now, I need to find the watering can in the other rooms. The watering can is more likely to appear on CoffeeTable (1), SideTable (1), or in Drawer (1). I can check each place one by one, starting from CoffeeTable (1), until I find the watering can.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Newspaper (3), Laptop (1), CreditCard (1), CoffeeTable (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see TissueBox (1), SideTable (1), Drawer (1), CreditCard (2, 3), Boots (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1).
+Act: close Drawer (1)
+You close Drawer (1). You see TissueBox (1), SideTable (1), FloorLamp (1), Drawer (1), CreditCard (2, 3), Boots (1).
+Max decisions

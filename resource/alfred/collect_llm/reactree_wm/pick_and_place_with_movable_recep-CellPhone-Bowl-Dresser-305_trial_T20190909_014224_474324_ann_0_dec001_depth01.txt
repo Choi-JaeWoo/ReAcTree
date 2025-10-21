@@ -1,0 +1,7 @@
+Your task is to: place a bowl with a cell phone in it on top of the night stand next to the bed
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1), LaundryHamper (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5), Desk (1), Bed (1).
+Think: Since I’m not holding a bowl, I need to accomplish 3 subgoals sequentially to solve the task. Find and pick up bowl, place cell phone in bowl, and place bowl on night stand.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up bowl, place cell phone in bowl, place bowl on night stand

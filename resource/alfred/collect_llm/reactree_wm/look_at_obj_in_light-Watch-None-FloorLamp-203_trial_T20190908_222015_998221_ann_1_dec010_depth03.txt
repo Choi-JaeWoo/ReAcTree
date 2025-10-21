@@ -1,0 +1,37 @@
+Your primary goal is to: Look at a watch under a lamp.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up watch, and find and turn on lamp.
+Your task is to: find and turn on lamp
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1), Ottoman (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7), DiningTable (1), CoffeeTable (1), ArmChair (1). I am holding Watch (2) now.
+Think: First, I need to recall location of the lamp.
+OK.
+Act: recall location of DeskLamp
+You have not seen DeskLamp before.
+Think: Now I need to find the desk lamp. The desk lamp is more likely to appear near Sofa (1), SideTable (1), Ottoman (1), CoffeeTable (1), ArmChair (1), or in Drawer (1-7). I can check each place one by one, starting from Sofa (1), until I find the desk lamp.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Watch (2), Sofa (1), Pillow (2), Laptop (2), KeyChain (1).  I am holding Watch (2) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see WateringCan (1), Watch (2), SideTable (1), HousePlant (1), Drawer (4), CellPhone (2, 3).  I am holding Watch (2) now.
+Act: go to Ottoman (1)
+You arrive at Ottoman (1). You see Watch (2), Pillow (1), Ottoman (1), ArmChair (1).  I am holding Watch (2) now.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), TissueBox (1), RemoteControl (1), Laptop (1), Drawer (2, 6, 7), CreditCard (3), CoffeeTable (1), Book (1).  I am holding Watch (2) now.
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Watch (2), Pillow (1), Ottoman (1), Box (1), ArmChair (1).  I am holding Watch (2) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Watch (2), Vase (1), TissueBox (1), RemoteControl (1), Laptop (1), Drawer (1, 3, 5), CreditCard (3), CoffeeTable (1), Book (1). Drawer (1) is closed.  I am holding Watch (2) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (2), Vase (1), TissueBox (1), RemoteControl (1), Laptop (1), Drawer (2, 6, 7), CreditCard (3), CoffeeTable (1), Book (1). Drawer (2) is closed.  I am holding Watch (2) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Watch (2), Vase (1), TissueBox (1), RemoteControl (1), Laptop (1), Drawer (1, 3, 5), CreditCard (3), CoffeeTable (1), Book (1). Drawer (3) is closed.  I am holding Watch (2) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see WateringCan (1), Watch (2), SideTable (1), HousePlant (1), Drawer (4), CellPhone (2, 3). Drawer (4) is closed.  I am holding Watch (2) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Watch (2), Vase (1), TissueBox (1), RemoteControl (1), Laptop (1), Drawer (1, 3, 5), CreditCard (3), CoffeeTable (1), Book (1). Drawer (5) is closed.  I am holding Watch (2) now.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Watch (2), Vase (1), TissueBox (1), RemoteControl (1), Laptop (1), Drawer (2, 6, 7), CreditCard (3), CoffeeTable (1), Book (1). Drawer (6) is closed.  I am holding Watch (2) now.
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see Watch (2), Vase (1), TissueBox (1), RemoteControl (1), Laptop (1), Drawer (2, 6, 7), CreditCard (3), CoffeeTable (1), Book (1). Drawer (7) is closed.  I am holding Watch (2) now.
+Think: I cannot find the desk lamp.
+OK.
+Act: failure

@@ -1,0 +1,77 @@
+Your task is to: place chilled egg on counter in front of coffee maker
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8).
+Think: To solve the task, I need to find and pick up the egg, then put it in the fridge. And I need to pick up the egg from the fridge, then put it on the counter.
+OK.
+Think: First, I need to recall location of the egg.
+OK.
+Act: recall location of Egg
+You have not seen Egg before.
+Think: Now I need to find the egg. The egg is more likely to appear on CounterTop (1-2), or in Fridge (1), Microwave (1), Cabinet (1-8). I can check each place one by one, starting from CounterTop (1), until I find the egg.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Potato (1), Mug (3), Ladle (1, 2), Knife (1), GarbageCan (1), CounterTop (1), Chair (1, 2), ButterKnife (1), Bread (1). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Window (2), Spatula (1), Sink (1), SinkBasin (1), SaltShaker (1), PepperShaker (1), Pan (1), Mug (1), Fork (1), Faucet (1), Cup (2), CounterTop (2), CoffeeMachine (1). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1). Fridge (1) is closed. 
+Act: open Fridge (1)
+You open Fridge (1). You see Mug (2), Fridge (1), Bread (2), Apple (1).
+Act: close Fridge (1)
+You close Fridge (1). You see Fridge (1).
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see StoveBurner (1, 2), Spatula (2), Microwave (1), Fork (1), CounterTop (2). Microwave (1) is closed. 
+Act: open Microwave (1)
+You open Microwave (1). You see Spatula (2), Microwave (1), Fork (1), CounterTop (2), Apple (2).
+Act: close Microwave (1)
+You close Microwave (1). You see StoveBurner (1, 2), Spatula (2), Microwave (1), Fork (1), CounterTop (2).
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). There are no visible objects.. Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see Cabinet (1).
+Act: close Cabinet (1)
+You close Cabinet (1). You see .
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Cabinet (2, 4, 5). Cabinet (2) is closed. 
+Act: open Cabinet (2)
+You open Cabinet (2). You see SaltShaker (3), Cabinet (2, 4, 5).
+Act: close Cabinet (2)
+You close Cabinet (2). You see Cabinet (2, 4, 5).
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see Cabinet (1, 3, 8). Cabinet (3) is closed. 
+Act: open Cabinet (3)
+You open Cabinet (3). You see DishSponge (1), Cabinet (3).
+Act: close Cabinet (3)
+You close Cabinet (3). You see Cabinet (1, 3, 8).
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see Window (2), Cabinet (2, 4, 5). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+You open Cabinet (4). You see Microwave (1), Cabinet (5, 6, 7).
+Act: close Cabinet (4)
+The Cabinet (4) is not close to you.
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Cabinet (5, 6, 7). Cabinet (5) is closed. 
+Act: open Cabinet (5)
+You open Cabinet (5). You see Cabinet (2, 5, 6, 7), Bowl (1).
+Act: close Cabinet (5)
+You close Cabinet (5). You see Cabinet (2, 5, 6, 7).
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Cabinet (3, 6, 7, 8). Cabinet (6) is closed. 
+Act: open Cabinet (6)
+You open Cabinet (6). You see Plate (1), Cabinet (3, 6, 7, 8).
+Act: close Cabinet (6)
+You close Cabinet (6). You see Cabinet (3, 6, 7, 8).
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Cabinet (5, 6, 7). Cabinet (7) is closed. 
+Act: open Cabinet (7)
+You open Cabinet (7). You see Plate (2), Cabinet (5, 6, 7).
+Act: close Cabinet (7)
+You close Cabinet (7). You see Cabinet (5, 6, 7).
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Cabinet (1, 3, 8). Cabinet (8) is closed. 
+Act: open Cabinet (8)
+You open Cabinet (8). You see SaltShaker (2), Cabinet (1, 3, 8).
+Act: close Cabinet (8)
+You close Cabinet (8). You see Cabinet (1, 3, 8).
+Think: I cannot find the egg. I fail to accomplish the goal.
+OK.
+Act: failure

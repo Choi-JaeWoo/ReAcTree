@@ -1,0 +1,41 @@
+Your task is to: To clean a glass and put it on the shelf. 
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9).
+Think: To solve the task, I need to find and pick up the glass, then put it in the sink basin. And I need to turn on and off the faucet. And I need to pick up the glass from the sink basin, then put it on the shelf.
+OK.
+Think: First, I need to recall location of the glass.
+OK.
+Act: recall location of Glassbottle
+You have not seen Glassbottle before.
+Think: Now I need to find the glass. The glass is more likely to appear on CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-9), Drawer (1-9). I can check each place one by one, starting from CounterTop (1), until I find the glass.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Tomato (3), Spoon (1), Plate (2), Lettuce (2), Knife (2), Egg (1, 2), CounterTop (1), Bread (2), Book (1), Apple (1). 
+Think: I find Glassbottle (1). Now, I need to pick it up.
+OK.
+Act: pick up Plate (2)
+You pick up Plate (2). You see Spoon (1), Plate (2), Lettuce (2), Knife (2), Egg (1, 2), CounterTop (1), Bread (2), Book (1), Apple (1). I am holding Plate (2) now.
+Think: I hold Plate (2). Now, I need to put it in the sink basin.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (1), Sink (1), SinkBasin (1), Plate (2), Knife (1), Faucet (1), DishSponge (3), CounterTop (2), Cabinet (2), ButterKnife (2).  I am holding Plate (2) now.
+Act: put down Plate (2)
+You put down failed, drop it. You see Window (1), Sink (1), SinkBasin (1), Plate (2), Knife (1), Faucet (1), DishSponge (3), CounterTop (2), Cabinet (2), ButterKnife (2).
+Think: I put Plate (2) in SinkBasin (1). Now, I need to turn on and off Faucet (1).
+OK.
+Act: turn on Faucet (1)
+You turn on Faucet (1). You see Window (1), Sink (1), SinkBasin (1), Plate (2), Knife (1), Faucet (1), DishSponge (3), CounterTop (2), Cabinet (2), ButterKnife (2).
+Act: turn off Faucet (1)
+You turn off Faucet (1). You see Window (1), Sink (1), SinkBasin (1), Plate (2), Knife (1), Faucet (1), DishSponge (3), CounterTop (2), Cabinet (2), ButterKnife (2).
+Think: Now, I need to pick up the glass from the sink basin.
+OK.
+Act: pick up Plate (2)
+You pick up Plate (2). You see Window (1), Sink (1), SinkBasin (1), Plate (2), Knife (1), Faucet (1), DishSponge (3), CounterTop (2), Cabinet (2), ButterKnife (2). I am holding Plate (2) now.
+Think: I pick up Plate (2) from SinkBasin (1). Now, I need to put it on the shelf.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Vase (1), Statue (1), Shelf (3), Plate (2), Drawer (2, 3).  I am holding Plate (2) now.
+Act: put down Plate (2)
+You put down failed, drop it. You see Statue (1), Shelf (3), Plate (2), Drawer (2, 3).
+Think: Now I accomplish the goal.
+OK.
+Act: done

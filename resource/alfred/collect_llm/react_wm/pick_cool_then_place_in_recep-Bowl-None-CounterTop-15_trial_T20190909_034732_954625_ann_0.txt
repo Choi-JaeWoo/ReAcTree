@@ -1,0 +1,51 @@
+Your task is to: Place a heated bowl on a counter.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11).
+Think: To solve the task, I need to find and pick up the bowl, then put it in the microwave. And I need to turn on and off the microwave. And I need to pick up the bowl from the microwave, then put it on the counter.
+OK.
+Think: First, I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: Now I need to find the bowl. The bowl is more likely to appear on DiningTable (1), CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-11), Drawer (1-3). I can check each place one by one, starting from DiningTable (1), until I find the bowl.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Window (1), Spoon (1), SoapBottle (1), DishSponge (1), DiningTable (1), Cup (1), Chair (1), ButterKnife (1, 2), Bowl (1, 3), Apple (3). 
+Think: I find Bowl (1). Now, I need to pick it up.
+OK.
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see WineBottle (2), Window (1), Spoon (1), SoapBottle (1), DishSponge (1), DiningTable (1), Cup (1), Chair (1), ButterKnife (1, 2), Bowl (1, 3), Apple (3). I am holding Bowl (1) now.
+Think: I hold Bowl (1). Now, I need to put it in the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see WineBottle (3), Pot (1, 2), PepperShaker (1), Microwave (1), Kettle (1, 2), CounterTop (1, 2), Cabinet (11), Bowl (1). Microwave (1) is closed.  I am holding Bowl (1) now.
+Act: open Microwave (1)
+You open Microwave (1). You see WineBottle (3), Pot (1, 2), PepperShaker (1), Microwave (1), Kettle (1, 2), CounterTop (1, 2), Bowl (1, 2). I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put down failed, drop it. You see WineBottle (3), StoveBurner (1, 2), Pot (1, 2), PepperShaker (1), Microwave (1), Kettle (1, 2), CounterTop (1, 2), Bowl (2).
+Think: Now I need to pick up Bowl (2).
+OK.
+Act: pick up Bowl (2)
+You pick up Bowl (2). You see WineBottle (3), StoveBurner (1, 2), Pot (1, 2), PepperShaker (1), Microwave (1), Kettle (1, 2), CounterTop (1, 2), Bowl (2). I am holding Bowl (2) now.
+Act: close Microwave (1)
+You close Microwave (1). You see WineBottle (3), StoveBurner (1, 2), Pot (1, 2), PepperShaker (1), Microwave (1), Kettle (1, 2), CounterTop (1, 2), Cabinet (11), Bowl (2). I am holding Bowl (2) now.
+Think: I put Bowl (2) in Microwave (1). Now, I need to turn on and off Microwave (1).
+OK.
+Act: turn on Microwave (1)
+You turn on Microwave (1). You see WineBottle (3), StoveBurner (1, 2), Pot (1, 2), PepperShaker (1), Microwave (1), Kettle (1, 2), CounterTop (1, 2), Cabinet (11), Bowl (2). I am holding Bowl (2) now.
+Act: turn off Microwave (1)
+You turn off Microwave (1). You see WineBottle (3), StoveBurner (1, 2), Pot (1, 2), PepperShaker (1), Microwave (1), Kettle (1, 2), CounterTop (1, 2), Cabinet (11), Bowl (2). I am holding Bowl (2) now.
+Think: Now, I need to pick up the bowl from the microwave.
+OK.
+Act: open Microwave (1)
+You open Microwave (1). You see WineBottle (3), StoveBurner (1, 2), Pot (1, 2), PepperShaker (1), Microwave (1), Kettle (1, 2), CounterTop (1, 2), Bowl (2). I am holding Bowl (2) now.
+Act: pick up Bowl (2)
+You are currently holding Bowl (2). I am holding Bowl (2) now.
+Think: I pick up Bowl (2) from Microwave (1). Now, I need to put it on the counter.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Tomato (1), StoveKnob (4), Pot (2), Plate (2), PepperShaker (1), Lettuce (2), Knife (1), Fork (1), Drawer (2), CounterTop (1), Cabinet (11), Bowl (2).  I am holding Bowl (2) now.
+Act: put down Bowl (2)
+You put Bowl (2) on CounterTop (1). You see Tomato (1), StoveKnob (4), Pot (2), Plate (2), PepperShaker (1), Lettuce (2), Knife (1), Fork (1), Drawer (2), CounterTop (1), Cabinet (11), Bowl (2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

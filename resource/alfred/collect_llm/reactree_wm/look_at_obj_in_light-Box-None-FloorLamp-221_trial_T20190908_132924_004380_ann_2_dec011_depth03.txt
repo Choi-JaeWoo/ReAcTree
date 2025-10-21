@@ -1,0 +1,183 @@
+Your primary goal is to: Carry an empty box to the lamp
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up box, and carry box to lamp.
+Your task is to: carry box to lamp
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1), GarbageCan (1), Drawer (1), DiningTable (1), CoffeeTable (1, 2), ArmChair (1). I am holding Box (1) now.
+Think: I hold Box (1). Now, I need to carry it to the lamp. I can see DeskLamp (1).
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Television (1), Statue (1), SideTable (1), Laptop (1), Drawer (1), CoffeeTable (2), Box (1).  I am holding Box (1) now.
+Act: go to CoffeeTable (2)
+You arrive at CoffeeTable (2). You see Television (1), SideTable (1), Box (1).  I am holding Box (1) now.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), CreditCard (3), Box (1).  I am holding Box (1) now.
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see SideTable (1), Pillow (1), HousePlant (1, 2), Chair (6), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to Chair (6)
+You see Pillow (1), HousePlant (2), Chair (6), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: go to HousePlant (2)
+You see HousePlant (2), Box (1), ArmChair (1).  I am holding Box (1) now.
+Max decisions

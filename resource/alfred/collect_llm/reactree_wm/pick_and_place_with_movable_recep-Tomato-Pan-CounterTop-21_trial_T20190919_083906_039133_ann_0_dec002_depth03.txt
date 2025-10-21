@@ -1,0 +1,17 @@
+Your primary goal is to: move the pan from the stove to the counter, put the tomato in the pan
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: move pan from stove to counter, and put tomato in pan.
+Your task is to: move pan from stove to counter
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1, 2, 3), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: I need to move Pan (1) from StoveBurner (1) to CounterTop (1).
+OK.
+Act: go to StoveBurner (1)
+You arrive at StoveBurner (1). You see StoveKnob (2, 3, 4), StoveBurner (1, 2, 3, 4), Pot (1), Pan (1). 
+Act: pick up Pan (1)
+You pick up Pan (1). You see StoveKnob (3), StoveBurner (1, 2, 3, 4), Pot (1), Pan (1). I am holding Pan (1) now.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Tomato (3), Spoon (1), Spatula (3), Sink (1), SinkBasin (1), SideTable (1), SaltShaker (2), Pan (1), Knife (1), Fork (1), Faucet (1), Drawer (1), CounterTop (1), Cabinet (2, 4), Bread (1, 2), Bowl (2).  I am holding Pan (1) now.
+Act: put down Pan (1)
+You put Pan (1) on CounterTop (1). You see Tomato (3), Spoon (1), Spatula (3), Sink (1), SinkBasin (1), SideTable (1), SaltShaker (2), Pan (1), Knife (1), Fork (1), Faucet (1), Drawer (1), CounterTop (1), Cabinet (2, 4), Bread (1, 2), Bowl (2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

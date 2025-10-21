@@ -1,0 +1,49 @@
+Your primary goal is to: Put two pepper mills on the counter.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pepper mill, place pepper mill on counter, find and pick up pepper mill away from counter, and place pepper mill on counter.
+Your task is to: find and pick up pepper mill
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13).
+Think: First, I need to recall location of the pepper mill.
+OK.
+Act: recall location of PepperShaker
+You have not seen PepperShaker before.
+Think: Now, I need to find the pepper mill. The pepper mill is more likely to appear on CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1-5). I can check each place one by one, starting from CounterTop (1), until I find the pepper mill.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), Spatula (2), Sink (1), SinkBasin (1), Lettuce (1), Ladle (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), Bread (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (1), Spatula (2), Sink (1), SinkBasin (1), Plate (1), Lettuce (1), Ladle (2), Knife (1), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Drawer (1), Cabinet (4). Fridge (1) is closed. 
+Act: open Fridge (1)
+You open Fridge (1). You see Potato (1), Plate (2), Fridge (1), Bowl (2).
+Act: close Fridge (1)
+You close Fridge (1). You see Fridge (1), Drawer (1), Cabinet (4).
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1), Fridge (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (4). Microwave (1) is closed. 
+Act: open Microwave (1)
+You open Microwave (1). You see Mug (1), Microwave (1), Fridge (1), Egg (3), Drawer (1), Cabinet (4).
+Act: close Microwave (1)
+You close Microwave (1). You see Microwave (1), Fridge (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (4).
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1, 6, 9, 11). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see Cabinet (1), Bowl (1).
+Act: close Cabinet (1)
+You close Cabinet (1). You see Cabinet (1, 6).
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Window (1), Spatula (1, 2), Sink (1), SinkBasin (1), Plate (1), Lettuce (1), Knife (1), Fork (1), Egg (1), DishSponge (1), CounterTop (1), Cabinet (2, 3), ButterKnife (2, 3). Cabinet (2) is closed. 
+Act: open Cabinet (2)
+You open Cabinet (2). You see Spatula (1, 2), Sink (1), SinkBasin (1), Plate (1), Microwave (1), Lettuce (1), Knife (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 3, 4), ButterKnife (2, 3), Bowl (3).
+Act: close Cabinet (2)
+You close Cabinet (2). You see Spatula (1, 2), Sink (1), SinkBasin (1), Plate (1), Microwave (1), Lettuce (1), Knife (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 3, 4), ButterKnife (2, 3).
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see Sink (1), SinkBasin (1), Lettuce (1), Ladle (2), Knife (1), Faucet (1), Egg (2), Drawer (2, 4), CounterTop (1), CoffeeMachine (1), Cabinet (2, 3, 7, 10, 13), Bread (1). Cabinet (3) is closed. 
+Act: open Cabinet (3)
+You open Cabinet (3). You see Sink (1), SinkBasin (1), SaltShaker (4), PepperShaker (1), Lettuce (1), Ladle (2), Knife (1), Faucet (1), Egg (2), Drawer (2, 4), CounterTop (1), CoffeeMachine (1), Cabinet (2, 3, 7, 10, 12, 13), Bread (1).
+Think: I find PepperShaker (1). Now, I need to pick it up.
+OK.
+Act: pick up PepperShaker (1)
+You pick up PepperShaker (1). You see Sink (1), SinkBasin (1), SaltShaker (4), PepperShaker (1), Lettuce (1), Ladle (2), Knife (1), Faucet (1), Egg (2), Drawer (2, 4), CounterTop (1), CoffeeMachine (1), Cabinet (2, 3, 7, 10, 12, 13), Bread (1). I am holding PepperShaker (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

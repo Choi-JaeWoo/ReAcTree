@@ -1,0 +1,13 @@
+Your primary goal is to: Take the statue off the desk, raise the statue up at the height of the desk hutch.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up statue, and place statue on desk hutch.
+Your task is to: place statue on desk hutch
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1), LaundryHamper (1), GarbageCan (1), Drawer (1, 2, 3), Desk (1), Bed (1, 2). I am holding Statue (1) now.
+Think: I hold Statue (1). Now, I need to put it on the desk hutch. I can see DeskHutch (1).
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (1), Pen (1), Mug (2), Desk (1), CreditCard (1), Chair (2), CellPhone (1), CD (3), Bowl (1), AlarmClock (1).  I am holding Statue (1) now.
+Act: put down Statue (1)
+You put Statue (1) on Desk (1). You see Statue (1), Pen (1), Mug (2), Drawer (1, 2, 3), Desk (1), CreditCard (1), Chair (2), CellPhone (1), CD (3), Bowl (1), AlarmClock (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

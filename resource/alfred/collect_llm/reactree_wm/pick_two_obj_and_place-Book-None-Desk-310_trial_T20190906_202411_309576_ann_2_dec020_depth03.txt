@@ -1,0 +1,55 @@
+Your primary goal is to: Put two magazines on the desk. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up magazine, place magazine on desk, Find and pick up magazine away from desk, and place magazine on desk.
+Your task is to: Find and pick up magazine away from desk
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1), GarbageCan (1), Drawer (1, 2), Desk (1), Cabinet (1, 2, 3, 4), Bed (1).
+Think: First, I need to recall location of the magazine.
+OK.
+Act: recall location of Newspaper
+You have not seen Newspaper before.
+Think: Now, I need to find the magazine. The magazine is more likely to appear on Desk (1), SideTable (1), Shelf (1), or in Drawer (1-2), Cabinet (1-4). I can check each place one by one, starting from Desk (1), until I find the magazine.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Desk (1), Chair (1), CD (1, 2), AlarmClock (1, 2). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), Pen (3), Drawer (1, 2), Bed (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pen (1, 2), Desk (1), CreditCard (1), Cabinet (1, 2, 4). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (1), Pencil (2), Pen (3), Drawer (1, 2), Bed (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see SideTable (1), Pencil (1, 2), Pen (3), Drawer (1, 2), Bed (1).
+Act: close Drawer (1)
+You close Drawer (1). You see SideTable (1), Pencil (2), Pen (3), Drawer (1, 2), Bed (1).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (1), Pencil (2), Pen (3), Drawer (1, 2), Bed (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see SideTable (1), Pencil (2), Pen (3), KeyChain (1), Drawer (2), Bed (1).
+Act: close Drawer (2)
+You close Drawer (2). You see SideTable (1), Pencil (2), Pen (3), Drawer (1, 2), Bed (1).
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Shelf (1), Pen (1, 2), Lamp (1), Desk (1), CreditCard (1), Cabinet (1, 4). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see Lamp (1), Desk (1), Cabinet (1, 4), Book (2).
+Act: close Cabinet (1)
+You close Cabinet (1). You see Shelf (1), Pen (1, 2), Lamp (1), Desk (1), CreditCard (1), Cabinet (1, 4).
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Poster (1), Desk (1), Cabinet (2). Cabinet (2) is closed. 
+Act: open Cabinet (2)
+You open Cabinet (2). You see Window (1), Poster (1), Desk (1), Cabinet (2), AlarmClock (1).
+Act: close Cabinet (2)
+You close Cabinet (2). You see Window (1), Poster (1), Desk (1), AlarmClock (1).
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see Desk (1), Cabinet (1, 3, 4), CD (2), AlarmClock (2). Cabinet (3) is closed. 
+Act: open Cabinet (3)
+You open Cabinet (3). You see Desk (1), Cabinet (3).
+Act: close Cabinet (3)
+You close Cabinet (3). You see Desk (1), Cabinet (1, 3, 4), CD (2), AlarmClock (2).
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see Shelf (1), Pen (1, 2), Desk (1), CreditCard (1), Cabinet (1, 2, 3, 4), Box (1), AlarmClock (2). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+You open Cabinet (4). You see Desk (1), Cabinet (1, 2, 3, 4), Box (1), AlarmClock (2).
+Act: close Cabinet (4)
+You close Cabinet (4). You see Shelf (1), Pen (1, 2), Desk (1), CreditCard (1), Cabinet (1, 2, 3, 4), Box (1), AlarmClock (2).
+Think: Now I accomplish the goal.
+OK.
+Act: failure

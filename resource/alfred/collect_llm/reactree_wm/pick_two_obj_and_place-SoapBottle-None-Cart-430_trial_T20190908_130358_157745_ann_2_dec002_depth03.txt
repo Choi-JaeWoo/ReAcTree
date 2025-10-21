@@ -1,0 +1,19 @@
+Your primary goal is to: Put two bottles on a metal rack.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up bottle, place bottle on metal rack, Find and pick up bottle away from metal rack, and place bottle on metal rack.
+Your task is to: find and pick up bottle
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1), Shelf (1), HandTowelHolder (1), GarbageCan (1), Drawer (1, 2, 3, 4), CounterTop (1), Cart (1), BathtubBasin (1).
+Think: First, I need to recall location of the bottle.
+OK.
+Act: recall location of WateringCan
+You have not seen WateringCan before.
+Think: Now, I need to find the bottle. The bottle is more likely to appear on CounterTop (1), SinkBasin (1), or in Drawer (1-4). I can check each place one by one, starting from CounterTop (1), until I find the bottle.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see ToiletPaper (1), TissueBox (1), Mirror (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1). 
+Think: I find WateringCan (1). Now, I need to pick it up.
+OK.
+Act: pick up ToiletPaper (1)
+You pick up ToiletPaper (1). You see ToiletPaper (1), TissueBox (1), Mirror (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1). I am holding ToiletPaper (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

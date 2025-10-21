@@ -1,0 +1,23 @@
+Your primary goal is to: Put a cold pot on the burner.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pot, cool and pick up pot, and place pot on burner.
+Your task is to: cool and pick up pot
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20). I am holding PepperShaker (1) now.
+Think: I hold PepperShaker (1). Now, I need to cool it using the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see PepperShaker (1), GarbageCan (1), Fridge (1), Cabinet (7). Fridge (1) is closed.  I am holding PepperShaker (1) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Tomato (2), PepperShaker (1), Fridge (1), Cabinet (7), Bread (1), Bowl (1). I am holding PepperShaker (1) now.
+Act: put down PepperShaker (1)
+You put PepperShaker (1) on Fridge (1). You see Tomato (2), PepperShaker (1), Fridge (1), Cabinet (7), Bread (1), Bowl (1).
+Act: close Fridge (1)
+You close Fridge (1). You see GarbageCan (1), Fridge (1), Cabinet (7).
+Think: I cool PepperShaker (1) using Fridge (1). Now, I need to pick up the pepper shaker from the fridge.
+OK.
+Act: open Fridge (1)
+You open Fridge (1). You see Tomato (2), PepperShaker (1), Fridge (1), Cabinet (7), Bread (1), Bowl (1).
+Act: pick up PepperShaker (1)
+You pick up PepperShaker (1). You see Tomato (2), PepperShaker (1), Fridge (1), Cabinet (7), Bread (1), Bowl (1). I am holding PepperShaker (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

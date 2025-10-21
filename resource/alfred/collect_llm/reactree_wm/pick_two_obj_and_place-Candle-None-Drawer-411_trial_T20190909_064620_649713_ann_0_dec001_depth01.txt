@@ -1,0 +1,7 @@
+Your task is to: To place two candles in the right drawer under the sink.
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1, 2), Toilet (1), ToiletPaperHanger (1), SinkBasin (1), HandTowelHolder (1), GarbageCan (1), Drawer (1, 2, 3, 4), CounterTop (1, 2), BathtubBasin (1).
+Think: Since I’m not holding anything, I need to accomplish 3 subgoals sequentially to solve the task. Find and pick up candle, place candle in drawer, and find and pick up candle.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up candle, place candle in drawer, find and pick up candle

@@ -1,0 +1,7 @@
+Your task is to: Put a bowl with a phone in it on a coffee table.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1), Ottoman (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7), DiningTable (1), CoffeeTable (1), ArmChair (1).
+Think: Since I’m not holding bowl, I need to accomplish 3 subgoals sequentially to solve the task. Find and pick up bowl, put phone in bowl, and place bowl on coffee table.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up bowl, put phone in bowl, place bowl on coffee table

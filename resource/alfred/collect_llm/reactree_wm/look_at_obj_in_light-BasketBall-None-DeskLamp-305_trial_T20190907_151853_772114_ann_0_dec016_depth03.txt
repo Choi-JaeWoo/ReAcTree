@@ -1,0 +1,19 @@
+Your primary goal is to: Carry a basketball while turning on a lamp
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up basketball, find and turn on lamp, and and carry basketball.
+Your task is to: find and turn on lamp
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1), LaundryHamper (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5), Desk (1), Bed (1). I am holding Bowl (2) now.
+Think: First, I need to recall location of the lamp.
+OK.
+Act: recall location of DeskLamp
+You saw DeskLamp (1) near Drawer (4).
+Think: I can find DeskLamp (1) near Drawer (4).
+OK.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Window (1), Dresser (1), Drawer (1, 4), DeskLamp (1), Box (1), Bowl (2), AlarmClock (1). Drawer (4) is closed.  I am holding Bowl (2) now.
+Think: I find DeskLamp (1). Now, I need to turn it on.
+OK.
+Act: turn on DeskLamp (1)
+You turn on DeskLamp (1). You see Window (1), Dresser (1), Drawer (1, 4), DeskLamp (1), Box (1), Bowl (2), AlarmClock (1). I am holding Bowl (2) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

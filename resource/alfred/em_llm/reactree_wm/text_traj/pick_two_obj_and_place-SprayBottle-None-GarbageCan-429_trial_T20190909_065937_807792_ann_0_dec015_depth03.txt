@@ -1,0 +1,19 @@
+Your primary goal is to: Place two sprayers in the trash can.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up sprayer, place sprayer in trash can, Find and pick up sprayer away from trash can, and place sprayer in trash can.
+Your task is to: Find and pick up sprayer away from trash can
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), Sink (1), SinkBasin (1), Shelf (1, 2, 3), HandTowelHolder (1), GarbageCan (1), BathtubBasin (1).
+Think: First, I need to recall location of the sprayer.
+OK.
+Act: recall location of SprayBottle
+You saw SprayBottle (2) near GarbageCan (1). You saw SprayBottle (1) near GarbageCan (1).
+Think: SprayBottle (2) is in GarbageCan (1). I can find another sprayer, SprayBottle (1), near GarbageCan (1).
+OK.
+Act: go to GarbageCan (1)
+You arrive at GarbageCan (1). You see Toilet (1), SprayBottle (1, 2), ShowerCurtain (1), GarbageCan (1). 
+Think: I find SprayBottle (1). Now, I need to pick it up.
+OK.
+Act: pick up SprayBottle (1)
+You pick up SprayBottle (1). You see Toilet (1), SprayBottle (1, 2), ShowerCurtain (1), GarbageCan (1). I am holding SprayBottle (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

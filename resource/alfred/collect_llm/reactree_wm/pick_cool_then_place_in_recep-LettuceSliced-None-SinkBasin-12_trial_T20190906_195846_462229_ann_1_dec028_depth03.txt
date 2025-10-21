@@ -1,0 +1,149 @@
+Your primary goal is to: Cutting up lettuce, chilling it, placing it in the sink
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, slice and pick up lettuce, place lettuce in fridge, and place lettuce in sink basin.
+Your task is to: place lettuce in sink basin
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19).
+Think: I hold Lettuce (4). Now, I need to put it in the sink basin. I can see SinkBasin (1).
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), Potato (2), Lettuce (7, 8), Knife (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (2), Cabinet (1). 
+Think: I find SinkBasin (1). Now, I need to put down Lettuce (4).
+OK.
+Act: pick up Lettuce (7)
+You pick up Lettuce (7). You see Sink (1), SinkBasin (1), Potato (2), Lettuce (5, 7, 8), Knife (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (2), Cabinet (1). I am holding Lettuce (7) now.
+Act: put down Lettuce (7)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), Potato (2), Lettuce (5, 7, 8), Knife (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (2), Cabinet (1).
+Think: Now I need to pick up Lettuce (8).
+OK.
+Act: pick up Lettuce (8)
+You pick up Lettuce (8). You see Sink (1), SinkBasin (1), Potato (2), Lettuce (5, 8), Knife (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (2), Cabinet (1). I am holding Lettuce (8) now.
+Act: put down Lettuce (8)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), Potato (2), Lettuce (5, 7, 8), Faucet (1), Drawer (1), DishSponge (1), CounterTop (2), Cabinet (1).
+Think: Now I need to pick up Lettuce (5).
+OK.
+Act: pick up Lettuce (5)
+You pick up Lettuce (5). You see Sink (1), SinkBasin (1), Potato (2), Lettuce (4, 5, 8), Faucet (1), Drawer (1), DishSponge (1), CounterTop (2), Cabinet (1). I am holding Lettuce (5) now.
+Act: put down Lettuce (5)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), Lettuce (4, 5, 8), Faucet (1), Drawer (1), DishSponge (1), CounterTop (2), Cabinet (1).
+Think: Now I need to pick up Lettuce (4).
+OK.
+Act: pick up Lettuce (4)
+You pick up Lettuce (4). You see Sink (1), SinkBasin (1), Potato (2), Lettuce (4, 5, 8), Faucet (1), Drawer (1), DishSponge (1), CounterTop (2), Cabinet (1). I am holding Lettuce (4) now.
+Act: put down Lettuce (4)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), Potato (2), Lettuce (4, 8), Faucet (1), Drawer (1), DishSponge (1), CounterTop (2), Cabinet (1).
+Think: Now I need to pick up Lettuce (8).
+OK.
+Act: pick up Lettuce (8)
+You pick up Lettuce (8). You see Sink (1), SinkBasin (1), Potato (2), Lettuce (4, 8), Knife (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (2), Cabinet (1). I am holding Lettuce (8) now.
+Act: put down Lettuce (8)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), Potato (2), Lettuce (4, 8), Faucet (1), Drawer (1), DishSponge (1), CounterTop (2), Cabinet (1).
+Think: Now I need to pick up Lettuce (4).
+OK.
+Act: pick up Lettuce (4)
+You pick up Lettuce (4). You see Sink (1), SinkBasin (1), Potato (2), Lettuce (4, 5, 8), Faucet (1), Drawer (1), DishSponge (1), CounterTop (2), Cabinet (1). I am holding Lettuce (4) now.
+Act: put down Lettuce (4)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), Potato (2), Lettuce (4, 5, 8), Faucet (1), Drawer (1), DishSponge (1), CounterTop (2), Cabinet (1).
+Think: Now I need to pick up Lettuce (5).
+OK.
+Act: pick up Lettuce (5)
+You pick up Lettuce (5). You see Sink (1), SinkBasin (1), Potato (2), Lettuce (4, 5), Faucet (1), Drawer (1), DishSponge (1), CounterTop (2), Cabinet (1). I am holding Lettuce (5) now.
+Act: put down Lettuce (5)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), Lettuce (5, 8), Faucet (1), Drawer (1), DishSponge (1), CounterTop (2), Cabinet (1).
+Think: Now I need to pick up Lettuce (8).
+OK.
+Act: pick up Lettuce (8)
+You pick up Lettuce (8). You see Sink (1), SinkBasin (1), Potato (2), Lettuce (5, 8), Knife (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (2), Cabinet (1). I am holding Lettuce (8) now.
+Act: put down Lettuce (8)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), Potato (2), Lettuce (4, 5, 8), Faucet (1), Drawer (1), DishSponge (1), CounterTop (2), Cabinet (1).
+Think: Now I need to pick up Lettuce (4).
+OK.
+Act: pick up Lettuce (4)
+You pick up Lettuce (4). You see Sink (1), SinkBasin (1), Potato (2), Lettuce (4, 5, 8), Faucet (1), Drawer (1), DishSponge (1), CounterTop (2), Cabinet (1). I am holding Lettuce (4) now.
+Act: put down Lettuce (4)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), Potato (2), Lettuce (4, 5, 8), Faucet (1), Drawer (1), DishSponge (1), CounterTop (2), Cabinet (1).
+Think: Now I need to pick up Lettuce (5).
+OK.
+Act: pick up Lettuce (5)
+You pick up Lettuce (5). You see Sink (1), SinkBasin (1), Lettuce (4, 5, 8), Faucet (1), Drawer (1), DishSponge (1), CounterTop (2), Cabinet (1). I am holding Lettuce (5) now.
+Act: put down Lettuce (5)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), Lettuce (4, 5, 8), Faucet (1), Drawer (1), DishSponge (1), CounterTop (2), Cabinet (1).
+Think: Now I need to pick up Lettuce (8).
+OK.
+Act: pick up Lettuce (8)
+
+Think: I hold Lettuce (8). Now, I need to put it in the sink basin. I can see SinkBasin (1).
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Spoon (1), Sink (1, 1, 1), SinkBasin (1, 1, 1), Lettuce (4, 4, 4, 5, 5, 5, 7, 8, 8, 8), Knife (1), Faucet (1, 1, 1), Drawer (1, 1, 1), DishSponge (1, 1, 1), CounterTop (2, 2, 2), CoffeeMachine (1), Cabinet (1, 1, 1, 16). 
+Think: I find SinkBasin (1). Now, I need to put down Lettuce (8).
+OK.
+Act: pick up Lettuce (4)
+You pick up Lettuce (4). You see Spoon (1), Sink (1), SinkBasin (1), Potato (2), Lettuce (4, 7), Knife (1), Faucet (1), DishSponge (1), CounterTop (2), CoffeeMachine (1), Cabinet (16). I am holding Lettuce (4) now.
+Act: put down Lettuce (4)
+You put down failed, drop it. You see Spoon (1), Sink (1), SinkBasin (1), Potato (2), Lettuce (7), Knife (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (2), CoffeeMachine (1), Cabinet (1, 16).
+Think: Now I need to pick up Lettuce (7).
+OK.
+Act: pick up Lettuce (7)
+You pick up Lettuce (7). You see Spoon (1), Sink (1), SinkBasin (1), Potato (2), Lettuce (7), Knife (1), Faucet (1), DishSponge (1), CounterTop (2), CoffeeMachine (1), Cabinet (16). I am holding Lettuce (7) now.
+Act: put down Lettuce (7)
+You put down failed, drop it. You see Spoon (1), Sink (1), SinkBasin (1), Potato (2), Knife (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (2), CoffeeMachine (1), Cabinet (1, 16).
+Think: Now I need to pick up Lettuce (4).
+OK.
+Act: pick up Knife (1)
+You pick up Knife (1). You see Spoon (1), Sink (1), SinkBasin (1), Potato (2), Knife (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (2), CoffeeMachine (1), Cabinet (1, 16). I am holding Knife (1) now.
+Act: put down Knife (1)
+You put down failed, drop it. You see Spoon (1), Sink (1), SinkBasin (1), Potato (2), Faucet (1), Drawer (1), DishSponge (1), CounterTop (2), CoffeeMachine (1), Cabinet (1, 16).
+Think: Now I need to pick up Lettuce (4).
+OK.
+Act: pick up Potato (2)
+You pick up Potato (2). You see Spoon (1), Sink (1), SinkBasin (1), Potato (2), Faucet (1), DishSponge (1), CounterTop (2), CoffeeMachine (1), Cabinet (16). I am holding Potato (2) now.
+Act: put down Potato (2)
+You put down failed, drop it. You see Spoon (1), Sink (1), SinkBasin (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (2), CoffeeMachine (1), Cabinet (1, 16).
+Think: Now I need to pick up Lettuce (4).
+OK.
+Act: pick up Spoon (1)
+You pick up Spoon (1). You see Spoon (1), Sink (1), SinkBasin (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (2), CoffeeMachine (1), Cabinet (1, 16). I am holding Spoon (1) now.
+Act: put down Spoon (1)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (2), CoffeeMachine (1), Cabinet (1, 16).
+Think: Now I need to pick up Lettuce (4).
+OK.
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Sink (1), SinkBasin (1), Faucet (1), DishSponge (1), CounterTop (2), CoffeeMachine (1), Cabinet (16). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), Faucet (1), DishSponge (1), CounterTop (2), CoffeeMachine (1), Cabinet (16).
+Think: Now I need to pick up Lettuce (4).
+OK.
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Sink (1), SinkBasin (1), Faucet (1), DishSponge (1), CounterTop (2), CoffeeMachine (1), Cabinet (16). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), Faucet (1), DishSponge (1), CounterTop (2), CoffeeMachine (1), Cabinet (16).
+Think: Now I need to pick up Lettuce (4).
+OK.
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Sink (1), SinkBasin (1), Faucet (1), DishSponge (1), CounterTop (2), CoffeeMachine (1), Cabinet (16). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), Faucet (1), DishSponge (1), CounterTop (2), CoffeeMachine (1), Cabinet (16).
+Think: Now I need to pick up Lettuce (4).
+OK.
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Sink (1), SinkBasin (1), Faucet (1), DishSponge (1), CounterTop (2), CoffeeMachine (1), Cabinet (16). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), Faucet (1), DishSponge (1), CounterTop (2), CoffeeMachine (1), Cabinet (16).
+Think: Now I need to pick up Lettuce (4).
+OK.
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Sink (1), SinkBasin (1), Faucet (1), DishSponge (1), CounterTop (2), CoffeeMachine (1), Cabinet (16). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), Faucet (1), DishSponge (1), CounterTop (2), CoffeeMachine (1), Cabinet (16).
+Think: Now I need to pick up Lettuce (4).
+OK.
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Sink (1), SinkBasin (1), Faucet (1), DishSponge (1), CounterTop (2), CoffeeMachine (1), Cabinet (16). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), Faucet (1), DishSponge (1), CounterTop (2), CoffeeMachine (1), Cabinet (16).
+Think: Now I need to pick up Lettuce (4).
+OK.
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Sink (1), SinkBasin (1), Faucet (1), DishSponge (1), CounterTop (2), CoffeeMachine (1), Cabinet (16). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), Faucet (1), DishSponge (1), CounterTop (2), CoffeeMachine (1), Cabinet (16).
+Max decisions

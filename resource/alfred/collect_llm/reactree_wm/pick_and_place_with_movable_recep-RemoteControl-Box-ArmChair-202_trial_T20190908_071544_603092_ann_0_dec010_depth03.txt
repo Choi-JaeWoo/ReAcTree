@@ -1,0 +1,13 @@
+Your primary goal is to: Put a cardboard box with a remote in it on the seat of a chair.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up cardboard box, place cardboard box on chair, and place remote in cardboard box.
+Your task is to: place cardboard box on chair
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1), GarbageCan (1), CoffeeTable (1), ArmChair (1). I am holding Box (1) now.
+Think: I hold Box (1). Now, I need to put it on the chair. I can see ArmChair (1).
+OK.
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Box (1), ArmChair (1).  I am holding Box (1) now.
+Act: put down Box (1)
+You put down failed, drop it. You see Box (1), ArmChair (1).
+Think: I failed to put Box (1) on ArmChair (1).
+OK.
+Act: failure

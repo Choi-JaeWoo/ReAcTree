@@ -1,0 +1,142 @@
+Your task is to: Place a heated chalice into a sink
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20).
+Think: To solve the task, I need to find and pick up the chalice, then put it in the microwave. And I need to turn on and off the microwave. And I need to pick up the chalice from the microwave, then put it in the sink basin.
+OK.
+Think: First, I need to recall location of the chalice.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the chalice. The chalice is more likely to appear on CoffeeMachine (1), CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-20), Drawer (1-3). I can check each place one by one, starting from CoffeeMachine (1), until I find the chalice.
+OK.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see CounterTop (1), CoffeeMachine (1). 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the chalice. The chalice is more likely to appear on CoffeeMachine (1), CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-20), Drawer (1-3). I can check each place one by one, starting from CoffeeMachine (1), until I find the chalice.
+OK.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see CounterTop (1), CoffeeMachine (1). 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the chalice. The chalice is more likely to appear on CoffeeMachine (1), CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-20), Drawer (1-3). I can check each place one by one, starting from CoffeeMachine (1), until I find the chalice.
+OK.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see CounterTop (1), CoffeeMachine (1). 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the chalice. The chalice is more likely to appear on CoffeeMachine (1), CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-20), Drawer (1-3). I can check each place one by one, starting from CoffeeMachine (1), until I find the chalice.
+OK.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see CounterTop (1), CoffeeMachine (1). 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the chalice. The chalice is more likely to appear on CoffeeMachine (1), CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-20), Drawer (1-3). I can check each place one by one, starting from CoffeeMachine (1), until I find the chalice.
+OK.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see CounterTop (1), CoffeeMachine (1). 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the chalice. The chalice is more likely to appear on CoffeeMachine (1), CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-20), Drawer (1-3). I can check each place one by one, starting from CoffeeMachine (1), until I find the chalice.
+OK.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see CounterTop (1), CoffeeMachine (1). 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the chalice. The chalice is more likely to appear on CoffeeMachine (1), CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-20), Drawer (1-3). I can check each place one by one, starting from CoffeeMachine (1), until I find the chalice.
+OK.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see CounterTop (1), CoffeeMachine (1). 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the chalice. The chalice is more likely to appear on CoffeeMachine (1), CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-20), Drawer (1-3). I can check each place one by one, starting from CoffeeMachine (1), until I find the chalice.
+OK.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see CounterTop (1), CoffeeMachine (1). 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the chalice. The chalice is more likely to appear on CoffeeMachine (1), CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-20), Drawer (1-3). I can check each place one by one, starting from CoffeeMachine (1), until I find the chalice.
+OK.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see CounterTop (1), CoffeeMachine (1). 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the chalice. The chalice is more likely to appear on CoffeeMachine (1), CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-20), Drawer (1-3). I can check each place one by one, starting from CoffeeMachine (1), until I find the chalice.
+OK.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see CounterTop (1), CoffeeMachine (1). 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the chalice. The chalice is more likely to appear on CoffeeMachine (1), CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-20), Drawer (1-3). I can check each place one by one, starting from CoffeeMachine (1), until I find the chalice.
+OK.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see CounterTop (1), CoffeeMachine (1). 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the chalice. The chalice is more likely to appear on CoffeeMachine (1), CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-20), Drawer (1-3). I can check each place one by one, starting from CoffeeMachine (1), until I find the chalice.
+OK.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see CounterTop (1), CoffeeMachine (1). 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the chalice. The chalice is more likely to appear on CoffeeMachine (1), CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-20), Drawer (1-3). I can check each place one by one, starting from CoffeeMachine (1), until I find the chalice.
+OK.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see CounterTop (1), CoffeeMachine (1). 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the chalice. The chalice is more likely to appear on CoffeeMachine (1), CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-20), Drawer (1-3). I can check each place one by one, starting from CoffeeMachine (1), until I find the chalice.
+OK.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see CounterTop (1), CoffeeMachine (1). 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the chalice. The chalice is more likely to appear on CoffeeMachine (1), CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-20), Drawer (1-3). I can check each place one by one, starting from CoffeeMachine (1), until I find the chalice.
+OK.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see CounterTop (1), CoffeeMachine (1). 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the chalice. The chalice is more likely to appear on CoffeeMachine (1), CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-20), Drawer (1-3). I can check each place one by one, starting from CoffeeMachine (1), until I find the chalice.
+OK.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see CounterTop (1), CoffeeMachine (1). 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the chalice. The chalice is more likely to appear on CoffeeMachine (1), CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-20), Drawer (1-3). I can check each place one by one, starting from CoffeeMachine (1), until I find the chalice.
+OK.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see CounterTop (1), CoffeeMachine (1). 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.

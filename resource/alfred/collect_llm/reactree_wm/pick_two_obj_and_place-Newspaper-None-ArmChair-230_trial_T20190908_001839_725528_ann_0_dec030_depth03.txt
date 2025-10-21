@@ -1,0 +1,9 @@
+Your primary goal is to: Gather the newspapers and put them on the arm chair. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up newspapers, place newspapers on arm chair, Find and pick up newspapers away from arm chair, and place newspapers on arm chair.
+Your task is to: place newspapers on arm chair
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2), GarbageCan (1), DiningTable (1), CoffeeTable (1, 2), ArmChair (1, 2).
+Think: I hold Newspapers (1). Now, I need to put it on the arm chair. I can see ArmChair (1).
+OK.
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Sofa (1), Newspaper (1), ArmChair (1, 2). 
+Act: done

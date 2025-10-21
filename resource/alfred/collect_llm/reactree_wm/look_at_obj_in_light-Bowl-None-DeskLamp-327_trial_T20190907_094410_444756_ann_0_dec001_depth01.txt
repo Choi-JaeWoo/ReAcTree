@@ -1,0 +1,17 @@
+Your task is to: pick up cup while turning on lamp that is on dresser
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1, 2, 3, 4, 5), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), Desk (1), Bed (1).
+Think: First, I need to recall location of the cup.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now, I need to find the cup. The cup is more likely to appear on Desk (1), Bed (1), Dresser (1), or in Drawer (1-8). I can check each place one by one, starting from Desk (1), until I find the cup.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Window (1, 2), Shelf (4), Pencil (1), Pen (1), Desk (1), Chair (1), CD (1), Bowl (4), Book (1), AlarmClock (1). 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: pick up Bowl (4)
+You pick up Bowl (4). You see Window (1, 2), Shelf (4), Pencil (1), Pen (1), Desk (1), Chair (1), CD (1), Bowl (4), Book (1), AlarmClock (1). I am holding Bowl (4) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

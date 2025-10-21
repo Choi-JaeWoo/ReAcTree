@@ -1,0 +1,29 @@
+Your task is to: Turn a lamp on. 
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1, 2, 3, 4, 5), GarbageCan (1), Desk (1, 2), Bed (1).
+Think: To solve the task, I need to find and turn on the lamp.
+OK.
+Think: First, I need to recall location of the lamp.
+OK.
+Act: recall location of DeskLamp
+You have not seen DeskLamp before.
+Think: Now I need to find the desk lamp The desk lamp is more likely to appear on Desk (1-2), Shelf (1-5). I can check each place one by one, starting from Desk (1), until I find the desk lamp.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Window (2), Pencil (2), Pen (1), KeyChain (1), Desk (1), Curtains (2), Book (1). 
+Act: go to Desk (2)
+You arrive at Desk (2). You see Shelf (4), Pen (2), Laptop (1), KeyChain (2), Desk (2), CreditCard (1), Chair (1), CellPhone (1), CD (1), AlarmClock (1, 2). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (4), KeyChain (2), Desk (2), CreditCard (1), Chair (1), CellPhone (1), CD (1), AlarmClock (1, 2). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Shelf (4), KeyChain (2), Desk (2), CreditCard (1), Chair (1), CellPhone (1), CD (1), AlarmClock (1, 2). 
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Shelf (4), KeyChain (2), Desk (2), CreditCard (1), Chair (1), CellPhone (1), CD (1), AlarmClock (1, 2). 
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see Shelf (4), Pen (2), Desk (2), DeskLamp (1), CreditCard (1), CellPhone (1), CD (1), AlarmClock (1, 2). 
+Think: I find DeskLamp (1). Now, I need to turn it on.
+OK.
+Act: turn on DeskLamp (1)
+You turn on DeskLamp (1). You see Shelf (4), Pen (2), Desk (2), DeskLamp (1), CreditCard (1), CellPhone (1), CD (1), AlarmClock (1, 2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

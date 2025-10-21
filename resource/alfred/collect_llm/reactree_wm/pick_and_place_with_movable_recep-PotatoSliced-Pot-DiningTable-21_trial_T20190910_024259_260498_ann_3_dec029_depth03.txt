@@ -1,0 +1,28 @@
+Your primary goal is to: To cut a potato plus putting it in a pan as well as moving the pan from the stove to a table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, slice and pick up potato, place potato in pan, place pan on stove, and place pan on table.
+Your task is to: place potato in pan
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1, 2, 3), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4). I am holding Potato (3) now.
+Think: I hold Potato (3). Now, I need to recall location of the pan.
+OK.
+Act: recall location of Pan
+You saw Pan (1) near Fridge (1).
+Think: I can find Pan (1) near Fridge (1).
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Potato (3), Fridge (1). Fridge (1) is closed.  I am holding Potato (3) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Potato (3), Pan (1), Mug (3), Fridge (1). I am holding Potato (3) now.
+Think: I find Pan (1). Now, I need to put down Potato (3) in Pan (1).
+OK.
+Act: go to Pan (1)
+You arrive at Pan (1). You see Potato (3), Fridge (1).  I am holding Potato (3) now.
+Act: put down Potato (3)
+You put down failed, drop it. You see Potato (3), Fridge (1).
+Think: Now I need to pick up Potato (3).
+OK.
+Act: pick up Potato (3)
+You pick up Potato (3). You see Potato (3), Fridge (1). I am holding Potato (3) now.
+Act: put down Potato (3)
+You put down failed, drop it. You see Fridge (1).
+Think: Now I need to pick up Potato (3).
+OK.

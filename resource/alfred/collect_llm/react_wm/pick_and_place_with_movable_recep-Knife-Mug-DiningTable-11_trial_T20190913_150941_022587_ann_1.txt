@@ -1,0 +1,69 @@
+Your task is to: Place the knife inside of the chilled black mug.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10).
+Think: To solve the task, I need to find and pick up the mug, then put it in fridge. I need to pick up the mug from the fridge, then put it on the counter top. And I need to find and pick up the knife, then put it in the mug on the counter top.
+OK.
+Think: First, I need to recall location of the mug.
+OK.
+Act: recall location of Mug
+You have not seen Mug before.
+Think: Now I need to find the mug. The mug is more likely to appear on CoffeeMachine (1), DiningTable (1), CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-10), Drawer (1-6). I can check each place one by one, starting from CoffeeMachine (1), until I find the mug.
+OK.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see Toaster (1), StoveBurner (1, 2, 4), Pot (1, 2), PepperShaker (1), PaperTowelRoll (1), Pan (1), Kettle (1), Fork (2), Drawer (1, 4), CounterTop (1), CoffeeMachine (1), Cabinet (4). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spatula (2, 3), SaltShaker (1), Potato (1), Knife (1, 2), DishSponge (2), DiningTable (1), Cup (1, 2), Chair (1), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), Spoon (3), PepperShaker (1), PaperTowelRoll (1), Kettle (1), GarbageCan (1), Fork (2), Drawer (1, 4), CounterTop (1), CoffeeMachine (1), Cabinet (2, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Mug (3), Microwave (1), Egg (1), Drawer (2, 5, 6), CounterTop (2), Cabinet (3, 7, 8, 10). 
+Think: I find Mug (3). Now, I need to pick it up.
+OK.
+Act: pick up Mug (3)
+You pick up Mug (3). You see Mug (3), Microwave (1), Egg (1), Drawer (2, 5, 6), CounterTop (2), Cabinet (3, 7, 8, 10). I am holding Mug (3) now.
+Think: I hold Mug (3). Now, I need to put it in the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Mug (3), Fridge (1), Cabinet (7). Fridge (1) is closed.  I am holding Mug (3) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Potato (2), Mug (1, 3), Lettuce (1), Fridge (1), Apple (3). I am holding Mug (3) now.
+Act: put down Mug (3)
+You put Mug (3) on Fridge (1). You see Potato (2), Mug (1, 3), Lettuce (1), Fridge (1), Apple (3).
+Act: close Fridge (1)
+You close Fridge (1). You see Fridge (1), Cabinet (7).
+Think: I put Mug (3) in Fridge (1). Now, I need to pick up the mug from the fridge.
+OK.
+Act: open Fridge (1)
+You open Fridge (1). You see Potato (2), Mug (1, 3), Lettuce (1), Fridge (1), Apple (3).
+Act: pick up Mug (3)
+You pick up Mug (3). You see Potato (2), Mug (1, 3), Lettuce (1), Fridge (1), Apple (3). I am holding Mug (3) now.
+Think: I pick up Mug (3) from Fridge (1). Now, I need to put it on the counter top.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), Spoon (3), PepperShaker (1), PaperTowelRoll (1), Mug (3), Kettle (1), GarbageCan (1), Fork (2), Drawer (1, 4), CounterTop (1), CoffeeMachine (1), Cabinet (2, 4).  I am holding Mug (3) now.
+Act: put down Mug (3)
+You put Mug (3) on CounterTop (1). You see Toaster (1), Spoon (3), PepperShaker (1), PaperTowelRoll (1), Mug (3), Kettle (1), GarbageCan (1), Fork (2), Drawer (1, 4), CounterTop (1), CoffeeMachine (1), Cabinet (2, 4).
+Think: I put Mug (3) on the CounterTop (1). Now, I need to recall location of the knife.
+OK.
+Act: recall location of Knife
+You saw Knife (1) near DiningTable (1). You saw Knife (2) near DiningTable (1).
+Think: Knife (1) is on the DiningTable (1). Now, I need to pick it up.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spatula (2, 3), SaltShaker (1), Potato (1), Knife (1, 2), DishSponge (2), DiningTable (1), Cup (1, 2), Chair (1), Bread (1). 
+Act: pick up Knife (1)
+You pick up Knife (1). You see Spoon (2), Spatula (2, 3), SaltShaker (1), Potato (1), Knife (1, 2), DishSponge (2), DiningTable (1), Cup (1, 2), Chair (1), Bread (1). I am holding Knife (1) now.
+Think: I hold Knife (1). Now, I need to recall location of the mug.
+OK.
+Act: recall location of Mug
+You saw Mug (3) near CounterTop (1). You saw Mug (1) near Fridge (1).
+Think: Mug (3) is on the CounterTop (1). Now, I need to put Knife (1) in Mug (3).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), Spoon (3), PepperShaker (1), PaperTowelRoll (1), Mug (3), Knife (1), Kettle (1), GarbageCan (1), Fork (2), Drawer (1, 4), CounterTop (1), CoffeeMachine (1), Cabinet (2, 4).  I am holding Knife (1) now.
+Act: go to Mug (3)
+You arrive at Mug (3). You see Toaster (1), StoveBurner (1), Spoon (3), Pot (2), PepperShaker (1), PaperTowelRoll (1), Mug (3), Knife (1), Kettle (1), GarbageCan (1), Fork (2), Drawer (1, 4), CounterTop (1), CoffeeMachine (1), Cabinet (2, 4).  I am holding Knife (1) now.
+Act: put down Knife (1)
+You put Knife (1) on Mug (3). You see Toaster (1), StoveBurner (1), Spoon (3), Pot (2), PepperShaker (1), PaperTowelRoll (1), Mug (3), Knife (1), Kettle (1), GarbageCan (1), Fork (2), Drawer (1, 4), CounterTop (1), CoffeeMachine (1), Cabinet (2, 4).
+Think: Now I accomplish the goal.
+OK.
+Act: done

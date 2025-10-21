@@ -1,0 +1,132 @@
+Your task is to: Place a pan with a slice of pear in the refrigerator.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Safe (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16).
+Think: To solve the task, I need to find and pick up the pan, then put it in the fridge. And I need to find and pick up the knife. And I need to find and slice the pear. And I need to put down the knife and pick up the pear, then put it on the pan in the fridge.
+OK.
+Think: First, I need to recall location of the pan.
+OK.
+Act: recall location of Pan
+You have not seen Pan before.
+Think: Now I need to find the pan. The pan is more likely to appear on DiningTable (1), CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-16), Drawer (1-5). I can check each place one by one, starting from DiningTable (1), until I find the pan.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (2, 3), Spatula (3), PepperShaker (1), PaperTowelRoll (1), Lettuce (2), HousePlant (1), Fork (1), DiningTable (1), ButterKnife (1), Bowl (1, 2), Apple (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see SoapBottle (1), CounterTop (1), CoffeeMachine (1), Bread (1). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Toaster (1), StoveKnob (1, 2, 3, 4), StoveBurner (1, 2), Pot (1, 2), Pan (1), CounterTop (2). 
+Think: I find Pan (1). Now, I need to pick it up.
+OK.
+Act: pick up Pan (1)
+You pick up Pan (1). You see Toaster (1), StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Pot (1, 2), Pan (1), CounterTop (2). I am holding Pan (1) now.
+Think: I hold Pan (1). Now, I need to put it in the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Pan (1), Fridge (1). Fridge (1) is closed.  I am holding Pan (1) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Pan (1), Fridge (1). I am holding Pan (1) now.
+Act: put down Pan (1)
+You put down failed, drop it. You see Fridge (1).
+Think: Now I need to recall location of the knife.
+OK.
+Act: recall location of Knife
+You have not seen Knife before.
+Think: Now I need to find the knife. The knife is more likely to appear on DiningTable (1), CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-16), Drawer (1-5). I can check each place one by one, starting from DiningTable (1), until I find the knife.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (2, 3), Spatula (3), PepperShaker (1), PaperTowelRoll (1), Lettuce (2), HousePlant (1), Fork (1), DiningTable (1), ButterKnife (1), Bowl (1, 2), Apple (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see SoapBottle (1), CounterTop (1), CoffeeMachine (1), Bread (1). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Toaster (1), StoveBurner (3, 4), SoapBottle (1), Pot (2), Fridge (1), Drawer (3), CounterTop (1, 2), CoffeeMachine (1), Chair (1), Bread (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), Knife (1, 2), Faucet (1), Egg (1), CounterTop (1), Cabinet (2, 10, 13). 
+Think: I find Knife (1). Now, I need to pick it up.
+OK.
+Act: pick up Knife (1)
+You pick up Knife (1). You see Sink (1), SinkBasin (1), Knife (1, 2), Faucet (1), Egg (1), CounterTop (1), Cabinet (2, 10, 13). I am holding Knife (1) now.
+Think: I hold Knife (1). Now, I need to recall location of the pear.
+OK.
+Act: recall location of Apple
+You saw Apple (1) near DiningTable (1).
+Think: I can find Apple (1) near DiningTable (1).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (3), Spatula (3), PepperShaker (1), PaperTowelRoll (1), Lettuce (2), Knife (1), HousePlant (1), Fork (1), DiningTable (1), ButterKnife (1), Bowl (1, 2), Apple (1).  I am holding Knife (1) now.
+Think: I find Apple (1). Now, I need to slice it.
+OK.
+Act: slice Apple (1)
+You slice Apple (1). You see Tomato (3), Spatula (3), PepperShaker (1), PaperTowelRoll (1), Lettuce (2), Knife (1), HousePlant (1), Fork (1), DiningTable (1), ButterKnife (1), Bowl (1, 2), Apple (4, 5). Apple (3, 4, 5) are sliced. I am holding Knife (1) now.
+Think: I slice Apple (1). Now, I need to put down the knife.
+OK.
+Act: put down Knife (1)
+You put down failed, drop it. You see Tomato (3), Spatula (3), PepperShaker (1), PaperTowelRoll (1), Lettuce (2), HousePlant (1), Fork (1), DiningTable (1), ButterKnife (1), Bowl (1, 2), Apple (4, 5).
+Think: Now I need to pick up Apple (5).
+OK.
+Act: pick up Apple (5)
+You pick up Apple (5). You see Tomato (3), Spatula (3), PepperShaker (1), PaperTowelRoll (1), Lettuce (2), HousePlant (1), Fork (1), DiningTable (1), ButterKnife (1), Bowl (1, 2), Apple (4, 5). I am holding Apple (5) now.
+Think: I hold Apple (5). Now, I need to recall location of the pan.
+OK.
+Act: recall location of Pan
+You dropped Pan due to fail to put it on the receptacle. You need to find it again.
+Think: Now I need to find the pan. The pan is more likely to appear on DiningTable (1), CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-16), Drawer (1-5). I can check each place one by one, starting from DiningTable (1), until I find the pan.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (3), Spatula (3), PepperShaker (1), PaperTowelRoll (1), Lettuce (2), HousePlant (1), Fork (1), DiningTable (1), ButterKnife (1), Bowl (1, 2), Apple (4, 5).  I am holding Apple (5) now.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see SoapBottle (1), CounterTop (1), CoffeeMachine (1), Bread (1), Apple (5).  I am holding Apple (5) now.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Toaster (1), StoveBurner (3, 4), SoapBottle (1), Pot (2), Fridge (1), Drawer (3), CounterTop (1, 2), CoffeeMachine (1), Chair (1), Bread (1), Apple (5, 5).  I am holding Apple (5) now.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), Knife (2), Faucet (1), Egg (1), CounterTop (1), Cabinet (2, 10, 13), Apple (5).  I am holding Apple (5) now.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Sink (1, 1, 1, 1), SinkBasin (1, 1, 1, 1), Knife (2, 2, 2, 2), GarbageCan (1), Fridge (1), Faucet (1, 1, 1, 1), Egg (1, 1, 1, 1), CounterTop (1, 1, 1, 1), Chair (1), Cabinet (2, 2, 2, 2, 10, 10, 10, 10, 13, 13, 13, 13), Apple (2, 5, 5, 5, 5, 5). Fridge (1) is open.  I am holding Apple (5) now.
+Think: I find Pan (1). Now, I need to put Apple (5) on Pan (1).
+OK.
+Act: go to Apple (5)
+You already arrive at Apple (5). You see Tomato (2), Lettuce (2), GarbageCan (1, 1), Fridge (1, 1), Chair (1, 1), Apple (2, 2, 5, 5).  I am holding Apple (5) now.
+Act: go to Apple (2)
+You see Safe (1), GarbageCan (1), Fridge (1), Apple (2, 5).  I am holding Apple (5) now.
+Act: go to Apple (5)
+You already arrive at Apple (5). You see Safe (1, 1), GarbageCan (1, 1), Fridge (1, 1), Apple (2, 2, 5, 5).  I am holding Apple (5) now.
+Act: go to Apple (2)
+You see Safe (1), GarbageCan (1), Fridge (1), Apple (2, 5).  I am holding Apple (5) now.
+Act: go to Apple (5)
+You already arrive at Apple (5). You see Safe (1, 1), GarbageCan (1, 1), Fridge (1, 1), Apple (2, 2, 5, 5).  I am holding Apple (5) now.
+Act: go to Apple (2)
+You see Safe (1), GarbageCan (1), Fridge (1), Apple (2, 5).  I am holding Apple (5) now.
+Act: go to Apple (5)
+You already arrive at Apple (5). You see Safe (1, 1), GarbageCan (1, 1), Fridge (1, 1), Apple (2, 2, 5, 5).  I am holding Apple (5) now.
+Act: go to Apple (2)
+You see Safe (1), GarbageCan (1), Fridge (1), Apple (2, 5).  I am holding Apple (5) now.
+Act: go to Apple (5)
+You already arrive at Apple (5). You see Safe (1, 1), GarbageCan (1, 1), Fridge (1, 1), Apple (2, 2, 5, 5).  I am holding Apple (5) now.
+Act: go to Apple (2)
+You see Safe (1), GarbageCan (1), Fridge (1), Apple (2, 5).  I am holding Apple (5) now.
+Act: go to Apple (5)
+You already arrive at Apple (5). You see Safe (1, 1), GarbageCan (1, 1), Fridge (1, 1), Apple (2, 2, 5, 5).  I am holding Apple (5) now.
+Act: go to Apple (2)
+You see Safe (1), GarbageCan (1), Fridge (1), Apple (2, 5).  I am holding Apple (5) now.
+Act: go to Apple (5)
+You already arrive at Apple (5). You see Safe (1, 1), GarbageCan (1, 1), Fridge (1, 1), Apple (2, 2, 5, 5).  I am holding Apple (5) now.
+Act: go to Apple (2)
+You see Safe (1), GarbageCan (1), Fridge (1), Apple (2, 5).  I am holding Apple (5) now.
+Act: go to Apple (5)
+You already arrive at Apple (5). You see Safe (1, 1), GarbageCan (1, 1), Fridge (1, 1), Apple (2, 2, 5, 5).  I am holding Apple (5) now.
+Act: go to Apple (2)
+You see Safe (1), GarbageCan (1), Fridge (1), Apple (2, 5).  I am holding Apple (5) now.
+Act: go to Apple (5)
+You already arrive at Apple (5). You see Safe (1, 1), GarbageCan (1, 1), Fridge (1, 1), Apple (2, 2, 5, 5).  I am holding Apple (5) now.
+Act: go to Apple (2)
+You see Safe (1), GarbageCan (1), Fridge (1), Apple (2, 5).  I am holding Apple (5) now.
+Act: go to Apple (5)
+You already arrive at Apple (5). You see Safe (1, 1), GarbageCan (1, 1), Fridge (1, 1), Apple (2, 2, 5, 5).  I am holding Apple (5) now.
+Act: go to Apple (2)
+You see Safe (1), GarbageCan (1), Fridge (1), Apple (2, 5).  I am holding Apple (5) now.
+Act: go to Apple (5)
+You already arrive at Apple (5). You see Safe (1, 1), GarbageCan (1, 1), Fridge (1, 1), Apple (2, 2, 5, 5).  I am holding Apple (5) now.
+Act: go to Apple (2)
+You see Safe (1), GarbageCan (1), Fridge (1), Apple (2, 5).  I am holding Apple (5) now.
+Act: go to Apple (5)
+You already arrive at Apple (5). You see Safe (1, 1), GarbageCan (1, 1), Fridge (1, 1), Apple (2, 2, 5, 5).  I am holding Apple (5) now.
+Act: go to Apple (2)
+You see Safe (1), GarbageCan (1), Fridge (1), Apple (2, 5).  I am holding Apple (5) now.

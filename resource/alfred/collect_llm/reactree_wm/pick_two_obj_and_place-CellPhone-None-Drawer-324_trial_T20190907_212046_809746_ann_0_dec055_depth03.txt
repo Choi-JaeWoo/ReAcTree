@@ -1,0 +1,13 @@
+Your primary goal is to: place two phones inside the drawer
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up phone, place phone in drawer, find and pick up phone away from drawer, and place phone in drawer.
+Your task is to: place phone in drawer
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1, 2, 3, 4, 5, 6, 7), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10), Bed (1). I am holding Pen (1) now.
+Think: I hold Pen (1). Now, I need to put it in the drawer. I can see Drawer (1).
+OK.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pen (1, 3), Laptop (1), Dresser (1), Drawer (1, 4), CellPhone (2), CD (1), AlarmClock (2). Drawer (1) is open.  I am holding Pen (1) now.
+Act: put down Pen (1)
+You put Pen (1) on Drawer (1). You see Pen (1, 3), Laptop (1), Dresser (1), Drawer (1, 4), CellPhone (2), CD (1), AlarmClock (2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

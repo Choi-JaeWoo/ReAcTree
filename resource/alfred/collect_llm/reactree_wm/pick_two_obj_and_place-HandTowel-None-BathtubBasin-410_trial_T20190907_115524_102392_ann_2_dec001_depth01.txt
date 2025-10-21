@@ -1,0 +1,7 @@
+Your task is to: put two hanging towel in the tub
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1, 2), Toilet (1), ToiletPaperHanger (1), SinkBasin (1, 2), HandTowelHolder (1, 2), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), CounterTop (1), BathtubBasin (1).
+Think: Since I’m not holding towel, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up towel, place towel in tub, Find and pick up towel away from tub, and place towel in tub.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up towel, place towel in tub, Find and pick up towel away from tub, place towel in tub

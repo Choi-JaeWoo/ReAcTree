@@ -1,0 +1,118 @@
+Your task is to: Wash the yellow knife in the sink, put it in the drawer next to the fridge
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20).
+Think: To solve the task, I need to find and pick up the yellow knife, then put it in the sink basin. And I need to find and pick up the soap bottle, then put it on the yellow knife in the sink basin. And I need to find and pick up the sponge, then put it on the yellow knife in the sink basin. And I need to find and pick up the yellow knife, then put it in the drawer next to the fridge.
+OK.
+Think: First, I need to recall location of the yellow knife.
+OK.
+Act: recall location of Knife
+You have not seen Knife before.
+Think: Now I need to find the yellow knife. The yellow knife is more likely to appear on CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-20), Drawer (1-3). I can check each place one by one, starting from CounterTop (1), until I find the yellow knife.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Lettuce (2, 3), CreditCard (1), CounterTop (1), CoffeeMachine (1). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Toaster (1), StoveKnob (1), StoveBurner (1, 4), Spatula (1), SaltShaker (1), Pot (2), PepperShaker (1), Fridge (1), Drawer (3), Cup (1), CounterTop (2), Cabinet (7). 
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Microwave (1), Drawer (2), CounterTop (3), Cabinet (2, 20), Bowl (1). 
+Think: I find Knife (1). Now, I need to pick it up.
+OK.
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Microwave (1), Drawer (2), CounterTop (3), Cabinet (2, 20), Bowl (1). I am holding Bowl (1) now.
+Think: I hold Bowl (1). Now, I need to put it in the sink basin.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Spoon (1, 2), SoapBottle (1), Sink (1), SinkBasin (1), Plate (2), Faucet (1), Cup (2), CounterTop (3), Cabinet (11, 18, 19), ButterKnife (1), Bowl (1).  I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put down failed, drop it. You see Spoon (1, 2), SoapBottle (1), Sink (1), SinkBasin (1), Plate (2), Faucet (1), Cup (2), CounterTop (3), Cabinet (11, 18, 19), ButterKnife (1), Bowl (1).
+Think: I put Bowl (1) in the SinkBasin (1). Now, I need to recall location of the soap bottle.
+OK.
+Act: recall location of SoapBottle
+You saw SoapBottle (1) near SinkBasin (1).
+Think: SoapBottle (1) is in the SinkBasin (1). Now, I need to pick it up.
+OK.
+Act: go to SoapBottle (1)
+You see Spoon (2), SoapBottle (1), Sink (1), SinkBasin (1), Potato (3), Faucet (1), DishSponge (1), CounterTop (3), Cabinet (18), Bowl (1). 
+Act: pick up SoapBottle (1)
+You pick up SoapBottle (1). You see Spoon (2), SoapBottle (1), Sink (1), SinkBasin (1), Potato (3), Faucet (1), DishSponge (1), CounterTop (3), Cabinet (18), Bowl (1). I am holding SoapBottle (1) now.
+Think: I hold SoapBottle (1). Now, I need to recall location of the yellow knife.
+OK.
+Act: recall location of Knife
+You have not seen Knife before.
+Think: Now I need to find the yellow knife. The yellow knife is more likely to appear on CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-20), Drawer (1-3). I can check each place one by one, starting from CounterTop (1), until I find the yellow knife.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see SoapBottle (1), Lettuce (2, 3), CreditCard (1), CounterTop (1), CoffeeMachine (1).  I am holding SoapBottle (1) now.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Toaster (1), StoveKnob (1), StoveBurner (1, 4), Spatula (1), SoapBottle (1), SaltShaker (1), Pot (2), PepperShaker (1), Fridge (1), Drawer (3), Cup (1), CounterTop (2), Cabinet (7).  I am holding SoapBottle (1) now.
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see SoapBottle (1), Microwave (1), Drawer (2), CounterTop (3), Cabinet (2, 20).  I am holding SoapBottle (1) now.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see SoapBottle (1), GarbageCan (1), Fridge (1), Drawer (3), CounterTop (2), Cabinet (7). Fridge (1) is closed.  I am holding SoapBottle (1) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Tomato (3), Toaster (1), SoapBottle (1), Pot (1), Fridge (1), Drawer (3), CounterTop (2), Cabinet (7). I am holding SoapBottle (1) now.
+Act: close Fridge (1)
+You close Fridge (1). You see SoapBottle (1), GarbageCan (1), Fridge (1), Drawer (3), CounterTop (2), Cabinet (7). I am holding SoapBottle (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see SoapBottle (1), Microwave (1), Drawer (2), CounterTop (3), Cabinet (2, 20), Bread (2). Microwave (1) is closed.  I am holding SoapBottle (1) now.
+Act: open Microwave (1)
+You open Microwave (1). You see SoapBottle (1), Microwave (1), Drawer (2), CounterTop (3), Cabinet (2, 20). I am holding SoapBottle (1) now.
+Act: close Microwave (1)
+You close Microwave (1). You see SoapBottle (1), Microwave (1), Drawer (2), CounterTop (3), Cabinet (2, 20), Bread (2). I am holding SoapBottle (1) now.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see SoapBottle (1), Cabinet (1, 17). Cabinet (1) is closed.  I am holding SoapBottle (1) now.
+Act: open Cabinet (1)
+You open Cabinet (1). You see SoapBottle (1), Kettle (2), Cabinet (1, 5, 8, 17). I am holding SoapBottle (1) now.
+Act: close Cabinet (1)
+You close Cabinet (1). You see SoapBottle (1), Cabinet (1, 5, 8, 17). I am holding SoapBottle (1) now.
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see SoapBottle (1), Microwave (1), Drawer (2), CounterTop (3), Cabinet (2, 20), Bread (2). Cabinet (2) is closed.  I am holding SoapBottle (1) now.
+Act: open Cabinet (2)
+You open Cabinet (2). You see SoapBottle (1), Drawer (2), CounterTop (3), Cabinet (2, 20). I am holding SoapBottle (1) now.
+Act: close Cabinet (2)
+You close Cabinet (2). You see SoapBottle (1), Drawer (2), CounterTop (3), Cabinet (2, 20). I am holding SoapBottle (1) now.
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see SoapBottle (1), Cabinet (3, 14, 16). Cabinet (3) is closed.  I am holding SoapBottle (1) now.
+Act: open Cabinet (3)
+You open Cabinet (3). You see SoapBottle (1), Cabinet (3, 14, 16). I am holding SoapBottle (1) now.
+Act: close Cabinet (3)
+You close Cabinet (3). You see SoapBottle (1), Cabinet (3, 14, 16). I am holding SoapBottle (1) now.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see SoapBottle (1), Cabinet (4, 10, 15). Cabinet (4) is closed.  I am holding SoapBottle (1) now.
+Act: open Cabinet (4)
+You open Cabinet (4). You see SoapBottle (1), Cabinet (4, 10, 13, 15). I am holding SoapBottle (1) now.
+Act: close Cabinet (4)
+You close Cabinet (4). You see SoapBottle (1), Cabinet (4, 10, 13, 15). I am holding SoapBottle (1) now.
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see SoapBottle (1), Cabinet (5, 9, 16, 17). Cabinet (5) is closed.  I am holding SoapBottle (1) now.
+Act: open Cabinet (5)
+You open Cabinet (5). You see SoapBottle (1), Cabinet (5, 16, 17). I am holding SoapBottle (1) now.
+Act: close Cabinet (5)
+You close Cabinet (5). You see SoapBottle (1), Cabinet (5, 9, 16, 17). I am holding SoapBottle (1) now.
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see SoapBottle (1, 1), Fridge (1), Cabinet (5, 6, 9, 14, 16, 17). Cabinet (6) is closed.  I am holding SoapBottle (1) now.
+Act: open Cabinet (6)
+You open Cabinet (6). You see SoapBottle (1), Fridge (1), Cabinet (6, 14). I am holding SoapBottle (1) now.
+Act: close Cabinet (6)
+You close Cabinet (6). You see SoapBottle (1), Fridge (1), Cabinet (6, 14). I am holding SoapBottle (1) now.
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Toaster (1), StoveBurner (1, 4), Spatula (1), SoapBottle (1), SaltShaker (1), PepperShaker (1), Fridge (1), Drawer (3), Cup (1), CounterTop (2), Cabinet (7). Cabinet (7) is closed.  I am holding SoapBottle (1) now.
+Act: open Cabinet (7)
+You open Cabinet (7). You see SoapBottle (1), Fridge (1), Drawer (3), Cup (1), CounterTop (2), Cabinet (7). I am holding SoapBottle (1) now.
+Act: close Cabinet (7)
+You close Cabinet (7). You see SoapBottle (1), Fridge (1), Drawer (3), Cup (1), CounterTop (2), Cabinet (7). I am holding SoapBottle (1) now.
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see SoapBottle (1), Cabinet (1, 8, 10). Cabinet (8) is closed.  I am holding SoapBottle (1) now.
+Act: open Cabinet (8)
+You open Cabinet (8). You see SoapBottle (1), Cabinet (1, 8, 10). I am holding SoapBottle (1) now.
+Act: close Cabinet (8)
+You close Cabinet (8). You see SoapBottle (1), Cabinet (1, 8, 10). I am holding SoapBottle (1) now.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see SoapBottle (1), Cabinet (3, 5, 9, 16). Cabinet (9) is closed.  I am holding SoapBottle (1) now.
+Act: open Cabinet (9)
+You open Cabinet (9). You see SoapBottle (1), Cabinet (3, 5, 9, 16). I am holding SoapBottle (1) now.
+Act: close Cabinet (9)
+You close Cabinet (9). You see SoapBottle (1), Cabinet (3, 5, 9, 16). I am holding SoapBottle (1) now.
+Act: go to Cabinet (10)
+You arrive at Cabinet (10). You see SoapBottle (1), Cabinet (8, 10). Cabinet (10) is closed.  I am holding SoapBottle (1) now.
+Act: open Cabinet (10)
+You open Cabinet (10). You see SoapBottle (1), Cabinet (1, 4, 8, 10). I am holding SoapBottle (1) now.

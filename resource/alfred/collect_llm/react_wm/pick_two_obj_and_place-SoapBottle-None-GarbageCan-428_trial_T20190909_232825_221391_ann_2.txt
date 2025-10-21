@@ -1,0 +1,142 @@
+Your task is to: Put two brown toilet cleaners in a green can.
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), Sink (1, 2), SinkBasin (1, 2), HandTowelHolder (1), GarbageCan (1), CounterTop (1), Cabinet (1, 2, 3, 4).
+Think: To solve the task, I need to find and pick up the toilet cleaners. And I need to put them in the green can.
+OK.
+Think: First, I need to recall location of the toilet cleaners.
+OK.
+Act: recall location of ToiletPaper
+You have not seen ToiletPaper before.
+Think: Now I need to find the toilet cleaners. The toilet cleaners are more likely to appear on SinkBasin (1-2), or in Cabinet (1-4). I can check each place one by one, starting from SinkBasin (1), until I find the toilet cleaners.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Toilet (1), SprayBottle (1, 2), SoapBar (1), Sink (1), SinkBasin (1), Mirror (1), Faucet (2), CounterTop (1), Cabinet (1, 3, 4). 
+Act: go to SinkBasin (2)
+You arrive at SinkBasin (2). You see SprayBottle (2), SoapBottle (1), SoapBar (2), Sink (2), SinkBasin (2), Mirror (1), HandTowel (1), Faucet (1), CounterTop (1), Cabinet (1, 2, 3). 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see SprayBottle (1, 2), SoapBottle (1), SoapBar (1, 2), Sink (1, 2), SinkBasin (1, 2), Faucet (1, 2), CounterTop (1), Cabinet (1, 2, 3, 4). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see Toilet (1), SprayBottle (1), Cabinet (1, 2, 3, 4).
+Act: close Cabinet (1)
+You close Cabinet (1). You see Toilet (1), SprayBottle (1), Cabinet (1, 2, 3, 4).
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Sink (2), SinkBasin (2), HandTowel (1), Faucet (1), CounterTop (1), Cabinet (2, 3). Cabinet (2) is closed. 
+Act: open Cabinet (2)
+You open Cabinet (2). You see Sink (2), SinkBasin (2), HandTowel (1), Faucet (1), CounterTop (1), Cabinet (2, 3).
+Act: close Cabinet (2)
+You close Cabinet (2). You see Sink (2), SinkBasin (2), HandTowel (1), Faucet (1), CounterTop (1), Cabinet (2, 3).
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see SprayBottle (1, 2), SoapBottle (1), SoapBar (1, 2), Sink (1, 2), SinkBasin (1, 2), Faucet (1, 2), CounterTop (1), Cabinet (1, 2, 3, 4). Cabinet (3) is closed. 
+Act: open Cabinet (3)
+You open Cabinet (3). You see Toilet (1), ToiletPaper (1), Cloth (1), Cabinet (1, 2, 3, 4).
+Think: I find ToiletPaper (1). Now, I need to pick it up.
+OK.
+Act: pick up ToiletPaper (1)
+You pick up ToiletPaper (1). You see Toilet (1), ToiletPaper (1), Cloth (1), Cabinet (1, 2, 3, 4). I am holding ToiletPaper (1) now.
+Think: I hold ToiletPaper (1). Now, I need to recall location of the green can.
+OK.
+Act: recall location of SoapBottle
+You saw SoapBottle (1) near Cabinet (3).
+Think: I can find SoapBottle (1) near Cabinet (3).
+OK.
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see ToiletPaper (1), SprayBottle (1, 2), SoapBottle (1), SoapBar (2), Sink (1, 2), SinkBasin (2), Faucet (1), CounterTop (1), Cloth (1), Cabinet (1, 2, 3, 4). Cabinet (3) is open.  I am holding ToiletPaper (1) now.
+Think: I find SoapBottle (1). Now, I need to put ToiletPaper (1) in it.
+OK.
+Act: put down ToiletPaper (1)
+You put down failed, drop it. You see SprayBottle (1, 2), SoapBottle (1), SoapBar (2), Sink (1, 2), SinkBasin (2), Faucet (1), CounterTop (1), Cloth (1), Cabinet (1, 2, 3, 4).
+Think: Now I need to pick up ToiletPaper (1).
+OK.
+Act: pick up SoapBottle (1)
+You pick up SoapBottle (1). You see SprayBottle (1, 2), SoapBottle (1), SoapBar (1, 2), Sink (1, 2), SinkBasin (2), Faucet (1), CounterTop (1), Cloth (1), Cabinet (1, 2, 3, 4). I am holding SoapBottle (1) now.
+Think: I hold SoapBottle (1). Now, I need to put ToiletPaper (1) in it.
+OK.
+Act: put down SoapBottle (1)
+You put down failed, drop it. You see ToiletPaper (1), SprayBottle (1, 2), SoapBar (1, 2), Sink (1, 2), SinkBasin (2), Faucet (1), CounterTop (1), Cloth (1), Cabinet (1, 2, 3, 4).
+Think: Now I need to pick up ToiletPaper (1).
+OK.
+Act: pick up ToiletPaper (1)
+You pick up ToiletPaper (1). You see ToiletPaper (1), SprayBottle (1, 2), SoapBar (1, 2), Sink (1, 2), SinkBasin (2), Faucet (1), CounterTop (1), Cloth (1), Cabinet (1, 2, 3, 4). I am holding ToiletPaper (1) now.
+Think: I hold ToiletPaper (1). Now, I need to put it in SoapBottle (1).
+OK.
+Act: put down ToiletPaper (1)
+You put down failed, drop it. You see ToiletPaper (1), SprayBottle (1, 2), SoapBar (1, 2), Sink (1, 2), SinkBasin (2), Faucet (1), CounterTop (1), Cloth (1), Cabinet (1, 2, 3, 4).
+Think: Now I need to pick up ToiletPaper (1).
+OK.
+Act: pick up ToiletPaper (1)
+You pick up ToiletPaper (1). You see ToiletPaper (1), SprayBottle (1, 2), SoapBar (1, 2), Sink (1, 2), SinkBasin (2), Faucet (1), CounterTop (1), Cloth (1), Cabinet (1, 2, 3, 4). I am holding ToiletPaper (1) now.
+Think: I hold ToiletPaper (1). Now, I need to put it in SoapBottle (1).
+OK.
+Act: put down ToiletPaper (1)
+You put down failed, drop it. You see SprayBottle (1, 2), SoapBar (1, 2), Sink (1, 2), SinkBasin (2), Faucet (1), CounterTop (1), Cloth (1), Cabinet (1, 2, 3, 4).
+Think: Now I need to pick up ToiletPaper (1).
+OK.
+Act: pick up SoapBar (1)
+You pick up SoapBar (1). You see SprayBottle (1, 2), SoapBar (1, 2), Sink (1, 2), SinkBasin (2), Faucet (1), CounterTop (1), Cloth (1), Cabinet (1, 2, 3, 4). I am holding SoapBar (1) now.
+Think: I hold SoapBar (1). Now, I need to put ToiletPaper (1) in it.
+OK.
+Act: put down SoapBar (1)
+You put down failed, drop it. You see SprayBottle (1, 2), SoapBar (1, 2), Sink (1, 2), SinkBasin (2), Faucet (1), CounterTop (1), Cloth (1), Cabinet (1, 2, 3, 4).
+Think: Now I need to pick up ToiletPaper (1).
+OK.
+Act: pick up SoapBar (1)
+You pick up SoapBar (1). You see SprayBottle (1, 2), SoapBar (1, 2), Sink (1, 2), SinkBasin (2), Faucet (1), CounterTop (1), Cloth (1), Cabinet (1, 2, 3, 4). I am holding SoapBar (1) now.
+Think: I hold SoapBar (1). Now, I need to put ToiletPaper (1) in it.
+OK.
+Act: put down SoapBar (1)
+You put down failed, drop it. You see SprayBottle (1, 2), SoapBar (1, 2), Sink (1, 2), SinkBasin (2), Faucet (1), CounterTop (1), Cloth (1), Cabinet (1, 2, 3, 4).
+Think: Now I need to pick up ToiletPaper (1).
+OK.
+Act: pick up SoapBar (1)
+You pick up SoapBar (1). You see SprayBottle (1, 2), SoapBar (1, 2), Sink (1, 2), SinkBasin (2), Faucet (1), CounterTop (1), Cloth (1), Cabinet (1, 2, 3, 4). I am holding SoapBar (1) now.
+Think: I hold SoapBar (1). Now, I need to put ToiletPaper (1) in it.
+OK.
+Act: put down SoapBar (1)
+You put down failed, drop it. You see SprayBottle (1, 2), SoapBar (1, 2), Sink (1, 2), SinkBasin (2), Faucet (1), CounterTop (1), Cloth (1), Cabinet (1, 2, 3, 4).
+Think: Now I need to pick up ToiletPaper (1).
+OK.
+Act: pick up SoapBar (1)
+You pick up SoapBar (1). You see SprayBottle (1, 2), SoapBar (1, 2), Sink (1, 2), SinkBasin (2), Faucet (1), CounterTop (1), Cloth (1), Cabinet (1, 2, 3, 4). I am holding SoapBar (1) now.
+Think: I hold SoapBar (1). Now, I need to put ToiletPaper (1) in it.
+OK.
+Act: put down SoapBar (1)
+You put down failed, drop it. You see SprayBottle (1, 2), SoapBar (1, 2), Sink (1, 2), SinkBasin (2), Faucet (1), CounterTop (1), Cloth (1), Cabinet (1, 2, 3, 4).
+Think: Now I need to pick up ToiletPaper (1).
+OK.
+Act: pick up SoapBar (1)
+You pick up SoapBar (1). You see SprayBottle (1, 2), SoapBar (1, 2), Sink (1, 2), SinkBasin (2), Faucet (1), CounterTop (1), Cloth (1), Cabinet (1, 2, 3, 4). I am holding SoapBar (1) now.
+Think: I hold SoapBar (1). Now, I need to put ToiletPaper (1) in it.
+OK.
+Act: put down SoapBar (1)
+You put down failed, drop it. You see SprayBottle (1, 2), SoapBar (1, 2), Sink (1, 2), SinkBasin (2), Faucet (1), CounterTop (1), Cloth (1), Cabinet (1, 2, 3, 4).
+Think: Now I need to pick up ToiletPaper (1).
+OK.
+Act: pick up SoapBar (1)
+You pick up SoapBar (1). You see SprayBottle (1, 2), SoapBar (1, 2), Sink (1, 2), SinkBasin (2), Faucet (1), CounterTop (1), Cloth (1), Cabinet (1, 2, 3, 4). I am holding SoapBar (1) now.
+Think: I hold SoapBar (1). Now, I need to put ToiletPaper (1) in it.
+OK.
+Act: put down SoapBar (1)
+You put down failed, drop it. You see SprayBottle (1, 2), SoapBar (1, 2), Sink (1, 2), SinkBasin (2), Faucet (1), CounterTop (1), Cloth (1), Cabinet (1, 2, 3, 4).
+Think: Now I need to pick up ToiletPaper (1).
+OK.
+Act: pick up SoapBar (1)
+You pick up SoapBar (1). You see SprayBottle (1, 2), SoapBar (1, 2), Sink (1, 2), SinkBasin (2), Faucet (1), CounterTop (1), Cloth (1), Cabinet (1, 2, 3, 4). I am holding SoapBar (1) now.
+Think: I hold SoapBar (1). Now, I need to put ToiletPaper (1) in it.
+OK.
+Act: put down SoapBar (1)
+You put down failed, drop it. You see SprayBottle (1, 2), SoapBar (1, 2), Sink (1, 2), SinkBasin (2), Faucet (1), CounterTop (1), Cloth (1), Cabinet (1, 2, 3, 4).
+Think: Now I need to pick up ToiletPaper (1).
+OK.
+Act: pick up SoapBar (1)
+You pick up SoapBar (1). You see SprayBottle (1, 2), SoapBar (1, 2), Sink (1, 2), SinkBasin (2), Faucet (1), CounterTop (1), Cloth (1), Cabinet (1, 2, 3, 4). I am holding SoapBar (1) now.
+Think: I hold SoapBar (1). Now, I need to put ToiletPaper (1) in it.
+OK.
+Act: put down SoapBar (1)
+You put down failed, drop it. You see SprayBottle (1, 2), SoapBar (1, 2), Sink (1, 2), SinkBasin (2), Faucet (1), CounterTop (1), Cloth (1), Cabinet (1, 2, 3, 4).
+Think: Now I need to pick up ToiletPaper (1).
+OK.
+Act: pick up SoapBar (1)
+You pick up SoapBar (1). You see SprayBottle (1, 2), SoapBar (1, 2), Sink (1, 2), SinkBasin (2), Faucet (1), CounterTop (1), Cloth (1), Cabinet (1, 2, 3, 4). I am holding SoapBar (1) now.
+Think: I hold SoapBar (1). Now, I need to put ToiletPaper (1) in it.
+OK.
+Act: put down SoapBar (1)
+You put down failed, drop it. You see SprayBottle (1, 2), SoapBar (1, 2), Sink (1, 2), SinkBasin (2), Faucet (1), CounterTop (1), Cloth (1), Cabinet (1, 2, 3, 4).

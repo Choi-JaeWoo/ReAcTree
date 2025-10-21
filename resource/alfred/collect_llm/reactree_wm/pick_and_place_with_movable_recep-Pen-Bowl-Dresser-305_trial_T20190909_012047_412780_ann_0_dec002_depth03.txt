@@ -1,0 +1,29 @@
+Your primary goal is to: Move a bowl with a pen to the nightstand by the bed. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up bowl, place bowl on nightstand, find and pick up pen, and place pen in bowl.
+Your task is to: find and pick up bowl
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1), LaundryHamper (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5), Desk (1), Bed (1).
+Think: First, I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: Now, I need to find the bowl. The bowl is more likely to appear on Desk (1), or in Dresser (1), Drawer (1-5). I can check each place one by one, starting from Desk (1), until I find the bowl.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pencil (2), Pen (1), Mug (1), Laptop (1), KeyChain (2), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1), Chair (1), AlarmClock (1, 2). 
+Act: go to Dresser (1)
+You arrive at Dresser (1). You see Window (1), Pencil (1), Dresser (1), Drawer (1, 4), DeskLamp (1), CD (1), Box (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Window (1), Pencil (1), Dresser (1), Drawer (1, 4), DeskLamp (1), CD (1), Box (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Window (1), Pencil (1), Dresser (1), Drawer (1), DeskLamp (1), CD (1), Box (1).
+Act: close Drawer (1)
+You close Drawer (1). You see Window (1), Pencil (1), Dresser (1), Drawer (1), DeskLamp (1), CD (1), Box (1).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Shelf (1), Mug (1), Laptop (1), KeyChain (1, 2, 3), Drawer (2, 3, 5), Desk (1), CreditCard (1), Chair (1), Bowl (1). Drawer (2) is closed. 
+Think: I find Bowl (1). Now, I need to pick it up.
+OK.
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Shelf (1), Mug (1), Laptop (1), KeyChain (1, 2, 3), Drawer (2, 3, 5), Desk (1), CreditCard (1), Chair (1), Bowl (1). I am holding Bowl (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

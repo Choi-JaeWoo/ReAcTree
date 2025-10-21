@@ -1,0 +1,73 @@
+Your task is to: Move the blue pencil to be inside a bowl on the counter. 
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), LaundryHamper (1), GarbageCan (1), Dresser (1), Drawer (1, 2), DiningTable (1), CounterTop (1), Bed (1), ArmChair (1, 2).
+Think: To solve the task, I need to find and pick up the blue pencil. And I need to find and pick up the bowl. And I need to put down the blue pencil and pick up the bowl, then put it on the counter. And I need to put down the bowl and pick up the blue pencil, then put it in the bowl.
+OK.
+Think: First, I need to recall location of the blue pencil.
+OK.
+Act: recall location of Pencil
+You have not seen Pencil before.
+Think: Now I need to find the blue pencil. The blue pencil is more likely to appear on SideTable (1), CounterTop (1), or in Dresser (1), Drawer (1-2). I can check each place one by one, starting from SideTable (1), until I find the blue pencil.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), RemoteControl (1), Lamp (2), KeyChain (1, 2), ArmChair (2). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see RemoteControl (2), Pencil (4), Mirror (1), GarbageCan (1), CounterTop (1), CellPhone (1), AlarmClock (3). 
+Think: I find Pencil (4). Now, I need to pick it up.
+OK.
+Act: pick up Pencil (4)
+You pick up Pencil (4). You see RemoteControl (2), Pencil (4), Mirror (1), GarbageCan (1), CounterTop (1), CellPhone (1), AlarmClock (3). I am holding Pencil (4) now.
+Think: I hold Pencil (4). Now, I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: Now I need to find the bowl. The bowl is more likely to appear on SideTable (1), CounterTop (1), or in Dresser (1), Drawer (1-2). I can check each place one by one, starting from SideTable (1), until I find the bowl.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), RemoteControl (1), Pencil (4), Lamp (2), KeyChain (1, 2), ArmChair (2).  I am holding Pencil (4) now.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see RemoteControl (2), Pencil (4), Mirror (1), GarbageCan (1), CounterTop (1), CellPhone (1), AlarmClock (3).  I am holding Pencil (4) now.
+Act: go to Dresser (1)
+You arrive at Dresser (1). You see Television (1), RemoteControl (3), Pencil (1, 3, 4), KeyChain (3), Dresser (1), Drawer (1, 2), CellPhone (2), AlarmClock (1).  I am holding Pencil (4) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Television (1), RemoteControl (3), Pencil (1, 3, 4), KeyChain (3), Dresser (1), Drawer (1, 2), CellPhone (2), AlarmClock (1). Drawer (1) is closed.  I am holding Pencil (4) now.
+Act: open Drawer (1)
+You open Drawer (1). You see Television (1), RemoteControl (3), Pencil (1, 3, 4), KeyChain (3), Dresser (1), Drawer (1), CellPhone (2), AlarmClock (1). I am holding Pencil (4) now.
+Act: close Drawer (1)
+You close Drawer (1). You see Television (1), RemoteControl (3), Pencil (1, 3, 4), KeyChain (3), Dresser (1), Drawer (1, 2), CellPhone (2), AlarmClock (1). I am holding Pencil (4) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Television (1), RemoteControl (3), Pencil (1, 3, 4), KeyChain (3), Dresser (1), Drawer (1, 2), CellPhone (2), AlarmClock (1). Drawer (2) is closed.  I am holding Pencil (4) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Television (1), RemoteControl (3), Pencil (1, 3, 4), KeyChain (3), Dresser (1), Drawer (1, 2), CellPhone (2), ArmChair (2), AlarmClock (1). I am holding Pencil (4) now.
+Act: close Drawer (2)
+You close Drawer (2). You see Television (1), RemoteControl (3), Pencil (1, 3, 4), KeyChain (3), Dresser (1), Drawer (1, 2), CellPhone (2), ArmChair (2), AlarmClock (1). I am holding Pencil (4) now.
+Think: I find Bowl (1). Now, I need to pick it up.
+OK.
+Act: pick up Pencil (4)
+You are currently holding Pencil (4). I am holding Pencil (4) now.
+Think: I hold Pencil (4). Now, I need to put it on the counter.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see RemoteControl (2), Pencil (4), Mirror (1), GarbageCan (1), CounterTop (1), CellPhone (1), AlarmClock (3).  I am holding Pencil (4) now.
+Act: put down Pencil (4)
+You put Pencil (4) on CounterTop (1). You see RemoteControl (2), Pencil (4), Mirror (1), GarbageCan (1), CounterTop (1), CellPhone (1), AlarmClock (3).
+Think: I put Pencil (4) on the CounterTop (1). Now, I need to recall location of the blue pencil.
+OK.
+Act: recall location of Pencil
+You saw Pencil (4) near CounterTop (1). You saw Pencil (1) near Drawer (2). You saw Pencil (3) near Drawer (2).
+Think: Pencil (4) is on the CounterTop (1). Now, I need to put Pencil (4) in Bowl (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see RemoteControl (2), Pencil (4), Mirror (1), GarbageCan (1), CounterTop (1), CellPhone (1), AlarmClock (3). 
+Act: go to Pencil (4)
+You see Pencil (4), Pen (1), Mirror (1), GarbageCan (1), CounterTop (1), CellPhone (1). 
+Act: pick up Pencil (4)
+You pick up Pencil (4). You see Pencil (4), Pen (1), Mirror (1), GarbageCan (1), CounterTop (1), CellPhone (1). I am holding Pencil (4) now.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see RemoteControl (2), Pencil (4), Mirror (1), GarbageCan (1), CounterTop (1), CellPhone (1), AlarmClock (3).  I am holding Pencil (4) now.
+Act: go to Pencil (4)
+You already arrive at Pencil (4). You see RemoteControl (2, 2), Pencil (4, 4), Mirror (1, 1), GarbageCan (1, 1), CounterTop (1, 1), CellPhone (1, 1), AlarmClock (3, 3).  I am holding Pencil (4) now.
+Act: put down Pencil (4)
+You put down failed, drop it. You see RemoteControl (2), Pencil (4), Mirror (1), GarbageCan (1), CounterTop (1), CellPhone (1), AlarmClock (3).
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,21 @@
+Your primary goal is to: Put a clean knife in the third drawer.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, clean knife, find and pick up knife, and and place knife in drawer.
+Your task is to: clean knife
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4, 5, 6), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9). I am holding Knife (2) now.
+Think: First, I need to recall location of the sink.
+OK.
+Act: recall location of Spoon
+You have not seen Spoon before.
+Think: Now, I need to find the sink. The sink is more likely to appear on CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-9), Drawer (1-13). I can check each place one by one, starting from CounterTop (1), until I find the sink.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (2), Spatula (1), Sink (1), SinkBasin (1), Plate (1), Mug (1), Knife (2), Faucet (1), CounterTop (1), Cabinet (1, 8).  I am holding Knife (2) now.
+Think: I find Sink (1). Now, I need to clean the knife.
+OK.
+Act: turn on Faucet (1)
+You turn on Faucet (1). You see Window (2), Spatula (1), Sink (1), SinkBasin (1), Plate (1), Mug (1), Knife (2), Faucet (1), CounterTop (1), Cabinet (1, 8). I am holding Knife (2) now.
+Act: turn off Faucet (1)
+You turn off Faucet (1). You see Window (2), Spatula (1), Sink (1), SinkBasin (1), Plate (1), Mug (1), Knife (2), Faucet (1), CounterTop (1), Cabinet (1, 8). I am holding Knife (2) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

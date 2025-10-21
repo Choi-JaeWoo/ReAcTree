@@ -1,0 +1,21 @@
+Your primary goal is to: Put a glass bowl with a credit card in it onto the large black dresser.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up bowl, place bowl on dresser, find and pick up credit card, and place credit card in bowl near dresser.
+Your task is to: place credit card in bowl near dresser
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1, 2), Shelf (1, 2), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16), Bed (1), ArmChair (1). I am holding Statue (1) now.
+Think: I hold Statue (1). Now, I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You saw Bowl (1) near Drawer (15).
+Think: I can find Bowl (1) in Drawer (15).
+OK.
+Act: go to Drawer (15)
+You arrive at Drawer (15). You see Statue (1, 2), Mirror (1), Dresser (1), Drawer (4, 5, 6, 10, 14, 15, 16), Bowl (1), AlarmClock (1). Drawer (15) is closed.  I am holding Statue (1) now.
+Act: open Drawer (15)
+You open Drawer (15). You see Statue (1, 2), Dresser (1, 2), Drawer (5, 7, 10, 14, 15, 16), Bowl (1), AlarmClock (1). I am holding Statue (1) now.
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Statue (1, 2), Mirror (1), Dresser (1, 2), Drawer (5, 10, 15), AlarmClock (1).  I am holding Statue (1) now.
+Act: put down Statue (1)
+You put down failed, drop it. You see Statue (2), Mirror (1), Dresser (1, 2), Drawer (5, 10, 15), Bowl (1), AlarmClock (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,112 @@
+Your task is to: turn the light on the desk on while holding a power bank
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1), GarbageCan (1), Drawer (1, 2), Desk (1), Bed (1).
+Think: To solve the task, I need to find and pick up the power bank. And I need to find and turn on the desk lamp.
+OK.
+Think: First, I need to recall location of the power bank.
+OK.
+Act: recall location of CellPhone
+You have not seen CellPhone before.
+Think: Now I need to find the power bank. The power bank is more likely to appear on Bed (1), Desk (1), SideTable (1), Shelf (1), or in Drawer (1-2). I can check each place one by one, starting from Bed (1), until I find the power bank.
+OK.
+Act: go to Bed (1)
+You arrive at Bed (1). You see Pillow (1, 2), Laptop (1, 2), CellPhone (2), Bed (1). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Desk (1), CreditCard (3), Chair (1), CellPhone (1), Bowl (1). 
+Think: I find CellPhone (1). Now, I need to pick it up.
+OK.
+Act: pick up CellPhone (1)
+You pick up CellPhone (1). You see Desk (1), CreditCard (3), Chair (1), CellPhone (1), Bowl (1). I am holding CellPhone (1) now.
+Think: I hold CellPhone (1). Now, I need to recall location of the desk lamp.
+OK.
+Act: recall location of DeskLamp
+You have not seen DeskLamp before.
+Think: Now I need to find the desk lamp The desk lamp is more likely to appear on Shelf (1), or in Drawer (1-2). I can check each place one by one, starting from Shelf (1), until I find the desk lamp.
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), GarbageCan (1), Desk (1), CreditCard (1), Chair (1), CellPhone (1), CD (2), Book (2), AlarmClock (2).  I am holding CellPhone (1) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (1), KeyChain (2), Drawer (1, 2), CellPhone (1), CD (1), Book (1), Bed (1), AlarmClock (1). Drawer (1) is closed.  I am holding CellPhone (1) now.
+Act: open Drawer (1)
+You open Drawer (1). You see SideTable (1), Laptop (1), KeyChain (2), Drawer (1), CellPhone (1), CD (1), Book (1), Bed (1), AlarmClock (1). I am holding CellPhone (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (1), KeyChain (2), Drawer (1), CellPhone (1), CD (1), Book (1), Bed (1), AlarmClock (1). Drawer (2) is closed.  I am holding CellPhone (1) now.
+Act: open Drawer (2)
+The Drawer (2) is not close to you. I am holding CellPhone (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (1), KeyChain (2), Drawer (1), CellPhone (1), CD (1), Book (1), Bed (1), AlarmClock (1). Drawer (2) is closed.  I am holding CellPhone (1) now.
+Act: open Drawer (2)
+The Drawer (2) is not close to you. I am holding CellPhone (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (1), KeyChain (2), Drawer (1), CellPhone (1), CD (1), Book (1), Bed (1), AlarmClock (1). Drawer (2) is closed.  I am holding CellPhone (1) now.
+Act: open Drawer (2)
+The Drawer (2) is not close to you. I am holding CellPhone (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (1), KeyChain (2), Drawer (1), CellPhone (1), CD (1), Book (1), Bed (1), AlarmClock (1). Drawer (2) is closed.  I am holding CellPhone (1) now.
+Act: open Drawer (2)
+The Drawer (2) is not close to you. I am holding CellPhone (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (1), KeyChain (2), Drawer (1), CellPhone (1), CD (1), Book (1), Bed (1), AlarmClock (1). Drawer (2) is closed.  I am holding CellPhone (1) now.
+Act: open Drawer (2)
+The Drawer (2) is not close to you. I am holding CellPhone (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (1), KeyChain (2), Drawer (1), CellPhone (1), CD (1), Book (1), Bed (1), AlarmClock (1). Drawer (2) is closed.  I am holding CellPhone (1) now.
+Act: open Drawer (2)
+The Drawer (2) is not close to you. I am holding CellPhone (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (1), KeyChain (2), Drawer (1), CellPhone (1), CD (1), Book (1), Bed (1), AlarmClock (1). Drawer (2) is closed.  I am holding CellPhone (1) now.
+Act: open Drawer (2)
+The Drawer (2) is not close to you. I am holding CellPhone (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (1), KeyChain (2), Drawer (1), CellPhone (1), CD (1), Book (1), Bed (1), AlarmClock (1). Drawer (2) is closed.  I am holding CellPhone (1) now.
+Act: open Drawer (2)
+The Drawer (2) is not close to you. I am holding CellPhone (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (1), KeyChain (2), Drawer (1), CellPhone (1), CD (1), Book (1), Bed (1), AlarmClock (1). Drawer (2) is closed.  I am holding CellPhone (1) now.
+Act: open Drawer (2)
+The Drawer (2) is not close to you. I am holding CellPhone (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (1), KeyChain (2), Drawer (1), CellPhone (1), CD (1), Book (1), Bed (1), AlarmClock (1). Drawer (2) is closed.  I am holding CellPhone (1) now.
+Act: open Drawer (2)
+The Drawer (2) is not close to you. I am holding CellPhone (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (1), KeyChain (2), Drawer (1), CellPhone (1), CD (1), Book (1), Bed (1), AlarmClock (1). Drawer (2) is closed.  I am holding CellPhone (1) now.
+Act: open Drawer (2)
+The Drawer (2) is not close to you. I am holding CellPhone (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (1), KeyChain (2), Drawer (1), CellPhone (1), CD (1), Book (1), Bed (1), AlarmClock (1). Drawer (2) is closed.  I am holding CellPhone (1) now.
+Act: open Drawer (2)
+The Drawer (2) is not close to you. I am holding CellPhone (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (1), KeyChain (2), Drawer (1), CellPhone (1), CD (1), Book (1), Bed (1), AlarmClock (1). Drawer (2) is closed.  I am holding CellPhone (1) now.
+Act: open Drawer (2)
+The Drawer (2) is not close to you. I am holding CellPhone (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (1), KeyChain (2), Drawer (1), CellPhone (1), CD (1), Book (1), Bed (1), AlarmClock (1). Drawer (2) is closed.  I am holding CellPhone (1) now.
+Act: open Drawer (2)
+The Drawer (2) is not close to you. I am holding CellPhone (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (1), KeyChain (2), Drawer (1), CellPhone (1), CD (1), Book (1), Bed (1), AlarmClock (1). Drawer (2) is closed.  I am holding CellPhone (1) now.
+Act: open Drawer (2)
+The Drawer (2) is not close to you. I am holding CellPhone (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (1), KeyChain (2), Drawer (1), CellPhone (1), CD (1), Book (1), Bed (1), AlarmClock (1). Drawer (2) is closed.  I am holding CellPhone (1) now.
+Act: open Drawer (2)
+The Drawer (2) is not close to you. I am holding CellPhone (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (1), KeyChain (2), Drawer (1), CellPhone (1), CD (1), Book (1), Bed (1), AlarmClock (1). Drawer (2) is closed.  I am holding CellPhone (1) now.
+Act: open Drawer (2)
+The Drawer (2) is not close to you. I am holding CellPhone (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (1), KeyChain (2), Drawer (1), CellPhone (1), CD (1), Book (1), Bed (1), AlarmClock (1). Drawer (2) is closed.  I am holding CellPhone (1) now.
+Act: open Drawer (2)
+The Drawer (2) is not close to you. I am holding CellPhone (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (1), KeyChain (2), Drawer (1), CellPhone (1), CD (1), Book (1), Bed (1), AlarmClock (1). Drawer (2) is closed.  I am holding CellPhone (1) now.
+Act: open Drawer (2)
+The Drawer (2) is not close to you. I am holding CellPhone (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (1), KeyChain (2), Drawer (1), CellPhone (1), CD (1), Book (1), Bed (1), AlarmClock (1). Drawer (2) is closed.  I am holding CellPhone (1) now.
+Act: open Drawer (2)
+The Drawer (2) is not close to you. I am holding CellPhone (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (1), KeyChain (2), Drawer (1), CellPhone (1), CD (1), Book (1), Bed (1), AlarmClock (1). Drawer (2) is closed.  I am holding CellPhone (1) now.

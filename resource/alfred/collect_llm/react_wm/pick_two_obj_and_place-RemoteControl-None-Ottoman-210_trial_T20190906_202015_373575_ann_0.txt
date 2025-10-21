@@ -1,0 +1,37 @@
+Your task is to: Place two remotes on an ottoman.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), Ottoman (1), GarbageCan (1), Dresser (1, 2), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CoffeeTable (1, 2), ArmChair (1).
+Think: To solve the task, I need to find and pick up the remotes, then put it on the ottoman.
+OK.
+Think: First, I need to recall location of the remote.
+OK.
+Act: recall location of RemoteControl
+You have not seen RemoteControl before.
+Think: Now I need to find the remote control. The remote control is more likely to appear on Sofa (1), Ottoman (1), CoffeeTable (1-2), ArmChair (1), or in Drawer (1-8). I can check each place one by one, starting from Sofa (1), until I find the remote control.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), RemoteControl (1, 2), Pillow (1), Box (2). 
+Think: I find RemoteControl (1). Now, I need to pick it up.
+OK.
+Act: pick up RemoteControl (1)
+You pick up RemoteControl (1). You see Sofa (1), RemoteControl (1, 2), Pillow (1), Box (2). I am holding RemoteControl (1) now.
+Think: I hold RemoteControl (1). Now, I need to put it on the ottoman.
+OK.
+Act: go to Ottoman (1)
+You arrive at Ottoman (1). You see RemoteControl (1), Ottoman (1), Newspaper (1), Laptop (1).  I am holding RemoteControl (1) now.
+Act: put down RemoteControl (1)
+You put RemoteControl (1) on Ottoman (1). You see RemoteControl (1), Ottoman (1), Newspaper (1), Laptop (1).
+Think: I put RemoteControl (1) on the Ottoman (1). Now, I need to recall location of RemoteControl.
+OK.
+Act: recall location of RemoteControl
+You saw RemoteControl (1) near Ottoman (1). You saw RemoteControl (2) near Sofa (1).
+Think: RemoteControl (2) is on Sofa (1). Now, I need to find another remote control. The remote control is more likely to appear on CoffeeTable (1-2), ArmChair (1), or in Drawer (1-8). I can check each place one by one, starting from CoffeeTable (1), until I find the remote control.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see DeskLamp (1), CoffeeTable (1), Chair (1). 
+Act: go to CoffeeTable (2)
+You arrive at CoffeeTable (2). You see Sofa (1), KeyChain (1), GarbageCan (1), CoffeeTable (2), ArmChair (1). 
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see CreditCard (3), ArmChair (1). 
+Think: Now I accomplish the goal.
+OK.
+Act: done

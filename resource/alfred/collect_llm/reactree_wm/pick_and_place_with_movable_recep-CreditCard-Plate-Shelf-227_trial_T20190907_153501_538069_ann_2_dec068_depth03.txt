@@ -1,0 +1,63 @@
+Your primary goal is to: Put a plate with a credit card on the counter.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up plate, place plate on counter, find and pick up credit card, and place credit card on plate near counter.
+Your task is to: place credit card on plate near counter
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7), DiningTable (1), CoffeeTable (1, 2), Cabinet (1, 2, 3, 4, 5, 6, 7, 8), ArmChair (1, 2). I am holding CreditCard (1) now.
+Think: I hold CreditCard (1). Now, I need to recall location of the plate.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now, I need to find the plate. The plate is more likely to appear on DiningTable (1), CoffeeTable (1-2), or in Cabinet (1-8), Drawer (1-7). I can check each place one by one, starting from DiningTable (1), until I find the plate.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (5), Statue (7), RemoteControl (1), DiningTable (1), CreditCard (1), Chair (3, 4, 6), Box (2).  I am holding CreditCard (1) now.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Statue (1, 3), Newspaper (1), Laptop (1), CreditCard (1), CoffeeTable (1, 2), Box (1).  I am holding CreditCard (1) now.
+Act: go to CoffeeTable (2)
+You arrive at CoffeeTable (2). You see Statue (1, 3), Newspaper (1), Laptop (1), Drawer (4), CreditCard (1, 2), CoffeeTable (1, 2).  I am holding CreditCard (1) now.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Vase (2, 4), Shelf (1, 6), Drawer (2, 5), CreditCard (1), Cabinet (1). Cabinet (1) is closed.  I am holding CreditCard (1) now.
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Sofa (1), Drawer (1, 6), CreditCard (1), Cabinet (2). Cabinet (2) is closed.  I am holding CreditCard (1) now.
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see CreditCard (1), Cabinet (3). Cabinet (3) is closed.  I am holding CreditCard (1) now.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see CreditCard (1, 1), Cabinet (3, 3, 4). Cabinet (4) is closed.  I am holding CreditCard (1) now.
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Shelf (2, 13), CreditCard (1, 1, 1, 1), Cabinet (3, 3, 3, 4, 4, 4, 5, 6). Cabinet (5) is closed.  I am holding CreditCard (1) now.
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Shelf (2, 2, 2, 2, 6, 13, 13, 13, 13), CreditCard (1, 1, 1, 1), Cabinet (5, 5, 5, 5, 6, 6, 6, 6). Cabinet (6) is closed.  I am holding CreditCard (1) now.
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Shelf (8), CreditCard (1), Cabinet (2, 7). Cabinet (7) is closed.  I am holding CreditCard (1) now.
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Drawer (2, 5), CreditCard (1), Cabinet (1, 8). Cabinet (8) is closed.  I am holding CreditCard (1) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Statue (5), Shelf (3), Drawer (1, 6), CreditCard (1), Cabinet (7). Drawer (1) is closed.  I am holding CreditCard (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Vase (4), Statue (2), Shelf (5), Drawer (2, 5), CreditCard (1), Cabinet (8). Drawer (2) is closed.  I am holding CreditCard (1) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Vase (3), Shelf (4, 7), Drawer (3, 4), CreditCard (1). Drawer (3) is closed.  I am holding CreditCard (1) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Television (1), Shelf (7), Drawer (3, 4, 7), CreditCard (1). Drawer (4) is closed.  I am holding CreditCard (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Vase (4), Statue (2), Shelf (5), Drawer (2, 5), CreditCard (1), Cabinet (8). Drawer (5) is closed.  I am holding CreditCard (1) now.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Statue (5), Shelf (3), Drawer (1, 6), CreditCard (1), Cabinet (7). Drawer (6) is closed.  I am holding CreditCard (1) now.
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see Television (1), Shelf (7), Drawer (4, 7), CreditCard (1). Drawer (7) is closed.  I am holding CreditCard (1) now.
+Think: I find Plate (1). Now, I need to put down CreditCard (1) on Plate (1).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (5), Statue (7), RemoteControl (1), DiningTable (1), CreditCard (1), Chair (3, 4, 6), Box (2).  I am holding CreditCard (1) now.
+Act: go to Chair (3)
+You see Vase (5), Statue (7), DiningTable (1), CreditCard (1), Chair (1, 3, 5), Box (2).  I am holding CreditCard (1) now.
+Act: go to Chair (1)
+You see Statue (7), DiningTable (1), CreditCard (1), Chair (1, 3).  I am holding CreditCard (1) now.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (5), Statue (7), RemoteControl (1), DiningTable (1), CreditCard (1), Chair (3, 4, 6), Box (2).  I am holding CreditCard (1) now.
+Act: go to Box (2)
+You arrive at Box (2). You see Vase (5), Statue (7), RemoteControl (1), Plate (1), Newspaper (2), DiningTable (1), CreditCard (1), Chair (2, 3, 6), Box (2). Box (2) is open.  I am holding CreditCard (1) now.
+Act: put down CreditCard (1)
+You put CreditCard (1) on Box (2). You see Vase (5), Statue (7), RemoteControl (1), Plate (1), Newspaper (2), DiningTable (1), CreditCard (1), Chair (2, 3, 6), Box (2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

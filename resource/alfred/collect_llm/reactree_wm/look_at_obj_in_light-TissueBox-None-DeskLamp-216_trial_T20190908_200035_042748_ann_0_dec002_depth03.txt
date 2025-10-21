@@ -1,0 +1,19 @@
+Your primary goal is to: Hold the tissue box near the lighted lamp on the end table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up tissue box, find and turn on lamp, and place tissue box near lamp.
+Your task is to: find and pick up tissue box
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2, 3), Shelf (1), GarbageCan (1), Drawer (1, 2, 3, 4), DiningTable (1), ArmChair (1).
+Think: First, I need to recall location of the tissue box.
+OK.
+Act: recall location of TissueBox
+You have not seen TissueBox before.
+Think: Now, I need to find the tissue box. The tissue box is more likely to appear on SideTable (1-3), Shelf (1), DiningTable (1), or in Drawer (1-4). I can check each place one by one, starting from SideTable (1), until I find the tissue box.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (1, 2), TissueBox (1), SideTable (1), Drawer (2, 4), CreditCard (2). 
+Think: I find TissueBox (1). Now, I need to pick it up.
+OK.
+Act: pick up TissueBox (1)
+You pick up TissueBox (1). You see Vase (1, 2), TissueBox (1), SideTable (1), Drawer (2, 4), CreditCard (2). I am holding TissueBox (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

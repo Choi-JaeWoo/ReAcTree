@@ -1,0 +1,69 @@
+Your primary goal is to: Pick up the box and turn on the light.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up box, and turn on light.
+Your task is to: find and pick up box
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5), Desk (1), Bed (1).
+Think: First, I need to recall location of the box.
+OK.
+Act: recall location of Box
+You have not seen Box before.
+Think: Now, I need to find the box. The box is more likely to appear on SideTable (1), Shelf (1-12), or in Drawer (1-5). I can check each place one by one, starting from SideTable (1), until I find the box.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pillow (1), Pen (2, 3), Mug (1), KeyChain (2), Drawer (1, 2, 5), Desk (1), DeskLamp (1), Chair (1), CellPhone (2), Bed (1), AlarmClock (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TennisRacket (1), Shelf (1, 4, 6, 7, 8, 9, 10, 11, 12), CD (1). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Shelf (2, 11). 
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Vase (2), Shelf (3, 5). 
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see TennisRacket (1), Shelf (1, 4, 6, 7, 8, 9, 10, 12), CD (1). 
+Act: go to Shelf (5)
+You arrive at Shelf (5). You see Shelf (5, 6, 7). 
+Act: go to Shelf (6)
+You arrive at Shelf (6). You see Shelf (1, 4, 5, 6, 7, 9, 12), Drawer (3, 4), CD (1). 
+Act: go to Shelf (7)
+You arrive at Shelf (7). You see Shelf (1, 4, 5, 6, 7, 9, 12), Drawer (3, 4), CD (1). 
+Act: go to Shelf (8)
+You arrive at Shelf (8). You see TennisRacket (1), Shelf (1, 4, 6, 8, 9, 10, 11, 12), CD (1). 
+Act: go to Shelf (9)
+You arrive at Shelf (9). You see Shelf (1, 4, 5, 6, 7, 9, 12), Drawer (3, 4), CD (1). 
+Act: go to Shelf (10)
+You arrive at Shelf (10). You see Shelf (1, 4, 6, 8, 10, 11). 
+Act: go to Shelf (11)
+You arrive at Shelf (11). You see Shelf (8, 10, 11). 
+Act: go to Shelf (12)
+You arrive at Shelf (12). You see TennisRacket (1), Shelf (1, 4, 6, 7, 9, 12), Drawer (3, 4), CD (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (1), Pillow (1), Pen (2, 3), Mug (1), KeyChain (2), Drawer (1, 2, 5), Desk (1), DeskLamp (1), Chair (1), CellPhone (2), Bed (1), AlarmClock (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see SideTable (1), Pillow (1), Pen (2, 3), Mug (1), KeyChain (2), Drawer (1, 2), Desk (1), DeskLamp (1), Chair (1), CellPhone (2), Bed (1), AlarmClock (1).
+Act: close Drawer (1)
+You close Drawer (1). You see SideTable (1), Pillow (1), Pen (2, 3), Mug (1), KeyChain (2), Drawer (1, 2, 5), Desk (1), DeskLamp (1), Chair (1), CellPhone (2), Bed (1), AlarmClock (1).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (1), Pillow (1), Pen (2, 3), Mug (1), KeyChain (2), Drawer (1, 2, 5), Desk (1), DeskLamp (1), Chair (1), CellPhone (2), Bed (1), AlarmClock (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see SideTable (1), Pillow (1), Pen (2, 3), Mug (1), KeyChain (1, 2), Drawer (1, 2, 5), Desk (1), DeskLamp (1), Chair (1), CellPhone (2), Bed (1), AlarmClock (1).
+Act: close Drawer (2)
+You close Drawer (2). You see SideTable (1), Pillow (1), Pen (2, 3), Mug (1), KeyChain (1, 2), Drawer (1, 2, 5), Desk (1), DeskLamp (1), Chair (1), CellPhone (2), Bed (1), AlarmClock (1).
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Window (1), Pencil (1), Dresser (1), Drawer (3, 4), CreditCard (1), CD (2), Book (1), Bed (1), AlarmClock (2). Drawer (3) is closed. 
+Act: open Drawer (3)
+You open Drawer (3). You see Shelf (12), Pencil (1), Laptop (1), Dresser (1), Drawer (3, 4), CreditCard (1), CD (2), Book (1), Bed (1), AlarmClock (2).
+Act: close Drawer (3)
+You close Drawer (3). You see Shelf (12), Pencil (1), Laptop (1), Dresser (1), Drawer (3, 4), CreditCard (1), CD (2), Book (1), Bed (1), AlarmClock (2).
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Window (1), Poster (1), Pencil (1), Dresser (1), Drawer (3, 4), CreditCard (1), CD (2), Book (1), Bed (1), AlarmClock (2). Drawer (4) is closed. 
+Act: open Drawer (4)
+You open Drawer (4). You see Window (1), Shelf (12), Pencil (1), Laptop (1), Dresser (1), Drawer (4), CreditCard (1), CD (2), Book (1), Bed (1), AlarmClock (2).
+Act: close Drawer (4)
+You close Drawer (4). You see Window (1), Shelf (12), Pencil (1), Laptop (1), Dresser (1), Drawer (3, 4), CreditCard (1), CD (2), Book (1), Bed (1), AlarmClock (2).
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see SideTable (1), Pillow (1), Pen (2, 3), Mug (1), KeyChain (1, 2), Drawer (1, 2, 5), Desk (1), DeskLamp (1), Chair (1), CellPhone (2), Bed (1), AlarmClock (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+You open Drawer (5). You see SideTable (1), Pillow (1), Pen (2, 3), Mug (1), KeyChain (1, 2), Drawer (1, 2, 5), Desk (1), DeskLamp (1), Chair (1), CellPhone (2), Bed (1), AlarmClock (1).
+Act: close Drawer (5)
+You close Drawer (5). You see SideTable (1), Pillow (1), Pen (2, 3), Mug (1), KeyChain (1, 2), Drawer (1, 2, 5), Desk (1), DeskLamp (1), Chair (1), CellPhone (2), Bed (1), AlarmClock (1).
+Think: I cannot find Box.
+OK.
+Act: failure

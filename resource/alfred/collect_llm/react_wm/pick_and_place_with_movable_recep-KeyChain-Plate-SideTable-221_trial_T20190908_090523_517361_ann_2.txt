@@ -1,0 +1,142 @@
+Your task is to: Put a plate with keys on it on the white table.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1), GarbageCan (1), Drawer (1), DiningTable (1), CoffeeTable (1, 2), ArmChair (1).
+Think: To solve the task, I need to find and pick up the plate, then put it on the white table. And I need to find and pick up the keys, then put it on the plate on the white table.
+OK.
+Think: First, I need to recall location of the plate.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now I need to find the plate. The plate is more likely to appear on DiningTable (1), CoffeeTable (1-2), SideTable (1), or in Drawer (1). I can check each place one by one, starting from DiningTable (1), until I find the plate.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1), RemoteControl (3), Plate (1), Pen (2), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Think: I find Plate (1). Now, I need to pick it up.
+OK.
+Act: pick up Plate (1)
+You pick up Plate (1). You see Vase (1), RemoteControl (3), Plate (1), Pen (2), DiningTable (1), Chair (1, 3, 4, 5), Box (1). I am holding Plate (1) now.
+Think: I hold Plate (1). Now, I need to put it on the white table.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1), RemoteControl (3), Plate (1), Pen (2), DiningTable (1), Chair (1, 3, 4, 5), Box (1).  I am holding Plate (1) now.
+Act: put down Plate (1)
+You put Plate (1) on DiningTable (1). You see Vase (1), RemoteControl (3), Plate (1), Pen (2), DiningTable (1), Chair (1, 3, 4, 5), Box (1).
+Think: I put Plate (1) on DiningTable (1). Now, I need to recall location of the keys.
+OK.
+Act: recall location of KeyChain
+You have not seen KeyChain before.
+Think: Now I need to find the key chain. The key chain is more likely to appear on DiningTable (1), CoffeeTable (1-2), SideTable (1), or in Drawer (1). I can check each place one by one, starting from DiningTable (1), until I find the key chain.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1), RemoteControl (3), Plate (1), Pen (2), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Think: I find KeyChain (1). Now, I need to pick it up.
+OK.
+Act: pick up Plate (1)
+You pick up Plate (1). You see Vase (1), RemoteControl (3), Plate (1), Pen (2), DiningTable (1), Chair (1, 3, 4, 5), Box (1). I am holding Plate (1) now.
+Think: I hold Plate (1). Now, I need to put it on the white table.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1), RemoteControl (3), Plate (1), Pen (2), DiningTable (1), Chair (1, 3, 4, 5), Box (1).  I am holding Plate (1) now.
+Act: put down Plate (1)
+You put Plate (1) on DiningTable (1). You see Vase (1), RemoteControl (3), Plate (1), Pen (2), DiningTable (1), Chair (1, 3, 4, 5), Box (1).
+Think: I put Plate (1) on DiningTable (1). Now, I need to recall location of the keys.
+OK.
+Act: recall location of KeyChain
+You have not seen KeyChain before.
+Think: Now I need to find the key chain. The key chain is more likely to appear on DiningTable (1), CoffeeTable (1-2), SideTable (1), or in Drawer (1). I can check each place one by one, starting from DiningTable (1), until I find the key chain.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1), RemoteControl (3), Plate (1), Pen (2), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Think: I find KeyChain (1). Now, I need to pick it up.
+OK.
+Act: pick up Plate (1)
+You pick up Plate (1). You see Vase (1), RemoteControl (3), Plate (1), Pen (2), DiningTable (1), Chair (1, 3, 4, 5), Box (1). I am holding Plate (1) now.
+Think: I hold Plate (1). Now, I need to put it on the white table.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1), RemoteControl (3), Plate (1), Pen (2), DiningTable (1), Chair (1, 3, 4, 5), Box (1).  I am holding Plate (1) now.
+Act: put down Plate (1)
+You put Plate (1) on DiningTable (1). You see Vase (1), RemoteControl (3), Plate (1), Pen (2), DiningTable (1), Chair (1, 3, 4, 5), Box (1).
+Think: I put Plate (1) on DiningTable (1). Now, I need to recall location of the keys.
+OK.
+Act: recall location of KeyChain
+You have not seen KeyChain before.
+Think: Now I need to find the key chain. The key chain is more likely to appear on DiningTable (1), CoffeeTable (1-2), SideTable (1), or in Drawer (1). I can check each place one by one, starting from DiningTable (1), until I find the key chain.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1), RemoteControl (3), Plate (1), Pen (2), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Think: I find KeyChain (1). Now, I need to pick it up.
+OK.
+Act: pick up Plate (1)
+You pick up Plate (1). You see Vase (1), RemoteControl (3), Plate (1), Pen (2), DiningTable (1), Chair (1, 3, 4, 5), Box (1). I am holding Plate (1) now.
+Think: I hold Plate (1). Now, I need to put it on the white table.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1), RemoteControl (3), Plate (1), Pen (2), DiningTable (1), Chair (1, 3, 4, 5), Box (1).  I am holding Plate (1) now.
+Act: put down Plate (1)
+You put Plate (1) on DiningTable (1). You see Vase (1), RemoteControl (3), Plate (1), Pen (2), DiningTable (1), Chair (1, 3, 4, 5), Box (1).
+Think: I put Plate (1) on DiningTable (1). Now, I need to recall location of the keys.
+OK.
+Act: recall location of KeyChain
+You have not seen KeyChain before.
+Think: Now I need to find the key chain. The key chain is more likely to appear on DiningTable (1), CoffeeTable (1-2), SideTable (1), or in Drawer (1). I can check each place one by one, starting from DiningTable (1), until I find the key chain.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1), RemoteControl (3), Plate (1), Pen (2), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Think: I find KeyChain (1). Now, I need to pick it up.
+OK.
+Act: pick up Plate (1)
+You pick up Plate (1). You see Vase (1), RemoteControl (3), Plate (1), Pen (2), DiningTable (1), Chair (1, 3, 4, 5), Box (1). I am holding Plate (1) now.
+Think: I hold Plate (1). Now, I need to put it on the white table.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1), RemoteControl (3), Plate (1), Pen (2), DiningTable (1), Chair (1, 3, 4, 5), Box (1).  I am holding Plate (1) now.
+Act: put down Plate (1)
+You put Plate (1) on DiningTable (1). You see Vase (1), RemoteControl (3), Plate (1), Pen (2), DiningTable (1), Chair (1, 3, 4, 5), Box (1).
+Think: I put Plate (1) on DiningTable (1). Now, I need to recall location of the keys.
+OK.
+Act: recall location of KeyChain
+You have not seen KeyChain before.
+Think: Now I need to find the key chain. The key chain is more likely to appear on DiningTable (1), CoffeeTable (1-2), SideTable (1), or in Drawer (1). I can check each place one by one, starting from DiningTable (1), until I find the key chain.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1), RemoteControl (3), Plate (1), Pen (2), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Think: I find KeyChain (1). Now, I need to pick it up.
+OK.
+Act: pick up Plate (1)
+You pick up Plate (1). You see Vase (1), RemoteControl (3), Plate (1), Pen (2), DiningTable (1), Chair (1, 3, 4, 5), Box (1). I am holding Plate (1) now.
+Think: I hold Plate (1). Now, I need to put it on the white table.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1), RemoteControl (3), Plate (1), Pen (2), DiningTable (1), Chair (1, 3, 4, 5), Box (1).  I am holding Plate (1) now.
+Act: put down Plate (1)
+You put Plate (1) on DiningTable (1). You see Vase (1), RemoteControl (3), Plate (1), Pen (2), DiningTable (1), Chair (1, 3, 4, 5), Box (1).
+Think: I put Plate (1) on DiningTable (1). Now, I need to recall location of the keys.
+OK.
+Act: recall location of KeyChain
+You have not seen KeyChain before.
+Think: Now I need to find the key chain. The key chain is more likely to appear on DiningTable (1), CoffeeTable (1-2), SideTable (1), or in Drawer (1). I can check each place one by one, starting from DiningTable (1), until I find the key chain.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1), RemoteControl (3), Plate (1), Pen (2), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Think: I find KeyChain (1). Now, I need to pick it up.
+OK.
+Act: pick up Plate (1)
+You pick up Plate (1). You see Vase (1), RemoteControl (3), Plate (1), Pen (2), DiningTable (1), Chair (1, 3, 4, 5), Box (1). I am holding Plate (1) now.
+Think: I hold Plate (1). Now, I need to put it on the white table.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1), RemoteControl (3), Plate (1), Pen (2), DiningTable (1), Chair (1, 3, 4, 5), Box (1).  I am holding Plate (1) now.
+Act: put down Plate (1)
+You put Plate (1) on DiningTable (1). You see Vase (1), RemoteControl (3), Plate (1), Pen (2), DiningTable (1), Chair (1, 3, 4, 5), Box (1).
+Think: I put Plate (1) on DiningTable (1). Now, I need to recall location of the keys.
+OK.
+Act: recall location of KeyChain
+You have not seen KeyChain before.
+Think: Now I need to find the key chain. The key chain is more likely to appear on DiningTable (1), CoffeeTable (1-2), SideTable (1), or in Drawer (1). I can check each place one by one, starting from DiningTable (1), until I find the key chain.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1), RemoteControl (3), Plate (1), Pen (2), DiningTable (1), Chair (1, 3, 4, 5), Box (1). 
+Think: I find KeyChain (1). Now, I need to pick it up.
+OK.
+Act: pick up Plate (1)
+You pick up Plate (1). You see Vase (1), RemoteControl (3), Plate (1), Pen (2), DiningTable (1), Chair (1, 3, 4, 5), Box (1). I am holding Plate (1) now.

@@ -1,0 +1,27 @@
+Your task is to: Place a towel on a wire shelf.
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1, 2), Toilet (1), ToiletPaperHanger (1), Sink (1), SinkBasin (1), Shelf (1, 2, 3, 4), HandTowelHolder (1, 2), GarbageCan (1), Cart (1), Bathtub (1), BathtubBasin (1).
+Think: To solve the task, I need to find and pick up the towel, then put it on the wire shelf.
+OK.
+Think: First, I need to recall location of the towel.
+OK.
+Act: recall location of HandTowel
+You have not seen HandTowel before.
+Think: Now I need to find the towel. The towel is more likely to appear on BathtubBasin (1), SinkBasin (1), Shelf (1-4). I can check each place one by one, starting from BathtubBasin (1), until I find the towel.
+OK.
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see SoapBar (1), DishSponge (1), Cloth (3), Bathtub (1), BathtubBasin (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), Mirror (1), HandTowel (1), Faucet (2). 
+Think: I find HandTowel (1). Now, I need to pick it up.
+OK.
+Act: pick up HandTowel (1)
+You pick up HandTowel (1). You see Sink (1), SinkBasin (1), Mirror (1), HandTowel (1), Faucet (2). I am holding HandTowel (1) now.
+Think: I hold HandTowel (1). Now, I need to put it on the wire shelf. I think wire shelf means Cart (1).
+OK.
+Act: go to Cart (1)
+You arrive at Cart (1). You see SoapBar (2), HandTowel (1), Cart (1).  I am holding HandTowel (1) now.
+Act: put down HandTowel (1)
+You put HandTowel (1) on Cart (1). You see SoapBar (2), HandTowel (1), Cart (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

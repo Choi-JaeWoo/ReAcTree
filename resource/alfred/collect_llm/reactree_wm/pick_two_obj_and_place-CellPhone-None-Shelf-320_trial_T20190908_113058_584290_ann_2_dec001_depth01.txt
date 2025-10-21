@@ -1,0 +1,7 @@
+Your task is to: Place two cell phones on a dresser.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1, 2, 3, 4, 5), GarbageCan (1), Desk (1, 2), Bed (1).
+Think: Since I’m not holding cell phone, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up cell phone, place cell phone on dresser, Find and pick up cell phone away from dresser, and place cell phone on dresser.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up cell phone, place cell phone on dresser, Find and pick up cell phone away from dresser, place cell phone on dresser

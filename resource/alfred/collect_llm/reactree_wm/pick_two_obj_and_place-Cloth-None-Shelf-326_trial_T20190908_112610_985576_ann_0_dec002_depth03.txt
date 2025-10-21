@@ -1,0 +1,29 @@
+Your primary goal is to: Put two rags on the shelf.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up rag, place rag on shelf, Find and pick up rag away from shelf, and place rag on shelf.
+Your task is to: find and pick up rag
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14), GarbageCan (1), Drawer (1, 2), DiningTable (1), Bed (1, 2).
+Think: First, I need to recall location of the rag.
+OK.
+Act: recall location of Cloth
+You have not seen Cloth before.
+Think: Now, I need to find the rag. The rag is more likely to appear on SideTable (1), Shelf (1-14), or in Drawer (1-2). I can check each place one by one, starting from SideTable (1), until I find the rag.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Watch (1, 2), SideTable (1), Pen (1), Mug (1), Drawer (1, 2), CreditCard (1), Bed (1, 2). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TennisRacket (1), Shelf (1, 7), Bowl (2), BaseballBat (1). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Shelf (2, 10), Mug (3), Bowl (1), AlarmClock (1). 
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Shelf (2, 3, 10, 12), Pillow (2), Mug (3), Bed (2). 
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see Shelf (4), Lamp (1), DiningTable (1), Chair (1, 2), Bowl (3). 
+Act: go to Shelf (5)
+You arrive at Shelf (5). You see Shelf (5, 13), Pencil (2), Cloth (1). 
+Think: I find Cloth (1). Now, I need to pick it up.
+OK.
+Act: pick up Cloth (1)
+You pick up Cloth (1). You see Shelf (5, 13), Pencil (2), Cloth (1). I am holding Cloth (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

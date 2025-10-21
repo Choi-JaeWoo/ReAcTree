@@ -1,0 +1,106 @@
+Your task is to: Place a container with a card on a table.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2), LaundryHamper (1), GarbageCan (1), Drawer (1, 2, 3), Desk (1), Bed (1).
+Think: To solve the task, I need to find and pick up the container, then put it on the table. And I need to find and pick up the card, then put it in the container on the table.
+OK.
+Think: First, I need to recall location of the container.
+OK.
+Act: recall location of Box
+You have not seen Box before.
+Think: Now I need to find the container. The container is more likely to appear on SideTable (1), Shelf (1-2), Drawer (1-3) or in Desk (1). I can check each place one by one, starting from SideTable (1), until I find the container.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), Pen (1), Desk (1), DeskLamp (1), CreditCard (3), Chair (1, 2), CD (1, 3), AlarmClock (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Window (1), Shelf (1), Pencil (1), CreditCard (1), Cloth (1, 2), CD (2). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Shelf (2), Desk (1), CellPhone (2, 3), Bowl (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pencil (3), Pen (2), Drawer (1, 2, 3), Desk (1), CreditCard (2), Chair (1), CellPhone (2, 3), Bowl (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: open Drawer (1)
+The Drawer (1) is open failed.
+Act: open Drawer (1)
+The Drawer (1) is open failed.

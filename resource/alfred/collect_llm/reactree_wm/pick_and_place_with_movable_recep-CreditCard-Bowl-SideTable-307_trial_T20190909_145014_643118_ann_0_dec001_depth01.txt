@@ -1,0 +1,7 @@
+Your task is to: Put a bowl with a card in it on the small desk. 
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2), LaundryHamper (1), GarbageCan (1), Drawer (1, 2, 3), Desk (1), Bed (1).
+Think: Since I’m not holding anything, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up bowl, place bowl on desk, find and pick up card, and place card in bowl near desk.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up bowl, place bowl on desk, find and pick up card, place card in bowl near desk

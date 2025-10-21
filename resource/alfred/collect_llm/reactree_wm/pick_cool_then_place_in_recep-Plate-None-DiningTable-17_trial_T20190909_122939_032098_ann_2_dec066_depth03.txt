@@ -1,0 +1,73 @@
+Your primary goal is to: Put a chilled plate on the white table with shelves.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up plate, cool and pick up plate, and place plate on white table.
+Your task is to: place plate on white table
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20). I am holding Plate (1) now.
+Think: I hold Plate (1). Now, I need to put it on the white table. I can see DiningTable (1).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Window (2), Tomato (1, 2), Spatula (2), SoapBottle (2), Plate (1), Lettuce (2), Knife (1), Kettle (2), DiningTable (1), CellPhone (1), ButterKnife (1, 2).  I am holding Plate (1) now.
+Act: put down Plate (1)
+You put down failed, drop it. You see Window (2), Tomato (1, 2), Spatula (2), SoapBottle (2), Plate (1), Lettuce (2), Knife (1), Kettle (2), DiningTable (1), ButterKnife (2).
+Think: I fail to put down Plate (1). Now, I need to recall location of the white table.
+OK.
+Act: recall location of Plate
+You dropped Plate due to fail to put it on the receptacle. You need to find it again.
+Think: Now, I need to find the plate. The plate is more likely to appear on DiningTable (1, 2), CounterTop (1, 2), SinkBasin (1) or in Fridge (1), Mircowave (1), Cabinet (1-20), Drawer (1-6). I can check each place one by one, starting from DiningTable (1), until I find the plate.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Window (2, 2), Tomato (1, 1, 2, 2), Spatula (2, 2), SoapBottle (2, 2), Plate (1, 1), Lettuce (2, 2), Knife (1, 1), Kettle (2, 2), DiningTable (1, 1), Chair (1, 1), CellPhone (1, 1), ButterKnife (1, 1, 2, 2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Spoon (2), Spatula (3), SaltShaker (1), PepperShaker (1), Lettuce (1), Fork (1, 3), DishSponge (1), DiningTable (2), ButterKnife (3), Bread (2), Apple (2). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see SprayBottle (1), Knife (2, 3), Drawer (2, 5), CounterTop (1), Cabinet (5, 16), Bread (1), Apple (3). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see WineBottle (2), Spatula (1), SaltShaker (2), Pan (1), Microwave (1), Drawer (1), CounterTop (2), Cabinet (17). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (1), StoveKnob (1), StoveBurner (2, 3), Sink (1), SinkBasin (1), Kettle (1), Fork (2), Faucet (1), Egg (1, 3), CounterTop (2), Cabinet (9, 11). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Glassbottle (1, 2), Fridge (1), Cabinet (8), Bowl (3). Fridge (1) is open. 
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see WineBottle (2), Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17). Microwave (1) is closed. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Toaster (1), Potato (2), GarbageCan (1), Drawer (4, 6), CounterTop (1), Cabinet (1, 5, 14). Cabinet (1) is closed. 
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Cabinet (2, 7, 10). Cabinet (2) is closed. 
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see Fridge (1), Cabinet (3, 6, 12). Cabinet (3) is closed. 
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see Cabinet (4, 19). Cabinet (4) is closed. 
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see WineBottle (1), Toaster (1), Knife (2), Drawer (2, 4, 5, 6), CounterTop (1), Cabinet (1, 5, 14, 16). Cabinet (5) is closed. 
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Fridge (1), Cabinet (3, 6, 12). Cabinet (6) is closed. 
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Cabinet (2, 7, 10). Cabinet (7) is closed. 
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17), Bowl (3). Cabinet (8) is closed. 
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Pot (1), Kettle (1), Fork (2), Faucet (1), Egg (1, 3), CounterTop (2), Cabinet (9, 11, 16). Cabinet (9) is closed. 
+Act: go to Cabinet (10)
+You arrive at Cabinet (10). You see Cabinet (2, 7, 10, 15). Cabinet (10) is closed. 
+Act: go to Cabinet (11)
+You arrive at Cabinet (11). You see Sink (1), SinkBasin (1), Fork (2), Faucet (1), Egg (1, 3), CounterTop (2), Cabinet (8, 9, 11, 17). Cabinet (11) is closed. 
+Act: go to Cabinet (12)
+You arrive at Cabinet (12). You see Fridge (1), Cabinet (3, 12), Bowl (2), Apple (1). Cabinet (12) is closed. 
+Act: go to Cabinet (13)
+You arrive at Cabinet (13). You see Window (1), Cabinet (13). Cabinet (13) is open. 
+Act: go to Cabinet (14)
+You arrive at Cabinet (14). You see WineBottle (1), Toaster (1), Knife (2), GarbageCan (1), Drawer (2, 4, 5, 6), CounterTop (1), Cabinet (1, 5, 14, 16). Cabinet (14) is closed. 
+Act: go to Cabinet (15)
+You arrive at Cabinet (15). You see Window (1), Cabinet (10, 15). Cabinet (15) is closed. 
+Act: go to Cabinet (16)
+You arrive at Cabinet (16). You see StoveBurner (4), SprayBottle (1), Potato (3), Mug (1), Knife (3), Drawer (2, 5), CounterTop (1), CoffeeMachine (1), Cabinet (5, 14, 16), Bread (1). Cabinet (16) is closed. 
+Act: go to Cabinet (17)
+You arrive at Cabinet (17). You see WineBottle (2), Spatula (1), SaltShaker (2), Pan (1), Microwave (1), Drawer (1, 3), CounterTop (2), Cabinet (8, 11, 17). Cabinet (17) is closed. 
+Act: go to Cabinet (18)
+You arrive at Cabinet (18). You see Cabinet (13, 18). Cabinet (18) is closed. 
+Act: go to Cabinet (19)
+You arrive at Cabinet (19). You see Cabinet (4, 19, 20). Cabinet (19) is closed. 
+Act: go to Cabinet (20)
+You arrive at Cabinet (20). You see Cabinet (19, 20). Cabinet (20) is closed. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see WineBottle (2), SaltShaker (2), Pan (1), Microwave (1), Drawer (1, 3), CounterTop (2), Cabinet (8, 17). Drawer (1) is closed. 
+Max decisions

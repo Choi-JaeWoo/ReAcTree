@@ -1,0 +1,142 @@
+Your task is to: Put a heated potato slice in the fridge. 
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13).
+Think: To solve the task, I need to find and pick up the potato, then put it in the microwave. And I need to turn on and off the microwave. And I need to pick up the potato from the microwave, then put it in the fridge.
+OK.
+Think: First, I need to recall location of the potato.
+OK.
+Act: recall location of Potato
+You have not seen Potato before.
+Think: Now I need to find the potato. The potato is more likely to appear on DiningTable (1), CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1). I can check each place one by one, starting from DiningTable (1), until I find the potato.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spoon (2), Ladle (1), Knife (2), DiningTable (1), ButterKnife (3), Bread (1), Apple (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (2), Toaster (1), Spatula (2), Sink (1), SinkBasin (1), Knife (1), Fork (1), Faucet (1), DishSponge (3), CounterTop (1), ButterKnife (2). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see WineBottle (2), SoapBottle (1), Sink (1), SinkBasin (1), Knife (1), Fork (1), Faucet (1), Drawer (1), DishSponge (3), CounterTop (1), Cabinet (10), ButterKnife (2). 
+Think: I find Potato (1). Now, I need to pick it up.
+OK.
+Act: pick up WineBottle (2)
+You pick up WineBottle (2). You see WineBottle (2), SoapBottle (1), Sink (1), SinkBasin (1), Knife (1), Fork (1), Drawer (1), CounterTop (1), Cabinet (10), ButterKnife (2). I am holding WineBottle (2) now.
+Think: I hold WineBottle (2). Now, I need to put it in the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see WineBottle (2), Tomato (1), Spoon (1), SoapBottle (1), Sink (1), Microwave (1), Fridge (1), Drawer (1), CounterTop (1), Cabinet (3, 10, 12, 13), ButterKnife (2). Microwave (1) is closed.  I am holding WineBottle (2) now.
+Act: open Microwave (1)
+You open Microwave (1). You see WineBottle (2), Microwave (1), Fridge (1), Drawer (1), Cabinet (3). I am holding WineBottle (2) now.
+Act: put down WineBottle (2)
+You put down failed, drop it. You see WineBottle (2), Microwave (1), Fridge (1), Drawer (1), Cabinet (3).
+Think: Now I need to recall location of the potato.
+OK.
+Act: recall location of Potato
+You have not seen Potato before.
+Think: Now I need to find the potato. The potato is more likely to appear on DiningTable (1), CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1). I can check each place one by one, starting from DiningTable (1), until I find the potato.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spoon (2), Ladle (1), Knife (2), DiningTable (1), ButterKnife (3), Bread (1), Apple (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), Spatula (2), Sink (1), SinkBasin (1), Knife (1), Fork (1), Faucet (1), DishSponge (3), CounterTop (1), ButterKnife (2). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see SoapBottle (1), Sink (1), SinkBasin (1), Microwave (1), Knife (1), Fork (1), Faucet (1), Drawer (1), DishSponge (3), CounterTop (1), Cabinet (10), ButterKnife (2). 
+Think: I find Potato (1). Now, I need to pick it up.
+OK.
+Act: pick up SoapBottle (1)
+You pick up SoapBottle (1). You see SoapBottle (1), Sink (1), SinkBasin (1), Microwave (1), Knife (1), Fork (1), Faucet (1), Drawer (1), DishSponge (3), CounterTop (1), Cabinet (10), ButterKnife (2). I am holding SoapBottle (1) now.
+Think: I hold SoapBottle (1). Now, I need to put it in the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see SoapBottle (1), Sink (1), Microwave (1), Fridge (1), CounterTop (1), Cabinet (3, 12, 13), ButterKnife (2). Microwave (1) is open.  I am holding SoapBottle (1) now.
+Act: put down SoapBottle (1)
+You put down failed, drop it. You see SoapBottle (1), Sink (1), Microwave (1), Fridge (1), CounterTop (1), Cabinet (12, 13), ButterKnife (2).
+Think: Now I need to recall location of the potato.
+OK.
+Act: recall location of Potato
+You have not seen Potato before.
+Think: Now I need to find the potato. The potato is more likely to appear on DiningTable (1), CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1). I can check each place one by one, starting from DiningTable (1), until I find the potato.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spoon (2), Ladle (1), Knife (2), DiningTable (1), ButterKnife (3), Bread (1), Apple (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), Spatula (2), Sink (1), SinkBasin (1), Knife (1), Fork (1), Faucet (1), DishSponge (3), CounterTop (1), ButterKnife (2). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Toaster (1), Spatula (2), Sink (1, 1), SinkBasin (1, 1), Microwave (1), Knife (1, 1), Fork (1, 1), Faucet (1, 1), Drawer (1), DishSponge (3, 3), CounterTop (1, 1), Cabinet (10), ButterKnife (2, 2). 
+Think: I find Potato (1). Now, I need to pick it up.
+OK.
+Act: pick up Spatula (2)
+The Spatula (2) is not close to you.
+Think: Now I need to recall location of the potato.
+OK.
+Act: recall location of Potato
+You have not seen Potato before.
+Think: Now I need to find the potato. The potato is more likely to appear on DiningTable (1), CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1). I can check each place one by one, starting from DiningTable (1), until I find the potato.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spoon (2), Ladle (1), Knife (2), DiningTable (1), ButterKnife (3), Bread (1), Apple (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), Spatula (2), Sink (1), SinkBasin (1), Knife (1), Fork (1), Faucet (1), DishSponge (3), CounterTop (1), ButterKnife (2). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Toaster (1), Spatula (2), Sink (1, 1), SinkBasin (1, 1), Microwave (1), Knife (1, 1), Fork (1, 1), Faucet (1, 1), Drawer (1), DishSponge (3, 3), CounterTop (1, 1), Cabinet (10), ButterKnife (2, 2). 
+Think: I find Potato (1). Now, I need to pick it up.
+OK.
+Act: pick up Spatula (2)
+The Spatula (2) is not close to you.
+Think: Now I need to recall location of the potato.
+OK.
+Act: recall location of Potato
+You have not seen Potato before.
+Think: Now I need to find the potato. The potato is more likely to appear on DiningTable (1), CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1). I can check each place one by one, starting from DiningTable (1), until I find the potato.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spoon (2), Ladle (1), Knife (2), DiningTable (1), ButterKnife (3), Bread (1), Apple (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), Spatula (2), Sink (1), SinkBasin (1), Knife (1), Fork (1), Faucet (1), DishSponge (3), CounterTop (1), ButterKnife (2). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Toaster (1), Spatula (2), Sink (1, 1), SinkBasin (1, 1), Microwave (1), Knife (1, 1), Fork (1, 1), Faucet (1, 1), Drawer (1), DishSponge (3, 3), CounterTop (1, 1), Cabinet (10), ButterKnife (2, 2). 
+Think: I find Potato (1). Now, I need to pick it up.
+OK.
+Act: pick up Spatula (2)
+The Spatula (2) is not close to you.
+Think: Now I need to recall location of the potato.
+OK.
+Act: recall location of Potato
+You have not seen Potato before.
+Think: Now I need to find the potato. The potato is more likely to appear on DiningTable (1), CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1). I can check each place one by one, starting from DiningTable (1), until I find the potato.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spoon (2), Ladle (1), Knife (2), DiningTable (1), ButterKnife (3), Bread (1), Apple (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), Spatula (2), Sink (1), SinkBasin (1), Knife (1), Fork (1), Faucet (1), DishSponge (3), CounterTop (1), ButterKnife (2). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Toaster (1), Spatula (2), Sink (1, 1), SinkBasin (1, 1), Microwave (1), Knife (1, 1), Fork (1, 1), Faucet (1, 1), Drawer (1), DishSponge (3, 3), CounterTop (1, 1), Cabinet (10), ButterKnife (2, 2). 
+Think: I find Potato (1). Now, I need to pick it up.
+OK.
+Act: pick up Spatula (2)
+The Spatula (2) is not close to you.
+Think: Now I need to recall location of the potato.
+OK.
+Act: recall location of Potato
+You have not seen Potato before.
+Think: Now I need to find the potato. The potato is more likely to appear on DiningTable (1), CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1). I can check each place one by one, starting from DiningTable (1), until I find the potato.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spoon (2), Ladle (1), Knife (2), DiningTable (1), ButterKnife (3), Bread (1), Apple (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), Spatula (2), Sink (1), SinkBasin (1), Knife (1), Fork (1), Faucet (1), DishSponge (3), CounterTop (1), ButterKnife (2). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Toaster (1), Spatula (2), Sink (1, 1), SinkBasin (1, 1), Microwave (1), Knife (1, 1), Fork (1, 1), Faucet (1, 1), Drawer (1), DishSponge (3, 3), CounterTop (1, 1), Cabinet (10), ButterKnife (2, 2). 
+Think: I find Potato (1). Now, I need to pick it up.
+OK.
+Act: pick up Spatula (2)
+The Spatula (2) is not close to you.
+Think: Now I need to recall location of the potato.
+OK.
+Act: recall location of Potato
+You have not seen Potato before.
+Think: Now I need to find the potato. The potato is more likely to appear on DiningTable (1), CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1). I can check each place one by one, starting from DiningTable (1), until I find the potato.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spoon (2), Ladle (1), Knife (2), DiningTable (1), ButterKnife (3), Bread (1), Apple (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), Spatula (2), Sink (1), SinkBasin (1), Knife (1), Fork (1), Faucet (1), DishSponge (3), CounterTop (1), ButterKnife (2). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Toaster (1), Spatula (2), Sink (1, 1), SinkBasin (1, 1), Microwave (1), Knife (1, 1), Fork (1, 1), Faucet (1, 1), Drawer (1), DishSponge (3, 3), CounterTop (1, 1), Cabinet (10), ButterKnife (2, 2). 

@@ -1,0 +1,124 @@
+Your task is to: place pan with tomato slice on white table
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11).
+Think: To solve the task, I need to find and pick up the knife. And I need to find and slice the tomato. And I need to put down the knife and pick up the tomato, then put it in the pan. And I need to find and pick up the pan, then put it on the white table.
+OK.
+Think: First, I need to recall location of the knife.
+OK.
+Act: recall location of Knife
+You have not seen Knife before.
+Think: Now I need to find the knife. The knife is more likely to appear on DiningTable (1), CounterTop (1-2), SinkBasin (1), or Fridge (1), Microwave (1), Cabinet (1-11), Drawer (1-3). I can check each place one by one, starting from DiningTable (1), until I find the knife.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Window (1), Lettuce (1), DiningTable (1), Chair (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (2), Tomato (2), StoveKnob (4), SoapBottle (2), SaltShaker (2), Pot (2), Mug (3), Knife (1), Drawer (2), CounterTop (1), Cabinet (11), ButterKnife (1), Bowl (1). 
+Think: I find Knife (1). Now, I need to pick it up.
+OK.
+Act: pick up Knife (1)
+You pick up Knife (1). You see WineBottle (2), Tomato (2), StoveKnob (4), SoapBottle (2), SaltShaker (2), Pot (2), Mug (3), Knife (1), Drawer (2), CounterTop (1), Cabinet (11), ButterKnife (1), Bowl (1). I am holding Knife (1) now.
+Think: I hold Knife (1). Now, I need to recall location of the tomato.
+OK.
+Act: recall location of Tomato
+You saw Tomato (2) near CounterTop (1).
+Think: I can find Tomato (2) near CounterTop (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (2), Tomato (2), StoveKnob (4), SoapBottle (2), SaltShaker (2), Pot (2), Mug (3), Knife (1), Drawer (2), CounterTop (1), Cabinet (11), ButterKnife (1), Bowl (1).  I am holding Knife (1) now.
+Think: I find Tomato (2). Now, I need to slice it.
+OK.
+Act: slice Tomato (2)
+You slice Tomato (2). You see WineBottle (2), Tomato (4, 5, 6, 7, 8, 9, 10), StoveKnob (4), SoapBottle (2), SaltShaker (2), Pot (2), Mug (3), Knife (1), Drawer (2), CounterTop (1), Cabinet (11), ButterKnife (1), Bowl (1). Tomato (4, 5, 6, 7, 8, 9, 10) are sliced. I am holding Knife (1) now.
+Think: I slice Tomato (2). Now, I need to put down the knife.
+OK.
+Act: put down Knife (1)
+You put down failed, drop it. You see WineBottle (2), Tomato (4, 5, 6, 7, 8, 9, 10), StoveKnob (4), SoapBottle (2), SaltShaker (2), Pot (2), Mug (3), Drawer (2), CounterTop (1), Cabinet (11), ButterKnife (1), Bowl (1).
+Think: Now I need to pick up Tomato (4).
+OK.
+Act: pick up Tomato (4)
+You pick up Tomato (4). You see WineBottle (2), Tomato (4, 5, 6, 7, 8, 9, 10), StoveKnob (4), SoapBottle (2), SaltShaker (2), Pot (2), Mug (3), Drawer (2), CounterTop (1), Cabinet (11), ButterKnife (1), Bowl (1). I am holding Tomato (4) now.
+Think: I hold Tomato (4). Now, I need to recall location of the pan.
+OK.
+Act: recall location of Pan
+You have not seen Pan before.
+Think: Now I need to find the pan. The pan is more likely to appear on DiningTable (1), CounterTop (1-2), SinkBasin (1), or Fridge (1), Microwave (1), Cabinet (1-11), Drawer (1-3). I can check each place one by one, starting from DiningTable (1), until I find the pan.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Window (1), Tomato (4), Lettuce (1), DiningTable (1), Chair (1).  I am holding Tomato (4) now.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (2), Tomato (4, 5, 6, 7, 8, 9, 10), StoveKnob (4), SoapBottle (2), SaltShaker (2), Pot (2), Mug (3), Drawer (2), CounterTop (1), Cabinet (11), ButterKnife (1), Bowl (1).  I am holding Tomato (4) now.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Tomato (4), Plate (1), Drawer (1), DishSponge (1), CounterTop (2), CoffeeMachine (1), Cabinet (1, 3, 6).  I am holding Tomato (4) now.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (1, 4), Toaster (1), Spoon (1), Sink (1), SinkBasin (1), Potato (2), PepperShaker (2), Mug (1), Lettuce (2), Knife (2), GarbageCan (1), Fork (1), Faucet (1), Egg (2), DishSponge (2), CounterTop (2), Cabinet (4, 5, 7).  I am holding Tomato (4) now.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (4), GarbageCan (1), Fridge (1). Fridge (1) is closed.  I am holding Tomato (4) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Tomato (3, 4), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). I am holding Tomato (4) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see WineBottle (2), Tomato (4), StoveBurner (1, 2, 3, 4), Pot (1, 2), Microwave (1), CounterTop (1, 2), Cabinet (11), Bowl (1). Microwave (1) is closed.  I am holding Tomato (4) now.
+Act: open Microwave (1)
+You open Microwave (1). You see WineBottle (2), Tomato (4), StoveBurner (1, 2, 3, 4), Pot (1, 2), Microwave (1), Egg (1), CounterTop (1, 2), Bowl (1), Apple (3). I am holding Tomato (4) now.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Tomato (4), Cabinet (1, 3). Cabinet (1) is closed.  I am holding Tomato (4) now.
+Act: open Cabinet (1)
+You open Cabinet (1). You see WineBottle (1), Tomato (4), Cabinet (1, 3), Bowl (2). I am holding Tomato (4) now.
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Tomato (4), SaltShaker (2), Mug (3), Knife (1), Drawer (2), CounterTop (1), Cabinet (2), ButterKnife (1). Cabinet (2) is closed.  I am holding Tomato (4) now.
+Act: open Cabinet (2)
+You open Cabinet (2). You see Tomato (4), SoapBottle (1), Knife (1), DiningTable (1), Cabinet (2). I am holding Tomato (4) now.
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see Tomato (4), Microwave (1), Cabinet (3, 8, 10). Cabinet (3) is closed.  I am holding Tomato (4) now.
+Act: open Cabinet (3)
+You open Cabinet (3). You see Tomato (4), SaltShaker (3), PepperShaker (1), Microwave (1), Egg (1), Cabinet (3, 8, 10), Apple (3). I am holding Tomato (4) now.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see Tomato (4), Toaster (1), Spoon (1), Sink (1), SinkBasin (1), Potato (2), Pan (1), Mug (1), Lettuce (2), Knife (2), Fork (1), Faucet (1), DishSponge (2), CounterTop (2), Cabinet (4, 5, 6, 7). Cabinet (4) is closed.  I am holding Tomato (4) now.
+Act: open Cabinet (4)
+You open Cabinet (4). You see Tomato (4), Pan (1), GarbageCan (1), Fridge (1), CounterTop (2), Cabinet (4, 5, 6, 7, 9). I am holding Tomato (4) now.
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Tomato (4), Spoon (1), Sink (1), SinkBasin (1), GarbageCan (1), Fridge (1), Fork (1), Faucet (1), Egg (2), DishSponge (2), CounterTop (2), Cabinet (4, 5), Apple (2). Cabinet (5) is closed.  I am holding Tomato (4) now.
+Act: open Cabinet (5)
+You open Cabinet (5). You see Tomato (4), Spoon (1), Sink (1), SinkBasin (1), Kettle (1), GarbageCan (1), Fridge (1), Fork (1), DishSponge (2), CounterTop (2), Cabinet (4, 5). I am holding Tomato (4) now.
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Tomato (4), Toaster (1), Plate (1), Pan (1), Drawer (1, 3), DishSponge (1), CounterTop (2), CoffeeMachine (1), Cabinet (4, 6, 7, 9). Cabinet (6) is closed.  I am holding Tomato (4) now.
+Act: open Cabinet (6)
+You open Cabinet (6). You see Tomato (4), Toaster (1), Plate (1), Pan (1), Drawer (1, 3), DishSponge (1), CounterTop (2), CoffeeMachine (1), Cabinet (4, 6, 7, 9). I am holding Tomato (4) now.
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Tomato (4), Toaster (1), Sink (1), SinkBasin (1), Potato (2), Pan (1), Mug (1), Lettuce (2), Knife (2), Kettle (1), CounterTop (2), Cabinet (4, 5, 6, 7). Cabinet (7) is closed.  I am holding Tomato (4) now.
+Act: open Cabinet (7)
+You open Cabinet (7). You see Tomato (4), Toaster (1), Sink (1), SinkBasin (1), Potato (2), Pan (1), Mug (1), Lettuce (2), Knife (2), Kettle (1), CounterTop (2), Cabinet (4, 5, 6, 7). I am holding Tomato (4) now.
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Tomato (4), Microwave (1), Cabinet (8, 10, 11). Cabinet (8) is closed.  I am holding Tomato (4) now.
+Act: open Cabinet (8)
+You open Cabinet (8). You see Tomato (4), Microwave (1), Cabinet (8, 10, 11). I am holding Tomato (4) now.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Tomato (4), StoveBurner (3, 4), Pot (1), Drawer (1, 3), CounterTop (2), CoffeeMachine (1), Cabinet (6, 9). Cabinet (9) is closed.  I am holding Tomato (4) now.
+Act: open Cabinet (9)
+You open Cabinet (9). You see Tomato (4), StoveBurner (3, 4), Pot (1), Drawer (1, 3), CounterTop (2), CoffeeMachine (1), Cabinet (6, 9). I am holding Tomato (4) now.
+Act: go to Cabinet (10)
+You arrive at Cabinet (10). You see Tomato (4), Cabinet (3). Cabinet (10) is closed.  I am holding Tomato (4) now.
+Act: open Cabinet (10)
+The Cabinet (10) is not close to you. I am holding Tomato (4) now.
+Act: go to Cabinet (11)
+You arrive at Cabinet (11). You see Tomato (4, 4), Cabinet (3, 11). Cabinet (11) is closed.  I am holding Tomato (4) now.
+Act: open Cabinet (11)
+You open Cabinet (11). You see Tomato (4), SaltShaker (1), Cabinet (11). I am holding Tomato (4) now.
+Think: I find Pan (1). Now, I need to pick it up.
+OK.
+Act: pick up Tomato (4)
+You are currently holding Tomato (4). I am holding Tomato (4) now.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see Tomato (4), Toaster (1), Sink (1), SinkBasin (1), Potato (2), Pan (1), Mug (1), Lettuce (2), Knife (2), Kettle (1), CounterTop (2), Cabinet (4, 5, 6, 7). Cabinet (4) is open.  I am holding Tomato (4) now.
+Act: pick up Pan (1)
+You are currently holding Tomato (4). I am holding Tomato (4) now.
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Tomato (4), Toaster (1), Plate (1), Pan (1), Drawer (1, 3), DishSponge (1), CounterTop (2), CoffeeMachine (1), Cabinet (6, 7, 9). Cabinet (6) is open.  I am holding Tomato (4) now.
+Act: pick up Pan (1)
+You are currently holding Tomato (4). I am holding Tomato (4) now.
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Tomato (4), Toaster (1), Sink (1), SinkBasin (1), Potato (2), Pan (1), Mug (1), Lettuce (2), Knife (2), Kettle (1), CounterTop (2), Cabinet (4, 5, 6, 7). Cabinet (7) is open.  I am holding Tomato (4) now.
+Act: pick up Pan (1)
+You are currently holding Tomato (4). I am holding Tomato (4) now.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Tomato (4), StoveBurner (3, 4), Pot (1), Drawer (1, 3), CounterTop (2), CoffeeMachine (1), Cabinet (6, 9). Cabinet (9) is open.  I am holding Tomato (4) now.
+Act: pick up Tomato (4)
+You are currently holding Tomato (4). I am holding Tomato (4) now.

@@ -1,0 +1,15 @@
+Your primary goal is to: Place a rinsed fork in a drawer.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up fork, clean and pick up fork, find and pick up drawer, and place fork in drawer.
+Your task is to: find and pick up drawer
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13). I am holding Fork (1) now.
+Think: First, I need to recall location of the drawer.
+OK.
+Act: recall location of Fork
+You saw Fork (1) near hand.
+Think: I can find Fork (1) near hand.
+OK.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Microwave (1), Fridge (1), Fork (1), Drawer (1), Cabinet (4). Drawer (1) is closed.  I am holding Fork (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

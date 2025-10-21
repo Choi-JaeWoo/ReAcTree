@@ -1,0 +1,27 @@
+Your primary goal is to: Put a heated tomato slice on the end table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, slice and pick up tomato, heat and pick up tomato, and place tomato on end table.
+Your task is to: slice and pick up tomato
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1, 2, 3), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4). I am holding Knife (1) now.
+Think: I hold Knife (1). Now, I need to recall location of the tomato.
+OK.
+Act: recall location of Tomato
+You have not seen Tomato before.
+Think: Now, I need to find the tomato. The tomato is more likely to appear on CounterTop (1), SideTable (1), or in Fridge (1), Microwave (1), Cabinet (1-4). I can check each place one by one, starting from CounterTop (1), until I find the tomato.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Tomato (1), SoapBottle (2), Sink (1), SinkBasin (1), SideTable (1), SaltShaker (2), Potato (1), Mug (3), Knife (1), Fork (1), Faucet (1), Drawer (1), DishSponge (2), Cup (2), CounterTop (1), Cabinet (2, 4), ButterKnife (1).  I am holding Knife (1) now.
+Think: I find Tomato (1). Now, I need to slice it.
+OK.
+Act: slice Tomato (1)
+You slice Tomato (1). You see Tomato (3, 4, 5, 6, 7, 8, 9), SoapBottle (2), Sink (1), SinkBasin (1), SideTable (1), SaltShaker (2), Potato (1), Mug (3), Knife (1), Fork (1), Faucet (1), Drawer (1), DishSponge (2), Cup (2), CounterTop (1), Cabinet (2, 4), ButterKnife (1). Tomato (3, 4, 5, 6, 7, 8, 9) are sliced. I am holding Knife (1) now.
+Think: I slice Tomato (1). Now, I need to put down the knife.
+OK.
+Act: put down Knife (1)
+You put down failed, drop it. You see Tomato (3, 4, 5, 6, 7, 8, 9), SoapBottle (2), Sink (1), SinkBasin (1), SideTable (1), SaltShaker (2), Potato (1), Mug (3), Fork (1), Faucet (1), Drawer (1), DishSponge (2), Cup (2), CounterTop (1), Cabinet (2, 4), ButterKnife (1).
+Think: Now I need to pick up Tomato (3).
+OK.
+Act: pick up Tomato (3)
+You pick up Tomato (3). You see Tomato (3, 4, 5, 6, 7, 8, 9), SoapBottle (2), Sink (1), SinkBasin (1), SideTable (1), SaltShaker (2), Potato (1), Mug (3), Fork (1), Faucet (1), Drawer (1), DishSponge (2), Cup (2), CounterTop (1), Cabinet (2, 4), ButterKnife (1). I am holding Tomato (3) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

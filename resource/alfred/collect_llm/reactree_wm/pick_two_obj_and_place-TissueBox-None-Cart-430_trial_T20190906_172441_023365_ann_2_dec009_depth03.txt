@@ -1,0 +1,13 @@
+Your primary goal is to: Put two boxes of tissues on the silver rack.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up box of tissues, place box of tissues on silver rack, Find and pick up box of tissues away from silver rack, and place box of tissues on silver rack.
+Your task is to: place box of tissues on silver rack
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1), Shelf (1), HandTowelHolder (1), GarbageCan (1), Drawer (1, 2, 3, 4), CounterTop (1), Cart (1), BathtubBasin (1). I am holding TissueBox (1) now.
+Think: I hold TissueBox (1). Now, I need to put it on the silver rack. I can see Shelf (1).
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TissueBox (1), ShowerHead (1), ShowerGlass (1).  I am holding TissueBox (1) now.
+Act: put down TissueBox (1)
+You put down failed, drop it. You see ShowerHead (1), ShowerGlass (1), CounterTop (1).
+Think: I failed to put down TissueBox (1).
+OK.
+Act: failure

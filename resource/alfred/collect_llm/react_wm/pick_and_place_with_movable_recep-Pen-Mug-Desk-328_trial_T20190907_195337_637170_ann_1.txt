@@ -1,0 +1,23 @@
+Your task is to: Put a cup with a pen in it on a desk.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1), GarbageCan (1), Drawer (1, 2), Desk (1), Bed (1).
+Think: To solve the task, I need to find and pick up the cup, then put it on the desk.
+OK.
+Think: First, I need to recall location of the cup.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the cup. The cup is more likely to appear on Desk (1), SideTable (1), or in Drawer (1-2). I can check each place one by one, starting from Desk (1), until I find the cup.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Window (2), TissueBox (2), Pencil (1, 2), Pen (1, 2), Desk (1), Chair (1), CellPhone (2), Book (1). 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: pick up Pen (1)
+You pick up Pen (1). You see Window (2), TissueBox (2), Pencil (1, 2), Pen (1, 2), Desk (1), Chair (1), CellPhone (2), Book (1). I am holding Pen (1) now.
+Think: I hold Pen (1). Now, I need to put it on the desk.
+OK.
+Act: put down Pen (1)
+You put down failed, drop it. You see Window (2), TissueBox (2), Pencil (1, 2), Pen (1, 2), Desk (1), Chair (1), CellPhone (2), Book (1).
+Think: I put Pen (1) on Desk (1). Now I accomplish the goal.
+OK.
+Act: done

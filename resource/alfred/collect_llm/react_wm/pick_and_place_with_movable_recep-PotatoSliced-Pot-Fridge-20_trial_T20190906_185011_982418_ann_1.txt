@@ -1,0 +1,108 @@
+Your task is to: place a potato slice in a pan in the fridge
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13).
+Think: To solve the task, I need to find and pick up the pan, then put it in the fridge. And I need to find and pick up the knife. And I need to find and slice the potato. And I need to put down the knife and pick up the potato, then put it in the pan in the fridge.
+OK.
+Think: First, I need to recall location of the pan.
+OK.
+Act: recall location of Pan
+You have not seen Pan before.
+Think: Now I need to find the pan. The pan is more likely to appear on CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1). I can check each place one by one, starting from CounterTop (1), until I find the pan.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Tomato (1), Toaster (1), Spoon (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see WineBottle (2), Tomato (1), Spoon (2), SoapBottle (2), Sink (1), SinkBasin (1), Faucet (1), Drawer (1), CounterTop (1), Cabinet (10), ButterKnife (2). 
+Think: I find Pan (1). Now, I need to pick it up.
+OK.
+Act: pick up WineBottle (2)
+You pick up WineBottle (2). You see WineBottle (2), Spoon (2), SoapBottle (2), Sink (1), SinkBasin (1), Drawer (1), CounterTop (1), Cabinet (10), ButterKnife (2). I am holding WineBottle (2) now.
+Act: pick up SoapBottle (2)
+You are currently holding WineBottle (2). I am holding WineBottle (2) now.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (2), Tomato (1), Toaster (1), Spoon (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1).  I am holding WineBottle (2) now.
+Act: put down WineBottle (2)
+You put WineBottle (2) on CounterTop (1). You see WineBottle (2), Toaster (1), Spoon (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1).
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see WineBottle (2), Tomato (1), Spoon (2), SoapBottle (2), Sink (1), SinkBasin (1), Faucet (1), Drawer (1), CounterTop (1), Cabinet (10), ButterKnife (2). 
+Act: pick up SoapBottle (2)
+You pick up SoapBottle (2). You see WineBottle (2), Spoon (2), SoapBottle (2), Sink (1), SinkBasin (1), Faucet (1), Drawer (1), CounterTop (1), Cabinet (10), ButterKnife (2). I am holding SoapBottle (2) now.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (2), Toaster (1), Spoon (2), SoapBottle (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1).  I am holding SoapBottle (2) now.
+Act: put down SoapBottle (2)
+You put SoapBottle (2) on CounterTop (1). You see WineBottle (2), Toaster (1), Spoon (2), SoapBottle (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1).
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see WineBottle (2), Tomato (1), Spoon (2), Sink (1), SinkBasin (1), Faucet (1), Drawer (1), CounterTop (1), Cabinet (10), ButterKnife (2). 
+Act: pick up Spoon (2)
+You pick up Spoon (2). You see WineBottle (2), Tomato (1), Spoon (2), Sink (1), SinkBasin (1), Faucet (1), Drawer (1), CounterTop (1), Cabinet (10), ButterKnife (2). I am holding Spoon (2) now.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (2), Toaster (1), Spoon (2), SoapBottle (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1).  I am holding Spoon (2) now.
+Act: put down Spoon (2)
+You put Spoon (2) on CounterTop (1). You see WineBottle (2), Toaster (1), Spoon (2), SoapBottle (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1).
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see WineBottle (2), Tomato (1), Spoon (2), Sink (1), SinkBasin (1), Faucet (1), Drawer (1), CounterTop (1), Cabinet (10), ButterKnife (2). 
+Act: pick up Tomato (1)
+You pick up Tomato (1). You see WineBottle (2), Tomato (1), Spoon (2), Sink (1), SinkBasin (1), Faucet (1), Drawer (1), CounterTop (1), Cabinet (10), ButterKnife (2). I am holding Tomato (1) now.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (2), Tomato (1), Toaster (1), Spoon (2), SoapBottle (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1).  I am holding Tomato (1) now.
+Act: put down Tomato (1)
+You put Tomato (1) on CounterTop (1). You see WineBottle (2), Tomato (1), Toaster (1), Spoon (2), SoapBottle (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1).
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see WineBottle (2), Spoon (2), Sink (1), SinkBasin (1), Faucet (1), Drawer (1), CounterTop (1), Cabinet (10), ButterKnife (2). 
+Act: pick up Spoon (2)
+You pick up Spoon (2). You see WineBottle (2), Spoon (2), Sink (1), SinkBasin (1), Faucet (1), Drawer (1), CounterTop (1), Cabinet (10), ButterKnife (2). I am holding Spoon (2) now.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (2), Tomato (1), Toaster (1), Spoon (2), SoapBottle (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1).  I am holding Spoon (2) now.
+Act: put down Spoon (2)
+You put Spoon (2) on CounterTop (1). You see WineBottle (2), Tomato (1), Toaster (1), Spoon (2), SoapBottle (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1).
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see WineBottle (2), Spoon (2), Sink (1), SinkBasin (1), Faucet (1), Drawer (1), CounterTop (1), Cabinet (10), ButterKnife (2). 
+Act: pick up Spoon (2)
+You pick up Spoon (2). You see WineBottle (2), Spoon (2), Sink (1), SinkBasin (1), Faucet (1), Drawer (1), CounterTop (1), Cabinet (10), ButterKnife (2). I am holding Spoon (2) now.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (2), Tomato (1), Toaster (1), Spoon (2), SoapBottle (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1).  I am holding Spoon (2) now.
+Act: put down Spoon (2)
+You put Spoon (2) on CounterTop (1). You see WineBottle (2), Tomato (1), Toaster (1), Spoon (2), SoapBottle (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1).
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see WineBottle (2), Spoon (2), Sink (1), SinkBasin (1), Faucet (1), Drawer (1), CounterTop (1), Cabinet (10), ButterKnife (2). 
+Act: pick up Spoon (2)
+You pick up Spoon (2). You see WineBottle (2), Spoon (2), Sink (1), SinkBasin (1), Faucet (1), Drawer (1), CounterTop (1), Cabinet (10), ButterKnife (2). I am holding Spoon (2) now.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (2), Tomato (1), Toaster (1), Spoon (2), SoapBottle (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1).  I am holding Spoon (2) now.
+Act: put down Spoon (2)
+You put Spoon (2) on CounterTop (1). You see WineBottle (2), Tomato (1), Toaster (1), Spoon (2), SoapBottle (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1).
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see WineBottle (2), Spoon (2), Sink (1), SinkBasin (1), Faucet (1), Drawer (1), CounterTop (1), Cabinet (10), ButterKnife (2). 
+Act: pick up Spoon (2)
+You pick up Spoon (2). You see WineBottle (2), Spoon (2), Sink (1), SinkBasin (1), Faucet (1), Drawer (1), CounterTop (1), Cabinet (10), ButterKnife (2). I am holding Spoon (2) now.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (2), Tomato (1), Toaster (1), Spoon (2), SoapBottle (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1).  I am holding Spoon (2) now.
+Act: put down Spoon (2)
+You put Spoon (2) on CounterTop (1). You see WineBottle (2), Tomato (1), Toaster (1), Spoon (2), SoapBottle (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1).
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see WineBottle (2), Spoon (2), Sink (1), SinkBasin (1), Faucet (1), Drawer (1), CounterTop (1), Cabinet (10), ButterKnife (2). 
+Act: pick up Spoon (2)
+You pick up Spoon (2). You see WineBottle (2), Spoon (2), Sink (1), SinkBasin (1), Faucet (1), Drawer (1), CounterTop (1), Cabinet (10), ButterKnife (2). I am holding Spoon (2) now.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (2), Tomato (1), Toaster (1), Spoon (2), SoapBottle (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1).  I am holding Spoon (2) now.
+Act: put down Spoon (2)
+You put Spoon (2) on CounterTop (1). You see WineBottle (2), Tomato (1), Toaster (1), Spoon (2), SoapBottle (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1).
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see WineBottle (2), Spoon (2), Sink (1), SinkBasin (1), Faucet (1), Drawer (1), CounterTop (1), Cabinet (10), ButterKnife (2). 
+Act: pick up Spoon (2)
+You pick up Spoon (2). You see WineBottle (2), Spoon (2), Sink (1), SinkBasin (1), Faucet (1), Drawer (1), CounterTop (1), Cabinet (10), ButterKnife (2). I am holding Spoon (2) now.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (2), Tomato (1), Toaster (1), Spoon (2), SoapBottle (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1).  I am holding Spoon (2) now.
+Act: put down Spoon (2)
+You put Spoon (2) on CounterTop (1). You see WineBottle (2), Tomato (1), Toaster (1), Spoon (2), SoapBottle (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1).
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see WineBottle (2), Spoon (2), Sink (1), SinkBasin (1), Faucet (1), Drawer (1), CounterTop (1), Cabinet (10), ButterKnife (2). 
+Act: pick up Spoon (2)
+You pick up Spoon (2). You see WineBottle (2), Spoon (2), Sink (1), SinkBasin (1), Faucet (1), Drawer (1), CounterTop (1), Cabinet (10), ButterKnife (2). I am holding Spoon (2) now.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (2), Tomato (1), Toaster (1), Spoon (2), SoapBottle (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1).  I am holding Spoon (2) now.
+Act: put down Spoon (2)
+You put Spoon (2) on CounterTop (1). You see WineBottle (2), Tomato (1), Toaster (1), Spoon (2), SoapBottle (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1).
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see WineBottle (2), Spoon (2), Sink (1), SinkBasin (1), Faucet (1), Drawer (1), CounterTop (1), Cabinet (10), ButterKnife (2). 
+Act: pick up Spoon (2)
+You pick up Spoon (2). You see WineBottle (2), Spoon (2), Sink (1), SinkBasin (1), Faucet (1), Drawer (1), CounterTop (1), Cabinet (10), ButterKnife (2). I am holding Spoon (2) now.

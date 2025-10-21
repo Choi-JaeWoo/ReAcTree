@@ -1,0 +1,13 @@
+Your primary goal is to: Put the credit cards on the blue sofa
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up credit card, place credit card on sofa, Find and pick up credit card away from sofa, and and place credit card on sofa.
+Your task is to: place credit card on sofa
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1, 2), Sofa (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14), GarbageCan (1), CoffeeTable (1), ArmChair (1). I am holding CreditCard (1) now.
+Think: I hold CreditCard (1). Now, I need to put it on the sofa. I can see Sofa (1).
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), RemoteControl (1), Pillow (1), Laptop (1), KeyChain (1), CreditCard (1).  I am holding CreditCard (1) now.
+Act: put down CreditCard (1)
+You put CreditCard (1) on Sofa (1). You see Sofa (1), Pillow (1), Laptop (1), KeyChain (1), CreditCard (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

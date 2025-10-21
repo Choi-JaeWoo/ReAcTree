@@ -1,0 +1,51 @@
+Your task is to: Put a mug with a fork in it on the counter.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10).
+Think: To solve the task, I need to find and pick up the mug, then put it on the counter. And I need to find and pick up the fork, then put it in the mug on the counter.
+OK.
+Think: First, I need to recall location of the mug.
+OK.
+Act: recall location of Mug
+You have not seen Mug before.
+Think: Now I need to find the mug. The mug is more likely to appear on DiningTable (1-2), CounterTop (1-2), SinkBasin (1) or in Fridge (1), Microwave (1), Cabinet (1-10), Drawer (1-3). I can check each place one by one, starting from DiningTable (1), until I find the mug.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Toaster (1), Pot (2), Plate (2), Lettuce (1), Fork (1), DishSponge (3), DiningTable (1), ButterKnife (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Spatula (1), Potato (2), Knife (2), Egg (2), DiningTable (2), Cup (2), Bread (1, 2). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spoon (1), Sink (1), SinkBasin (1), Mug (1), Lettuce (2), Fork (2), Faucet (1), Drawer (1), CounterTop (1), Cabinet (1, 4), Apple (1, 3). 
+Think: I find Mug (1). Now, I need to pick it up.
+OK.
+Act: pick up Mug (1)
+You pick up Mug (1). You see Spoon (1), Sink (1), SinkBasin (1), Mug (1), Lettuce (2), Fork (2), Faucet (1), Drawer (1), CounterTop (1), Cabinet (1, 4), Apple (1, 3). I am holding Mug (1) now.
+Think: I hold Mug (1). Now, I need to put it on the counter.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spoon (1), Sink (1), SinkBasin (1), Mug (1), Lettuce (2), Fork (2), Faucet (1), Drawer (1), CounterTop (1), Cabinet (1, 4), Apple (1, 3).  I am holding Mug (1) now.
+Act: put down Mug (1)
+You put Mug (1) on CounterTop (1). You see Spoon (1), Sink (1), SinkBasin (1), Mug (1), Lettuce (2), Fork (2), Faucet (1), Drawer (1), CounterTop (1), Cabinet (1, 4), Apple (1, 3).
+Think: I put Mug (1) on the CounterTop (1). Now, I need to recall location of the fork.
+OK.
+Act: recall location of Fork
+You saw Fork (1) near DiningTable (1). You saw Fork (2) near CounterTop (1).
+Think: Fork (1) is near DiningTable (1). Now, I need to pick it up.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Toaster (1), Pot (2), Plate (2), Lettuce (1), Fork (1), DishSponge (3), DiningTable (1), ButterKnife (1). 
+Act: pick up Fork (1)
+You pick up Fork (1). You see Toaster (1), Pot (2), Plate (2), Lettuce (1), Fork (1), DishSponge (3), DiningTable (1), ButterKnife (1). I am holding Fork (1) now.
+Think: I hold Fork (1). Now, I need to recall location of the mug.
+OK.
+Act: recall location of Mug
+You saw Mug (1) near CounterTop (1).
+Think: Mug (1) is near CounterTop (1). Now, I need to put Fork (1) in Mug (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spoon (1), Sink (1), SinkBasin (1), Mug (1), Lettuce (2), Fork (1, 2), Faucet (1), Drawer (1), CounterTop (1), Cabinet (1, 4), Apple (1, 3).  I am holding Fork (1) now.
+Act: go to Mug (1)
+You arrive at Mug (1). You see Spoon (1), Sink (1), Mug (1), Lettuce (2), Fork (1, 2), Drawer (1, 3), CounterTop (1), Cabinet (1, 4, 5), ButterKnife (2).  I am holding Fork (1) now.
+Act: put down Fork (1)
+You put Fork (1) on Mug (1). You see Spoon (1), Sink (1), Mug (1), Lettuce (2), Fork (1, 2), Drawer (1, 3), CounterTop (1), Cabinet (1, 4, 5), ButterKnife (2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

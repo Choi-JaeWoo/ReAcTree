@@ -1,0 +1,21 @@
+Your primary goal is to: Put both white bottles by the edge of the tub.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up white bottle, place white bottle by tub, Find and pick up white bottle away from tub, and place white bottle by tub.
+Your task is to: find and pick up white bottle
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1, 2), Toilet (1), ToiletPaperHanger (1), SinkBasin (1), HandTowelHolder (1), GarbageCan (1), Drawer (1, 2, 3, 4), CounterTop (1, 2), BathtubBasin (1).
+Think: First, I need to recall location of the white bottle.
+OK.
+Act: recall location of SoapBottle
+You have not seen SoapBottle before.
+Think: Now, I need to find the white bottle. The white bottle is more likely to appear on CounterTop (1-2), SinkBasin (1), BathtubBasin (1), or in Drawer (1-4). I can check each place one by one, starting from CounterTop (1), until I find the white bottle.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see SoapBar (1), Faucet (1), Drawer (3), CounterTop (1), Cloth (1, 3), Bathtub (1), BathtubBasin (1). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see SoapBar (2), Sink (1), SinkBasin (1), Mirror (1), Faucet (3), Drawer (1, 2, 3, 4), CounterTop (2), Cloth (2), Candle (2). 
+Think: I find SoapBottle (1). Now, I need to pick it up.
+OK.
+Act: pick up SoapBar (2)
+You pick up SoapBar (2). You see SoapBar (2), Sink (1), SinkBasin (1), Mirror (1), Faucet (3), Drawer (1, 2, 3, 4), CounterTop (2), Cloth (2), Candle (2). I am holding SoapBar (2) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

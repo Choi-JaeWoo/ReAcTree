@@ -1,0 +1,13 @@
+Your primary goal is to: take the computer from the bed to turn on the lamp
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up computer, place computer on desk, and and find and turn on lamp.
+Your task is to: place computer on desk
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1, 2), Safe (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11), Desk (1), Bed (1, 2). I am holding Laptop (1) now.
+Think: I hold Laptop (1). Now, I need to put it on the desk. I can see Desk (1).
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pencil (3), Laptop (1), Drawer (9), Desk (1), DeskLamp (1), Chair (1), CD (1, 2), Bowl (1), AlarmClock (1).  I am holding Laptop (1) now.
+Act: put down Laptop (1)
+You put Laptop (1) on Desk (1). You see Pencil (3), Laptop (1), Drawer (1, 8, 9), Desk (1), DeskLamp (1), Chair (1), CD (1), Bowl (1), AlarmClock (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

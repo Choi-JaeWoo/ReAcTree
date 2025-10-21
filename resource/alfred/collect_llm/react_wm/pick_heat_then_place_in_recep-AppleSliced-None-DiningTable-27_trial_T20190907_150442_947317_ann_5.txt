@@ -1,0 +1,79 @@
+Your task is to: Cutting apple slices, warming it up
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12).
+Think: To solve the task, I need to find and pick up the apple, then put it on the counter. And I need to find and pick up the knife. And I need to slice the apple. And I need to put down the knife and pick up the apple, then put it in the microwave. And I need to turn on and off the microwave.
+OK.
+Think: First, I need to recall location of the apple.
+OK.
+Act: recall location of Apple
+You have not seen Apple before.
+Think: Now I need to find the apple. The apple is more likely to appear on DiningTable (1), CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-12), Drawer (1-3). I can check each place one by one, starting from DiningTable (1), until I find the apple.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (1), Tomato (1), Spoon (1), Spatula (1), Potato (2), PepperShaker (3), Lettuce (1), Knife (1), Fork (1), DiningTable (1), Chair (1), Bread (1), Bowl (2), Apple (2). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), StoveKnob (4), StoveBurner (1, 3), PepperShaker (2), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Sink (1), SinkBasin (1), Potato (1), Faucet (1, 2), Egg (1), Curtains (1), CounterTop (2), Cabinet (4, 5). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), Potato (1), Faucet (1, 2), Egg (1), Curtains (1), Cabinet (4, 5). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Cabinet (7). Fridge (1) is closed. 
+Act: open Fridge (1)
+You open Fridge (1). You see Tomato (2, 3), Fridge (1), Cabinet (7).
+Think: I find Apple (2). Now, I need to pick it up.
+OK.
+Act: pick up Tomato (2)
+You pick up Tomato (2). You see Tomato (2, 3), Fridge (1), Cabinet (7). I am holding Tomato (2) now.
+Think: I hold Tomato (2). Now, I need to put it on the counter.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Tomato (2), Toaster (1), StoveKnob (4), StoveBurner (1, 3), PepperShaker (2), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7).  I am holding Tomato (2) now.
+Act: put down Tomato (2)
+You put Tomato (2) on CounterTop (1). You see Tomato (2), Toaster (1), StoveKnob (4), StoveBurner (1, 3), PepperShaker (2), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7).
+Think: Now I put Tomato (2) on CounterTop (1). Now, I need to recall location of the knife.
+OK.
+Act: recall location of Knife
+You saw Knife (1) near DiningTable (1).
+Think: I can find Knife (1) near DiningTable (1).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (1), Tomato (1), Spoon (1), Spatula (1), Potato (2), PepperShaker (3), Lettuce (1), Knife (1), Fork (1), DiningTable (1), Chair (1), Bread (1), Bowl (2), Apple (2). 
+Think: I find Knife (1). Now, I need to pick it up.
+OK.
+Act: pick up Knife (1)
+You pick up Knife (1). You see WineBottle (1), Tomato (1), Spoon (1), Spatula (1), Potato (2), PepperShaker (3), Lettuce (1), Knife (1), Fork (1), DiningTable (1), Chair (1), Bread (1), Bowl (2), Apple (2). I am holding Knife (1) now.
+Think: I hold Knife (1). Now, I need to recall location of the apple.
+OK.
+Act: recall location of Apple
+You saw Apple (2) near DiningTable (1).
+Think: I can find Apple (2) near DiningTable (1). Now, I need to slice Apple (2).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (1), Tomato (1), Spoon (1), Spatula (1), Potato (2), PepperShaker (3), Lettuce (1), Knife (1), Fork (1), DiningTable (1), Chair (1), Bread (1), Bowl (2), Apple (2).  I am holding Knife (1) now.
+Think: I find Apple (2). Now, I need to slice it.
+OK.
+Act: slice Apple (2)
+You slice Apple (2). You see WineBottle (1), Tomato (1), Spoon (1), Spatula (1), Potato (2), PepperShaker (3), Lettuce (1), Knife (1), Fork (1), DiningTable (1), Chair (1), Bread (1), Bowl (2), Apple (5, 6, 7). Apple (5, 6, 7) are sliced. I am holding Knife (1) now.
+Think: I slice Apple (2). Now, I need to put down the knife.
+OK.
+Act: put down Knife (1)
+You put down failed, drop it. You see WineBottle (1), Tomato (1), Spoon (1), Spatula (1), Potato (2), PepperShaker (3), Lettuce (1), Knife (1), Fork (1), DiningTable (1), Chair (1), Bread (1), Bowl (2), Apple (5, 6, 7).
+Think: Now I need to pick up Apple (7).
+OK.
+Act: pick up Apple (7)
+You pick up Apple (7). You see WineBottle (1), Tomato (1), Spoon (1), Spatula (1), Potato (2), PepperShaker (3), Lettuce (1), Knife (1), Fork (1), DiningTable (1), Chair (1), Bread (1), Bowl (2), Apple (5, 6, 7). I am holding Apple (7) now.
+Think: I hold Apple (7). Now, I need to put it in the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see SaltShaker (3), PepperShaker (1), Mug (2), Microwave (1), Fork (1), Drawer (1), DiningTable (1), Cabinet (9), Apple (7). Microwave (1) is closed.  I am holding Apple (7) now.
+Act: open Microwave (1)
+You open Microwave (1). You see SaltShaker (3), PepperShaker (1), Mug (1, 2), Microwave (1), Drawer (1), Cup (1), Cabinet (9), Apple (7). I am holding Apple (7) now.
+Act: put down Apple (7)
+You put Apple (7) on Microwave (1). You see SaltShaker (3), PepperShaker (1), Mug (1, 2), Microwave (1), Drawer (1), Cabinet (9), Apple (7).
+Think: I put Apple (7) in Microwave (1). Now, I need to turn on and off Microwave (1).
+OK.
+Act: turn on Microwave (1)
+
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,33 @@
+Your task is to: turn on desk lamp with clock in hand
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1, 2, 3, 4, 5), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), Desk (1), Bed (1).
+Think: To solve the task, I need to find and pick up the clock. And I need to find and turn on the desk lamp.
+OK.
+Think: First, I need to recall location of the clock.
+OK.
+Act: recall location of AlarmClock
+You have not seen AlarmClock before.
+Think: Now I need to find the clock. The clock is more likely to appear on Bed (1), Desk (1), Shelf (1-5), or in Drawer (1-8). I can check each place one by one, starting from Bed (1), until I find the clock.
+OK.
+Act: go to Bed (1)
+You arrive at Bed (1). You see Pillow (1, 2), Laptop (2), Bed (1). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Window (1, 2), Shelf (4), Pen (2), Laptop (1), Desk (1), CreditCard (3), Chair (1), Book (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), DeskLamp (1), CreditCard (2). 
+Think: I find AlarmClock (1). Now, I need to pick it up.
+OK.
+Act: pick up CreditCard (2)
+You pick up CreditCard (2). You see Shelf (1), DeskLamp (1), CreditCard (2). I am holding CreditCard (2) now.
+Think: I hold CreditCard (2). Now, I need to recall location of the desk lamp.
+OK.
+Act: recall location of DeskLamp
+You saw DeskLamp (1) near Shelf (1).
+Think: I can find DeskLamp (1) near Shelf (1). Now, I need to go to Shelf (1) and turn on DeskLamp (1).
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), DeskLamp (1), CreditCard (2).  I am holding CreditCard (2) now.
+Act: turn on DeskLamp (1)
+You turn on DeskLamp (1). You see Shelf (1), DeskLamp (1), CreditCard (2). I am holding CreditCard (2) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

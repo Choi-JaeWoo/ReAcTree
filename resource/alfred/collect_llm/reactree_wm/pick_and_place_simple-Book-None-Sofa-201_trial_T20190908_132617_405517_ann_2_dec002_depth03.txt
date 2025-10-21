@@ -1,0 +1,31 @@
+Your primary goal is to: put a book on a sofa
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up book, and place book on sofa.
+Your task is to: find and pick up book
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1, 2), GarbageCan (1), Drawer (1, 2), DiningTable (1, 2), CoffeeTable (1), ArmChair (1, 2).
+Think: First, I need to recall location of the book.
+OK.
+Act: recall location of Book
+You have not seen Book before.
+Think: Now, I need to find the book. The book is more likely to appear on Sofa (1), SideTable (1-2), or in Drawer (1-2). I can check each place one by one, starting from Sofa (1), until I find the book.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Watch (1), Vase (1), SideTable (1), Drawer (1), DiningTable (2). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), Pencil (1), Newspaper (3), Lamp (1), Drawer (2), Curtains (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Watch (1), Vase (1), SideTable (1), Painting (1), Drawer (1), DiningTable (2). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Watch (1), Vase (1), SideTable (1), Pen (1), Painting (1), Drawer (1), DiningTable (2).
+Act: close Drawer (1)
+You close Drawer (1). You see Watch (1), Vase (1), SideTable (1), Painting (1), Drawer (1), DiningTable (2).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (2), Pencil (1), Newspaper (3), Lamp (1), Drawer (2), Curtains (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see SideTable (2), Pencil (1, 2), Newspaper (3), Lamp (1), Drawer (2), Curtains (1).
+Act: close Drawer (2)
+You close Drawer (2). You see SideTable (2), Pencil (1), Newspaper (3), Lamp (1), Drawer (2), Curtains (1).
+Think: I have not found the book. I need to expand the goal.
+OK.
+Act: failure

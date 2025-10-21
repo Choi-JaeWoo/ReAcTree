@@ -1,0 +1,27 @@
+Your primary goal is to: Put a pan with a knife and slice of cooked potato in the refrigerator.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pan, place pan in fridge, find and pick up knife, slice and pick up potato, and and place potato on pan near fridge.
+Your task is to: slice and pick up potato
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), CounterTop (1, 2, 3, 4), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15). I am holding Knife (1) now.
+Think: I hold Knife (1). Now, I need to recall location of the potato.
+OK.
+Act: recall location of Potato
+You saw Potato (1) near Microwave (1).
+Think: I can find Potato (1) near Microwave (1).
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Toaster (1), Microwave (1), Knife (1), Chair (1). Microwave (1) is closed.  I am holding Knife (1) now.
+Act: open Microwave (1)
+You open Microwave (1). You see Potato (1), Microwave (1), Knife (1), Chair (1). I am holding Knife (1) now.
+Think: I find Potato (1). Now, I need to slice it.
+OK.
+Act: slice Potato (1)
+You slice Potato (1). You see Potato (7, 8, 9), Microwave (1), Knife (1), Chair (1). Potato (2, 3, 4, 5, 6, 7, 8, 9) are sliced. I am holding Knife (1) now.
+Think: I slice Potato (1). Now, I need to put down the knife.
+OK.
+Act: put down Knife (1)
+You put down failed, drop it. You see Potato (7, 8, 9), Microwave (1), Chair (1).
+Think: Now I need to pick up Potato (7).
+OK.
+Act: pick up Potato (7)
+You pick up Potato (7). You see Potato (6, 7, 8, 9), Microwave (1), Chair (1). I am holding Potato (7) now.
+Max decisions

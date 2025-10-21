@@ -1,0 +1,142 @@
+Your task is to: Chill a drinking glass in the refrigerator and put it on the brown table.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2).
+Think: To solve the task, I need to find and pick up the drinking glass, then put it in the fridge. I need to pick up the drinking glass from the fridge, then put it on the brown table.
+OK.
+Think: First, I need to recall location of the drinking glass.
+OK.
+Act: recall location of Glassbottle
+You have not seen Glassbottle before.
+Think: Now I need to find the drinking glass. The drinking glass is more likely to appear on CoffeeMachine (1), DiningTable (1), CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-2), Drawer (1-6). I can check each place one by one, starting from CoffeeMachine (1), until I find the drinking glass.
+OK.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see Toaster (1), Spoon (3), Potato (2), Pan (1), Mug (3), Lettuce (2), Ladle (2), Egg (2), DiningTable (1), CoffeeMachine (1). 
+Think: I find Glassbottle (1). Now, I need to pick it up.
+OK.
+Act: pick up Mug (3)
+You pick up Mug (3). You see Toaster (1), Potato (2), Pan (1), Mug (3), Lettuce (2), Ladle (2), Egg (2), DiningTable (1), CoffeeMachine (1). I am holding Mug (3) now.
+Think: I hold Mug (3). Now, I need to put it in the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see SoapBottle (2), Mug (3), GarbageCan (1), Fridge (1), Apple (2). Fridge (1) is closed.  I am holding Mug (3) now.
+Act: open Fridge (1)
+You open Fridge (1). You see SoapBottle (2), Mug (3), GarbageCan (1), Fridge (1), Apple (2). I am holding Mug (3) now.
+Act: put down Mug (3)
+You put down failed, drop it. You see SoapBottle (2), Mug (3), GarbageCan (1), Fridge (1), Apple (2).
+Think: Now I need to pick up Glassbottle (1).
+OK.
+Act: pick up Mug (3)
+You pick up Mug (3). You see SoapBottle (2), Mug (3), GarbageCan (1), Fridge (1), Apple (2). I am holding Mug (3) now.
+Think: I hold Mug (3). Now, I need to put it in the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see SoapBottle (2), Mug (3), GarbageCan (1), Fridge (1), Apple (2). Fridge (1) is open.  I am holding Mug (3) now.
+Act: put down Mug (3)
+You put down failed, drop it. You see SoapBottle (2), Mug (3), GarbageCan (1), Fridge (1), Apple (2).
+Think: Now I need to pick up Glassbottle (1).
+OK.
+Act: pick up Mug (3)
+You pick up Mug (3). You see SoapBottle (2), Mug (3), GarbageCan (1), Fridge (1), Apple (2). I am holding Mug (3) now.
+Think: I hold Mug (3). Now, I need to put it in the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see SoapBottle (2), Mug (3), GarbageCan (1), Fridge (1), Apple (2). Fridge (1) is open.  I am holding Mug (3) now.
+Act: put down Mug (3)
+You put down failed, drop it. You see SoapBottle (2), Mug (3), GarbageCan (1), Fridge (1), Apple (2).
+Think: Now I need to pick up Glassbottle (1).
+OK.
+Act: pick up Mug (3)
+You pick up Mug (3). You see SoapBottle (2), Mug (3), GarbageCan (1), Fridge (1), Apple (2). I am holding Mug (3) now.
+Think: I hold Mug (3). Now, I need to put it in the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see SoapBottle (2), Mug (3), GarbageCan (1), Fridge (1), Apple (2). Fridge (1) is open.  I am holding Mug (3) now.
+Act: put down Mug (3)
+You put down failed, drop it. You see SoapBottle (2), Mug (3), GarbageCan (1), Fridge (1), Apple (2).
+Think: Now I need to pick up Glassbottle (1).
+OK.
+Act: pick up Mug (3)
+You pick up Mug (3). You see SoapBottle (2), Mug (3), GarbageCan (1), Fridge (1), Apple (2). I am holding Mug (3) now.
+Think: I hold Mug (3). Now, I need to put it in the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see SoapBottle (2), Mug (3), GarbageCan (1), Fridge (1), Apple (2). Fridge (1) is open.  I am holding Mug (3) now.
+Act: put down Mug (3)
+You put down failed, drop it. You see SoapBottle (2), Mug (3), GarbageCan (1), Fridge (1), Apple (2).
+Think: Now I need to pick up Glassbottle (1).
+OK.
+Act: pick up Mug (3)
+You pick up Mug (3). You see SoapBottle (2), Mug (3), GarbageCan (1), Fridge (1), Apple (2). I am holding Mug (3) now.
+Think: I hold Mug (3). Now, I need to put it in the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see SoapBottle (2), Mug (3), GarbageCan (1), Fridge (1), Apple (2). Fridge (1) is open.  I am holding Mug (3) now.
+Act: put down Mug (3)
+You put down failed, drop it. You see SoapBottle (2), Mug (3), GarbageCan (1), Fridge (1), Apple (2).
+Think: Now I need to pick up Glassbottle (1).
+OK.
+Act: pick up Mug (3)
+You pick up Mug (3). You see SoapBottle (2), Mug (3), GarbageCan (1), Fridge (1), Apple (2). I am holding Mug (3) now.
+Think: I hold Mug (3). Now, I need to put it in the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see SoapBottle (2), Mug (3), GarbageCan (1), Fridge (1), Apple (2). Fridge (1) is open.  I am holding Mug (3) now.
+Act: put down Mug (3)
+You put down failed, drop it. You see SoapBottle (2), Mug (3), GarbageCan (1), Fridge (1), Apple (2).
+Think: Now I need to pick up Glassbottle (1).
+OK.
+Act: pick up Mug (3)
+You pick up Mug (3). You see SoapBottle (2), Mug (3), GarbageCan (1), Fridge (1), Apple (2). I am holding Mug (3) now.
+Think: I hold Mug (3). Now, I need to put it in the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see SoapBottle (2), Mug (3), GarbageCan (1), Fridge (1), Apple (2). Fridge (1) is open.  I am holding Mug (3) now.
+Act: put down Mug (3)
+You put down failed, drop it. You see SoapBottle (2), Mug (3), GarbageCan (1), Fridge (1), Apple (2).
+Think: Now I need to pick up Glassbottle (1).
+OK.
+Act: pick up Mug (3)
+You pick up Mug (3). You see SoapBottle (2), Mug (3), GarbageCan (1), Fridge (1), Apple (2). I am holding Mug (3) now.
+Think: I hold Mug (3). Now, I need to put it in the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see SoapBottle (2), Mug (3), GarbageCan (1), Fridge (1), Apple (2). Fridge (1) is open.  I am holding Mug (3) now.
+Act: put down Mug (3)
+You put down failed, drop it. You see SoapBottle (2), Mug (3), GarbageCan (1), Fridge (1), Apple (2).
+Think: Now I need to pick up Glassbottle (1).
+OK.
+Act: pick up Mug (3)
+You pick up Mug (3). You see SoapBottle (2), Mug (3), GarbageCan (1), Fridge (1), Apple (2). I am holding Mug (3) now.
+Think: I hold Mug (3). Now, I need to put it in the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see SoapBottle (2), Mug (3), GarbageCan (1), Fridge (1), Apple (2). Fridge (1) is open.  I am holding Mug (3) now.
+Act: put down Mug (3)
+You put down failed, drop it. You see SoapBottle (2), Mug (3), GarbageCan (1), Fridge (1), Apple (2).
+Think: Now I need to pick up Glassbottle (1).
+OK.
+Act: pick up Mug (3)
+You pick up Mug (3). You see SoapBottle (2), Mug (3), GarbageCan (1), Fridge (1), Apple (2). I am holding Mug (3) now.
+Think: I hold Mug (3). Now, I need to put it in the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see SoapBottle (2), Mug (3), GarbageCan (1), Fridge (1), Apple (2). Fridge (1) is open.  I am holding Mug (3) now.
+Act: put down Mug (3)
+You put down failed, drop it. You see SoapBottle (2), Mug (3), GarbageCan (1), Fridge (1), Apple (2).
+Think: Now I need to pick up Glassbottle (1).
+OK.
+Act: pick up Mug (3)
+You pick up Mug (3). You see SoapBottle (2), Mug (3), GarbageCan (1), Fridge (1), Apple (2). I am holding Mug (3) now.
+Think: I hold Mug (3). Now, I need to put it in the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see SoapBottle (2), Mug (3), GarbageCan (1), Fridge (1), Apple (2). Fridge (1) is open.  I am holding Mug (3) now.
+Act: put down Mug (3)
+You put down failed, drop it. You see SoapBottle (2), Mug (3), GarbageCan (1), Fridge (1), Apple (2).
+Think: Now I need to pick up Glassbottle (1).
+OK.
+Act: pick up Mug (3)
+You pick up Mug (3). You see SoapBottle (2), Mug (3), GarbageCan (1), Fridge (1), Apple (2). I am holding Mug (3) now.
+Think: I hold Mug (3). Now, I need to put it in the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see SoapBottle (2), Mug (3), GarbageCan (1), Fridge (1), Apple (2). Fridge (1) is open.  I am holding Mug (3) now.

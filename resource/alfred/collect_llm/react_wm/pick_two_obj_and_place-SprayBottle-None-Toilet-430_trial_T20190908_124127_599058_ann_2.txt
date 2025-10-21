@@ -1,0 +1,27 @@
+Your task is to: Put two spray bottles on the back of the toiklet. 
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1), Shelf (1), HandTowelHolder (1), GarbageCan (1), Drawer (1, 2, 3, 4), CounterTop (1), Cart (1), BathtubBasin (1).
+Think: To solve the task, I need to find and pick up the spray bottles, then put them on the back of the toilet.
+OK.
+Think: First, I need to recall location of the spray bottles.
+OK.
+Act: recall location of SprayBottle
+You have not seen SprayBottle before.
+Think: Now I need to find the spray bottles. The spray bottles are more likely to appear on CounterTop (1), BathtubBasin (1), SinkBasin (1), Shelf (1), or in Drawer (1-4). I can check each place one by one, starting from CounterTop (1), until I find the spray bottles.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see SprayBottle (2, 3), Mirror (1), Footstool (1), Drawer (1, 2, 3, 4), DishSponge (1), CounterTop (1), Cloth (3). 
+Think: I find SprayBottle (2, 3). Now, I need to pick them up.
+OK.
+Act: pick up SprayBottle (2)
+You pick up SprayBottle (2). You see SprayBottle (2, 3), Mirror (1), Footstool (1), Drawer (1, 2, 3, 4), DishSponge (1), CounterTop (1), Cloth (3). I am holding SprayBottle (2) now.
+Act: pick up SprayBottle (3)
+You are currently holding SprayBottle (2). I am holding SprayBottle (2) now.
+Think: I hold SprayBottle (2, 3). Now, I need to put them on the back of the toilet.
+OK.
+Act: go to Toilet (1)
+You arrive at Toilet (1). You see Toilet (1), SprayBottle (2), SoapBottle (3), ShowerDoor (1), ScrubBrush (1), Plunger (1), Candle (3). Toilet (1) is closed.  I am holding SprayBottle (2) now.
+Act: put down SprayBottle (2)
+You put SprayBottle (2) on Toilet (1). You see Toilet (1), SprayBottle (2), SoapBottle (3), ShowerDoor (1), ScrubBrush (1), Plunger (1), Candle (3).
+Think: Now I accomplish the goal.
+OK.
+Act: done

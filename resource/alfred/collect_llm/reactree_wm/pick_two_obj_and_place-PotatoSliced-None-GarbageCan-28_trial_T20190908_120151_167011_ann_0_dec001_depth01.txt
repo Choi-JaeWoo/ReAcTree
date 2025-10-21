@@ -1,0 +1,7 @@
+Your task is to: Put potatoes in the basket, slice one of them
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11).
+Think: Since I’m not holding a potato, I need to accomplish 3 subgoals sequentially to solve the task. Find and pick up potato, place potato in basket, and slice and pick up potato.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up potato, place potato in basket, slice and pick up potato

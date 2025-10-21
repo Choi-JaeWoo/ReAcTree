@@ -1,0 +1,13 @@
+Your primary goal is to: put 2 books on top of the bed
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up book, place book on bed, Find and pick up book away from bed, and place book on bed.
+Your task is to: place book on bed
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5), Desk (1), Bed (1). I am holding Book (1) now.
+Think: I hold Book (1). Now, I need to put it on the bed. I can see Bed (1).
+OK.
+Act: go to Bed (1)
+You arrive at Bed (1). You see Pillow (1), Laptop (1, 2), CellPhone (1), Book (1), Bed (1).  I am holding Book (1) now.
+Act: put down Book (1)
+You put Book (1) on Bed (1). You see Pillow (1), Laptop (1, 2), CellPhone (1), Book (1), Bed (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

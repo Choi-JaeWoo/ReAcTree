@@ -1,0 +1,37 @@
+Your primary goal is to: place two newspapers on top of the black sofa
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up newspaper, place newspaper on sofa, Find and pick up newspaper away from sofa, and place newspaper on sofa.
+Your task is to: Find and pick up newspaper away from sofa
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1, 2), GarbageCan (1), Drawer (1, 2), DiningTable (1, 2), CoffeeTable (1), ArmChair (1, 2).
+Think: First, I need to recall location of the newspaper.
+OK.
+Act: recall location of Newspaper
+You saw Newspaper (2) near Sofa (1).
+Think: Newspaper (2) is on Sofa (2). Now, I need to find another newspaper. The newspaper is more likely to appear on TVStand (1), SideTable (1-2), CoffeeTable (1), ArmChair (1-2), or in Drawer (1-2). I can check each place one by one, starting from TVStand (1), until I find the newspaper.
+OK.
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), Pen (2), Laptop (2), Box (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see TissueBox (1), SideTable (1), Pencil (1, 2), Laptop (3), Drawer (1), DiningTable (2). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), Lamp (1), KeyChain (1), Drawer (2), Curtains (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see TissueBox (2), Sofa (1), Plate (1), Pen (1), KeyChain (2), CreditCard (1), CoffeeTable (1), Book (1, 2). 
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Box (1), ArmChair (1). 
+Act: go to ArmChair (2)
+You arrive at ArmChair (2). You see Curtains (1), ArmChair (2). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see TissueBox (1), SideTable (1), Pencil (1, 2), Painting (1), Laptop (3), Drawer (1), DiningTable (2). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see TissueBox (1), SideTable (1), Pencil (1, 2), Painting (1), Laptop (3), Drawer (1), DiningTable (2).
+Act: close Drawer (1)
+You close Drawer (1). You see TissueBox (1), SideTable (1), Pencil (1, 2), Painting (1), Laptop (3), Drawer (1), DiningTable (2).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (2), Lamp (1), KeyChain (1), Drawer (2), Curtains (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see SideTable (2), Lamp (1), KeyChain (1), Drawer (2), Curtains (1).
+Act: close Drawer (2)
+You close Drawer (2). You see SideTable (2), Lamp (1), KeyChain (1), Drawer (2), Curtains (1).
+Think: I cannot find Newspaper. I fail to accomplish the goal.
+OK.
+Act: failure

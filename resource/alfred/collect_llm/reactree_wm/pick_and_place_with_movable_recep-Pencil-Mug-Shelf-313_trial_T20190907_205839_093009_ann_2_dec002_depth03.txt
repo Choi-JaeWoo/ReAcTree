@@ -1,0 +1,21 @@
+Your primary goal is to: Put a coffee cup with a pencil in it next to the tissues on the cabinet.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up coffee cup, find and pick up pencil, and place coffee cup on cabinet.
+Your task is to: find and pick up coffee cup
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), Bed (1).
+Think: First, I need to recall location of the coffee cup.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now, I need to find the coffee cup. The coffee cup is more likely to appear on SideTable (1), Desk (1), or in Drawer (1-6). I can check each place one by one, starting from SideTable (1), until I find the coffee cup.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see TissueBox (3), SideTable (1), Shelf (2), KeyChain (3), Chair (1), AlarmClock (1). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see TissueBox (1, 2), Pencil (1), Mug (1), Laptop (1), Lamp (1), KeyChain (2), Drawer (1, 2, 3, 4, 5, 6), Desk (1), Chair (1), CellPhone (1), CD (1). 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: pick up Mug (1)
+You pick up Mug (1). You see TissueBox (1, 2), Pencil (1), Mug (1), Laptop (1), Lamp (1), KeyChain (2), Drawer (2, 3, 5, 6), Desk (1), Chair (1), CellPhone (1), CD (1). I am holding Mug (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

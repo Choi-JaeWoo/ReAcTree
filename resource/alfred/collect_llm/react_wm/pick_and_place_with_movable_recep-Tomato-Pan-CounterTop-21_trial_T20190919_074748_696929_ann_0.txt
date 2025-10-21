@@ -1,0 +1,122 @@
+Your task is to: move the pan to the counter, put the tomato in
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1, 2, 3), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: To solve the task, I need to find and pick up the pan, then put it on the counter. And I need to find and pick up the tomato, then put it in the pan on the counter.
+OK.
+Think: First, I need to recall location of the pan.
+OK.
+Act: recall location of Pan
+You have not seen Pan before.
+Think: Now I need to find the pan. The pan is more likely to appear on DiningTable (1-3), CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1). I can check each place one by one, starting from DiningTable (1), until I find the pan.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spoon (1), Spatula (2, 3), Plate (1), Fork (1), Egg (3), DiningTable (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Toaster (1), Lettuce (1), Knife (1), Bread (1), Bowl (2). 
+Act: go to DiningTable (3)
+You arrive at DiningTable (3). You see Microwave (1), DiningTable (3). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Tomato (1, 2), Sink (1), SinkBasin (1), SideTable (1), Mug (1), Fork (2), Faucet (1), Drawer (1), CounterTop (1), Cabinet (2, 4), ButterKnife (2), Bread (2). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (1), Sink (1), SinkBasin (1), Mug (1), Lettuce (2), Fork (2), Faucet (1), Drawer (1), CounterTop (1), CoffeeMachine (1), Cabinet (2, 4), ButterKnife (2). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1). Fridge (1) is closed. 
+Act: open Fridge (1)
+You open Fridge (1). You see Fridge (1), Bowl (1).
+Act: close Fridge (1)
+You close Fridge (1). You see Fridge (1).
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1), GarbageCan (1), DiningTable (3). Microwave (1) is closed. 
+Act: open Microwave (1)
+You open Microwave (1). You see Potato (1), Microwave (1), GarbageCan (1), DiningTable (3).
+Act: close Microwave (1)
+You close Microwave (1). You see Microwave (1), GarbageCan (1), DiningTable (3).
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see Cabinet (1).
+Act: close Cabinet (1)
+You close Cabinet (1). You see Cabinet (1).
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Tomato (1), Sink (1), SinkBasin (1), Mug (1), Lettuce (2), Fork (2), Faucet (1), Drawer (1), CounterTop (1), Cabinet (2, 4), ButterKnife (2). Cabinet (2) is closed. 
+Act: open Cabinet (2)
+You open Cabinet (2). You see SideTable (1), Mug (1), Lettuce (2), Fork (2), Drawer (1), CounterTop (1), Cabinet (2, 4).
+Act: close Cabinet (2)
+You close Cabinet (2). You see SideTable (1), Mug (1), Lettuce (2), Fork (2), Drawer (1), CounterTop (1), Cabinet (2, 4).
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see Mirror (1), Cabinet (3). Cabinet (3) is closed. 
+Act: open Cabinet (3)
+You open Cabinet (3). You see SaltShaker (3), Mirror (1), Cabinet (1, 3).
+Act: close Cabinet (3)
+You close Cabinet (3). You see Mirror (1), Cabinet (1, 3).
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see Tomato (1, 2), Sink (1), SideTable (1), Fork (2, 3), Drawer (1), CounterTop (1), Cabinet (2, 4), ButterKnife (2), Bread (2). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+You open Cabinet (4). You see Tomato (2), SoapBottle (1), SideTable (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (2, 4), Bread (2).
+Act: close Cabinet (4)
+You close Cabinet (4). You see Tomato (2), SideTable (1), Drawer (1), CounterTop (1), Cabinet (2, 4), Bread (2).
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Tomato (1, 2), Sink (1), SinkBasin (1), SideTable (1), Mug (1), Fork (2, 3), Drawer (1), CounterTop (1), Cabinet (2, 4), ButterKnife (2), Bread (2). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Tomato (1, 2), Sink (1), SinkBasin (1), SideTable (1), Mug (1), Fork (2, 3), Faucet (1), Drawer (1), CounterTop (1), Cabinet (2), ButterKnife (2), Bread (2).
+Think: I find Pan (1). Now, I need to pick it up.
+OK.
+Act: pick up Tomato (1)
+You pick up Tomato (1). You see Tomato (1, 2), Sink (1), SinkBasin (1), SideTable (1), Mug (1), Fork (2, 3), Faucet (1), Drawer (1), CounterTop (1), Cabinet (2), ButterKnife (2), Bread (2). I am holding Tomato (1) now.
+Think: I hold Tomato (1). Now, I need to put it on the countertop.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Tomato (1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2), Sink (1, 1, 1, 1, 1, 1, 1), SinkBasin (1, 1, 1, 1, 1, 1, 1), SideTable (1, 1, 1, 1, 1, 1, 1), Mug (1, 1, 1, 1, 1, 1, 1), Fork (2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3), Faucet (1, 1, 1, 1, 1, 1, 1), Drawer (1, 1, 1, 1, 1, 1, 1), CounterTop (1, 1, 1, 1, 1, 1, 1), Cabinet (2, 2, 2, 2, 2, 2, 3), ButterKnife (2, 2, 2, 2, 2, 2, 2), Bread (2, 2, 2, 2, 2, 2, 2).  I am holding Tomato (1) now.
+Act: put down Tomato (1)
+You put Tomato (1) on CounterTop (1). You see Tomato (1, 2), Sink (1), SinkBasin (1), SideTable (1), Mug (1), Fork (2, 3), Faucet (1), Drawer (1), CounterTop (1), Cabinet (2, 3, 4), ButterKnife (2), Bread (2).
+Think: I put Tomato (1) on the CounterTop (1). Now, I need to recall location of the tomato.
+OK.
+Act: recall location of Tomato
+You saw Tomato (1) near CounterTop (1). You saw Tomato (2) near CounterTop (1).
+Think: Tomato (1) is on the CounterTop (1). Now, I need to put Tomato (1) in the pan.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Tomato (1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2), Sink (1, 1, 1, 1, 1, 1, 1), SinkBasin (1, 1, 1, 1, 1, 1, 1), SideTable (1, 1, 1, 1, 1, 1, 1), Mug (1, 1, 1, 1, 1, 1, 1), Fork (2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3), Faucet (1, 1, 1, 1, 1, 1, 1), Drawer (1, 1, 1, 1, 1, 1, 1), CounterTop (1, 1, 1, 1, 1, 1, 1), Cabinet (2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4), ButterKnife (2, 2, 2, 2, 2, 2, 2), Bread (2, 2, 2, 2, 2, 2, 2). 
+Act: go to Tomato (1)
+You see Tomato (1, 1, 1, 1, 2, 2, 2, 2), Sink (1, 1, 1, 1), SinkBasin (1, 1, 1, 1), SideTable (1, 1, 1, 1), Mug (1, 1, 1, 1), Lettuce (2), Fork (2, 2, 2, 2, 3, 3, 3, 3), Faucet (1, 1, 1, 1), Drawer (1, 1, 1, 1), CounterTop (1, 1, 1, 1), Cabinet (2, 2, 2, 2, 3, 3, 3, 4, 4, 4, 4), ButterKnife (2, 2, 2, 2), Bread (2, 2, 2, 2). 
+Act: pick up Tomato (1)
+You pick up Tomato (1). You see Tomato (1, 2), Sink (1), SinkBasin (1), SideTable (1), Mug (1), Lettuce (2), Fork (2, 3), Faucet (1), Drawer (1), CounterTop (1), ButterKnife (2), Bread (2). I am holding Tomato (1) now.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Tomato (1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2), Sink (1, 1, 1, 1, 1, 1, 1), SinkBasin (1, 1, 1, 1, 1, 1, 1), SideTable (1, 1, 1, 1, 1, 1, 1), Mug (1, 1, 1, 1, 1, 1, 1), Lettuce (2, 2, 2, 2, 2, 2), Fork (2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3), Faucet (1, 1, 1, 1, 1, 1, 1), Drawer (1, 1, 1, 1, 1, 1, 1), CounterTop (1, 1, 1, 1, 1, 1, 1), Cabinet (3), ButterKnife (2, 2, 2, 2, 2, 2, 2), Bread (2, 2, 2, 2, 2, 2, 2).  I am holding Tomato (1) now.
+Act: go to Tomato (1)
+You already arrive at Tomato (1). You see Tomato (1, 1, 1, 2, 2, 2), Sink (1, 1, 1), SinkBasin (1, 1, 1), SideTable (1, 1, 1), Mug (1, 1, 1), Lettuce (2), Fork (2, 2, 2, 3, 3, 3), Faucet (1, 1, 1), Drawer (1, 1, 1), CounterTop (1, 1, 1), Cabinet (2, 3, 3, 4), ButterKnife (2, 2, 2), Bread (2, 2, 2).  I am holding Tomato (1) now.
+Act: put down Tomato (1)
+You put down failed, drop it. You see Tomato (1, 2), Sink (1), SinkBasin (1), SideTable (1), Mug (1), Lettuce (2), Fork (2, 3), Faucet (1), Drawer (1), CounterTop (1), Cabinet (2), ButterKnife (2), Bread (2).
+Think: Now I need to pick up Tomato (1).
+OK.
+Act: pick up Tomato (1)
+You pick up Tomato (1). You see Tomato (1, 2), Sink (1), SinkBasin (1), SideTable (1), Mug (1), Lettuce (2), Fork (2, 3), Faucet (1), Drawer (1), CounterTop (1), Cabinet (2, 4), ButterKnife (2), Bread (2). I am holding Tomato (1) now.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Tomato (1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2), Sink (1, 1, 1, 1, 1, 1, 1), SinkBasin (1, 1, 1, 1, 1, 1, 1), SideTable (1, 1, 1, 1, 1, 1, 1), Mug (1, 1, 1, 1, 1, 1, 1), Lettuce (2, 2, 2, 2, 2, 2), Fork (2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3), Faucet (1, 1, 1, 1, 1, 1, 1), Drawer (1, 1, 1, 1, 1, 1, 1), CounterTop (1, 1, 1, 1, 1, 1, 1), Cabinet (2, 2, 2, 2, 2, 2, 3, 4, 4, 4, 4, 4, 4), ButterKnife (2, 2, 2, 2, 2, 2, 2), Bread (2, 2, 2, 2, 2, 2, 2).  I am holding Tomato (1) now.
+Act: go to Tomato (1)
+You already arrive at Tomato (1). You see Tomato (1, 1, 1, 2, 2, 2), Sink (1, 1, 1), SinkBasin (1, 1, 1), SideTable (1, 1, 1), Mug (1, 1, 1), Lettuce (2), Fork (2, 2, 2, 3, 3, 3), Faucet (1, 1, 1), Drawer (1, 1, 1), CounterTop (1, 1, 1), Cabinet (2, 3, 3, 4), ButterKnife (2, 2, 2), Bread (2, 2, 2).  I am holding Tomato (1) now.
+Act: put down Tomato (1)
+You put down failed, drop it. You see Tomato (1, 2), Sink (1), SinkBasin (1), SideTable (1), Mug (1), Lettuce (2), Fork (2, 3), Faucet (1), Drawer (1), CounterTop (1), Cabinet (2), ButterKnife (2), Bread (2).
+Think: Now I need to pick up Tomato (1).
+OK.
+Act: pick up Tomato (1)
+You pick up Tomato (1). You see Tomato (1, 2), Sink (1), SinkBasin (1), SideTable (1), Mug (1), Lettuce (2), Fork (2, 3), Faucet (1), Drawer (1), CounterTop (1), Cabinet (2, 4), ButterKnife (2), Bread (2). I am holding Tomato (1) now.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Tomato (1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2), Sink (1, 1, 1, 1, 1, 1, 1), SinkBasin (1, 1, 1, 1, 1, 1, 1), SideTable (1, 1, 1, 1, 1, 1, 1), Mug (1, 1, 1, 1, 1, 1, 1), Lettuce (2, 2, 2, 2, 2, 2), Fork (2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3), Faucet (1, 1, 1, 1, 1, 1, 1), Drawer (1, 1, 1, 1, 1, 1, 1), CounterTop (1, 1, 1, 1, 1, 1, 1), Cabinet (2, 2, 2, 2, 2, 2, 3, 4, 4, 4, 4, 4, 4), ButterKnife (2, 2, 2, 2, 2, 2, 2), Bread (2, 2, 2, 2, 2, 2, 2).  I am holding Tomato (1) now.
+Act: go to Tomato (1)
+You already arrive at Tomato (1). You see Tomato (1, 1, 1, 2, 2, 2), Sink (1, 1, 1), SinkBasin (1, 1, 1), SideTable (1, 1, 1), Mug (1, 1, 1), Lettuce (2), Fork (2, 2, 2, 3, 3, 3), Faucet (1, 1, 1), Drawer (1, 1, 1), CounterTop (1, 1, 1), Cabinet (2, 3, 3, 4), ButterKnife (2, 2, 2), Bread (2, 2, 2).  I am holding Tomato (1) now.
+Act: put down Tomato (1)
+You put down failed, drop it. You see Tomato (1, 2), Sink (1), SinkBasin (1), SideTable (1), Mug (1), Lettuce (2), Fork (2, 3), Faucet (1), Drawer (1), CounterTop (1), Cabinet (2), ButterKnife (2), Bread (2).
+Think: Now I need to pick up Tomato (1).
+OK.
+Act: pick up Tomato (1)
+You pick up Tomato (1). You see Tomato (1, 2), Sink (1), SinkBasin (1), SideTable (1), Mug (1), Lettuce (2), Fork (2, 3), Faucet (1), Drawer (1), CounterTop (1), Cabinet (2, 4), ButterKnife (2), Bread (2). I am holding Tomato (1) now.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Tomato (1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2), Sink (1, 1, 1, 1, 1, 1, 1), SinkBasin (1, 1, 1, 1, 1, 1, 1), SideTable (1, 1, 1, 1, 1, 1, 1), Mug (1, 1, 1, 1, 1, 1, 1), Lettuce (2, 2, 2, 2, 2, 2), Fork (2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3), Faucet (1, 1, 1, 1, 1, 1, 1), Drawer (1, 1, 1, 1, 1, 1, 1), CounterTop (1, 1, 1, 1, 1, 1, 1), Cabinet (2, 2, 2, 2, 2, 2, 3, 4, 4, 4, 4, 4, 4), ButterKnife (2, 2, 2, 2, 2, 2, 2), Bread (2, 2, 2, 2, 2, 2, 2).  I am holding Tomato (1) now.
+Act: go to Tomato (1)
+You already arrive at Tomato (1). You see Tomato (1, 1, 1, 2, 2, 2), Sink (1, 1, 1), SinkBasin (1, 1, 1), SideTable (1, 1, 1), Mug (1, 1, 1), Lettuce (2), Fork (2, 2, 2, 3, 3, 3), Faucet (1, 1, 1), Drawer (1, 1, 1), CounterTop (1, 1, 1), Cabinet (2, 3, 3, 4), ButterKnife (2, 2, 2), Bread (2, 2, 2).  I am holding Tomato (1) now.
+Act: put down Tomato (1)
+You put down failed, drop it. You see Tomato (1, 2), Sink (1), SinkBasin (1), SideTable (1), Mug (1), Lettuce (2), Fork (2, 3), Faucet (1), Drawer (1), CounterTop (1), Cabinet (2), ButterKnife (2), Bread (2).
+Think: Now I need to pick up Tomato (1).
+OK.
+Act: pick up Tomato (1)
+You pick up Tomato (1). You see Tomato (1, 2), Sink (1), SinkBasin (1), SideTable (1), Mug (1), Lettuce (2), Fork (2, 3), Faucet (1), Drawer (1), CounterTop (1), Cabinet (2, 4), ButterKnife (2), Bread (2). I am holding Tomato (1) now.

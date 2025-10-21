@@ -1,0 +1,17 @@
+Your primary goal is to: Put a pan containing a sponge on the table. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pan, place pan on table, find and pick up sponge, and place sponge on pan near table.
+Your task is to: find and pick up sponge
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1, 2, 3), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: First, I need to recall location of the sponge.
+OK.
+Act: recall location of DishSponge
+You saw DishSponge (3) near DiningTable (1).
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Plate (1), Knife (2), DishSponge (3), DiningTable (1), ButterKnife (1). 
+Think: I find DishSponge (3). Now, I need to pick it up.
+OK.
+Act: pick up DishSponge (3)
+You pick up DishSponge (3). You see Plate (1), Knife (2), DishSponge (3), DiningTable (1), ButterKnife (1). I am holding DishSponge (3) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

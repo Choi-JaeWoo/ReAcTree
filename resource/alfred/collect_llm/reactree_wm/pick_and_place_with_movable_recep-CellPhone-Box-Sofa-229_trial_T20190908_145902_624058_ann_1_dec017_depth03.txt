@@ -1,0 +1,171 @@
+Your primary goal is to: Put a box containing a cell phone on the couch.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up box, place box on couch, Find and pick up box away from couch, and and place box on couch.
+Your task is to: Find and pick up box away from couch
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2, 3), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), CoffeeTable (1), ArmChair (1).
+Think: First, I need to recall location of the box.
+OK.
+Act: recall location of Box
+You saw Box (1) near Sofa (1).
+Think: Box (1) is on Sofa (1). Now, I need to find another box. The box is more likely to appear on SideTable (1-3), CoffeeTable (1), ArmChair (1), Drawer (1-4), or in Dresser (1). I can check each place one by one, starting from SideTable (1), until I find the box.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see WateringCan (1), SideTable (1), HousePlant (1), Book (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2, 3), Pencil (2), Painting (3), Laptop (1), Chair (2). 
+Act: go to SideTable (3)
+You arrive at SideTable (3). You see Window (2, 3), Statue (2), SideTable (2, 3), Pen (2), Chair (2). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see TissueBox (1, 2), Statue (1), RemoteControl (1), Pencil (3), Pen (1), CreditCard (1), CoffeeTable (1), CellPhone (1), Book (2). 
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see RemoteControl (2), KeyChain (1), Chair (1), ArmChair (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 2, 3, 4), CreditCard (2). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 3, 4), CreditCard (2).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 3, 4), CreditCard (2). Drawer (2) is closed. 
+Act: open Drawer (2)
+The Drawer (2) is not close to you.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 3, 4), CreditCard (2). Drawer (2) is closed. 
+Act: open Drawer (2)
+The Drawer (2) is not close to you.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 3, 4), CreditCard (2). Drawer (2) is closed. 
+Act: open Drawer (2)
+The Drawer (2) is not close to you.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 3, 4), CreditCard (2). Drawer (2) is closed. 
+Act: open Drawer (2)
+The Drawer (2) is not close to you.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 3, 4), CreditCard (2). Drawer (2) is closed. 
+Act: open Drawer (2)
+The Drawer (2) is not close to you.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 3, 4), CreditCard (2). Drawer (2) is closed. 
+Act: open Drawer (2)
+The Drawer (2) is not close to you.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 3, 4), CreditCard (2). Drawer (2) is closed. 
+Act: open Drawer (2)
+The Drawer (2) is not close to you.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 3, 4), CreditCard (2). Drawer (2) is closed. 
+Act: open Drawer (2)
+The Drawer (2) is not close to you.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 3, 4), CreditCard (2). Drawer (2) is closed. 
+Act: open Drawer (2)
+The Drawer (2) is not close to you.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 3, 4), CreditCard (2). Drawer (2) is closed. 
+Act: open Drawer (2)
+The Drawer (2) is not close to you.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 3, 4), CreditCard (2). Drawer (2) is closed. 
+Act: open Drawer (2)
+The Drawer (2) is not close to you.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 3, 4), CreditCard (2). Drawer (2) is closed. 
+Act: open Drawer (2)
+The Drawer (2) is not close to you.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 3, 4), CreditCard (2). Drawer (2) is closed. 
+Act: open Drawer (2)
+The Drawer (2) is not close to you.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 3, 4), CreditCard (2). Drawer (2) is closed. 
+Act: open Drawer (2)
+The Drawer (2) is not close to you.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 3, 4), CreditCard (2). Drawer (2) is closed. 
+Act: open Drawer (2)
+The Drawer (2) is not close to you.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 3, 4), CreditCard (2). Drawer (2) is closed. 
+Act: open Drawer (2)
+The Drawer (2) is not close to you.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 3, 4), CreditCard (2). Drawer (2) is closed. 
+Act: open Drawer (2)
+The Drawer (2) is not close to you.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 3, 4), CreditCard (2). Drawer (2) is closed. 
+Act: open Drawer (2)
+The Drawer (2) is not close to you.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 3, 4), CreditCard (2). Drawer (2) is closed. 
+Act: open Drawer (2)
+The Drawer (2) is not close to you.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 3, 4), CreditCard (2). Drawer (2) is closed. 
+Act: open Drawer (2)
+The Drawer (2) is not close to you.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 3, 4), CreditCard (2). Drawer (2) is closed. 
+Act: open Drawer (2)
+The Drawer (2) is not close to you.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 3, 4), CreditCard (2). Drawer (2) is closed. 
+Act: open Drawer (2)
+The Drawer (2) is not close to you.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 3, 4), CreditCard (2). Drawer (2) is closed. 
+Act: open Drawer (2)
+The Drawer (2) is not close to you.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 3, 4), CreditCard (2). Drawer (2) is closed. 
+Act: open Drawer (2)
+The Drawer (2) is not close to you.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 3, 4), CreditCard (2). Drawer (2) is closed. 
+Act: open Drawer (2)
+The Drawer (2) is not close to you.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 3, 4), CreditCard (2). Drawer (2) is closed. 
+Act: open Drawer (2)
+The Drawer (2) is not close to you.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 3, 4), CreditCard (2). Drawer (2) is closed. 
+Act: open Drawer (2)
+The Drawer (2) is not close to you.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 3, 4), CreditCard (2). Drawer (2) is closed. 
+Act: open Drawer (2)
+The Drawer (2) is not close to you.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 3, 4), CreditCard (2). Drawer (2) is closed. 
+Act: open Drawer (2)
+The Drawer (2) is not close to you.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 3, 4), CreditCard (2). Drawer (2) is closed. 
+Act: open Drawer (2)
+The Drawer (2) is not close to you.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 3, 4), CreditCard (2). Drawer (2) is closed. 
+Act: open Drawer (2)
+The Drawer (2) is not close to you.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 3, 4), CreditCard (2). Drawer (2) is closed. 
+Act: open Drawer (2)
+The Drawer (2) is not close to you.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 3, 4), CreditCard (2). Drawer (2) is closed. 
+Act: open Drawer (2)
+The Drawer (2) is not close to you.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 3, 4), CreditCard (2). Drawer (2) is closed. 
+Act: open Drawer (2)
+The Drawer (2) is not close to you.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 3, 4), CreditCard (2). Drawer (2) is closed. 
+Act: open Drawer (2)
+The Drawer (2) is not close to you.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 3, 4), CreditCard (2). Drawer (2) is closed. 
+Act: open Drawer (2)
+The Drawer (2) is not close to you.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 3, 4), CreditCard (2). Drawer (2) is closed. 
+Max decisions

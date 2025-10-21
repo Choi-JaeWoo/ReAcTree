@@ -1,0 +1,7 @@
+Your task is to: use the remote to turn on the standing light
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1, 2), SideTable (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1, 2), CoffeeTable (1), ArmChair (1).
+Think: Since I’m not holding the remote, I need to accomplish 2 subgoals sequentially to solve the task. Find and pick up remote and use remote to turn on standing light.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up remote, use remote to turn on standing light

@@ -1,0 +1,13 @@
+Your primary goal is to: Place a cold glass pot on the table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up glass pot, cool and pick up glass pot, and place glass pot on table.
+Your task is to: place glass pot on table
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2). I am holding Knife (1) now.
+Think: I hold Knife (1). Now, I need to put it on the table. I can see DiningTable (1).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see SoapBottle (2), SaltShaker (2), Potato (1), Pot (1), Ladle (1), Knife (1), DishSponge (3), DiningTable (1), ButterKnife (3).  I am holding Knife (1) now.
+Act: put down Knife (1)
+You put Knife (1) on DiningTable (1). You see SoapBottle (2), SaltShaker (2), Potato (1), Pot (1), Ladle (1), Knife (1), DishSponge (3), DiningTable (1), ButterKnife (3).
+Think: Now I accomplish the goal.
+OK.
+Act: done

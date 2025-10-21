@@ -1,0 +1,13 @@
+Your primary goal is to: Put a plate with car keys on it on a coffee table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up plate, place plate on coffee table, and place car keys on plate near coffee table.
+Your task is to: place plate on coffee table
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1), GarbageCan (1), Drawer (1), DiningTable (1), CoffeeTable (1, 2), ArmChair (1). I am holding CreditCard (3) now.
+Think: I hold CreditCard (3). Now, I need to put it on the coffee table. I can see CoffeeTable (1).
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see CreditCard (3), CoffeeTable (1).  I am holding CreditCard (3) now.
+Act: put down CreditCard (3)
+You put CreditCard (3) on CoffeeTable (1). You see CreditCard (3), CoffeeTable (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

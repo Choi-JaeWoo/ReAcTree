@@ -1,0 +1,118 @@
+Your task is to: Put two bottles into the cabinet below the sink.
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1), HandTowelHolder (1), GarbageCan (1), Drawer (1), CounterTop (1, 2), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9), BathtubBasin (1).
+Think: To solve the task, I need to find and pick up two bottles, then put them in the cabinet below the sink.
+OK.
+Think: First, I need to recall location of the bottle.
+OK.
+Act: recall location of SoapBottle
+You have not seen SoapBottle before.
+Think: Now I need to find the bottle. The bottle is more likely to appear on CounterTop (1-2), SinkBasin (1), or in Cabinet (1-9), Drawer (1). I can check each place one by one, starting from CounterTop (1), until I find the bottle.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toilet (1), SprayBottle (1), SoapBottle (2), SoapBar (1), Sink (1), SinkBasin (1), PaperTowelRoll (1), Mirror (1), CounterTop (1, 2), Candle (1). 
+Think: I find SoapBottle (2). Now, I need to pick it up.
+OK.
+Act: pick up SoapBottle (2)
+You pick up SoapBottle (2). You see Toilet (1), SprayBottle (1), SoapBottle (2), SoapBar (1), Sink (1), SinkBasin (1), PaperTowelRoll (1), Mirror (1), CounterTop (1, 2), Candle (1). I am holding SoapBottle (2) now.
+Think: I hold SoapBottle (2). Now, I need to recall location of the bottle.
+OK.
+Act: recall location of SoapBottle
+You saw SoapBottle (2) near hand.
+Think: I hold SoapBottle (2). Now, I need to find another bottle.
+OK.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see SprayBottle (1), SoapBottle (2), Sink (1), SinkBasin (1), PaperTowelRoll (1), Mirror (1), Faucet (1), DishSponge (1), CounterTop (2), Cabinet (4, 8, 9).  I am holding SoapBottle (2) now.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see SprayBottle (1), SoapBottle (2), Sink (1), SinkBasin (1), PaperTowelRoll (1), Mirror (1), Faucet (1), DishSponge (1), CounterTop (2), Cabinet (4, 8, 9).  I am holding SoapBottle (2) now.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see SoapBottle (2), Sink (1), SinkBasin (1), Mirror (1), Faucet (1), Drawer (1), DishSponge (1), Cabinet (1, 2, 4, 7, 9). Cabinet (1) is closed.  I am holding SoapBottle (2) now.
+Act: open Cabinet (1)
+You open Cabinet (1). You see SoapBottle (2), Sink (1), SinkBasin (1), Mirror (1), Faucet (1), Drawer (1), DishSponge (1), Cabinet (1, 2, 4, 5, 7, 8, 9). I am holding SoapBottle (2) now.
+Act: close Cabinet (1)
+You close Cabinet (1). You see SoapBottle (2), Sink (1), SinkBasin (1), Mirror (1), HandTowel (1), Faucet (1), Drawer (1), DishSponge (1), Cabinet (1, 2, 4, 5, 7, 8, 9). I am holding SoapBottle (2) now.
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see SoapBottle (2), Cabinet (1, 2, 5). Cabinet (2) is closed.  I am holding SoapBottle (2) now.
+Act: open Cabinet (2)
+You open Cabinet (2). You see ToiletPaper (3), SoapBottle (2), Cabinet (1, 2, 5). I am holding SoapBottle (2) now.
+Act: close Cabinet (2)
+You close Cabinet (2). You see SoapBottle (2), Cabinet (1, 2, 5). I am holding SoapBottle (2) now.
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see SoapBottle (2), Cabinet (2, 3, 6). Cabinet (3) is closed.  I am holding SoapBottle (2) now.
+Act: open Cabinet (3)
+You open Cabinet (3). You see SoapBottle (2), Cabinet (2, 3, 6). I am holding SoapBottle (2) now.
+Act: close Cabinet (3)
+You close Cabinet (3). You see SoapBottle (2), Cabinet (2, 3, 6). I am holding SoapBottle (2) now.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see SprayBottle (1), SoapBottle (2), Sink (1), SinkBasin (1), PaperTowelRoll (1), DishSponge (1), CounterTop (2), Candle (1), Cabinet (4, 7, 8, 9). Cabinet (4) is closed.  I am holding SoapBottle (2) now.
+Act: open Cabinet (4)
+You open Cabinet (4). You see SoapBottle (2), Sink (1), PaperTowelRoll (1), CounterTop (2), Candle (1), Cabinet (4, 7, 8, 9). I am holding SoapBottle (2) now.
+Act: close Cabinet (4)
+You close Cabinet (4). You see SoapBottle (2), Sink (1), PaperTowelRoll (1), CounterTop (2), Candle (1), Cabinet (4, 7, 8, 9). I am holding SoapBottle (2) now.
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see SoapBottle (2), Drawer (1), Cabinet (1, 2, 5, 7, 9). Cabinet (5) is closed.  I am holding SoapBottle (2) now.
+Act: open Cabinet (5)
+You open Cabinet (5). You see SoapBottle (2), Drawer (1), Cabinet (1, 2, 5, 7, 9). I am holding SoapBottle (2) now.
+Act: close Cabinet (5)
+You close Cabinet (5). You see SoapBottle (2), Drawer (1), Cabinet (1, 2, 5, 7, 9). I am holding SoapBottle (2) now.
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see SoapBottle (2, 2), Mirror (1), Drawer (1), Cabinet (1, 2, 3, 5, 6, 7, 9). Cabinet (6) is closed.  I am holding SoapBottle (2) now.
+Act: open Cabinet (6)
+You open Cabinet (6). You see SoapBottle (2), Mirror (1), Cabinet (3, 6). I am holding SoapBottle (2) now.
+Act: close Cabinet (6)
+You close Cabinet (6). You see SoapBottle (2), Mirror (1), Cabinet (3, 6). I am holding SoapBottle (2) now.
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see SoapBottle (2), Sink (1), SinkBasin (1), Drawer (1), DishSponge (1), CounterTop (2), Cabinet (1, 2, 4, 5, 7, 8, 9). Cabinet (7) is closed.  I am holding SoapBottle (2) now.
+Act: open Cabinet (7)
+You open Cabinet (7). You see SoapBottle (2), Sink (1), Drawer (1), CounterTop (2), Cabinet (1, 2, 4, 5, 7, 8, 9). I am holding SoapBottle (2) now.
+Act: close Cabinet (7)
+You close Cabinet (7). You see SoapBottle (2), Sink (1), Drawer (1), CounterTop (2), Cabinet (1, 2, 4, 5, 7, 8, 9). I am holding SoapBottle (2) now.
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Toilet (1), SprayBottle (1), SoapBottle (2), Sink (1), SinkBasin (1), PaperTowelRoll (1), CounterTop (1, 2), Candle (1), Cabinet (4, 8, 9). Cabinet (8) is closed.  I am holding SoapBottle (2) now.
+Act: open Cabinet (8)
+You open Cabinet (8). You see Toilet (1), SoapBottle (2), Sink (1), CounterTop (2), Candle (1), Cabinet (4, 8, 9). I am holding SoapBottle (2) now.
+Act: close Cabinet (8)
+You close Cabinet (8). You see Toilet (1), SoapBottle (2), Sink (1), CounterTop (2), Candle (1), Cabinet (4, 8, 9). I am holding SoapBottle (2) now.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see SoapBottle (2), Sink (1), SinkBasin (1), Drawer (1), CounterTop (2), Cabinet (1, 2, 4, 5, 7, 9). Cabinet (9) is closed.  I am holding SoapBottle (2) now.
+Act: open Cabinet (9)
+You open Cabinet (9). You see SoapBottle (2), Sink (1), Drawer (1), CounterTop (2), Candle (3), Cabinet (1, 2, 4, 5, 7, 9). I am holding SoapBottle (2) now.
+Act: close Cabinet (9)
+You close Cabinet (9). You see SoapBottle (2), Sink (1), Drawer (1), CounterTop (2), Cabinet (1, 2, 4, 5, 7, 9). I am holding SoapBottle (2) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SoapBottle (2), Drawer (1), CounterTop (2), Cabinet (1, 2, 5, 7, 9). Drawer (1) is closed.  I am holding SoapBottle (2) now.
+Act: open Drawer (1)
+You open Drawer (1). You see SoapBottle (2), CounterTop (2), Cabinet (1, 2, 5, 7, 9). I am holding SoapBottle (2) now.
+Act: close Drawer (1)
+The Drawer (1) is already closed. I am holding SoapBottle (2) now.
+Think: I find SoapBottle (2). Now, I need to put it in the cabinet below the sink.
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see SoapBottle (2), Sink (1), SinkBasin (1), Mirror (1), Faucet (1), DishSponge (1), Cabinet (1, 2, 4, 7, 9). Cabinet (1) is closed.  I am holding SoapBottle (2) now.
+Act: open Cabinet (1)
+You open Cabinet (1). You see SoapBottle (2), Sink (1), SinkBasin (1), Mirror (1), Faucet (1), DishSponge (1), Cloth (1), Cabinet (1, 2, 4, 5, 7, 8, 9). I am holding SoapBottle (2) now.
+Act: put down SoapBottle (2)
+You put SoapBottle (2) on Cabinet (1). You see SoapBottle (2), Sink (1), SinkBasin (1), Mirror (1), Faucet (1), DishSponge (1), Cloth (1), Cabinet (1, 2, 4, 5, 7, 8, 9).
+Think: I put SoapBottle (2) in the cabinet below the sink. Now, I need to recall location of the bottle.
+OK.
+Act: recall location of SoapBottle
+You saw SoapBottle (2) near Cabinet (1).
+Think: I put SoapBottle (2) in the cabinet below the sink. Now, I need to find another bottle.
+OK.
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Cabinet (1, 2, 5). Cabinet (2) is closed. 
+Act: open Cabinet (2)
+You open Cabinet (2). You see ToiletPaper (3), Cabinet (1, 2, 5).
+Act: close Cabinet (2)
+You close Cabinet (2). You see Cabinet (1, 2, 5).
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see Cabinet (2, 3, 6). Cabinet (3) is closed. 
+Act: open Cabinet (3)
+You open Cabinet (3). You see Cabinet (2, 3, 6).
+Act: close Cabinet (3)
+You close Cabinet (3). You see Cabinet (2, 3, 6).
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see SprayBottle (1), Sink (1), SinkBasin (1), PaperTowelRoll (1), DishSponge (1), CounterTop (2), Candle (1), Cabinet (4, 7, 8, 9). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+You open Cabinet (4). You see Sink (1), PaperTowelRoll (1), CounterTop (2), Candle (1), Cabinet (4, 7, 8, 9).
+Act: close Cabinet (4)
+You close Cabinet (4). You see Sink (1), PaperTowelRoll (1), CounterTop (2), Candle (1), Cabinet (4, 7, 8, 9).

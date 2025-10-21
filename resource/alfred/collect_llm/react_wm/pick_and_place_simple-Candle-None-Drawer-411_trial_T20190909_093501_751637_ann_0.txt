@@ -1,0 +1,31 @@
+Your task is to: Putting a candle in a drawer
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1, 2), Toilet (1), ToiletPaperHanger (1), SinkBasin (1), HandTowelHolder (1), GarbageCan (1), Drawer (1, 2, 3, 4), CounterTop (1, 2), BathtubBasin (1).
+Think: To solve the task, I need to find and pick up the candle, then put it in the drawer.
+OK.
+Think: First, I need to recall location of the candle.
+OK.
+Act: recall location of Candle
+You have not seen Candle before.
+Think: Now I need to find the candle. The candle is more likely to appear on CounterTop (1-2), SinkBasin (1), or in Drawer (1-4). I can check each place one by one, starting from CounterTop (1), until I find the candle.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Towel (2), Faucet (1), Drawer (3), CounterTop (1), Bathtub (1), BathtubBasin (1). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see SoapBar (3), Sink (1), SinkBasin (1), Mirror (1), Faucet (3), Drawer (1, 2, 3, 4), CounterTop (2), Cloth (2, 3), Candle (1). 
+Think: I find Candle (1). Now, I need to pick it up.
+OK.
+Act: pick up Candle (1)
+You pick up Candle (1). You see SoapBar (3), Sink (1), SinkBasin (1), Mirror (1), Faucet (3), Drawer (1, 2, 3, 4), CounterTop (2), Cloth (2, 3), Candle (1). I am holding Candle (1) now.
+Think: I hold Candle (1). Now, I need to put it in the drawer.
+OK.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Sink (1), SinkBasin (1), GarbageCan (1), Faucet (3), Drawer (1, 2, 3, 4), CounterTop (2), Cloth (2, 3), Candle (1). Drawer (1) is closed.  I am holding Candle (1) now.
+Act: open Drawer (1)
+You open Drawer (1). You see Sink (1), SinkBasin (1), GarbageCan (1), Drawer (1, 2, 3, 4), CounterTop (2), Cloth (2, 3), Candle (1). I am holding Candle (1) now.
+Act: put down Candle (1)
+You put Candle (1) on Drawer (1). You see Sink (1), SinkBasin (1), GarbageCan (1), Drawer (1, 2, 3, 4), CounterTop (2), Cloth (2, 3), Candle (1).
+Act: close Drawer (1)
+You close Drawer (1). You see Sink (1), SinkBasin (1), GarbageCan (1), Drawer (1, 2, 3, 4), CounterTop (2), Cloth (2, 3).
+Think: Now I accomplish the goal.
+OK.
+Act: done

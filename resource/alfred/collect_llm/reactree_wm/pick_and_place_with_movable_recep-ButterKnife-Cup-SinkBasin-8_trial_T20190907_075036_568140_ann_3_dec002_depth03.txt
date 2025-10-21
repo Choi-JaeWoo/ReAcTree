@@ -1,0 +1,59 @@
+Your primary goal is to: Put a knife in a glass and put them in the sink
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, place knife in glass, find and pick up glass, and and place glass in sink basin.
+Your task is to: find and pick up knife
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7), CounterTop (1, 2, 3, 4), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18).
+Think: First, I need to recall location of the knife.
+OK.
+Act: recall location of Knife
+You have not seen Knife before.
+Think: Now, I need to find the knife. The knife is more likely to appear on CounterTop (1-4), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-18), Drawer (1-7). I can check each place one by one, starting from CounterTop (1), until I find the knife.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see SoapBottle (3), Lettuce (1), Fork (1), CounterTop (1), Chair (1), ButterKnife (2, 3). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Toaster (1), StoveKnob (1, 2, 4), StoveBurner (1, 2, 3, 4), SaltShaker (1), Pot (1), Pen (2), Pan (1), Cup (3), CounterTop (2). 
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Tomato (1), SprayBottle (1), Plate (3), Microwave (1), DishSponge (2), Cup (1), CounterTop (3, 4), Cabinet (12), Bread (1). 
+Act: go to CounterTop (4)
+You arrive at CounterTop (4). You see Tomato (1), SprayBottle (1), Plate (3), Microwave (1), Drawer (4, 5), DishSponge (2), Cup (1), CounterTop (3, 4), Cabinet (5, 9). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), Potato (1), Pen (1), Ladle (2), Fork (2), Faucet (1), Drawer (2, 7), DishSponge (3), CounterTop (4), Cabinet (1, 3, 4, 16), ButterKnife (1), Apple (3). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1). Fridge (1) is closed. 
+Act: open Fridge (1)
+You open Fridge (1). You see Fridge (1).
+Act: close Fridge (1)
+You close Fridge (1). You see Fridge (1).
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Tomato (1), Potato (2), Plate (3), Microwave (1), HousePlant (1), CounterTop (3, 4). Microwave (1) is closed. 
+Act: open Microwave (1)
+You open Microwave (1). You see Tomato (1), Plate (3), Mug (1), Microwave (1), HousePlant (1), Egg (2), CounterTop (3, 4).
+Act: close Microwave (1)
+You close Microwave (1). You see Tomato (1), Potato (2), Plate (3), Microwave (1), HousePlant (1), CounterTop (3, 4).
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see StoveBurner (1, 2, 3, 4), Pen (1), Pan (1), Ladle (2), Drawer (7), CounterTop (4), Cabinet (1, 3, 11, 16), ButterKnife (1). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see StoveBurner (1, 4), Pot (1), Pen (1), Pan (1), Ladle (2), Drawer (7), CounterTop (4), Cabinet (1, 3, 11, 16).
+Act: close Cabinet (1)
+You close Cabinet (1). You see StoveBurner (1, 4), Pot (1), Pen (1), Pan (1), Ladle (2), Drawer (7), CounterTop (4), Cabinet (1, 3, 11, 16).
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Toaster (1), Spatula (1), Pen (2), CounterTop (2). Cabinet (2) is closed. 
+Act: open Cabinet (2)
+You open Cabinet (2). You see Toaster (1), Spatula (1), Pen (2), CounterTop (2), Cabinet (2).
+Act: close Cabinet (2)
+You close Cabinet (2). You see Toaster (1), Spatula (1), Pen (2), CounterTop (2).
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see Sink (1), SinkBasin (1), Potato (1), Pen (1), Ladle (2), Fork (2), Faucet (1), Drawer (7), DishSponge (3), CounterTop (4), Cabinet (1, 3, 4, 11, 16), ButterKnife (1), Apple (3). Cabinet (3) is closed. 
+Act: open Cabinet (3)
+You open Cabinet (3). You see Sink (1), SinkBasin (1), Potato (1), Pen (1), Ladle (2), Fork (2), Faucet (1), Drawer (7), DishSponge (3), CounterTop (4), Cabinet (1, 3, 4, 11, 16), ButterKnife (1), Apple (3).
+Act: close Cabinet (3)
+You close Cabinet (3). You see Sink (1), SinkBasin (1), Potato (1), Pen (1), Ladle (2), Fork (2), Faucet (1), Drawer (7), DishSponge (3), CounterTop (4), Cabinet (1, 3, 4, 11, 16), ButterKnife (1), Apple (3).
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see SprayBottle (2), Mug (3), Knife (1), Kettle (1), Drawer (2, 4, 5), CounterTop (4), CoffeeMachine (1), Cabinet (3, 4, 5, 9), Bread (2), Bowl (2). Cabinet (4) is closed. 
+Think: I find Knife (1). Now, I need to pick it up.
+OK.
+Act: pick up Knife (1)
+You pick up Knife (1). You see SprayBottle (2), Mug (3), Knife (1), Kettle (1), Drawer (2, 4, 5), CounterTop (4), CoffeeMachine (1), Cabinet (3, 4, 5, 9), Bread (2), Bowl (2). I am holding Knife (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

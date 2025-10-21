@@ -1,0 +1,19 @@
+Your primary goal is to: Put a box on the chair.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up box, and place box on chair.
+Your task is to: find and pick up box
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2, 3, 4, 5), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21), Cabinet (1), ArmChair (1).
+Think: First, I need to recall location of the box.
+OK.
+Act: recall location of Box
+You have not seen Box before.
+Think: Now, I need to find the box. The box is more likely to appear on Sofa (1), SideTable (1-5), or in Drawer (1-21), Cabinet (1). I can check each place one by one, starting from Sofa (1), until I find the box.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1), CellPhone (3), Box (4), Book (2). 
+Think: I find Box (4). Now, I need to pick it up.
+OK.
+Act: pick up Box (4)
+You pick up Box (4). You see Sofa (1), Pillow (1), KeyChain (1), CellPhone (3), Box (4), Book (2). I am holding Box (4) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

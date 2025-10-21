@@ -1,0 +1,29 @@
+Your primary goal is to: Put a chilled apple in the sink.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up apple, cool and pick up apple, and place apple in sink.
+Your task is to: find and pick up apple
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4, 5, 6), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9).
+Think: First, I need to recall location of the apple.
+OK.
+Act: recall location of Apple
+You have not seen Apple before.
+Think: Now, I need to find the apple. The apple is more likely to appear on CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-9), Drawer (1-13). I can check each place one by one, starting from CounterTop (1), until I find the apple.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (2), Spatula (1, 3), Sink (1), SinkBasin (1), Potato (1), Mug (3), Fork (1), Faucet (1), CounterTop (1), Cabinet (1, 8), Apple (3). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Tomato (2), SoapBottle (3), SaltShaker (1, 3), Pot (1), Mug (1), Lettuce (1, 2), Ladle (1), CounterTop (1, 2). 
+Think: I find Apple (3). Now, I need to pick it up.
+OK.
+Act: pick up SoapBottle (3)
+You pick up SoapBottle (3). You see SoapBottle (3), SaltShaker (1, 3), Pot (1), Mug (1), Lettuce (1, 2), Ladle (1), CounterTop (1, 2). I am holding SoapBottle (3) now.
+Act: pick up SaltShaker (3)
+You are currently holding SoapBottle (3). I am holding SoapBottle (3) now.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (2), Spatula (3), SoapBottle (3), Sink (1), SinkBasin (1), Mug (3), CounterTop (1), Cabinet (1, 8).  I am holding SoapBottle (3) now.
+Act: put down SoapBottle (3)
+You put SoapBottle (3) on CounterTop (1). You see Window (2), Spatula (1, 3), SoapBottle (3), Sink (1), SinkBasin (1), Potato (1), Mug (3), Fork (1), Faucet (1), CounterTop (1), Cabinet (1, 8), Apple (3).
+Act: pick up Apple (3)
+You pick up Apple (3). You see Window (2), Spatula (1, 3), SoapBottle (3), Sink (1), SinkBasin (1), Potato (1), Mug (3), Fork (1), Faucet (1), CounterTop (1), Cabinet (1, 8), Apple (3). I am holding Apple (3) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,7 @@
+Your task is to: TO put two rolls of toilet paper in the bottom right drawer under the sink.
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1, 2), HandTowelHolder (1, 2, 3, 4), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1, 2), Bathtub (1), BathtubBasin (1).
+Think: Since I’m not holding toilet paper, I need to accomplish 3 subgoals sequentially to solve the task. Find and pick up toilet paper, place toilet paper in drawer, and find and pick up toilet paper away from drawer.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up toilet paper, place toilet paper in drawer, find and pick up toilet paper away from drawer

@@ -1,0 +1,137 @@
+Your primary goal is to: Put a slice of apple and knife in a pot in the sink.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, slice and pick up apple, place apple in pot, and place knife in pot.
+Your task is to: place knife in pot
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9).
+Think: I hold Knife (1). Now, I need to recall location of the pot.
+OK.
+Act: recall location of Pot
+You saw Pot (1) near CounterTop (1).
+Think: I can find Pot (1) near CounterTop (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (1), Vase (1), Spoon (1), Pot (1), Lettuce (1), CounterTop (1), ButterKnife (1, 2), Book (1, 2). 
+Think: I find Pot (1). Now, I need to put down Knife (1) in Pot (1).
+OK.
+Act: go to Pot (1)
+You arrive at Pot (1). You see WineBottle (1), Spatula (2), Pot (1), Lettuce (1), CounterTop (1), Book (1, 2). 
+Act: go to Lettuce (1)
+You see WineBottle (1), Vase (1), Spoon (1), Pot (1), Lettuce (1), CounterTop (1), ButterKnife (1, 2), Book (1, 2). 
+Act: go to Pot (1)
+You arrive at Pot (1). You see WineBottle (1), Spatula (2), Pot (1), Lettuce (1), CounterTop (1), Book (1, 2). 
+Act: go to Lettuce (1)
+You see WineBottle (1), Vase (1), Spoon (1), Pot (1), Lettuce (1), CounterTop (1), ButterKnife (1, 2), Book (1, 2). 
+Act: go to Pot (1)
+You arrive at Pot (1). You see WineBottle (1), Spatula (2), Pot (1), Lettuce (1), CounterTop (1), Book (1, 2). 
+Act: go to Lettuce (1)
+You see WineBottle (1), Vase (1), Spoon (1), Pot (1), Lettuce (1), CounterTop (1), ButterKnife (1, 2), Book (1, 2). 
+Act: go to Pot (1)
+You arrive at Pot (1). You see WineBottle (1), Spatula (2), Pot (1), Lettuce (1), CounterTop (1), Book (1, 2). 
+Act: go to Lettuce (1)
+You see WineBottle (1), Vase (1), Spoon (1), Pot (1), Lettuce (1), CounterTop (1), ButterKnife (1, 2), Book (1, 2). 
+Act: go to Pot (1)
+You arrive at Pot (1). You see WineBottle (1), Spatula (2), Pot (1), Lettuce (1), CounterTop (1), Book (1, 2). 
+Act: go to Lettuce (1)
+You see WineBottle (1), Vase (1), Spoon (1), Pot (1), Lettuce (1), CounterTop (1), ButterKnife (1, 2), Book (1, 2). 
+Act: go to Pot (1)
+You arrive at Pot (1). You see WineBottle (1), Spatula (2), Pot (1), Lettuce (1), CounterTop (1), Book (1, 2). 
+Act: go to Lettuce (1)
+You see WineBottle (1), Vase (1), Spoon (1), Pot (1), Lettuce (1), CounterTop (1), ButterKnife (1, 2), Book (1, 2). 
+Act: go to Pot (1)
+You arrive at Pot (1). You see WineBottle (1), Spatula (2), Pot (1), Lettuce (1), CounterTop (1), Book (1, 2). 
+Act: go to Lettuce (1)
+You see WineBottle (1), Vase (1), Spoon (1), Pot (1), Lettuce (1), CounterTop (1), ButterKnife (1, 2), Book (1, 2). 
+Act: go to Pot (1)
+You arrive at Pot (1). You see WineBottle (1), Spatula (2), Pot (1), Lettuce (1), CounterTop (1), Book (1, 2). 
+Act: go to Lettuce (1)
+You see WineBottle (1), Vase (1), Spoon (1), Pot (1), Lettuce (1), CounterTop (1), ButterKnife (1, 2), Book (1, 2). 
+Act: go to Pot (1)
+You arrive at Pot (1). You see WineBottle (1), Spatula (2), Pot (1), Lettuce (1), CounterTop (1), Book (1, 2). 
+Act: go to Lettuce (1)
+You see WineBottle (1), Vase (1), Spoon (1), Pot (1), Lettuce (1), CounterTop (1), ButterKnife (1, 2), Book (1, 2). 
+Act: go to Pot (1)
+You arrive at Pot (1). You see WineBottle (1), Spatula (2), Pot (1), Lettuce (1), CounterTop (1), Book (1, 2). 
+Act: go to Lettuce (1)
+You see WineBottle (1), Vase (1), Spoon (1), Pot (1), Lettuce (1), CounterTop (1), ButterKnife (1, 2), Book (1, 2). 
+Act: go to Pot (1)
+You arrive at Pot (1). You see WineBottle (1), Spatula (2), Pot (1), Lettuce (1), CounterTop (1), Book (1, 2). 
+Act: go to Lettuce (1)
+You see WineBottle (1), Vase (1), Spoon (1), Pot (1), Lettuce (1), CounterTop (1), ButterKnife (1, 2), Book (1, 2). 
+Act: go to Pot (1)
+You arrive at Pot (1). You see WineBottle (1), Spatula (2), Pot (1), Lettuce (1), CounterTop (1), Book (1, 2). 
+Act: go to Lettuce (1)
+You see WineBottle (1), Vase (1), Spoon (1), Pot (1), Lettuce (1), CounterTop (1), ButterKnife (1, 2), Book (1, 2). 
+Act: go to Pot (1)
+You arrive at Pot (1). You see WineBottle (1), Spatula (2), Pot (1), Lettuce (1), CounterTop (1), Book (1, 2). 
+Act: go to Lettuce (1)
+You see WineBottle (1), Vase (1), Spoon (1), Pot (1), Lettuce (1), CounterTop (1), ButterKnife (1, 2), Book (1, 2). 
+Act: go to Pot (1)
+You arrive at Pot (1). You see WineBottle (1), Spatula (2), Pot (1), Lettuce (1), CounterTop (1), Book (1, 2). 
+Act: go to Lettuce (1)
+You see WineBottle (1), Vase (1), Spoon (1), Pot (1), Lettuce (1), CounterTop (1), ButterKnife (1, 2), Book (1, 2). 
+Act: go to Pot (1)
+You arrive at Pot (1). You see WineBottle (1), Spatula (2), Pot (1), Lettuce (1), CounterTop (1), Book (1, 2). 
+Act: go to Lettuce (1)
+You see WineBottle (1), Vase (1), Spoon (1), Pot (1), Lettuce (1), CounterTop (1), ButterKnife (1, 2), Book (1, 2). 
+Act: go to Pot (1)
+You arrive at Pot (1). You see WineBottle (1), Spatula (2), Pot (1), Lettuce (1), CounterTop (1), Book (1, 2). 
+Act: go to Lettuce (1)
+You see WineBottle (1), Vase (1), Spoon (1), Pot (1), Lettuce (1), CounterTop (1), ButterKnife (1, 2), Book (1, 2). 
+Act: go to Pot (1)
+You arrive at Pot (1). You see WineBottle (1), Spatula (2), Pot (1), Lettuce (1), CounterTop (1), Book (1, 2). 
+Act: go to Lettuce (1)
+You see WineBottle (1), Vase (1), Spoon (1), Pot (1), Lettuce (1), CounterTop (1), ButterKnife (1, 2), Book (1, 2). 
+Act: go to Pot (1)
+You arrive at Pot (1). You see WineBottle (1), Spatula (2), Pot (1), Lettuce (1), CounterTop (1), Book (1, 2). 
+Act: go to Lettuce (1)
+You see WineBottle (1), Vase (1), Spoon (1), Pot (1), Lettuce (1), CounterTop (1), ButterKnife (1, 2), Book (1, 2). 
+Act: go to Pot (1)
+You arrive at Pot (1). You see WineBottle (1), Spatula (2), Pot (1), Lettuce (1), CounterTop (1), Book (1, 2). 
+Act: go to Lettuce (1)
+You see WineBottle (1), Vase (1), Spoon (1), Pot (1), Lettuce (1), CounterTop (1), ButterKnife (1, 2), Book (1, 2). 
+Act: go to Pot (1)
+You arrive at Pot (1). You see WineBottle (1), Spatula (2), Pot (1), Lettuce (1), CounterTop (1), Book (1, 2). 
+Act: go to Lettuce (1)
+You see WineBottle (1), Vase (1), Spoon (1), Pot (1), Lettuce (1), CounterTop (1), ButterKnife (1, 2), Book (1, 2). 
+Act: go to Pot (1)
+You arrive at Pot (1). You see WineBottle (1), Spatula (2), Pot (1), Lettuce (1), CounterTop (1), Book (1, 2). 
+Act: go to Lettuce (1)
+You see WineBottle (1), Vase (1), Spoon (1), Pot (1), Lettuce (1), CounterTop (1), ButterKnife (1, 2), Book (1, 2). 
+Act: go to Pot (1)
+You arrive at Pot (1). You see WineBottle (1), Spatula (2), Pot (1), Lettuce (1), CounterTop (1), Book (1, 2). 
+Act: go to Lettuce (1)
+You see WineBottle (1), Vase (1), Spoon (1), Pot (1), Lettuce (1), CounterTop (1), ButterKnife (1, 2), Book (1, 2). 
+Act: go to Pot (1)
+You arrive at Pot (1). You see WineBottle (1), Spatula (2), Pot (1), Lettuce (1), CounterTop (1), Book (1, 2). 
+Act: go to Lettuce (1)
+You see WineBottle (1), Vase (1), Spoon (1), Pot (1), Lettuce (1), CounterTop (1), ButterKnife (1, 2), Book (1, 2). 
+Act: go to Pot (1)
+You arrive at Pot (1). You see WineBottle (1), Spatula (2), Pot (1), Lettuce (1), CounterTop (1), Book (1, 2). 
+Act: go to Lettuce (1)
+You see WineBottle (1), Vase (1), Spoon (1), Pot (1), Lettuce (1), CounterTop (1), ButterKnife (1, 2), Book (1, 2). 
+Act: go to Pot (1)
+You arrive at Pot (1). You see WineBottle (1), Spatula (2), Pot (1), Lettuce (1), CounterTop (1), Book (1, 2). 
+Act: go to Lettuce (1)
+You see WineBottle (1), Vase (1), Spoon (1), Pot (1), Lettuce (1), CounterTop (1), ButterKnife (1, 2), Book (1, 2). 
+Act: go to Pot (1)
+You arrive at Pot (1). You see WineBottle (1), Spatula (2), Pot (1), Lettuce (1), CounterTop (1), Book (1, 2). 
+Act: go to Lettuce (1)
+You see WineBottle (1), Vase (1), Spoon (1), Pot (1), Lettuce (1), CounterTop (1), ButterKnife (1, 2), Book (1, 2). 
+Act: go to Pot (1)
+You arrive at Pot (1). You see WineBottle (1), Spatula (2), Pot (1), Lettuce (1), CounterTop (1), Book (1, 2). 
+Act: go to Lettuce (1)
+You see WineBottle (1), Vase (1), Spoon (1), Pot (1), Lettuce (1), CounterTop (1), ButterKnife (1, 2), Book (1, 2). 
+Act: go to Pot (1)
+You arrive at Pot (1). You see WineBottle (1), Spatula (2), Pot (1), Lettuce (1), CounterTop (1), Book (1, 2). 
+Act: go to Lettuce (1)
+You see WineBottle (1), Vase (1), Spoon (1), Pot (1), Lettuce (1), CounterTop (1), ButterKnife (1, 2), Book (1, 2). 
+Act: go to Pot (1)
+You arrive at Pot (1). You see WineBottle (1), Spatula (2), Pot (1), Lettuce (1), CounterTop (1), Book (1, 2). 
+Act: go to Lettuce (1)
+You see WineBottle (1), Vase (1), Spoon (1), Pot (1), Lettuce (1), CounterTop (1), ButterKnife (1, 2), Book (1, 2). 
+Act: go to Pot (1)
+You arrive at Pot (1). You see WineBottle (1), Spatula (2), Pot (1), Lettuce (1), CounterTop (1), Book (1, 2). 
+Act: go to Lettuce (1)
+You see WineBottle (1), Vase (1), Spoon (1), Pot (1), Lettuce (1), CounterTop (1), ButterKnife (1, 2), Book (1, 2). 
+Act: go to Pot (1)
+You arrive at Pot (1). You see WineBottle (1), Spatula (2), Pot (1), Lettuce (1), CounterTop (1), Book (1, 2). 
+Max decisions

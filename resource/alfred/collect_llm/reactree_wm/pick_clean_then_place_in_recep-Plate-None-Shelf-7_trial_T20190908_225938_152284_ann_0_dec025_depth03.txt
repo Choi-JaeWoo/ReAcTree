@@ -1,0 +1,21 @@
+Your primary goal is to: Place a clean plate with spatula on it on the shelf.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up plate, clean and pick up plate, find and pick up spatula, and place spatula on plate near shelf.
+Your task is to: place spatula on plate near shelf
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13). I am holding Plate (1) now.
+Think: I hold Plate (1). Now, I need to recall location of the spatula.
+OK.
+Act: recall location of Spatula
+You saw Spatula (1) near hand.
+Think: I can find Spatula (1) near hand. 
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Statue (2), Shelf (1, 2), Plate (1).  I am holding Plate (1) now.
+Think: I find Spatula (1). Now, I need to put down Plate (1) on Spatula (1).
+OK.
+Act: go to Plate (1)
+You arrive at Plate (1). You see Statue (1, 2), Shelf (1, 2, 3), Plate (1).  I am holding Plate (1) now.
+Act: put down Plate (1)
+You put down failed, drop it. You see Statue (1, 2), Shelf (1, 2, 3), Plate (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

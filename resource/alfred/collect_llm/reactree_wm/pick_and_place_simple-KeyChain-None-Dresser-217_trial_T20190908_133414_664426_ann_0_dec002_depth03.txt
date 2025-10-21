@@ -1,0 +1,67 @@
+Your primary goal is to: Put the keys on the TV stand.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up keys, and place keys on TV stand.
+Your task is to: find and pick up keys
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), CoffeeTable (1), Cabinet (1, 2, 3, 4), ArmChair (1, 2).
+Think: First, I need to recall location of the keys.
+OK.
+Act: recall location of KeyChain
+You have not seen KeyChain before.
+Think: Now, I need to find the key chain. The key chain is more likely to appear on Sofa (1), SideTable (1), CoffeeTable (1), or in Drawer (1-4), Cabinet (1-4). I can check each place one by one, starting from Sofa (1), until I find the key chain.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see WateringCan (1), Sofa (1, 1), SideTable (1), Pillow (1, 1), Lamp (1), ArmChair (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (1, 2), Statue (1, 2, 3), CoffeeTable (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Television (1), Laptop (1), Dresser (1), Drawer (1, 3), Cabinet (1, 2, 3). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Television (1), Laptop (1), Dresser (1), Drawer (1, 3, 4), Cabinet (1, 2, 3).
+Act: close Drawer (1)
+You close Drawer (1). You see Television (1), Laptop (1), Dresser (1), Drawer (1, 3, 4), Cabinet (1, 2, 3).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Television (1), HousePlant (1), GarbageCan (1), Dresser (1), Drawer (2), Cabinet (3, 4). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see Television (1), HousePlant (1), GarbageCan (1), Dresser (1), Drawer (2, 3), Cabinet (3, 4).
+Act: close Drawer (2)
+You close Drawer (2). You see Television (1), HousePlant (1), GarbageCan (1), Dresser (1), Drawer (2, 3), Cabinet (3, 4).
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Television (1), Dresser (1), Drawer (2, 3), Cabinet (2, 3, 4). Drawer (3) is closed. 
+Act: open Drawer (3)
+You open Drawer (3). You see Television (1), Dresser (1), Drawer (1, 2, 3), Cabinet (1, 2, 3, 4).
+Act: close Drawer (3)
+You close Drawer (3). You see Television (1), Dresser (1), Drawer (1, 2, 3), Cabinet (1, 2, 3, 4).
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Television (1), Painting (3), Laptop (1), Dresser (1), Drawer (1, 4), Chair (1), Cabinet (1, 2). Drawer (4) is closed. 
+Act: open Drawer (4)
+You open Drawer (4). You see Television (1), Painting (3), Laptop (1), Dresser (1), Drawer (1, 4), Chair (1), Cabinet (1, 2).
+Act: close Drawer (4)
+You close Drawer (4). You see Television (1), Painting (3), Laptop (1), Dresser (1), Drawer (1, 4), Chair (1), Cabinet (1, 2).
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Laptop (1), Dresser (1), Drawer (4), Chair (1), Cabinet (1, 2). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see Dresser (1), Drawer (4), Cabinet (1, 2, 3), Box (2).
+Act: close Cabinet (1)
+You close Cabinet (1). You see Dresser (1), Drawer (4), Cabinet (1, 2, 3).
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Television (1), Dresser (1), Drawer (1, 3), Cabinet (1, 2, 3). Cabinet (2) is closed. 
+Act: open Cabinet (2)
+You open Cabinet (2). You see Dresser (1), Drawer (1, 3), Cabinet (1, 2, 3, 4).
+Act: close Cabinet (2)
+You close Cabinet (2). You see Dresser (1), Drawer (1, 3), Cabinet (1, 2, 3, 4).
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see Television (1), Dresser (1), Drawer (1, 3), Cabinet (2, 3). Cabinet (3) is closed. 
+Act: open Cabinet (3)
+You open Cabinet (3). You see Dresser (1), Drawer (1, 3), Cabinet (1, 2, 3, 4).
+Act: close Cabinet (3)
+You close Cabinet (3). You see Dresser (1), Drawer (1, 3), Cabinet (1, 2, 3, 4).
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see Television (1), HousePlant (1), GarbageCan (1), Dresser (1), Drawer (2), Cabinet (4). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+You open Cabinet (4). You see GarbageCan (1), Dresser (1), Drawer (2), Cabinet (2, 3, 4), Box (1).
+Act: close Cabinet (4)
+You close Cabinet (4). You see GarbageCan (1), Dresser (1), Drawer (2), Cabinet (2, 3, 4), Box (1).
+Think: I cannot find the key chain.
+OK.
+Act: failure

@@ -1,0 +1,13 @@
+Your primary goal is to: Put the tray with wrist watch at the back of the tv stand
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up tray, place tray on tv stand, find and pick up wrist watch, place wrist watch on tray near tv stand, and and place tray with wrist watch at the back of the tv stand.
+Your task is to: place tray on tv stand
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1, 2), SideTable (1, 2), GarbageCan (1), Drawer (1), DiningTable (1), CoffeeTable (1). I am holding Plate (1) now.
+Think: I hold Plate (1). Now, I need to put it on the tv stand. I can see TVStand (1).
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Plate (1), KeyChain (3), Box (2).  I am holding Plate (1) now.
+Act: put down Plate (1)
+You put Plate (1) on Sofa (1). You see Sofa (1), Plate (1), KeyChain (3), Box (2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

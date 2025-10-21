@@ -1,0 +1,21 @@
+Your primary goal is to: Examine a basketball by the light of a desk lamp.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up basketball, and find and turn on lamp.
+Your task is to: find and turn on lamp
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1), LaundryHamper (1), GarbageCan (1), Drawer (1, 2, 3), Desk (1), Bed (1, 2). I am holding Bowl (1) now.
+Think: First, I need to recall location of the desk lamp.
+OK.
+Act: recall location of DeskLamp
+You have not seen DeskLamp before.
+Think: Now I need to find the desk lamp. The desk lamp is more likely to appear near Desk (1), Shelf (1), Bed (1-2). I can check each place one by one, starting from Desk (1), until I find the desk lamp.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Statue (2), Pencil (1), KeyChain (2), Drawer (1, 2), Desk (1), CreditCard (1), Chair (2), CellPhone (3), CD (1), Bowl (1), Book (2, 3).  I am holding Bowl (1) now.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Statue (1, 2), Shelf (1), Pencil (1), Mug (1), Desk (1), CreditCard (1), Bowl (1, 2), Book (3).  I am holding Bowl (1) now.
+Act: go to Bed (1)
+You arrive at Bed (1). You see Pillow (2), Laptop (1), Bowl (1), Bed (1).  I am holding Bowl (1) now.
+Act: go to Bed (2)
+You arrive at Bed (2). You see Bowl (1), Bed (2).  I am holding Bowl (1) now.
+Think: I cannot find the desk lamp.
+OK.
+Act: failure

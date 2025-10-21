@@ -1,0 +1,13 @@
+Your primary goal is to: Clean up the dishes.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up dirty dishes, clean and pick up dirty dishes, and place dirty dishes in the dishwasher.
+Your task is to: place dirty dishes in the dishwasher
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1, 2, 3), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4). I am holding DishSponge (1) now.
+Think: I hold DishSponge (1). Now, I need to put it in the dishwasher. I can see Dishwasher (1).
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (1), Sink (1), SinkBasin (1), SaltShaker (2), Potato (3), Fork (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), CoffeeMachine (1), Cabinet (2, 4), Apple (1, 2).  I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put DishSponge (1) on SinkBasin (1). You see Tomato (1), Sink (1), SinkBasin (1), SaltShaker (2), Potato (3), Fork (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), CoffeeMachine (1), Cabinet (2, 4), Apple (1, 2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,21 @@
+Your primary goal is to: Put a plate with a knife on the counter.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up plate, place plate on counter, find and pick up knife, and place knife on plate near counter.
+Your task is to: place knife on plate near counter
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26). I am holding Knife (2) now.
+Think: I hold Knife (2). Now, I need to recall location of the plate.
+OK.
+Act: recall location of Plate
+You saw Plate (2) near CounterTop (1).
+Think: I can find Plate (2) near CounterTop (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Potato (1), Plate (2), Lettuce (2), Knife (2), Drawer (6, 7), CounterTop (1), Cabinet (6, 10).  I am holding Knife (2) now.
+Think: I find Plate (2). Now, I need to put down Knife (2) on Plate (2).
+OK.
+Act: go to Plate (2)
+You arrive at Plate (2). You see WineBottle (3), Plate (2), Lettuce (2), Knife (2), Drawer (5, 6, 7), CounterTop (1), Cabinet (6, 10, 15, 20).  I am holding Knife (2) now.
+Act: put down Knife (2)
+You put Knife (2) on Plate (2). You see WineBottle (3), Plate (2), Lettuce (2), Knife (2), Drawer (5, 6, 7), CounterTop (1), Cabinet (6, 10, 15, 20).
+Think: Now I accomplish the goal.
+OK.
+Act: done

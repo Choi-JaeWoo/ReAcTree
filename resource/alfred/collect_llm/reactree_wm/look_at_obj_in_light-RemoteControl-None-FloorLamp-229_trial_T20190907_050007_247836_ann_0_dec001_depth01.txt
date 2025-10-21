@@ -1,0 +1,7 @@
+Your task is to: grab the remote from the sofa chair, turn on the floor lamp
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2, 3), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), CoffeeTable (1), ArmChair (1).
+Think: Since I’m not holding the remote, I need to accomplish 2 subgoals sequentially to solve the task. Grab the remote from the sofa chair and turn on the floor lamp.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: grab the remote from the sofa chair, turn on the floor lamp

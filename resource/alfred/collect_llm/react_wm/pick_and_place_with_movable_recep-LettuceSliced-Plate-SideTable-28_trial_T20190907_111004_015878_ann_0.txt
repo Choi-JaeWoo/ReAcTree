@@ -1,0 +1,63 @@
+Your task is to: Put a gray plate with a slice of lettuce on it on a stand.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11).
+Think: To solve the task, I need to find and pick up the knife. And I need to find and slice the lettuce. And I need to put down the knife and pick up the lettuce, then put it on the plate. And I need to put down the lettuce and pick up the plate, then put it on the stand.
+OK.
+Think: First, I need to recall location of the knife.
+OK.
+Act: recall location of Knife
+You have not seen Knife before.
+Think: Now I need to find the knife. The knife is more likely to appear on DiningTable (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-11), Drawer (1-3). I can check each place one by one, starting from DiningTable (1), until I find the knife.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spatula (1, 3), SoapBottle (1), Potato (1), Plate (2), Lettuce (2), Knife (1), DiningTable (1), Cup (1), Bread (1), Bowl (1). 
+Think: I find Knife (1). Now, I need to pick it up.
+OK.
+Act: pick up Knife (1)
+You pick up Knife (1). You see Spatula (1, 3), SoapBottle (1), Potato (1), Plate (2), Lettuce (2), Knife (1), DiningTable (1), Cup (1), Bread (1), Bowl (1). I am holding Knife (1) now.
+Think: I hold Knife (1). Now, I need to recall location of the lettuce.
+OK.
+Act: recall location of Lettuce
+You saw Lettuce (2) near DiningTable (1).
+Think: I can find Lettuce (2) near DiningTable (1).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spatula (1, 3), SoapBottle (1), Potato (1), Plate (2), Lettuce (2), Knife (1), DiningTable (1), Cup (1), Bread (1), Bowl (1).  I am holding Knife (1) now.
+Think: I find Lettuce (2). Now, I need to slice it.
+OK.
+Act: slice Lettuce (2)
+You slice Lettuce (2). You see Spatula (1, 3), SoapBottle (1), Potato (1), Plate (2), Lettuce (7, 8, 9, 10), Knife (1), DiningTable (1), Cup (1), Bread (1), Bowl (1). Lettuce (4, 5, 6, 7, 8, 9, 10) are sliced. I am holding Knife (1) now.
+Think: I slice Lettuce (2). Now, I need to put down the knife.
+OK.
+Act: put down Knife (1)
+You put down failed, drop it. You see Spatula (1, 3), SoapBottle (1), Potato (1), Plate (2), Lettuce (7, 8, 9, 10), DiningTable (1), Cup (1), Bread (1), Bowl (1).
+Think: Now I need to pick up Lettuce (4).
+OK.
+Act: pick up Lettuce (7)
+You pick up Lettuce (7). You see Spatula (1, 3), SoapBottle (1), Potato (1), Plate (2), Lettuce (6, 7, 8, 9, 10), DiningTable (1), Cup (1), Bread (1), Bowl (1). I am holding Lettuce (7) now.
+Think: I hold Lettuce (7). Now, I need to put it on the plate.
+OK.
+Act: go to Plate (2)
+You arrive at Plate (2). You see Spatula (1, 3), SoapBottle (1), Potato (1), Plate (2), Lettuce (6, 7, 8, 9, 10), Knife (1), DiningTable (1), Cup (1), Bread (1), Bowl (1).  I am holding Lettuce (7) now.
+Act: put down Lettuce (7)
+You put Lettuce (7) on Plate (2). You see Spatula (1, 3), SoapBottle (1), Potato (1), Plate (2), Lettuce (6, 7, 8, 9, 10), Knife (1), DiningTable (1), Cup (1), Bread (1), Bowl (1).
+Think: I put Lettuce (7) on Plate (2). Now, I need to recall location of the plate.
+OK.
+Act: recall location of Plate
+You saw Plate (2) near DiningTable (1).
+Think: I can find Plate (2) near DiningTable (1).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spatula (1, 3), SoapBottle (1), Potato (1), Plate (2), Lettuce (6, 7, 8, 9, 10), DiningTable (1), Cup (1), Bread (1), Bowl (1). 
+Think: I find Plate (2). Now, I need to pick it up.
+OK.
+Act: pick up Plate (2)
+You pick up Plate (2). You see Spatula (1, 3), SoapBottle (1), Plate (2), Lettuce (6, 7, 8, 9, 10), DiningTable (1), Bread (1), Bowl (1). I am holding Plate (2) now.
+Think: I hold Plate (2). Now, I need to put it on the stand.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Plate (2), Lettuce (3, 7), DiningTable (2), ButterKnife (1).  I am holding Plate (2) now.
+Act: put down Plate (2)
+You put down failed, drop it. You see SideTable (1), Plate (2), Lettuce (3, 7), DiningTable (2), ButterKnife (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

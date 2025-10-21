@@ -1,0 +1,7 @@
+Your task is to: Put a mug with knife on the black table. 
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: Since I’m not holding anything, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up mug, place mug on countertop, find and pick up knife, and place knife on mug near countertop.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up mug, place mug on countertop, find and pick up knife, place knife on mug near countertop

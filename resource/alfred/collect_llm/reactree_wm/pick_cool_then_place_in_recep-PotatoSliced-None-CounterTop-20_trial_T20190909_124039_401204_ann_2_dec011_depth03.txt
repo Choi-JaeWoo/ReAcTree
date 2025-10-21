@@ -1,0 +1,25 @@
+Your primary goal is to: Chill a knife and place a chilled slice of potato on a counter.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, cool and pick up knife, find and pick up potato, and place potato on counter.
+Your task is to: cool and pick up knife
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13). I am holding Knife (3) now.
+Think: First, I need to recall location of the fridge.
+OK.
+Act: recall location of FloorLamp
+You have not seen FloorLamp before.
+Think: Now, I need to find the fridge. The fridge is more likely to appear on CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1). I can check each place one by one, starting from CounterTop (1), until I find the fridge.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), Spatula (2), Sink (1), SinkBasin (1), Lettuce (2), Knife (3), Fork (3), Faucet (1), Egg (1), DishSponge (2), CounterTop (1), ButterKnife (1).  I am holding Knife (3) now.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), Lettuce (2), Knife (3), Fork (3), Faucet (1), Egg (1), Drawer (1), DishSponge (2), CounterTop (1), Cabinet (10), ButterKnife (1), Bowl (2).  I am holding Knife (3) now.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Knife (3), Fridge (1). Fridge (1) is closed.  I am holding Knife (3) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Knife (3), Fridge (1), Egg (2). I am holding Knife (3) now.
+Think: I find Fridge (1). Now, I need to place Knife (3) in it.
+OK.
+Act: put down Knife (3)
+You put Knife (3) on Fridge (1). You see Knife (3), Fridge (1), Egg (2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

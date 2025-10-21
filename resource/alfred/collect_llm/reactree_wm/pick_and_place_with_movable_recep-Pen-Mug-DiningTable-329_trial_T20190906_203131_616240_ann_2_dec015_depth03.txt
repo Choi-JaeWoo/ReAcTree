@@ -1,0 +1,23 @@
+Your primary goal is to: To sort a pen with a cup out together as for regular Television maintenance leave them on the table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pen, place pen on table, find and pick up cup, and and place cup on table.
+Your task is to: find and pick up cup
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1, 2), GarbageCan (1), Drawer (1, 2, 3, 4), DiningTable (1), Bed (1).
+Think: First, I need to recall location of the cup.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now, I need to find the cup. The cup is more likely to appear on DiningTable (1), SideTable (1-2), or in Drawer (1-4). I can check each place one by one, starting from DiningTable (1), until I find the cup.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Drawer (1, 2), Bed (1), AlarmClock (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), Pillow (1), Mug (1), Lamp (1), Drawer (3, 4), CellPhone (1), Bed (1). 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: pick up Mug (1)
+You pick up Mug (1). You see SideTable (2), Pillow (1), Mug (1), Lamp (1), Drawer (3, 4), CellPhone (1), Bed (1). I am holding Mug (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

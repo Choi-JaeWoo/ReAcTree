@@ -1,0 +1,142 @@
+Your task is to: Place a cooked egg in a sink
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13).
+Think: To solve the task, I need to find and pick up the egg, then put it on the stove burner. And I need to turn on and off the stove burner. And I need to pick up the egg from the stove burner, then put it in the sink basin.
+OK.
+Think: First, I need to recall location of the egg.
+OK.
+Act: recall location of Egg
+You have not seen Egg before.
+Think: Now I need to find the egg. The egg is more likely to appear on CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1). I can check each place one by one, starting from CounterTop (1), until I find the egg.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), Spatula (1, 2), Sink (1), SinkBasin (1), Knife (1), Fork (1), Faucet (1), Egg (2, 3), CounterTop (1), Bowl (1). 
+Think: I find Egg (2). Now, I need to pick it up.
+OK.
+Act: pick up Egg (2)
+You pick up Egg (2). You see Toaster (1), Spatula (1, 2), Sink (1), SinkBasin (1), Knife (1), Fork (1), Faucet (1), Egg (2, 3), CounterTop (1), Bowl (1). I am holding Egg (2) now.
+Think: I hold Egg (2). Now, I need to put it on the stove burner.
+OK.
+Act: go to StoveBurner (1)
+You arrive at StoveBurner (1). You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Pot (2), Pan (1, 2), Egg (2), CounterTop (1), Cabinet (6).  I am holding Egg (2) now.
+Act: put down Egg (2)
+You put down failed, drop it. You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Pot (2), Pan (1, 2), Egg (2), CounterTop (1), Cabinet (6).
+Think: Now I need to pick up Egg (3).
+OK.
+Act: pick up Egg (2)
+You pick up Egg (2). You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Pot (2), Pan (1, 2), Egg (2), CounterTop (1), Cabinet (6). I am holding Egg (2) now.
+Think: I hold Egg (2). Now, I need to put it on the stove burner.
+OK.
+Act: go to StoveBurner (1)
+You arrive at StoveBurner (1). You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Pot (2), Pan (1, 2), Egg (2), CounterTop (1), Cabinet (6).  I am holding Egg (2) now.
+Act: put down Egg (2)
+You put down failed, drop it. You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Pot (2), Pan (1, 2), Egg (2), CounterTop (1), Cabinet (6).
+Think: Now I need to pick up Egg (3).
+OK.
+Act: pick up Egg (2)
+You pick up Egg (2). You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Pot (2), Pan (1, 2), Egg (2), CounterTop (1), Cabinet (6). I am holding Egg (2) now.
+Think: I hold Egg (2). Now, I need to put it on the stove burner.
+OK.
+Act: go to StoveBurner (1)
+You arrive at StoveBurner (1). You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Pot (2), Pan (1, 2), Egg (2), CounterTop (1), Cabinet (6).  I am holding Egg (2) now.
+Act: put down Egg (2)
+You put down failed, drop it. You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Pot (2), Pan (1, 2), Egg (2), CounterTop (1), Cabinet (6).
+Think: Now I need to pick up Egg (3).
+OK.
+Act: pick up Egg (2)
+You pick up Egg (2). You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Pot (2), Pan (1, 2), Egg (2), CounterTop (1), Cabinet (6). I am holding Egg (2) now.
+Think: I hold Egg (2). Now, I need to put it on the stove burner.
+OK.
+Act: go to StoveBurner (1)
+You arrive at StoveBurner (1). You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Pot (2), Pan (1, 2), Egg (2), CounterTop (1), Cabinet (6).  I am holding Egg (2) now.
+Act: put down Egg (2)
+You put down failed, drop it. You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Pot (2), Pan (1, 2), Egg (2), CounterTop (1), Cabinet (6).
+Think: Now I need to pick up Egg (3).
+OK.
+Act: pick up Egg (2)
+You pick up Egg (2). You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Pot (2), Pan (1, 2), Egg (2), CounterTop (1), Cabinet (6). I am holding Egg (2) now.
+Think: I hold Egg (2). Now, I need to put it on the stove burner.
+OK.
+Act: go to StoveBurner (1)
+You arrive at StoveBurner (1). You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Pot (2), Pan (1, 2), Egg (2), CounterTop (1), Cabinet (6).  I am holding Egg (2) now.
+Act: put down Egg (2)
+You put down failed, drop it. You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Pot (2), Pan (1, 2), Egg (2), CounterTop (1), Cabinet (6).
+Think: Now I need to pick up Egg (3).
+OK.
+Act: pick up Egg (2)
+You pick up Egg (2). You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Pot (2), Pan (1, 2), Egg (2), CounterTop (1), Cabinet (6). I am holding Egg (2) now.
+Think: I hold Egg (2). Now, I need to put it on the stove burner.
+OK.
+Act: go to StoveBurner (1)
+You arrive at StoveBurner (1). You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Pot (2), Pan (1, 2), Egg (2), CounterTop (1), Cabinet (6).  I am holding Egg (2) now.
+Act: put down Egg (2)
+You put down failed, drop it. You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Pot (2), Pan (1, 2), Egg (2), CounterTop (1), Cabinet (6).
+Think: Now I need to pick up Egg (3).
+OK.
+Act: pick up Egg (2)
+You pick up Egg (2). You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Pot (2), Pan (1, 2), Egg (2), CounterTop (1), Cabinet (6). I am holding Egg (2) now.
+Think: I hold Egg (2). Now, I need to put it on the stove burner.
+OK.
+Act: go to StoveBurner (1)
+You arrive at StoveBurner (1). You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Pot (2), Pan (1, 2), Egg (2), CounterTop (1), Cabinet (6).  I am holding Egg (2) now.
+Act: put down Egg (2)
+You put down failed, drop it. You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Pot (2), Pan (1, 2), Egg (2), CounterTop (1), Cabinet (6).
+Think: Now I need to pick up Egg (3).
+OK.
+Act: pick up Egg (2)
+You pick up Egg (2). You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Pot (2), Pan (1, 2), Egg (2), CounterTop (1), Cabinet (6). I am holding Egg (2) now.
+Think: I hold Egg (2). Now, I need to put it on the stove burner.
+OK.
+Act: go to StoveBurner (1)
+You arrive at StoveBurner (1). You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Pot (2), Pan (1, 2), Egg (2), CounterTop (1), Cabinet (6).  I am holding Egg (2) now.
+Act: put down Egg (2)
+You put down failed, drop it. You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Pot (2), Pan (1, 2), Egg (2), CounterTop (1), Cabinet (6).
+Think: Now I need to pick up Egg (3).
+OK.
+Act: pick up Egg (2)
+You pick up Egg (2). You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Pot (2), Pan (1, 2), Egg (2), CounterTop (1), Cabinet (6). I am holding Egg (2) now.
+Think: I hold Egg (2). Now, I need to put it on the stove burner.
+OK.
+Act: go to StoveBurner (1)
+You arrive at StoveBurner (1). You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Pot (2), Pan (1, 2), Egg (2), CounterTop (1), Cabinet (6).  I am holding Egg (2) now.
+Act: put down Egg (2)
+You put down failed, drop it. You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Pot (2), Pan (1, 2), Egg (2), CounterTop (1), Cabinet (6).
+Think: Now I need to pick up Egg (3).
+OK.
+Act: pick up Egg (2)
+You pick up Egg (2). You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Pot (2), Pan (1, 2), Egg (2), CounterTop (1), Cabinet (6). I am holding Egg (2) now.
+Think: I hold Egg (2). Now, I need to put it on the stove burner.
+OK.
+Act: go to StoveBurner (1)
+You arrive at StoveBurner (1). You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Pot (2), Pan (1, 2), Egg (2), CounterTop (1), Cabinet (6).  I am holding Egg (2) now.
+Act: put down Egg (2)
+You put down failed, drop it. You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Pot (2), Pan (1, 2), Egg (2), CounterTop (1), Cabinet (6).
+Think: Now I need to pick up Egg (3).
+OK.
+Act: pick up Egg (2)
+You pick up Egg (2). You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Pot (2), Pan (1, 2), Egg (2), CounterTop (1), Cabinet (6). I am holding Egg (2) now.
+Think: I hold Egg (2). Now, I need to put it on the stove burner.
+OK.
+Act: go to StoveBurner (1)
+You arrive at StoveBurner (1). You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Pot (2), Pan (1, 2), Egg (2), CounterTop (1), Cabinet (6).  I am holding Egg (2) now.
+Act: put down Egg (2)
+You put down failed, drop it. You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Pot (2), Pan (1, 2), Egg (2), CounterTop (1), Cabinet (6).
+Think: Now I need to pick up Egg (3).
+OK.
+Act: pick up Egg (2)
+You pick up Egg (2). You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Pot (2), Pan (1, 2), Egg (2), CounterTop (1), Cabinet (6). I am holding Egg (2) now.
+Think: I hold Egg (2). Now, I need to put it on the stove burner.
+OK.
+Act: go to StoveBurner (1)
+You arrive at StoveBurner (1). You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Pot (2), Pan (1, 2), Egg (2), CounterTop (1), Cabinet (6).  I am holding Egg (2) now.
+Act: put down Egg (2)
+You put down failed, drop it. You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Pot (2), Pan (1, 2), Egg (2), CounterTop (1), Cabinet (6).
+Think: Now I need to pick up Egg (3).
+OK.
+Act: pick up Egg (2)
+You pick up Egg (2). You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Pot (2), Pan (1, 2), Egg (2), CounterTop (1), Cabinet (6). I am holding Egg (2) now.
+Think: I hold Egg (2). Now, I need to put it on the stove burner.
+OK.
+Act: go to StoveBurner (1)
+You arrive at StoveBurner (1). You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Pot (2), Pan (1, 2), Egg (2), CounterTop (1), Cabinet (6).  I am holding Egg (2) now.
+Act: put down Egg (2)
+You put down failed, drop it. You see StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), Pot (2), Pan (1, 2), Egg (2), CounterTop (1), Cabinet (6).

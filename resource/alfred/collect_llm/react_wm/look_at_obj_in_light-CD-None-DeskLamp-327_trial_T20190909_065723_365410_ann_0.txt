@@ -1,0 +1,41 @@
+Your task is to: Pick up a disc and turn the lamp on.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1, 2, 3, 4, 5), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), Desk (1), Bed (1).
+Think: To solve the task, I need to find and pick up the disc. And I need to find and turn on the desk lamp.
+OK.
+Think: First, I need to recall location of the disc.
+OK.
+Act: recall location of CD
+You have not seen CD before.
+Think: Now I need to find the disc. The disc is more likely to appear on Bed (1), Desk (1), Shelf (1-5), or in Drawer (1-8). I can check each place one by one, starting from Bed (1), until I find the disc.
+OK.
+Act: go to Bed (1)
+You arrive at Bed (1). You see Pillow (1, 2), Laptop (1), Bed (1). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Window (1, 2), Shelf (4), Desk (1), Chair (1), CellPhone (2), Book (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), KeyChain (1), DeskLamp (1), AlarmClock (1). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Shelf (2, 3), CreditCard (3), CellPhone (1), Bowl (1, 2), Boots (1). 
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Shelf (2, 3), CreditCard (3), CellPhone (1), Bowl (1, 2), Boots (1). 
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see Shelf (4), Drawer (1, 2, 3, 4, 5, 8), Desk (1), CreditCard (2), CellPhone (2), Boots (1). 
+Act: go to Shelf (5)
+You arrive at Shelf (5). You see Shelf (3, 5), Pencil (2), Bowl (1, 2). 
+Think: I find CD (1). Now, I need to pick it up.
+OK.
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Shelf (5), Pencil (2), CellPhone (1), Bowl (1, 2). I am holding Bowl (1) now.
+Think: I hold Bowl (1). Now, I need to recall location of the desk lamp.
+OK.
+Act: recall location of DeskLamp
+You saw DeskLamp (1) near Shelf (1).
+Think: I can find DeskLamp (1) near Shelf (1). Now, I need to go to Shelf (1) and turn on DeskLamp (1).
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), KeyChain (1), DeskLamp (1), Bowl (1), AlarmClock (1).  I am holding Bowl (1) now.
+Act: turn on DeskLamp (1)
+You turn on DeskLamp (1). You see Shelf (1), KeyChain (1), DeskLamp (1), Bowl (1), AlarmClock (1). I am holding Bowl (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

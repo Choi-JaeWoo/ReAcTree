@@ -1,0 +1,13 @@
+Your primary goal is to: place a bowl with a cellphone in it on the right side of the desk
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up bowl, place bowl on desk, find and pick up cellphone, and place cellphone in bowl near desk.
+Your task is to: place cellphone in bowl near desk
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1), LaundryHamper (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5), Desk (1), Bed (1). I am holding CellPhone (1) now.
+Think: I hold CellPhone (1). Now, I need to put it in the bowl. I can see Bowl (1) near Desk (1).
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Mug (1), Laptop (1), KeyChain (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1, 2), Chair (1), CellPhone (1), CD (1), Bowl (1), Book (1), AlarmClock (1, 2).  I am holding CellPhone (1) now.
+Act: put down CellPhone (1)
+You put CellPhone (1) on Desk (1). You see Mug (1), Laptop (1), KeyChain (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1, 2), Chair (1), CellPhone (1), CD (1), Bowl (1), Book (1), AlarmClock (1, 2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

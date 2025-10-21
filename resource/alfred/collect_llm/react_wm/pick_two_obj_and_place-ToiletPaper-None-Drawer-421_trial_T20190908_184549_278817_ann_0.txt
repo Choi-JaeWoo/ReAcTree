@@ -1,0 +1,47 @@
+Your task is to: Move two empty toilet rolls to a drawer
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1, 2), HandTowelHolder (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1).
+Think: To solve the task, I need to find and pick up the toilet rolls, then put it in a drawer. And I need to find and pick up another toilet roll, then put it in a drawer.
+OK.
+Think: First, I need to recall location of the toilet roll.
+OK.
+Act: recall location of ToiletPaper
+You have not seen ToiletPaper before.
+Think: Now I need to find the toilet roll. The toilet roll is more likely to appear on CounterTop (1), or in Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the toilet roll.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Towel (1), ToiletPaper (3), SprayBottle (1), SoapBottle (1), Sink (1), SinkBasin (1), ShowerHead (1), ShowerGlass (1), Faucet (1), Drawer (1, 2, 4, 7, 8), DishSponge (3), CounterTop (1). 
+Think: I find ToiletPaper (3). Now, I need to pick it up.
+OK.
+Act: pick up ToiletPaper (3)
+You pick up ToiletPaper (3). You see Towel (1), ToiletPaper (3), SprayBottle (1), SoapBottle (1), Sink (1), SinkBasin (1), ShowerHead (1), ShowerGlass (1), Faucet (1), Drawer (1, 2, 4, 7, 8), DishSponge (3), CounterTop (1). I am holding ToiletPaper (3) now.
+Think: I hold ToiletPaper (3). Now, I need to put it in a drawer.
+OK.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see ToiletPaper (3), SoapBottle (1), Sink (1, 2), SinkBasin (1), Mirror (1), Faucet (1), Drawer (1, 2, 4, 6, 7, 8), DishSponge (3). Drawer (1) is closed.  I am holding ToiletPaper (3) now.
+Act: open Drawer (1)
+You open Drawer (1). You see ToiletPaper (3), SoapBottle (1), Sink (1, 2), SinkBasin (1, 2), ShowerGlass (1), Faucet (1, 2), Drawer (1, 4, 5, 6, 7, 8), DishSponge (3), CounterTop (1). I am holding ToiletPaper (3) now.
+Act: put down ToiletPaper (3)
+You put ToiletPaper (3) on Drawer (1). You see ToiletPaper (3), SoapBottle (1), Sink (1, 2), SinkBasin (1, 2), ShowerGlass (1), Faucet (1, 2), Drawer (1, 4, 5, 6, 7, 8), DishSponge (3), CounterTop (1).
+Think: I put ToiletPaper (3) in Drawer (1). Now, I need to recall location of the toilet roll.
+OK.
+Act: recall location of ToiletPaper
+You saw ToiletPaper (3) near Drawer (1).
+Think: ToiletPaper (3) is in Drawer (1). Now, I need to find another toilet roll. The toilet roll is more likely to appear on CounterTop (1), or in Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the toilet roll.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Towel (1), TowelHolder (1), ToiletPaper (3, 3, 3), SprayBottle (1), SoapBottle (1, 1, 1), Sink (1, 1, 1, 2, 2), SinkBasin (1, 1, 1, 2, 2), ShowerGlass (1, 1, 1), Faucet (1, 1, 1, 2, 2), Drawer (1, 1, 1, 2, 4, 4, 4, 5, 5, 6, 6, 7, 7, 7, 8, 8), DishSponge (3, 3, 3), CounterTop (1, 1, 1). 
+Think: I find ToiletPaper (3). Now, I need to pick it up.
+OK.
+Act: pick up ToiletPaper (3)
+You pick up ToiletPaper (3). You see Towel (1), TowelHolder (1), ToiletPaper (3), SprayBottle (1), SoapBottle (1), Sink (1), SinkBasin (1), ShowerGlass (1), Faucet (1), Drawer (1, 2, 4, 7), DishSponge (3), CounterTop (1). I am holding ToiletPaper (3) now.
+Think: I hold ToiletPaper (3). Now, I need to put it in a drawer.
+OK.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Towel (1, 1, 1), TowelHolder (1, 1, 1), ToiletPaper (3, 3, 3, 3), SprayBottle (1, 1, 1, 1), SoapBottle (1, 1, 1, 1), Sink (1, 1, 1, 1, 2), SinkBasin (1, 1, 1, 1), ShowerGlass (1, 1, 1, 1), Mirror (1), Faucet (1, 1, 1, 1), Drawer (1, 1, 1, 1, 2, 2, 2, 2, 3, 4, 4, 4, 4, 6, 7, 7, 7, 7, 8), DishSponge (3, 3, 3, 3), CounterTop (1, 1, 1, 1). Drawer (2) is closed.  I am holding ToiletPaper (3) now.
+Act: open Drawer (2)
+You open Drawer (2). You see ToiletPaper (3), SprayBottle (1), SoapBottle (1), Sink (1, 2), SinkBasin (1), ShowerGlass (1), Mirror (1), Faucet (1), Drawer (1, 2, 3, 4, 6, 7, 8), DishSponge (3), CounterTop (1). I am holding ToiletPaper (3) now.
+Act: put down ToiletPaper (3)
+You put ToiletPaper (3) on Drawer (2). You see SprayBottle (1), SoapBottle (1), Sink (1, 2), SinkBasin (1), ShowerGlass (1), Mirror (1), Faucet (1), Drawer (1, 2, 3, 4, 6, 7, 8), DishSponge (3), CounterTop (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

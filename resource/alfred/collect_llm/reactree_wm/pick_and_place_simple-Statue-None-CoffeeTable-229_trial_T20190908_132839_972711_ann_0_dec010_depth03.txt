@@ -1,0 +1,23 @@
+Your primary goal is to: take the statue from the desk to the coffee table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up statue, move and pick up statue, and place statue on coffee table.
+Your task is to: move and pick up statue
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2, 3), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), CoffeeTable (1), ArmChair (1). I am holding Statue (1) now.
+Think: First, I need to recall location of the coffee table.
+OK.
+Act: recall location of DeskLamp
+You have not seen DeskLamp before.
+Think: Now, I need to find the coffee table. The coffee table is more likely to appear on SideTable (1-3), or in Drawer (1-4). I can check each place one by one, starting from SideTable (1), until I find the coffee table.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see WateringCan (1), Statue (1), SideTable (1), HousePlant (1).  I am holding Statue (1) now.
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Statue (1), SideTable (2, 3), Painting (3), Laptop (1), Chair (2), Book (1).  I am holding Statue (1) now.
+Act: go to SideTable (3)
+You arrive at SideTable (3). You see Window (2, 3), Statue (1, 2), SideTable (2, 3), Chair (2), Book (1).  I am holding Statue (1) now.
+Think: I find DeskLamp (1). Now, I need to place Statue (1) on it.
+OK.
+Act: put down Statue (1)
+You put down failed, drop it. You see Window (2, 3), Statue (2), SideTable (2, 3), Pencil (1), Chair (2), Book (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

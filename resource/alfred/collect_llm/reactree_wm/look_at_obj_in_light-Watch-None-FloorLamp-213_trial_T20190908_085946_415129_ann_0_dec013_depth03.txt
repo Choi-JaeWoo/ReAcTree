@@ -1,0 +1,45 @@
+Your primary goal is to: Pick up the watch and turn on the lamp
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up watch, and find and turn on lamp.
+Your task is to: find and turn on lamp
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2, 3), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12), DiningTable (1), CoffeeTable (1), ArmChair (1, 2). I am holding Watch (2) now.
+Think: First, I need to recall location of the lamp.
+OK.
+Act: recall location of DeskLamp
+You have not seen DeskLamp before.
+Think: Now I need to find the lamp. The lamp is more likely to appear on SideTable (1-3), Drawer (1-12), or in Dresser (1). I can check each place one by one, starting from SideTable (1), until I find the lamp.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Window (1), Watch (2), SideTable (1, 2), HousePlant (1).  I am holding Watch (2) now.
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Window (1), Watch (2), SideTable (1, 2), HousePlant (1).  I am holding Watch (2) now.
+Act: go to SideTable (3)
+You arrive at SideTable (3). You see Watch (2), SideTable (3).  I am holding Watch (2) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Watch (1, 2), Television (1), Statue (1), RemoteControl (1, 3), Dresser (1), Drawer (1, 2, 4, 5, 6, 7, 8, 9, 11), Book (1, 3). Drawer (1) is closed.  I am holding Watch (2) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 2), Television (1), Statue (1), RemoteControl (3), Dresser (1), Drawer (2, 5, 7), Book (1). Drawer (2) is closed.  I am holding Watch (2) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Watch (2), Television (1), RemoteControl (1), Dresser (1), Drawer (1, 3, 4, 6, 8, 10, 11, 12), Book (1, 3). Drawer (3) is closed.  I am holding Watch (2) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Watch (2), Television (1), RemoteControl (1), Dresser (1), Drawer (1, 3, 4, 6, 8, 9, 10, 11, 12), Book (1, 3). Drawer (4) is closed.  I am holding Watch (2) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Watch (1, 2), Television (1), Statue (1), RemoteControl (3), Dresser (1), Drawer (2, 5, 7), Book (1). Drawer (5) is closed.  I am holding Watch (2) now.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Watch (2), Television (1), RemoteControl (1), Dresser (1), Drawer (1, 3, 4, 6, 8, 9, 10, 11, 12), Book (1, 3). Drawer (6) is closed.  I am holding Watch (2) now.
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see Watch (1, 2), Television (1), Statue (1), RemoteControl (3), Dresser (1), Drawer (2, 5, 7), Book (1, 3). Drawer (7) is closed.  I am holding Watch (2) now.
+Act: go to Drawer (8)
+You arrive at Drawer (8). You see Watch (1, 2), Television (1), Statue (1), RemoteControl (1, 3), Dresser (1), Drawer (1, 2, 4, 5, 6, 7, 8, 9, 11), Book (1, 3). Drawer (8) is closed.  I am holding Watch (2) now.
+Act: go to Drawer (9)
+You arrive at Drawer (9). You see Watch (1, 2), Television (1), Statue (1), RemoteControl (1, 3), Dresser (1), Drawer (1, 2, 4, 5, 6, 7, 8, 9, 11), Book (1, 3). Drawer (9) is closed.  I am holding Watch (2) now.
+Act: go to Drawer (10)
+You arrive at Drawer (10). You see Watch (2), RemoteControl (1), Dresser (1), Drawer (1, 3, 4, 6, 8, 10, 11, 12), Book (1, 3). Drawer (10) is closed.  I am holding Watch (2) now.
+Act: go to Drawer (11)
+You arrive at Drawer (11). You see Watch (2), Television (1), RemoteControl (1), Dresser (1), Drawer (1, 3, 4, 6, 8, 9, 10, 11, 12), Book (1, 3). Drawer (11) is closed.  I am holding Watch (2) now.
+Act: go to Drawer (12)
+You arrive at Drawer (12). You see Watch (2), Television (1), RemoteControl (1), Dresser (1), Drawer (1, 3, 4, 6, 8, 10, 11, 12), Book (1, 3). Drawer (12) is closed.  I am holding Watch (2) now.
+Act: go to Dresser (1)
+You arrive at Dresser (1). You see Watch (2), Television (1), RemoteControl (1), Dresser (1), Drawer (1, 2, 4, 6, 8, 9, 10, 11), Book (1, 3).  I am holding Watch (2) now.
+Think: I cannot find the lamp.
+OK.
+Act: failure

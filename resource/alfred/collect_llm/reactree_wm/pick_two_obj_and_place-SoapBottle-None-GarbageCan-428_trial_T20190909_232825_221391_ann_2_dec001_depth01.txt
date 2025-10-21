@@ -1,0 +1,7 @@
+Your task is to: Put two brown toilet cleaners in a green can.
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), Sink (1, 2), SinkBasin (1, 2), HandTowelHolder (1), GarbageCan (1), CounterTop (1), Cabinet (1, 2, 3, 4).
+Think: Since I’m not holding brown toilet cleaner, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up toilet cleaner, place toilet cleaner in green can, Find and pick up toilet cleaner away from green can, and place toilet cleaner in green can.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up toilet cleaner, place toilet cleaner in green can, Find and pick up toilet cleaner away from green can, place toilet cleaner in green can

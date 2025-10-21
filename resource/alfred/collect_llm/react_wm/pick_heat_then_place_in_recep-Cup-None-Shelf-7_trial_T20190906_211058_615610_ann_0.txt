@@ -1,0 +1,37 @@
+Your task is to: place a heated cup on top of the wooden shelves
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13).
+Think: To solve the task, I need to find and pick up the mug, then put it in the microwave. And I need to turn on and off the microwave. And I need to pick up the mug from the microwave, then put it on the shelf.
+OK.
+Think: First, I need to recall location of mug.
+OK.
+Act: recall location of Mug
+You have not seen Mug before.
+Think: Now I need to find the mug. The mug is more likely to appear on CoffeeMachine (1), CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1-4). I can check each place one by one, starting from CoffeeMachine (1), until I find the mug.
+OK.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see Window (2), SoapBottle (1), Sink (1), SinkBasin (1), CounterTop (1), CoffeeMachine (1), Cabinet (2). 
+Think: I find Mug (1). Now, I need to pick it up.
+OK.
+Act: pick up SoapBottle (1)
+You pick up SoapBottle (1). You see Window (2), SoapBottle (1), Sink (1), SinkBasin (1), CounterTop (1), CoffeeMachine (1), Cabinet (2). I am holding SoapBottle (1) now.
+Think: I hold SoapBottle (1). Now, I need to put it in the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Toaster (1), StoveBurner (4), SoapBottle (1), Microwave (1), Cabinet (3, 10). Microwave (1) is closed.  I am holding SoapBottle (1) now.
+Act: open Microwave (1)
+You open Microwave (1). You see Toaster (1), StoveBurner (4), SoapBottle (1), Microwave (1), Cabinet (3, 10). I am holding SoapBottle (1) now.
+Act: put down SoapBottle (1)
+You put down failed, drop it. You see Toaster (1), StoveBurner (4), SoapBottle (1), Microwave (1), Cabinet (3, 10).
+Act: close Microwave (1)
+You close Microwave (1). You see Toaster (1), StoveBurner (4), Microwave (1), Cabinet (3, 10).
+Think: I put SoapBottle (1) in Microwave (1). Now, I need to turn on and off Microwave (1).
+OK.
+Act: turn on Microwave (1)
+You turn on Microwave (1). You see Toaster (1), StoveBurner (4), Microwave (1), Cabinet (3, 10).
+Act: turn off Microwave (1)
+You turn off Microwave (1). You see Toaster (1), StoveBurner (4), Microwave (1), Cabinet (3, 10).
+Think: Now, I need to pick up the mug from the microwave.
+OK.
+Act: open Microwave (1)
+You open Microwave (1). You see Toaster (1), StoveBurner (4), Microwave (1), Cabinet (3, 10).
+Act: failure

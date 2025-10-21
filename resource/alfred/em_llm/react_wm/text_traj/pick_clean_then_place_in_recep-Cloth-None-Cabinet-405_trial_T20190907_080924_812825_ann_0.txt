@@ -1,0 +1,43 @@
+Your task is to: Put a rinsed cloth in a cabinet.
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1), HandTowelHolder (1, 2), GarbageCan (1), CounterTop (1), Cabinet (1, 2, 3, 4, 5), Bathtub (1), BathtubBasin (1).
+Think: To solve the task, I need to find and pick up the cloth, then put it in the sink basin. And I need to turn on and off the faucet. And I need to pick up the cloth from the sink basin, then put it in the cabinet.
+OK.
+Think: First, I need to recall location of the cloth.
+OK.
+Act: recall location of Cloth
+You have not seen Cloth before.
+Think: Now I need to find the cloth. The cloth is more likely to appear on BathtubBasin (1), SinkBasin (1), or in Cabinet (1-5). I can check each place one by one, starting from BathtubBasin (1), until I find the cloth.
+OK.
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see SoapBar (1, 2), ShowerCurtain (1), Cloth (1), Bathtub (1), BathtubBasin (1). 
+Think: I find Cloth (1). Now, I need to pick it up.
+OK.
+Act: pick up Cloth (1)
+You pick up Cloth (1). You see SoapBar (1, 2), ShowerCurtain (1), Cloth (1), Bathtub (1), BathtubBasin (1). I am holding Cloth (1) now.
+Think: I hold Cloth (1). Now, I need to put it in the sink basin.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see SinkBasin (1), Mirror (1), HandTowel (1), GarbageCan (1), Faucet (2), CounterTop (1), Cloth (1), Cabinet (1, 3, 5).  I am holding Cloth (1) now.
+Act: put down Cloth (1)
+You put Cloth (1) on SinkBasin (1). You see SinkBasin (1), Mirror (1), HandTowel (1), GarbageCan (1), Faucet (2), CounterTop (1), Cloth (1), Cabinet (1, 3, 5).
+Think: I put Cloth (1) in SinkBasin (1). Now, I need to turn on and off Faucet (2).
+OK.
+Act: turn on Faucet (2)
+You turn on Faucet (2). You see SinkBasin (1), Mirror (1), HandTowel (1), GarbageCan (1), Faucet (2), CounterTop (1), Cloth (1), Cabinet (1, 3, 5).
+Act: turn off Faucet (2)
+You turn off Faucet (2). You see SinkBasin (1), Mirror (1), HandTowel (1), GarbageCan (1), Faucet (2), CounterTop (1), Cloth (1), Cabinet (1, 3, 5).
+Think: Now, I need to pick up the cloth from the sink basin.
+OK.
+Act: pick up Cloth (1)
+You pick up Cloth (1). You see SinkBasin (1), Mirror (1), HandTowel (1), GarbageCan (1), Faucet (2), CounterTop (1), Cloth (1), Cabinet (1, 3, 5). I am holding Cloth (1) now.
+Think: I pick up Cloth (1) from SinkBasin (1). Now, I need to put it in the cabinet.
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Toilet (1), SprayBottle (3), SoapBottle (1), SinkBasin (1), GarbageCan (1), CounterTop (1), Cloth (1), Cabinet (1, 3). Cabinet (1) is closed.  I am holding Cloth (1) now.
+Act: open Cabinet (1)
+You open Cabinet (1). You see Toilet (1), ToiletPaperHanger (1), SprayBottle (3), SoapBottle (1), GarbageCan (1), Cloth (1), Cabinet (1, 3). I am holding Cloth (1) now.
+Act: put down Cloth (1)
+You put Cloth (1) on Cabinet (1). You see Toilet (1), ToiletPaperHanger (1), SprayBottle (3), SoapBottle (1), GarbageCan (1), Cloth (1), Cabinet (1, 3).
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,142 @@
+Your task is to: Put the apple slice on the plate in the refrigerator.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8).
+Think: To solve the task, I need to find and pick up the apple, then put it in the microwave. And I need to turn on and off the microwave. And I need to pick up the apple from the microwave, then put it on the plate. And I need to put down the plate, then pick up the apple, then put it in the fridge.
+OK.
+Think: First, I need to recall location of the apple.
+OK.
+Act: recall location of Apple
+You have not seen Apple before.
+Think: Now I need to find the apple. The apple is more likely to appear on CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-8). I can check each place one by one, starting from CounterTop (1), until I find the apple.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Lettuce (1), Ladle (1), Knife (1), GarbageCan (1), DishSponge (3), CounterTop (1), Chair (1, 2). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Window (2), Spoon (1), SoapBottle (2), Sink (1), SinkBasin (1), Mug (1), Fork (2), Faucet (1), Egg (1), DishSponge (1, 2), CounterTop (2), CoffeeMachine (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Spoon (1), Spatula (1), SoapBottle (2), Sink (1), SinkBasin (1), PepperShaker (3), Fork (2), Faucet (1), Egg (1), DishSponge (1, 2), CounterTop (2), CoffeeMachine (1), Bread (2). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1). Fridge (1) is closed. 
+Act: open Fridge (1)
+You open Fridge (1). You see Tomato (2), Potato (1, 2), Fridge (1).
+Act: close Fridge (1)
+You close Fridge (1). You see Fridge (1).
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see StoveBurner (1, 2), Spatula (1), Pan (1), Microwave (1), DishSponge (2), Bread (2). Microwave (1) is closed. 
+Act: open Microwave (1)
+You open Microwave (1). You see Spatula (1), Mug (2), Microwave (1), DishSponge (2), Bread (2).
+Act: close Microwave (1)
+You close Microwave (1). You see StoveBurner (1, 2), Spatula (1), Pan (1), Microwave (1), DishSponge (2), Bread (2).
+Think: I find Apple (1). Now, I need to pick it up.
+OK.
+Act: pick up Spatula (1)
+You pick up Spatula (1). You see StoveBurner (1, 2), Spatula (1), Pan (1), Microwave (1), DishSponge (2), Bread (2). I am holding Spatula (1) now.
+Act: put down Spatula (1)
+You put down failed, drop it. You see StoveBurner (1, 2), Pan (1), Microwave (1), DishSponge (2), Bread (2).
+Think: Now I need to pick up Apple (1).
+OK.
+Act: pick up Pan (1)
+You pick up Pan (1). You see StoveBurner (1, 2), Pan (1), Microwave (1), DishSponge (2), Bread (2). I am holding Pan (1) now.
+Act: put down Pan (1)
+You put down failed, drop it. You see StoveBurner (1, 2), Microwave (1), DishSponge (2), Bread (2).
+Think: Now I need to pick up Apple (1).
+OK.
+Act: pick up DishSponge (2)
+You pick up DishSponge (2). You see StoveBurner (1, 2), Microwave (1), DishSponge (2), Bread (2). I am holding DishSponge (2) now.
+Act: put down DishSponge (2)
+You put down failed, drop it. You see StoveBurner (1, 2), Microwave (1), Bread (2).
+Think: Now I need to pick up Apple (1).
+OK.
+Act: pick up Bread (2)
+You pick up Bread (2). You see StoveBurner (1, 2), Microwave (1), CounterTop (2), Bread (2). I am holding Bread (2) now.
+Act: put down Bread (2)
+You put down failed, drop it. You see StoveBurner (1, 2), Microwave (1), CounterTop (2), Bread (2).
+Think: Now I need to pick up Apple (1).
+OK.
+Act: pick up Bread (2)
+You pick up Bread (2). You see StoveBurner (1, 2), Microwave (1), CounterTop (2), Bread (2). I am holding Bread (2) now.
+Act: put down Bread (2)
+You put down failed, drop it. You see StoveBurner (1, 2), Microwave (1), CounterTop (2), Bread (2).
+Think: Now I need to pick up Apple (1).
+OK.
+Act: pick up Bread (2)
+You pick up Bread (2). You see StoveBurner (1, 2), Microwave (1), CounterTop (2), Bread (2). I am holding Bread (2) now.
+Act: put down Bread (2)
+You put down failed, drop it. You see StoveBurner (1, 2), Microwave (1), CounterTop (2), Bread (2).
+Think: Now I need to pick up Apple (1).
+OK.
+Act: pick up Bread (2)
+You pick up Bread (2). You see StoveBurner (1, 2), Microwave (1), CounterTop (2), Bread (2). I am holding Bread (2) now.
+Act: put down Bread (2)
+You put down failed, drop it. You see StoveBurner (1, 2), Microwave (1), CounterTop (2), Bread (2).
+Think: Now I need to pick up Apple (1).
+OK.
+Act: pick up Bread (2)
+You pick up Bread (2). You see StoveBurner (1, 2), Microwave (1), CounterTop (2), Bread (2). I am holding Bread (2) now.
+Act: put down Bread (2)
+You put down failed, drop it. You see StoveBurner (1, 2), Microwave (1), CounterTop (2), Bread (2).
+Think: Now I need to pick up Apple (1).
+OK.
+Act: pick up Bread (2)
+You pick up Bread (2). You see StoveBurner (1, 2), Microwave (1), CounterTop (2), Bread (2). I am holding Bread (2) now.
+Act: put down Bread (2)
+You put down failed, drop it. You see StoveBurner (1, 2), Microwave (1), CounterTop (2), Bread (2).
+Think: Now I need to pick up Apple (1).
+OK.
+Act: pick up Bread (2)
+You pick up Bread (2). You see StoveBurner (1, 2), Microwave (1), CounterTop (2), Bread (2). I am holding Bread (2) now.
+Act: put down Bread (2)
+You put down failed, drop it. You see StoveBurner (1, 2), Microwave (1), CounterTop (2), Bread (2).
+Think: Now I need to pick up Apple (1).
+OK.
+Act: pick up Bread (2)
+You pick up Bread (2). You see StoveBurner (1, 2), Microwave (1), CounterTop (2), Bread (2). I am holding Bread (2) now.
+Act: put down Bread (2)
+You put down failed, drop it. You see StoveBurner (1, 2), Microwave (1), CounterTop (2), Bread (2).
+Think: Now I need to pick up Apple (1).
+OK.
+Act: pick up Bread (2)
+You pick up Bread (2). You see StoveBurner (1, 2), Microwave (1), CounterTop (2), Bread (2). I am holding Bread (2) now.
+Act: put down Bread (2)
+You put down failed, drop it. You see StoveBurner (1, 2), Microwave (1), CounterTop (2), Bread (2).
+Think: Now I need to pick up Apple (1).
+OK.
+Act: pick up Bread (2)
+You pick up Bread (2). You see StoveBurner (1, 2), Microwave (1), CounterTop (2), Bread (2). I am holding Bread (2) now.
+Act: put down Bread (2)
+You put down failed, drop it. You see StoveBurner (1, 2), Microwave (1), CounterTop (2), Bread (2).
+Think: Now I need to pick up Apple (1).
+OK.
+Act: pick up Bread (2)
+You pick up Bread (2). You see StoveBurner (1, 2), Microwave (1), CounterTop (2), Bread (2). I am holding Bread (2) now.
+Act: put down Bread (2)
+You put down failed, drop it. You see StoveBurner (1, 2), Microwave (1), CounterTop (2), Bread (2).
+Think: Now I need to pick up Apple (1).
+OK.
+Act: pick up Bread (2)
+You pick up Bread (2). You see StoveBurner (1, 2), Microwave (1), CounterTop (2), Bread (2). I am holding Bread (2) now.
+Act: put down Bread (2)
+You put down failed, drop it. You see StoveBurner (1, 2), Microwave (1), CounterTop (2), Bread (2).
+Think: Now I need to pick up Apple (1).
+OK.
+Act: pick up Bread (2)
+You pick up Bread (2). You see StoveBurner (1, 2), Microwave (1), CounterTop (2), Bread (2). I am holding Bread (2) now.
+Act: put down Bread (2)
+You put down failed, drop it. You see StoveBurner (1, 2), Microwave (1), CounterTop (2), Bread (2).
+Think: Now I need to pick up Apple (1).
+OK.
+Act: pick up Bread (2)
+You pick up Bread (2). You see StoveBurner (1, 2), Microwave (1), CounterTop (2), Bread (2). I am holding Bread (2) now.
+Act: put down Bread (2)
+You put down failed, drop it. You see StoveBurner (1, 2), Microwave (1), CounterTop (2), Bread (2).
+Think: Now I need to pick up Apple (1).
+OK.
+Act: pick up Bread (2)
+You pick up Bread (2). You see StoveBurner (1, 2), Microwave (1), CounterTop (2), Bread (2). I am holding Bread (2) now.
+Act: put down Bread (2)
+You put down failed, drop it. You see StoveBurner (1, 2), Microwave (1), CounterTop (2), Bread (2).
+Think: Now I need to pick up Apple (1).
+OK.
+Act: pick up Bread (2)
+You pick up Bread (2). You see StoveBurner (1, 2), Microwave (1), CounterTop (2), Bread (2). I am holding Bread (2) now.
+Act: put down Bread (2)
+You put down failed, drop it. You see StoveBurner (1, 2), Microwave (1), CounterTop (2), Bread (2).

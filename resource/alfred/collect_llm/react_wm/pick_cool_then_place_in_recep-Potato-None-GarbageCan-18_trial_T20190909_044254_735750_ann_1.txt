@@ -1,0 +1,106 @@
+Your task is to: put chilled potato in trash bin
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Safe (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16).
+Think: To solve the task, I need to find and pick up the potato. And I need to put it in the fridge. And I need to pick up the potato from the fridge, then put it in the trash bin.
+OK.
+Think: First, I need to recall location of the potato.
+OK.
+Act: recall location of Potato
+You have not seen Potato before.
+Think: Now I need to find the potato. The potato is more likely to appear on CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-16). I can check each place one by one, starting from CounterTop (1), until I find the potato.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Mug (2), Fork (2), CounterTop (1), CoffeeMachine (1). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Toaster (1), StoveKnob (1, 2, 3, 4), StoveBurner (1, 2, 3), SaltShaker (1), Pot (1), Pan (1), CounterTop (2). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Spatula (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), Cabinet (2, 10, 13). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1). Fridge (1) is closed. 
+Act: open Fridge (1)
+You open Fridge (1). You see Fridge (1).
+Act: close Fridge (1)
+You close Fridge (1). You see Fridge (1).
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1), Fork (3), DishSponge (2). Microwave (1) is closed. 
+Act: open Microwave (1)
+You open Microwave (1). You see Microwave (1), Fork (3), Egg (1), DishSponge (2), Apple (1).
+Act: close Microwave (1)
+You close Microwave (1). You see Microwave (1), Fork (3), DishSponge (2).
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1, 16). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see Cabinet (1).
+Act: close Cabinet (1)
+You close Cabinet (1). You see Cabinet (1, 16).
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Sink (1), SinkBasin (1), CounterTop (1), Cabinet (2, 13). Cabinet (2) is closed. 
+Act: open Cabinet (2)
+You open Cabinet (2). You see Cabinet (2, 8, 13), Bowl (2).
+Act: close Cabinet (2)
+You close Cabinet (2). You see Cabinet (2, 8, 13).
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see Cabinet (3, 9). Cabinet (3) is closed. 
+Act: open Cabinet (3)
+You open Cabinet (3). You see SoapBottle (1), Cabinet (3, 9, 16).
+Act: close Cabinet (3)
+You close Cabinet (3). You see Cabinet (3, 9, 16).
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see Cabinet (4, 6, 11). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+You open Cabinet (4). You see Cabinet (4, 6, 11).
+Act: close Cabinet (4)
+You close Cabinet (4). You see Cabinet (4, 6, 11).
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Toaster (1), StoveKnob (3), StoveBurner (3, 4), SaltShaker (1), Pan (1), Drawer (3), CounterTop (2), Cabinet (5). Cabinet (5) is closed. 
+Act: open Cabinet (5)
+You open Cabinet (5). You see StoveKnob (2, 3), StoveBurner (3), SaltShaker (1), Plate (2), Drawer (3), CounterTop (2), Cabinet (5).
+Act: close Cabinet (5)
+You close Cabinet (5). You see StoveKnob (2, 3), StoveBurner (3), SaltShaker (1), Drawer (3), CounterTop (2), Cabinet (5).
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Window (1), Cabinet (4, 6), Blinds (1). Cabinet (6) is closed. 
+Act: open Cabinet (6)
+You open Cabinet (6). You see Window (1), Cabinet (4, 6), Blinds (1).
+Act: close Cabinet (6)
+You close Cabinet (6). You see Window (1), Cabinet (4, 6), Blinds (1).
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Microwave (1), Knife (1), Fork (3), Drawer (4, 5), DishSponge (2), CounterTop (1), Cabinet (7, 8, 14). Cabinet (7) is closed. 
+Act: open Cabinet (7)
+You open Cabinet (7). You see Drawer (4, 5), Cabinet (7, 8, 14).
+Act: close Cabinet (7)
+You close Cabinet (7). You see Drawer (4, 5), Cabinet (7, 8, 14).
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Microwave (1), Drawer (1, 4), Cabinet (7, 8). Cabinet (8) is closed. 
+Act: open Cabinet (8)
+You open Cabinet (8). You see Drawer (1), Cabinet (2, 7, 8, 14).
+Act: close Cabinet (8)
+You close Cabinet (8). You see Drawer (1), Cabinet (2, 7, 8, 14).
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Cabinet (9). Cabinet (9) is closed. 
+Act: open Cabinet (9)
+You open Cabinet (9). You see SaltShaker (2, 3), Cabinet (3, 9).
+Act: close Cabinet (9)
+You close Cabinet (9). You see Cabinet (3, 9).
+Act: go to Cabinet (10)
+You arrive at Cabinet (10). You see Spatula (2), Sink (1), SinkBasin (1), Kettle (1), Drawer (2), CounterTop (1), Cabinet (2, 10, 13). Cabinet (10) is closed. 
+Act: open Cabinet (10)
+You open Cabinet (10). You see Plate (3), Drawer (2), Cabinet (2, 10, 13).
+Act: close Cabinet (10)
+You close Cabinet (10). You see Drawer (2), Cabinet (2, 10, 13).
+Act: go to Cabinet (11)
+You arrive at Cabinet (11). You see Cabinet (4, 11, 12). Cabinet (11) is closed. 
+Act: open Cabinet (11)
+You open Cabinet (11). You see Cabinet (4, 11, 12).
+Act: close Cabinet (11)
+You close Cabinet (11). You see Cabinet (4, 11, 12).
+Act: go to Cabinet (12)
+You arrive at Cabinet (12). You see Cabinet (4, 11, 12). Cabinet (12) is closed. 
+Act: open Cabinet (12)
+You open Cabinet (12). You see Cabinet (12).
+Act: close Cabinet (12)
+You close Cabinet (12). You see Cabinet (4, 11, 12).
+Act: go to Cabinet (13)
+You arrive at Cabinet (13). You see Spatula (2), Sink (1), SinkBasin (1), Kettle (1), Drawer (2), CounterTop (1), Cabinet (2, 10, 13). Cabinet (13) is closed. 
+Act: open Cabinet (13)
+You open Cabinet (13). You see Drawer (2), Cabinet (2, 10, 13).
+Act: close Cabinet (13)
+You close Cabinet (13). You see Drawer (2), Cabinet (2, 10, 13).

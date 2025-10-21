@@ -1,0 +1,7 @@
+Your task is to: Move the laptops from the sofa to the foot rest.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1), Ottoman (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7), DiningTable (1), CoffeeTable (1), ArmChair (1).
+Think: Since I’m not holding the laptop, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up laptop, place laptop on foot rest, Find and pick up laptop away from foot rest, and place laptop on foot rest.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up laptop, place laptop on foot rest, Find and pick up laptop away from foot rest, and place laptop on foot rest

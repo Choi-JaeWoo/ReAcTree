@@ -1,0 +1,39 @@
+Your primary goal is to: Move the bowl from the TV stand to the coffee table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up bowl, and place bowl on coffee table.
+Your task is to: find and pick up bowl
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8), GarbageCan (1), CoffeeTable (1, 2), ArmChair (1, 2).
+Think: First, I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: Now, I need to find the bowl. The bowl is more likely to appear on CoffeeTable (1-2), TVStand (1), or in Shelf (1-8). I can check each place one by one, starting from CoffeeTable (1), until I find the bowl.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Statue (1), Sofa (1), HousePlant (1), CoffeeTable (1), ArmChair (2). 
+Act: go to CoffeeTable (2)
+You arrive at CoffeeTable (2). You see Laptop (1, 2), CoffeeTable (2). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Watch (1, 2), Vase (2), Television (1), TVStand (1), Shelf (1, 2, 3, 4, 5, 8). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Watch (1, 2), Vase (2), Television (1), TVStand (1), Shelf (1, 2, 3, 4, 8). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Watch (1, 2), Vase (2), Television (1), TVStand (1), Shelf (1, 2, 3, 4, 8). 
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Watch (1, 2), Vase (2), Television (1), TVStand (1), Shelf (1, 2, 3, 4, 5, 8). 
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see Watch (1, 2), Television (1), TVStand (1), Shelf (2, 3, 4, 8). 
+Act: go to Shelf (5)
+You arrive at Shelf (5). You see Watch (1, 2), Vase (2), Television (1), TVStand (1), Shelf (1, 2, 3, 4, 8). 
+Act: go to Shelf (6)
+You arrive at Shelf (6). You see Vase (1, 3), Shelf (6, 7). 
+Act: go to Shelf (7)
+You arrive at Shelf (7). You see Vase (1), Shelf (7). 
+Act: go to Shelf (8)
+You arrive at Shelf (8). You see Watch (1, 2), Television (1), TVStand (1), Shelf (2, 3, 4, 8). 
+Think: I find Bowl (1). Now, I need to pick it up.
+OK.
+Act: pick up Watch (1)
+You pick up Watch (1). You see Watch (1, 2), Television (1), TVStand (1), Shelf (2, 3, 4, 8). I am holding Watch (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

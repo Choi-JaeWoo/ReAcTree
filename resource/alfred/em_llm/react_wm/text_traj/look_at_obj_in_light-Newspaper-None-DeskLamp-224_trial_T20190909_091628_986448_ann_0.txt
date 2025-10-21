@@ -1,0 +1,31 @@
+Your task is to: pick up the newspaper and turn on the light
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2, 3, 4, 5), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21), Cabinet (1), ArmChair (1).
+Think: To solve the task, I need to find and pick up the newspaper. And I need to find and turn on the desk lamp.
+OK.
+Think: First, I need to recall location of the newspaper.
+OK.
+Act: recall location of Newspaper
+You have not seen Newspaper before.
+Think: Now I need to find the newspaper. The newspaper is more likely to appear on Sofa (1), SideTable (1-5), or in Drawer (1-21). I can check each place one by one, starting from Sofa (1), until I find the newspaper.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1), Newspaper (3), KeyChain (2), Box (2). 
+Think: I find Newspaper (3). Now, I need to pick it up.
+OK.
+Act: pick up Newspaper (3)
+You pick up Newspaper (3). You see Sofa (1), Pillow (1), Newspaper (3), KeyChain (2), Box (2). I am holding Newspaper (3) now.
+Think: I hold Newspaper (3). Now, I need to recall location of the desk lamp.
+OK.
+Act: recall location of DeskLamp
+You have not seen DeskLamp before.
+Think: Now I need to find the desk lamp The desk lamp is more likely to appear on SideTable (1-5), or in Drawer (1-21). I can check each place one by one, starting from SideTable (1), until I find the desk lamp.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Newspaper (3), GarbageCan (1), Drawer (3, 5, 19), DeskLamp (1), CreditCard (3).  I am holding Newspaper (3) now.
+Think: I find DeskLamp (1). Now, I need to turn it on.
+OK.
+Act: turn on DeskLamp (1)
+You turn on DeskLamp (1). You see SideTable (1), Newspaper (3), GarbageCan (1), Drawer (3, 5, 19), DeskLamp (1), CreditCard (3). I am holding Newspaper (3) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

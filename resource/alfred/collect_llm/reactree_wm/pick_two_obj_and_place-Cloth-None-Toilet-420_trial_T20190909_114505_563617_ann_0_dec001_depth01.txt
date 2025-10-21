@@ -1,0 +1,7 @@
+Your task is to: Move two purple rags to the toilet tank.
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1, 2), Toilet (1), ToiletPaperHanger (1), Sink (1), SinkBasin (1, 2), SideTable (1), HandTowelHolder (1), GarbageCan (1), Drawer (1), Bathtub (1).
+Think: Since I’m not holding purple rag, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up cloth, place cloth on toilet tank, Find and pick up cloth away from toilet tank, and place cloth on toilet tank.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up cloth, place cloth on toilet tank, Find and pick up cloth away from toilet tank, place cloth on toilet tank

@@ -1,0 +1,201 @@
+Your task is to: place cooled bread on the counter
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13).
+Think: I hold Bread (1). Now, I need to put it on the counter. I can see CounterTop (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (2), Sink (1), SinkBasin (1), Plate (1), PepperShaker (1), Lettuce (1), Knife (2), Faucet (1), Egg (2), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), ButterKnife (1, 2), Bread (1). 
+Max decisions

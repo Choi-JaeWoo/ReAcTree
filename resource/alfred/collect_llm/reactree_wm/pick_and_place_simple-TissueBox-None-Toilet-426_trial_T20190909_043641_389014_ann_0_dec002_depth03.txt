@@ -1,0 +1,71 @@
+Your primary goal is to: Move a box of tissues from the dresser to the lid of the toilet tank.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up box of tissues, and place box of tissues on lid of toilet tank.
+Your task is to: find and pick up box of tissues
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1, 2), Toilet (1), ToiletPaperHanger (1), Sink (1), SinkBasin (1), HandTowelHolder (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1), Bathtub (1), BathtubBasin (1).
+Think: First, I need to recall location of the box of tissues.
+OK.
+Act: recall location of TissueBox
+You have not seen TissueBox before.
+Think: Now, I need to find the box of tissues. The box of tissues is more likely to appear on CounterTop (1), BathtubBasin (1), SinkBasin (1), or in Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the box of tissues.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Towel (1), TowelHolder (1), Drawer (1, 2, 4, 7, 8), CounterTop (1), Candle (2). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Window (1), SoapBar (2), ShowerCurtain (1), Cloth (1), Bathtub (1), BathtubBasin (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see SoapBottle (1), SoapBar (1), Sink (1), SinkBasin (1), Faucet (2). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Towel (1), TowelHolder (1), TissueBox (2), Drawer (1, 2, 4, 7, 8), CounterTop (1), Candle (2). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Towel (1), TowelHolder (1), TissueBox (2), Drawer (1, 2, 4, 7, 8), CounterTop (1), Candle (2).
+Act: close Drawer (1)
+You close Drawer (1). You see Towel (1), TowelHolder (1), TissueBox (2), Drawer (1, 2, 4, 7, 8), CounterTop (1), Candle (2).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see TissueBox (2), Drawer (1, 2, 4, 5, 6, 7, 8), CounterTop (1), Candle (2). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see TissueBox (2), Drawer (1, 2, 4, 5, 6, 7, 8), CounterTop (1), Candle (2).
+Act: close Drawer (2)
+You close Drawer (2). You see TissueBox (2), Drawer (1, 2, 4, 5, 6, 7, 8), CounterTop (1), Candle (2).
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see TissueBox (2), SoapBottle (2), Drawer (2, 3, 4, 5, 6), CounterTop (1). Drawer (3) is closed. 
+Act: open Drawer (3)
+You open Drawer (3). You see TissueBox (2), SoapBottle (2), Drawer (2, 3, 4, 5), CounterTop (1).
+Act: close Drawer (3)
+You close Drawer (3). You see TissueBox (2), SoapBottle (2), Drawer (2, 3, 4, 5, 6), CounterTop (1).
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see TissueBox (2), SoapBottle (2), Drawer (1, 2, 3, 4, 5, 6, 8), CounterTop (1), Candle (2). Drawer (4) is closed. 
+Act: open Drawer (4)
+You open Drawer (4). You see TissueBox (2), SoapBottle (2), Drawer (1, 2, 3, 4, 5, 6, 8), CounterTop (1), Candle (2).
+Act: close Drawer (4)
+You close Drawer (4). You see TissueBox (2), SoapBottle (2), Drawer (1, 2, 3, 4, 5, 6, 8), CounterTop (1), Candle (2).
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see TissueBox (2), SoapBottle (2), Drawer (1, 2, 3, 4, 5, 6, 8), CounterTop (1), Candle (2). Drawer (5) is closed. 
+Act: open Drawer (5)
+You open Drawer (5). You see TissueBox (2), SoapBottle (2), Drawer (1, 2, 3, 5, 6, 8), CounterTop (1), Candle (2).
+Act: close Drawer (5)
+You close Drawer (5). You see TissueBox (2), SoapBottle (2), Drawer (1, 2, 3, 4, 5, 6, 8), CounterTop (1), Candle (2).
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see TissueBox (2), SoapBottle (2), Drawer (2, 3, 4, 5, 6), CounterTop (1). Drawer (6) is closed. 
+Act: open Drawer (6)
+You open Drawer (6). You see TissueBox (2), SoapBottle (2), Drawer (2, 3, 4, 5, 6), CounterTop (1).
+Act: close Drawer (6)
+You close Drawer (6). You see TissueBox (2), SoapBottle (2), Drawer (2, 3, 4, 5, 6), CounterTop (1).
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see Towel (1), TowelHolder (1), TissueBox (2), Drawer (1, 2, 4, 7, 8), CounterTop (1), Candle (2). Drawer (7) is closed. 
+Act: open Drawer (7)
+You open Drawer (7). You see Towel (1), TowelHolder (1), TissueBox (2), Drawer (1, 2, 4, 7, 8), CounterTop (1), Candle (2).
+Act: close Drawer (7)
+You close Drawer (7). You see Towel (1), TowelHolder (1), TissueBox (2), Drawer (1, 2, 4, 7, 8), CounterTop (1), Candle (2).
+Act: go to Drawer (8)
+You arrive at Drawer (8). You see TissueBox (2), Drawer (1, 2, 4, 5, 7, 8), CounterTop (1), Candle (2). Drawer (8) is closed. 
+Act: open Drawer (8)
+You open Drawer (8). You see TissueBox (2), Drawer (1, 4, 5, 6, 7, 8), CounterTop (1), Candle (2).
+Act: close Drawer (8)
+You close Drawer (8). You see TissueBox (2), Drawer (1, 2, 4, 5, 6, 7, 8), CounterTop (1), Candle (2).
+Think: I find TissueBox (2). Now, I need to pick it up.
+OK.
+Act: pick up TissueBox (2)
+You pick up TissueBox (2). You see TissueBox (2), Drawer (1, 2, 4, 5, 6, 7, 8), CounterTop (1), Candle (2). I am holding TissueBox (2) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

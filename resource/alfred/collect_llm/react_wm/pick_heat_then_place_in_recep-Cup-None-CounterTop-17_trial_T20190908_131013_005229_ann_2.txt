@@ -1,0 +1,59 @@
+Your task is to: Put the warm cup on the sink counter
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20).
+Think: To solve the task, I need to find and pick up the cup, then put it in the microwave. And I need to turn on and off the microwave. And I need to pick up the cup from the microwave, then put it on the sink counter.
+OK.
+Think: First, I need to recall location of cup.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the cup. The cup is more likely to appear on CoffeeMachine (1), CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-20), Drawer (1-6). I can check each place one by one, starting from CoffeeMachine (1), until I find the cup.
+OK.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see WineBottle (3), StoveKnob (2), SoapBottle (2), Pot (2), Plate (3), Kettle (1), CounterTop (1), CoffeeMachine (1). 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: pick up WineBottle (3)
+You pick up WineBottle (3). You see WineBottle (3), StoveKnob (2), SoapBottle (2), Pot (2), Plate (3), Kettle (1), CounterTop (1), CoffeeMachine (1). I am holding WineBottle (3) now.
+Think: I hold WineBottle (3). Now, I need to put it in the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see WineBottle (3), Microwave (1), Fridge (1), Drawer (1, 3), CellPhone (2), Cabinet (8, 17). Microwave (1) is closed.  I am holding WineBottle (3) now.
+Act: open Microwave (1)
+You open Microwave (1). You see WineBottle (3), Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17). I am holding WineBottle (3) now.
+Act: put down WineBottle (3)
+You put down failed, drop it. You see WineBottle (3), Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17).
+Act: close Microwave (1)
+You close Microwave (1). You see Microwave (1), Fridge (1), Drawer (1, 3), CellPhone (2), Cabinet (8, 17).
+Think: I put WineBottle (3) in Microwave (1). Now, I need to turn on and off Microwave (1).
+OK.
+Act: turn on Microwave (1)
+You turn on Microwave (1). You see Microwave (1), Fridge (1), Drawer (1, 3), CellPhone (2), Cabinet (8, 17).
+Act: turn off Microwave (1)
+You turn off Microwave (1). You see Microwave (1), Fridge (1), Drawer (1, 3), CellPhone (2), Cabinet (8, 17).
+Think: Now, I need to pick up the cup from the microwave.
+OK.
+Act: open Microwave (1)
+You open Microwave (1). You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17).
+Act: recall location of WineBottle
+You dropped WineBottle due to fail to put it on the receptacle. You need to find it again.
+Think: Now I need to find the WineBottle. The WineBottle is more likely to appear on CoffeeMachine (1), CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-20), Drawer (1-6). I can check each place one by one, starting from CoffeeMachine (1), until I find the WineBottle.
+OK.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see StoveKnob (2), SoapBottle (2), Pot (2), Plate (3), Kettle (1), CounterTop (1), CoffeeMachine (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see SoapBottle (2), Plate (2, 3), Lettuce (3), Knife (1), Drawer (2, 5), CounterTop (1), Cabinet (5, 16). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see WineBottle (3), Window (1), StoveKnob (1), StoveBurner (2), Spatula (1), Sink (1), SinkBasin (1), Potato (1), Pan (1), Faucet (1), Egg (1), DishSponge (2), CounterTop (2), Cabinet (9, 11). 
+Think: I find WineBottle (3). Now, I need to pick it up.
+OK.
+Act: pick up WineBottle (3)
+You pick up WineBottle (3). You see WineBottle (3), Window (1), StoveKnob (1), StoveBurner (2), Sink (1), SinkBasin (1), Pan (1), Faucet (1), CounterTop (2), Cabinet (9, 11). I am holding WineBottle (3) now.
+Think: I pick up WineBottle (3) from SinkBasin (1). Now, I need to put it on the sink counter.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (3), SoapBottle (2), Plate (2, 3), Lettuce (3), Knife (1), Drawer (2, 5), CounterTop (1), Cabinet (5, 16).  I am holding WineBottle (3) now.
+Act: put down WineBottle (3)
+You put WineBottle (3) on CounterTop (1). You see WineBottle (3), SoapBottle (2), Plate (2, 3), Lettuce (3), Knife (1), Drawer (2, 5), CounterTop (1), Cabinet (5, 16).
+Think: Now I accomplish the goal.
+OK.
+Act: done

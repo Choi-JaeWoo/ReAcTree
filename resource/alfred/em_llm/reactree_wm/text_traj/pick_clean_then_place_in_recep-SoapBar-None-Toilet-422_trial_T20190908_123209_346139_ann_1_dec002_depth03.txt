@@ -1,0 +1,65 @@
+Your primary goal is to: Rinse a bar of soap and move it to the toilet.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up soap, clean and pick up soap, and place soap on toilet.
+Your task is to: find and pick up soap
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), Sink (1), SinkBasin (1), Shelf (1, 2), HandTowelHolder (1), GarbageCan (1), Drawer (1, 2), CounterTop (1, 2), Cabinet (1, 2, 3, 4, 5), Bathtub (1), BathtubBasin (1).
+Think: First, I need to recall location of the soap.
+OK.
+Act: recall location of SoapBar
+You have not seen SoapBar before.
+Think: Now, I need to find the soap. The soap is more likely to appear on CounterTop (1-2), SinkBasin (1), or in Cabinet (1-5), Drawer (1-2). I can check each place one by one, starting from CounterTop (1), until I find the soap.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see TissueBox (1), SprayBottle (1, 2, 3), SoapBottle (1), SoapBar (1), GarbageCan (1), Drawer (2), CounterTop (1), Candle (3), Cabinet (1, 4). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Sink (1), SinkBasin (1), Faucet (2), CounterTop (2), Cabinet (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), Mirror (1), Faucet (2), CounterTop (2), Cabinet (1). 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see SoapBar (2), Sink (1), SinkBasin (1), CounterTop (2), Cabinet (1), Bathtub (1). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see Cloth (3), Cabinet (1), Bathtub (1), BathtubBasin (1).
+Act: close Cabinet (1)
+You close Cabinet (1). You see Cloth (3), Cabinet (1), Bathtub (1), BathtubBasin (1).
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Toilet (1), ScrubBrush (1). Cabinet (2) is closed. 
+Act: open Cabinet (2)
+You open Cabinet (2). You see Toilet (1), ScrubBrush (1), Cabinet (2).
+Act: close Cabinet (2)
+You close Cabinet (2). You see Toilet (1), ScrubBrush (1).
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see Cabinet (3). Cabinet (3) is closed. 
+Act: open Cabinet (3)
+You open Cabinet (3). You see Cabinet (3).
+Act: close Cabinet (3)
+You close Cabinet (3). You see Cabinet (3).
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see SprayBottle (1, 2, 3), SoapBottle (1), GarbageCan (1), Drawer (2), CounterTop (1), Cabinet (1, 4). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+You open Cabinet (4). You see SoapBottle (1), GarbageCan (1), Drawer (2), Cabinet (1, 4).
+Act: close Cabinet (4)
+You close Cabinet (4). You see SoapBottle (1), GarbageCan (1), Drawer (2), Cabinet (1, 4).
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Cabinet (5). Cabinet (5) is closed. 
+Act: open Cabinet (5)
+You open Cabinet (5). You see Mirror (1), Cabinet (5).
+Act: close Cabinet (5)
+You close Cabinet (5). You see Mirror (1), Cabinet (5).
+Act: go to Drawer (1)
+You arrive at Drawer (1). There are no visible objects.. Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Drawer (1).
+Act: close Drawer (1)
+You close Drawer (1). You see .
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see TissueBox (1), SprayBottle (1, 2, 3), SoapBottle (1), SoapBar (1, 4), GarbageCan (1), Drawer (2), CounterTop (1), Candle (3), Cabinet (1, 4). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see TissueBox (1), SprayBottle (2, 3), SoapBottle (1), SoapBar (1, 4), GarbageCan (1), Drawer (2), CounterTop (1), Candle (3), Cabinet (1).
+Act: close Drawer (2)
+You close Drawer (2). You see TissueBox (1), SprayBottle (2, 3), SoapBottle (1), SoapBar (1, 4), GarbageCan (1), Drawer (2), CounterTop (1), Candle (3), Cabinet (1, 4).
+Think: I find SoapBar (1). Now, I need to pick it up.
+OK.
+Act: pick up SoapBar (1)
+You pick up SoapBar (1). You see TissueBox (1), SprayBottle (2, 3), SoapBottle (1), SoapBar (1, 4), GarbageCan (1), Drawer (2), CounterTop (1), Candle (3), Cabinet (1, 4). I am holding SoapBar (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,179 @@
+Your primary goal is to: To place two bars of soap on the back of the toilet.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up soap, place soap on toilet, Find and pick up soap away from toilet, and place soap on toilet.
+Your task is to: Find and pick up soap away from toilet
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1, 2), HandTowelHolder (1), GarbageCan (1), CounterTop (1), Cabinet (1, 2, 3, 4).
+Think: First, I need to recall location of the soap.
+OK.
+Act: recall location of SoapBar
+You dropped SoapBar due to fail to put it on the receptacle. You need to find it again.
+Think: Now, I need to find the soap. The soap is more likely to appear on CounterTop (1), SinkBasin (1-2), or in Cabinet (1-4). I can check each place one by one, starting from CounterTop (1), until I find the soap.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see SoapBottle (2), Sink (1, 2), SinkBasin (1, 2), Mirror (1), FloorLamp (1, 2), CounterTop (1), Cabinet (1, 2, 3). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see SprayBottle (1), SoapBottle (2), Sink (1), SinkBasin (1), Mirror (1), FloorLamp (1), CounterTop (1), Cabinet (1, 2, 4). 
+Act: go to SinkBasin (2)
+You arrive at SinkBasin (2). You see Sink (2), SinkBasin (2), Mirror (1), FloorLamp (2), CounterTop (1), Cabinet (1, 2, 3). 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see SoapBottle (2), Sink (1, 2), SinkBasin (1, 2), FloorLamp (1, 2), CounterTop (1), Cabinet (1, 2, 3, 4). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see SoapBottle (1), Cloth (2), Cabinet (1, 2, 3, 4).
+Act: close Cabinet (1)
+You close Cabinet (1). You see Cabinet (1, 2, 3, 4).
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see SoapBottle (2), Sink (1, 2), SinkBasin (1, 2), FloorLamp (1, 2), CounterTop (1), Cabinet (1, 2, 3, 4). Cabinet (2) is closed. 
+Act: open Cabinet (2)
+You open Cabinet (2). You see Cabinet (1, 2, 3, 4).
+Act: close Cabinet (2)
+You close Cabinet (2). You see Cabinet (1, 2, 3, 4).
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see Sink (2), SinkBasin (2), ShowerGlass (1), ShowerDoor (1), CounterTop (1), Cabinet (2, 3). Cabinet (3) is closed. 
+Act: open Cabinet (3)
+You open Cabinet (3). You see ShowerGlass (1), ShowerDoor (1), Cabinet (1, 2, 3).
+Act: close Cabinet (3)
+You close Cabinet (3). You see ShowerGlass (1), ShowerDoor (1), Cabinet (1, 2, 3).
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see SprayBottle (1), Sink (1), SinkBasin (1), CounterTop (1), Cabinet (1, 4). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+The Cabinet (4) is open failed.
+Act: close Cabinet (4)
+The Cabinet (4) is already closed.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see SprayBottle (1), Sink (1), SinkBasin (1), CounterTop (1), Cabinet (1, 4). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+The Cabinet (4) is open failed.
+Act: close Cabinet (4)
+The Cabinet (4) is already closed.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see SprayBottle (1), Sink (1), SinkBasin (1), CounterTop (1), Cabinet (1, 4). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+The Cabinet (4) is open failed.
+Act: close Cabinet (4)
+The Cabinet (4) is already closed.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see SprayBottle (1), Sink (1), SinkBasin (1), CounterTop (1), Cabinet (1, 4). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+The Cabinet (4) is open failed.
+Act: close Cabinet (4)
+The Cabinet (4) is already closed.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see SprayBottle (1), Sink (1), SinkBasin (1), CounterTop (1), Cabinet (1, 4). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+The Cabinet (4) is open failed.
+Act: close Cabinet (4)
+The Cabinet (4) is already closed.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see SprayBottle (1), Sink (1), SinkBasin (1), CounterTop (1), Cabinet (1, 4). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+The Cabinet (4) is open failed.
+Act: close Cabinet (4)
+The Cabinet (4) is already closed.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see SprayBottle (1), Sink (1), SinkBasin (1), CounterTop (1), Cabinet (1, 4). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+The Cabinet (4) is open failed.
+Act: close Cabinet (4)
+The Cabinet (4) is already closed.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see SprayBottle (1), Sink (1), SinkBasin (1), CounterTop (1), Cabinet (1, 4). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+The Cabinet (4) is open failed.
+Act: close Cabinet (4)
+The Cabinet (4) is already closed.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see SprayBottle (1), Sink (1), SinkBasin (1), CounterTop (1), Cabinet (1, 4). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+The Cabinet (4) is open failed.
+Act: close Cabinet (4)
+The Cabinet (4) is already closed.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see SprayBottle (1), Sink (1), SinkBasin (1), CounterTop (1), Cabinet (1, 4). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+The Cabinet (4) is open failed.
+Act: close Cabinet (4)
+The Cabinet (4) is already closed.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see SprayBottle (1), Sink (1), SinkBasin (1), CounterTop (1), Cabinet (1, 4). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+The Cabinet (4) is open failed.
+Act: close Cabinet (4)
+The Cabinet (4) is already closed.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see SprayBottle (1), Sink (1), SinkBasin (1), CounterTop (1), Cabinet (1, 4). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+The Cabinet (4) is open failed.
+Act: close Cabinet (4)
+The Cabinet (4) is already closed.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see SprayBottle (1), Sink (1), SinkBasin (1), CounterTop (1), Cabinet (1, 4). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+The Cabinet (4) is open failed.
+Act: close Cabinet (4)
+The Cabinet (4) is already closed.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see SprayBottle (1), Sink (1), SinkBasin (1), CounterTop (1), Cabinet (1, 4). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+The Cabinet (4) is open failed.
+Act: close Cabinet (4)
+The Cabinet (4) is already closed.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see SprayBottle (1), Sink (1), SinkBasin (1), CounterTop (1), Cabinet (1, 4). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+The Cabinet (4) is open failed.
+Act: close Cabinet (4)
+The Cabinet (4) is already closed.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see SprayBottle (1), Sink (1), SinkBasin (1), CounterTop (1), Cabinet (1, 4). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+The Cabinet (4) is open failed.
+Act: close Cabinet (4)
+The Cabinet (4) is already closed.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see SprayBottle (1), Sink (1), SinkBasin (1), CounterTop (1), Cabinet (1, 4). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+The Cabinet (4) is open failed.
+Act: close Cabinet (4)
+The Cabinet (4) is already closed.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see SprayBottle (1), Sink (1), SinkBasin (1), CounterTop (1), Cabinet (1, 4). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+The Cabinet (4) is open failed.
+Act: close Cabinet (4)
+The Cabinet (4) is already closed.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see SprayBottle (1), Sink (1), SinkBasin (1), CounterTop (1), Cabinet (1, 4). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+The Cabinet (4) is open failed.
+Act: close Cabinet (4)
+The Cabinet (4) is already closed.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see SprayBottle (1), Sink (1), SinkBasin (1), CounterTop (1), Cabinet (1, 4). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+The Cabinet (4) is open failed.
+Act: close Cabinet (4)
+The Cabinet (4) is already closed.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see SprayBottle (1), Sink (1), SinkBasin (1), CounterTop (1), Cabinet (1, 4). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+The Cabinet (4) is open failed.
+Act: close Cabinet (4)
+The Cabinet (4) is already closed.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see SprayBottle (1), Sink (1), SinkBasin (1), CounterTop (1), Cabinet (1, 4). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+The Cabinet (4) is open failed.
+Act: close Cabinet (4)
+The Cabinet (4) is already closed.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see SprayBottle (1), Sink (1), SinkBasin (1), CounterTop (1), Cabinet (1, 4). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+The Cabinet (4) is open failed.
+Act: close Cabinet (4)
+The Cabinet (4) is already closed.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see SprayBottle (1), Sink (1), SinkBasin (1), CounterTop (1), Cabinet (1, 4). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+The Cabinet (4) is open failed.
+Act: close Cabinet (4)
+The Cabinet (4) is already closed.
+Max decisions

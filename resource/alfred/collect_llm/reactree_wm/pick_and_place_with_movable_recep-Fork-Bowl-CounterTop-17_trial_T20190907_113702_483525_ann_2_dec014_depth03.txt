@@ -1,0 +1,19 @@
+Your primary goal is to: Put a bowl with a fork in it on the counter.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up bowl, place bowl on counter, find and pick up fork, and place fork in bowl near counter.
+Your task is to: find and pick up fork
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20).
+Think: First, I need to recall location of the fork.
+OK.
+Act: recall location of Fork
+You saw Fork (1) near DiningTable (1). You saw Fork (2) near DiningTable (2). You saw Fork (3) near CounterTop (1).
+Think: I can find Fork (1) near DiningTable (1). I can find Fork (2) near DiningTable (2). I can find Fork (3) near CounterTop (1).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (1), Window (2), Spoon (1), PepperShaker (1), Lettuce (1), Knife (2), Fork (1), DiningTable (1), Chair (1), ButterKnife (3), Bread (1). 
+Think: I find Fork (1). Now, I need to pick it up.
+OK.
+Act: pick up Fork (1)
+You pick up Fork (1). You see WineBottle (1), Window (2), Spoon (1), PepperShaker (1), Lettuce (1), Knife (2), Fork (1), DiningTable (1), Chair (1), ButterKnife (3), Bread (1). I am holding Fork (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

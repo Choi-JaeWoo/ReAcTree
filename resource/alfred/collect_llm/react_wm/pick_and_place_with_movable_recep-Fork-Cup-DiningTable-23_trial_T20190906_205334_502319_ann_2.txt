@@ -1,0 +1,47 @@
+Your task is to: Put a glass with a fork inside on a the green table.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2), DiningTable (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10).
+Think: To solve the task, I need to find and pick up the glass, then put it on the green table. And I need to find and pick up the fork, then put it in the glass on the green table.
+OK.
+Think: First, I need to recall location of the glass.
+OK.
+Act: recall location of Glassbottle
+You have not seen Glassbottle before.
+Think: Now I need to find the glass. The glass is more likely to appear on DiningTable (1), CounterTop (1), SinkBasin (1) or in Fridge (1), Microwave (1), Cabinet (1-10), Drawer (1-2). I can check each place one by one, starting from DiningTable (1), until I find the glass.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (1), Tomato (1), Spatula (1), SoapBottle (2), SaltShaker (1), PepperShaker (2), Pen (1, 2, 3), Mug (2, 3), Lettuce (1), Knife (1, 2, 3), Fork (3), Egg (3), DiningTable (1), Chair (1, 2), Bowl (1, 2). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), Sink (1), SinkBasin (1), Drawer (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 7), Apple (2). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Toaster (1), Sink (1), SinkBasin (1), Glassbottle (1), Faucet (1), CounterTop (1), Cabinet (4, 7). 
+Think: I find Glassbottle (1). Now, I need to pick it up.
+OK.
+Act: pick up Glassbottle (1)
+You pick up Glassbottle (1). You see Toaster (1), Sink (1), SinkBasin (1), Glassbottle (1), Faucet (1), CounterTop (1), Cabinet (4, 7). I am holding Glassbottle (1) now.
+Think: I hold Glassbottle (1). Now, I need to put it on the green table.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (1), Tomato (1), Spatula (1), SoapBottle (2), SaltShaker (1), PepperShaker (2), Pen (1, 2, 3), Mug (2, 3), Lettuce (1), Knife (1, 2, 3), Glassbottle (1), Fork (3), Egg (3), DiningTable (1), Chair (1, 2), Bowl (1, 2).  I am holding Glassbottle (1) now.
+Act: put down Glassbottle (1)
+You put Glassbottle (1) on DiningTable (1). You see WineBottle (1), Tomato (1), Spatula (1), SoapBottle (2), SaltShaker (1), PepperShaker (2), Pen (1, 2, 3), Mug (2, 3), Lettuce (1), Knife (1, 2, 3), Glassbottle (1), Fork (3), Egg (3), DiningTable (1), Chair (1, 2), Bowl (1, 2).
+Think: I put Glassbottle (1) on the DiningTable (1). Now, I need to recall location of the fork.
+OK.
+Act: recall location of Fork
+You saw Fork (3) near DiningTable (1).
+Think: Fork (3) is on the DiningTable (1). Now, I need to pick it up.
+OK.
+Act: pick up Fork (3)
+You pick up Fork (3). You see WineBottle (1), Tomato (1), Spatula (1), SoapBottle (2), SaltShaker (1), PepperShaker (2), Pen (1, 2, 3), Mug (2, 3), Lettuce (1), Knife (1, 2, 3), Glassbottle (1), Fork (3), Egg (3), DiningTable (1), Chair (1, 2), Bowl (1, 2). I am holding Fork (3) now.
+Think: I hold Fork (3). Now, I need to recall location of the glass.
+OK.
+Act: recall location of Glassbottle
+You saw Glassbottle (1) near DiningTable (1).
+Think: Glassbottle (1) is on the DiningTable (1). Now, I need to put Fork (3) in Glassbottle (1).
+OK.
+Act: go to Glassbottle (1)
+You already arrive at Glassbottle (1). You see WineBottle (1, 1), Tomato (1, 1), Spatula (1, 1), SoapBottle (2, 2), SaltShaker (1, 1), PepperShaker (1, 2, 2), Pen (1, 1, 2, 2, 3, 3), Mug (2, 2, 3, 3), Lettuce (1, 1), Knife (1, 1, 2, 2, 3, 3), Glassbottle (1, 1), Fork (3, 3), Egg (3, 3), DiningTable (1, 1), Chair (1, 2), Bowl (1, 1, 2, 2).  I am holding Fork (3) now.
+Act: put down Fork (3)
+You put down failed, drop it. You see WineBottle (1), Tomato (1), Spatula (1), SoapBottle (2), SaltShaker (1), PepperShaker (1, 2), Pen (1, 2, 3), Mug (2, 3), Lettuce (1), Knife (1, 2, 3), Glassbottle (1), Fork (3), Egg (3), DiningTable (1), Bowl (1, 2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,19 @@
+Your primary goal is to: Place a pan with a slice of tomato onto the island.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pan, place pan on island, find and pick up tomato, and place tomato on pan near island.
+Your task is to: find and pick up tomato
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2), DiningTable (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10).
+Think: First, I need to recall location of the tomato.
+OK.
+Act: recall location of Tomato
+You saw Tomato (2) near DiningTable (1). You saw Tomato (1) near Fridge (1).
+Think: I can find Tomato (2) near DiningTable (1).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (1), Tomato (2), Spatula (1), SoapBottle (2), SaltShaker (1, 2), Plate (2), PepperShaker (1), Pencil (2), Lettuce (1), Glassbottle (2), Fork (1, 2), DiningTable (1), Chair (1, 2), Bowl (1). 
+Think: I find Tomato (2). Now, I need to pick it up.
+OK.
+Act: pick up Tomato (2)
+You pick up Tomato (2). You see WineBottle (1), Tomato (2), Spatula (1), SoapBottle (2), SaltShaker (1, 2), Plate (2), PepperShaker (1), Pencil (2), Lettuce (1), Glassbottle (2), Fork (1, 2), DiningTable (1), Chair (1, 2), Bowl (1). I am holding Tomato (2) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

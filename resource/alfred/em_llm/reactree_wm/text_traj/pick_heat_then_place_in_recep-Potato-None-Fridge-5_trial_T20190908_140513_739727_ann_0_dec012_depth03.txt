@@ -1,0 +1,27 @@
+Your primary goal is to: Put a heated potato in the fridge. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up potato, heat and pick up potato, and place potato in fridge.
+Your task is to: heat and pick up potato
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20). I am holding Potato (1) now.
+Think: I hold Potato (1). Now, I need to heat it using the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Tomato (2), Potato (1), Microwave (1), Fridge (1), CounterTop (1), Cabinet (7). Microwave (1) is closed.  I am holding Potato (1) now.
+Act: open Microwave (1)
+You open Microwave (1). You see Tomato (2), Potato (1), Microwave (1), Fridge (1), CounterTop (1), Cabinet (7), Apple (1). I am holding Potato (1) now.
+Act: put down Potato (1)
+You put Potato (1) on Microwave (1). You see Tomato (2), Potato (1), Microwave (1), Fridge (1), CounterTop (1), Cabinet (7), Apple (1).
+Act: close Microwave (1)
+You close Microwave (1). You see Tomato (2), Microwave (1), Fridge (1), CounterTop (1), Cabinet (7), Apple (1).
+Act: turn on Microwave (1)
+You turn on Microwave (1). You see Tomato (2), Microwave (1), Fridge (1), CounterTop (1), Cabinet (7), Apple (1).
+Act: turn off Microwave (1)
+You turn off Microwave (1). You see Tomato (2), Microwave (1), Fridge (1), CounterTop (1), Cabinet (7), Apple (1).
+Think: I heat Potato (1) using Microwave (1). Now, I need to pick up the potato from the microwave.
+OK.
+Act: open Microwave (1)
+You open Microwave (1). You see Tomato (2), Potato (1), Microwave (1), Fridge (1), CounterTop (1), Cabinet (7), Apple (1).
+Act: pick up Potato (1)
+You pick up Potato (1). You see Tomato (2), Potato (1), Microwave (1), Fridge (1), CounterTop (1), Cabinet (7), Apple (1). I am holding Potato (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

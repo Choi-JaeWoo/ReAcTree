@@ -1,0 +1,25 @@
+Your primary goal is to: Move two saltshakers out of cupboards onto the countertop
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up saltshaker, place saltshaker on countertop, find and pick up saltshaker away from countertop, and place saltshaker on countertop.
+Your task is to: find and pick up saltshaker away from countertop
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13).
+Think: First, I need to recall location of the saltshaker.
+OK.
+Act: recall location of SaltShaker
+You saw SaltShaker (4) near CounterTop (1).
+Think: SaltShaker (4) is on CounterTop (1). I can find another saltshaker, SaltShaker (5), in Cabinet (1).
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1, 6, 9, 11). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see Cabinet (1), Bowl (1).
+Think: I find SaltShaker (5). Now, I need to pick it up.
+OK.
+Act: pick up Bowl (1)
+
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1, 6, 9, 11), Bowl (1). Cabinet (1) is open. 
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Cabinet (1, 6, 9, 11), Bowl (1). I am holding Bowl (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

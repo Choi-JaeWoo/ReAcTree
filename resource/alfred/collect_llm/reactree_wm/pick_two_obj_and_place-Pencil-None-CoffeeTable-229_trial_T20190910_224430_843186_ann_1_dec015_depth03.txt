@@ -1,0 +1,19 @@
+Your primary goal is to: Move two pencils from tv stand to coffee table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pencil, place pencil on coffee table, Find and pick up pencil away from coffee table, and place pencil on coffee table.
+Your task is to: Find and pick up pencil away from coffee table
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2, 3), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), CoffeeTable (1), ArmChair (1).
+Think: First, I need to recall location of the pencil.
+OK.
+Act: recall location of Pencil
+You saw Pencil (1) near CoffeeTable (1).
+Think: I can find Pencil (1) near CoffeeTable (1).
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see TissueBox (1, 2, 3), Statue (1, 2), RemoteControl (1), Pencil (1), Pen (1, 3), KeyChain (1), CoffeeTable (1), Box (1), Book (2). 
+Think: I find Pencil (1). Now, I need to pick it up.
+OK.
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see TissueBox (1, 2, 3), Statue (1, 2), RemoteControl (1), Pencil (1), Pen (1, 3), KeyChain (1), CoffeeTable (1), Box (1), Book (2). I am holding Pencil (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

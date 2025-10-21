@@ -1,0 +1,45 @@
+Your task is to: Move a cell phone and bowl to the desk.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1), GarbageCan (1), Drawer (1, 2), Desk (1), Bed (1).
+Think: To solve the task, I need to find and pick up the cell phone and bowl, then put them on the desk.
+OK.
+Think: First, I need to recall location of the cell phone.
+OK.
+Act: recall location of CellPhone
+You have not seen CellPhone before.
+Think: Now I need to find the cell phone. The cell phone is more likely to appear on Desk (1), SideTable (1), or in Drawer (1-2). I can check each place one by one, starting from Desk (1), until I find the cell phone.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pencil (2), Pen (1), Desk (1), Chair (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Drawer (1, 2), Bowl (1), Bed (1), AlarmClock (2). 
+Think: I find CellPhone (1). Now, I need to pick it up.
+OK.
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see SideTable (1), Drawer (1), Bowl (1), Bed (1), AlarmClock (2). I am holding Bowl (1) now.
+Think: I hold Bowl (1). Now, I need to put it on the desk.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pencil (2), Pen (1), Desk (1), Chair (1), Bowl (1).  I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put Bowl (1) on Desk (1). You see Pencil (2), Pen (1), Desk (1), Chair (1), Bowl (1).
+Think: Now I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You saw Bowl (1) near Desk (1).
+Think: Now I need to find the bowl. The bowl is more likely to appear on Desk (1), SideTable (1), or in Drawer (1-2). I can check each place one by one, starting from Desk (1), until I find the bowl.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pencil (2), Pen (1), Desk (1), Chair (1), Bowl (1). 
+Think: I find Bowl (1). Now, I need to pick it up.
+OK.
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Pencil (2), Pen (1), Desk (1), Chair (1), Bowl (1). I am holding Bowl (1) now.
+Think: I hold Bowl (1). Now, I need to put it on the desk.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pencil (2), Pen (1), Desk (1), Chair (1), Bowl (1).  I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put Bowl (1) on Desk (1). You see Pencil (2), Pen (1), Desk (1), Chair (1), Bowl (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

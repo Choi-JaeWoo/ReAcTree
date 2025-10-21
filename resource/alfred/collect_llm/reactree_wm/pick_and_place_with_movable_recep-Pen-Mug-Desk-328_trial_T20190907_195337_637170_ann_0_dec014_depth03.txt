@@ -1,0 +1,19 @@
+Your primary goal is to: Put a cup with a pen on the desk to the left of the bed.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up cup, place cup on desk, and find and pick up pen.
+Your task is to: find and pick up pen
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1), GarbageCan (1), Drawer (1, 2), Desk (1), Bed (1).
+Think: First, I need to recall location of the pen.
+OK.
+Act: recall location of Pen
+You saw Pen (1) near Desk (1). You saw Pen (2) near Desk (1).
+Think: I can find Pen (1) near Desk (1).
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Window (2), TissueBox (2), Pencil (1, 2), Pen (1, 2), Mug (1), Desk (1), Chair (1), CellPhone (2), Book (1). 
+Think: I find Pen (1). Now, I need to pick it up.
+OK.
+Act: pick up Pen (1)
+You pick up Pen (1). You see Window (2), TissueBox (2), Pencil (1, 2), Pen (1, 2), Mug (1), Desk (1), Chair (1), CellPhone (2), Book (1). I am holding Pen (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,45 @@
+Your task is to: Put a pot with lettuce in it on the counter.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20).
+Think: To solve the task, I need to find and pick up the pot. And I need to find and put the lettuce in the pot. And I need to put down the pot, then pick it up again, then put it on the counter.
+OK.
+Think: First, I need to recall location of the pot.
+OK.
+Act: recall location of Pot
+You have not seen Pot before.
+Think: Now I need to find the pot. The pot is more likely to appear on DiningTable (1-2), CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-20), Drawer (1-6). I can check each place one by one, starting from DiningTable (1), until I find the pot.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Window (2), SoapBottle (2), Mug (3), Kettle (1), DishSponge (1), DiningTable (1), Chair (1), Apple (1). 
+Think: I find Pot (1). Now, I need to pick it up.
+OK.
+Act: pick up Kettle (1)
+You pick up Kettle (1). You see Window (2), SoapBottle (2), Mug (3), Kettle (1), DishSponge (1), DiningTable (1), Apple (1). I am holding Kettle (1) now.
+Think: I hold Kettle (1). Now, I need to recall location of the lettuce.
+OK.
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Think: Now I need to find the lettuce. The lettuce is more likely to appear on DiningTable (1-2), CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-20), Drawer (1-6). I can check each place one by one, starting from DiningTable (1), until I find the lettuce.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Window (2), SoapBottle (2), Mug (3), Kettle (1), DishSponge (1), DiningTable (1), Apple (1).  I am holding Kettle (1) now.
+Think: I find Lettuce (1). Now, I need to put it in the pot.
+OK.
+Act: put down Kettle (1)
+You put Kettle (1) on DiningTable (1). You see Window (2), SoapBottle (2), Mug (3), Kettle (1), DishSponge (1), DiningTable (1), Chair (1), Apple (1).
+Act: pick up Kettle (1)
+You pick up Kettle (1). You see Window (2), SoapBottle (2), Mug (3), Kettle (1), DishSponge (1), DiningTable (1), Apple (1). I am holding Kettle (1) now.
+Act: put down Kettle (1)
+You put down failed, drop it. You see Window (2), SoapBottle (2), Mug (3), Kettle (1), DishSponge (1), DiningTable (1), Apple (1).
+Think: Now I need to pick up Lettuce (1).
+OK.
+Act: pick up Kettle (1)
+You pick up Kettle (1). You see Window (2), SoapBottle (2), Mug (3), Kettle (1), DishSponge (1), DiningTable (1), Apple (1). I am holding Kettle (1) now.
+Think: I hold Kettle (1). Now, I need to put it on the counter.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Plate (1), Mug (2), Lettuce (1), Knife (1), Kettle (1), Glassbottle (1), Drawer (5), CounterTop (1), CellPhone (1), Cabinet (5), Bread (1).  I am holding Kettle (1) now.
+Act: put down Kettle (1)
+You put Kettle (1) on CounterTop (1). You see Spatula (1), Plate (1), Mug (2), Lettuce (1), Knife (1), Kettle (1), Glassbottle (1), Drawer (2, 5), CounterTop (1), CellPhone (1), Cabinet (5, 16), Bread (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

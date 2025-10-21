@@ -1,0 +1,19 @@
+Your primary goal is to: Place the pencil on a plate on the coffee table. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pencil, place pencil on plate, find and pick up plate, and place plate on coffee table.
+Your task is to: find and pick up pencil
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1), Ottoman (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7), DiningTable (1), CoffeeTable (1), ArmChair (1).
+Think: First, I need to recall location of the pencil.
+OK.
+Act: recall location of Pencil
+You have not seen Pencil before.
+Think: Now, I need to find the pencil. The pencil is more likely to appear on CoffeeTable (1), SideTable (1), Sofa (1), ArmChair (1), or in Drawer (1-7). I can check each place one by one, starting from CoffeeTable (1), until I find the pencil.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). 
+Think: I find Pencil (1). Now, I need to pick it up.
+OK.
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see Watch (2), Vase (1), Pencil (1, 2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), Book (3). I am holding Pencil (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

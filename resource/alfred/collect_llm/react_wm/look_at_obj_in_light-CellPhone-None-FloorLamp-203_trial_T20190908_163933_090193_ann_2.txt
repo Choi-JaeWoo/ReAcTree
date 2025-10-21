@@ -1,0 +1,53 @@
+Your task is to: turn on the lamp while holding a phone
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1), Ottoman (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7), DiningTable (1), CoffeeTable (1), ArmChair (1).
+Think: To solve the task, I need to find and pick up the phone. And I need to find and turn on the lamp.
+OK.
+Think: First, I need to recall location of the phone.
+OK.
+Act: recall location of CellPhone
+You have not seen CellPhone before.
+Think: Now I need to find the cell phone. The cell phone is more likely to appear on Sofa (1), SideTable (1), Ottoman (1), CoffeeTable (1), ArmChair (1), or in Drawer (1-7). I can check each place one by one, starting from Sofa (1), until I find the cell phone.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), KeyChain (1), CreditCard (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see WateringCan (1), Vase (1), SideTable (1), Pencil (1, 2), HousePlant (1), Drawer (4). 
+Act: go to Ottoman (1)
+You arrive at Ottoman (1). You see RemoteControl (2), Pillow (1), Ottoman (1), Laptop (1), CellPhone (1), ArmChair (1). 
+Think: I find CellPhone (1). Now, I need to pick it up.
+OK.
+Act: pick up CellPhone (1)
+You pick up CellPhone (1). You see RemoteControl (2), Pillow (1), Ottoman (1), Laptop (1), CellPhone (1), ArmChair (1). I am holding CellPhone (1) now.
+Think: I hold CellPhone (1). Now, I need to recall location of the lamp.
+OK.
+Act: recall location of FloorLamp
+You have not seen FloorLamp before.
+Think: Now I need to find the floor lamp The floor lamp is more likely to appear on Sofa (1), SideTable (1), Ottoman (1), CoffeeTable (1), ArmChair (1), or in Drawer (1-7). I can check each place one by one, starting from Sofa (1), until I find the floor lamp.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), KeyChain (1), CreditCard (1), CellPhone (1).  I am holding CellPhone (1) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see WateringCan (1), Vase (1), SideTable (1), Pencil (1, 2), HousePlant (1), Drawer (4), CellPhone (1).  I am holding CellPhone (1) now.
+Act: go to Ottoman (1)
+You arrive at Ottoman (1). You see RemoteControl (2), Pillow (1), Ottoman (1), Laptop (1), CellPhone (1), ArmChair (1).  I am holding CellPhone (1) now.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), RemoteControl (1), Newspaper (2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), CellPhone (1).  I am holding CellPhone (1) now.
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see RemoteControl (2), Pillow (1), Ottoman (1), CellPhone (1), Box (1), ArmChair (1).  I am holding CellPhone (1) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Vase (2), RemoteControl (1), Newspaper (2), KeyChain (2), Drawer (1, 3, 5), CoffeeTable (1), CellPhone (1). Drawer (1) is closed.  I am holding CellPhone (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Vase (2), RemoteControl (1), Newspaper (2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), CellPhone (1). Drawer (2) is closed.  I am holding CellPhone (1) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Vase (2), RemoteControl (1), Newspaper (2), KeyChain (2), Drawer (1, 3, 5), CoffeeTable (1), CellPhone (1). Drawer (3) is closed.  I am holding CellPhone (1) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see WateringCan (1), Vase (1), SideTable (1), Pencil (1, 2), HousePlant (1), Drawer (4), CellPhone (1). Drawer (4) is closed.  I am holding CellPhone (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Vase (2), RemoteControl (1), Newspaper (2), KeyChain (2), Drawer (1, 3, 5), CoffeeTable (1), CellPhone (1). Drawer (5) is closed.  I am holding CellPhone (1) now.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Vase (2), RemoteControl (1), Newspaper (2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), CellPhone (1). Drawer (6) is closed.  I am holding CellPhone (1) now.
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see Vase (2), RemoteControl (1), Newspaper (2), KeyChain (2), Drawer (2, 6, 7), CoffeeTable (1), CellPhone (1). Drawer (7) is closed.  I am holding CellPhone (1) now.
+Think: I cannot find the floor lamp. I need to give up.
+OK.
+Act: failure

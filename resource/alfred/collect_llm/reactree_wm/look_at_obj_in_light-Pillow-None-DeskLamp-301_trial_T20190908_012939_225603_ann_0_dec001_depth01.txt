@@ -1,0 +1,7 @@
+Your task is to: Turn a lamp on with a pillow in hand.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1, 2, 3, 4, 5, 6), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17), Desk (1), Bed (1).
+Think: I hold Pillow (1). Now, I need to find and turn on either the desk lamp or the floor lamp.
+OK.
+Expand:
+- control flow: fallback
+- subgoals: find and turn on the desk lamp, find and turn on the floor lamp

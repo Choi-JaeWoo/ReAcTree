@@ -1,0 +1,13 @@
+Your primary goal is to: place two sponge's on top of the towel rack cart
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up sponge, and place sponge on towel rack cart.
+Your task is to: place sponge on towel rack cart
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1, 2), Toilet (1), ToiletPaperHanger (1), Sink (1), SinkBasin (1), Shelf (1, 2, 3, 4), HandTowelHolder (1, 2), GarbageCan (1), Cart (1), Bathtub (1), BathtubBasin (1). I am holding DishSponge (3) now.
+Think: I hold DishSponge (3). Now, I need to put it on the towel rack cart. I think towel rack cart means Cart (1). I can see Cart (1).
+OK.
+Act: go to Cart (1)
+You arrive at Cart (1). You see DishSponge (3), Cloth (2), Cart (1).  I am holding DishSponge (3) now.
+Act: put down DishSponge (3)
+You put DishSponge (3) on Cart (1). You see DishSponge (3), Cloth (2), Cart (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

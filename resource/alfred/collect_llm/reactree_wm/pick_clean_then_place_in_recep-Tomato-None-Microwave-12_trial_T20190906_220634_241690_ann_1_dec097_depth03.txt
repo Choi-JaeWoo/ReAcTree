@@ -1,0 +1,11 @@
+Your primary goal is to: Place a washed tomato in the microwave.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up tomato, clean and pick up tomato, and place tomato in microwave.
+Your task is to: place tomato in microwave
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19). I am holding Tomato (1) now.
+Think: I hold Tomato (1). Now, I need to put it in the microwave. I can see Microwave (1).
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Tomato (1), Sink (1), Microwave (1), Faucet (1). Microwave (1) is closed.  I am holding Tomato (1) now.
+Act: open Microwave (1)
+You open Microwave (1). You see Tomato (1), Sink (1), Microwave (1), Faucet (1). I am holding Tomato (1) now.
+Max decisions

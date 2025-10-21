@@ -1,0 +1,13 @@
+Your primary goal is to: Put a box with a blue vase in it on a table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up box, open and pick up box, and place box on table.
+Your task is to: place box on table
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7), DiningTable (1), CoffeeTable (1, 2), Cabinet (1, 2, 3, 4, 5, 6, 7, 8), ArmChair (1, 2). I am holding Box (1) now.
+Think: I hold Box (1). Now, I need to put it on the table. I can see DiningTable (1).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Statue (7), Newspaper (1), KeyChain (1), DiningTable (1), Chair (3, 4, 6), Box (1).  I am holding Box (1) now.
+Act: put down Box (1)
+You put Box (1) on DiningTable (1). You see Statue (7), Newspaper (1), KeyChain (1), DiningTable (1), Chair (3, 4, 6), Box (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,29 @@
+Your primary goal is to: Put a slice of warmed bread into the fridge.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up bread, warm and pick up bread, and place bread in fridge.
+Your task is to: warm and pick up bread
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), CounterTop (1, 2, 3, 4), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15). I am holding Bread (1) now.
+Think: I hold Bread (1). Now, I need to warm it using the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Toaster (1), Microwave (1), Chair (1), Bread (1). Microwave (1) is closed.  I am holding Bread (1) now.
+Act: open Microwave (1)
+You open Microwave (1). You see Microwave (1), Chair (1), Bread (1). I am holding Bread (1) now.
+Act: put down Bread (1)
+You put down failed, drop it. You see Microwave (1), Chair (1), Bread (1).
+Act: close Microwave (1)
+You close Microwave (1). You see Toaster (1), Microwave (1), Chair (1).
+Think: I warm Bread (1) using Microwave (1). Now, I need to pick up the bread from the microwave.
+OK.
+Act: open Microwave (1)
+You open Microwave (1). You see Microwave (1), Chair (1).
+Act: recall location of Bread
+You dropped Bread due to fail to put it on the receptacle. You need to find it again. You saw Bread (2) near CounterTop (2).
+Think: I can find Bread (2) near CounterTop (2).
+OK.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Spoon (2, 3), Spatula (1), SaltShaker (2), PepperShaker (1, 2), Pan (1), Lettuce (3), CounterTop (2), ButterKnife (1, 2), Bread (2). 
+Act: pick up Bread (2)
+You pick up Bread (2). You see Spoon (2, 3), Spatula (1), SaltShaker (2), PepperShaker (1, 2), Pan (1), Lettuce (3), CounterTop (2), ButterKnife (1, 2), Bread (2). I am holding Bread (2) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

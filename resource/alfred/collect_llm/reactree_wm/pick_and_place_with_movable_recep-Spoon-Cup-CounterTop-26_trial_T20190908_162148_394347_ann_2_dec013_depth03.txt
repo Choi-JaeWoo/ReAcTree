@@ -1,0 +1,57 @@
+Your primary goal is to: Put a cup on a counter with spoon inside.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up cup, put spoon in cup, and place cup on counter.
+Your task is to: place cup on counter
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10).
+Think: I hold Cup (1). Now, I need to put it on the counter. I can see CounterTop (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spoon (1), Spatula (1), Sink (1), SinkBasin (1), SaltShaker (2), Plate (3), Faucet (1), Egg (1, 3), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4), Apple (1). 
+Act: pick up Spoon (1)
+You pick up Spoon (1). You see Spoon (1), Spatula (1), Sink (1), SinkBasin (1), SaltShaker (2), Plate (3), Faucet (1), Egg (1, 3), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4), Apple (1). I am holding Spoon (1) now.
+Act: put down Spoon (1)
+You put down failed, drop it. You see Spatula (1), Sink (1), SinkBasin (1), SaltShaker (2), Plate (3), Faucet (1), Egg (1, 3), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4), Apple (1).
+Think: I failed to put down Spoon (1). I need to try again.
+OK.
+Act: pick up Spatula (1)
+You pick up Spatula (1). You see Spatula (1), Sink (1), SinkBasin (1), SaltShaker (2), Plate (3), Faucet (1), Egg (1, 3), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4), Apple (1). I am holding Spatula (1) now.
+Act: put down Spatula (1)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), SaltShaker (2), Plate (3), Faucet (1), Egg (1, 3), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4), Apple (1).
+Think: I failed to put down Spatula (1). I need to try again.
+OK.
+Act: pick up SaltShaker (2)
+You pick up SaltShaker (2). You see Sink (1), SinkBasin (1), SaltShaker (2), Plate (3), Faucet (1), Egg (1, 3), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4), Apple (1). I am holding SaltShaker (2) now.
+Act: put down SaltShaker (2)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), Plate (3), Faucet (1), Egg (1, 3), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4), Apple (1).
+Think: I failed to put down SaltShaker (2). I need to try again.
+OK.
+Act: pick up Plate (3)
+You pick up Plate (3). You see Sink (1), SinkBasin (1), Plate (3), Faucet (1), Egg (1, 3), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1), Apple (1). I am holding Plate (3) now.
+Act: put down Plate (3)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), Plate (3), Faucet (1), Egg (1, 3), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4), Apple (1).
+Think: I failed to put down Plate (3). I need to try again.
+OK.
+Act: pick up Egg (1)
+You pick up Egg (1). You see Sink (1), SinkBasin (1), Plate (3), Faucet (1), Egg (1, 3), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4), Apple (1). I am holding Egg (1) now.
+Act: put down Egg (1)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), Faucet (1), Egg (3), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4), Apple (1).
+Think: I failed to put down Egg (1). I need to try again.
+OK.
+Act: pick up Egg (3)
+You pick up Egg (3). You see Sink (1), SinkBasin (1), Faucet (1), Egg (3), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4), Apple (1). I am holding Egg (3) now.
+Act: put down Egg (3)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4), Apple (1).
+Think: I failed to put down Egg (3). I need to try again.
+OK.
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Sink (1), SinkBasin (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (1), Cabinet (1, 4), Apple (1). I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), Faucet (1), Drawer (1), CounterTop (1), Cabinet (1, 4), Apple (1).
+Think: I failed to put down DishSponge (1). I need to try again.
+OK.
+Act: pick up Apple (1)
+You pick up Apple (1). You see Sink (1), SinkBasin (1), Faucet (1), Drawer (1), CounterTop (1), Cabinet (1, 4), Apple (1). I am holding Apple (1) now.
+Act: put down Apple (1)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), Faucet (1), Drawer (1), CounterTop (1), Cabinet (1, 4).
+Think: I failed to put down Apple (1). I need to try again.
+OK.
+Act: failure

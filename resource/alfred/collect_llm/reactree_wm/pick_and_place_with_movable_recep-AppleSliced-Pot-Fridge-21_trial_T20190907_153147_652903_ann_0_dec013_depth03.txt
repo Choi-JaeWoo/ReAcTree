@@ -1,0 +1,33 @@
+Your primary goal is to: Put a pot with a piece of apple in a fridge.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pot, find and pick up apple, put apple in pot, and place pot in fridge.
+Your task is to: find and pick up apple
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1, 2, 3), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4). I am holding Knife (2) now.
+Think: I hold Knife (2). Now, I need to recall location of the apple.
+OK.
+Act: recall location of Apple
+You saw Apple (1) near DiningTable (3).
+Think: Now, I need to find the apple. The apple is more likely to appear on DiningTable (1-3), CounterTop (1), or in Fridge (1), Microwave (1), Cabinet (1-4). I can check each place one by one, starting from DiningTable (1), until I find the apple.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Plate (1), Knife (2), DiningTable (1).  I am holding Knife (2) now.
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Toaster (1), Lettuce (1), Knife (2), Bread (1, 2).  I am holding Knife (2) now.
+Act: go to DiningTable (3)
+You arrive at DiningTable (3). You see PepperShaker (2), Microwave (1), Knife (2), Egg (1), DiningTable (3), Apple (1).  I am holding Knife (2) now.
+Think: I find Apple (1). Now, I need to pick it up.
+OK.
+Act: pick up Apple (1)
+You are currently holding Knife (2). I am holding Knife (2) now.
+Think: I need to put down Knife (2) first.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Tomato (1), Spoon (1), Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (3), Knife (2), Faucet (1), Drawer (1), CounterTop (1), Cabinet (2, 4).  I am holding Knife (2) now.
+Act: put down Knife (2)
+You put Knife (2) on CounterTop (1). You see Tomato (1), Spoon (1), Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (3), Knife (2), Faucet (1), Drawer (1), CounterTop (1), Cabinet (2, 4).
+Act: go to DiningTable (3)
+You arrive at DiningTable (3). You see PepperShaker (2), Microwave (1), Egg (1), DiningTable (3), Apple (1). 
+Act: pick up Apple (1)
+You pick up Apple (1). You see PepperShaker (2), Microwave (1), Egg (1), DiningTable (3), Apple (1). I am holding Apple (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

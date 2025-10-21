@@ -1,0 +1,187 @@
+Your primary goal is to: Move two cell phones from the bed to the desk. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up cell phone, place cell phone on desk, Find and pick up cell phone away from desk, and place cell phone on desk.
+Your task is to: place cell phone on desk
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14), GarbageCan (1), Drawer (1, 2), DiningTable (1), Bed (1, 2). I am holding CellPhone (4) now.
+Think: I hold CellPhone (4). Now, I need to put it on the desk. I can see Desk (1).
+OK.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TennisRacket (1), Shelf (1, 7), CellPhone (4), BaseballBat (1), AlarmClock (1).  I am holding CellPhone (4) now.
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Shelf (2, 10), CellPhone (4).  I am holding CellPhone (4) now.
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Shelf (2, 3, 10, 12), CellPhone (4), Book (3), Bed (2), AlarmClock (2).  I am holding CellPhone (4) now.
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see Shelf (4), Mug (1), Lamp (1), DiningTable (1), Chair (1, 2), CellPhone (4), Bowl (3).  I am holding CellPhone (4) now.
+Act: go to Shelf (5)
+You arrive at Shelf (5). You see Shelf (5, 13), KeyChain (2), Cloth (1), CellPhone (4).  I am holding CellPhone (4) now.
+Act: go to Shelf (6)
+You arrive at Shelf (6). You see Shelf (6, 8), CellPhone (4), Bowl (1).  I am holding CellPhone (4) now.
+Act: go to Shelf (7)
+You arrive at Shelf (7). You see Shelf (1, 7), CellPhone (4), AlarmClock (1).  I am holding CellPhone (4) now.
+Act: go to Shelf (8)
+You arrive at Shelf (8). You see Shelf (6, 8), Cloth (1, 2), CellPhone (4), Bowl (1).  I am holding CellPhone (4) now.
+Act: go to Shelf (9)
+You arrive at Shelf (9). You see Pencil (1), DiningTable (1), Chair (2), CellPhone (4), Bowl (2), AlarmClock (3).  I am holding CellPhone (4) now.
+Act: go to Shelf (10)
+You arrive at Shelf (10). You see Shelf (2, 10), CellPhone (4), Bed (2), BaseballBat (1).  I am holding CellPhone (4) now.
+Act: go to Shelf (11)
+You arrive at Shelf (11). You see Shelf (11, 14), CellPhone (4).  I am holding CellPhone (4) now.
+Act: go to Shelf (12)
+You arrive at Shelf (12). You see Shelf (2, 3, 10, 12), CellPhone (4), Book (3), Bed (2), AlarmClock (2).  I am holding CellPhone (4) now.
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Shelf (5, 13), KeyChain (2), CellPhone (4).  I am holding CellPhone (4) now.
+Act: go to Shelf (14)
+You arrive at Shelf (14). You see Shelf (11, 14), Cloth (1), CellPhone (4).  I am holding CellPhone (4) now.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TennisRacket (1), Shelf (1, 7), CellPhone (4), BaseballBat (1), AlarmClock (1).  I am holding CellPhone (4) now.
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Shelf (2, 10), CellPhone (4).  I am holding CellPhone (4) now.
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Shelf (2, 3, 10, 12), CellPhone (4), Book (3), Bed (2), AlarmClock (2).  I am holding CellPhone (4) now.
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see Shelf (4), Mug (1), Lamp (1), DiningTable (1), Chair (1, 2), CellPhone (4), Bowl (3).  I am holding CellPhone (4) now.
+Act: go to Shelf (5)
+You arrive at Shelf (5). You see Shelf (5, 13), KeyChain (2), Cloth (1), CellPhone (4).  I am holding CellPhone (4) now.
+Act: go to Shelf (6)
+You arrive at Shelf (6). You see Shelf (6, 8), CellPhone (4), Bowl (1).  I am holding CellPhone (4) now.
+Act: go to Shelf (7)
+You arrive at Shelf (7). You see Shelf (1, 7), CellPhone (4), AlarmClock (1).  I am holding CellPhone (4) now.
+Act: go to Shelf (8)
+You arrive at Shelf (8). You see Shelf (6, 8), Cloth (1, 2), CellPhone (4), Bowl (1).  I am holding CellPhone (4) now.
+Act: go to Shelf (9)
+You arrive at Shelf (9). You see Pencil (1), DiningTable (1), Chair (2), CellPhone (4), Bowl (2), AlarmClock (3).  I am holding CellPhone (4) now.
+Act: go to Shelf (10)
+You arrive at Shelf (10). You see Shelf (2, 10), CellPhone (4), Bed (2), BaseballBat (1).  I am holding CellPhone (4) now.
+Act: go to Shelf (11)
+You arrive at Shelf (11). You see Shelf (11, 14), CellPhone (4).  I am holding CellPhone (4) now.
+Act: go to Shelf (12)
+You arrive at Shelf (12). You see Shelf (2, 3, 10, 12), CellPhone (4), Book (3), Bed (2), AlarmClock (2).  I am holding CellPhone (4) now.
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Shelf (5, 13), KeyChain (2), CellPhone (4).  I am holding CellPhone (4) now.
+Act: go to Shelf (14)
+You arrive at Shelf (14). You see Shelf (11, 14), Cloth (1), CellPhone (4).  I am holding CellPhone (4) now.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TennisRacket (1), Shelf (1, 7), CellPhone (4), BaseballBat (1), AlarmClock (1).  I am holding CellPhone (4) now.
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Shelf (2, 10), CellPhone (4).  I am holding CellPhone (4) now.
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Shelf (2, 3, 10, 12), CellPhone (4), Book (3), Bed (2), AlarmClock (2).  I am holding CellPhone (4) now.
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see Shelf (4), Mug (1), Lamp (1), DiningTable (1), Chair (1, 2), CellPhone (4), Bowl (3).  I am holding CellPhone (4) now.
+Act: go to Shelf (5)
+You arrive at Shelf (5). You see Shelf (5, 13), KeyChain (2), Cloth (1), CellPhone (4).  I am holding CellPhone (4) now.
+Act: go to Shelf (6)
+You arrive at Shelf (6). You see Shelf (6, 8), CellPhone (4), Bowl (1).  I am holding CellPhone (4) now.
+Act: go to Shelf (7)
+You arrive at Shelf (7). You see Shelf (1, 7), CellPhone (4), AlarmClock (1).  I am holding CellPhone (4) now.
+Act: go to Shelf (8)
+You arrive at Shelf (8). You see Shelf (6, 8), Cloth (1, 2), CellPhone (4), Bowl (1).  I am holding CellPhone (4) now.
+Act: go to Shelf (9)
+You arrive at Shelf (9). You see Pencil (1), DiningTable (1), Chair (2), CellPhone (4), Bowl (2), AlarmClock (3).  I am holding CellPhone (4) now.
+Act: go to Shelf (10)
+You arrive at Shelf (10). You see Shelf (2, 10), CellPhone (4), Bed (2), BaseballBat (1).  I am holding CellPhone (4) now.
+Act: go to Shelf (11)
+You arrive at Shelf (11). You see Shelf (11, 14), CellPhone (4).  I am holding CellPhone (4) now.
+Act: go to Shelf (12)
+You arrive at Shelf (12). You see Shelf (2, 3, 10, 12), CellPhone (4), Book (3), Bed (2), AlarmClock (2).  I am holding CellPhone (4) now.
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Shelf (5, 13), KeyChain (2), CellPhone (4).  I am holding CellPhone (4) now.
+Act: go to Shelf (14)
+You arrive at Shelf (14). You see Shelf (11, 14), Cloth (1), CellPhone (4).  I am holding CellPhone (4) now.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TennisRacket (1), Shelf (1, 7), CellPhone (4), BaseballBat (1), AlarmClock (1).  I am holding CellPhone (4) now.
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Shelf (2, 10), CellPhone (4).  I am holding CellPhone (4) now.
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Shelf (2, 3, 10, 12), CellPhone (4), Book (3), Bed (2), AlarmClock (2).  I am holding CellPhone (4) now.
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see Shelf (4), Mug (1), Lamp (1), DiningTable (1), Chair (1, 2), CellPhone (4), Bowl (3).  I am holding CellPhone (4) now.
+Act: go to Shelf (5)
+You arrive at Shelf (5). You see Shelf (5, 13), KeyChain (2), Cloth (1), CellPhone (4).  I am holding CellPhone (4) now.
+Act: go to Shelf (6)
+You arrive at Shelf (6). You see Shelf (6, 8), CellPhone (4), Bowl (1).  I am holding CellPhone (4) now.
+Act: go to Shelf (7)
+You arrive at Shelf (7). You see Shelf (1, 7), CellPhone (4), AlarmClock (1).  I am holding CellPhone (4) now.
+Act: go to Shelf (8)
+You arrive at Shelf (8). You see Shelf (6, 8), Cloth (1, 2), CellPhone (4), Bowl (1).  I am holding CellPhone (4) now.
+Act: go to Shelf (9)
+You arrive at Shelf (9). You see Pencil (1), DiningTable (1), Chair (2), CellPhone (4), Bowl (2), AlarmClock (3).  I am holding CellPhone (4) now.
+Act: go to Shelf (10)
+You arrive at Shelf (10). You see Shelf (2, 10), CellPhone (4), Bed (2), BaseballBat (1).  I am holding CellPhone (4) now.
+Act: go to Shelf (11)
+You arrive at Shelf (11). You see Shelf (11, 14), CellPhone (4).  I am holding CellPhone (4) now.
+Act: go to Shelf (12)
+You arrive at Shelf (12). You see Shelf (2, 3, 10, 12), CellPhone (4), Book (3), Bed (2), AlarmClock (2).  I am holding CellPhone (4) now.
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Shelf (5, 13), KeyChain (2), CellPhone (4).  I am holding CellPhone (4) now.
+Act: go to Shelf (14)
+You arrive at Shelf (14). You see Shelf (11, 14), Cloth (1), CellPhone (4).  I am holding CellPhone (4) now.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TennisRacket (1), Shelf (1, 7), CellPhone (4), BaseballBat (1), AlarmClock (1).  I am holding CellPhone (4) now.
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Shelf (2, 10), CellPhone (4).  I am holding CellPhone (4) now.
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Shelf (2, 3, 10, 12), CellPhone (4), Book (3), Bed (2), AlarmClock (2).  I am holding CellPhone (4) now.
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see Shelf (4), Mug (1), Lamp (1), DiningTable (1), Chair (1, 2), CellPhone (4), Bowl (3).  I am holding CellPhone (4) now.
+Act: go to Shelf (5)
+You arrive at Shelf (5). You see Shelf (5, 13), KeyChain (2), Cloth (1), CellPhone (4).  I am holding CellPhone (4) now.
+Act: go to Shelf (6)
+You arrive at Shelf (6). You see Shelf (6, 8), CellPhone (4), Bowl (1).  I am holding CellPhone (4) now.
+Act: go to Shelf (7)
+You arrive at Shelf (7). You see Shelf (1, 7), CellPhone (4), AlarmClock (1).  I am holding CellPhone (4) now.
+Act: go to Shelf (8)
+You arrive at Shelf (8). You see Shelf (6, 8), Cloth (1, 2), CellPhone (4), Bowl (1).  I am holding CellPhone (4) now.
+Act: go to Shelf (9)
+You arrive at Shelf (9). You see Pencil (1), DiningTable (1), Chair (2), CellPhone (4), Bowl (2), AlarmClock (3).  I am holding CellPhone (4) now.
+Act: go to Shelf (10)
+You arrive at Shelf (10). You see Shelf (2, 10), CellPhone (4), Bed (2), BaseballBat (1).  I am holding CellPhone (4) now.
+Act: go to Shelf (11)
+You arrive at Shelf (11). You see Shelf (11, 14), CellPhone (4).  I am holding CellPhone (4) now.
+Act: go to Shelf (12)
+You arrive at Shelf (12). You see Shelf (2, 3, 10, 12), CellPhone (4), Book (3), Bed (2), AlarmClock (2).  I am holding CellPhone (4) now.
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Shelf (5, 13), KeyChain (2), CellPhone (4).  I am holding CellPhone (4) now.
+Act: go to Shelf (14)
+You arrive at Shelf (14). You see Shelf (11, 14), Cloth (1), CellPhone (4).  I am holding CellPhone (4) now.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TennisRacket (1), Shelf (1, 7), CellPhone (4), BaseballBat (1), AlarmClock (1).  I am holding CellPhone (4) now.
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Shelf (2, 10), CellPhone (4).  I am holding CellPhone (4) now.
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Shelf (2, 3, 10, 12), CellPhone (4), Book (3), Bed (2), AlarmClock (2).  I am holding CellPhone (4) now.
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see Shelf (4), Mug (1), Lamp (1), DiningTable (1), Chair (1, 2), CellPhone (4), Bowl (3).  I am holding CellPhone (4) now.
+Act: go to Shelf (5)
+You arrive at Shelf (5). You see Shelf (5, 13), KeyChain (2), Cloth (1), CellPhone (4).  I am holding CellPhone (4) now.
+Act: go to Shelf (6)
+You arrive at Shelf (6). You see Shelf (6, 8), CellPhone (4), Bowl (1).  I am holding CellPhone (4) now.
+Act: go to Shelf (7)
+You arrive at Shelf (7). You see Shelf (1, 7), CellPhone (4), AlarmClock (1).  I am holding CellPhone (4) now.
+Act: go to Shelf (8)
+You arrive at Shelf (8). You see Shelf (6, 8), Cloth (1, 2), CellPhone (4), Bowl (1).  I am holding CellPhone (4) now.
+Act: go to Shelf (9)
+You arrive at Shelf (9). You see Pencil (1), DiningTable (1), Chair (2), CellPhone (4), Bowl (2), AlarmClock (3).  I am holding CellPhone (4) now.
+Act: go to Shelf (10)
+You arrive at Shelf (10). You see Shelf (2, 10), CellPhone (4), Bed (2), BaseballBat (1).  I am holding CellPhone (4) now.
+Act: go to Shelf (11)
+You arrive at Shelf (11). You see Shelf (11, 14), CellPhone (4).  I am holding CellPhone (4) now.
+Act: go to Shelf (12)
+You arrive at Shelf (12). You see Shelf (2, 3, 10, 12), CellPhone (4), Book (3), Bed (2), AlarmClock (2).  I am holding CellPhone (4) now.
+Act: go to Shelf (13)
+You arrive at Shelf (13). You see Shelf (5, 13), KeyChain (2), CellPhone (4).  I am holding CellPhone (4) now.
+Act: go to Shelf (14)
+You arrive at Shelf (14). You see Shelf (11, 14), Cloth (1), CellPhone (4).  I am holding CellPhone (4) now.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see TennisRacket (1), Shelf (1, 7), CellPhone (4), BaseballBat (1), AlarmClock (1).  I am holding CellPhone (4) now.
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Shelf (2, 10), CellPhone (4).  I am holding CellPhone (4) now.
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Shelf (2, 3, 10, 12), CellPhone (4), Book (3), Bed (2), AlarmClock (2).  I am holding CellPhone (4) now.
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see Shelf (4), Mug (1), Lamp (1), DiningTable (1), Chair (1, 2), CellPhone (4), Bowl (3).  I am holding CellPhone (4) now.
+Act: go to Shelf (5)
+You arrive at Shelf (5). You see Shelf (5, 13), KeyChain (2), Cloth (1), CellPhone (4).  I am holding CellPhone (4) now.
+Act: go to Shelf (6)
+You arrive at Shelf (6). You see Shelf (6, 8), CellPhone (4), Bowl (1).  I am holding CellPhone (4) now.
+Max decisions

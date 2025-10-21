@@ -1,0 +1,201 @@
+Your primary goal is to: Examine a watering can by the light of a tall lamp.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up watering can, and find and turn on lamp.
+Your task is to: find and pick up watering can
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), GarbageCan (1), DiningTable (1, 2), CoffeeTable (1), ArmChair (1, 2, 3).
+Think: First, I need to recall location of the watering can.
+OK.
+Act: recall location of WateringCan
+You have not seen WateringCan before.
+Think: Now, I need to find the watering can. The watering can is more likely to appear on DiningTable (1-2), CoffeeTable (1), or in TVStand (1). I can check each place one by one, starting from DiningTable (1), until I find the watering can.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 3), Statue (3), Plate (1, 2), Laptop (2, 3), DiningTable (1), Chair (1, 2), Candle (1, 2), Box (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), Statue (1), Laptop (1), CreditCard (1), CoffeeTable (1). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Think: I can’t find the watering can. Now I need to search for it in other rooms.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 3), Statue (3), Plate (1, 2), Laptop (2, 3), DiningTable (1), Chair (1, 2), Candle (1, 2), Box (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), Statue (1), Laptop (1), CreditCard (1), CoffeeTable (1). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 3), Statue (3), Plate (1, 2), Laptop (2, 3), DiningTable (1), Chair (1, 2), Candle (1, 2), Box (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), Statue (1), Laptop (1), CreditCard (1), CoffeeTable (1). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 3), Statue (3), Plate (1, 2), Laptop (2, 3), DiningTable (1), Chair (1, 2), Candle (1, 2), Box (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), Statue (1), Laptop (1), CreditCard (1), CoffeeTable (1). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 3), Statue (3), Plate (1, 2), Laptop (2, 3), DiningTable (1), Chair (1, 2), Candle (1, 2), Box (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), Statue (1), Laptop (1), CreditCard (1), CoffeeTable (1). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 3), Statue (3), Plate (1, 2), Laptop (2, 3), DiningTable (1), Chair (1, 2), Candle (1, 2), Box (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), Statue (1), Laptop (1), CreditCard (1), CoffeeTable (1). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 3), Statue (3), Plate (1, 2), Laptop (2, 3), DiningTable (1), Chair (1, 2), Candle (1, 2), Box (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), Statue (1), Laptop (1), CreditCard (1), CoffeeTable (1). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 3), Statue (3), Plate (1, 2), Laptop (2, 3), DiningTable (1), Chair (1, 2), Candle (1, 2), Box (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), Statue (1), Laptop (1), CreditCard (1), CoffeeTable (1). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 3), Statue (3), Plate (1, 2), Laptop (2, 3), DiningTable (1), Chair (1, 2), Candle (1, 2), Box (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), Statue (1), Laptop (1), CreditCard (1), CoffeeTable (1). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 3), Statue (3), Plate (1, 2), Laptop (2, 3), DiningTable (1), Chair (1, 2), Candle (1, 2), Box (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), Statue (1), Laptop (1), CreditCard (1), CoffeeTable (1). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 3), Statue (3), Plate (1, 2), Laptop (2, 3), DiningTable (1), Chair (1, 2), Candle (1, 2), Box (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), Statue (1), Laptop (1), CreditCard (1), CoffeeTable (1). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 3), Statue (3), Plate (1, 2), Laptop (2, 3), DiningTable (1), Chair (1, 2), Candle (1, 2), Box (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), Statue (1), Laptop (1), CreditCard (1), CoffeeTable (1). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 3), Statue (3), Plate (1, 2), Laptop (2, 3), DiningTable (1), Chair (1, 2), Candle (1, 2), Box (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), Statue (1), Laptop (1), CreditCard (1), CoffeeTable (1). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 3), Statue (3), Plate (1, 2), Laptop (2, 3), DiningTable (1), Chair (1, 2), Candle (1, 2), Box (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), Statue (1), Laptop (1), CreditCard (1), CoffeeTable (1). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 3), Statue (3), Plate (1, 2), Laptop (2, 3), DiningTable (1), Chair (1, 2), Candle (1, 2), Box (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), Statue (1), Laptop (1), CreditCard (1), CoffeeTable (1). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 3), Statue (3), Plate (1, 2), Laptop (2, 3), DiningTable (1), Chair (1, 2), Candle (1, 2), Box (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), Statue (1), Laptop (1), CreditCard (1), CoffeeTable (1). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 3), Statue (3), Plate (1, 2), Laptop (2, 3), DiningTable (1), Chair (1, 2), Candle (1, 2), Box (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), Statue (1), Laptop (1), CreditCard (1), CoffeeTable (1). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 3), Statue (3), Plate (1, 2), Laptop (2, 3), DiningTable (1), Chair (1, 2), Candle (1, 2), Box (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), Statue (1), Laptop (1), CreditCard (1), CoffeeTable (1). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 3), Statue (3), Plate (1, 2), Laptop (2, 3), DiningTable (1), Chair (1, 2), Candle (1, 2), Box (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), Statue (1), Laptop (1), CreditCard (1), CoffeeTable (1). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 3), Statue (3), Plate (1, 2), Laptop (2, 3), DiningTable (1), Chair (1, 2), Candle (1, 2), Box (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), Statue (1), Laptop (1), CreditCard (1), CoffeeTable (1). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 3), Statue (3), Plate (1, 2), Laptop (2, 3), DiningTable (1), Chair (1, 2), Candle (1, 2), Box (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), Statue (1), Laptop (1), CreditCard (1), CoffeeTable (1). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 3), Statue (3), Plate (1, 2), Laptop (2, 3), DiningTable (1), Chair (1, 2), Candle (1, 2), Box (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), Statue (1), Laptop (1), CreditCard (1), CoffeeTable (1). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 3), Statue (3), Plate (1, 2), Laptop (2, 3), DiningTable (1), Chair (1, 2), Candle (1, 2), Box (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (2), Statue (1), Laptop (1), CreditCard (1), CoffeeTable (1). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 3), Statue (3), Plate (1, 2), Laptop (2, 3), DiningTable (1), Chair (1, 2), Candle (1, 2), Box (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), Statue (2), DiningTable (2). 
+Max decisions

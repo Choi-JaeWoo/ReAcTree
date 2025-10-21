@@ -1,0 +1,41 @@
+Your task is to: Put the phone in the box and set the box on the desk.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1, 2), Shelf (1, 2, 3), Safe (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), Desk (1), CoffeeTable (1), ArmChair (1).
+Think: To solve the task, I need to find and pick up the phone, then put it in the box. And I need to pick up the box, then put it on the desk.
+OK.
+Think: First, I need to recall location of the phone.
+OK.
+Act: recall location of CellPhone
+You have not seen CellPhone before.
+Think: Now I need to find the phone. The phone is more likely to appear on Desk (1), CoffeeTable (1), or in Drawer (1-6), Safe (1). I can check each place one by one, starting from Desk (1), until I find the phone.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Vase (4), Lamp (1), GarbageCan (1), Desk (1), CreditCard (2), Chair (4), CellPhone (4). 
+Think: I find CellPhone (4). Now, I need to pick it up.
+OK.
+Act: pick up CellPhone (4)
+You pick up CellPhone (4). You see Vase (4), Lamp (1), GarbageCan (1), Desk (1), CreditCard (2), Chair (4), CellPhone (4). I am holding CellPhone (4) now.
+Think: I hold CellPhone (4). Now, I need to put it in the box.
+OK.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Vase (4), Lamp (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), CreditCard (2), Chair (4), CellPhone (4). Drawer (1) is closed.  I am holding CellPhone (4) now.
+Act: open Drawer (1)
+You open Drawer (1). You see Vase (4), Lamp (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), CreditCard (2), Chair (4), CellPhone (4). I am holding CellPhone (4) now.
+Act: put down CellPhone (4)
+You put CellPhone (4) on Drawer (1). You see Vase (4), Lamp (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), CreditCard (2), Chair (4), CellPhone (4).
+Act: close Drawer (1)
+You close Drawer (1). You see Vase (4), Lamp (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), CreditCard (2), Chair (4).
+Think: I put CellPhone (4) in Drawer (1). Now, I need to pick up the box.
+OK.
+Act: open Drawer (1)
+You open Drawer (1). You see Vase (4), Lamp (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), CreditCard (2), Chair (4), CellPhone (4).
+Act: pick up CellPhone (4)
+You pick up CellPhone (4). You see Vase (4), Lamp (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), CreditCard (2), Chair (4), CellPhone (4). I am holding CellPhone (4) now.
+Think: I pick up CellPhone (4) from Drawer (1). Now, I need to put it on the desk.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Vase (4), Lamp (1), GarbageCan (1), Desk (1), CreditCard (2), Chair (4), CellPhone (4).  I am holding CellPhone (4) now.
+Act: put down CellPhone (4)
+You put CellPhone (4) on Desk (1). You see Vase (4), Lamp (1), GarbageCan (1), Desk (1), CreditCard (2), Chair (4), CellPhone (4).
+Think: Now I accomplish the goal.
+OK.
+Act: done

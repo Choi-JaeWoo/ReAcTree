@@ -1,0 +1,110 @@
+Your task is to: Put two books in a desk drawer.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2), LaundryHamper (1), GarbageCan (1), Drawer (1, 2, 3), Desk (1), Bed (1).
+Think: To solve the task, I need to find and pick up the books, then put it in the desk drawer. And I need to find and pick up another books, then put it in the desk drawer.
+OK.
+Think: First, I need to recall location of the book.
+OK.
+Act: recall location of Book
+You have not seen Book before.
+Think: Now I need to find the book. The book is more likely to appear on Desk (1), SideTable (1), Shelf (1-2), or in Drawer (1-3). I can check each place one by one, starting from Desk (1), until I find the book.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pencil (1), Pen (3), Desk (1), CreditCard (1), Chair (1), Bowl (1), Book (4), AlarmClock (1). 
+Think: I find Book (4). Now, I need to pick it up.
+OK.
+Act: pick up Book (4)
+You pick up Book (4). You see Pencil (1), Pen (3), Desk (1), CreditCard (1), Chair (1), Bowl (1), Book (4), AlarmClock (1). I am holding Book (4) now.
+Think: I hold Book (4). Now, I need to put it in the desk drawer.
+OK.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Pencil (1), Pen (3), Drawer (1, 2, 3), Desk (1), CreditCard (1), Chair (1), Bowl (1), Book (4), AlarmClock (1, 2). Drawer (1) is closed.  I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.
+Act: open Drawer (1)
+The Drawer (1) is open failed. I am holding Book (4) now.

@@ -1,0 +1,49 @@
+Your task is to: Put a cup on a counter with spoon inside.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10).
+Think: To solve the task, I need to find and pick up the cup, then put it on the counter. And I need to find and pick up the spoon, then put it in the cup on the counter.
+OK.
+Think: First, I need to recall location of the cup.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the cup. The cup is more likely to appear on DiningTable (1-2), CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-10), Drawer (1-3). I can check each place one by one, starting from DiningTable (1), until I find the cup.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Toaster (1), Spoon (4), Pot (3), Lettuce (1), Fork (2), DiningTable (1), Bread (2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Tomato (3), SoapBottle (1), SaltShaker (1), Pot (2), Knife (1), DiningTable (2), Cup (1), Bread (1). 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: pick up Cup (1)
+You pick up Cup (1). You see Tomato (3), SoapBottle (1), SaltShaker (1), Pot (2), Knife (1), DiningTable (2), Cup (1), Bread (1). I am holding Cup (1) now.
+Think: I hold Cup (1). Now, I need to put it on the counter.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), SaltShaker (2), Plate (3), Faucet (1), Egg (1, 3), Drawer (1), DishSponge (1), Cup (1), CounterTop (1), Cabinet (1, 4), Apple (1).  I am holding Cup (1) now.
+Act: put down Cup (1)
+You put Cup (1) on CounterTop (1). You see Spatula (1), Sink (1), SinkBasin (1), SaltShaker (2), Plate (3), Faucet (1), Egg (1, 3), Drawer (1), DishSponge (1), Cup (1), CounterTop (1), Cabinet (1, 4), Apple (1).
+Think: I put Cup (1) on the CounterTop (1). Now, I need to recall location of the spoon.
+OK.
+Act: recall location of Spoon
+You saw Spoon (4) near DiningTable (1).
+Think: Spoon (4) is on the DiningTable (1). Now, I need to pick it up.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Toaster (1), Spoon (4), Pot (3), Lettuce (1), Fork (2), DiningTable (1), Bread (2). 
+Act: pick up Spoon (4)
+You pick up Spoon (4). You see Toaster (1), Spoon (4), Pot (3), Lettuce (1), Fork (2), DiningTable (1), Bread (2). I am holding Spoon (4) now.
+Think: I hold Spoon (4). Now, I need to recall location of the cup.
+OK.
+Act: recall location of Cup
+You saw Cup (1) near CounterTop (1).
+Think: Cup (1) is on the CounterTop (1). Now, I need to put Spoon (4) in Cup (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spoon (4), Spatula (1), Sink (1), SinkBasin (1), SaltShaker (2), Plate (3), Faucet (1), Egg (1, 3), Drawer (1), DishSponge (1), Cup (1), CounterTop (1), Cabinet (1, 4), Apple (1).  I am holding Spoon (4) now.
+Act: go to Cup (1)
+You arrive at Cup (1). You see Spoon (4), Spatula (1), Sink (1), SinkBasin (1), SaltShaker (2), Plate (3), Faucet (1), Egg (1), Drawer (1, 3), DishSponge (1), Cup (1), CounterTop (1), Cabinet (1, 4, 5, 7), Bowl (2), Apple (1).  I am holding Spoon (4) now.
+Act: put down Spoon (4)
+You put Spoon (4) on Cup (1). You see Spoon (4), Spatula (1), Sink (1), SinkBasin (1), SaltShaker (2), Plate (3), Faucet (1), Egg (1), Drawer (1, 3), DishSponge (1), Cup (1), CounterTop (1), Cabinet (1, 4, 5, 7), Bowl (2), Apple (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

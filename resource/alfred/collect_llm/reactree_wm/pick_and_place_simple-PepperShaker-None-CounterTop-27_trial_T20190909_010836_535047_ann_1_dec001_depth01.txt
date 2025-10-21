@@ -1,0 +1,7 @@
+Your task is to: Place a pepper mill on the counter by the toaster.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12).
+Think: Since I’m not holding a pepper mill, I need to accomplish 3 subgoals sequentially to solve the task. Find and pick up pepper mill, place pepper mill on counter, and place pepper mill near toaster.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up pepper mill, place pepper mill on counter, place pepper mill near toaster

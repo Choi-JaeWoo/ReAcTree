@@ -1,0 +1,119 @@
+Your primary goal is to: Put a bowl with a sponge in it on a table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up bowl, place bowl in sink basin, find and pick up sponge, and place sponge in bowl near sink basin.
+Your task is to: find and pick up bowl
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27).
+Think: First, I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: Now, I need to find the bowl. The bowl is more likely to appear on DiningTable (1), CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-27), Drawer (1-12). I can check each place one by one, starting from DiningTable (1), until I find the bowl.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (1), Tomato (1, 2), SoapBottle (1), Lettuce (2, 3), Ladle (1), DishSponge (1, 2, 4), DiningTable (1), Cup (1), Chair (1), Bowl (2). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see CounterTop (1), Bread (1, 2). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Toaster (1), Sink (1), Plate (1), CounterTop (2). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Toaster (1), Spatula (3), Sink (1), SinkBasin (1), Mug (1), Lettuce (1), Faucet (1), Egg (1), Drawer (4, 7), CounterTop (2), CoffeeMachine (1), Cabinet (8, 17). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Cabinet (8). Fridge (1) is closed. 
+Act: open Fridge (1)
+You open Fridge (1). You see Potato (1), Glassbottle (2), Fridge (1), Cabinet (8).
+Act: close Fridge (1)
+You close Fridge (1). You see Fridge (1), Cabinet (8).
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1). Microwave (1) is closed. 
+Act: open Microwave (1)
+You open Microwave (1). You see Microwave (1), Apple (1).
+Act: close Microwave (1)
+You close Microwave (1). You see Microwave (1).
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Microwave (1), Cabinet (1, 3, 12, 13). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see Microwave (1), Cabinet (1, 3, 12, 13).
+Act: close Cabinet (1)
+You close Cabinet (1). You see Microwave (1), Cabinet (1, 3, 12, 13).
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Drawer (1, 2, 10, 11), CounterTop (1), Cabinet (2, 10, 22, 27), Bread (1). Cabinet (2) is closed. 
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see Microwave (1), Cabinet (1, 3, 12, 13). Cabinet (3) is closed. 
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see Cabinet (4, 5, 6, 21). Cabinet (4) is closed. 
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Fridge (1), Cabinet (5, 21, 24). Cabinet (5) is closed. 
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Cabinet (4, 6, 16, 18). Cabinet (6) is closed. 
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Cabinet (7). Cabinet (7) is closed. 
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Knife (1), Fridge (1), Drawer (7), CounterTop (2), CoffeeMachine (1), Cabinet (8). Cabinet (8) is closed. 
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Cabinet (9). Cabinet (9) is closed. 
+Act: go to Cabinet (10)
+You arrive at Cabinet (10). You see Drawer (1, 2, 10, 11), CounterTop (1), Cabinet (2, 10, 22, 27), Bread (1). Cabinet (10) is closed. 
+Act: go to Cabinet (11)
+You arrive at Cabinet (11). You see Cabinet (7, 11, 12). Cabinet (11) is closed. 
+Act: go to Cabinet (12)
+You arrive at Cabinet (12). You see Cabinet (11, 12). Cabinet (12) is closed. 
+Act: go to Cabinet (13)
+You arrive at Cabinet (13). You see Microwave (1), Cabinet (1, 3, 13, 20). Cabinet (13) is closed. 
+Act: go to Cabinet (14)
+You arrive at Cabinet (14). You see Drawer (2, 8, 11, 12), CounterTop (1), Cabinet (2, 14, 25, 27), Bread (1). Cabinet (14) is closed. 
+Act: go to Cabinet (15)
+You arrive at Cabinet (15). You see GarbageCan (1), Drawer (3, 4), CounterTop (2), Cabinet (15, 17). Cabinet (15) is closed. 
+Act: go to Cabinet (16)
+You arrive at Cabinet (16). You see Cabinet (4, 6, 16, 18). Cabinet (16) is closed. 
+Act: go to Cabinet (17)
+You arrive at Cabinet (17). You see Spatula (3), Sink (1), SinkBasin (1), Mug (1), Lettuce (1), Egg (1), Drawer (4), CounterTop (2), Cabinet (8, 15, 17). Cabinet (17) is closed. 
+Act: go to Cabinet (18)
+You arrive at Cabinet (18). You see Cabinet (6, 16, 18). Cabinet (18) is closed. 
+Act: go to Cabinet (19)
+You arrive at Cabinet (19). You see Knife (3), Drawer (5, 9), CounterTop (1), Cabinet (19, 25, 26). Cabinet (19) is closed. 
+Act: go to Cabinet (20)
+You arrive at Cabinet (20). You see Microwave (1), Cabinet (9, 13, 20). Cabinet (20) is closed. 
+Act: go to Cabinet (21)
+You arrive at Cabinet (21). You see Cabinet (4, 5, 6, 21). Cabinet (21) is closed. 
+Act: go to Cabinet (22)
+You arrive at Cabinet (22). You see StoveBurner (2), Pot (2), Drawer (1, 10), CounterTop (1), Cabinet (10, 22). Cabinet (22) is closed. 
+Act: go to Cabinet (23)
+You arrive at Cabinet (23). You see Spatula (1, 2), Drawer (6), CounterTop (1), Cabinet (23), Bread (3). Cabinet (23) is closed. 
+Act: go to Cabinet (24)
+You arrive at Cabinet (24). You see Fridge (1), Cabinet (24). Cabinet (24) is closed. 
+Act: go to Cabinet (25)
+You arrive at Cabinet (25). You see Knife (2), Drawer (5, 8, 12), CounterTop (1), Cabinet (14, 19, 25, 26), ButterKnife (1). Cabinet (25) is closed. 
+Act: go to Cabinet (26)
+You arrive at Cabinet (26). You see Knife (2), Drawer (5, 8, 12), CounterTop (1), Cabinet (14, 19, 25, 26), ButterKnife (1). Cabinet (26) is closed. 
+Act: go to Cabinet (27)
+You arrive at Cabinet (27). You see Drawer (2, 8, 11, 12), CounterTop (1), Cabinet (2, 14, 25, 27), Bread (1). Cabinet (27) is closed. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Drawer (1, 10), CounterTop (1), Cabinet (10, 22). Drawer (1) is closed. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Drawer (2, 10, 11), CounterTop (1), Cabinet (2, 10, 14, 27), Bread (1). Drawer (2) is closed. 
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Toaster (1), Sink (1), SinkBasin (1), Plate (1), GarbageCan (1), Drawer (3), CounterTop (2). Drawer (3) is closed. 
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Toaster (1), Sink (1), SinkBasin (1), Plate (1), Mug (1), Lettuce (1), Faucet (1), Drawer (3, 4), CounterTop (2), Cabinet (15, 17). Drawer (4) is closed. 
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Pan (1), Knife (2, 3), HousePlant (1, 2), Drawer (5, 9, 12), Cup (2), CounterTop (1), Cabinet (14, 19, 25, 26), ButterKnife (1), Bread (2). Drawer (5) is closed. 
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see StoveBurner (3), Spatula (1, 2), Pot (1), Drawer (6), CounterTop (1), Cabinet (23), Bread (3). Drawer (6) is closed. 
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see Spatula (3), Sink (1), SinkBasin (1), Knife (1), Fridge (1), Faucet (1), Egg (1), Drawer (7), CounterTop (2), CoffeeMachine (1), Cabinet (8). Drawer (7) is closed. 
+Act: go to Drawer (8)
+You arrive at Drawer (8). You see HousePlant (2), Drawer (8, 11, 12), Cup (2), CounterTop (1), Cabinet (14, 25, 26), ButterKnife (1), Bread (2). Drawer (8) is closed. 
+Act: go to Drawer (9)
+You arrive at Drawer (9). You see Pan (1), Knife (2, 3), HousePlant (2), Cup (2), CounterTop (1), ButterKnife (1), Bread (2). Drawer (9) is closed. 
+Act: go to Drawer (10)
+You arrive at Drawer (10). You see Drawer (1, 2, 10), CounterTop (1), Cabinet (2, 10, 22). Drawer (10) is closed. 
+Act: go to Drawer (11)
+You arrive at Drawer (11). You see Drawer (2, 8, 11), CounterTop (1), Cabinet (2, 10, 14, 27), Bread (1). Drawer (11) is closed. 
+Act: go to Drawer (12)
+You arrive at Drawer (12). You see HousePlant (2), Drawer (5, 8, 12), Cup (2), CounterTop (1), Cabinet (14, 25, 26, 27), ButterKnife (1), Bread (2). Drawer (12) is closed. 
+Think: I find Bowl (2). Now, I need to pick it up.
+OK.
+Act: pick up Bread (2)
+You pick up Bread (2). You see HousePlant (2), Drawer (5, 8, 12), Cup (2), CounterTop (1), Cabinet (14, 27), ButterKnife (1), Bread (2). I am holding Bread (2) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

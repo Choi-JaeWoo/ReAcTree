@@ -1,0 +1,7 @@
+Your task is to: Put a box with a pencil in it on the coffee table. 
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1, 2), Sofa (1), SideTable (1), Shelf (1, 2, 3, 4), GarbageCan (1), Drawer (1), CoffeeTable (1), ArmChair (1, 2).
+Think: Since I’m not holding anything, I need to accomplish 3 subgoals sequentially to solve the task. Find and pick up box, place box on coffee table, and put pencil in box.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up box, place box on coffee table, put pencil in box

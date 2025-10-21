@@ -1,0 +1,145 @@
+Your primary goal is to: Move a bowl beneath the fork in the sink. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up bowl, place bowl in sink basin, find and pick up fork, and place fork on bowl near sink basin.
+Your task is to: place bowl in sink basin
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27), CounterTop (1, 2, 3, 4), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13).
+Think: I hold Bowl (1). Now, I need to put it in the sink basin. I can see SinkBasin (1).
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (3), Spoon (2), Spatula (2), Sink (1), SinkBasin (1), Mug (2), HousePlant (1), Fork (3), Faucet (1), Drawer (4, 5), CounterTop (2), CoffeeMachine (1), Cabinet (3, 6, 12). 
+Max decisions

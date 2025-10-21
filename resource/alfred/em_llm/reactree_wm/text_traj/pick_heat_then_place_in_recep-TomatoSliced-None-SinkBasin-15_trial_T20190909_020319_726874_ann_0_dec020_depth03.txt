@@ -1,0 +1,27 @@
+Your primary goal is to: Place a slice of heated tomato in a sink.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, slice and pick up tomato, heat and pick up tomato, and place tomato in sink basin.
+Your task is to: heat and pick up tomato
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11). I am holding Tomato (6) now.
+Think: I hold Tomato (6). Now, I need to heat it using the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Tomato (6), StoveBurner (1, 2, 3, 4), Pot (1, 2), PepperShaker (2), Microwave (1), CounterTop (1, 2), Cabinet (11), ButterKnife (1). Microwave (1) is closed.  I am holding Tomato (6) now.
+Act: open Microwave (1)
+You open Microwave (1). You see Tomato (6), StoveBurner (1, 2, 3, 4), Pot (1, 2), PepperShaker (2), Microwave (1), CounterTop (1, 2), ButterKnife (1). I am holding Tomato (6) now.
+Act: put down Tomato (6)
+You put Tomato (6) on Microwave (1). You see Tomato (6), StoveBurner (1, 2, 3, 4), Pot (1, 2), PepperShaker (2), Microwave (1), CounterTop (1, 2), ButterKnife (1).
+Act: close Microwave (1)
+You close Microwave (1). You see StoveBurner (1, 2, 3, 4), Pot (1, 2), PepperShaker (2), Microwave (1), CounterTop (1, 2), Cabinet (11), ButterKnife (1).
+Act: turn on Microwave (1)
+You turn on Microwave (1). You see StoveBurner (1, 2, 3, 4), Pot (1, 2), PepperShaker (2), Microwave (1), CounterTop (1, 2), Cabinet (11), ButterKnife (1).
+Act: turn off Microwave (1)
+You turn off Microwave (1). You see StoveBurner (1, 2, 3, 4), Pot (1, 2), PepperShaker (2), Microwave (1), CounterTop (1, 2), Cabinet (11), ButterKnife (1).
+Think: I heat Tomato (6) using Microwave (1). Now, I need to pick up the tomato from the microwave.
+OK.
+Act: open Microwave (1)
+You open Microwave (1). You see Tomato (6), StoveBurner (1, 2, 3, 4), Pot (1, 2), PepperShaker (2), Microwave (1), CounterTop (1, 2), ButterKnife (1).
+Act: pick up Tomato (6)
+You pick up Tomato (6). You see Tomato (6), StoveBurner (1, 2, 3, 4), Pot (1, 2), PepperShaker (2), Microwave (1), CounterTop (1, 2), ButterKnife (1). I am holding Tomato (6) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

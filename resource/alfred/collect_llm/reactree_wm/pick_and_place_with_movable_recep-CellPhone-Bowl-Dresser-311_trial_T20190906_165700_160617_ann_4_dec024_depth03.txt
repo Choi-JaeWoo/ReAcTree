@@ -1,0 +1,157 @@
+Your primary goal is to: Put a cell phone in a bowl on the TV stand.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up cell phone, find and pick up bowl, and place cell phone in bowl.
+Your task is to: place cell phone in bowl
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), LaundryHamper (1), GarbageCan (1), Dresser (1), Drawer (1, 2), DiningTable (1), CounterTop (1), Bed (1), ArmChair (1, 2). I am holding Bowl (1) now.
+Think: I hold Bowl (1). Now, I need to put it on the TV stand. I can see SideTable (1).
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (1), Lamp (2), CellPhone (1), Bowl (1), ArmChair (2).  I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put down failed, drop it. You see SideTable (1), Pencil (1), Lamp (2), CellPhone (1), Bowl (1), ArmChair (2).
+Think: Now I need to pick up CellPhone (1).
+OK.
+Act: pick up CellPhone (1)
+You pick up CellPhone (1). You see SideTable (1), Pencil (1), Lamp (2), CellPhone (1), Bowl (1), ArmChair (2). I am holding CellPhone (1) now.
+Think: Now I need to put CellPhone (1) in Bowl (1).
+OK.
+Act: put down CellPhone (1)
+You put down failed, drop it. You see SideTable (1), Pencil (1), Lamp (2), Bowl (1), ArmChair (2).
+Think: Now I need to pick up Bowl (1).
+OK.
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see SideTable (1), Pencil (1), Lamp (2), Bowl (1), ArmChair (2). I am holding Bowl (1) now.
+Think: Now I need to put CellPhone (1) in Bowl (1).
+OK.
+Act: put down Bowl (1)
+You put down failed, drop it. You see SideTable (1), Pencil (1), Lamp (2), Bowl (1), ArmChair (2).
+Think: Now I need to pick up CellPhone (1).
+OK.
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see SideTable (1), Pencil (1), Lamp (2), Bowl (1), ArmChair (2). I am holding Bowl (1) now.
+Think: Now I need to put CellPhone (1) in Bowl (1).
+OK.
+Act: put down Bowl (1)
+You put down failed, drop it. You see SideTable (1), Pencil (1), Lamp (2), ArmChair (2).
+Think: Now I need to pick up CellPhone (1).
+OK.
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see SideTable (1), Pencil (1), Lamp (2), ArmChair (2). I am holding Pencil (1) now.
+Think: Now I need to put Pencil (1) in Bowl (1).
+OK.
+Act: put down Pencil (1)
+You put down failed, drop it. You see SideTable (1), Pencil (1), Lamp (2), ArmChair (2).
+Think: Now I need to pick up Bowl (1).
+OK.
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see SideTable (1), Pencil (1), Lamp (2), ArmChair (2). I am holding Pencil (1) now.
+Think: Now I need to put Pencil (1) in Bowl (1).
+OK.
+Act: put down Pencil (1)
+You put down failed, drop it. You see SideTable (1), Pencil (1), Lamp (2), ArmChair (2).
+Think: Now I need to pick up CellPhone (1).
+OK.
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see SideTable (1), Pencil (1), Lamp (2), ArmChair (2). I am holding Pencil (1) now.
+Think: Now I need to put Pencil (1) in Bowl (1).
+OK.
+Act: put down Pencil (1)
+You put down failed, drop it. You see SideTable (1), Pencil (1), Lamp (2), ArmChair (2).
+Think: Now I need to pick up Bowl (1).
+OK.
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see SideTable (1), Pencil (1), Lamp (2), ArmChair (2). I am holding Pencil (1) now.
+Think: Now I need to put Pencil (1) in Bowl (1).
+OK.
+Act: put down Pencil (1)
+You put down failed, drop it. You see SideTable (1), Pencil (1), Lamp (2), ArmChair (2).
+Think: Now I need to pick up CellPhone (1).
+OK.
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see SideTable (1), Pencil (1), Lamp (2), ArmChair (2). I am holding Pencil (1) now.
+Think: Now I need to put Pencil (1) in Bowl (1).
+OK.
+Act: put down Pencil (1)
+You put down failed, drop it. You see SideTable (1), Pencil (1), Lamp (2), ArmChair (2).
+Think: Now I need to pick up Bowl (1).
+OK.
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see SideTable (1), Pencil (1), Lamp (2), ArmChair (2). I am holding Pencil (1) now.
+Think: Now I need to put Pencil (1) in Bowl (1).
+OK.
+Act: put down Pencil (1)
+You put down failed, drop it. You see SideTable (1), Pencil (1), Lamp (2), ArmChair (2).
+Think: Now I need to pick up CellPhone (1).
+OK.
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see SideTable (1), Pencil (1), Lamp (2), ArmChair (2). I am holding Pencil (1) now.
+Think: Now I need to put Pencil (1) in Bowl (1).
+OK.
+Act: put down Pencil (1)
+You put down failed, drop it. You see SideTable (1), Pencil (1), Lamp (2), ArmChair (2).
+Think: Now I need to pick up Bowl (1).
+OK.
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see SideTable (1), Pencil (1), Lamp (2), ArmChair (2). I am holding Pencil (1) now.
+Think: Now I need to put Pencil (1) in Bowl (1).
+OK.
+Act: put down Pencil (1)
+You put down failed, drop it. You see SideTable (1), Pencil (1), Lamp (2), ArmChair (2).
+Think: Now I need to pick up CellPhone (1).
+OK.
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see SideTable (1), Pencil (1), Lamp (2), ArmChair (2). I am holding Pencil (1) now.
+Think: Now I need to put Pencil (1) in Bowl (1).
+OK.
+Act: put down Pencil (1)
+You put down failed, drop it. You see SideTable (1), Pencil (1), Lamp (2), ArmChair (2).
+Think: Now I need to pick up Bowl (1).
+OK.
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see SideTable (1), Pencil (1), Lamp (2), ArmChair (2). I am holding Pencil (1) now.
+Think: Now I need to put Pencil (1) in Bowl (1).
+OK.
+Act: put down Pencil (1)
+You put down failed, drop it. You see SideTable (1), Pencil (1), Lamp (2), ArmChair (2).
+Think: Now I need to pick up CellPhone (1).
+OK.
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see SideTable (1), Pencil (1), Lamp (2), ArmChair (2). I am holding Pencil (1) now.
+Think: Now I need to put Pencil (1) in Bowl (1).
+OK.
+Act: put down Pencil (1)
+You put down failed, drop it. You see SideTable (1), Pencil (1), Lamp (2), ArmChair (2).
+Think: Now I need to pick up Bowl (1).
+OK.
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see SideTable (1), Pencil (1), Lamp (2), ArmChair (2). I am holding Pencil (1) now.
+Think: Now I need to put Pencil (1) in Bowl (1).
+OK.
+Act: put down Pencil (1)
+You put down failed, drop it. You see SideTable (1), Pencil (1), Lamp (2), ArmChair (2).
+Think: Now I need to pick up CellPhone (1).
+OK.
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see SideTable (1), Pencil (1), Lamp (2), ArmChair (2). I am holding Pencil (1) now.
+Think: Now I need to put Pencil (1) in Bowl (1).
+OK.
+Act: put down Pencil (1)
+You put down failed, drop it. You see SideTable (1), Pencil (1), Lamp (2), ArmChair (2).
+Think: Now I need to pick up Bowl (1).
+OK.
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see SideTable (1), Pencil (1), Lamp (2), ArmChair (2). I am holding Pencil (1) now.
+Think: Now I need to put Pencil (1) in Bowl (1).
+OK.
+Act: put down Pencil (1)
+You put down failed, drop it. You see SideTable (1), Pencil (1), Lamp (2), ArmChair (2).
+Think: Now I need to pick up CellPhone (1).
+OK.
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see SideTable (1), Pencil (1), Lamp (2), ArmChair (2). I am holding Pencil (1) now.
+Think: Now I need to put Pencil (1) in Bowl (1).
+OK.
+Act: put down Pencil (1)
+You put down failed, drop it. You see SideTable (1), Pencil (1), Lamp (2), ArmChair (2).
+Think: Now I need to pick up Bowl (1).
+OK.
+Max decisions

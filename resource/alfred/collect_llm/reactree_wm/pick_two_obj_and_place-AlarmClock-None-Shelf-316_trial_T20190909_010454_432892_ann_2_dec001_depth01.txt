@@ -1,0 +1,7 @@
+Your task is to: Move two digital clocks to a shelf.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1), GarbageCan (1), Drawer (1, 2), Desk (1), Bed (1).
+Think: Since I’m not holding the digital clock, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up digital clock, place digital clock on shelf, Find and pick up digital clock away from shelf, and place digital clock on shelf.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up digital clock, place digital clock on shelf, Find and pick up digital clock away from shelf, place digital clock on shelf

@@ -1,0 +1,19 @@
+Your primary goal is to: Put a white plate with a watch on it on a coffee table shelf.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up plate, place plate on coffee table shelf, and place watch on plate.
+Your task is to: find and pick up plate
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1, 2), GarbageCan (1), Drawer (1, 2), DiningTable (1, 2), CoffeeTable (1), ArmChair (1, 2).
+Think: First, I need to recall location of the plate.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now, I need to find the plate. The plate is more likely to appear on DiningTable (1-2), CoffeeTable (1), or in Drawer (1-2). I can check each place one by one, starting from DiningTable (1), until I find the plate.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1), Plate (1), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Book (1, 3). 
+Think: I find Plate (1). Now, I need to pick it up.
+OK.
+Act: pick up Plate (1)
+You pick up Plate (1). You see Vase (1), Plate (1), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Book (1, 3). I am holding Plate (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

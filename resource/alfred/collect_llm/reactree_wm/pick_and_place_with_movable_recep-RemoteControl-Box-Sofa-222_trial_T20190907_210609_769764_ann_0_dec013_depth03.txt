@@ -1,0 +1,57 @@
+Your primary goal is to: Put the remote away in the box on the couch.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up remote, place remote in box, Find and pick up remote away from box, and and place remote in box.
+Your task is to: Find and pick up remote away from box
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1, 2), SideTable (1, 2, 3), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7), CoffeeTable (1), ArmChair (1).
+Think: First, I need to recall location of the remote.
+OK.
+Act: recall location of RemoteControl
+You saw RemoteControl (1) near Sofa (1). You saw RemoteControl (2) near TVStand (1).
+Think: RemoteControl (1) is on Sofa (1). RemoteControl (2) is on TVStand (1). Now, I need to find another remote control. The remote control is more likely to appear on TVStand (1), Sofa (1-2), SideTable (1-3), CoffeeTable (1), ArmChair (1), or in Drawer (1-7). I can check each place one by one, starting from TVStand (1), until I find the remote control.
+OK.
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), RemoteControl (2). 
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), RemoteControl (1), Pillow (1). 
+Act: go to Sofa (2)
+You arrive at Sofa (2). You see Sofa (2). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Watch (2), Sofa (2), SideTable (1), Drawer (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Sofa (1), SideTable (2), Pillow (1), Newspaper (1), Curtains (1), Box (1), ArmChair (1). 
+Act: go to SideTable (3)
+You arrive at SideTable (3). You see Television (1), TVStand (1), Statue (1), Sofa (2), SideTable (1, 3), RemoteControl (2), Drawer (1). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (1, 3), Laptop (1), Drawer (3, 5, 6), CoffeeTable (1). 
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see SideTable (2), Newspaper (1), GarbageCan (1), Curtains (1), ArmChair (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Television (1), TVStand (1), Statue (1), SideTable (1, 3), RemoteControl (2), Drawer (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Television (1), TVStand (1), Statue (1), Sofa (2), SideTable (1, 3), RemoteControl (2), Drawer (1).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Watch (1, 3), Sofa (1), Laptop (1), Drawer (2, 4, 7), CoffeeTable (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see Watch (1, 3), Laptop (1), Drawer (2, 4, 7), CoffeeTable (1).
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Watch (1, 3), Laptop (1), Drawer (3, 5, 6), CoffeeTable (1). Drawer (3) is closed. 
+Act: open Drawer (3)
+The Drawer (3) is open failed.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Watch (1, 3), Sofa (1), Laptop (1), Drawer (2, 4, 7), CoffeeTable (1). Drawer (4) is closed. 
+Act: open Drawer (4)
+The Drawer (4) is open failed.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Watch (1, 3), Laptop (1), Drawer (3, 5, 6), CoffeeTable (1). Drawer (5) is closed. 
+Act: open Drawer (5)
+The Drawer (5) is open failed.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Watch (1, 3), Laptop (1), Drawer (3, 5, 6), CoffeeTable (1). Drawer (6) is closed. 
+Act: open Drawer (6)
+The Drawer (6) is open failed.
+Act: go to Drawer (7)
+You arrive at Drawer (7). You see Watch (1, 3), Sofa (1), Laptop (1), Drawer (2, 4, 7), CoffeeTable (1). Drawer (7) is closed. 
+Act: open Drawer (7)
+The Drawer (7) is open failed.
+Think: I can't find the remote control. I failed to accomplish the goal.
+OK.
+Act: failure

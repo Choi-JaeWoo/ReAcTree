@@ -1,0 +1,6 @@
+Your task is to: Chill an apple and place it in a microwave
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19).
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), Mug (1), Lettuce (1), Fork (1), Faucet (1), Drawer (1), CounterTop (2), Cabinet (1), Bowl (1). 
+Act: slice Lettuce (1)
+You slice Lettuce (1). You see Sink (1), SinkBasin (1), Mug (1), Lettuce (2, 3, 4, 5, 6, 7, 8), Fork (1), Faucet (1), Drawer (1), CounterTop (2), Cabinet (1), Bowl (1). Lettuce (2, 3, 4, 5, 6, 7, 8) are sliced.

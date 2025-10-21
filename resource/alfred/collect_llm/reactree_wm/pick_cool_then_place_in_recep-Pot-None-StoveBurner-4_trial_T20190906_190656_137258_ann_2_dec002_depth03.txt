@@ -1,0 +1,19 @@
+Your primary goal is to: Place a cooled metal pot on the stove.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up metal pot, cool and pick up metal pot, and place metal pot on stove.
+Your task is to: find and pick up metal pot
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2).
+Think: First, I need to recall location of the metal pot.
+OK.
+Act: recall location of Pot
+You have not seen Pot before.
+Think: Now, I need to find the metal pot. The metal pot is more likely to appear on StoveBurner (1-4), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-2), Drawer (1-6). I can check each place one by one, starting from StoveBurner (1), until I find the metal pot.
+OK.
+Act: go to StoveBurner (1)
+You arrive at StoveBurner (1). You see Window (1), StoveKnob (1, 3), StoveBurner (1, 2, 3, 4), Pot (1), Pan (1), CounterTop (1, 2), ButterKnife (1). 
+Think: I find Pot (1). Now, I need to pick it up.
+OK.
+Act: pick up Pot (1)
+You pick up Pot (1). You see Window (1), StoveKnob (3), StoveBurner (2, 4), Pot (1), Pan (1), CounterTop (1, 2). I am holding Pot (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

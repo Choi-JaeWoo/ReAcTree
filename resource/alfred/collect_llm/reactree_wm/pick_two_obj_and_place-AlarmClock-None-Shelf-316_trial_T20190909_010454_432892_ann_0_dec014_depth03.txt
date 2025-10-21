@@ -1,0 +1,23 @@
+Your primary goal is to: Move two alarm clocks to the shelf below the desk. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up alarm clock, place alarm clock on shelf, Find and pick up alarm clock away from shelf, and place alarm clock on shelf.
+Your task is to: Find and pick up alarm clock away from shelf
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1), GarbageCan (1), Drawer (1, 2), Desk (1), Bed (1).
+Think: First, I need to recall location of the alarm clock.
+OK.
+Act: recall location of AlarmClock
+You dropped AlarmClock due to fail to put it on the receptacle. You need to find it again.
+Think: Now, I need to find the alarm clock. The alarm clock is more likely to appear on Bed (1), Desk (1), SideTable (1), Shelf (1), or in Drawer (1-2). I can check each place one by one, starting from Bed (1), until I find the alarm clock.
+OK.
+Act: go to Bed (1)
+You arrive at Bed (1). You see Pillow (1, 2), Laptop (1), CellPhone (1), Book (1, 2), Bed (1). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (2), KeyChain (1), Desk (1), Chair (1), Book (3). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (2), Pen (1), Drawer (1, 2), Bed (1), AlarmClock (2). 
+Think: I find AlarmClock (2). Now, I need to pick it up.
+OK.
+Act: pick up AlarmClock (2)
+You pick up AlarmClock (2). You see SideTable (1), Pencil (2), Pen (1), Drawer (1), Bed (1), AlarmClock (2). I am holding AlarmClock (2) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

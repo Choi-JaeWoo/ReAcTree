@@ -1,0 +1,37 @@
+Your task is to: Throw away the heated up tomato slice. 
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), CounterTop (1, 2, 3, 4), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15).
+Think: To solve the task, I need to find and pick up the tomato slice. And I need to put it in the garbage can.
+OK.
+Think: First, I need to recall location of the tomato slice.
+OK.
+Act: recall location of Tomato
+You have not seen Tomato before.
+Think: Now I need to find the tomato slice. The tomato slice is more likely to appear on CounterTop (1-4), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-15), Drawer (1-4). I can check each place one by one, starting from CounterTop (1), until I find the tomato slice.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (2), Tomato (1), StoveKnob (3), StoveBurner (2, 3), Potato (3), Pot (1), PepperShaker (2), PaperTowelRoll (1), Kettle (1), GarbageCan (1), Fork (3), DishSponge (2), CounterTop (1). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Tomato (2), Plate (2), Pan (1), Lettuce (3), CounterTop (2), ButterKnife (1), Bread (1), Bowl (1), Apple (2). 
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Mug (3), CounterTop (3), CoffeeMachine (1). 
+Act: go to CounterTop (4)
+You arrive at CounterTop (4). You see Chair (1), Cabinet (2, 3). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (1), Spoon (1), Sink (1), SinkBasin (1), Potato (2), Lettuce (1), Faucet (1), CounterTop (3). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1). Fridge (1) is closed. 
+Act: open Fridge (1)
+You open Fridge (1). You see Tomato (3), Lettuce (2), Fridge (1), Cup (2), Cabinet (12).
+Think: I find Tomato (3). Now, I need to pick it up.
+OK.
+Act: pick up Tomato (3)
+You pick up Tomato (3). You see Tomato (3), Lettuce (2), Fridge (1), Cup (2), Cabinet (12). I am holding Tomato (3) now.
+Think: I hold Tomato (3). Now, I need to put it in the garbage can.
+OK.
+Act: go to GarbageCan (1)
+You arrive at GarbageCan (1). You see Window (2), Tomato (1, 3), StoveBurner (3), Potato (3), Pot (1), PepperShaker (2), PaperTowelRoll (1), GarbageCan (1), Fork (3), Egg (1), DishSponge (2), CounterTop (1).  I am holding Tomato (3) now.
+Act: put down Tomato (3)
+You put down failed, drop it. You see Window (2), Tomato (1, 3), StoveBurner (3), Potato (3), Pot (1), PepperShaker (2), PaperTowelRoll (1), GarbageCan (1), Fork (3), Egg (1), DishSponge (2), CounterTop (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

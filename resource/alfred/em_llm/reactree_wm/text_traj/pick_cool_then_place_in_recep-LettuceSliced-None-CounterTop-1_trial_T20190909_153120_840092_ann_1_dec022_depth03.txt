@@ -1,0 +1,23 @@
+Your primary goal is to: Put a chilled slice of lettuce on the counter.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, slice and pick up lettuce, chill and pick up lettuce, and place lettuce on counter.
+Your task is to: chill and pick up lettuce
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9). I am holding Lettuce (10) now.
+Think: I hold Lettuce (10). Now, I need to chill it using fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Lettuce (10), Fridge (1), Cabinet (6). Fridge (1) is closed.  I am holding Lettuce (10) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Potato (1, 2), Lettuce (10), GarbageCan (1), Fridge (1). I am holding Lettuce (10) now.
+Act: put down Lettuce (10)
+You put Lettuce (10) on Fridge (1). You see Potato (1), Lettuce (10), GarbageCan (1), Fridge (1).
+Act: close Fridge (1)
+You close Fridge (1). You see Fridge (1), Cabinet (6).
+Think: I chill Lettuce (10) using Fridge (1). Now, I need to pick up the lettuce from the fridge.
+OK.
+Act: open Fridge (1)
+You open Fridge (1). You see Potato (1), Lettuce (10), GarbageCan (1), Fridge (1).
+Act: pick up Lettuce (10)
+You pick up Lettuce (10). You see Potato (1, 2), Lettuce (10), GarbageCan (1), Fridge (1). I am holding Lettuce (10) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

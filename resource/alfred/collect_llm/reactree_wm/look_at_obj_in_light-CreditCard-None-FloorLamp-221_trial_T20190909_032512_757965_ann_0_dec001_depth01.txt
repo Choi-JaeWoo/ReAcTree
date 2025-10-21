@@ -1,0 +1,7 @@
+Your task is to: turn on floor lamp with credit card in hand
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1), GarbageCan (1), Drawer (1), DiningTable (1), CoffeeTable (1, 2), ArmChair (1).
+Think: I hold CreditCard (1). Now, I need to find and turn on the floor lamp.
+OK.
+Expand:
+- control flow: fallback
+- subgoals: find and turn on the floor lamp

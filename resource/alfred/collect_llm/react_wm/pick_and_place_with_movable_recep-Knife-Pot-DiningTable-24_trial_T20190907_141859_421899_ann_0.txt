@@ -1,0 +1,53 @@
+Your task is to: Put a put with a knife down on a table.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), DiningTable (1), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23).
+Think: To solve the task, I need to find and pick up the put, then put it on the table. And I need to find and pick up the knife, then put it on the put on the table.
+OK.
+Think: First, I need to recall location of the put.
+OK.
+Act: recall location of Pot
+You have not seen Pot before.
+Think: Now I need to find the put. The put is more likely to appear on DiningTable (1), CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-23), Drawer (1-4). I can check each place one by one, starting from DiningTable (1), until I find the put.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (1), Lettuce (1), DiningTable (1), CoffeeMachine (1), Chair (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see StoveKnob (1, 4), StoveBurner (2, 3), SoapBottle (3), PaperTowelRoll (1), Pan (1), Fork (3), Drawer (3), Cup (3), CounterTop (1), Cabinet (21). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Toaster (1), Spatula (2), Sink (1), SinkBasin (1), Microwave (1), Knife (1), Faucet (2), Drawer (4), CounterTop (2), Cabinet (3, 9, 18, 19, 23). 
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see StoveKnob (3), StoveBurner (1), Spatula (1), Pot (2), GarbageCan (1), Fork (1), Drawer (1, 2), DishSponge (1), Cup (2), CounterTop (3), Cabinet (4, 17), ButterKnife (1), Bread (1). 
+Think: I find Pot (2). Now, I need to pick it up.
+OK.
+Act: pick up Pot (2)
+You pick up Pot (2). You see StoveKnob (3), StoveBurner (1), Pot (2), GarbageCan (1), Fork (1), Cup (2), CounterTop (3). I am holding Pot (2) now.
+Think: I hold Pot (2). Now, I need to put it on the table.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (1), Pot (2), Lettuce (1), DiningTable (1), CoffeeMachine (1).  I am holding Pot (2) now.
+Act: put down Pot (2)
+You put Pot (2) on DiningTable (1). You see Tomato (1), Pot (2), Lettuce (1), DiningTable (1), CoffeeMachine (1), Chair (1).
+Think: I put Pot (2) on the DiningTable (1). Now, I need to recall location of the knife.
+OK.
+Act: recall location of Knife
+You saw Knife (1) near CounterTop (2).
+Think: Knife (1) is on the CounterTop (2). Now, I need to pick it up.
+OK.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Toaster (1), Spatula (2), Sink (1), SinkBasin (1), Microwave (1), Knife (1), Faucet (2), Drawer (4), CounterTop (2), Cabinet (3, 9, 18, 19, 23). 
+Act: pick up Knife (1)
+You pick up Knife (1). You see Toaster (1), Spatula (2), Sink (1), SinkBasin (1), Microwave (1), Knife (1), Faucet (2), Drawer (4), CounterTop (2), Cabinet (3, 9, 18, 19, 23). I am holding Knife (1) now.
+Think: I hold Knife (1). Now, I need to recall location of the put.
+OK.
+Act: recall location of Pot
+You saw Pot (2) near DiningTable (1).
+Think: Pot (2) is on the DiningTable (1). Now, I need to put Knife (1) on Pot (2).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (1), Pot (2), Lettuce (1), Knife (1), DiningTable (1), CoffeeMachine (1), Chair (1).  I am holding Knife (1) now.
+Act: go to Pot (2)
+You arrive at Pot (2). You see Tomato (1), Pot (2), Lettuce (1), Knife (1), DiningTable (1), CoffeeMachine (1), Chair (1).  I am holding Knife (1) now.
+Act: put down Knife (1)
+You put Knife (1) on Pot (2). You see Tomato (1), Pot (2), Lettuce (1), Knife (1), DiningTable (1), CoffeeMachine (1), Chair (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

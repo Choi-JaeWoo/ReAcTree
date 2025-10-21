@@ -1,0 +1,13 @@
+Your primary goal is to: Place a mug with a pen in it on a dresser.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up mug, find and pick up pen, and place mug with pen on dresser.
+Your task is to: place mug with pen on dresser
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5), Desk (1), Bed (1). I am holding Mug (1) now.
+Think: I hold Mug (1). Now, I need to put it on the dresser. I can see Dresser (1).
+OK.
+Act: go to Dresser (1)
+You arrive at Dresser (1). You see Window (1), Vase (1), Mug (1), KeyChain (1), Dresser (1), Drawer (3, 4), Book (1), Bed (1), AlarmClock (1, 2).  I am holding Mug (1) now.
+Act: put down Mug (1)
+You put Mug (1) on Dresser (1). You see Window (1), Vase (1), Mug (1), KeyChain (1), Dresser (1), Drawer (3, 4), Book (1), Bed (1), AlarmClock (1, 2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

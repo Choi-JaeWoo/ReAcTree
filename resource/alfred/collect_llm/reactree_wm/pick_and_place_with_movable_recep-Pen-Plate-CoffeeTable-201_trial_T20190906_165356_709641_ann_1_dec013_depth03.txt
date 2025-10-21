@@ -1,0 +1,19 @@
+Your primary goal is to: Place a plate and a pen underneath a glass coffee table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up plate, place plate under coffee table, find and pick up pen, and place pen on plate near coffee table.
+Your task is to: find and pick up pen
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1, 2), GarbageCan (1), Drawer (1, 2), DiningTable (1, 2), CoffeeTable (1), ArmChair (1, 2).
+Think: First, I need to recall location of the pen.
+OK.
+Act: recall location of Pen
+You saw Pen (4) near DiningTable (1).
+Think: I can find Pen (4) near DiningTable (1).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Statue (1), Plate (3), Pen (4), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (2), Book (1). 
+Think: I find Pen (4). Now, I need to pick it up.
+OK.
+Act: pick up Pen (4)
+You pick up Pen (4). You see Statue (1), Plate (3), Pen (4), DiningTable (1), Chair (2, 3, 4, 5), Box (1), Bowl (2), Book (1). I am holding Pen (4) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

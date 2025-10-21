@@ -1,0 +1,15 @@
+Your primary goal is to: Place a knife and a slice of fruit on a pan in the fridge.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pan, place pan in fridge, find and pick up knife, slice and pick up fruit, and place fruit on pan near fridge.
+Your task is to: place fruit on pan near fridge
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13). I am holding Apple (1) now.
+Think: I hold Apple (1). Now, I need to recall location of the pan.
+OK.
+Act: recall location of Pan
+You saw Pan (1) near Fridge (1).
+Think: I can find Pan (1) near Fridge (1). 
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Pan (1), Fridge (1), Cup (1), Apple (1). Fridge (1) is open.  I am holding Apple (1) now.
+Think: I find Pan (1). Now, I need to put down Apple (1) on Pan (1).
+OK.
+Max decisions

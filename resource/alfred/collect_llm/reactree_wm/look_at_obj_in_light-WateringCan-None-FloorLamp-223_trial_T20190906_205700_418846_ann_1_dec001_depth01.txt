@@ -1,0 +1,7 @@
+Your task is to: Use the watering can as a remote control to turn on the floor lamp.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), GarbageCan (1), DiningTable (1, 2), CoffeeTable (1), ArmChair (1, 2, 3).
+Think: Since I’m not holding the watering can, I need to accomplish 3 subgoals sequentially to solve the task. Find and pick up watering can, find and turn on floor lamp, and use watering can as remote control.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up watering can, find and turn on floor lamp, use watering can as remote control

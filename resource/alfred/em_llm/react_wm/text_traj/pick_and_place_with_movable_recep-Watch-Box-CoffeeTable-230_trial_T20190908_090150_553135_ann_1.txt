@@ -1,0 +1,55 @@
+Your task is to: Place a box on the coffee table with a watch inside.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2), GarbageCan (1), DiningTable (1), CoffeeTable (1, 2), ArmChair (1, 2).
+Think: To solve the task, I need to find and pick up the box, then put it on the coffee table. And I need to find and pick up the watch, then put it in the box on the coffee table.
+OK.
+Think: First, I need to recall location of box.
+OK.
+Act: recall location of Box
+You have not seen Box before.
+Think: Now I need to find the box. The box is more likely to appear on CoffeeTable (1-2), SideTable (1-2), or in DiningTable (1), Sofa (1), ArmChair (1-2). I can check each place one by one, starting from CoffeeTable (1), until I find the box.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Statue (2), Newspaper (2), HousePlant (1), CoffeeTable (1). 
+Act: go to CoffeeTable (2)
+You arrive at CoffeeTable (2). You see Television (1), Statue (1), KeyChain (3), CoffeeTable (2), Candle (3). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Window (4, 6), Watch (2), SideTable (1), Lamp (2), Chair (4), Candle (2). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), Lamp (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Watch (1), TissueBox (1), Plate (1, 2, 3), KeyChain (2), CreditCard (1), Chair (1, 2), Candle (1), Box (1). 
+Think: I find Box (1). Now, I need to pick it up.
+OK.
+Act: pick up Box (1)
+You pick up Box (1). You see Watch (1), TissueBox (1), Plate (1, 2, 3), KeyChain (2), CreditCard (1), Chair (1), Candle (1), Box (1). I am holding Box (1) now.
+Think: I hold Box (1). Now, I need to put it on the coffee table.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Statue (2), Newspaper (2), HousePlant (1), CoffeeTable (1), Box (1).  I am holding Box (1) now.
+Act: put down Box (1)
+You put Box (1) on CoffeeTable (1). You see Statue (2), Newspaper (2), HousePlant (1), CoffeeTable (1), Box (1).
+Think: I put Box (1) on the CoffeeTable (1). Now, I need to recall location of the watch.
+OK.
+Act: recall location of Watch
+You saw Watch (2) near SideTable (1). You saw Watch (1) near DiningTable (1).
+Think: Watch (1) is on the DiningTable (1). Now, I need to pick it up.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Watch (1), TissueBox (1), Plate (1, 2, 3), KeyChain (2), CreditCard (1), Chair (1, 2), Candle (1). 
+Act: pick up Watch (1)
+You pick up Watch (1). You see Watch (1), TissueBox (1), Plate (1, 2, 3), KeyChain (2), CreditCard (1), Chair (1, 2), Candle (1). I am holding Watch (1) now.
+Think: I hold Watch (1). Now, I need to recall location of the box.
+OK.
+Act: recall location of Box
+You saw Box (1) near CoffeeTable (1).
+Think: Box (1) is on the CoffeeTable (1). Now, I need to put Watch (1) in Box (1).
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Watch (1), Statue (2), Newspaper (2), HousePlant (1), CoffeeTable (1), Box (1).  I am holding Watch (1) now.
+Act: go to Box (1)
+You arrive at Box (1). You see Watch (1), Statue (2), Newspaper (2), HousePlant (1), CoffeeTable (1), Box (1). Box (1) is open.  I am holding Watch (1) now.
+Act: put down Watch (1)
+You put Watch (1) on Box (1). You see Watch (1), Statue (2), Newspaper (2), HousePlant (1), CoffeeTable (1), Box (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

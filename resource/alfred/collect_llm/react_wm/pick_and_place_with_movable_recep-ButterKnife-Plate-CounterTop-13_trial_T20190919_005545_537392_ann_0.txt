@@ -1,0 +1,67 @@
+Your task is to: place a plate down on the counter with a knife on the plate
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26).
+Think: To solve the task, I need to find and pick up the plate, then put it on the counter top. And I need to find and pick up the knife, then put it on the plate on the counter top.
+OK.
+Think: First, I need to recall location of the plate.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now I need to find the plate. The plate is more likely to appear on CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-26), Drawer (1-12). I can check each place one by one, starting from CounterTop (1), until I find the plate.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (2), Drawer (6, 7), CounterTop (1), Cabinet (6, 10). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see WineBottle (3), StoveBurner (1, 3), Spoon (1), Pan (2), Mug (1), LightSwitch (1), Lettuce (2), CounterTop (2), Cabinet (22), ButterKnife (2, 3). 
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Spatula (1), SoapBottle (2, 3), PepperShaker (3), Knife (1), Drawer (3, 12), CounterTop (3), Cabinet (1, 9), ButterKnife (1), Bread (1). 
+Think: I find Plate (1). Now, I need to pick it up.
+OK.
+Act: pick up Knife (1)
+You pick up Knife (1). You see Spatula (1), SoapBottle (2, 3), PepperShaker (3), Knife (1), Drawer (3, 12), CounterTop (3), Cabinet (1, 9), ButterKnife (1), Bread (1). I am holding Knife (1) now.
+Think: I hold Knife (1). Now, I need to put it on the countertop.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (2), Knife (1), Drawer (6, 7), CounterTop (1), Cabinet (6, 10).  I am holding Knife (1) now.
+Act: put down Knife (1)
+You put Knife (1) on CounterTop (1). You see WineBottle (2), Knife (1), Drawer (6, 7), CounterTop (1), Cabinet (6, 10).
+Think: I put Knife (1) on the CounterTop (1). Now, I need to recall location of the plate.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now I need to find the plate. The plate is more likely to appear on SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-26), Drawer (1-12). I can check each place one by one, starting from SinkBasin (1), until I find the plate.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Spoon (3), Sink (1), SinkBasin (1), Faucet (1), Egg (1), Drawer (11), DishSponge (2), CounterTop (1), Cabinet (4, 19, 23), Apple (1, 2). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Cabinet (26). Fridge (1) is closed. 
+Act: open Fridge (1)
+You open Fridge (1). You see Pot (2), Plate (1), Fridge (1), Cabinet (26).
+Think: I find Plate (1). Now, I need to pick it up.
+OK.
+Act: pick up Plate (1)
+You pick up Plate (1). You see Pot (2), Plate (1), Fridge (1), Cabinet (26). I am holding Plate (1) now.
+Think: I hold Plate (1). Now, I need to put it on the countertop.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (2), Plate (1), Knife (1), Drawer (6), CounterTop (1).  I am holding Plate (1) now.
+Act: put down Plate (1)
+You put Plate (1) on CounterTop (1). You see WineBottle (2), Plate (1), Knife (1), Drawer (6, 7), CounterTop (1), Cabinet (6, 10).
+Think: I put Plate (1) on the CounterTop (1). Now, I need to recall location of the knife.
+OK.
+Act: recall location of Knife
+You saw Knife (1) near CounterTop (1).
+Think: Knife (1) is on the CounterTop (1). Now, I need to put Knife (1) on Plate (1).
+OK.
+Act: go to Plate (1)
+You arrive at Plate (1). You see Plate (1), Pencil (1), Knife (1), Fork (1), Drawer (5, 6, 7), CounterTop (1), Cabinet (6, 10, 15, 20). 
+Act: go to Knife (1)
+You already arrive at Knife (1). You see Plate (1), Pencil (1), Lettuce (1), Knife (1, 1), Fork (1), Drawer (5, 6, 6, 7, 7), CounterTop (1, 1), Cabinet (6, 6, 10, 10, 15, 20). 
+Act: pick up Knife (1)
+You pick up Knife (1). You see Lettuce (1), Knife (1), Drawer (6, 7), CounterTop (1), Cabinet (6, 10). I am holding Knife (1) now.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (2), Plate (1), Knife (1), Drawer (6, 7), CounterTop (1), Cabinet (6, 10).  I am holding Knife (1) now.
+Act: put down Knife (1)
+You put Knife (1) on CounterTop (1). You see WineBottle (2), Plate (1), Knife (1), Drawer (6, 7), CounterTop (1), Cabinet (6, 10).
+Think: Now I accomplish the goal.
+OK.
+Act: done

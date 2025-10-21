@@ -1,0 +1,25 @@
+Your task is to: Put the cabbage in the trash.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19).
+Think: To solve the task, I need to find and pick up the cabbage, then put it in the trash.
+OK.
+Think: First, I need to recall location of the cabbage.
+OK.
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Think: Now I need to find the cabbage. The cabbage is more likely to appear on CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-19), Drawer (1-4). I can check each place one by one, starting from CounterTop (1), until I find the cabbage.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see StoveBurner (1, 4), SoapBottle (2), SaltShaker (1), Pot (1), Lettuce (1), Knife (1, 2), Fridge (1), Drawer (4), Cup (2), CounterTop (1), Cabinet (11). 
+Think: I find Lettuce (1). Now, I need to pick it up.
+OK.
+Act: pick up Lettuce (1)
+You pick up Lettuce (1). You see StoveBurner (1, 4), SoapBottle (2), Pot (1), Lettuce (1), Knife (1, 2), Fridge (1), Drawer (4), Cup (2), CounterTop (1). I am holding Lettuce (1) now.
+Think: I hold Lettuce (1). Now, I need to put it in the trash.
+OK.
+Act: go to GarbageCan (1)
+You arrive at GarbageCan (1). You see Lettuce (1), GarbageCan (1), Drawer (3), CounterTop (2), CoffeeMachine (1), Cabinet (16), Apple (1).  I am holding Lettuce (1) now.
+Act: put down Lettuce (1)
+You put down failed, drop it. You see GarbageCan (1), Drawer (3), CounterTop (2), CoffeeMachine (1), Cabinet (16), Apple (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

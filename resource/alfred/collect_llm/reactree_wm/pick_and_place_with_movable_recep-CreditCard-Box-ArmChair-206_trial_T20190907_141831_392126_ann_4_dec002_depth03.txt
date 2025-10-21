@@ -1,0 +1,27 @@
+Your primary goal is to: To put a card in an empty box as well as place the box on the chair.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up card, find and pick up box, place card in box, and place box on chair.
+Your task is to: find and pick up card
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1, 2), Sofa (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14), GarbageCan (1), CoffeeTable (1), ArmChair (1).
+Think: First, I need to recall location of the card.
+OK.
+Act: recall location of CreditCard
+You have not seen CreditCard before.
+Think: Now, I need to find the card. The card is more likely to appear on CoffeeTable (1), Sofa (1), ArmChair (1), or in TVStand (1-2), Shelf (1-14). I can check each place one by one, starting from CoffeeTable (1), until I find the card.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Statue (2, 3), RemoteControl (1), CoffeeTable (1). 
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), RemoteControl (2), Pillow (1), Laptop (2), KeyChain (2). 
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see ArmChair (1). 
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Vase (2, 4), TVStand (1), Shelf (8, 9, 10, 14), Laptop (1). 
+Act: go to TVStand (2)
+You arrive at TVStand (2). You see Vase (1), Television (1), TVStand (2), Shelf (1, 3, 4, 6, 11, 13), CreditCard (1). 
+Think: I find CreditCard (1). Now, I need to pick it up.
+OK.
+Act: pick up CreditCard (1)
+You pick up CreditCard (1). You see Vase (1), Television (1), TVStand (2), Shelf (1, 3, 4, 6, 11, 13), CreditCard (1). I am holding CreditCard (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

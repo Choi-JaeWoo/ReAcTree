@@ -1,0 +1,67 @@
+Your task is to: Place a card in a bowl on a tv stand.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), LaundryHamper (1), GarbageCan (1), Dresser (1), Drawer (1, 2), DiningTable (1), CounterTop (1), Bed (1), ArmChair (1, 2).
+Think: To solve the task, I need to find and pick up the card, then put it in the bowl. And I need to find and pick up the bowl, then put it on the tv stand.
+OK.
+Think: First, I need to recall location of the card.
+OK.
+Act: recall location of CreditCard
+You have not seen CreditCard before.
+Think: Now I need to find the card. The card is more likely to appear on CounterTop (1), or in Drawer (1-2). I can check each place one by one, starting from CounterTop (1), until I find the card.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Mirror (1), Laptop (2), GarbageCan (1), CounterTop (1), Book (1, 2). 
+Think: I find CreditCard (1). Now, I need to pick it up.
+OK.
+Act: pick up Book (1)
+You pick up Book (1). You see Mirror (1), Laptop (2), GarbageCan (1), CounterTop (1), Book (1, 2). I am holding Book (1) now.
+Think: I hold Book (1). Now, I need to put it in the bowl.
+OK.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Television (1), Pen (1), Dresser (1), Drawer (1, 2), CreditCard (1), CellPhone (1), Book (1). Drawer (1) is closed.  I am holding Book (1) now.
+Act: open Drawer (1)
+You open Drawer (1). You see Television (1), Pen (1), Dresser (1), Drawer (1), CreditCard (1), CellPhone (1), Book (1). I am holding Book (1) now.
+Act: put down Book (1)
+You put Book (1) on Drawer (1). You see Television (1), Pen (1), Dresser (1), Drawer (1), CreditCard (1), CellPhone (1), Book (1).
+Act: close Drawer (1)
+You close Drawer (1). You see Television (1), Pen (1), Dresser (1), Drawer (1, 2), CreditCard (1), CellPhone (1).
+Think: I put Book (1) in Drawer (1). Now, I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: Now I need to find the bowl. The bowl is more likely to appear on CounterTop (1), or in Drawer (1-2). I can check each place one by one, starting from CounterTop (1), until I find the bowl.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Mirror (1), Laptop (2), GarbageCan (1), CounterTop (1), Book (2). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Television (1), Pen (1), Dresser (1), Drawer (1, 2), CreditCard (1), CellPhone (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Television (1), Pen (1), Dresser (1), Drawer (1), CreditCard (1), CellPhone (1), Book (1).
+Think: I find Bowl (1). Now, I need to pick it up.
+OK.
+Act: pick up Book (1)
+You pick up Book (1). You see Television (1), Pen (1), Dresser (1), Drawer (1), CreditCard (1), CellPhone (1), Book (1). I am holding Book (1) now.
+Think: I hold Book (1). Now, I need to recall location of the card.
+OK.
+Act: recall location of CreditCard
+You saw CreditCard (1) near Drawer (1).
+Think: CreditCard (1) is in the Drawer (1). Now, I need to put Book (1) on CreditCard (1).
+OK.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Television (1, 1, 1, 1, 1), Pen (1, 1, 1, 1, 1), Dresser (1, 1, 1, 1, 1), Drawer (1, 1, 1, 1, 1), CreditCard (1, 1, 1, 1, 1), Chair (2), CellPhone (1, 1, 1, 1, 1), Book (1, 1, 1, 1, 1), ArmChair (2). Drawer (1) is open.  I am holding Book (1) now.
+Act: go to CreditCard (1)
+You see Television (1, 1), Pen (1), Dresser (1, 1), Drawer (1), CreditCard (1, 1), Chair (2), CellPhone (1), Book (1, 1), ArmChair (2).  I am holding Book (1) now.
+Act: put down Book (1)
+You put down failed, drop it. You see Television (1), Dresser (1), Book (1).
+Think: Now I need to pick up CreditCard (1).
+OK.
+Act: pick up Book (1)
+You pick up Book (1). You see Television (1), Dresser (1), CreditCard (1), Book (1). I am holding Book (1) now.
+Think: I hold Book (1). Now, I need to put it on the tv stand.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Mirror (1), Laptop (2), GarbageCan (1), CounterTop (1), Book (1, 2).  I am holding Book (1) now.
+Act: put down Book (1)
+You put Book (1) on CounterTop (1). You see Mirror (1), Laptop (2), GarbageCan (1), CounterTop (1), Book (1, 2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

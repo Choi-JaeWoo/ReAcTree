@@ -1,0 +1,21 @@
+Your primary goal is to: To heat a potato slice and place it on the back of the counter to the right of the tomato.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up potato, heat and pick up potato, and place potato on counter.
+Your task is to: find and pick up potato
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7), CounterTop (1, 2, 3, 4), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18).
+Think: First, I need to recall location of the potato.
+OK.
+Act: recall location of Potato
+You have not seen Potato before.
+Think: Now, I need to find the potato. The potato is more likely to appear on CounterTop (1-4), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-18), Drawer (1-7). I can check each place one by one, starting from CounterTop (1), until I find the potato.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Pen (2), Lettuce (2), Ladle (1, 2), Fork (1), CounterTop (1), Chair (1), ButterKnife (1), Bread (2). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Toaster (1), StoveKnob (1, 2, 4), StoveBurner (1, 2, 3, 4), SprayBottle (2), Spatula (1), SaltShaker (3), Potato (3), PepperShaker (1), Pen (3), Pan (1), Kettle (1), CounterTop (2). 
+Think: I find Potato (3). Now, I need to pick it up.
+OK.
+Act: pick up Potato (3)
+You pick up Potato (3). You see Toaster (1), StoveKnob (1, 2, 4), StoveBurner (1, 2, 3, 4), SprayBottle (2), Spatula (1), SaltShaker (3), Potato (3), PepperShaker (1), Pen (3), Pan (1), Kettle (1), CounterTop (2). I am holding Potato (3) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

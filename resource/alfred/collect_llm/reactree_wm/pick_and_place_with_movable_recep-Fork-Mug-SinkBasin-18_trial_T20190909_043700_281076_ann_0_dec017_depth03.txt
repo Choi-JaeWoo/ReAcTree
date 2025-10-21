@@ -1,0 +1,21 @@
+Your primary goal is to:  put the fork into a cup of hot water and put it into the sink
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up fork, place fork in cup, heat and pick up cup, and place cup in sink basin.
+Your task is to: heat and pick up cup
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Safe (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16).
+Think: I hold Cup (1). Now, I need to heat it using the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1), DishSponge (1). Microwave (1) is closed. 
+Act: open Microwave (1)
+You open Microwave (1). You see Microwave (1).
+Act: turn on Microwave (1)
+
+Think: I heat Cup (1) using Microwave (1). Now, I need to pick up the cup from the microwave.
+OK.
+Act: turn off Microwave (1)
+The Microwave (1) already turn off.
+Act: close Microwave (1)
+You close Microwave (1). You see Microwave (1), DishSponge (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

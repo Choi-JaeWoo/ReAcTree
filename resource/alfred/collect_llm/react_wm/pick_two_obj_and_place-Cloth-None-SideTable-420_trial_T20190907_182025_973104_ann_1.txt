@@ -1,0 +1,41 @@
+Your task is to: Place two purple rags on black table
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1, 2), Toilet (1), ToiletPaperHanger (1), Sink (1), SinkBasin (1, 2), SideTable (1), HandTowelHolder (1), GarbageCan (1), Drawer (1), Bathtub (1).
+Think: To solve the task, I need to find and pick up the rags, then put them on the black table.
+OK.
+Think: First, I need to recall location of the rags.
+OK.
+Act: recall location of Cloth
+You have not seen Cloth before.
+Think: Now I need to find the rags. The rags are more likely to appear on SideTable (1), SinkBasin (1-2), Drawer (1), or in Bathtub (1). I can check each place one by one, starting from SideTable (1), until I find the rags.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SprayBottle (3), SoapBottle (1), SideTable (1), HousePlant (1), Drawer (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see SoapBar (2), SinkBasin (1), Cloth (1, 3), Bathtub (1). 
+Think: I find Cloth (1). Now, I need to pick it up.
+OK.
+Act: pick up Cloth (1)
+You pick up Cloth (1). You see SoapBar (2), SinkBasin (1), Cloth (1, 3), Bathtub (1). I am holding Cloth (1) now.
+Think: I hold Cloth (1). Now, I need to put it on the black table.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SprayBottle (3), SoapBottle (1), SideTable (1), HousePlant (1), Drawer (1), Cloth (1).  I am holding Cloth (1) now.
+Act: put down Cloth (1)
+You put Cloth (1) on SideTable (1). You see SprayBottle (3), SoapBottle (1), SideTable (1), HousePlant (1), Drawer (1), Cloth (1).
+Think: Now I need to find another rag.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see SoapBar (2), SinkBasin (1), Cloth (3), Bathtub (1). 
+Think: I find Cloth (3). Now, I need to pick it up.
+OK.
+Act: pick up Cloth (3)
+You pick up Cloth (3). You see SoapBar (2), SinkBasin (1), Cloth (3), Bathtub (1). I am holding Cloth (3) now.
+Think: I hold Cloth (3). Now, I need to put it on the black table.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SprayBottle (3), SoapBottle (1), SideTable (1), HousePlant (1), Drawer (1), Cloth (1, 3).  I am holding Cloth (3) now.
+Act: put down Cloth (3)
+You put Cloth (3) on SideTable (1). You see SprayBottle (3), SoapBottle (1), SideTable (1), HousePlant (1), Drawer (1), Cloth (1, 3).
+Think: Now I accomplish the goal.
+OK.
+Act: done

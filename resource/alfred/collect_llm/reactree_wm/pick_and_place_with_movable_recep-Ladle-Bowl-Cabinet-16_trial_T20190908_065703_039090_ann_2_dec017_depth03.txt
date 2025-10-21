@@ -1,0 +1,19 @@
+Your primary goal is to: Put a cup and spoon away in a cabinet.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up cup, place cup in cabinet, find and pick up spoon, place spoon in cabinet, find and pick up cup away from cabinet, and place cup in cabinet.
+Your task is to: find and pick up spoon
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27).
+Think: First, I need to recall location of the spoon.
+OK.
+Act: recall location of Spoon
+You saw Spoon (2) near DiningTable (1). You saw Spoon (1) near CounterTop (2).
+Think: I can find Spoon (1) near CounterTop (2). I can find Spoon (2) near DiningTable (1).
+OK.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Toaster (1), Spoon (1), SoapBottle (1), Sink (1), SaltShaker (1, 2), CounterTop (2). 
+Think: I find Spoon (1). Now, I need to pick it up.
+OK.
+Act: pick up Spoon (1)
+You pick up Spoon (1). You see Toaster (1), Spoon (1), SoapBottle (1), Sink (1), SaltShaker (1, 2), CounterTop (2). I am holding Spoon (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

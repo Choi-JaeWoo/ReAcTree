@@ -1,0 +1,7 @@
+Your task is to: Move two bars of soap into the tub.
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1, 2), HandTowelHolder (1), GarbageCan (1), CounterTop (1), Cabinet (1, 2, 3, 4), Bathtub (1), BathtubBasin (1).
+Think: Since I’m not holding soap, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up soap, place soap in tub, find and pick up soap away from tub, and place soap in tub.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up soap, place soap in tub, find and pick up soap away from tub, place soap in tub

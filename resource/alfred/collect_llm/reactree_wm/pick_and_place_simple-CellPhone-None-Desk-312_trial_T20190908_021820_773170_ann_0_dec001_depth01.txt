@@ -1,0 +1,55 @@
+Your task is to: Move a cell phone from one part of a desk to another part of a desk.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8), GarbageCan (1), Drawer (1, 2), Desk (1), Bed (1).
+Think: First, I need to recall location of the cell phone.
+OK.
+Act: recall location of CellPhone
+You have not seen CellPhone before.
+Think: Now, I need to find the cell phone. The cell phone is more likely to appear on Desk (1), SideTable (1), Shelf (1-8), or in Drawer (1-2). I can check each place one by one, starting from Desk (1), until I find the cell phone.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Shelf (1, 2, 3, 5, 6, 7), KeyChain (1, 2, 3), Desk (1), CreditCard (1), Chair (1), CellPhone (1), CD (1), AlarmClock (1, 3). 
+Think: I find CellPhone (1). Now, I need to pick it up.
+OK.
+Act: pick up CellPhone (1)
+You pick up CellPhone (1). You see Shelf (1, 2, 3, 5, 6, 7), KeyChain (1, 2, 3), Desk (1), CreditCard (1), Chair (1), CellPhone (1), CD (1), AlarmClock (1, 3). I am holding CellPhone (1) now.
+Think: Now, I need to recall location of the desk.
+OK.
+Act: recall location of DeskLamp
+You have not seen DeskLamp before.
+Think: Now, I need to find the desk lamp. The desk lamp is more likely to appear on Desk (1), SideTable (1), Shelf (1-8), or in Drawer (1-2). I can check each place one by one, starting from Desk (1), until I find the desk lamp.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Shelf (1, 2, 3, 5, 6, 7), KeyChain (1, 2, 3), Desk (1), CreditCard (1), Chair (1), CellPhone (1), CD (1), AlarmClock (1, 3).  I am holding CellPhone (1) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Lamp (1), Drawer (1, 2), CellPhone (1), Bed (1), AlarmClock (2).  I am holding CellPhone (1) now.
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1, 2, 3, 5, 6, 8), Pencil (1), KeyChain (1, 2, 3), Desk (1), CreditCard (1), Chair (1), CellPhone (1), CD (1), AlarmClock (1, 3).  I am holding CellPhone (1) now.
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Shelf (2, 3, 6), Pen (1), KeyChain (1, 2), Desk (1), CreditCard (1), Chair (1), CellPhone (1), CD (1), BasketBall (1), AlarmClock (1).  I am holding CellPhone (1) now.
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Shelf (3, 4, 6, 8), Pen (1), KeyChain (1, 2), Desk (1), CreditCard (1), CellPhone (1), CD (1), BasketBall (1), AlarmClock (1).  I am holding CellPhone (1) now.
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see Shelf (3, 4, 8), Pencil (1), KeyChain (1, 2), Desk (1), CreditCard (1), CellPhone (1), AlarmClock (1).  I am holding CellPhone (1) now.
+Act: go to Shelf (5)
+You arrive at Shelf (5). You see Shelf (1, 3, 4, 5, 8), Pencil (1), KeyChain (2), Desk (1), CreditCard (1), CellPhone (1), CD (1), AlarmClock (1, 3).  I am holding CellPhone (1) now.
+Act: go to Shelf (6)
+You arrive at Shelf (6). You see Shelf (2, 3, 6), Pen (1), KeyChain (1, 2), Desk (1), CreditCard (1), Chair (1), CellPhone (1), CD (1), BasketBall (1), AlarmClock (1).  I am holding CellPhone (1) now.
+Act: go to Shelf (7)
+You arrive at Shelf (7). You see Shelf (2, 3, 4, 6), Pen (1), KeyChain (1, 2), Desk (1), CreditCard (1), Chair (1), CellPhone (1), CD (1), BasketBall (1), AlarmClock (1).  I am holding CellPhone (1) now.
+Act: go to Shelf (8)
+You arrive at Shelf (8). You see Shelf (1, 3, 4, 5, 8), Pencil (1), KeyChain (1, 3), Desk (1), CreditCard (1), CellPhone (1), AlarmClock (3).  I am holding CellPhone (1) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (1), Lamp (1), Drawer (1, 2), CellPhone (1), Bed (1), AlarmClock (2). Drawer (1) is closed.  I am holding CellPhone (1) now.
+Act: open Drawer (1)
+You open Drawer (1). You see SideTable (1), Lamp (1), Drawer (1), CellPhone (1), Bed (1), AlarmClock (2). I am holding CellPhone (1) now.
+Act: close Drawer (1)
+You close Drawer (1). You see SideTable (1), Lamp (1), Drawer (1, 2), CellPhone (1), Bed (1), AlarmClock (2). I am holding CellPhone (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (1), Lamp (1), Drawer (1, 2), CellPhone (1), Bed (1), AlarmClock (2). Drawer (2) is closed.  I am holding CellPhone (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see SideTable (1), Lamp (1), Drawer (1, 2), CellPhone (1), Bed (1), AlarmClock (2). I am holding CellPhone (1) now.
+Act: close Drawer (2)
+You close Drawer (2). You see SideTable (1), Lamp (1), Drawer (1, 2), CellPhone (1), Bed (1), AlarmClock (2). I am holding CellPhone (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

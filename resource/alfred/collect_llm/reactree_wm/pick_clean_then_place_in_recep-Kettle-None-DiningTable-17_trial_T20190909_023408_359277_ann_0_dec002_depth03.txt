@@ -1,0 +1,25 @@
+Your primary goal is to: Put a full tea pot on the table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up tea pot, fill and pick up tea pot, and place tea pot on table.
+Your task is to: find and pick up tea pot
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20).
+Think: First, I need to recall location of the tea pot.
+OK.
+Act: recall location of TennisRacket
+You have not seen TennisRacket before.
+Think: Now, I need to find the tea pot. The tea pot is more likely to appear on DiningTable (1-2), CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-20), Drawer (1-6). I can check each place one by one, starting from DiningTable (1), until I find the tea pot.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Window (2), Potato (2), Plate (1), Kettle (1, 4), DiningTable (1), Chair (1), Bread (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Tomato (3), Spatula (1), Potato (1), PepperShaker (1), Pan (1), Kettle (3), DiningTable (2), CellPhone (2), ButterKnife (2), Apple (3). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spoon (1), PepperShaker (2, 3), Knife (1), Drawer (2, 5), CounterTop (1), Cabinet (5, 16), ButterKnife (3), Apple (2). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see SoapBottle (2), Microwave (1), Lettuce (1), Fork (1), Drawer (1), CounterTop (2), Cabinet (17), ButterKnife (1). 
+Think: I find TennisRacket (1). Now, I need to pick it up.
+OK.
+Act: pick up Fork (1)
+You pick up Fork (1). You see SoapBottle (2), Microwave (1), Lettuce (1), Fork (1), Drawer (1), CounterTop (2), Cabinet (17), ButterKnife (1). I am holding Fork (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

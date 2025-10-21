@@ -1,0 +1,19 @@
+Your primary goal is to: Heat and chill a potato.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up potato, heat and pick up potato, and cool and pick up potato.
+Your task is to: find and pick up potato
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12).
+Think: First, I need to recall location of the potato.
+OK.
+Act: recall location of Potato
+You have not seen Potato before.
+Think: Now, I need to find the potato. The potato is more likely to appear on DiningTable (1), CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-12), Drawer (1-3). I can check each place one by one, starting from DiningTable (1), until I find the potato.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1, 2), Spatula (1, 2), SoapBottle (3), SaltShaker (1, 2), Potato (1, 3), Knife (2), Fork (1), Egg (1), DiningTable (1), Cup (2), Chair (1), ButterKnife (1), Bread (1). 
+Think: I find Potato (1). Now, I need to pick it up.
+OK.
+Act: pick up Potato (1)
+You pick up Potato (1). You see WineBottle (2), Spoon (1, 2), Spatula (1, 2), SoapBottle (3), SaltShaker (1, 2), Potato (1, 3), Knife (2), Fork (1), Egg (1), DiningTable (1), Cup (2), Chair (1), ButterKnife (1), Bread (1). I am holding Potato (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

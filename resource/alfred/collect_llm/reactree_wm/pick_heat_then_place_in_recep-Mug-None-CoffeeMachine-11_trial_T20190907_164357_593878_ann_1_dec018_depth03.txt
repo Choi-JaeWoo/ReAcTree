@@ -1,0 +1,27 @@
+Your primary goal is to: heat the cup from the cabinet in the microwave, put the cup under the coffee machine
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up cup, heat and pick up cup, and place cup on coffee machine.
+Your task is to: heat and pick up cup
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10). I am holding Mug (1) now.
+Think: I hold Mug (1). Now, I need to heat it using the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Mug (1), Microwave (1), Drawer (5, 6), Cabinet (7, 8, 10). Microwave (1) is closed.  I am holding Mug (1) now.
+Act: open Microwave (1)
+You open Microwave (1). You see Mug (1), Microwave (1), Drawer (5, 6), Cabinet (7, 8, 10), Bowl (1). I am holding Mug (1) now.
+Act: put down Mug (1)
+You put Mug (1) on Microwave (1). You see Mug (1), Microwave (1), Drawer (5, 6), Cabinet (7, 8, 10), Bowl (1).
+Act: close Microwave (1)
+You close Microwave (1). You see Microwave (1), Drawer (5, 6), Cabinet (7, 8, 10).
+Act: turn on Microwave (1)
+You turn on Microwave (1). You see Microwave (1), Drawer (5, 6), Cabinet (7, 8, 10).
+Act: turn off Microwave (1)
+You turn off Microwave (1). You see Microwave (1), Drawer (5, 6), Cabinet (7, 8, 10).
+Think: I heat Mug (1) using Microwave (1). Now, I need to pick up the mug from the microwave.
+OK.
+Act: open Microwave (1)
+You open Microwave (1). You see Mug (1), Microwave (1), Drawer (5, 6), Cabinet (7, 8, 10), Bowl (1).
+Act: pick up Mug (1)
+You pick up Mug (1). You see Mug (1), Microwave (1), Drawer (5, 6), Cabinet (7, 8, 10), Bowl (1). I am holding Mug (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,55 @@
+Your task is to: Put a cup with a fork on it on the kitchen counter
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), CounterTop (1, 2, 3, 4), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15).
+Think: To solve the task, I need to find and pick up the cup, then put it on the kitchen counter. And I need to find and pick up the fork, then put it on the cup on the kitchen counter.
+OK.
+Think: First, I need to recall location of the cup.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the cup. The cup is more likely to appear on CounterTop (1-4), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-15), Drawer (1-4). I can check each place one by one, starting from CounterTop (1), until I find the cup.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (2), Tomato (2, 3), StoveKnob (3), StoveBurner (2, 3), Pot (1, 3), GarbageCan (1), CounterTop (1), ButterKnife (1). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Pan (1), CounterTop (2). 
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Tomato (1), Spatula (2), CounterTop (3), CoffeeMachine (1). 
+Act: go to CounterTop (4)
+You arrive at CounterTop (4). You see Chair (1), Cabinet (2, 3). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (1), Tomato (1), Spatula (2), Sink (1), SinkBasin (1), Potato (1), Lettuce (1), Fork (1), Faucet (1), Egg (2), Cup (1), CounterTop (3). 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: pick up Cup (1)
+You pick up Cup (1). You see Window (1), Tomato (1), Spatula (2), Sink (1), SinkBasin (1), Potato (1), Lettuce (1), Fork (1), Faucet (1), Egg (2), Cup (1), CounterTop (3). I am holding Cup (1) now.
+Think: I hold Cup (1). Now, I need to put it on the kitchen counter.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (2), Tomato (2, 3), StoveKnob (3), StoveBurner (2, 3), Pot (1, 3), GarbageCan (1), Cup (1), CounterTop (1), ButterKnife (1).  I am holding Cup (1) now.
+Act: put down Cup (1)
+You put Cup (1) on CounterTop (1). You see Window (2), Tomato (2, 3), StoveKnob (3), StoveBurner (2, 3), Pot (1, 3), GarbageCan (1), Cup (1), CounterTop (1), ButterKnife (1).
+Think: I put Cup (1) on the CounterTop (1). Now, I need to recall location of the fork.
+OK.
+Act: recall location of Fork
+You saw Fork (1) near SinkBasin (1).
+Think: Fork (1) is in the SinkBasin (1). Now, I need to pick it up.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (1), Tomato (1), Spatula (2), Sink (1), SinkBasin (1), Potato (1), Lettuce (1), Fork (1), Faucet (1), Egg (2), CounterTop (3). 
+Act: pick up Fork (1)
+You pick up Fork (1). You see Window (1), Tomato (1), Spatula (2), Sink (1), SinkBasin (1), Potato (1), Lettuce (1), Fork (1), Faucet (1), Egg (2), CounterTop (3). I am holding Fork (1) now.
+Think: I hold Fork (1). Now, I need to recall location of the cup.
+OK.
+Act: recall location of Cup
+You saw Cup (1) near CounterTop (1).
+Think: Cup (1) is on the CounterTop (1). Now, I need to put Fork (1) on Cup (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (2), Tomato (2), StoveKnob (3), StoveBurner (2, 3), Pot (1, 3), GarbageCan (1), Fork (1), Cup (1), CounterTop (1), ButterKnife (1).  I am holding Fork (1) now.
+Act: go to Cup (1)
+You arrive at Cup (1). You see Window (2), Tomato (2, 3), StoveKnob (3), StoveBurner (2, 3), Pot (1, 3), GarbageCan (1), Fork (1), Cup (1), CounterTop (1), ButterKnife (1).  I am holding Fork (1) now.
+Act: put down Fork (1)
+You put Fork (1) on Cup (1). You see Window (2), Tomato (2, 3), StoveKnob (3), StoveBurner (2, 3), Pot (1, 3), GarbageCan (1), Fork (1), Cup (1), CounterTop (1), ButterKnife (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

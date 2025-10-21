@@ -1,0 +1,45 @@
+Your primary goal is to: Put a cold apple slice in the microwave.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up apple, slice and pick up apple, and place apple in microwave.
+Your task is to: place apple in microwave
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13). I am holding Apple (1) now.
+Think: I hold Apple (1). Now, I need to put it in the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see WineBottle (1), Toaster (1), SoapBottle (3), Pot (2), Microwave (1), Kettle (1), Cabinet (3, 10), Apple (1). Microwave (1) is closed.  I am holding Apple (1) now.
+Act: open Microwave (1)
+You open Microwave (1). You see WineBottle (1), Toaster (1), SoapBottle (3), Pot (2), Microwave (1), Kettle (1), Cup (1), Cabinet (3, 10), Apple (1). I am holding Apple (1) now.
+Act: put down Apple (1)
+You put down failed, drop it. You see WineBottle (1), Toaster (1), SoapBottle (3), Pot (2), Microwave (1), Kettle (1), Cup (1), Cabinet (3, 10).
+Think: Now I need to pick up Apple (1).
+OK.
+Act: pick up WineBottle (1)
+You pick up WineBottle (1). You see WineBottle (1), Toaster (1), SoapBottle (3), Pot (2), Microwave (1), Kettle (1), Cup (1), Cabinet (3, 10). I am holding WineBottle (1) now.
+Act: put down WineBottle (1)
+You put down failed, drop it. You see Toaster (1), SoapBottle (3), Pot (2), Microwave (1), Kettle (1), Cup (1), Cabinet (3, 10).
+Think: Now I need to pick up Apple (1).
+OK.
+Act: pick up SoapBottle (3)
+You pick up SoapBottle (3). You see Toaster (1), SoapBottle (3), Pot (2), Microwave (1), Kettle (1), Cup (1), Cabinet (3, 10). I am holding SoapBottle (3) now.
+Act: put down SoapBottle (3)
+You put down failed, drop it. You see Toaster (1), Pot (2), Microwave (1), Kettle (1), Cup (1), Cabinet (3, 10).
+Think: Now I need to pick up Apple (1).
+OK.
+Act: pick up Pot (2)
+You pick up Pot (2). You see Toaster (1), Pot (2), Microwave (1), Cup (1), Cabinet (3, 10). I am holding Pot (2) now.
+Act: put down Pot (2)
+You put down failed, drop it. You see Toaster (1), Microwave (1), Kettle (1), Cup (1), Cabinet (3, 10).
+Think: Now I need to pick up Apple (1).
+OK.
+Act: pick up Kettle (1)
+You pick up Kettle (1). You see Toaster (1), Microwave (1), Kettle (1), Cup (1), Cabinet (3, 10). I am holding Kettle (1) now.
+Act: put down Kettle (1)
+You put down failed, drop it. You see Toaster (1), StoveBurner (4), Microwave (1), Cup (1), Cabinet (3, 10).
+Think: Now I need to pick up Apple (1).
+OK.
+Act: pick up Cup (1)
+You pick up Cup (1). You see Toaster (1), StoveBurner (4), Microwave (1), Cup (1), Cabinet (3, 10). I am holding Cup (1) now.
+Act: put down Cup (1)
+You put down failed, drop it. You see Toaster (1), StoveBurner (4), Microwave (1), Cabinet (3, 10).
+Think: Now I need to pick up Apple (1).
+OK.
+Act: failure

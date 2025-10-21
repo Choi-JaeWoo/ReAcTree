@@ -1,0 +1,41 @@
+Your task is to: Put a chilled mug under the coffee maker.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1, 2, 3), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: To solve the task, I need to find and pick up the mug, then put it in fridge. I need to pick up the mug from the fridge, then put it on the coffee maker.
+OK.
+Think: First, I need to recall location of the mug.
+OK.
+Act: recall location of Mug
+You have not seen Mug before.
+Think: Now I need to find the mug. The mug is more likely to appear on CoffeeMachine (1), DiningTable (1-3), CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1). I can check each place one by one, starting from CoffeeMachine (1), until I find the mug.
+OK.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see Sink (1), SinkBasin (1), Fridge (1), Fork (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (2). 
+Think: I find Mug (1). Now, I need to pick it up.
+OK.
+Act: pick up Fork (1)
+You pick up Fork (1). You see Sink (1), SinkBasin (1), Fridge (1), Fork (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (2). I am holding Fork (1) now.
+Think: I hold Fork (1). Now, I need to put it in the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Fork (1). Fridge (1) is closed.  I am holding Fork (1) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Tomato (1), Fridge (1), Fork (1), Apple (1). I am holding Fork (1) now.
+Act: put down Fork (1)
+You put Fork (1) on Fridge (1). You see Tomato (1), Fridge (1), Fork (1), Apple (1).
+Act: close Fridge (1)
+You close Fridge (1). You see Fridge (1).
+Think: I put Fork (1) in Fridge (1). Now, I need to pick up the mug from the fridge.
+OK.
+Act: open Fridge (1)
+You open Fridge (1). You see Tomato (1), Fridge (1), Fork (1), Apple (1).
+Act: pick up Fork (1)
+You pick up Fork (1). You see Tomato (1), Fridge (1), Fork (1), Apple (1). I am holding Fork (1) now.
+Think: I pick up Fork (1) from Fridge (1). Now, I need to put it on the coffee maker.
+OK.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see Sink (1), SinkBasin (1), Fridge (1), Fork (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (2).  I am holding Fork (1) now.
+Act: put down Fork (1)
+You put down failed, drop it. You see Sink (1), SinkBasin (1), Fridge (1), Fork (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

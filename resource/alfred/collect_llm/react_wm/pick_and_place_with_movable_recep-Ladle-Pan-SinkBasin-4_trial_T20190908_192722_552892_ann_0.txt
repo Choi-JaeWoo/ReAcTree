@@ -1,0 +1,116 @@
+Your task is to: Stand a spoon up in a pan and place in the sink.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2).
+Think: To solve the task, I need to find and pick up the spoon, then put it in the pan. And I need to find and pick up the pan, then put it in the sink.
+OK.
+Think: First, I need to recall location of the spoon.
+OK.
+Act: recall location of Spoon
+You have not seen Spoon before.
+Think: Now I need to find the spoon. The spoon is more likely to appear on CounterTop (1-3), Sink (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-2), Drawer (1-6). I can check each place one by one, starting from CounterTop (1), until I find the spoon.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1, 2), Ladle (1), Knife (2), HousePlant (1), Fork (2), Drawer (1, 5), Cup (2), CounterTop (1). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Window (1), StoveKnob (4), StoveBurner (2, 4), SaltShaker (2), Pot (1), PepperShaker (1), Mug (3), CounterTop (2). 
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Microwave (1), Knife (3), CounterTop (3). 
+Act: go to Sink (1)
+You arrive at Sink (1). You see Window (2), Spoon (1), Sink (1), SinkBasin (1), Potato (2), Faucet (1), Cup (1), CounterTop (1, 3), Cabinet (1, 2). 
+Think: I find Spoon (1). Now, I need to pick it up.
+OK.
+Act: pick up Spoon (1)
+You pick up Spoon (1). You see Window (2), Spoon (1), Sink (1), SinkBasin (1), Potato (2), Faucet (1), Cup (1), CounterTop (1, 3), Cabinet (1, 2). I am holding Spoon (1) now.
+Think: I hold Spoon (1). Now, I need to recall location of the pan.
+OK.
+Act: recall location of Pan
+You have not seen Pan before.
+Think: Now I need to find the pan. The pan is more likely to appear on CounterTop (1-3), Sink (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-2), Drawer (1-6). I can check each place one by one, starting from CounterTop (1), until I find the pan.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1, 2), Spoon (1), Ladle (1), Knife (2), HousePlant (1), Fork (2), Drawer (1, 5), Cup (2), CounterTop (1).  I am holding Spoon (1) now.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Window (1), StoveKnob (4), StoveBurner (2, 4), Spoon (1), SaltShaker (2), Pot (1), PepperShaker (1), Mug (3), CounterTop (2).  I am holding Spoon (1) now.
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Spoon (1), Microwave (1), Knife (3), CounterTop (3).  I am holding Spoon (1) now.
+Act: go to Sink (1)
+You arrive at Sink (1). You see Window (2), Spoon (1), Sink (1), SinkBasin (1), Potato (2), Faucet (1), Cup (1), CounterTop (1, 3), Cabinet (1, 2).  I am holding Spoon (1) now.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Spoon (1), Sink (1), SinkBasin (1), Potato (2), Faucet (1), Drawer (3), Cup (1), CounterTop (1, 3), Cabinet (1, 2).  I am holding Spoon (1) now.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Spoon (1), Potato (3), GarbageCan (1), Fridge (1). Fridge (1) is closed.  I am holding Spoon (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Spoon (1). Microwave (1) is closed.  I am holding Spoon (1) now.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Spoon (1), Sink (1), SinkBasin (1), Ladle (1), Fork (2), Drawer (1, 2, 3, 4, 6), CounterTop (1), Cabinet (1, 2). Cabinet (1) is closed.  I am holding Spoon (1) now.
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Spoon (1), Sink (1), SinkBasin (1), Potato (1, 2), Knife (3), CounterTop (3), Cabinet (1, 2). Cabinet (2) is closed.  I am holding Spoon (1) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Spoon (1). Drawer (1) is closed.  I am holding Spoon (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Spoon (1), Ladle (1), Drawer (1, 2, 3, 4, 5, 6), CounterTop (1). Drawer (2) is closed.  I am holding Spoon (1) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Spoon (1), Ladle (1), Fork (2), Drawer (1, 2, 3, 4, 5, 6), CounterTop (1), Cabinet (1). Drawer (3) is closed.  I am holding Spoon (1) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Spoon (1), Ladle (1), Fork (2), Drawer (1, 2, 3, 4, 5, 6), CounterTop (1), Cabinet (1). Drawer (4) is closed.  I am holding Spoon (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see StoveBurner (1, 3), Spoon (1), Ladle (1), Knife (2), HousePlant (1), Drawer (1, 2, 3, 4, 5, 6), Cup (2), CounterTop (1). Drawer (5) is closed.  I am holding Spoon (1) now.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see StoveBurner (1), Spoon (1), Ladle (1), Drawer (1, 2, 3, 4, 5, 6), CounterTop (1). Drawer (6) is closed.  I am holding Spoon (1) now.
+Think: I find Pan (1). Now, I need to pick it up.
+OK.
+Act: pick up Spoon (1)
+You are currently holding Spoon (1). I am holding Spoon (1) now.
+Think: I hold Spoon (1). Now, I need to put it in the pan.
+OK.
+Act: go to Sink (1)
+You arrive at Sink (1). You see Window (2), Spoon (1), Sink (1), SinkBasin (1), Potato (2), Faucet (1), Cup (1), CounterTop (1, 3), Cabinet (1, 2).  I am holding Spoon (1) now.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Spoon (1), Sink (1), SinkBasin (1), Potato (2), Faucet (1), Drawer (3), Cup (1), CounterTop (1, 3), Cabinet (1, 2).  I am holding Spoon (1) now.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Spoon (1), Potato (3), GarbageCan (1), Fridge (1). Fridge (1) is closed.  I am holding Spoon (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Spoon (1). Microwave (1) is closed.  I am holding Spoon (1) now.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Spoon (1), Sink (1), SinkBasin (1), Ladle (1), Fork (2), Drawer (1, 2, 3, 4, 6), CounterTop (1), Cabinet (1, 2). Cabinet (1) is closed.  I am holding Spoon (1) now.
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Spoon (1), Sink (1), SinkBasin (1), Potato (1, 2), Knife (3), CounterTop (3), Cabinet (1, 2). Cabinet (2) is closed.  I am holding Spoon (1) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Spoon (1). Drawer (1) is closed.  I am holding Spoon (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Spoon (1), Ladle (1), Drawer (1, 2, 3, 4, 5, 6), CounterTop (1). Drawer (2) is closed.  I am holding Spoon (1) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Spoon (1), Ladle (1), Fork (2), Drawer (1, 2, 3, 4, 5, 6), CounterTop (1), Cabinet (1). Drawer (3) is closed.  I am holding Spoon (1) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Spoon (1), Ladle (1), Fork (2), Drawer (1, 2, 3, 4, 5, 6), CounterTop (1), Cabinet (1). Drawer (4) is closed.  I am holding Spoon (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see StoveBurner (1, 3), Spoon (1), Ladle (1), Knife (2), HousePlant (1), Drawer (1, 2, 3, 4, 5, 6), Cup (2), CounterTop (1). Drawer (5) is closed.  I am holding Spoon (1) now.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see StoveBurner (1), Spoon (1), Ladle (1), Drawer (1, 2, 3, 4, 5, 6), CounterTop (1). Drawer (6) is closed.  I am holding Spoon (1) now.
+Act: go to Sink (1)
+You arrive at Sink (1). You see Window (2), Spoon (1), Sink (1), SinkBasin (1), Potato (2), Faucet (1), Cup (1), CounterTop (1, 3), Cabinet (1, 2).  I am holding Spoon (1) now.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Spoon (1), Sink (1), SinkBasin (1), Potato (2), Faucet (1), Drawer (3), Cup (1), CounterTop (1, 3), Cabinet (1, 2).  I am holding Spoon (1) now.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Spoon (1), Potato (3), GarbageCan (1), Fridge (1). Fridge (1) is closed.  I am holding Spoon (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Spoon (1). Microwave (1) is closed.  I am holding Spoon (1) now.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Spoon (1), Sink (1), SinkBasin (1), Ladle (1), Fork (2), Drawer (1, 2, 3, 4, 6), CounterTop (1), Cabinet (1, 2). Cabinet (1) is closed.  I am holding Spoon (1) now.
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Spoon (1), Sink (1), SinkBasin (1), Potato (1, 2), Knife (3), CounterTop (3), Cabinet (1, 2). Cabinet (2) is closed.  I am holding Spoon (1) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Spoon (1). Drawer (1) is closed.  I am holding Spoon (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Spoon (1), Ladle (1), Drawer (1, 2, 3, 4, 5, 6), CounterTop (1). Drawer (2) is closed.  I am holding Spoon (1) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Spoon (1), Ladle (1), Fork (2), Drawer (1, 2, 3, 4, 5, 6), CounterTop (1), Cabinet (1). Drawer (3) is closed.  I am holding Spoon (1) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Spoon (1), Ladle (1), Fork (2), Drawer (1, 2, 3, 4, 5, 6), CounterTop (1), Cabinet (1). Drawer (4) is closed.  I am holding Spoon (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see StoveBurner (1, 3), Spoon (1), Ladle (1), Knife (2), HousePlant (1), Drawer (1, 2, 3, 4, 5, 6), Cup (2), CounterTop (1). Drawer (5) is closed.  I am holding Spoon (1) now.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see StoveBurner (1), Spoon (1), Ladle (1), Drawer (1, 2, 3, 4, 5, 6), CounterTop (1). Drawer (6) is closed.  I am holding Spoon (1) now.
+Act: go to Sink (1)
+You arrive at Sink (1). You see Window (2), Spoon (1), Sink (1), SinkBasin (1), Potato (2), Faucet (1), Cup (1), CounterTop (1, 3), Cabinet (1, 2).  I am holding Spoon (1) now.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Spoon (1), Sink (1), SinkBasin (1), Potato (2), Faucet (1), Drawer (3), Cup (1), CounterTop (1, 3), Cabinet (1, 2).  I am holding Spoon (1) now.

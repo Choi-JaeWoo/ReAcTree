@@ -1,0 +1,21 @@
+Your primary goal is to: Place two white bottles on top metal shelf
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up white bottle, place white bottle on metal shelf, find and pick up white bottle away from metal shelf, place white bottle on metal shelf, and find and pick up white bottle away from metal shelf.
+Your task is to: find and pick up white bottle
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1), Shelf (1), HandTowelHolder (1), GarbageCan (1), Drawer (1, 2, 3, 4), CounterTop (1), Cart (1), BathtubBasin (1).
+Think: First, I need to recall location of the white bottle.
+OK.
+Act: recall location of SoapBottle
+You have not seen SoapBottle before.
+Think: Now, I need to find the white bottle. The white bottle is more likely to appear on CounterTop (1), BathtubBasin (1), SinkBasin (1), Shelf (1), or in Drawer (1-4). I can check each place one by one, starting from CounterTop (1), until I find the white bottle.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see ToiletPaper (1), TissueBox (1), Mirror (1), Footstool (1), Drawer (1, 2, 3, 4), CounterTop (1). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Cloth (1), Bathtub (1), BathtubBasin (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (3), Sink (1), SinkBasin (1), Faucet (1, 2), Cart (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see ShowerHead (1), ShowerGlass (1), CounterTop (1). 
+Think: I can't find the white bottle. I fail to accomplish the goal.
+OK.
+Act: failure

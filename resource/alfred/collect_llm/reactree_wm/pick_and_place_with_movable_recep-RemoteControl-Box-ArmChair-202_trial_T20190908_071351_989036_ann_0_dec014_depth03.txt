@@ -1,0 +1,19 @@
+Your primary goal is to: Put a remote in a box and return the remote to its original place.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up remote, place remote in box, return remote to original place, and and place remote on couch..
+Your task is to: return remote to original place
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1), GarbageCan (1), CoffeeTable (1), ArmChair (1).
+Think: First, I need to recall location of the remote.
+OK.
+Act: recall location of RemoteControl
+You saw RemoteControl (3) near Sofa (1).
+Think: RemoteControl (3) is on Sofa (1). Now, I need to put it back to its original place. I can see Sofa (1).
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), RemoteControl (3), Pillow (1), Laptop (1), Box (1). 
+Act: pick up RemoteControl (3)
+You pick up RemoteControl (3). You see Sofa (1), RemoteControl (3), Pillow (1), Laptop (1), Box (1). I am holding RemoteControl (3) now.
+Act: put down RemoteControl (3)
+You put down failed, drop it. You see Sofa (1), Pillow (1), Laptop (1), Box (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

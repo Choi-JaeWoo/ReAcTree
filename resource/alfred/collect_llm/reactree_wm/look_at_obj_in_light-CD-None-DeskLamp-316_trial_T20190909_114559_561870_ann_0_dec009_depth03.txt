@@ -1,0 +1,13 @@
+Your primary goal is to: Move a CD while turning on a lamp
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up CD, and place CD on desk.
+Your task is to: place CD on desk
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1), GarbageCan (1), Drawer (1, 2), Desk (1), Bed (1). I am holding CD (1) now.
+Think: I hold CD (1). Now, I need to put it on the desk. I can see Desk (1).
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pencil (1), Pen (1), Laptop (1), Desk (1), Chair (1), CD (1, 3), Bowl (1).  I am holding CD (1) now.
+Act: put down CD (1)
+You put CD (1) on Desk (1). You see Pencil (1), Pen (1), Laptop (1), Desk (1), Chair (1), CD (1, 3), Bowl (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

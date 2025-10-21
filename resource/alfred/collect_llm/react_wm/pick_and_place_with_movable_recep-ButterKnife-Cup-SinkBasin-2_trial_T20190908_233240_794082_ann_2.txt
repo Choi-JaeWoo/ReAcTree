@@ -1,0 +1,43 @@
+Your task is to: to put the knife  in the cup in  the sink.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4, 5, 6), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9).
+Think: To solve the task, I need to find and pick up the knife, then put it in the cup. And I need to find and pick up the cup, then put it in the sink basin.
+OK.
+Think: First, I need to recall location of the knife.
+OK.
+Act: recall location of Knife
+You have not seen Knife before.
+Think: Now I need to find the knife. The knife is more likely to appear on CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-9), Drawer (1-13). I can check each place one by one, starting from CounterTop (1), until I find the knife.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (2), Tomato (1), Sink (1), SinkBasin (1), Mug (1), Ladle (2, 3), Faucet (1), CounterTop (1), Cabinet (1, 8). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Tomato (3), SoapBottle (1, 2), Pan (2), Knife (2, 3), Fork (1), Cup (2), CounterTop (1, 2), ButterKnife (2). 
+Think: I find Knife (2). Now, I need to pick it up.
+OK.
+Act: pick up Knife (2)
+You pick up Knife (2). You see Tomato (3), SoapBottle (1, 2), Pan (2), Knife (2, 3), Fork (1), Cup (2), CounterTop (1, 2), ButterKnife (2). I am holding Knife (2) now.
+Think: I hold Knife (2). Now, I need to recall location of the cup.
+OK.
+Act: recall location of Cup
+You saw Cup (2) near CounterTop (2).
+Think: Cup (2) is on the CounterTop (2). Now, I need to put Knife (2) in Cup (2).
+OK.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Tomato (3), SoapBottle (1, 2), Pan (2), Knife (2, 3), Fork (1), Cup (2), CounterTop (1, 2), ButterKnife (2).  I am holding Knife (2) now.
+Act: go to Cup (2)
+You arrive at Cup (2). You see Tomato (3), SoapBottle (1, 2), Potato (1), Pan (2), Knife (2, 3), Fork (1), Cup (2), CounterTop (2), Chair (1), Cabinet (9), ButterKnife (2).  I am holding Knife (2) now.
+Act: put down Knife (2)
+You put Knife (2) on Cup (2). You see Tomato (3), SoapBottle (1, 2), Potato (1), Pan (2), Knife (2, 3), Fork (1), Cup (2), CounterTop (2), Chair (1), Cabinet (9), ButterKnife (2).
+Think: I put Knife (2) in Cup (2). Now, I need to pick up the cup.
+OK.
+Act: pick up Cup (2)
+You pick up Cup (2). You see Tomato (3), SoapBottle (1), Potato (1), Pan (2), Knife (2, 3), Fork (1), Cup (2), CounterTop (2), Chair (1), Cabinet (9), ButterKnife (2). I am holding Cup (2) now.
+Think: I hold Cup (2). Now, I need to put it in the sink basin.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Tomato (1), Sink (1), SinkBasin (1), Mug (1), Ladle (2, 3), Knife (2), Drawer (1, 6), Cup (2), CounterTop (1), Cabinet (1, 8).  I am holding Cup (2) now.
+Act: put down Cup (2)
+You put Cup (2) on SinkBasin (1). You see Tomato (1), Sink (1), SinkBasin (1), Mug (1), Ladle (2, 3), Knife (2), Faucet (1), Drawer (1, 6), Cup (2), CounterTop (1), Cabinet (1, 8).
+Think: Now I accomplish the goal.
+OK.
+Act: done

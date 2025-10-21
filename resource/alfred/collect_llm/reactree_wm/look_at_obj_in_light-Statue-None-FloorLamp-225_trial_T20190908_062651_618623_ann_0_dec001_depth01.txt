@@ -1,0 +1,7 @@
+Your task is to: Turn on the lamp.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1, 2), SideTable (1), Shelf (1, 2, 3, 4, 5, 6), GarbageCan (1), Drawer (1), CoffeeTable (1), ArmChair (1).
+Think: Since I’m not holding anything, I need to accomplish 1 subgoal to solve the task. Find and turn on lamp.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and turn on lamp

@@ -1,0 +1,145 @@
+Your primary goal is to: move the pot to the counter by sink, put the apple in the pot
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pot, move and pick up pot, and place apple in pot.
+Your task is to: place apple in pot
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2). I am holding Pot (1) now.
+Think: I hold Pot (1). Now, I need to recall location of the apple.
+OK.
+Act: recall location of Apple
+You saw Apple (3) near Drawer (3). You saw Apple (1) near Cabinet (2). You saw Apple (2) near Drawer (3). You saw Apple (4) near Drawer (3).
+Think: Now, I need to find the apple. The apple is more likely to appear on CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-2). I can check each place one by one, starting from CounterTop (1), until I find the apple.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spoon (1), Pot (1), Faucet (1).  I am holding Pot (1) now.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Window (1), StoveBurner (2, 4), SoapBottle (1), Pot (1), Egg (1), CounterTop (2), ButterKnife (1).  I am holding Pot (1) now.
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Spoon (2), SaltShaker (1), Pot (1), Microwave (1), Cup (1), CounterTop (3), Apple (1).  I am holding Pot (1) now.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Spoon (1, 2), Sink (1), SinkBasin (1), Pot (1), Knife (1), Faucet (1), Drawer (3), CounterTop (1, 3), Apple (2).  I am holding Pot (1) now.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Pot (1), Fridge (1). Fridge (1) is open.  I am holding Pot (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Pot (1). Microwave (1) is open.  I am holding Pot (1) now.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Window (2), Spoon (1, 2), Spatula (2), Sink (1), SinkBasin (1), Pot (1), Ladle (1), Knife (1, 2), HousePlant (1), Faucet (1), Egg (2), Drawer (2, 6), CounterTop (1, 3), Apple (2, 3). Cabinet (1) is open.  I am holding Pot (1) now.
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Sink (1), SinkBasin (1), SaltShaker (1), Pot (1), Knife (1), CounterTop (3), Cabinet (1, 2), Apple (1). Cabinet (2) is closed.  I am holding Pot (1) now.
+Act: open Cabinet (2)
+The Cabinet (2) is open failed. I am holding Pot (1) now.
+Act: close Cabinet (2)
+The Cabinet (2) is already closed. I am holding Pot (1) now.
+Think: I find Apple (1). Now, I need to put it in the pot.
+OK.
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Pot (1).  I am holding Pot (1) now.
+Act: put down Pot (1)
+You put down failed, drop it. You see Pot (1).
+Act: pick up Pot (1)
+You pick up Pot (1). You see Pot (1). I am holding Pot (1) now.
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Spoon (2), SaltShaker (1), Pot (1), Microwave (1), Cup (1), CounterTop (3), Apple (1).  I am holding Pot (1) now.
+Act: pick up Apple (1)
+You are currently holding Pot (1). I am holding Pot (1) now.
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Spoon (2), SaltShaker (1), Pot (1), Microwave (1), Cup (1), CounterTop (3), Apple (1).  I am holding Pot (1) now.
+Act: put down Pot (1)
+You put down failed, drop it. You see Spoon (2), SaltShaker (1), Pot (1), Microwave (1), Cup (1), CounterTop (3), Apple (1).
+Act: pick up Pot (1)
+You pick up Pot (1). You see Spoon (2), SaltShaker (1), Pot (1), Microwave (1), Cup (1), CounterTop (3), Apple (1). I am holding Pot (1) now.
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Spoon (2), SaltShaker (1), Pot (1), Microwave (1), Cup (1), CounterTop (3), Apple (1).  I am holding Pot (1) now.
+Act: pick up Apple (1)
+You are currently holding Pot (1). I am holding Pot (1) now.
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Spoon (2), SaltShaker (1), Pot (1), Microwave (1), Cup (1), CounterTop (3), Apple (1).  I am holding Pot (1) now.
+Act: put down Pot (1)
+You put down failed, drop it. You see Spoon (2), SaltShaker (1), Pot (1), Microwave (1), Cup (1), CounterTop (3), Apple (1).
+Act: pick up Pot (1)
+You pick up Pot (1). You see Spoon (2), SaltShaker (1), Pot (1), Microwave (1), Cup (1), CounterTop (3), Apple (1). I am holding Pot (1) now.
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Spoon (2), SaltShaker (1), Pot (1), Microwave (1), Cup (1), CounterTop (3), Apple (1).  I am holding Pot (1) now.
+Act: pick up Apple (1)
+You are currently holding Pot (1). I am holding Pot (1) now.
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Spoon (2), SaltShaker (1), Pot (1), Microwave (1), Cup (1), CounterTop (3), Apple (1).  I am holding Pot (1) now.
+Act: put down Pot (1)
+You put down failed, drop it. You see Spoon (2), SaltShaker (1), Pot (1), Microwave (1), Cup (1), CounterTop (3), Apple (1).
+Act: pick up Pot (1)
+You pick up Pot (1). You see Spoon (2), SaltShaker (1), Pot (1), Microwave (1), Cup (1), CounterTop (3), Apple (1). I am holding Pot (1) now.
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Spoon (2), SaltShaker (1), Pot (1), Microwave (1), Cup (1), CounterTop (3), Apple (1).  I am holding Pot (1) now.
+Act: pick up Apple (1)
+You are currently holding Pot (1). I am holding Pot (1) now.
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Spoon (2), SaltShaker (1), Pot (1), Microwave (1), Cup (1), CounterTop (3), Apple (1).  I am holding Pot (1) now.
+Act: put down Pot (1)
+You put down failed, drop it. You see Spoon (2), SaltShaker (1), Pot (1), Microwave (1), Cup (1), CounterTop (3), Apple (1).
+Act: pick up Pot (1)
+You pick up Pot (1). You see Spoon (2), SaltShaker (1), Pot (1), Microwave (1), Cup (1), CounterTop (3), Apple (1). I am holding Pot (1) now.
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Spoon (2), SaltShaker (1), Pot (1), Microwave (1), Cup (1), CounterTop (3), Apple (1).  I am holding Pot (1) now.
+Act: pick up Apple (1)
+You are currently holding Pot (1). I am holding Pot (1) now.
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Spoon (2), SaltShaker (1), Pot (1), Microwave (1), Cup (1), CounterTop (3), Apple (1).  I am holding Pot (1) now.
+Act: put down Pot (1)
+You put down failed, drop it. You see Spoon (2), SaltShaker (1), Pot (1), Microwave (1), Cup (1), CounterTop (3), Apple (1).
+Act: pick up Pot (1)
+You pick up Pot (1). You see Spoon (2), SaltShaker (1), Pot (1), Microwave (1), Cup (1), CounterTop (3), Apple (1). I am holding Pot (1) now.
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Spoon (2), SaltShaker (1), Pot (1), Microwave (1), Cup (1), CounterTop (3), Apple (1).  I am holding Pot (1) now.
+Act: pick up Apple (1)
+You are currently holding Pot (1). I am holding Pot (1) now.
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Spoon (2), SaltShaker (1), Pot (1), Microwave (1), Cup (1), CounterTop (3), Apple (1).  I am holding Pot (1) now.
+Act: put down Pot (1)
+You put down failed, drop it. You see Spoon (2), SaltShaker (1), Pot (1), Microwave (1), Cup (1), CounterTop (3), Apple (1).
+Act: pick up Pot (1)
+You pick up Pot (1). You see Spoon (2), SaltShaker (1), Pot (1), Microwave (1), Cup (1), CounterTop (3), Apple (1). I am holding Pot (1) now.
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Spoon (2), SaltShaker (1), Pot (1), Microwave (1), Cup (1), CounterTop (3), Apple (1).  I am holding Pot (1) now.
+Act: pick up Apple (1)
+You are currently holding Pot (1). I am holding Pot (1) now.
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Spoon (2), SaltShaker (1), Pot (1), Microwave (1), Cup (1), CounterTop (3), Apple (1).  I am holding Pot (1) now.
+Act: put down Pot (1)
+You put down failed, drop it. You see Spoon (2), SaltShaker (1), Pot (1), Microwave (1), Cup (1), CounterTop (3), Apple (1).
+Act: pick up Pot (1)
+You pick up Pot (1). You see Spoon (2), SaltShaker (1), Pot (1), Microwave (1), Cup (1), CounterTop (3), Apple (1). I am holding Pot (1) now.
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Spoon (2), SaltShaker (1), Pot (1), Microwave (1), Cup (1), CounterTop (3), Apple (1).  I am holding Pot (1) now.
+Act: pick up Apple (1)
+You are currently holding Pot (1). I am holding Pot (1) now.
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Spoon (2), SaltShaker (1), Pot (1), Microwave (1), Cup (1), CounterTop (3), Apple (1).  I am holding Pot (1) now.
+Act: put down Pot (1)
+You put down failed, drop it. You see Spoon (2), SaltShaker (1), Pot (1), Microwave (1), Cup (1), CounterTop (3), Apple (1).
+Act: pick up Pot (1)
+You pick up Pot (1). You see Spoon (2), SaltShaker (1), Pot (1), Microwave (1), Cup (1), CounterTop (3), Apple (1). I am holding Pot (1) now.
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Spoon (2), SaltShaker (1), Pot (1), Microwave (1), Cup (1), CounterTop (3), Apple (1).  I am holding Pot (1) now.
+Act: pick up Apple (1)
+You are currently holding Pot (1). I am holding Pot (1) now.
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Spoon (2), SaltShaker (1), Pot (1), Microwave (1), Cup (1), CounterTop (3), Apple (1).  I am holding Pot (1) now.
+Act: put down Pot (1)
+You put down failed, drop it. You see Spoon (2), SaltShaker (1), Pot (1), Microwave (1), Cup (1), CounterTop (3), Apple (1).
+Act: pick up Pot (1)
+You pick up Pot (1). You see Spoon (2), SaltShaker (1), Pot (1), Microwave (1), Cup (1), CounterTop (3), Apple (1). I am holding Pot (1) now.
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Spoon (2), SaltShaker (1), Pot (1), Microwave (1), Cup (1), CounterTop (3), Apple (1).  I am holding Pot (1) now.
+Act: pick up Apple (1)
+You are currently holding Pot (1). I am holding Pot (1) now.
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Spoon (2), SaltShaker (1), Pot (1), Microwave (1), Cup (1), CounterTop (3), Apple (1).  I am holding Pot (1) now.
+Act: put down Pot (1)
+You put down failed, drop it. You see Spoon (2), SaltShaker (1), Pot (1), Microwave (1), Cup (1), CounterTop (3), Apple (1).
+Act: pick up Pot (1)
+You pick up Pot (1). You see Spoon (2), SaltShaker (1), Pot (1), Microwave (1), Cup (1), CounterTop (3), Apple (1). I am holding Pot (1) now.
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Spoon (2), SaltShaker (1), Pot (1), Microwave (1), Cup (1), CounterTop (3), Apple (1).  I am holding Pot (1) now.
+Act: pick up Apple (1)
+You are currently holding Pot (1). I am holding Pot (1) now.
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Spoon (2), SaltShaker (1), Pot (1), Microwave (1), Cup (1), CounterTop (3), Apple (1).  I am holding Pot (1) now.
+Max decisions

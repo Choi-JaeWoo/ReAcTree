@@ -1,0 +1,23 @@
+Your primary goal is to: Put a cell phone in a bowl on the TV stand.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up cell phone, find and pick up bowl, and place cell phone in bowl.
+Your task is to: find and pick up cell phone
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), LaundryHamper (1), GarbageCan (1), Dresser (1), Drawer (1, 2), DiningTable (1), CounterTop (1), Bed (1), ArmChair (1, 2).
+Think: First, I need to recall location of the cell phone.
+OK.
+Act: recall location of CellPhone
+You have not seen CellPhone before.
+Think: Now, I need to find the cell phone. The cell phone is more likely to appear on Bed (1), DiningTable (1), SideTable (1), ArmChair (1-2), or in Drawer (1-2). I can check each place one by one, starting from Bed (1), until I find the cell phone.
+OK.
+Act: go to Bed (1)
+You arrive at Bed (1). You see Pillow (1), Laptop (1), Bed (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see RemoteControl (1), Laptop (2), Lamp (1), DiningTable (1), Chair (1, 3), Book (3), AlarmClock (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pencil (1), Lamp (2), CellPhone (1), ArmChair (2). 
+Think: I find CellPhone (1). Now, I need to pick it up.
+OK.
+Act: pick up CellPhone (1)
+You pick up CellPhone (1). You see SideTable (1), Pencil (1), Lamp (2), CellPhone (1), ArmChair (2). I am holding CellPhone (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

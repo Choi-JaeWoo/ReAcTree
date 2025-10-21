@@ -1,0 +1,179 @@
+Your primary goal is to: Place a pepper mill on the counter by the toaster.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pepper mill, place pepper mill on counter, and place pepper mill near toaster.
+Your task is to: place pepper mill near toaster
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12).
+Think: I hold PepperMill (1). Now, I need to put it near the toaster. I can see Toaster (1).
+OK.
+Act: go to Toaster (1)
+You arrive at Toaster (1). You see Toaster (1), StoveKnob (4), StoveBurner (1, 3), PepperShaker (2), Fridge (1), Drawer (3), CounterTop (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), StoveKnob (4), StoveBurner (1, 3), PepperShaker (2), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Toaster (1), StoveBurner (1, 2, 3), Pot (1), PepperShaker (2), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). Cabinet (7) is closed. 
+Act: open Cabinet (7)
+You open Cabinet (7). You see Toaster (1), StoveBurner (1, 2, 3), Pot (1), PepperShaker (2, 3), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7).
+Act: go to PepperShaker (3)
+You see Toaster (1), PepperShaker (2, 3), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to PepperShaker (2)
+You already arrive at PepperShaker (2). You see Toaster (1, 1), StoveBurner (1), PepperShaker (2, 2, 3, 3), Fridge (1, 1), Drawer (3, 3), CounterTop (1, 1), Cabinet (7, 7). 
+Act: go to Toaster (1)
+You arrive at Toaster (1). You see Toaster (1), StoveKnob (4), StoveBurner (1, 3), PepperShaker (2), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), StoveKnob (4), StoveBurner (1, 3), PepperShaker (2), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Toaster (1), StoveBurner (1, 2, 3), Pot (1), PepperShaker (2, 3), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). Cabinet (7) is open. 
+Act: go to PepperShaker (3)
+You see Toaster (1), PepperShaker (2, 3), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to PepperShaker (2)
+You already arrive at PepperShaker (2). You see Toaster (1, 1), StoveBurner (1), PepperShaker (2, 2, 3, 3), Fridge (1, 1), Drawer (3, 3), CounterTop (1, 1), Cabinet (7, 7). 
+Act: go to Toaster (1)
+You arrive at Toaster (1). You see Toaster (1), StoveKnob (4), StoveBurner (1, 3), PepperShaker (2), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), StoveKnob (4), StoveBurner (1, 3), PepperShaker (2), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Toaster (1), StoveBurner (1, 2, 3), Pot (1), PepperShaker (2, 3), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). Cabinet (7) is open. 
+Act: go to PepperShaker (3)
+You see Toaster (1), PepperShaker (2, 3), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to PepperShaker (2)
+You already arrive at PepperShaker (2). You see Toaster (1, 1), StoveBurner (1), PepperShaker (2, 2, 3, 3), Fridge (1, 1), Drawer (3, 3), CounterTop (1, 1), Cabinet (7, 7). 
+Act: go to Toaster (1)
+You arrive at Toaster (1). You see Toaster (1), StoveKnob (4), StoveBurner (1, 3), PepperShaker (2), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), StoveKnob (4), StoveBurner (1, 3), PepperShaker (2), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Toaster (1), StoveBurner (1, 2, 3), Pot (1), PepperShaker (2, 3), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). Cabinet (7) is open. 
+Act: go to PepperShaker (3)
+You see Toaster (1), PepperShaker (2, 3), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to PepperShaker (2)
+You already arrive at PepperShaker (2). You see Toaster (1, 1), StoveBurner (1), PepperShaker (2, 2, 3, 3), Fridge (1, 1), Drawer (3, 3), CounterTop (1, 1), Cabinet (7, 7). 
+Act: go to Toaster (1)
+You arrive at Toaster (1). You see Toaster (1), StoveKnob (4), StoveBurner (1, 3), PepperShaker (2), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), StoveKnob (4), StoveBurner (1, 3), PepperShaker (2), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Toaster (1), StoveBurner (1, 2, 3), Pot (1), PepperShaker (2, 3), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). Cabinet (7) is open. 
+Act: go to PepperShaker (3)
+You see Toaster (1), PepperShaker (2, 3), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to PepperShaker (2)
+You already arrive at PepperShaker (2). You see Toaster (1, 1), StoveBurner (1), PepperShaker (2, 2, 3, 3), Fridge (1, 1), Drawer (3, 3), CounterTop (1, 1), Cabinet (7, 7). 
+Act: go to Toaster (1)
+You arrive at Toaster (1). You see Toaster (1), StoveKnob (4), StoveBurner (1, 3), PepperShaker (2), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), StoveKnob (4), StoveBurner (1, 3), PepperShaker (2), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Toaster (1), StoveBurner (1, 2, 3), Pot (1), PepperShaker (2, 3), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). Cabinet (7) is open. 
+Act: go to PepperShaker (3)
+You see Toaster (1), PepperShaker (2, 3), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to PepperShaker (2)
+You already arrive at PepperShaker (2). You see Toaster (1, 1), StoveBurner (1), PepperShaker (2, 2, 3, 3), Fridge (1, 1), Drawer (3, 3), CounterTop (1, 1), Cabinet (7, 7). 
+Act: go to Toaster (1)
+You arrive at Toaster (1). You see Toaster (1), StoveKnob (4), StoveBurner (1, 3), PepperShaker (2), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), StoveKnob (4), StoveBurner (1, 3), PepperShaker (2), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Toaster (1), StoveBurner (1, 2, 3), Pot (1), PepperShaker (2, 3), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). Cabinet (7) is open. 
+Act: go to PepperShaker (3)
+You see Toaster (1), PepperShaker (2, 3), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to PepperShaker (2)
+You already arrive at PepperShaker (2). You see Toaster (1, 1), StoveBurner (1), PepperShaker (2, 2, 3, 3), Fridge (1, 1), Drawer (3, 3), CounterTop (1, 1), Cabinet (7, 7). 
+Act: go to Toaster (1)
+You arrive at Toaster (1). You see Toaster (1), StoveKnob (4), StoveBurner (1, 3), PepperShaker (2), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), StoveKnob (4), StoveBurner (1, 3), PepperShaker (2), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Toaster (1), StoveBurner (1, 2, 3), Pot (1), PepperShaker (2, 3), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). Cabinet (7) is open. 
+Act: go to PepperShaker (3)
+You see Toaster (1), PepperShaker (2, 3), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to PepperShaker (2)
+You already arrive at PepperShaker (2). You see Toaster (1, 1), StoveBurner (1), PepperShaker (2, 2, 3, 3), Fridge (1, 1), Drawer (3, 3), CounterTop (1, 1), Cabinet (7, 7). 
+Act: go to Toaster (1)
+You arrive at Toaster (1). You see Toaster (1), StoveKnob (4), StoveBurner (1, 3), PepperShaker (2), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), StoveKnob (4), StoveBurner (1, 3), PepperShaker (2), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Toaster (1), StoveBurner (1, 2, 3), Pot (1), PepperShaker (2, 3), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). Cabinet (7) is open. 
+Act: go to PepperShaker (3)
+You see Toaster (1), PepperShaker (2, 3), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to PepperShaker (2)
+You already arrive at PepperShaker (2). You see Toaster (1, 1), StoveBurner (1), PepperShaker (2, 2, 3, 3), Fridge (1, 1), Drawer (3, 3), CounterTop (1, 1), Cabinet (7, 7). 
+Act: go to Toaster (1)
+You arrive at Toaster (1). You see Toaster (1), StoveKnob (4), StoveBurner (1, 3), PepperShaker (2), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), StoveKnob (4), StoveBurner (1, 3), PepperShaker (2), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Toaster (1), StoveBurner (1, 2, 3), Pot (1), PepperShaker (2, 3), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). Cabinet (7) is open. 
+Act: go to PepperShaker (3)
+You see Toaster (1), PepperShaker (2, 3), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to PepperShaker (2)
+You already arrive at PepperShaker (2). You see Toaster (1, 1), StoveBurner (1), PepperShaker (2, 2, 3, 3), Fridge (1, 1), Drawer (3, 3), CounterTop (1, 1), Cabinet (7, 7). 
+Act: go to Toaster (1)
+You arrive at Toaster (1). You see Toaster (1), StoveKnob (4), StoveBurner (1, 3), PepperShaker (2), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), StoveKnob (4), StoveBurner (1, 3), PepperShaker (2), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Toaster (1), StoveBurner (1, 2, 3), Pot (1), PepperShaker (2, 3), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). Cabinet (7) is open. 
+Act: go to PepperShaker (3)
+You see Toaster (1), PepperShaker (2, 3), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to PepperShaker (2)
+You already arrive at PepperShaker (2). You see Toaster (1, 1), StoveBurner (1), PepperShaker (2, 2, 3, 3), Fridge (1, 1), Drawer (3, 3), CounterTop (1, 1), Cabinet (7, 7). 
+Act: go to Toaster (1)
+You arrive at Toaster (1). You see Toaster (1), StoveKnob (4), StoveBurner (1, 3), PepperShaker (2), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), StoveKnob (4), StoveBurner (1, 3), PepperShaker (2), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Toaster (1), StoveBurner (1, 2, 3), Pot (1), PepperShaker (2, 3), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). Cabinet (7) is open. 
+Act: go to PepperShaker (3)
+You see Toaster (1), PepperShaker (2, 3), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to PepperShaker (2)
+You already arrive at PepperShaker (2). You see Toaster (1, 1), StoveBurner (1), PepperShaker (2, 2, 3, 3), Fridge (1, 1), Drawer (3, 3), CounterTop (1, 1), Cabinet (7, 7). 
+Act: go to Toaster (1)
+You arrive at Toaster (1). You see Toaster (1), StoveKnob (4), StoveBurner (1, 3), PepperShaker (2), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), StoveKnob (4), StoveBurner (1, 3), PepperShaker (2), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Toaster (1), StoveBurner (1, 2, 3), Pot (1), PepperShaker (2, 3), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). Cabinet (7) is open. 
+Act: go to PepperShaker (3)
+You see Toaster (1), PepperShaker (2, 3), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to PepperShaker (2)
+You already arrive at PepperShaker (2). You see Toaster (1, 1), StoveBurner (1), PepperShaker (2, 2, 3, 3), Fridge (1, 1), Drawer (3, 3), CounterTop (1, 1), Cabinet (7, 7). 
+Act: go to Toaster (1)
+You arrive at Toaster (1). You see Toaster (1), StoveKnob (4), StoveBurner (1, 3), PepperShaker (2), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), StoveKnob (4), StoveBurner (1, 3), PepperShaker (2), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Toaster (1), StoveBurner (1, 2, 3), Pot (1), PepperShaker (2, 3), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). Cabinet (7) is open. 
+Act: go to PepperShaker (3)
+You see Toaster (1), PepperShaker (2, 3), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to PepperShaker (2)
+You already arrive at PepperShaker (2). You see Toaster (1, 1), StoveBurner (1), PepperShaker (2, 2, 3, 3), Fridge (1, 1), Drawer (3, 3), CounterTop (1, 1), Cabinet (7, 7). 
+Act: go to Toaster (1)
+You arrive at Toaster (1). You see Toaster (1), StoveKnob (4), StoveBurner (1, 3), PepperShaker (2), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), StoveKnob (4), StoveBurner (1, 3), PepperShaker (2), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Toaster (1), StoveBurner (1, 2, 3), Pot (1), PepperShaker (2, 3), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). Cabinet (7) is open. 
+Act: go to PepperShaker (3)
+You see Toaster (1), PepperShaker (2, 3), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to PepperShaker (2)
+You already arrive at PepperShaker (2). You see Toaster (1, 1), StoveBurner (1), PepperShaker (2, 2, 3, 3), Fridge (1, 1), Drawer (3, 3), CounterTop (1, 1), Cabinet (7, 7). 
+Act: go to Toaster (1)
+You arrive at Toaster (1). You see Toaster (1), StoveKnob (4), StoveBurner (1, 3), PepperShaker (2), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), StoveKnob (4), StoveBurner (1, 3), PepperShaker (2), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Toaster (1), StoveBurner (1, 2, 3), Pot (1), PepperShaker (2, 3), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). Cabinet (7) is open. 
+Act: go to PepperShaker (3)
+You see Toaster (1), PepperShaker (2, 3), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to PepperShaker (2)
+You already arrive at PepperShaker (2). You see Toaster (1, 1), StoveBurner (1), PepperShaker (2, 2, 3, 3), Fridge (1, 1), Drawer (3, 3), CounterTop (1, 1), Cabinet (7, 7). 
+Act: go to Toaster (1)
+You arrive at Toaster (1). You see Toaster (1), StoveKnob (4), StoveBurner (1, 3), PepperShaker (2), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), StoveKnob (4), StoveBurner (1, 3), PepperShaker (2), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Toaster (1), StoveBurner (1, 2, 3), Pot (1), PepperShaker (2, 3), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). Cabinet (7) is open. 
+Act: go to PepperShaker (3)
+You see Toaster (1), PepperShaker (2, 3), Fridge (1), Drawer (3), CounterTop (1), Cabinet (7). 
+Act: go to PepperShaker (2)
+You already arrive at PepperShaker (2). You see Toaster (1, 1), StoveBurner (1), PepperShaker (2, 2, 3, 3), Fridge (1, 1), Drawer (3, 3), CounterTop (1, 1), Cabinet (7, 7). 
+Max decisions

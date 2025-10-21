@@ -1,0 +1,7 @@
+Your task is to: Place a bowl with a cell phone in it on a TV stand.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), LaundryHamper (1), GarbageCan (1), Dresser (1), Drawer (1, 2), DiningTable (1), CounterTop (1), Bed (1), ArmChair (1, 2).
+Think: Since I’m not holding a bowl, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up bowl, place bowl on TV stand, find and pick up cell phone, and place cell phone in bowl near TV stand.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up bowl, place bowl on TV stand, find and pick up cell phone, place cell phone in bowl near TV stand

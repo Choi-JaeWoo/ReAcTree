@@ -1,0 +1,7 @@
+Your task is to: Wash a teapot to put it away under the counter.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4, 5, 6), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9).
+Think: Since I’m not holding teapot, I need to accomplish 3 subgoals sequentially to solve the task. Find and pick up teapot, clean and pick up teapot, and place teapot under counter.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up teapot, clean and pick up teapot, place teapot under counter

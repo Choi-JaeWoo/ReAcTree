@@ -1,0 +1,19 @@
+Your primary goal is to: To move a full and empty roll of toilet paper to the sink. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up full roll of toilet paper, place full roll of toilet paper on sink basin, find and pick up empty roll of toilet paper, and place empty roll of toilet paper on sink basin.
+Your task is to: find and pick up full roll of toilet paper
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), Sink (1), SinkBasin (1), HandTowelHolder (1), GarbageCan (1), CounterTop (1), Cabinet (1, 2), Bathtub (1), BathtubBasin (1).
+Think: First, I need to recall location of the full roll of toilet paper.
+OK.
+Act: recall location of ToiletPaper
+You have not seen ToiletPaper before.
+Think: Now, I need to find the full roll of toilet paper. The full roll of toilet paper is more likely to appear on ToiletPaperHanger (1), SinkBasin (1), or in Cabinet (1-2). I can check each place one by one, starting from ToiletPaperHanger (1), until I find the full roll of toilet paper.
+OK.
+Act: go to ToiletPaperHanger (1)
+You arrive at ToiletPaperHanger (1). You see Toilet (1), ToiletPaper (1), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1). 
+Think: I find ToiletPaper (1). Now, I need to pick it up.
+OK.
+Act: pick up ToiletPaper (1)
+You pick up ToiletPaper (1). You see Toilet (1), ToiletPaper (1), ToiletPaperHanger (1), ScrubBrush (1), Plunger (1). I am holding ToiletPaper (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

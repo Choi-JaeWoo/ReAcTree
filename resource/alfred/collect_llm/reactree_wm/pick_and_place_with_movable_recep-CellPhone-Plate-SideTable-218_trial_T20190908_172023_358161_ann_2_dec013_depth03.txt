@@ -1,0 +1,19 @@
+Your primary goal is to: Put a plate with a phone on it on the end table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up plate, place plate on end table, find and pick up phone, and place phone on plate near end table.
+Your task is to: find and pick up phone
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), DiningTable (1), CoffeeTable (1).
+Think: First, I need to recall location of the phone.
+OK.
+Act: recall location of CellPhone
+You saw CellPhone (4) near SideTable (1).
+Think: I can find CellPhone (4) near SideTable (1).
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Plate (2), Newspaper (1, 2), DeskLamp (1), Chair (4), CellPhone (4). 
+Think: I find CellPhone (4). Now, I need to pick it up.
+OK.
+Act: pick up CellPhone (4)
+You pick up CellPhone (4). You see SideTable (1), Plate (2), Newspaper (1, 2), DeskLamp (1), Chair (4), CellPhone (4). I am holding CellPhone (4) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,185 @@
+Your primary goal is to: Throw away a microwaved slice of bread.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up bread, heat and pick up bread, and throw away bread.
+Your task is to: heat and pick up bread
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20). I am holding Bread (1) now.
+Think: I hold Bread (1). Now, I need to heat it using the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Tomato (2), Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8), Bread (1). Microwave (1) is closed.  I am holding Bread (1) now.
+Act: open Microwave (1)
+You open Microwave (1). You see Microwave (1), Fridge (1), Drawer (3), Cabinet (8), Bread (1). I am holding Bread (1) now.
+Act: put down Bread (1)
+You put down failed, drop it. You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17), Bread (1).
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17), Bread (1). Cabinet (8) is closed. 
+Act: open Cabinet (8)
+The Cabinet (8) is open failed.
+Act: go to Cabinet (17)
+You arrive at Cabinet (17). You see WineBottle (1), Spatula (2), Pan (1), Microwave (1, 1), Fridge (1), Drawer (1, 1, 3, 3), CounterTop (2), Cabinet (8, 8, 11, 17, 17), ButterKnife (2), Bread (1, 1). Cabinet (17) is closed. 
+Act: open Cabinet (17)
+You open Cabinet (17). You see WineBottle (1), Spatula (2), Pan (1), Microwave (1), Drawer (1, 3), CounterTop (2), Cabinet (8, 11, 17), ButterKnife (2), Bread (1).
+Act: pick up Bread (1)
+You pick up Bread (1). You see WineBottle (1), Spatula (2), Pan (1), Microwave (1), Drawer (1, 3), CounterTop (2), Cabinet (8, 11, 17), ButterKnife (2), Bread (1). I am holding Bread (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1), Fridge (1), Drawer (3), Cabinet (8), Bread (1). Microwave (1) is open.  I am holding Bread (1) now.
+Act: put down Bread (1)
+You put down failed, drop it. You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17), Bread (1).
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17), Bread (1). Cabinet (8) is closed. 
+Act: open Cabinet (8)
+The Cabinet (8) is open failed.
+Act: go to Cabinet (17)
+You arrive at Cabinet (17). You see WineBottle (1), Spatula (2), Pan (1), Microwave (1, 1), Fridge (1), Drawer (1, 1, 3, 3), CounterTop (2), Cabinet (8, 8, 11, 17, 17), ButterKnife (2), Bread (1, 1). Cabinet (17) is open. 
+Act: pick up Bread (1)
+You pick up Bread (1). You see WineBottle (1), Spatula (2), Pan (1), Microwave (1), Drawer (1, 3), CounterTop (2), Cabinet (8, 11, 17), ButterKnife (2), Bread (1). I am holding Bread (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1), Fridge (1), Drawer (3), Cabinet (8), Bread (1). Microwave (1) is open.  I am holding Bread (1) now.
+Act: put down Bread (1)
+You put down failed, drop it. You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17), Bread (1).
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17), Bread (1). Cabinet (8) is closed. 
+Act: open Cabinet (8)
+The Cabinet (8) is open failed.
+Act: go to Cabinet (17)
+You arrive at Cabinet (17). You see WineBottle (1), Spatula (2), Pan (1), Microwave (1, 1), Fridge (1), Drawer (1, 1, 3, 3), CounterTop (2), Cabinet (8, 8, 11, 17, 17), ButterKnife (2), Bread (1, 1). Cabinet (17) is open. 
+Act: pick up Bread (1)
+You pick up Bread (1). You see WineBottle (1), Spatula (2), Pan (1), Microwave (1), Drawer (1, 3), CounterTop (2), Cabinet (8, 11, 17), ButterKnife (2), Bread (1). I am holding Bread (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1), Fridge (1), Drawer (3), Cabinet (8), Bread (1). Microwave (1) is open.  I am holding Bread (1) now.
+Act: put down Bread (1)
+You put down failed, drop it. You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17), Bread (1).
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17), Bread (1). Cabinet (8) is closed. 
+Act: open Cabinet (8)
+You open Cabinet (8). You see Fridge (1), Drawer (3), Cabinet (8, 11, 17), Bread (1).
+Act: pick up Bread (1)
+You pick up Bread (1). You see Fridge (1), Drawer (3), Cabinet (8, 11, 17), Bread (1). I am holding Bread (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1), Fridge (1), Drawer (3), Cabinet (8), Bread (1). Microwave (1) is open.  I am holding Bread (1) now.
+Act: put down Bread (1)
+You put down failed, drop it. You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17), Bread (1).
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Microwave (1, 1, 1), Fridge (1, 1, 1), Drawer (1, 1, 1, 3, 3, 3), Cabinet (8, 8, 8, 17, 17, 17), Bread (1, 1, 1). Cabinet (8) is open. 
+Act: pick up Bread (1)
+You pick up Bread (1). You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17), Bread (1). I am holding Bread (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1), Fridge (1), Drawer (3), Cabinet (8), Bread (1). Microwave (1) is open.  I am holding Bread (1) now.
+Act: put down Bread (1)
+You put down failed, drop it. You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17), Bread (1).
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Microwave (1, 1, 1), Fridge (1, 1, 1), Drawer (1, 1, 1, 3, 3, 3), Cabinet (8, 8, 8, 17, 17), Bread (1, 1, 1). Cabinet (8) is open. 
+Act: pick up Bread (1)
+You pick up Bread (1). You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17), Bread (1). I am holding Bread (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1), Fridge (1), Drawer (3), Cabinet (8), Bread (1). Microwave (1) is open.  I am holding Bread (1) now.
+Act: put down Bread (1)
+You put down failed, drop it. You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17), Bread (1).
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Microwave (1, 1, 1), Fridge (1, 1, 1), Drawer (1, 1, 1, 3, 3, 3), Cabinet (8, 8, 8, 17, 17, 17), Bread (1, 1, 1). Cabinet (8) is open. 
+Act: pick up Bread (1)
+You pick up Bread (1). You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17), Bread (1). I am holding Bread (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1), Fridge (1), Drawer (3), Cabinet (8), Bread (1). Microwave (1) is open.  I am holding Bread (1) now.
+Act: put down Bread (1)
+You put down failed, drop it. You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17), Bread (1).
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Microwave (1, 1, 1), Fridge (1, 1, 1), Drawer (1, 1, 1, 3, 3, 3), Cabinet (8, 8, 8, 17, 17, 17), Bread (1, 1, 1). Cabinet (8) is open. 
+Act: pick up Bread (1)
+You pick up Bread (1). You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17), Bread (1). I am holding Bread (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1), Fridge (1), Drawer (3), Cabinet (8), Bread (1). Microwave (1) is open.  I am holding Bread (1) now.
+Act: put down Bread (1)
+You put down failed, drop it. You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17), Bread (1).
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Microwave (1, 1, 1), Fridge (1, 1, 1), Drawer (1, 1, 1, 3, 3, 3), Cabinet (8, 8, 8, 17, 17, 17), Bread (1, 1, 1). Cabinet (8) is open. 
+Act: pick up Bread (1)
+You pick up Bread (1). You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17), Bread (1). I am holding Bread (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1), Fridge (1), Drawer (3), Cabinet (8), Bread (1). Microwave (1) is open.  I am holding Bread (1) now.
+Act: put down Bread (1)
+You put down failed, drop it. You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17), Bread (1).
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Microwave (1, 1, 1), Fridge (1, 1, 1), Drawer (1, 1, 1, 3, 3, 3), Cabinet (8, 8, 8, 17, 17, 17), Bread (1, 1, 1). Cabinet (8) is open. 
+Act: pick up Bread (1)
+You pick up Bread (1). You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17), Bread (1). I am holding Bread (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1), Fridge (1), Drawer (3), Cabinet (8), Bread (1). Microwave (1) is open.  I am holding Bread (1) now.
+Act: put down Bread (1)
+You put down failed, drop it. You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17), Bread (1).
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Microwave (1, 1, 1), Fridge (1, 1, 1), Drawer (1, 1, 1, 3, 3, 3), Cabinet (8, 8, 8, 17), Bread (1, 1, 1). Cabinet (8) is open. 
+Act: pick up Bread (1)
+You pick up Bread (1). You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17), Bread (1). I am holding Bread (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1), Fridge (1), Drawer (3), Cabinet (8), Bread (1). Microwave (1) is open.  I am holding Bread (1) now.
+Act: put down Bread (1)
+You put down failed, drop it. You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17), Bread (1).
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Microwave (1, 1, 1), Fridge (1, 1, 1), Drawer (1, 1, 1, 3, 3, 3), Cabinet (8, 8, 8, 17, 17, 17), Bread (1, 1, 1). Cabinet (8) is open. 
+Act: pick up Bread (1)
+You pick up Bread (1). You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17), Bread (1). I am holding Bread (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1), Fridge (1), Drawer (3), Cabinet (8), Bread (1). Microwave (1) is open.  I am holding Bread (1) now.
+Act: put down Bread (1)
+You put down failed, drop it. You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17), Bread (1).
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Microwave (1, 1, 1), Fridge (1, 1, 1), Drawer (1, 1, 1, 3, 3, 3), Cabinet (8, 8, 8, 17, 17, 17), Bread (1, 1, 1). Cabinet (8) is open. 
+Act: pick up Bread (1)
+You pick up Bread (1). You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17), Bread (1). I am holding Bread (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1), Fridge (1), Drawer (3), Cabinet (8), Bread (1). Microwave (1) is open.  I am holding Bread (1) now.
+Act: put down Bread (1)
+You put down failed, drop it. You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17), Bread (1).
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Microwave (1, 1, 1), Fridge (1, 1, 1), Drawer (1, 1, 1, 3, 3, 3), Cabinet (8, 8, 8, 17, 17, 17), Bread (1, 1, 1). Cabinet (8) is open. 
+Act: pick up Bread (1)
+You pick up Bread (1). You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17), Bread (1). I am holding Bread (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1), Fridge (1), Drawer (3), Cabinet (8), Bread (1). Microwave (1) is open.  I am holding Bread (1) now.
+Act: put down Bread (1)
+You put down failed, drop it. You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17), Bread (1).
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Microwave (1, 1, 1), Fridge (1, 1, 1), Drawer (1, 1, 1, 3, 3, 3), Cabinet (8, 8, 8, 17), Bread (1, 1, 1). Cabinet (8) is open. 
+Act: pick up Bread (1)
+You pick up Bread (1). You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17), Bread (1). I am holding Bread (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1), Fridge (1), Drawer (3), Cabinet (8), Bread (1). Microwave (1) is open.  I am holding Bread (1) now.
+Act: put down Bread (1)
+You put down failed, drop it. You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17), Bread (1).
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Microwave (1, 1, 1), Fridge (1, 1, 1), Drawer (1, 1, 1, 3, 3, 3), Cabinet (8, 8, 8, 17), Bread (1, 1, 1). Cabinet (8) is open. 
+Act: pick up Bread (1)
+You pick up Bread (1). You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17), Bread (1). I am holding Bread (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1), Fridge (1), Drawer (3), Cabinet (8), Bread (1). Microwave (1) is open.  I am holding Bread (1) now.
+Act: put down Bread (1)
+You put down failed, drop it. You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17), Bread (1).
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Microwave (1, 1, 1), Fridge (1, 1, 1), Drawer (1, 1, 1, 3, 3, 3), Cabinet (8, 8, 8, 17, 17, 17), Bread (1, 1, 1). Cabinet (8) is open. 
+Act: pick up Bread (1)
+You pick up Bread (1). You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17), Bread (1). I am holding Bread (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1), Fridge (1), Drawer (3), Cabinet (8), Bread (1). Microwave (1) is open.  I am holding Bread (1) now.
+Act: put down Bread (1)
+You put down failed, drop it. You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17), Bread (1).
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Microwave (1, 1, 1), Fridge (1, 1, 1), Drawer (1, 1, 1, 3, 3, 3), Cabinet (8, 8, 8, 17, 17, 17), Bread (1, 1, 1). Cabinet (8) is open. 
+Act: pick up Bread (1)
+You pick up Bread (1). You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17), Bread (1). I am holding Bread (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1), Fridge (1), Drawer (3), Cabinet (8), Bread (1). Microwave (1) is open.  I am holding Bread (1) now.
+Act: put down Bread (1)
+You put down failed, drop it. You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17), Bread (1).
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Microwave (1, 1, 1), Fridge (1, 1, 1), Drawer (1, 1, 1, 3, 3, 3), Cabinet (8, 8, 8, 17, 17, 17), Bread (1, 1, 1). Cabinet (8) is open. 
+Act: pick up Bread (1)
+You pick up Bread (1). You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17), Bread (1). I am holding Bread (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1), Fridge (1), Drawer (3), Cabinet (8), Bread (1). Microwave (1) is open.  I am holding Bread (1) now.
+Act: put down Bread (1)
+You put down failed, drop it. You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17), Bread (1).
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Microwave (1, 1, 1), Fridge (1, 1, 1), Drawer (1, 1, 1, 3, 3, 3), Cabinet (8, 8, 8, 17), Bread (1, 1, 1). Cabinet (8) is open. 
+Act: pick up Bread (1)
+You pick up Bread (1). You see Microwave (1), Fridge (1), Drawer (1, 3), Cabinet (8, 17), Bread (1). I am holding Bread (1) now.
+Max decisions

@@ -1,0 +1,57 @@
+Your primary goal is to: Put the bowl in the box on the coffee table. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up bowl, place bowl in box, and place box on coffee table.
+Your task is to: find and pick up bowl
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1, 2), Shelf (1, 2, 3), Safe (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), Desk (1), CoffeeTable (1), ArmChair (1).
+Think: First, I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: Now, I need to find the bowl. The bowl is more likely to appear on CoffeeTable (1), DiningTable (1), or in Drawer (1-6). I can check each place one by one, starting from CoffeeTable (1), until I find the bowl.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see CoffeeTable (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (4), Statue (1), RemoteControl (1), KeyChain (1), DiningTable (1), Chair (2, 5, 6), CellPhone (3), Box (3). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Statue (2, 3), Lamp (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), CreditCard (3), Chair (4). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Statue (2), Lamp (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), CreditCard (3), Chair (4).
+Act: close Drawer (1)
+You close Drawer (1). You see Statue (2), Lamp (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), CreditCard (3), Chair (4).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Statue (2, 3), Lamp (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), CreditCard (3). Drawer (2) is closed. 
+Act: open Drawer (2)
+The Drawer (2) is open failed.
+Act: close Drawer (2)
+The Drawer (2) is already closed.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Statue (2, 3), Lamp (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), CreditCard (3). Drawer (3) is closed. 
+Act: open Drawer (3)
+The Drawer (3) is open failed.
+Act: close Drawer (3)
+The Drawer (3) is already closed.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Statue (2, 3), Lamp (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), CreditCard (3). Drawer (4) is closed. 
+Act: open Drawer (4)
+The Drawer (4) is open failed.
+Act: close Drawer (4)
+The Drawer (4) is already closed.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Statue (2, 3), Lamp (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), CreditCard (3), Chair (4). Drawer (5) is closed. 
+Act: open Drawer (5)
+You open Drawer (5). You see Statue (2), Lamp (1), Drawer (2, 3, 4, 5, 6), Desk (1), CreditCard (3), Chair (4).
+Act: close Drawer (5)
+You close Drawer (5). You see Statue (2), Lamp (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), CreditCard (3), Chair (4).
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Statue (2, 3), Lamp (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), CreditCard (3), Chair (4). Drawer (6) is closed. 
+Act: open Drawer (6)
+You open Drawer (6). You see Statue (2, 3), Lamp (1), Drawer (2, 3, 4, 6), Desk (1), CreditCard (3), Chair (4).
+Act: close Drawer (6)
+You close Drawer (6). You see Statue (2, 3), Lamp (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), CreditCard (3), Chair (4).
+Think: I find Bowl (1). Now, I need to pick it up.
+OK.
+Act: pick up Statue (2)
+You pick up Statue (2). You see Statue (2, 3), Lamp (1), Drawer (1, 2, 3, 4, 5, 6), Desk (1), CreditCard (3), Chair (4). I am holding Statue (2) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,19 @@
+Your primary goal is to: Move a figurine from one side of the coffee table to the other. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up figurine, and place figurine on coffee table.
+Your task is to: find and pick up figurine
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2, 3), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), CoffeeTable (1), ArmChair (1).
+Think: First, I need to recall location of the figurine.
+OK.
+Act: recall location of Statue
+You have not seen Statue before.
+Think: Now, I need to find the figurine. The figurine is more likely to appear on CoffeeTable (1), SideTable (1-3), or in Dresser (1), Drawer (1-4). I can check each place one by one, starting from CoffeeTable (1), until I find the figurine.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see TissueBox (1, 2), Statue (1), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1). 
+Think: I find Statue (1). Now, I need to pick it up.
+OK.
+Act: pick up Statue (1)
+You pick up Statue (1). You see TissueBox (1, 2), Statue (1), Pen (3), KeyChain (2), CoffeeTable (1), Box (1), Book (1). I am holding Statue (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

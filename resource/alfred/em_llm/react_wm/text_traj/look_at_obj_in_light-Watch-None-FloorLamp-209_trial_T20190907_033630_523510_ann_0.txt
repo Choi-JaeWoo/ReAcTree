@@ -1,0 +1,33 @@
+Your task is to: Grab the watch from the table, turn on the floor lamp
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), CoffeeTable (1), ArmChair (1).
+Think: To solve the task, I need to find and pick up the watch. And I need to find and turn on the floor lamp.
+OK.
+Think: First, I need to recall location of the watch.
+OK.
+Act: recall location of Watch
+You have not seen Watch before.
+Think: Now I need to find the watch. The watch is more likely to appear on Sofa (1), SideTable (1-2), CoffeeTable (1), ArmChair (1), or in Drawer (1-4). I can check each place one by one, starting from Sofa (1), until I find the watch.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1), Newspaper (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Dresser (1), Drawer (1, 2). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Watch (1), Vase (3), SideTable (2), HousePlant (1), FloorLamp (1), Dresser (1), Drawer (4). 
+Think: I find Watch (1). Now, I need to pick it up.
+OK.
+Act: pick up Watch (1)
+You pick up Watch (1). You see Watch (1), Vase (3), SideTable (2), HousePlant (1), FloorLamp (1), Dresser (1), Drawer (4). I am holding Watch (1) now.
+Think: I hold Watch (1). Now, I need to recall location of the floor lamp.
+OK.
+Act: recall location of FloorLamp
+You saw FloorLamp (1) near SideTable (2).
+Think: I can find FloorLamp (1) near SideTable (2). Now, I need to go to SideTable (2) and turn on FloorLamp (1).
+OK.
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Watch (1), Vase (3), SideTable (2), HousePlant (1), FloorLamp (1), Dresser (1), Drawer (4).  I am holding Watch (1) now.
+Act: turn on FloorLamp (1)
+You turn on FloorLamp (1). You see Watch (1), Vase (3), SideTable (2), HousePlant (1), FloorLamp (1), Dresser (1), Drawer (4). I am holding Watch (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

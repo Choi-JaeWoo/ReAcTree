@@ -1,0 +1,19 @@
+Your primary goal is to: Heat up the cup on the wooden shelf.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up cup, heat and pick up cup, and place cup on wooden shelf.
+Your task is to: find and pick up cup
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13).
+Think: First, I need to recall location of the cup.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now, I need to find the cup. The cup is more likely to appear on CoffeeMachine (1), CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1). I can check each place one by one, starting from CoffeeMachine (1), until I find the cup.
+OK.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see Toaster (1), Mug (3), Ladle (2), Knife (1, 2), Egg (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 6). 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: pick up Mug (3)
+You pick up Mug (3). You see Toaster (1), Mug (3), Ladle (2), Knife (1, 2), Egg (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 6). I am holding Mug (3) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

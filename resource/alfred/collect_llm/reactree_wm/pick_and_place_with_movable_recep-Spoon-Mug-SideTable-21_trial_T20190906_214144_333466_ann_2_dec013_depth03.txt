@@ -1,0 +1,19 @@
+Your primary goal is to: Put the white cup with spoon on the shelf
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up cup, find and pick up spoon, place cup on shelf, and place spoon on cup.
+Your task is to: find and pick up spoon
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1, 2, 3), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4). I am holding Cup (2) now.
+Think: First, I need to recall location of the spoon.
+OK.
+Act: recall location of Spoon
+You saw Spoon (1) near SinkBasin (1).
+Think: I can find Spoon (1) near SinkBasin (1).
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), Mug (2), Lettuce (2), Fork (3), Faucet (1), Drawer (1), Cup (2), CounterTop (1), CoffeeMachine (1), Cabinet (2, 4).  I am holding Cup (2) now.
+Think: I find Spoon (1). Now, I need to pick it up.
+OK.
+Act: pick up Cup (2)
+You are currently holding Cup (2). I am holding Cup (2) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

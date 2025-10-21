@@ -1,0 +1,151 @@
+Your primary goal is to: Taking a plate with a spatula on it to a table
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up plate, place plate in sink basin, find and pick up spatula, and place spatula on plate near sink basin.
+Your task is to: place plate in sink basin
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21).
+Think: I hold Plate (1). Now, I need to put it in the sink basin. I can see SinkBasin (1).
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Spatula (1, 2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (2), Cabinet (5, 7, 9), Apple (1). 
+Act: go to Sink (1)
+You see Spatula (1, 2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (2), Cabinet (5, 7, 9), Apple (1). 
+Act: go to Faucet (1)
+You see Spatula (1, 2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (2), Apple (1). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Spatula (1, 2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (2), Cabinet (5, 7, 9), Apple (1). 
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Spatula (1, 2), Sink (1), SinkBasin (1), Pan (1), CounterTop (2), Cabinet (5, 7, 9), Apple (1). Cabinet (5) is closed. 
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Spatula (1, 2), Sink (1), SinkBasin (1), Potato (1), CounterTop (2), Cabinet (5, 6, 7, 8, 9). Cabinet (7) is closed. 
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Spatula (1, 2), Sink (1), SinkBasin (1), Potato (1), Faucet (1), CounterTop (2), Cabinet (2, 5, 6, 7, 8, 9). Cabinet (9) is closed. 
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see StoveKnob (1, 2), StoveBurner (3, 4), Pot (1), Knife (2), Drawer (1, 2), CounterTop (2), Cabinet (2, 6, 7, 8). Cabinet (2) is closed. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Toaster (1), Knife (2), Drawer (1, 2), CounterTop (2), Cabinet (2, 3, 6, 8), Bread (1). Drawer (1) is closed. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Toaster (1), StoveBurner (3, 4), Pot (1), Knife (2), Drawer (1, 2), CounterTop (2), Cabinet (2, 6, 8). Drawer (2) is closed. 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Spatula (1, 2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (2), Cabinet (5, 7, 9), Apple (1). 
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Spatula (1, 2), Sink (1), SinkBasin (1), Pan (1), CounterTop (2), Cabinet (5, 7, 9), Apple (1). Cabinet (5) is closed. 
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Spatula (1, 2), Sink (1), SinkBasin (1), Potato (1), CounterTop (2), Cabinet (5, 6, 7, 8, 9). Cabinet (7) is closed. 
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Spatula (1, 2), Sink (1), SinkBasin (1), Potato (1), Faucet (1), CounterTop (2), Cabinet (2, 5, 6, 7, 8, 9). Cabinet (9) is closed. 
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see StoveKnob (1, 2), StoveBurner (3, 4), Pot (1), Knife (2), Drawer (1, 2), CounterTop (2), Cabinet (2, 6, 7, 8). Cabinet (2) is closed. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Toaster (1), Knife (2), Drawer (1, 2), CounterTop (2), Cabinet (2, 3, 6, 8), Bread (1). Drawer (1) is closed. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Toaster (1), StoveBurner (3, 4), Pot (1), Knife (2), Drawer (1, 2), CounterTop (2), Cabinet (2, 6, 8). Drawer (2) is closed. 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Spatula (1, 2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (2), Cabinet (5, 7, 9), Apple (1). 
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Spatula (1, 2), Sink (1), SinkBasin (1), Pan (1), CounterTop (2), Cabinet (5, 7, 9), Apple (1). Cabinet (5) is closed. 
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Spatula (1, 2), Sink (1), SinkBasin (1), Potato (1), CounterTop (2), Cabinet (5, 6, 7, 8, 9). Cabinet (7) is closed. 
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Spatula (1, 2), Sink (1), SinkBasin (1), Potato (1), Faucet (1), CounterTop (2), Cabinet (2, 5, 6, 7, 8, 9). Cabinet (9) is closed. 
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see StoveKnob (1, 2), StoveBurner (3, 4), Pot (1), Knife (2), Drawer (1, 2), CounterTop (2), Cabinet (2, 6, 7, 8). Cabinet (2) is closed. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Toaster (1), Knife (2), Drawer (1, 2), CounterTop (2), Cabinet (2, 3, 6, 8), Bread (1). Drawer (1) is closed. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Toaster (1), StoveBurner (3, 4), Pot (1), Knife (2), Drawer (1, 2), CounterTop (2), Cabinet (2, 6, 8). Drawer (2) is closed. 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Spatula (1, 2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (2), Cabinet (5, 7, 9), Apple (1). 
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Spatula (1, 2), Sink (1), SinkBasin (1), Pan (1), CounterTop (2), Cabinet (5, 7, 9), Apple (1). Cabinet (5) is closed. 
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Spatula (1, 2), Sink (1), SinkBasin (1), Potato (1), CounterTop (2), Cabinet (5, 6, 7, 8, 9). Cabinet (7) is closed. 
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Spatula (1, 2), Sink (1), SinkBasin (1), Potato (1), Faucet (1), CounterTop (2), Cabinet (2, 5, 6, 7, 8, 9). Cabinet (9) is closed. 
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see StoveKnob (1, 2), StoveBurner (3, 4), Pot (1), Knife (2), Drawer (1, 2), CounterTop (2), Cabinet (2, 6, 7, 8). Cabinet (2) is closed. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Toaster (1), Knife (2), Drawer (1, 2), CounterTop (2), Cabinet (2, 3, 6, 8), Bread (1). Drawer (1) is closed. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Toaster (1), StoveBurner (3, 4), Pot (1), Knife (2), Drawer (1, 2), CounterTop (2), Cabinet (2, 6, 8). Drawer (2) is closed. 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Spatula (1, 2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (2), Cabinet (5, 7, 9), Apple (1). 
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Spatula (1, 2), Sink (1), SinkBasin (1), Pan (1), CounterTop (2), Cabinet (5, 7, 9), Apple (1). Cabinet (5) is closed. 
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Spatula (1, 2), Sink (1), SinkBasin (1), Potato (1), CounterTop (2), Cabinet (5, 6, 7, 8, 9). Cabinet (7) is closed. 
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Spatula (1, 2), Sink (1), SinkBasin (1), Potato (1), Faucet (1), CounterTop (2), Cabinet (2, 5, 6, 7, 8, 9). Cabinet (9) is closed. 
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see StoveKnob (1, 2), StoveBurner (3, 4), Pot (1), Knife (2), Drawer (1, 2), CounterTop (2), Cabinet (2, 6, 7, 8). Cabinet (2) is closed. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Toaster (1), Knife (2), Drawer (1, 2), CounterTop (2), Cabinet (2, 3, 6, 8), Bread (1). Drawer (1) is closed. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Toaster (1), StoveBurner (3, 4), Pot (1), Knife (2), Drawer (1, 2), CounterTop (2), Cabinet (2, 6, 8). Drawer (2) is closed. 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Spatula (1, 2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (2), Cabinet (5, 7, 9), Apple (1). 
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Spatula (1, 2), Sink (1), SinkBasin (1), Pan (1), CounterTop (2), Cabinet (5, 7, 9), Apple (1). Cabinet (5) is closed. 
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Spatula (1, 2), Sink (1), SinkBasin (1), Potato (1), CounterTop (2), Cabinet (5, 6, 7, 8, 9). Cabinet (7) is closed. 
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Spatula (1, 2), Sink (1), SinkBasin (1), Potato (1), Faucet (1), CounterTop (2), Cabinet (2, 5, 6, 7, 8, 9). Cabinet (9) is closed. 
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see StoveKnob (1, 2), StoveBurner (3, 4), Pot (1), Knife (2), Drawer (1, 2), CounterTop (2), Cabinet (2, 6, 7, 8). Cabinet (2) is closed. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Toaster (1), Knife (2), Drawer (1, 2), CounterTop (2), Cabinet (2, 3, 6, 8), Bread (1). Drawer (1) is closed. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Toaster (1), StoveBurner (3, 4), Pot (1), Knife (2), Drawer (1, 2), CounterTop (2), Cabinet (2, 6, 8). Drawer (2) is closed. 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Spatula (1, 2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (2), Cabinet (5, 7, 9), Apple (1). 
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Spatula (1, 2), Sink (1), SinkBasin (1), Pan (1), CounterTop (2), Cabinet (5, 7, 9), Apple (1). Cabinet (5) is closed. 
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Spatula (1, 2), Sink (1), SinkBasin (1), Potato (1), CounterTop (2), Cabinet (5, 6, 7, 8, 9). Cabinet (7) is closed. 
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Spatula (1, 2), Sink (1), SinkBasin (1), Potato (1), Faucet (1), CounterTop (2), Cabinet (2, 5, 6, 7, 8, 9). Cabinet (9) is closed. 
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see StoveKnob (1, 2), StoveBurner (3, 4), Pot (1), Knife (2), Drawer (1, 2), CounterTop (2), Cabinet (2, 6, 7, 8). Cabinet (2) is closed. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Toaster (1), Knife (2), Drawer (1, 2), CounterTop (2), Cabinet (2, 3, 6, 8), Bread (1). Drawer (1) is closed. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Toaster (1), StoveBurner (3, 4), Pot (1), Knife (2), Drawer (1, 2), CounterTop (2), Cabinet (2, 6, 8). Drawer (2) is closed. 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Spatula (1, 2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (2), Cabinet (5, 7, 9), Apple (1). 
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Spatula (1, 2), Sink (1), SinkBasin (1), Pan (1), CounterTop (2), Cabinet (5, 7, 9), Apple (1). Cabinet (5) is closed. 
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Spatula (1, 2), Sink (1), SinkBasin (1), Potato (1), CounterTop (2), Cabinet (5, 6, 7, 8, 9). Cabinet (7) is closed. 
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Spatula (1, 2), Sink (1), SinkBasin (1), Potato (1), Faucet (1), CounterTop (2), Cabinet (2, 5, 6, 7, 8, 9). Cabinet (9) is closed. 
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see StoveKnob (1, 2), StoveBurner (3, 4), Pot (1), Knife (2), Drawer (1, 2), CounterTop (2), Cabinet (2, 6, 7, 8). Cabinet (2) is closed. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Toaster (1), Knife (2), Drawer (1, 2), CounterTop (2), Cabinet (2, 3, 6, 8), Bread (1). Drawer (1) is closed. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Toaster (1), StoveBurner (3, 4), Pot (1), Knife (2), Drawer (1, 2), CounterTop (2), Cabinet (2, 6, 8). Drawer (2) is closed. 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Spatula (1, 2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (2), Cabinet (5, 7, 9), Apple (1). 
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Spatula (1, 2), Sink (1), SinkBasin (1), Pan (1), CounterTop (2), Cabinet (5, 7, 9), Apple (1). Cabinet (5) is closed. 
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Spatula (1, 2), Sink (1), SinkBasin (1), Potato (1), CounterTop (2), Cabinet (5, 6, 7, 8, 9). Cabinet (7) is closed. 
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Spatula (1, 2), Sink (1), SinkBasin (1), Potato (1), Faucet (1), CounterTop (2), Cabinet (2, 5, 6, 7, 8, 9). Cabinet (9) is closed. 
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see StoveKnob (1, 2), StoveBurner (3, 4), Pot (1), Knife (2), Drawer (1, 2), CounterTop (2), Cabinet (2, 6, 7, 8). Cabinet (2) is closed. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Toaster (1), Knife (2), Drawer (1, 2), CounterTop (2), Cabinet (2, 3, 6, 8), Bread (1). Drawer (1) is closed. 
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Toaster (1), StoveBurner (3, 4), Pot (1), Knife (2), Drawer (1, 2), CounterTop (2), Cabinet (2, 6, 8). Drawer (2) is closed. 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Spatula (1, 2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (2), Cabinet (5, 7, 9), Apple (1). 
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Spatula (1, 2), Sink (1), SinkBasin (1), Pan (1), CounterTop (2), Cabinet (5, 7, 9), Apple (1). Cabinet (5) is closed. 
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Spatula (1, 2), Sink (1), SinkBasin (1), Potato (1), CounterTop (2), Cabinet (5, 6, 7, 8, 9). Cabinet (7) is closed. 
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Spatula (1, 2), Sink (1), SinkBasin (1), Potato (1), Faucet (1), CounterTop (2), Cabinet (2, 5, 6, 7, 8, 9). Cabinet (9) is closed. 
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see StoveKnob (1, 2), StoveBurner (3, 4), Pot (1), Knife (2), Drawer (1, 2), CounterTop (2), Cabinet (2, 6, 7, 8). Cabinet (2) is closed. 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Toaster (1), Knife (2), Drawer (1, 2), CounterTop (2), Cabinet (2, 3, 6, 8), Bread (1). Drawer (1) is closed. 
+Max decisions

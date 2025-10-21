@@ -1,0 +1,147 @@
+Your primary goal is to: Take a potato slice from the microwave and put it in the silver pan to put on the white table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up potato slice, place potato slice in pan, and place pan on table.
+Your task is to: place pan on table
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12).
+Think: I hold Pan (1). Now, I need to put it on the table. I can see DiningTable (1).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (2), Spoon (1), Spatula (1, 2), SaltShaker (2), PepperShaker (1, 2, 3), Lettuce (1, 2), DiningTable (1), Chair (1), ButterKnife (1), Bread (1). 
+Max decisions

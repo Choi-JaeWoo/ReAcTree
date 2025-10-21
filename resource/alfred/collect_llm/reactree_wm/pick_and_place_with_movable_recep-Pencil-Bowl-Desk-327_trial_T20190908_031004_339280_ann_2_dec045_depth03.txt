@@ -1,0 +1,13 @@
+Your primary goal is to: Move a pencil and bowl to a different desk.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pencil, place pencil on desk, find and pick up bowl, and place bowl on desk.
+Your task is to: place bowl on desk
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1, 2, 3, 4, 5), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), Desk (1), Bed (1). I am holding Pencil (1) now.
+Think: I hold Pencil (1). Now, I need to put it on the desk. I can see Desk (1).
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Window (1, 2), Shelf (4), Pencil (1), Pen (1), Laptop (1), Desk (1), Chair (1), Book (1).  I am holding Pencil (1) now.
+Act: put down Pencil (1)
+You put Pencil (1) on Desk (1). You see Window (1, 2), Shelf (4), Pencil (1), Pen (1), Laptop (1), Desk (1), Chair (1), Book (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

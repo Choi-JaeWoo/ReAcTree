@@ -1,0 +1,43 @@
+Your primary goal is to: place both pillows on top of the leg rest in front of the chair
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pillow, place pillow on leg rest, Find and pick up pillow away from leg rest, and place pillow on leg rest.
+Your task is to: Find and pick up pillow away from leg rest
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), SideTable (1), Shelf (1, 2, 3, 4, 5, 6, 7, 8), Ottoman (1), GarbageCan (1), Drawer (1), DiningTable (1), ArmChair (1).
+Think: First, I need to recall location of the pillow.
+OK.
+Act: recall location of Pillow
+You saw Pillow (1) near Ottoman (1). You saw Pillow (2) near Sofa (1).
+Think: Pillow (1) is on Ottoman (1). Pillow (2) is on Sofa (1). Now, I need to find another pillow. The pillow is more likely to appear on TVStand (1), SideTable (1), DiningTable (1), ArmChair (1), Shelf (1-8), or in Drawer (1). I can check each place one by one, starting from TVStand (1), until I find the pillow.
+OK.
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), Shelf (1, 3, 4, 5, 7). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Vase (3), SideTable (1), RemoteControl (3), FloorLamp (1), Drawer (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (1, 2), Statue (1, 2), RemoteControl (1, 2), Laptop (1), DiningTable (1), Chair (2). 
+Act: go to ArmChair (1)
+You arrive at ArmChair (1). You see Pillow (1), Ottoman (1), KeyChain (2, 3), ArmChair (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Television (1), TVStand (1), Shelf (1, 4, 5, 7). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Shelf (2, 8), CreditCard (1). 
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Television (1), TVStand (1), Shelf (1, 3, 4, 5). 
+Act: go to Shelf (4)
+You arrive at Shelf (4). You see Television (1), TVStand (1), Shelf (1, 3, 4, 5, 7). 
+Act: go to Shelf (5)
+You arrive at Shelf (5). You see Television (1), TVStand (1), Shelf (1, 3, 4, 5). 
+Act: go to Shelf (6)
+You arrive at Shelf (6). You see Television (1), TVStand (1), Shelf (1, 4, 5, 7). 
+Act: go to Shelf (7)
+You arrive at Shelf (7). You see Television (1), TVStand (1), Shelf (1, 4, 5, 7). 
+Act: go to Shelf (8)
+You arrive at Shelf (8). You see Shelf (8), CreditCard (1), Box (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Vase (3), SideTable (1), RemoteControl (3), FloorLamp (1), Drawer (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Vase (3), SideTable (1), RemoteControl (3), FloorLamp (1), Drawer (1).
+Act: close Drawer (1)
+You close Drawer (1). You see Vase (3), SideTable (1), RemoteControl (3), FloorLamp (1), Drawer (1).
+Think: I can’t find the pillow. I fail to accomplish the goal.
+OK.
+Act: failure

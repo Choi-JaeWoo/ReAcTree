@@ -1,0 +1,21 @@
+Your primary goal is to: Move a bowl and knife to a counter. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up bowl, place bowl on countertop, find and pick up knife, and place knife on bowl near countertop.
+Your task is to: place knife on bowl near countertop
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9). I am holding Knife (1) now.
+Think: I hold Knife (1). Now, I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You saw Bowl (1) near Cabinet (4).
+Think: I can find Bowl (1) near Cabinet (4).
+OK.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see Knife (1), HousePlant (1), Cabinet (4). Cabinet (4) is closed.  I am holding Knife (1) now.
+Act: open Cabinet (4)
+You open Cabinet (4). You see Vase (3), Knife (1), HousePlant (1), Cabinet (4), Bowl (1). I am holding Knife (1) now.
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Vase (3), Knife (1), HousePlant (1), Cabinet (4, 5), Bowl (1).  I am holding Knife (1) now.
+Act: put down Knife (1)
+You put down failed, drop it. You see Vase (3), HousePlant (1), Cabinet (4, 5), Bowl (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

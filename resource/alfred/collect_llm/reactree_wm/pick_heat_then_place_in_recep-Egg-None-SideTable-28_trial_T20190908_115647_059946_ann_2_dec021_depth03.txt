@@ -1,0 +1,13 @@
+Your primary goal is to: Heat an egg and place it on the table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up egg, heat and pick up egg, and place egg on table.
+Your task is to: place egg on table
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11). I am holding Egg (1) now.
+Think: I hold Egg (1). Now, I need to put it on the table. I can see DiningTable (1).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Pot (2), Plate (2, 3), Mug (2), Lettuce (1), Egg (1), DiningTable (1).  I am holding Egg (1) now.
+Act: put down Egg (1)
+You put Egg (1) on DiningTable (1). You see Pot (2), Plate (2, 3), Mug (2), Lettuce (1), Egg (1), DiningTable (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

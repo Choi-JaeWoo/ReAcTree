@@ -1,0 +1,7 @@
+Your task is to: Place a cleaned head of lettuce on a small side table.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1, 2, 3), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: Since I’m not holding head of lettuce, I need to accomplish 3 subgoals sequentially to solve the task. Find and pick up head of lettuce, clean and pick up head of lettuce, and place head of lettuce on small side table.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up head of lettuce, clean and pick up head of lettuce, place head of lettuce on small side table

@@ -1,0 +1,7 @@
+Your task is to: put a cut and slice piece of bread on kitchen counter
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2).
+Think: Since I’m not holding a slice of bread, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up knife, slice and pick up bread, heat and pick up bread, and place bread on counter.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up knife, slice and pick up bread, heat and pick up bread, and place bread on counter

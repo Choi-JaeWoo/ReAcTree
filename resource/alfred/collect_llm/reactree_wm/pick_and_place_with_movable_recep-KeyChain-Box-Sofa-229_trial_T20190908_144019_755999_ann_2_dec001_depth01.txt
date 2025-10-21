@@ -1,0 +1,7 @@
+Your task is to: Put keys inside a box and place on top of a sofa
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2, 3), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), CoffeeTable (1), ArmChair (1).
+Think: Since I’m not holding the keys, I need to accomplish 3 subgoals sequentially to solve the task. Find and pick up keys, place keys inside box, and place box on sofa.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up keys, place keys inside box, place box on sofa

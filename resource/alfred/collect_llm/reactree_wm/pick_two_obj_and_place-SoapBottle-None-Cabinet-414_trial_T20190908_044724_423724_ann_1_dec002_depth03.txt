@@ -1,0 +1,75 @@
+Your primary goal is to: Put two bottles of lotion in the cabinet under the sink.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up lotion, place lotion in cabinet, find and pick up lotion away from cabinet, and place lotion in cabinet.
+Your task is to: find and pick up lotion
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1), HandTowelHolder (1), GarbageCan (1), Drawer (1), CounterTop (1, 2), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9), BathtubBasin (1).
+Think: First, I need to recall location of the lotion.
+OK.
+Act: recall location of Laptop
+You have not seen Laptop before.
+Think: Now, I need to find the lotion. The lotion is more likely to appear on CounterTop (1-2), BathtubBasin (1), or in Cabinet (1-9), Drawer (1). I can check each place one by one, starting from CounterTop (1), until I find the lotion.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toilet (1), SprayBottle (1), SoapBottle (2), SoapBar (1), Sink (1), SinkBasin (1), PaperTowelRoll (1), Mirror (1), CounterTop (1, 2), Candle (1). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see SprayBottle (1), Sink (1), SinkBasin (1), PaperTowelRoll (1), Mirror (1), Faucet (1), DishSponge (1), CounterTop (2), Cabinet (4, 8, 9). 
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Towel (1), Faucet (2), Bathtub (1), BathtubBasin (1). 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Sink (1), SinkBasin (1), Mirror (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (2), Cabinet (1, 2, 4, 7, 9). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see Sink (1), SinkBasin (1), Mirror (1), Faucet (1), Drawer (1), DishSponge (1), Cabinet (1, 2, 4, 5, 7, 8, 9).
+Act: close Cabinet (1)
+You close Cabinet (1). You see Sink (1), SinkBasin (1), Mirror (1), HandTowel (1), Faucet (1), Drawer (1), DishSponge (1), CounterTop (2), Cabinet (1, 2, 4, 5, 7, 8, 9).
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Drawer (1), Cabinet (1, 2, 5). Cabinet (2) is closed. 
+Act: open Cabinet (2)
+You open Cabinet (2). You see ToiletPaper (3), Drawer (1), Cabinet (1, 2, 5).
+Act: close Cabinet (2)
+You close Cabinet (2). You see Drawer (1), Cabinet (1, 2, 5).
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see Cabinet (2, 3, 6). Cabinet (3) is closed. 
+Act: open Cabinet (3)
+You open Cabinet (3). You see Cabinet (2, 3, 6).
+Act: close Cabinet (3)
+You close Cabinet (3). You see Cabinet (2, 3, 6).
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see SprayBottle (1), SoapBottle (2), Sink (1), SinkBasin (1), PaperTowelRoll (1), DishSponge (1), CounterTop (2), Candle (1), Cabinet (4, 7, 8, 9). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+You open Cabinet (4). You see SoapBottle (2), Sink (1), PaperTowelRoll (1), CounterTop (2), Candle (1), Cabinet (4, 7, 8, 9).
+Act: close Cabinet (4)
+You close Cabinet (4). You see SoapBottle (2), Sink (1), PaperTowelRoll (1), CounterTop (2), Candle (1), Cabinet (4, 7, 8, 9).
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Drawer (1), Cabinet (1, 2, 5, 7, 9). Cabinet (5) is closed. 
+Act: open Cabinet (5)
+You open Cabinet (5). You see ToiletPaper (1), Drawer (1), Cabinet (1, 2, 5, 7, 9).
+Act: close Cabinet (5)
+You close Cabinet (5). You see Drawer (1), Cabinet (1, 2, 5, 7, 9).
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Mirror (1), Cabinet (3, 6). Cabinet (6) is closed. 
+Act: open Cabinet (6)
+You open Cabinet (6). You see Mirror (1), Cabinet (3, 6).
+Act: close Cabinet (6)
+You close Cabinet (6). You see Mirror (1), Cabinet (3, 6).
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Sink (1), SinkBasin (1), Drawer (1), DishSponge (1), CounterTop (2), Cabinet (1, 2, 4, 5, 7, 8, 9). Cabinet (7) is closed. 
+Act: open Cabinet (7)
+You open Cabinet (7). You see Sink (1), Drawer (1), CounterTop (2), Cabinet (1, 2, 4, 5, 7, 8, 9).
+Act: close Cabinet (7)
+You close Cabinet (7). You see Sink (1), Drawer (1), CounterTop (2), Cabinet (1, 2, 4, 5, 7, 8, 9).
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Toilet (1), SprayBottle (1), SoapBottle (2), Sink (1), SinkBasin (1), PaperTowelRoll (1), CounterTop (1, 2), Candle (1), Cabinet (4, 8, 9). Cabinet (8) is closed. 
+Act: open Cabinet (8)
+You open Cabinet (8). You see Toilet (1), SoapBottle (2), Sink (1), CounterTop (2), Candle (1), Cabinet (4, 8, 9).
+Act: close Cabinet (8)
+You close Cabinet (8). You see Toilet (1), SoapBottle (2), Sink (1), CounterTop (2), Candle (1), Cabinet (4, 8, 9).
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Sink (1), SinkBasin (1), Drawer (1), CounterTop (2), Cabinet (1, 2, 4, 5, 7, 9). Cabinet (9) is closed. 
+Act: open Cabinet (9)
+You open Cabinet (9). You see Sink (1), Drawer (1), CounterTop (2), Candle (3), Cabinet (1, 2, 4, 5, 7, 9).
+Think: I find Candle (3). Now, I need to pick it up.
+OK.
+Act: pick up Candle (3)
+You pick up Candle (3). You see Sink (1), Drawer (1), CounterTop (2), Candle (3), Cabinet (1, 2, 4, 5, 7, 9). I am holding Candle (3) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

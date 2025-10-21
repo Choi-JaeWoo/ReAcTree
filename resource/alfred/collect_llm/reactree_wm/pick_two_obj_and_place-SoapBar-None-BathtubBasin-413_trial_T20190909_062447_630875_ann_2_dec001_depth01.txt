@@ -1,0 +1,7 @@
+Your task is to: Move two pink sponges into the bath tub. 
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1, 2), HandTowelHolder (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), CounterTop (1), Cabinet (1, 2, 3, 4), Bathtub (1), BathtubBasin (1).
+Think: Since I’m not holding pink sponges, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up sponge, place sponge in bath tub, Find and pick up sponge away from bath tub, and place sponge in bath tub.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up sponge, place sponge in bath tub, Find and pick up sponge away from bath tub, place sponge in bath tub

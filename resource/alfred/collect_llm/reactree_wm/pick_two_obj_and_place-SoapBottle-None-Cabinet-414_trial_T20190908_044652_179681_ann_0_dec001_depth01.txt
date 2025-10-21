@@ -1,0 +1,7 @@
+Your task is to: Put the 2 soap container inside the cabinet.
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1), HandTowelHolder (1), GarbageCan (1), Drawer (1), CounterTop (1, 2), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9), BathtubBasin (1).
+Think: Since I’m not holding soap container, I need to accomplish 3 subgoals sequentially to solve the task. Find and pick up soap container, place soap container in cabinet, and find and pick up soap container away from cabinet.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up soap container, place soap container in cabinet, find and pick up soap container away from cabinet

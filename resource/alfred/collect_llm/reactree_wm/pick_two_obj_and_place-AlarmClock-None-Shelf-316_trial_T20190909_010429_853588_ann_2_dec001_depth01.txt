@@ -1,0 +1,7 @@
+Your task is to: put two clocks on shelf under desk top
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1), GarbageCan (1), Drawer (1, 2), Desk (1), Bed (1).
+Think: Since I’m not holding the clocks, I need to accomplish 3 subgoals sequentially to solve the task. Find and pick up clock, find and pick up clock, and place clocks on shelf.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up clock, find and pick up clock, place clocks on shelf

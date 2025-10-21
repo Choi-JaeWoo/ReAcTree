@@ -1,0 +1,13 @@
+Your primary goal is to: Put a cup with a pencil inside on the desk at the foot of the bed.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up cup, put pencil in cup, and place cup on desk.
+Your task is to: put pencil in cup
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1), LaundryHamper (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5), Desk (1), Bed (1). I am holding CellPhone (1) now.
+Think: I hold CellPhone (1). Now, I need to put it in the cup. I can see Cup (1).
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), GarbageCan (1), Drawer (2, 3), Desk (1), Chair (1), CellPhone (1), CD (3), Bowl (1), AlarmClock (2, 3).  I am holding CellPhone (1) now.
+Act: put down CellPhone (1)
+You put CellPhone (1) on Desk (1). You see Pen (1), GarbageCan (1), Drawer (2, 3), Desk (1), Chair (1), CellPhone (1), CD (3), Bowl (1), AlarmClock (2, 3).
+Think: Now I accomplish the goal.
+OK.
+Act: done

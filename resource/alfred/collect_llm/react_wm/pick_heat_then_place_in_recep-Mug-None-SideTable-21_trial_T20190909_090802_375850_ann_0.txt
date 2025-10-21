@@ -1,0 +1,25 @@
+Your task is to: Put a heated mug on top of a small black shelving unit.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1, 2, 3), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: To solve the task, I need to find and pick up the mug, then put it in the microwave. And I need to turn on and off the microwave. And I need to pick up the mug from the microwave, then put it on the small black shelving unit.
+OK.
+Think: First, I need to recall location of the mug.
+OK.
+Act: recall location of Mug
+You have not seen Mug before.
+Think: Now I need to find the mug. The mug is more likely to appear on CoffeeMachine (1), CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1). I can check each place one by one, starting from CoffeeMachine (1), until I find the mug.
+OK.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see Sink (1), SinkBasin (1), Potato (1), Fridge (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (2), Bowl (1). 
+Think: I find Mug (1). Now, I need to pick it up.
+OK.
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see Sink (1), SinkBasin (1), Potato (1), Fridge (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Bowl (1). I am holding Bowl (1) now.
+Think: I hold Bowl (1). Now, I need to put it in the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1), GarbageCan (1), DishSponge (1), DiningTable (3), Bowl (1). Microwave (1) is closed.  I am holding Bowl (1) now.
+Act: open Microwave (1)
+You open Microwave (1). You see Microwave (1), GarbageCan (1), DiningTable (3), Bowl (1). I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put down failed, drop it. You see Microwave (1), GarbageCan (1), DiningTable (3), Bowl (1).
+Act: failure

@@ -1,0 +1,7 @@
+Your task is to: Put a frying pan with an ice cream scoop in it in the frying pan.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4, 5, 6), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9).
+Think: Since I’m not holding anything, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up pan, place pan on countertop, find and pick up ice cream scoop, and place ice cream scoop on pan near countertop.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up pan, place pan on countertop, find and pick up ice cream scoop, place ice cream scoop on pan near countertop

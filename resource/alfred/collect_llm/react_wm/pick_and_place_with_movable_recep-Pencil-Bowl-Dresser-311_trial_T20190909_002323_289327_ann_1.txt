@@ -1,0 +1,59 @@
+Your task is to: put bowl and pencil on tv stand
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), LaundryHamper (1), GarbageCan (1), Dresser (1), Drawer (1, 2), DiningTable (1), CounterTop (1), Bed (1), ArmChair (1, 2).
+Think: To solve the task, I need to find and pick up the bowl, then put it on the tv stand. And I need to find and pick up the pencil, then put it on the tv stand.
+OK.
+Think: First, I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: Now I need to find the bowl. The bowl is more likely to appear on CounterTop (1), SideTable (1), or in Drawer (1-2), Dresser (1). I can check each place one by one, starting from CounterTop (1), until I find the bowl.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Pencil (1), Mirror (1), Laptop (1), GarbageCan (1), CreditCard (2), CounterTop (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Lamp (2), KeyChain (2), ArmChair (2). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Television (1), KeyChain (1), Dresser (1), Drawer (1, 2). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Television (1), KeyChain (1, 3), Dresser (1), Drawer (1).
+Act: close Drawer (1)
+You close Drawer (1). You see Television (1), KeyChain (1), Dresser (1), Drawer (1, 2).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Television (1), KeyChain (1), Dresser (1), Drawer (1, 2). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see Television (1), KeyChain (1), Dresser (1), Drawer (1, 2), ArmChair (2).
+Act: close Drawer (2)
+You close Drawer (2). You see Television (1), KeyChain (1), Dresser (1), Drawer (1, 2), ArmChair (2).
+Act: go to Dresser (1)
+You arrive at Dresser (1). You see Television (1), KeyChain (1), Dresser (1), Drawer (1, 2). 
+Think: I find Bowl (1). Now, I need to pick it up.
+OK.
+Act: pick up KeyChain (1)
+You pick up KeyChain (1). You see Television (1), KeyChain (1), Dresser (1), Drawer (1, 2). I am holding KeyChain (1) now.
+Think: I hold KeyChain (1). Now, I need to put it on the tv stand.
+OK.
+Act: go to Television (1)
+You see Television (1), KeyChain (1), Dresser (1).  I am holding KeyChain (1) now.
+Act: put down KeyChain (1)
+You put down failed, drop it. You see Television (1), KeyChain (1), Dresser (1).
+Think: Now I need to recall location of the pencil.
+OK.
+Act: recall location of Pencil
+You saw Pencil (1) near CounterTop (1).
+Think: I can find Pencil (1) near CounterTop (1).
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Pencil (1), Mirror (1), Laptop (1), GarbageCan (1), CreditCard (2), CounterTop (1). 
+Think: I find Pencil (1). Now, I need to pick it up.
+OK.
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see Pencil (1), Mirror (1), Laptop (1), GarbageCan (1), CreditCard (2), CounterTop (1). I am holding Pencil (1) now.
+Think: I hold Pencil (1). Now, I need to put it on the tv stand.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Pencil (1), Mirror (1), Laptop (1), GarbageCan (1), CreditCard (2), CounterTop (1).  I am holding Pencil (1) now.
+Act: put down Pencil (1)
+You put Pencil (1) on CounterTop (1). You see Pencil (1), Mirror (1), Laptop (1), GarbageCan (1), CreditCard (2), CounterTop (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

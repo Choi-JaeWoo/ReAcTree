@@ -1,0 +1,47 @@
+Your primary goal is to: Put a box with a phone in it on a couch.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up box, open and pick up phone, and place phone on couch.
+Your task is to: open and pick up phone
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1, 2), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), DiningTable (1), CoffeeTable (1). I am holding Box (1) now.
+Think: I hold Box (1). I need to open it using the knife.
+OK.
+Act: recall location of Knife
+You have not seen Knife before.
+Think: Now, I need to find the knife. The knife is more likely to appear on DiningTable (1), SideTable (1-2), or in Drawer (1-4). I can check each place one by one, starting from DiningTable (1), until I find the knife.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see SideTable (2, 2, 2, 2, 2, 2, 2, 2, 2, 2), RemoteControl (1, 1, 1, 1, 1, 1, 1, 1, 1, 1), Newspaper (2), Laptop (1), HousePlant (1, 1, 1, 1, 1, 1, 1, 1, 1, 1), DiningTable (1), CreditCard (1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2), Chair (1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 6, 7), Box (1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2).  I am holding Box (1) now.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Statue (1), SideTable (1), KeyChain (1), DeskLamp (1), CreditCard (3), Chair (4), Box (1).  I am holding Box (1) now.
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see SideTable (2), RemoteControl (1), HousePlant (1), CreditCard (1, 2), Chair (2), Box (1).  I am holding Box (1) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 4), CellPhone (1), Box (1). Drawer (1) is closed.  I am holding Box (1) now.
+Act: open Drawer (1)
+You open Drawer (1). You see WateringCan (1), Television (1), RemoteControl (3), Dresser (1), Drawer (1, 4), CellPhone (1), Box (1). I am holding Box (1) now.
+Act: close Drawer (1)
+You close Drawer (1). You see WateringCan (1), Television (1), RemoteControl (3), Dresser (1), Drawer (1, 3, 4), CellPhone (1), Box (1). I am holding Box (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Television (1), RemoteControl (3), Dresser (1), Drawer (1, 3, 4), CellPhone (1), Box (1). Drawer (2) is closed.  I am holding Box (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see WateringCan (1), Television (1), RemoteControl (3), Dresser (1), Drawer (1, 2, 3, 4), CellPhone (1), Box (1). I am holding Box (1) now.
+Act: close Drawer (2)
+You close Drawer (2). You see WateringCan (1), Television (1), RemoteControl (3), Dresser (1), Drawer (1, 3, 4), CellPhone (1), Box (1). I am holding Box (1) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Television (1), Dresser (1), Drawer (1, 4), Box (1). Drawer (3) is closed.  I am holding Box (1) now.
+Act: open Drawer (3)
+You open Drawer (3). You see Television (1), Dresser (1), Drawer (1, 2, 3, 4), Box (1). I am holding Box (1) now.
+Act: close Drawer (3)
+You close Drawer (3). You see Television (1), Dresser (1), Drawer (1, 2, 4), Box (1). I am holding Box (1) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Television (1), Dresser (1), Drawer (1, 4), Box (1). Drawer (4) is closed.  I am holding Box (1) now.
+Act: open Drawer (4)
+You open Drawer (4). You see Television (1), Dresser (1), Drawer (1, 4), Box (1). I am holding Box (1) now.
+Act: close Drawer (4)
+You close Drawer (4). You see Television (1), Dresser (1), Drawer (1, 4), Box (1). I am holding Box (1) now.
+Think: I find Knife (1). Now, I need to pick it up.
+OK.
+Act: pick up Box (1)
+You are currently holding Box (1). I am holding Box (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,169 @@
+Your primary goal is to: Grab a knife also an orange round glass, put the knife inside place the orange round glass on the kitchen counter. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, place knife in orange round glass, find and pick up orange round glass, and and place orange round glass on countertop.
+Your task is to: place knife in orange round glass
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20). I am holding Knife (3) now.
+Think: I hold Knife (3). Now, I need to recall location of the orange round glass.
+OK.
+Act: recall location of Glassbottle
+You have not seen Glassbottle before.
+Think: Now, I need to find the orange round glass. The orange round glass is more likely to appear on CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-20), Drawer (1-3). I can check each place one by one, starting from CounterTop (1), until I find the orange round glass.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Knife (3), CounterTop (1), CoffeeMachine (1), Bowl (2).  I am holding Knife (3) now.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Toaster (1), StoveBurner (1, 4), Pot (1), Knife (3), Fridge (1), Fork (2), Drawer (3), CounterTop (2), Cabinet (7), ButterKnife (2).  I am holding Knife (3) now.
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Spoon (1), Microwave (1), Knife (3), Fork (1), Drawer (2), CreditCard (2), CounterTop (3), Cabinet (2), Bread (1).  I am holding Knife (3) now.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Spatula (3), Sink (1), SinkBasin (1), Plate (1), Mug (1), Knife (3), Faucet (1), DishSponge (1), Cup (1), CounterTop (3), Cabinet (11, 18, 19).  I am holding Knife (3) now.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Knife (3), GarbageCan (1), Fridge (1), Drawer (3), CounterTop (2), Cabinet (7). Fridge (1) is closed.  I am holding Knife (3) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Tomato (3), Toaster (1), Lettuce (1), Knife (3), Fridge (1), Drawer (3), CounterTop (2), Cabinet (7), Bread (2). I am holding Knife (3) now.
+Act: close Fridge (1)
+You close Fridge (1). You see Knife (3), GarbageCan (1), Fridge (1), Drawer (3), CounterTop (2), Cabinet (7). I am holding Knife (3) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Spoon (1), Pot (2), Microwave (1), Knife (3), Fork (1), Drawer (2), CreditCard (2), CounterTop (3), Cabinet (2, 20), Bread (1). Microwave (1) is closed.  I am holding Knife (3) now.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Knife (3), Cabinet (1, 17). Cabinet (1) is closed.  I am holding Knife (3) now.
+Act: open Cabinet (1)
+You open Cabinet (1). You see Knife (3), Cabinet (1, 17). I am holding Knife (3) now.
+Act: close Cabinet (1)
+You close Cabinet (1). You see Knife (3), Cabinet (1, 17). I am holding Knife (3) now.
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Pot (2), Microwave (1), Knife (3), Drawer (2), CounterTop (3), Cabinet (2, 20). Cabinet (2) is closed.  I am holding Knife (3) now.
+Act: open Cabinet (2)
+You open Cabinet (2). You see Knife (3), Drawer (2), CounterTop (3), Cabinet (2, 20). I am holding Knife (3) now.
+Act: close Cabinet (2)
+You close Cabinet (2). You see Knife (3), Drawer (2), CounterTop (3), Cabinet (2, 20). I am holding Knife (3) now.
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see Knife (3), Cabinet (3, 14, 16). Cabinet (3) is closed.  I am holding Knife (3) now.
+Act: open Cabinet (3)
+You open Cabinet (3). You see Knife (3), Cabinet (3, 14, 16). I am holding Knife (3) now.
+Act: close Cabinet (3)
+You close Cabinet (3). You see Knife (3), Cabinet (3, 14, 16). I am holding Knife (3) now.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see Knife (3), Cabinet (4, 10, 15). Cabinet (4) is closed.  I am holding Knife (3) now.
+Act: open Cabinet (4)
+You open Cabinet (4). You see Knife (3), Cabinet (4, 10, 15). I am holding Knife (3) now.
+Act: close Cabinet (4)
+You close Cabinet (4). You see Knife (3), Cabinet (4, 10, 15). I am holding Knife (3) now.
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Knife (3), Cabinet (5, 9, 16, 17). Cabinet (5) is closed.  I am holding Knife (3) now.
+Act: open Cabinet (5)
+You open Cabinet (5). You see Knife (3), Cabinet (5, 16, 17). I am holding Knife (3) now.
+Act: close Cabinet (5)
+You close Cabinet (5). You see Knife (3), Cabinet (5, 9, 16, 17). I am holding Knife (3) now.
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Knife (3, 3), Fridge (1), Cabinet (5, 6, 9, 14, 16, 17). Cabinet (6) is closed.  I am holding Knife (3) now.
+Act: open Cabinet (6)
+You open Cabinet (6). You see Knife (3), Fridge (1), Cabinet (6, 14). I am holding Knife (3) now.
+Act: close Cabinet (6)
+You close Cabinet (6). You see Knife (3), Fridge (1), Cabinet (6, 14). I am holding Knife (3) now.
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Toaster (1), StoveBurner (1, 4), Pot (1), Knife (3), Fridge (1), Fork (2), Drawer (3), CounterTop (2), Cabinet (7), ButterKnife (2). Cabinet (7) is closed.  I am holding Knife (3) now.
+Act: open Cabinet (7)
+You open Cabinet (7). You see Knife (3), Fridge (1), Drawer (3), CounterTop (2), Cabinet (7). I am holding Knife (3) now.
+Act: close Cabinet (7)
+You close Cabinet (7). You see Knife (3), Fridge (1), Drawer (3), CounterTop (2), Cabinet (7). I am holding Knife (3) now.
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Knife (3), Cabinet (1, 8, 10). Cabinet (8) is closed.  I am holding Knife (3) now.
+Act: open Cabinet (8)
+You open Cabinet (8). You see Knife (3), Cabinet (1, 8, 10), Bowl (1). I am holding Knife (3) now.
+Act: close Cabinet (8)
+You close Cabinet (8). You see Knife (3), Cabinet (1, 8, 10). I am holding Knife (3) now.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Knife (3), Cabinet (3, 5, 9, 16). Cabinet (9) is closed.  I am holding Knife (3) now.
+Act: open Cabinet (9)
+You open Cabinet (9). You see Knife (3), Cabinet (3, 5, 9, 16). I am holding Knife (3) now.
+Act: close Cabinet (9)
+You close Cabinet (9). You see Knife (3), Cabinet (3, 5, 9, 16). I am holding Knife (3) now.
+Act: go to Cabinet (10)
+You arrive at Cabinet (10). You see Knife (3), Cabinet (8, 10). Cabinet (10) is closed.  I am holding Knife (3) now.
+Act: open Cabinet (10)
+You open Cabinet (10). You see Knife (3), Cabinet (8, 10). I am holding Knife (3) now.
+Act: close Cabinet (10)
+You close Cabinet (10). You see Knife (3), Cabinet (8, 10). I am holding Knife (3) now.
+Act: go to Cabinet (11)
+You arrive at Cabinet (11). You see Spatula (3), Sink (1), SinkBasin (1), Plate (1), Mug (1), Knife (3), Kettle (1), Faucet (1), CounterTop (3), Cabinet (11, 18, 19), ButterKnife (1). Cabinet (11) is closed.  I am holding Knife (3) now.
+Act: open Cabinet (11)
+You open Cabinet (11). You see StoveKnob (4), Spatula (3), Sink (1), Knife (3), Kettle (1), DishSponge (1), CounterTop (3), Cabinet (7, 11, 18, 19), ButterKnife (1). I am holding Knife (3) now.
+Act: close Cabinet (11)
+You close Cabinet (11). You see StoveKnob (4), Spatula (3), Sink (1), Knife (3), Kettle (1), DishSponge (1), CounterTop (3), Cabinet (7, 11, 18, 19), ButterKnife (1). I am holding Knife (3) now.
+Act: go to Cabinet (12)
+You arrive at Cabinet (12). You see Knife (3), Fridge (1), Cabinet (12). Cabinet (12) is closed.  I am holding Knife (3) now.
+Act: open Cabinet (12)
+You open Cabinet (12). You see Knife (3), Fridge (1), Cabinet (12). I am holding Knife (3) now.
+Act: close Cabinet (12)
+You close Cabinet (12). You see Knife (3), Fridge (1), Cabinet (12). I am holding Knife (3) now.
+Act: go to Cabinet (13)
+You arrive at Cabinet (13). You see Knife (3), Cabinet (13). Cabinet (13) is closed.  I am holding Knife (3) now.
+Act: open Cabinet (13)
+You open Cabinet (13). You see Knife (3), Cabinet (13). I am holding Knife (3) now.
+Act: close Cabinet (13)
+You close Cabinet (13). You see Knife (3), Cabinet (13). I am holding Knife (3) now.
+Act: go to Cabinet (14)
+You arrive at Cabinet (14). You see Knife (3), Fridge (1), Cabinet (6, 14). Cabinet (14) is closed.  I am holding Knife (3) now.
+Act: open Cabinet (14)
+You open Cabinet (14). You see Knife (3), Fridge (1), Cabinet (6, 12, 14). I am holding Knife (3) now.
+Act: close Cabinet (14)
+You close Cabinet (14). You see Knife (3), Fridge (1), Cabinet (6, 12, 14). I am holding Knife (3) now.
+Act: go to Cabinet (15)
+You arrive at Cabinet (15). You see Knife (3), Cabinet (4, 15). Cabinet (15) is closed.  I am holding Knife (3) now.
+Act: open Cabinet (15)
+You open Cabinet (15). You see SaltShaker (2), Knife (3), Cabinet (4, 15). I am holding Knife (3) now.
+Act: close Cabinet (15)
+You close Cabinet (15). You see Knife (3), Cabinet (4, 15). I am holding Knife (3) now.
+Act: go to Cabinet (16)
+You arrive at Cabinet (16). You see Knife (3), Cabinet (3, 5, 9, 16). Cabinet (16) is closed.  I am holding Knife (3) now.
+Act: open Cabinet (16)
+You open Cabinet (16). You see SaltShaker (1), Knife (3), Cabinet (3, 5, 9, 16). I am holding Knife (3) now.
+Act: close Cabinet (16)
+You close Cabinet (16). You see Knife (3), Cabinet (3, 5, 9, 16). I am holding Knife (3) now.
+Act: go to Cabinet (17)
+You arrive at Cabinet (17). You see Knife (3), Cabinet (1, 5, 17). Cabinet (17) is closed.  I am holding Knife (3) now.
+Act: open Cabinet (17)
+You open Cabinet (17). You see Knife (3), Cabinet (1, 5, 17). I am holding Knife (3) now.
+Act: close Cabinet (17)
+You close Cabinet (17). You see Knife (3), Cabinet (1, 5, 17). I am holding Knife (3) now.
+Act: go to Cabinet (18)
+You arrive at Cabinet (18). You see Sink (1), SinkBasin (1), Potato (2), Plate (1), PepperShaker (2), Mug (1), Knife (3), DishSponge (1), Cup (1), CounterTop (3), Cabinet (11, 18), Bread (1). Cabinet (18) is closed.  I am holding Knife (3) now.
+Act: open Cabinet (18)
+You open Cabinet (18). You see Sink (1), Knife (3), CounterTop (3), Cabinet (11, 18, 19). I am holding Knife (3) now.
+Act: close Cabinet (18)
+You close Cabinet (18). You see Sink (1), Knife (3), CounterTop (3), Cabinet (11, 18, 19). I am holding Knife (3) now.
+Act: go to Cabinet (19)
+You arrive at Cabinet (19). You see Spatula (3), Sink (1), SinkBasin (1), Plate (1), Pan (1), Knife (3), Kettle (1), Faucet (1), CounterTop (3), Cabinet (11, 18, 19), ButterKnife (1). Cabinet (19) is closed.  I am holding Knife (3) now.
+Act: open Cabinet (19)
+You open Cabinet (19). You see StoveKnob (4), Spatula (3), Sink (1), SinkBasin (1), Plate (1), Pan (1), Knife (3), Kettle (1), CounterTop (3), Cabinet (7, 11, 18, 19), ButterKnife (1). I am holding Knife (3) now.
+Act: close Cabinet (19)
+You close Cabinet (19). You see StoveKnob (4), Spatula (3), Sink (1), SinkBasin (1), Plate (1), Pan (1), Knife (3), Kettle (1), CounterTop (3), Cabinet (7, 11, 18, 19), ButterKnife (1). I am holding Knife (3) now.
+Act: go to Cabinet (20)
+You arrive at Cabinet (20). You see Spatula (2), SoapBottle (2), Pot (2), Knife (3), CounterTop (3), Cabinet (2, 20). Cabinet (20) is closed.  I am holding Knife (3) now.
+Act: open Cabinet (20)
+You open Cabinet (20). You see Spatula (2), SoapBottle (2), Pot (2), Knife (3), CounterTop (3), Cabinet (2, 20). I am holding Knife (3) now.
+Act: close Cabinet (20)
+You close Cabinet (20). You see Spatula (2), SoapBottle (2), Pot (2), Knife (3), CounterTop (3), Cabinet (2, 20). I am holding Knife (3) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see StoveKnob (4), Spatula (3), Sink (1), SinkBasin (1), Plate (1), Pan (2), Knife (3), Kettle (1), Faucet (1), CounterTop (3), Cabinet (11, 19), ButterKnife (1). Drawer (1) is closed.  I am holding Knife (3) now.
+Act: open Drawer (1)
+You open Drawer (1). You see StoveKnob (4), Spatula (3), Sink (1), SinkBasin (1), Plate (1), Pan (1, 2), Knife (3), Kettle (1), Faucet (1), CounterTop (3), Cabinet (11, 19), ButterKnife (1). I am holding Knife (3) now.
+Act: close Drawer (1)
+The Drawer (1) is not close to you. I am holding Knife (3) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Spoon (1), Pot (2), Microwave (1), Knife (3), Fork (1), Drawer (2), CreditCard (2), CounterTop (3), Cabinet (2, 20), Bread (1). Drawer (2) is closed.  I am holding Knife (3) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Spoon (1), Pot (2), Microwave (1), Knife (3), Fork (1), Drawer (2), CreditCard (2), CounterTop (3), Cabinet (20), Bread (1). I am holding Knife (3) now.
+Act: close Drawer (2)
+You close Drawer (2). You see Spoon (1), Pot (2), Microwave (1), Knife (3), Fork (1), Drawer (2), CreditCard (2), CounterTop (3), Cabinet (2, 20), Bread (1). I am holding Knife (3) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Toaster (1), StoveKnob (1), StoveBurner (1, 4), Pot (1), Knife (3), Fridge (1), Fork (2), Drawer (3), CounterTop (2), Cabinet (7), ButterKnife (2). Drawer (3) is closed.  I am holding Knife (3) now.
+Act: open Drawer (3)
+You open Drawer (3). You see Toaster (1), StoveKnob (1), StoveBurner (1, 4), Pot (1), Knife (1, 3), Fridge (1), Fork (2), Drawer (3), CounterTop (2), ButterKnife (2). I am holding Knife (3) now.
+Think: I find Glassbottle (1). Now, I need to put down Knife (3) on Glassbottle (1).
+OK.
+Act: put down Knife (3)
+You put Knife (3) on Drawer (3). You see Toaster (1), StoveKnob (1), StoveBurner (1, 4), Pot (1), Knife (1, 3), Fridge (1), Fork (2), Drawer (3), CounterTop (2), ButterKnife (2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

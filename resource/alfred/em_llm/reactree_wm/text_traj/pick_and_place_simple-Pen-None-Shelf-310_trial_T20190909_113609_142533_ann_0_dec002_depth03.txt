@@ -1,0 +1,19 @@
+Your primary goal is to: Put a pen in the cubby hole above the desk.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pen, and place pen in cubby hole.
+Your task is to: find and pick up pen
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1), GarbageCan (1), Drawer (1, 2), Desk (1), Cabinet (1, 2, 3, 4), Bed (1).
+Think: First, I need to recall location of the pen.
+OK.
+Act: recall location of Pen
+You have not seen Pen before.
+Think: Now, I need to find the pen. The pen is more likely to appear on Desk (1), SideTable (1), or in Drawer (1-2), Cabinet (1-4). I can check each place one by one, starting from Desk (1), until I find the pen.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pencil (1), Pen (1), Desk (1), CreditCard (2), Chair (1), CD (1), Book (2), AlarmClock (1). 
+Think: I find Pen (1). Now, I need to pick it up.
+OK.
+Act: pick up Pen (1)
+You pick up Pen (1). You see Pencil (1), Pen (1), Desk (1), CreditCard (2), Chair (1), CD (1), Book (2), AlarmClock (1). I am holding Pen (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

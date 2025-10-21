@@ -1,0 +1,13 @@
+Your primary goal is to: Move two salt shakers to a black shelving unit.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up salt shaker, place salt shaker on black shelving unit, find and pick up salt shaker away from black shelving unit, and place salt shaker on black shelving unit.
+Your task is to: place salt shaker on black shelving unit
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11). I am holding SaltShaker (3) now.
+Think: I hold SaltShaker (3). Now, I need to put it on the black shelving unit. I think black shelving unit means SideTable (1). I can see SideTable (1).
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Tomato (3), Spoon (3), SideTable (1), SaltShaker (1, 3), Potato (1), Lettuce (1), Fork (3), DiningTable (2).  I am holding SaltShaker (3) now.
+Act: put down SaltShaker (3)
+You put SaltShaker (3) on SideTable (1). You see Tomato (3), Spoon (3), SideTable (1), SaltShaker (1, 3), Potato (1), Lettuce (1), Fork (3), DiningTable (2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

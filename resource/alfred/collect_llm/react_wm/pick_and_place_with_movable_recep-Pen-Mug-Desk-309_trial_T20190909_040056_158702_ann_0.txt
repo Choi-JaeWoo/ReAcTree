@@ -1,0 +1,65 @@
+Your task is to: put mug and pen on top of bureau
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Safe (1), LaundryHamper (1), GarbageCan (1), Drawer (1, 2, 3, 4), Desk (1), Cabinet (1, 2), Bed (1), ArmChair (1, 2, 3).
+Think: To solve the task, I need to find and pick up the mug, then put it on the bureau. And I need to find and pick up the pen, then put it on the bureau.
+OK.
+Think: First, I need to recall location of the mug.
+OK.
+Act: recall location of Mug
+You have not seen Mug before.
+Think: Now I need to find the mug. The mug is more likely to appear on Desk (1), SideTable (1), or in Cabinet (1-2), Drawer (1-4). I can check each place one by one, starting from Desk (1), until I find the mug.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Laptop (1), Drawer (4), Desk (1), CreditCard (1), Chair (1), AlarmClock (2). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), RemoteControl (1), Pencil (2), Pen (3), Mug (1), DeskLamp (1), Bed (1). 
+Think: I find Mug (1). Now, I need to pick it up.
+OK.
+Act: pick up Mug (1)
+You pick up Mug (1). You see SideTable (1), RemoteControl (1), Pencil (2), Pen (3), Mug (1), DeskLamp (1), Bed (1). I am holding Mug (1) now.
+Think: I hold Mug (1). Now, I need to put it on the bureau.
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Mug (1), Cabinet (1). Cabinet (1) is closed.  I am holding Mug (1) now.
+Act: open Cabinet (1)
+You open Cabinet (1). You see Mug (1), Cabinet (1). I am holding Mug (1) now.
+Act: put down Mug (1)
+You put down failed, drop it. You see Mug (1), Cabinet (1).
+Think: I put Mug (1) on the bureau. Now, I need to recall location of the pen.
+OK.
+Act: recall location of Pen
+You saw Pen (1) near Desk (1). You saw Pen (3) near SideTable (1).
+Think: Pen (1) is in the Desk (1). Pen (3) is in the SideTable (1). Now, I need to pick up the pen.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Laptop (1), Drawer (4), Desk (1), CreditCard (1), Chair (1), AlarmClock (2). 
+Act: pick up Pen (1)
+You pick up Pen (1). You see Pen (1), Laptop (1), Drawer (4), Desk (1), CreditCard (1), Chair (1), AlarmClock (2). I am holding Pen (1) now.
+Think: I hold Pen (1). Now, I need to put it on the bureau.
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Pen (1), Cabinet (1). Cabinet (1) is open.  I am holding Pen (1) now.
+Act: put down Pen (1)
+You put down failed, drop it. You see Pen (1), Cabinet (1).
+Think: I put Pen (1) on the bureau. Now, I need to recall location of the pen.
+OK.
+Act: recall location of Pen
+You dropped Pen due to fail to put it on the receptacle. You need to find it again. You saw Pen (3) near SideTable (1).
+Think: Pen (3) is in the SideTable (1). Now, I need to pick up the pen.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), RemoteControl (1), Pencil (2), Pen (3), DeskLamp (1), Bed (1). 
+Act: pick up Pen (3)
+You pick up Pen (3). You see SideTable (1), RemoteControl (1), Pencil (2), Pen (3), DeskLamp (1), Bed (1). I am holding Pen (3) now.
+Think: I hold Pen (3). Now, I need to put it on the bureau.
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Pen (3), Cabinet (1). Cabinet (1) is open.  I am holding Pen (3) now.
+Act: put down Pen (3)
+You put down failed, drop it. You see Pen (3), Cabinet (1).
+Think: I put Pen (3) on the bureau. Now, I need to recall location of the pen.
+OK.
+Act: recall location of Pen
+You dropped Pen due to fail to put it on the receptacle. You need to find it again. You dropped Pen due to fail to put it on the receptacle. You need to find it again.
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,7 @@
+Your task is to: Put the bowl with cd on the side table
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1, 2), Shelf (1, 2), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16), Bed (1), ArmChair (1).
+Think: Since I’m not holding anything, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up bowl, place bowl on side table, find and pick up cd, and place cd on bowl near side table.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up bowl, place bowl on side table, find and pick up cd, place cd on bowl near side table

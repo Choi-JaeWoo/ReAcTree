@@ -1,0 +1,13 @@
+Your primary goal is to: place two CD's in the dresser pullout drawer
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up CD, place CD in dresser pullout drawer, find and pick up CD away from dresser pullout drawer, and place CD in dresser pullout drawer.
+Your task is to: place CD in dresser pullout drawer
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1, 2, 3, 4, 5, 6, 7, 8, 9), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10), Bed (1). I am holding CD (1) now.
+Think: I hold CD (1). Now, I need to put it in the dresser pullout drawer. I can see Drawer (1).
+OK.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see KeyChain (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10), CreditCard (2), CD (1, 2), AlarmClock (2). Drawer (1) is open.  I am holding CD (1) now.
+Act: put down CD (1)
+You put CD (1) on Drawer (1). You see KeyChain (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9, 10), CreditCard (2), CD (1, 2), AlarmClock (2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

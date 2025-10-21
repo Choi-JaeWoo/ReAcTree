@@ -1,0 +1,130 @@
+Your task is to: Put phone in cup, move both to desk.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Shelf (1), GarbageCan (1), Drawer (1, 2), Desk (1), Bed (1).
+Think: To solve the task, I need to find and pick up the phone, then put it in the cup. And I need to pick up the cup, then put it on the desk.
+OK.
+Think: First, I need to recall location of the phone.
+OK.
+Act: recall location of CellPhone
+You have not seen CellPhone before.
+Think: Now I need to find the phone. The phone is more likely to appear on SideTable (1), Shelf (1), Drawer (1-2), or in Desk (1). I can check each place one by one, starting from SideTable (1), until I find the phone.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pen (2), Drawer (1, 2), CreditCard (1), CD (2), Bowl (1), Bed (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pencil (1), GarbageCan (1), Desk (1), Chair (1), Book (1), AlarmClock (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (1), Pen (2), Drawer (1, 2), CreditCard (1), CD (2), Bowl (1), Bed (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see SideTable (1), Pen (2), Drawer (1), CreditCard (1), CD (1, 2), Bowl (1), Bed (1).
+Think: I find CellPhone (1). Now, I need to pick it up.
+OK.
+Act: pick up CD (1)
+You pick up CD (1). You see SideTable (1), Pen (2), Drawer (1), CreditCard (1), CD (1, 2), Bowl (1), Bed (1). I am holding CD (1) now.
+Act: close Drawer (1)
+You close Drawer (1). You see SideTable (1), Pen (2), Drawer (1, 2), CreditCard (1), CD (1, 2), Bowl (1), Bed (1). I am holding CD (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (1), Pen (2), Drawer (1, 2), CreditCard (1), CD (1, 2), Bowl (1), Bed (1). Drawer (2) is closed.  I am holding CD (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see SideTable (1), Pen (2), Drawer (1, 2), CreditCard (1), CD (1, 2), Bowl (1), Bed (1). I am holding CD (1) now.
+Act: put down CD (1)
+You put CD (1) on Drawer (2). You see SideTable (1), Pen (2), Drawer (1, 2), CreditCard (1), CD (1, 2), Bowl (1), Bed (1).
+Act: close Drawer (2)
+You close Drawer (2). You see SideTable (1), Pen (2), Drawer (1, 2), CreditCard (1), CD (2), Bowl (1), Bed (1).
+Think: I put CD (1) in Drawer (2). Now, I need to recall location of the cup.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the cup. The cup is more likely to appear on SideTable (1), Shelf (1), Drawer (1-2), or in Desk (1). I can check each place one by one, starting from SideTable (1), until I find the cup.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pen (2), Drawer (1, 2), CreditCard (1), CD (2), Bowl (1), Bed (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pencil (1), GarbageCan (1), Desk (1), Chair (1), Book (1), AlarmClock (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (1), Pen (2), Drawer (1, 2), CreditCard (1), CD (2), Bowl (1), Bed (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see SideTable (1), Pen (2), Drawer (1), CreditCard (1), CD (2), Bowl (1), Bed (1).
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: pick up CD (2)
+You pick up CD (2). You see SideTable (1), Pen (2), Drawer (1), CreditCard (1), CD (2), Bowl (1), Bed (1). I am holding CD (2) now.
+Act: close Drawer (1)
+You close Drawer (1). You see SideTable (1), Pen (2), Drawer (1, 2), CreditCard (1), CD (2), Bowl (1), Bed (1). I am holding CD (2) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (1), Pen (2), Drawer (1, 2), CreditCard (1), CD (2), Bowl (1), Bed (1). Drawer (2) is closed.  I am holding CD (2) now.
+Act: open Drawer (2)
+You open Drawer (2). You see SideTable (1), Pen (2), Drawer (1, 2), CreditCard (1), CD (1, 2), Bowl (1), Bed (1). I am holding CD (2) now.
+Act: put down CD (2)
+You put CD (2) on Drawer (2). You see SideTable (1), Pen (2), Drawer (1, 2), CreditCard (1), CD (1, 2), Bowl (1), Bed (1).
+Act: close Drawer (2)
+You close Drawer (2). You see SideTable (1), Pen (2), Drawer (1, 2), CreditCard (1), Bowl (1), Bed (1).
+Think: I put CD (2) in Drawer (2). Now, I need to recall location of the phone.
+OK.
+Act: recall location of CellPhone
+You have not seen CellPhone before.
+Think: Now I need to find the phone. The phone is more likely to appear on SideTable (1), Shelf (1), Drawer (1-2), or in Desk (1). I can check each place one by one, starting from SideTable (1), until I find the phone.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pen (2), Drawer (1, 2), CreditCard (1), Bowl (1), Bed (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pencil (1), GarbageCan (1), Desk (1), Chair (1), Book (1), AlarmClock (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (1), Pen (2), Drawer (1, 2), CreditCard (1), Bowl (1), Bed (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see SideTable (1), Pen (2), Drawer (1), CreditCard (1), Bowl (1), Bed (1).
+Think: I find CellPhone (1). Now, I need to pick it up.
+OK.
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see SideTable (1), Pen (2), Drawer (1), CreditCard (1), Bowl (1), Bed (1). I am holding Bowl (1) now.
+Act: close Drawer (1)
+You close Drawer (1). You see SideTable (1), Pen (2), Drawer (1, 2), CreditCard (1), Bowl (1), Bed (1). I am holding Bowl (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (1), Pen (2), Drawer (1), CreditCard (1), Bowl (1), Bed (1). Drawer (2) is closed.  I am holding Bowl (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see SideTable (1), Pen (2), Drawer (1, 2), CreditCard (1), CD (1, 2), Bowl (1), Bed (1). I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put down failed, drop it. You see SideTable (1), Pen (2), Drawer (1, 2), CreditCard (1), Bowl (1), Bed (1).
+Act: close Drawer (2)
+You close Drawer (2). You see SideTable (1), Pen (2), Drawer (1, 2), CreditCard (1), Bowl (1), Bed (1).
+Think: I put Bowl (1) in Drawer (2). Now, I need to recall location of the cup.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the cup. The cup is more likely to appear on SideTable (1), Shelf (1), Drawer (1-2), or in Desk (1). I can check each place one by one, starting from SideTable (1), until I find the cup.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pen (2), Drawer (1, 2), CreditCard (1), Bowl (1), Bed (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pencil (1), GarbageCan (1), Desk (1), Chair (1), Book (1), AlarmClock (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (1), Pen (2), Drawer (1, 2), CreditCard (1), Bowl (1), Bed (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see SideTable (1), Pen (2), Drawer (1), CreditCard (1), Bowl (1), Bed (1).
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: pick up Bowl (1)
+You pick up Bowl (1). You see SideTable (1), Pen (2), Drawer (1), CreditCard (1), Bowl (1), Bed (1). I am holding Bowl (1) now.
+Act: close Drawer (1)
+You close Drawer (1). You see SideTable (1), Pen (2), Drawer (1, 2), CreditCard (1), Bowl (1), Bed (1). I am holding Bowl (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (1), Pen (2), Drawer (1), CreditCard (1), Bowl (1), Bed (1). Drawer (2) is closed.  I am holding Bowl (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see SideTable (1), Pen (2), Drawer (1, 2), CreditCard (1), CD (1, 2), Bowl (1), Bed (1). I am holding Bowl (1) now.
+Act: put down Bowl (1)
+You put down failed, drop it. You see SideTable (1), Pen (2), Drawer (1, 2), CreditCard (1), CD (1, 2), Bowl (1), Bed (1).
+Act: close Drawer (2)
+You close Drawer (2). You see SideTable (1), Pen (2), Drawer (1, 2), CreditCard (1), Bowl (1), Bed (1).
+Think: I put Bowl (1) in Drawer (2). Now, I need to recall location of the phone.
+OK.
+Act: recall location of CellPhone
+You have not seen CellPhone before.
+Think: Now I need to find the phone. The phone is more likely to appear on SideTable (1), Shelf (1), Drawer (1-2), or in Desk (1). I can check each place one by one, starting from SideTable (1), until I find the phone.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pen (2), Drawer (1, 2), CreditCard (1), Bowl (1), Bed (1). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Shelf (1), Pencil (1), GarbageCan (1), Desk (1), Chair (1), Book (1), AlarmClock (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (1), Pen (2), Drawer (1, 2), CreditCard (1), Bowl (1), Bed (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see SideTable (1), Pen (2), Drawer (1), CreditCard (1), Bowl (1), Bed (1).

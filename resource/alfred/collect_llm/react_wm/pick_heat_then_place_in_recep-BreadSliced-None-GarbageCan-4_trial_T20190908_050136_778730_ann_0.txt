@@ -1,0 +1,103 @@
+Your task is to: Toast a slice of bread in the microwave and place in bin.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2).
+Think: To solve the task, I need to find and pick up the bread, then put it in the microwave. And I need to turn on and off the microwave. And I need to pick up the bread from the microwave, then put it in the bin.
+OK.
+Think: First, I need to recall location of the bread.
+OK.
+Act: recall location of Bread
+You have not seen Bread before.
+Think: Now I need to find the bread. The bread is more likely to appear on DiningTable (1), CounterTop (1-3), or in Fridge (1), Microwave (1), Cabinet (1-2), Drawer (1-6). I can check each place one by one, starting from DiningTable (1), until I find the bread.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see SaltShaker (1), Plate (3), Fork (1), DiningTable (1), Bread (1), Bowl (1). 
+Think: I find Bread (1). Now, I need to pick it up.
+OK.
+Act: pick up Bread (1)
+You pick up Bread (1). You see SaltShaker (1), Plate (3), Fork (1), DiningTable (1), Bread (1), Bowl (1). I am holding Bread (1) now.
+Think: I hold Bread (1). Now, I need to put it in the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1), Bread (1). Microwave (1) is closed.  I am holding Bread (1) now.
+Act: open Microwave (1)
+The Microwave (1) is open failed. I am holding Bread (1) now.
+Act: close Microwave (1)
+The Microwave (1) is already closed. I am holding Bread (1) now.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see GarbageCan (1), Fridge (1), Bread (1). Fridge (1) is closed.  I am holding Bread (1) now.
+Act: open Fridge (1)
+You open Fridge (1). You see GarbageCan (1), Fridge (1), Bread (1). I am holding Bread (1) now.
+Act: close Fridge (1)
+You close Fridge (1). You see GarbageCan (1), Fridge (1), Bread (1). I am holding Bread (1) now.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Bread (1). Drawer (1) is closed.  I am holding Bread (1) now.
+Act: open Drawer (1)
+The Drawer (1) is not close to you. I am holding Bread (1) now.
+Act: close Drawer (1)
+The Drawer (1) is already closed. I am holding Bread (1) now.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Drawer (1, 3, 4, 5, 6), CounterTop (1), Bread (1). Drawer (2) is closed.  I am holding Bread (1) now.
+Act: open Drawer (2)
+You open Drawer (2). You see Drawer (1, 2, 3, 4, 5, 6), CounterTop (1), Bread (1). I am holding Bread (1) now.
+Act: close Drawer (2)
+You close Drawer (2). You see Drawer (1, 2, 3, 4, 5, 6), CounterTop (1), Bread (1). I am holding Bread (1) now.
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Spatula (1), Ladle (1), Drawer (1, 2, 3, 5, 6), DishSponge (2), Cup (2), CounterTop (1), Cabinet (1), Bread (1). Drawer (3) is closed.  I am holding Bread (1) now.
+Act: open Drawer (3)
+You open Drawer (3). You see Spatula (1), Sink (1), Pot (2), Drawer (1, 2, 3, 5, 6), DishSponge (2), Cup (2), CounterTop (1), Cabinet (1), Bread (1). I am holding Bread (1) now.
+Act: close Drawer (3)
+You close Drawer (3). You see Spatula (1), Sink (1), Pot (2), Drawer (1, 2, 3, 4, 5, 6), DishSponge (2), Cup (2), CounterTop (1), Cabinet (1), Bread (1). I am holding Bread (1) now.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Spatula (1), Ladle (1), Drawer (1, 2, 3, 5, 6), DishSponge (2), Cup (2), CounterTop (1), Cabinet (1), Bread (1). Drawer (4) is closed.  I am holding Bread (1) now.
+Act: open Drawer (4)
+You open Drawer (4). You see Spatula (1), Sink (1), Pot (2), Drawer (1, 2, 3, 4, 5, 6), CounterTop (1), Cabinet (1), Bread (1). I am holding Bread (1) now.
+Act: close Drawer (4)
+You close Drawer (4). You see Spatula (1), Sink (1), Pot (2), Drawer (1, 2, 3, 4, 5, 6), CounterTop (1), Cabinet (1), Bread (1). I am holding Bread (1) now.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see StoveKnob (1), StoveBurner (1, 2, 3, 4), Spatula (1), Sink (1), Pot (2), Drawer (1, 1, 2, 3, 4, 5, 5, 6, 6), CounterTop (1, 1), Cabinet (1), Bread (1, 1). Drawer (5) is closed.  I am holding Bread (1) now.
+Act: open Drawer (5)
+You open Drawer (5). You see StoveKnob (1), StoveBurner (3), Ladle (1), HousePlant (1), Drawer (1, 3, 4, 5, 6), Cup (2), CounterTop (1), Cabinet (1), Bread (1). I am holding Bread (1) now.
+Act: close Drawer (5)
+You close Drawer (5). You see StoveKnob (1), StoveBurner (3), Ladle (1), HousePlant (1), Drawer (1, 2, 3, 4, 5, 6), Cup (2), CounterTop (1), Cabinet (1), Bread (1). I am holding Bread (1) now.
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see StoveBurner (1), Drawer (1, 3, 4, 5, 6), CounterTop (1), Bread (1). Drawer (6) is closed.  I am holding Bread (1) now.
+Act: open Drawer (6)
+You open Drawer (6). You see Drawer (1, 3, 4, 5, 6), CounterTop (1), Bread (1). I am holding Bread (1) now.
+Act: close Drawer (6)
+You close Drawer (6). You see Drawer (1, 3, 4, 5, 6), CounterTop (1), Bread (1). I am holding Bread (1) now.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Spoon (1, 2), Spatula (1), Sink (1), SinkBasin (1), Pot (1, 2), Ladle (1), Drawer (1, 2, 3, 4, 6), DishSponge (2), Cup (2), CounterTop (1), Cabinet (1, 2), Bread (1). Cabinet (1) is closed.  I am holding Bread (1) now.
+Act: open Cabinet (1)
+You open Cabinet (1). You see PepperShaker (1, 2, 3), Drawer (2, 3, 4, 6), Cabinet (1, 2), Bread (1). I am holding Bread (1) now.
+Act: close Cabinet (1)
+You close Cabinet (1). You see Drawer (2, 3, 4, 6), Cabinet (1, 2), Bread (1). I am holding Bread (1) now.
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Spoon (1), Sink (1), SinkBasin (1), Pot (1), Knife (2), CounterTop (3), Cabinet (1, 2), Bread (1). Cabinet (2) is closed.  I am holding Bread (1) now.
+Act: open Cabinet (2)
+The Cabinet (2) is open failed. I am holding Bread (1) now.
+Act: close Cabinet (2)
+The Cabinet (2) is already closed. I am holding Bread (1) now.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Bread (1).  I am holding Bread (1) now.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Window (1), Tomato (1), StoveKnob (4), StoveBurner (2, 4), Pot (3), CounterTop (2), Bread (1).  I am holding Bread (1) now.
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Microwave (1), Knife (1, 2), CounterTop (3), Bread (1).  I am holding Bread (1) now.
+Think: I put Bread (1) in Microwave (1). Now, I need to turn on and off Microwave (1).
+OK.
+Act: turn on Microwave (1)
+You turn on Microwave (1). You see Microwave (1), Knife (1, 2), CounterTop (3), Bread (1). I am holding Bread (1) now.
+Act: turn off Microwave (1)
+You turn off Microwave (1). You see Microwave (1), Knife (1, 2), CounterTop (3), Bread (1). I am holding Bread (1) now.
+Think: Now, I need to pick up the bread from the microwave.
+OK.
+Act: pick up Bread (1)
+You are currently holding Bread (1). I am holding Bread (1) now.
+Think: I pick up Bread (1) from Microwave (1). Now, I need to put it in the bin.
+OK.
+Act: go to GarbageCan (1)
+You arrive at GarbageCan (1). You see GarbageCan (1), Fridge (1), Bread (1).  I am holding Bread (1) now.
+Act: put down Bread (1)
+You put down failed, drop it. You see GarbageCan (1), Fridge (1), Bread (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

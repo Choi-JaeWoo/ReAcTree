@@ -1,0 +1,23 @@
+Your primary goal is to: place a hot plate on top of the shelves in the corner of the kitchen
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up plate, heat and pick up plate, and place plate on shelf.
+Your task is to: find and pick up plate
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13).
+Think: First, I need to recall location of the plate.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now, I need to find the plate. The plate is more likely to appear on DiningTable (1), CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1-4). I can check each place one by one, starting from DiningTable (1), until I find the plate.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see WineBottle (1), Spatula (2, 3), SoapBottle (2, 3), SaltShaker (1), Potato (1), PepperShaker (3), Pan (2), Knife (2), HousePlant (1), DiningTable (1), Cup (1), Bread (1), Bowl (1, 2). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Vase (3), SoapBottle (1), Potato (2), Pan (3), Drawer (3), CounterTop (1), Cabinet (2), Apple (2). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Toaster (1), StoveKnob (3, 4), StoveBurner (2, 3), Pot (1), Plate (4), Kettle (1), Drawer (2), CounterTop (2), Cabinet (11). 
+Think: I find Plate (4). Now, I need to pick it up.
+OK.
+Act: pick up Plate (4)
+You pick up Plate (4). You see Toaster (1), StoveKnob (3, 4), StoveBurner (2, 3), Pot (1), Plate (4), Kettle (1), CounterTop (2). I am holding Plate (4) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

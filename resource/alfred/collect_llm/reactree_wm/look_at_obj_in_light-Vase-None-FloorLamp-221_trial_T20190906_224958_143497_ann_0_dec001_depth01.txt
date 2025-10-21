@@ -1,0 +1,7 @@
+Your task is to: Examine a glass bowl using the light from a floor lamp.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1), GarbageCan (1), Drawer (1), DiningTable (1), CoffeeTable (1, 2), ArmChair (1).
+Think: Since I’m not holding glass bowl, I need to accomplish 2 subgoals sequentially to solve the task. Find and pick up glass bowl and find and turn on floor lamp.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up glass bowl, find and turn on floor lamp

@@ -1,0 +1,21 @@
+Your primary goal is to: Put a wine glass with a fork inside of it on a table. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up wine glass, place wine glass on table, find and pick up fork, and place fork in wine glass near table.
+Your task is to: place fork in wine glass near table
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10). I am holding Fork (1) now.
+Think: I hold Fork (1). Now, I need to recall location of the wine glass.
+OK.
+Act: recall location of WineBottle
+You have not seen WineBottle before.
+Think: Now, I need to find the wine glass. The wine glass is more likely to appear on DiningTable (1, 2), CounterTop (1, 2), SinkBasin (1), or in Fridge (1), Cabinet (1-10), Drawer (1-3). I can check each place one by one, starting from DiningTable (1), until I find the wine glass.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Toaster (1), Spoon (1), Spatula (3), SoapBottle (2), SaltShaker (3), PepperShaker (3), Lettuce (1, 2), Fork (1), Egg (1, 3), DiningTable (1), Bread (2), Apple (1).  I am holding Fork (1) now.
+Think: I find WineBottle (1). Now, I need to put it on the shelf. I can see Shelf (1)
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Toaster (1), Spoon (1), Spatula (3), SoapBottle (2), SaltShaker (3), PepperShaker (3), Lettuce (1, 2), Fork (1), Egg (1, 3), DiningTable (1), Bread (2), Apple (1).  I am holding Fork (1) now.
+Act: put down Fork (1)
+You put Fork (1) on DiningTable (1). You see Toaster (1), Spoon (1), Spatula (3), SoapBottle (2), SaltShaker (3), PepperShaker (3), Lettuce (1, 2), Fork (1), Egg (1, 3), DiningTable (1), Bread (2), Apple (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

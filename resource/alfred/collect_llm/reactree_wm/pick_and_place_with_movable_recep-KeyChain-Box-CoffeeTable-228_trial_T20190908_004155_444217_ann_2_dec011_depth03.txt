@@ -1,0 +1,31 @@
+Your primary goal is to: Put a cardboard box with keys in it on the coffee table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up box, put keys in box, and place box on coffee table.
+Your task is to: put keys in box
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1, 2), SideTable (1, 2), GarbageCan (1), Drawer (1), DiningTable (1), CoffeeTable (1). I am holding Box (1) now.
+Think: I hold Box (1). Now, I need to put keys in it. I can see Sofa (1, 2), SideTable (1, 2), GarbageCan (1), Drawer (1), DiningTable (1), CoffeeTable (1).
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Laptop (1), KeyChain (1), Box (1).  I am holding Box (1) now.
+Act: put down Box (1)
+You put Box (1) on Sofa (1). You see Sofa (1), Laptop (1), KeyChain (1), Box (1).
+Act: go to Sofa (2)
+You arrive at Sofa (2). You see Sofa (2), Pillow (1). 
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1, 2), RemoteControl (1), Drawer (1). 
+Act: go to SideTable (2)
+You arrive at SideTable (2). You see Television (1), SideTable (2), Newspaper (1). 
+Act: go to GarbageCan (1)
+You arrive at GarbageCan (1). You see GarbageCan (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see SideTable (1, 2), RemoteControl (1), Drawer (1). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Watch (2), SideTable (1, 2), RemoteControl (1, 3), Drawer (1).
+Act: close Drawer (1)
+You close Drawer (1). You see SideTable (1, 2), RemoteControl (1), Drawer (1).
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (2), Statue (2), Plate (1, 2), DiningTable (1), Chair (2, 4). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Vase (1), Statue (1), RemoteControl (2), CoffeeTable (1). 
+Think: I can’t find keys. I fail to accomplish the goal.
+OK.
+Act: failure

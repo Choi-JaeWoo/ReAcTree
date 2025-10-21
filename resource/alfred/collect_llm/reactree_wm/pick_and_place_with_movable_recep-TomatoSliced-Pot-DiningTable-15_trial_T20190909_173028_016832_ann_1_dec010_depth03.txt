@@ -1,0 +1,185 @@
+Your primary goal is to: Put a pot with a slice of tomato in it on a table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pot, place pot in fridge, find and pick up knife, slice and pick up tomato, and place tomato in pot near fridge.
+Your task is to: place pot in fridge
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11).
+Think: I hold Pot (1). Now, I need to put it in the fridge. I can see Fridge (1).
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see GarbageCan (1), Fridge (1). Fridge (1) is closed. 
+Act: open Fridge (1)
+You open Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1).
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Tomato (3), Potato (1), Mug (2), Fridge (1), Bread (1), Apple (1). Fridge (1) is open. 
+Max decisions

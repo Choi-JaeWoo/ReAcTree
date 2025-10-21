@@ -1,0 +1,39 @@
+Your task is to: Putting a cold egg in the sink
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13).
+Think: To solve the task, I need to find and pick up the egg, then put it in fridge. I need to pick up the egg from the fridge, then put it in the sink basin.
+OK.
+Think: First, I need to recall location of the egg.
+OK.
+Act: recall location of Egg
+You have not seen Egg before.
+Think: Now I need to find the egg. The egg is more likely to appear on CounterTop (1), SinkBasin (1) or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1-5). I can check each place one by one, starting from CounterTop (1), until I find the egg.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), Spatula (1), Sink (1), SinkBasin (1), Potato (3), PepperShaker (1), Lettuce (1), Knife (2), Fork (2), Faucet (1), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), Bread (1). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (1), Spatula (1), Sink (1), SinkBasin (1), SaltShaker (3), Potato (3), PepperShaker (1), Lettuce (1), Knife (2), Fork (2), Faucet (1), Drawer (2), CounterTop (1), Cabinet (2, 3, 7). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see SoapBottle (2), Fridge (1), Drawer (1), Cabinet (4). Fridge (1) is closed. 
+Act: open Fridge (1)
+You open Fridge (1). You see Tomato (1), Potato (1), Fridge (1), Cup (1).
+Think: I find Egg (1). Now, I need to pick it up.
+OK.
+Act: pick up Potato (1)
+You pick up Potato (1). You see Tomato (1), Potato (1), Fridge (1), Cup (1). I am holding Potato (1) now.
+Think: I hold Potato (1). Now, I need to put it in the fridge.
+OK.
+Act: put down Potato (1)
+You put down failed, drop it. You see Tomato (1), Potato (1), Fridge (1), Cup (1).
+Think: Now I need to pick up the egg from the fridge.
+OK.
+Act: pick up Potato (1)
+You pick up Potato (1). You see Tomato (1), Potato (1), Fridge (1), Cup (1). I am holding Potato (1) now.
+Think: I pick up Potato (1) from Fridge (1). Now, I need to put it in the sink basin.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (1), Spatula (1), Sink (1), SinkBasin (1), SaltShaker (3), Potato (1, 3), PepperShaker (1), Lettuce (1), Knife (2), Fork (2), Faucet (1), Drawer (2), CounterTop (1), Cabinet (2, 3, 7).  I am holding Potato (1) now.
+Act: put down Potato (1)
+You put Potato (1) on SinkBasin (1). You see Window (1), Spatula (1), Sink (1), SinkBasin (1), SaltShaker (3), Potato (1, 3), PepperShaker (1), Lettuce (1), Knife (2), Fork (2), Faucet (1), Drawer (2), CounterTop (1), Cabinet (2, 3, 7).
+Think: Now I accomplish the goal.
+OK.
+Act: done

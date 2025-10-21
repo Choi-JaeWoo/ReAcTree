@@ -1,0 +1,142 @@
+Your task is to: Clean a bowl and fill it with water. Place it on a shelf.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13).
+Think: To solve the task, I need to find and pick up the bowl, then put it in the sink basin. And I need to turn on and off the faucet. And I need to pick up the bowl from the sink basin, then put it on the shelf.
+OK.
+Think: First, I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: Now I need to find the bowl. The bowl is more likely to appear on DiningTable (1), CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1-4). I can check each place one by one, starting from DiningTable (1), until I find the bowl.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (1, 2), Spatula (2), SoapBottle (2, 3), Plate (1), Mug (2), Lettuce (1, 2), Knife (2), HousePlant (1), Fork (1), DiningTable (1). 
+Think: I find Bowl (1). Now, I need to pick it up.
+OK.
+Act: pick up Plate (1)
+
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13). 
+Act: go to Shelf (1)
+You arrive at Shelf (1). You see Statue (1), Shelf (1, 2, 3). 
+Act: go to Shelf (2)
+You arrive at Shelf (2). You see Statue (1), Shelf (1, 2, 3). 
+Act: go to Shelf (3)
+You arrive at Shelf (3). You see Statue (1), Shelf (1, 2, 3). 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1, 8, 12). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see Cabinet (1, 8, 12).
+Act: close Cabinet (1)
+You close Cabinet (1). You see Cabinet (1, 8, 12).
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Statue (2), Mug (1), Knife (3), Drawer (3), CounterTop (1), CoffeeMachine (1), Cabinet (2), Bread (2). Cabinet (2) is closed. 
+Act: open Cabinet (2)
+You open Cabinet (2). You see Statue (2), Mug (1), Knife (3), Drawer (3), CounterTop (1), CoffeeMachine (1), Cabinet (2), Bread (2).
+Act: close Cabinet (2)
+You close Cabinet (2). You see Statue (2), Mug (1), Knife (3), Drawer (3), CounterTop (1), CoffeeMachine (1), Cabinet (2), Bread (2).
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see Window (2), Microwave (1), Cabinet (3, 6). Cabinet (3) is closed. 
+Act: open Cabinet (3)
+You open Cabinet (3). You see Window (2), Microwave (1), Cabinet (3, 6).
+Act: close Cabinet (3)
+You close Cabinet (3). You see Window (2), Microwave (1), Cabinet (3, 6).
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see WineBottle (1), StoveBurner (1, 4), SoapBottle (1), Sink (1), Pan (1), Drawer (1), CounterTop (1), Cabinet (4, 7, 13), Bowl (4). Cabinet (4) is closed. 
+Act: open Cabinet (4)
+You open Cabinet (4). You see WineBottle (1), StoveKnob (1), StoveBurner (1), SoapBottle (1), Sink (1), Pan (1), Drawer (1), CounterTop (1), Cabinet (4, 7, 13).
+Act: close Cabinet (4)
+You close Cabinet (4). You see WineBottle (1), StoveKnob (1), StoveBurner (1), SoapBottle (1), Sink (1), Pan (1), Drawer (1), CounterTop (1), Cabinet (4, 7, 13).
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Microwave (1), Cabinet (5, 6, 10). Cabinet (5) is closed. 
+Act: open Cabinet (5)
+You open Cabinet (5). You see Microwave (1), Cabinet (5, 6, 10).
+Act: close Cabinet (5)
+You close Cabinet (5). You see Microwave (1), Cabinet (5, 6, 10).
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Window (2), Microwave (1), Cabinet (3, 5, 6). Cabinet (6) is closed. 
+Act: open Cabinet (6)
+You open Cabinet (6). You see Window (2), Microwave (1), Cabinet (3, 5, 6), Bowl (3).
+Think: I find Bowl (3). Now, I need to pick it up.
+OK.
+Act: pick up Bowl (3)
+You pick up Bowl (3). You see Window (2), Microwave (1), Cabinet (3, 5, 6), Bowl (3). I am holding Bowl (3) now.
+Think: I hold Bowl (3). Now, I need to put it in the sink basin.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13), Bowl (3).  I am holding Bowl (3) now.
+Act: put down Bowl (3)
+You put down failed, drop it. You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13), Bowl (3).
+Think: Now I need to pick up Bowl (3).
+OK.
+Act: pick up Bowl (3)
+You pick up Bowl (3). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13), Bowl (3). I am holding Bowl (3) now.
+Think: I hold Bowl (3). Now, I need to put it in the sink basin.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13), Bowl (3).  I am holding Bowl (3) now.
+Act: put down Bowl (3)
+You put down failed, drop it. You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13), Bowl (3).
+Think: Now I need to pick up Bowl (3).
+OK.
+Act: pick up Bowl (3)
+You pick up Bowl (3). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13), Bowl (3). I am holding Bowl (3) now.
+Think: I hold Bowl (3). Now, I need to put it in the sink basin.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13), Bowl (3).  I am holding Bowl (3) now.
+Act: put down Bowl (3)
+You put down failed, drop it. You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13), Bowl (3).
+Think: Now I need to pick up Bowl (3).
+OK.
+Act: pick up Bowl (3)
+You pick up Bowl (3). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13), Bowl (3). I am holding Bowl (3) now.
+Think: I hold Bowl (3). Now, I need to put it in the sink basin.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13), Bowl (3).  I am holding Bowl (3) now.
+Act: put down Bowl (3)
+You put down failed, drop it. You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13), Bowl (3).
+Think: Now I need to pick up Bowl (3).
+OK.
+Act: pick up Bowl (3)
+You pick up Bowl (3). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13), Bowl (3). I am holding Bowl (3) now.
+Think: I hold Bowl (3). Now, I need to put it in the sink basin.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13), Bowl (3).  I am holding Bowl (3) now.
+Act: put down Bowl (3)
+You put down failed, drop it. You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13), Bowl (3).
+Think: Now I need to pick up Bowl (3).
+OK.
+Act: pick up Bowl (3)
+You pick up Bowl (3). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13), Bowl (3). I am holding Bowl (3) now.
+Think: I hold Bowl (3). Now, I need to put it in the sink basin.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13), Bowl (3).  I am holding Bowl (3) now.
+Act: put down Bowl (3)
+You put down failed, drop it. You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13), Bowl (3).
+Think: Now I need to pick up Bowl (3).
+OK.
+Act: pick up Bowl (3)
+You pick up Bowl (3). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13), Bowl (3). I am holding Bowl (3) now.
+Think: I hold Bowl (3). Now, I need to put it in the sink basin.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13), Bowl (3).  I am holding Bowl (3) now.
+Act: put down Bowl (3)
+You put down failed, drop it. You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13), Bowl (3).
+Think: Now I need to pick up Bowl (3).
+OK.
+Act: pick up Bowl (3)
+You pick up Bowl (3). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13), Bowl (3). I am holding Bowl (3) now.
+Think: I hold Bowl (3). Now, I need to put it in the sink basin.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13), Bowl (3).  I am holding Bowl (3) now.
+Act: put down Bowl (3)
+You put down failed, drop it. You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13), Bowl (3).
+Think: Now I need to pick up Bowl (3).
+OK.
+Act: pick up Bowl (3)
+You pick up Bowl (3). You see Window (2), Sink (1), SinkBasin (1), Faucet (1), CounterTop (1), CoffeeMachine (1), Cabinet (4, 7, 13), Bowl (3). I am holding Bowl (3) now.

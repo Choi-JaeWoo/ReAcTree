@@ -1,0 +1,7 @@
+Your task is to: To put finger nail polish on a plate and place it on the bottom shelf under the television.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), GarbageCan (1), DiningTable (1, 2), CoffeeTable (1), ArmChair (1, 2, 3).
+Think: Since I’m not holding the nail polish, I need to accomplish 3 subgoals sequentially to solve the task. Find and pick up nail polish, place nail polish on plate, and place plate on bottom shelf.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up nail polish, place nail polish on plate, place plate on bottom shelf

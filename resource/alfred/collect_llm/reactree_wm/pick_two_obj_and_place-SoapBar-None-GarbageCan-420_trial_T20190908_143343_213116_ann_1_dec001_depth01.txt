@@ -1,0 +1,7 @@
+Your task is to: Put 2 pink soaps in the green trash can next to the toilet. 
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1, 2), Toilet (1), ToiletPaperHanger (1), Sink (1), SinkBasin (1, 2), SideTable (1), HandTowelHolder (1), GarbageCan (1), Drawer (1), Bathtub (1).
+Think: Since I’m not holding pink soap, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up pink soap, place pink soap in trash can, find and pick up pink soap away from trash can, and place pink soap in trash can.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up pink soap, place pink soap in trash can, find and pick up pink soap away from trash can, place pink soap in trash can

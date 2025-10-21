@@ -1,0 +1,7 @@
+Your task is to: Place two computers, from the bed, onto the counter.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), Safe (1), LaundryHamper (1), GarbageCan (1), Drawer (1, 2, 3, 4), Desk (1), Cabinet (1, 2), Bed (1), ArmChair (1, 2, 3).
+Think: Since I’m not holding the computer, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up computer, place computer on counter, Find and pick up computer away from counter, and place computer on counter.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up computer, place computer on counter, Find and pick up computer away from counter, place computer on counter

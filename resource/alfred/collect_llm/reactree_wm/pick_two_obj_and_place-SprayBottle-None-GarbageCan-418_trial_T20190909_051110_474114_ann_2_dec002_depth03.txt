@@ -1,0 +1,19 @@
+Your primary goal is to: place two spray bottles inside of the garbage bin in the corner of the room
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up spray bottle, place spray bottle in garbage bin, Find and pick up spray bottle away from garbage bin, and place spray bottle in garbage bin.
+Your task is to: find and pick up spray bottle
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1), HandTowelHolder (1, 2), GarbageCan (1), CounterTop (1), Cabinet (1, 2, 3).
+Think: First, I need to recall location of the spray bottle.
+OK.
+Act: recall location of SprayBottle
+You have not seen SprayBottle before.
+Think: Now, I need to find the spray bottle. The spray bottle is more likely to appear on CounterTop (1), SinkBasin (1), or in Cabinet (1-3). I can check each place one by one, starting from CounterTop (1), until I find the spray bottle.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see SprayBottle (1), SoapBottle (3), Sink (1), SinkBasin (1), Mirror (1), HandTowel (1, 2), Faucet (1), CounterTop (1), Cabinet (1, 2). 
+Think: I find SprayBottle (1). Now, I need to pick it up.
+OK.
+Act: pick up SprayBottle (1)
+You pick up SprayBottle (1). You see SprayBottle (1), SoapBottle (3), Sink (1), SinkBasin (1), Mirror (1), HandTowel (1, 2), Faucet (1), CounterTop (1), Cabinet (1, 2). I am holding SprayBottle (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

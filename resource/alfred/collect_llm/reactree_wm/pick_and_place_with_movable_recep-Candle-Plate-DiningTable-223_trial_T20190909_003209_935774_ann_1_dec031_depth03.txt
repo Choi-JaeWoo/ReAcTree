@@ -1,0 +1,23 @@
+Your primary goal is to: Move the candle onto a plate and place it on the shelf.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up candle, find and pick up plate, place candle on plate, and place plate on shelf.
+Your task is to: place plate on shelf
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), GarbageCan (1), DiningTable (1, 2), CoffeeTable (1), ArmChair (1, 2, 3).
+Think: I hold Plate (1). Now, I need to put it on the shelf. I can see TVStand (1).
+OK.
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2), CreditCard (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), DiningTable (2), CreditCard (1). 
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (2), Statue (2), Plate (1), DiningTable (1), Chair (1, 2), Candle (3), Box (2). 
+Act: go to Plate (1)
+You arrive at Plate (1). You see Vase (2), Plate (1), DiningTable (1), Chair (1, 2), Candle (3), Box (2). 
+Act: pick up Plate (1)
+You pick up Plate (1). You see Vase (2), Plate (1), DiningTable (1), Chair (1, 2), Candle (3), Box (2). I am holding Plate (1) now.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (2), Statue (2), Plate (1), DiningTable (1), Chair (1, 2), Candle (3), Box (2).  I am holding Plate (1) now.
+Act: put down Plate (1)
+You put Plate (1) on DiningTable (1). You see Vase (2), Statue (2), Plate (1), DiningTable (1), Chair (1, 2), Candle (3), Box (2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

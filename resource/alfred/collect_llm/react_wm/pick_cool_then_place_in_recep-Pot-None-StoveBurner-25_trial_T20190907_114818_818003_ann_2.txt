@@ -1,0 +1,49 @@
+Your task is to: Cool down a bowl from the stove.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13).
+Think: To solve the task, I need to find and pick up the bowl, then put it in the fridge. And I need to pick up the bowl from the fridge, then put it on the counter.
+OK.
+Think: First, I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: Now I need to find the bowl. The bowl is more likely to appear on StoveBurner (1-4), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1-5). I can check each place one by one, starting from StoveBurner (1), until I find the bowl.
+OK.
+Act: go to StoveBurner (1)
+You arrive at StoveBurner (1). You see StoveKnob (1, 2, 3, 4), StoveBurner (2, 3, 4), Pot (1), Pan (1), Fork (2), Drawer (3), CounterTop (1), Chair (1), Cabinet (12). 
+Act: go to StoveBurner (2)
+You arrive at StoveBurner (2). You see StoveKnob (1, 2, 3, 4), StoveBurner (2, 3, 4), Pot (1), Pan (1), Drawer (3), CounterTop (1), Chair (1), Cabinet (10, 12). 
+Act: go to StoveBurner (3)
+You arrive at StoveBurner (3). You see StoveKnob (1, 2, 3, 4), StoveBurner (2, 3, 4), Pot (1), Pan (1), Drawer (3), CounterTop (1), Chair (1). 
+Act: go to StoveBurner (4)
+You arrive at StoveBurner (4). You see StoveKnob (1, 2, 3, 4), StoveBurner (2, 3, 4), Pot (1), Pan (1), GarbageCan (1), Drawer (3, 5), CounterTop (1), Chair (1), Cabinet (10, 12). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (1), SoapBottle (1), Sink (1), SinkBasin (1), Lettuce (1), Ladle (1), Fork (3), Faucet (1), Egg (1), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), Apple (1). 
+Think: I find Bowl (1). Now, I need to pick it up.
+OK.
+Act: pick up Egg (1)
+You pick up Egg (1). You see Window (1), SoapBottle (1), Sink (1), SinkBasin (1), Lettuce (1), Ladle (1), Fork (3), Faucet (1), Egg (1), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), Apple (1). I am holding Egg (1) now.
+Think: I hold Egg (1). Now, I need to put it in the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Egg (1), Drawer (1), Cabinet (4), Bowl (3). Fridge (1) is closed.  I am holding Egg (1) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Fridge (1), Egg (1). I am holding Egg (1) now.
+Act: put down Egg (1)
+You put Egg (1) on Fridge (1). You see Fridge (1), Egg (1).
+Act: close Fridge (1)
+You close Fridge (1). You see Fridge (1), Drawer (1), Cabinet (4), Bowl (3).
+Think: I put Egg (1) in Fridge (1). Now, I need to pick up the bowl from the fridge.
+OK.
+Act: open Fridge (1)
+You open Fridge (1). You see Fridge (1), Egg (1).
+Act: pick up Egg (1)
+You pick up Egg (1). You see Fridge (1), Egg (1). I am holding Egg (1) now.
+Think: I pick up Egg (1) from Fridge (1). Now, I need to put it on the counter.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (1), SoapBottle (1), Sink (1), SinkBasin (1), Lettuce (1), Fork (3), Faucet (1), Egg (1), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), Bread (1), Apple (1).  I am holding Egg (1) now.
+Act: put down Egg (1)
+You put Egg (1) on CounterTop (1). You see Window (1), SoapBottle (1), Sink (1), SinkBasin (1), Lettuce (1), Fork (3), Faucet (1), Egg (1), Drawer (2), CounterTop (1), Cabinet (2, 3, 7), Bread (1), Apple (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

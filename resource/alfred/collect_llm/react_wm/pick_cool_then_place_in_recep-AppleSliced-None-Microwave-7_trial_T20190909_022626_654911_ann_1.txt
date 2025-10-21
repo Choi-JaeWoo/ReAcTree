@@ -1,0 +1,120 @@
+Your task is to: Put a cold apple slice in the microwave.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13).
+Think: To solve the task, I need to find and pick up the apple slice. And I need to put it in the microwave. And I need to turn on and off the microwave.
+OK.
+Think: First, I need to recall location of the apple slice.
+OK.
+Act: recall location of Apple
+You have not seen Apple before.
+Think: Now I need to find the apple slice. The apple slice is more likely to appear on DiningTable (1), CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-13), Drawer (1-4). I can check each place one by one, starting from DiningTable (1), until I find the apple slice.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spoon (2), SoapBottle (2), Potato (1, 2), HousePlant (1), Fork (2, 3), DiningTable (1), Cup (2), Book (1), Apple (1, 2, 4). 
+Think: I find Apple (1, 2, 4). Now, I need to pick it up.
+OK.
+Act: pick up Apple (1)
+You pick up Apple (1). You see Spoon (2), SoapBottle (2), Potato (1, 2), HousePlant (1), Fork (2, 3), DiningTable (1), Cup (2), ButterKnife (1), Book (1), Apple (1, 2, 4). I am holding Apple (1) now.
+Think: I hold Apple (1). Now, I need to put it in the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see WineBottle (1), Toaster (1), SoapBottle (3), Pot (2), Microwave (1), Kettle (1), Cabinet (3, 10), Apple (1). Microwave (1) is closed.  I am holding Apple (1) now.
+Act: open Microwave (1)
+You open Microwave (1). You see WineBottle (1), Toaster (1), SoapBottle (3), Pot (2), Microwave (1), Kettle (1), Cup (1), Cabinet (3, 10), Apple (1). I am holding Apple (1) now.
+Act: put down Apple (1)
+You put down failed, drop it. You see WineBottle (1), Toaster (1), SoapBottle (3), Pot (2), Microwave (1), Kettle (1), Cup (1), Cabinet (3, 10).
+Think: Now I need to pick up Apple (2).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spoon (2), SoapBottle (2), Potato (1, 2), HousePlant (1), Fork (2, 3), DiningTable (1), Cup (2), ButterKnife (1), Book (1), Apple (2, 4). 
+Act: pick up Apple (2)
+You pick up Apple (2). You see Spoon (2), SoapBottle (2), Potato (1, 2), HousePlant (1), Fork (2, 3), DiningTable (1), Cup (2), ButterKnife (1), Book (1), Apple (2, 4). I am holding Apple (2) now.
+Think: I hold Apple (2). Now, I need to put it in the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see WineBottle (1), Toaster (1), Spoon (2), SoapBottle (2), Potato (1, 2), Pot (2), Microwave (1), Kettle (1), HousePlant (1), Fork (2, 3), DiningTable (1), Cup (1, 2), Cabinet (3, 10), ButterKnife (1), Book (1), Apple (2, 2, 4). Microwave (1) is open.  I am holding Apple (2) now.
+Act: put down Apple (2)
+You put down failed, drop it. You see WineBottle (1), Toaster (1), Pot (2), Microwave (1), Kettle (1), Cup (1), Cabinet (3, 10), Apple (2).
+Think: Now I need to pick up Apple (4).
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spoon (2), SoapBottle (2), Potato (1, 2), HousePlant (1), Fork (2, 3), DiningTable (1), Cup (2), ButterKnife (1), Book (1), Apple (4). 
+Act: pick up Apple (4)
+You pick up Apple (4). You see Spoon (2), SoapBottle (2), Potato (1, 2), HousePlant (1), Fork (2, 3), DiningTable (1), Cup (2), ButterKnife (1), Book (1), Apple (4). I am holding Apple (4) now.
+Think: I hold Apple (4). Now, I need to put it in the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see WineBottle (1), Toaster (1), Spoon (2, 2), SoapBottle (2, 2, 3), Sink (1), Potato (1, 1, 2, 2), Pot (1, 2), Pan (1), Microwave (1), Kettle (1), HousePlant (1, 1), Fork (2, 2, 3, 3), DiningTable (1, 1), Cup (1, 2, 2), CounterTop (1), Cabinet (3, 5, 6, 10), ButterKnife (1, 1), Book (1, 1), Apple (4, 4, 4). Microwave (1) is open.  I am holding Apple (4) now.
+Act: put down Apple (4)
+You put down failed, drop it. You see WineBottle (1), Toaster (1), SoapBottle (3), Sink (1), Pot (1, 2), Pan (1), Microwave (1), Kettle (1), Cup (1), CounterTop (1), Cabinet (3, 5, 6, 10), Apple (4).
+Think: Now I need to pick up Apple (2).
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see WineBottle (1, 1, 1), Toaster (1, 1, 1), SoapBottle (3, 3, 3), Sink (1, 1, 1), Pot (1, 1, 1, 2, 2, 2), Pan (1, 1, 1), Microwave (1, 1, 1), Kettle (1, 1, 1), Cup (1, 1, 1), CounterTop (1, 1, 1), Cabinet (3, 3, 3, 5, 5, 5, 6, 6, 6, 10, 10, 10). Microwave (1) is open. 
+Act: pick up WineBottle (1)
+You pick up WineBottle (1). You see WineBottle (1), Toaster (1), SoapBottle (3), Sink (1), Pot (1, 2), Pan (1), Microwave (1), Kettle (1), Cup (1), CounterTop (1), Cabinet (3, 5, 6, 10). I am holding WineBottle (1) now.
+Act: put down WineBottle (1)
+You put down failed, drop it. You see Toaster (1), SoapBottle (3), Sink (1), Pot (1, 2), Pan (1), Microwave (1), Kettle (1), Cup (1), CounterTop (1), Cabinet (3, 5, 6, 10).
+Act: pick up SoapBottle (3)
+You pick up SoapBottle (3). You see Toaster (1), SoapBottle (3), Sink (1), Pot (1, 2), Pan (1), Microwave (1), Kettle (1), Cup (1), CounterTop (1), Cabinet (3, 5, 6, 10). I am holding SoapBottle (3) now.
+Act: put down SoapBottle (3)
+You put down failed, drop it. You see Toaster (1), Sink (1), Pot (1, 2), Pan (1), Microwave (1), Kettle (1), Cup (1), CounterTop (1), Cabinet (3, 5, 6, 10).
+Act: pick up Pot (1)
+You pick up Pot (1). You see Toaster (1), Sink (1), Pot (1), Microwave (1), Cup (1), CounterTop (1), Cabinet (3, 5, 6, 10). I am holding Pot (1) now.
+Act: put down Pot (1)
+You put down failed, drop it. You see Toaster (1), StoveBurner (4), Sink (1), Pot (2), Pan (1), Microwave (1), Kettle (1), Cup (1), CounterTop (1), Cabinet (3, 5, 6, 10).
+Act: pick up Pot (2)
+You pick up Pot (2). You see Toaster (1), Sink (1), Pot (2), Microwave (1), Cup (1), CounterTop (1), Cabinet (3, 5, 6, 10). I am holding Pot (2) now.
+Act: put down Pot (2)
+You put down failed, drop it. You see Toaster (1), StoveBurner (3, 4), Sink (1), Pan (1), Microwave (1), Kettle (1), Cup (1), CounterTop (1), Cabinet (3, 5, 6, 10).
+Act: pick up Pan (1)
+You pick up Pan (1). You see Toaster (1), StoveBurner (3), Sink (1), Pan (1), Microwave (1), Cup (1), CounterTop (1), Cabinet (3, 5, 6, 10). I am holding Pan (1) now.
+Act: put down Pan (1)
+You put down failed, drop it. You see Toaster (1), StoveBurner (3, 4), Sink (1), Microwave (1), Kettle (1), Cup (1), CounterTop (1), Cabinet (3, 5, 6, 10).
+Act: pick up Cup (1)
+You pick up Cup (1). You see Toaster (1), StoveBurner (3, 4), Sink (1), Microwave (1), Kettle (1), Cup (1), CounterTop (1), Cabinet (3, 5, 6, 10). I am holding Cup (1) now.
+Act: put down Cup (1)
+You put down failed, drop it. You see Toaster (1), StoveBurner (3, 4), Sink (1), Microwave (1), Kettle (1), CounterTop (1), Cabinet (3, 5, 6, 10).
+Act: pick up Kettle (1)
+You pick up Kettle (1). You see Toaster (1), StoveBurner (3, 4), Sink (1), Microwave (1), Kettle (1), CounterTop (1), Cabinet (3, 5, 6, 10). I am holding Kettle (1) now.
+Act: put down Kettle (1)
+You put down failed, drop it. You see Toaster (1), StoveBurner (3, 4), Sink (1), Microwave (1), CounterTop (1), Cabinet (3, 5, 6, 10).
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Spoon (2), SoapBottle (2), Potato (1, 2), HousePlant (1), Fork (2, 3), DiningTable (1), Cup (2), ButterKnife (1), Book (1). 
+Act: pick up Spoon (2)
+You pick up Spoon (2). You see Spoon (2), SoapBottle (2), Potato (1, 2), HousePlant (1), Fork (2, 3), DiningTable (1), Cup (2), ButterKnife (1), Book (1). I am holding Spoon (2) now.
+Act: put down Spoon (2)
+You put down failed, drop it. You see SoapBottle (2), Potato (1, 2), HousePlant (1), Fork (2, 3), DiningTable (1), Cup (2), ButterKnife (1), Book (1).
+Act: pick up SoapBottle (2)
+You pick up SoapBottle (2). You see SoapBottle (2), Potato (1), HousePlant (1), Fork (3), DiningTable (1), ButterKnife (1), Book (1). I am holding SoapBottle (2) now.
+Act: put down SoapBottle (2)
+You put down failed, drop it. You see Potato (1, 2), HousePlant (1), Fork (2, 3), DiningTable (1), Cup (2), ButterKnife (1), Book (1).
+Act: pick up Potato (1)
+You pick up Potato (1). You see Potato (1, 2), HousePlant (1), Fork (2, 3), DiningTable (1), Cup (2), ButterKnife (1), Book (1). I am holding Potato (1) now.
+Act: put down Potato (1)
+You put down failed, drop it. You see Potato (2), HousePlant (1), Fork (2, 3), DiningTable (1), Cup (2), ButterKnife (1), Book (1).
+Act: pick up Potato (2)
+You pick up Potato (2). You see Potato (2), HousePlant (1), Fork (2, 3), DiningTable (1), Cup (2), ButterKnife (1), Book (1). I am holding Potato (2) now.
+Act: put down Potato (2)
+You put down failed, drop it. You see HousePlant (1), Fork (2, 3), DiningTable (1), Cup (2), ButterKnife (1), Book (1).
+Act: pick up Fork (2)
+You pick up Fork (2). You see HousePlant (1), Fork (2, 3), DiningTable (1), Cup (2), ButterKnife (1), Book (1). I am holding Fork (2) now.
+Act: put down Fork (2)
+You put down failed, drop it. You see HousePlant (1), Fork (3), DiningTable (1), Cup (2), ButterKnife (1), Book (1).
+Act: pick up Fork (3)
+You pick up Fork (3). You see HousePlant (1), Fork (3), DiningTable (1), Cup (2), ButterKnife (1), Book (1). I am holding Fork (3) now.
+Act: put down Fork (3)
+You put down failed, drop it. You see HousePlant (1), DiningTable (1), Cup (2), ButterKnife (1), Book (1).
+Act: pick up Cup (2)
+You pick up Cup (2). You see HousePlant (1), DiningTable (1), Cup (2), ButterKnife (1), Book (1). I am holding Cup (2) now.
+Act: put down Cup (2)
+You put down failed, drop it. You see HousePlant (1), DiningTable (1), Cup (2), ButterKnife (1), Book (1).
+Act: pick up ButterKnife (1)
+You pick up ButterKnife (1). You see HousePlant (1), DiningTable (1), Cup (2), ButterKnife (1), Book (1). I am holding ButterKnife (1) now.
+Act: put down ButterKnife (1)
+You put down failed, drop it. You see HousePlant (1), DiningTable (1), Cup (2), Book (1).
+Act: pick up Book (1)
+You pick up Book (1). You see HousePlant (1), DiningTable (1), Book (1). I am holding Book (1) now.
+Act: put down Book (1)
+You put down failed, drop it. You see HousePlant (1), DiningTable (1), Book (1).
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Toaster (1), StoveBurner (3), Microwave (1), HousePlant (1, 1, 1, 1, 1, 1, 1, 1, 1), DiningTable (1, 1, 1, 1, 1, 1, 1, 1, 1), Cabinet (3, 5, 10), Book (1, 1, 1, 1, 1, 1, 1, 1, 1). Microwave (1) is open. 

@@ -1,0 +1,55 @@
+Your primary goal is to: Place a cooled slice of tomato in front of the coffee maker
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up knife, slice and pick up tomato, cool and pick up tomato, and place tomato near coffee maker.
+Your task is to: place tomato near coffee maker
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8). I am holding Tomato (3) now.
+Think: I hold Tomato (3). Now, I need to put it near the coffee maker. I can see CoffeeMachine (1).
+OK.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see Tomato (3), Toaster (1), Sink (1), SinkBasin (1), SaltShaker (1), PepperShaker (1), Mug (1, 2), Fridge (1), Fork (2), Faucet (1), Egg (1), CounterTop (2), CoffeeMachine (1).  I am holding Tomato (3) now.
+Act: put down Tomato (3)
+You put down failed, drop it. You see Tomato (3), Toaster (1), Sink (1), SinkBasin (1), SaltShaker (1), PepperShaker (1), Mug (1, 2), Fridge (1), Fork (2), Faucet (1), Egg (1), CounterTop (2), CoffeeMachine (1).
+Think: Now I need to pick up Tomato (3).
+OK.
+Act: pick up Tomato (3)
+You pick up Tomato (3). You see Tomato (3), Toaster (1), Sink (1), SinkBasin (1), SaltShaker (1), PepperShaker (1), Mug (1, 2), Fridge (1), Fork (2), Faucet (1), Egg (1), CounterTop (2), CoffeeMachine (1). I am holding Tomato (3) now.
+Act: put down Tomato (3)
+You put down failed, drop it. You see Toaster (1), Sink (1), SinkBasin (1), SaltShaker (1), PepperShaker (1), Mug (1, 2), Fridge (1), Fork (2), Faucet (1), Egg (1), CounterTop (2), CoffeeMachine (1).
+Think: Now I need to pick up Tomato (3).
+OK.
+Act: pick up SaltShaker (1)
+You pick up SaltShaker (1). You see Toaster (1), Sink (1), SinkBasin (1), SaltShaker (1), PepperShaker (1), Mug (1), Fridge (1), Faucet (1), Egg (1), CounterTop (2), CoffeeMachine (1). I am holding SaltShaker (1) now.
+Act: put down SaltShaker (1)
+You put down failed, drop it. You see Toaster (1), Sink (1), SinkBasin (1), PepperShaker (1), Mug (1, 2), Fridge (1), Fork (2), Faucet (1), Egg (1), CounterTop (2), CoffeeMachine (1).
+Think: Now I need to pick up SaltShaker (1).
+OK.
+Act: pick up PepperShaker (1)
+You pick up PepperShaker (1). You see Toaster (1), Sink (1), SinkBasin (1), PepperShaker (1), Mug (1), Fridge (1), Faucet (1), Egg (1), CounterTop (2), CoffeeMachine (1). I am holding PepperShaker (1) now.
+Act: put down PepperShaker (1)
+You put down failed, drop it. You see Toaster (1), Sink (1), SinkBasin (1), Mug (1, 2), Fridge (1), Fork (2), Faucet (1), Egg (1), CounterTop (2), CoffeeMachine (1).
+Think: Now I need to pick up PepperShaker (1).
+OK.
+Act: pick up Mug (1)
+You pick up Mug (1). You see Toaster (1), Sink (1), SinkBasin (1), Mug (1, 2), Fridge (1), Faucet (1), Egg (1), CounterTop (2), CoffeeMachine (1). I am holding Mug (1) now.
+Act: put down Mug (1)
+You put down failed, drop it. You see Toaster (1), Sink (1), SinkBasin (1), Mug (2), Fridge (1), Fork (2), Faucet (1), Egg (1), CounterTop (2), CoffeeMachine (1).
+Think: Now I need to pick up Mug (1).
+OK.
+Act: pick up Fork (2)
+You pick up Fork (2). You see Toaster (1), Sink (1), SinkBasin (1), Mug (2), Fridge (1), Fork (2), Faucet (1), Egg (1), CounterTop (2), CoffeeMachine (1). I am holding Fork (2) now.
+Act: put down Fork (2)
+You put down failed, drop it. You see Toaster (1), Sink (1), SinkBasin (1), Mug (2), Fridge (1), Faucet (1), Egg (1), CounterTop (2), CoffeeMachine (1).
+Think: Now I need to pick up Fork (2).
+OK.
+Act: pick up Egg (1)
+You pick up Egg (1). You see Toaster (1), Sink (1), SinkBasin (1), Mug (2), Fridge (1), Faucet (1), Egg (1), CounterTop (2), CoffeeMachine (1). I am holding Egg (1) now.
+Act: put down Egg (1)
+You put down failed, drop it. You see Toaster (1), Sink (1), SinkBasin (1), Mug (2), Fridge (1), Faucet (1), CounterTop (2), CoffeeMachine (1).
+Think: Now I need to pick up Egg (1).
+OK.
+Act: pick up Mug (2)
+You pick up Mug (2). You see Toaster (1), Sink (1), SinkBasin (1), Mug (2), Fridge (1), Faucet (1), CounterTop (2), CoffeeMachine (1). I am holding Mug (2) now.
+Act: put down Mug (2)
+You put down failed, drop it. You see Toaster (1), Sink (1), SinkBasin (1), Fridge (1), Faucet (1), CounterTop (2), CoffeeMachine (1).
+Think: Now I need to pick up Mug (2).
+OK.
+Act: failure

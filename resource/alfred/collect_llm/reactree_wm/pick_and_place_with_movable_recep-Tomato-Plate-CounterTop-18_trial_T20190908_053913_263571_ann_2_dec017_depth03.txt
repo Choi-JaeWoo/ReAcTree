@@ -1,0 +1,171 @@
+Your primary goal is to: Move a tomato on a plate to the counter by the coffee maker.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up tomato, place tomato on plate, and place tomato on plate near coffee maker.
+Your task is to: place tomato on plate near coffee maker
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Safe (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16).
+Think: I hold Tomato (1). Now, I need to recall location of the plate.
+OK.
+Act: recall location of Plate
+You saw Plate (2) near DiningTable (1).
+Think: I can find Plate (2) near DiningTable (1). 
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (1, 2), Spatula (1), SoapBottle (2), SaltShaker (1), Potato (2), Plate (2), PepperShaker (2), HousePlant (1), DishSponge (2), DiningTable (1), Bowl (1), Apple (1). 
+Think: I find Plate (2). Now, I need to put down Tomato (1) on Plate (2).
+OK.
+Act: go to Plate (2)
+You arrive at Plate (2). You see Tomato (1, 2), Spatula (1), SoapBottle (2), SaltShaker (1), Potato (2), Plate (2), PepperShaker (2), HousePlant (1), DishSponge (2), DiningTable (1), Chair (1), Bowl (1), Apple (1). 
+Act: go to Tomato (1)
+You already arrive at Tomato (1). You see Tomato (1, 1, 2, 2), Spatula (1, 1), SoapBottle (2, 2), SaltShaker (1, 1), Potato (2, 2), Plate (2, 2), PepperShaker (2, 2), HousePlant (1, 1), DishSponge (2, 2), DiningTable (1, 1), Chair (1, 1), Bowl (1, 1), Apple (1, 1). 
+Act: go to Plate (2)
+You arrive at Plate (2). You see Tomato (1, 2), Spatula (1), SoapBottle (2), SaltShaker (1), Potato (2), Plate (2), PepperShaker (2), HousePlant (1), DishSponge (2), DiningTable (1), Chair (1), Bowl (1), Apple (1). 
+Act: go to Tomato (1)
+You already arrive at Tomato (1). You see Tomato (1, 1, 2, 2), Spatula (1, 1), SoapBottle (2, 2), SaltShaker (1, 1), Potato (2, 2), Plate (2, 2), PepperShaker (2, 2), HousePlant (1, 1), DishSponge (2, 2), DiningTable (1, 1), Chair (1, 1), Bowl (1, 1), Apple (1, 1). 
+Act: go to Plate (2)
+You arrive at Plate (2). You see Tomato (1, 2), Spatula (1), SoapBottle (2), SaltShaker (1), Potato (2), Plate (2), PepperShaker (2), HousePlant (1), DishSponge (2), DiningTable (1), Chair (1), Bowl (1), Apple (1). 
+Act: go to Tomato (1)
+You already arrive at Tomato (1). You see Tomato (1, 1, 2, 2), Spatula (1, 1), SoapBottle (2, 2), SaltShaker (1, 1), Potato (2, 2), Plate (2, 2), PepperShaker (2, 2), HousePlant (1, 1), DishSponge (2, 2), DiningTable (1, 1), Chair (1, 1), Bowl (1, 1), Apple (1, 1). 
+Act: go to Plate (2)
+You arrive at Plate (2). You see Tomato (1, 2), Spatula (1), SoapBottle (2), SaltShaker (1), Potato (2), Plate (2), PepperShaker (2), HousePlant (1), DishSponge (2), DiningTable (1), Chair (1), Bowl (1), Apple (1). 
+Act: go to Tomato (1)
+You already arrive at Tomato (1). You see Tomato (1, 1, 2, 2), Spatula (1, 1), SoapBottle (2, 2), SaltShaker (1, 1), Potato (2, 2), Plate (2, 2), PepperShaker (2, 2), HousePlant (1, 1), DishSponge (2, 2), DiningTable (1, 1), Chair (1, 1), Bowl (1, 1), Apple (1, 1). 
+Act: go to Plate (2)
+You arrive at Plate (2). You see Tomato (1, 2), Spatula (1), SoapBottle (2), SaltShaker (1), Potato (2), Plate (2), PepperShaker (2), HousePlant (1), DishSponge (2), DiningTable (1), Chair (1), Bowl (1), Apple (1). 
+Act: go to Tomato (1)
+You already arrive at Tomato (1). You see Tomato (1, 1, 2, 2), Spatula (1, 1), SoapBottle (2, 2), SaltShaker (1, 1), Potato (2, 2), Plate (2, 2), PepperShaker (2, 2), HousePlant (1, 1), DishSponge (2, 2), DiningTable (1, 1), Chair (1, 1), Bowl (1, 1), Apple (1, 1). 
+Act: go to Plate (2)
+You arrive at Plate (2). You see Tomato (1, 2), Spatula (1), SoapBottle (2), SaltShaker (1), Potato (2), Plate (2), PepperShaker (2), HousePlant (1), DishSponge (2), DiningTable (1), Chair (1), Bowl (1), Apple (1). 
+Act: go to Tomato (1)
+You already arrive at Tomato (1). You see Tomato (1, 1, 2, 2), Spatula (1, 1), SoapBottle (2, 2), SaltShaker (1, 1), Potato (2, 2), Plate (2, 2), PepperShaker (2, 2), HousePlant (1, 1), DishSponge (2, 2), DiningTable (1, 1), Chair (1, 1), Bowl (1, 1), Apple (1, 1). 
+Act: go to Plate (2)
+You arrive at Plate (2). You see Tomato (1, 2), Spatula (1), SoapBottle (2), SaltShaker (1), Potato (2), Plate (2), PepperShaker (2), HousePlant (1), DishSponge (2), DiningTable (1), Chair (1), Bowl (1), Apple (1). 
+Act: go to Tomato (1)
+You already arrive at Tomato (1). You see Tomato (1, 1, 2, 2), Spatula (1, 1), SoapBottle (2, 2), SaltShaker (1, 1), Potato (2, 2), Plate (2, 2), PepperShaker (2, 2), HousePlant (1, 1), DishSponge (2, 2), DiningTable (1, 1), Chair (1, 1), Bowl (1, 1), Apple (1, 1). 
+Act: go to Plate (2)
+You arrive at Plate (2). You see Tomato (1, 2), Spatula (1), SoapBottle (2), SaltShaker (1), Potato (2), Plate (2), PepperShaker (2), HousePlant (1), DishSponge (2), DiningTable (1), Chair (1), Bowl (1), Apple (1). 
+Act: go to Tomato (1)
+You already arrive at Tomato (1). You see Tomato (1, 1, 2, 2), Spatula (1, 1), SoapBottle (2, 2), SaltShaker (1, 1), Potato (2, 2), Plate (2, 2), PepperShaker (2, 2), HousePlant (1, 1), DishSponge (2, 2), DiningTable (1, 1), Chair (1, 1), Bowl (1, 1), Apple (1, 1). 
+Act: go to Plate (2)
+You arrive at Plate (2). You see Tomato (1, 2), Spatula (1), SoapBottle (2), SaltShaker (1), Potato (2), Plate (2), PepperShaker (2), HousePlant (1), DishSponge (2), DiningTable (1), Chair (1), Bowl (1), Apple (1). 
+Act: go to Tomato (1)
+You already arrive at Tomato (1). You see Tomato (1, 1, 2, 2), Spatula (1, 1), SoapBottle (2, 2), SaltShaker (1, 1), Potato (2, 2), Plate (2, 2), PepperShaker (2, 2), HousePlant (1, 1), DishSponge (2, 2), DiningTable (1, 1), Chair (1, 1), Bowl (1, 1), Apple (1, 1). 
+Act: go to Plate (2)
+You arrive at Plate (2). You see Tomato (1, 2), Spatula (1), SoapBottle (2), SaltShaker (1), Potato (2), Plate (2), PepperShaker (2), HousePlant (1), DishSponge (2), DiningTable (1), Chair (1), Bowl (1), Apple (1). 
+Act: go to Tomato (1)
+You already arrive at Tomato (1). You see Tomato (1, 1, 2, 2), Spatula (1, 1), SoapBottle (2, 2), SaltShaker (1, 1), Potato (2, 2), Plate (2, 2), PepperShaker (2, 2), HousePlant (1, 1), DishSponge (2, 2), DiningTable (1, 1), Chair (1, 1), Bowl (1, 1), Apple (1, 1). 
+Act: go to Plate (2)
+You arrive at Plate (2). You see Tomato (1, 2), Spatula (1), SoapBottle (2), SaltShaker (1), Potato (2), Plate (2), PepperShaker (2), HousePlant (1), DishSponge (2), DiningTable (1), Chair (1), Bowl (1), Apple (1). 
+Act: go to Tomato (1)
+You already arrive at Tomato (1). You see Tomato (1, 1, 2, 2), Spatula (1, 1), SoapBottle (2, 2), SaltShaker (1, 1), Potato (2, 2), Plate (2, 2), PepperShaker (2, 2), HousePlant (1, 1), DishSponge (2, 2), DiningTable (1, 1), Chair (1, 1), Bowl (1, 1), Apple (1, 1). 
+Act: go to Plate (2)
+You arrive at Plate (2). You see Tomato (1, 2), Spatula (1), SoapBottle (2), SaltShaker (1), Potato (2), Plate (2), PepperShaker (2), HousePlant (1), DishSponge (2), DiningTable (1), Chair (1), Bowl (1), Apple (1). 
+Act: go to Tomato (1)
+You already arrive at Tomato (1). You see Tomato (1, 1, 2, 2), Spatula (1, 1), SoapBottle (2, 2), SaltShaker (1, 1), Potato (2, 2), Plate (2, 2), PepperShaker (2, 2), HousePlant (1, 1), DishSponge (2, 2), DiningTable (1, 1), Chair (1, 1), Bowl (1, 1), Apple (1, 1). 
+Act: go to Plate (2)
+You arrive at Plate (2). You see Tomato (1, 2), Spatula (1), SoapBottle (2), SaltShaker (1), Potato (2), Plate (2), PepperShaker (2), HousePlant (1), DishSponge (2), DiningTable (1), Chair (1), Bowl (1), Apple (1). 
+Act: go to Tomato (1)
+You already arrive at Tomato (1). You see Tomato (1, 1, 2, 2), Spatula (1, 1), SoapBottle (2, 2), SaltShaker (1, 1), Potato (2, 2), Plate (2, 2), PepperShaker (2, 2), HousePlant (1, 1), DishSponge (2, 2), DiningTable (1, 1), Chair (1, 1), Bowl (1, 1), Apple (1, 1). 
+Act: go to Plate (2)
+You arrive at Plate (2). You see Tomato (1, 2), Spatula (1), SoapBottle (2), SaltShaker (1), Potato (2), Plate (2), PepperShaker (2), HousePlant (1), DishSponge (2), DiningTable (1), Chair (1), Bowl (1), Apple (1). 
+Act: go to Tomato (1)
+You already arrive at Tomato (1). You see Tomato (1, 1, 2, 2), Spatula (1, 1), SoapBottle (2, 2), SaltShaker (1, 1), Potato (2, 2), Plate (2, 2), PepperShaker (2, 2), HousePlant (1, 1), DishSponge (2, 2), DiningTable (1, 1), Chair (1, 1), Bowl (1, 1), Apple (1, 1). 
+Act: go to Plate (2)
+You arrive at Plate (2). You see Tomato (1, 2), Spatula (1), SoapBottle (2), SaltShaker (1), Potato (2), Plate (2), PepperShaker (2), HousePlant (1), DishSponge (2), DiningTable (1), Chair (1), Bowl (1), Apple (1). 
+Act: go to Tomato (1)
+You already arrive at Tomato (1). You see Tomato (1, 1, 2, 2), Spatula (1, 1), SoapBottle (2, 2), SaltShaker (1, 1), Potato (2, 2), Plate (2, 2), PepperShaker (2, 2), HousePlant (1, 1), DishSponge (2, 2), DiningTable (1, 1), Chair (1, 1), Bowl (1, 1), Apple (1, 1). 
+Act: go to Plate (2)
+You arrive at Plate (2). You see Tomato (1, 2), Spatula (1), SoapBottle (2), SaltShaker (1), Potato (2), Plate (2), PepperShaker (2), HousePlant (1), DishSponge (2), DiningTable (1), Chair (1), Bowl (1), Apple (1). 
+Act: go to Tomato (1)
+You already arrive at Tomato (1). You see Tomato (1, 1, 2, 2), Spatula (1, 1), SoapBottle (2, 2), SaltShaker (1, 1), Potato (2, 2), Plate (2, 2), PepperShaker (2, 2), HousePlant (1, 1), DishSponge (2, 2), DiningTable (1, 1), Chair (1, 1), Bowl (1, 1), Apple (1, 1). 
+Act: go to Plate (2)
+You arrive at Plate (2). You see Tomato (1, 2), Spatula (1), SoapBottle (2), SaltShaker (1), Potato (2), Plate (2), PepperShaker (2), HousePlant (1), DishSponge (2), DiningTable (1), Chair (1), Bowl (1), Apple (1). 
+Act: go to Tomato (1)
+You already arrive at Tomato (1). You see Tomato (1, 1, 2, 2), Spatula (1, 1), SoapBottle (2, 2), SaltShaker (1, 1), Potato (2, 2), Plate (2, 2), PepperShaker (2, 2), HousePlant (1, 1), DishSponge (2, 2), DiningTable (1, 1), Chair (1, 1), Bowl (1, 1), Apple (1, 1). 
+Act: go to Plate (2)
+You arrive at Plate (2). You see Tomato (1, 2), Spatula (1), SoapBottle (2), SaltShaker (1), Potato (2), Plate (2), PepperShaker (2), HousePlant (1), DishSponge (2), DiningTable (1), Chair (1), Bowl (1), Apple (1). 
+Act: go to Tomato (1)
+You already arrive at Tomato (1). You see Tomato (1, 1, 2, 2), Spatula (1, 1), SoapBottle (2, 2), SaltShaker (1, 1), Potato (2, 2), Plate (2, 2), PepperShaker (2, 2), HousePlant (1, 1), DishSponge (2, 2), DiningTable (1, 1), Chair (1, 1), Bowl (1, 1), Apple (1, 1). 
+Act: go to Plate (2)
+You arrive at Plate (2). You see Tomato (1, 2), Spatula (1), SoapBottle (2), SaltShaker (1), Potato (2), Plate (2), PepperShaker (2), HousePlant (1), DishSponge (2), DiningTable (1), Chair (1), Bowl (1), Apple (1). 
+Act: go to Tomato (1)
+You already arrive at Tomato (1). You see Tomato (1, 1, 2, 2), Spatula (1, 1), SoapBottle (2, 2), SaltShaker (1, 1), Potato (2, 2), Plate (2, 2), PepperShaker (2, 2), HousePlant (1, 1), DishSponge (2, 2), DiningTable (1, 1), Chair (1, 1), Bowl (1, 1), Apple (1, 1). 
+Act: go to Plate (2)
+You arrive at Plate (2). You see Tomato (1, 2), Spatula (1), SoapBottle (2), SaltShaker (1), Potato (2), Plate (2), PepperShaker (2), HousePlant (1), DishSponge (2), DiningTable (1), Chair (1), Bowl (1), Apple (1). 
+Act: go to Tomato (1)
+You already arrive at Tomato (1). You see Tomato (1, 1, 2, 2), Spatula (1, 1), SoapBottle (2, 2), SaltShaker (1, 1), Potato (2, 2), Plate (2, 2), PepperShaker (2, 2), HousePlant (1, 1), DishSponge (2, 2), DiningTable (1, 1), Chair (1, 1), Bowl (1, 1), Apple (1, 1). 
+Act: go to Plate (2)
+You arrive at Plate (2). You see Tomato (1, 2), Spatula (1), SoapBottle (2), SaltShaker (1), Potato (2), Plate (2), PepperShaker (2), HousePlant (1), DishSponge (2), DiningTable (1), Chair (1), Bowl (1), Apple (1). 
+Act: go to Tomato (1)
+You already arrive at Tomato (1). You see Tomato (1, 1, 2, 2), Spatula (1, 1), SoapBottle (2, 2), SaltShaker (1, 1), Potato (2, 2), Plate (2, 2), PepperShaker (2, 2), HousePlant (1, 1), DishSponge (2, 2), DiningTable (1, 1), Chair (1, 1), Bowl (1, 1), Apple (1, 1). 
+Act: go to Plate (2)
+You arrive at Plate (2). You see Tomato (1, 2), Spatula (1), SoapBottle (2), SaltShaker (1), Potato (2), Plate (2), PepperShaker (2), HousePlant (1), DishSponge (2), DiningTable (1), Chair (1), Bowl (1), Apple (1). 
+Act: go to Tomato (1)
+You already arrive at Tomato (1). You see Tomato (1, 1, 2, 2), Spatula (1, 1), SoapBottle (2, 2), SaltShaker (1, 1), Potato (2, 2), Plate (2, 2), PepperShaker (2, 2), HousePlant (1, 1), DishSponge (2, 2), DiningTable (1, 1), Chair (1, 1), Bowl (1, 1), Apple (1, 1). 
+Act: go to Plate (2)
+You arrive at Plate (2). You see Tomato (1, 2), Spatula (1), SoapBottle (2), SaltShaker (1), Potato (2), Plate (2), PepperShaker (2), HousePlant (1), DishSponge (2), DiningTable (1), Chair (1), Bowl (1), Apple (1). 
+Act: go to Tomato (1)
+You already arrive at Tomato (1). You see Tomato (1, 1, 2, 2), Spatula (1, 1), SoapBottle (2, 2), SaltShaker (1, 1), Potato (2, 2), Plate (2, 2), PepperShaker (2, 2), HousePlant (1, 1), DishSponge (2, 2), DiningTable (1, 1), Chair (1, 1), Bowl (1, 1), Apple (1, 1). 
+Act: go to Plate (2)
+You arrive at Plate (2). You see Tomato (1, 2), Spatula (1), SoapBottle (2), SaltShaker (1), Potato (2), Plate (2), PepperShaker (2), HousePlant (1), DishSponge (2), DiningTable (1), Chair (1), Bowl (1), Apple (1). 
+Act: go to Tomato (1)
+You already arrive at Tomato (1). You see Tomato (1, 1, 2, 2), Spatula (1, 1), SoapBottle (2, 2), SaltShaker (1, 1), Potato (2, 2), Plate (2, 2), PepperShaker (2, 2), HousePlant (1, 1), DishSponge (2, 2), DiningTable (1, 1), Chair (1, 1), Bowl (1, 1), Apple (1, 1). 
+Act: go to Plate (2)
+You arrive at Plate (2). You see Tomato (1, 2), Spatula (1), SoapBottle (2), SaltShaker (1), Potato (2), Plate (2), PepperShaker (2), HousePlant (1), DishSponge (2), DiningTable (1), Chair (1), Bowl (1), Apple (1). 
+Act: go to Tomato (1)
+You already arrive at Tomato (1). You see Tomato (1, 1, 2, 2), Spatula (1, 1), SoapBottle (2, 2), SaltShaker (1, 1), Potato (2, 2), Plate (2, 2), PepperShaker (2, 2), HousePlant (1, 1), DishSponge (2, 2), DiningTable (1, 1), Chair (1, 1), Bowl (1, 1), Apple (1, 1). 
+Act: go to Plate (2)
+You arrive at Plate (2). You see Tomato (1, 2), Spatula (1), SoapBottle (2), SaltShaker (1), Potato (2), Plate (2), PepperShaker (2), HousePlant (1), DishSponge (2), DiningTable (1), Chair (1), Bowl (1), Apple (1). 
+Act: go to Tomato (1)
+You already arrive at Tomato (1). You see Tomato (1, 1, 2, 2), Spatula (1, 1), SoapBottle (2, 2), SaltShaker (1, 1), Potato (2, 2), Plate (2, 2), PepperShaker (2, 2), HousePlant (1, 1), DishSponge (2, 2), DiningTable (1, 1), Chair (1, 1), Bowl (1, 1), Apple (1, 1). 
+Act: go to Plate (2)
+You arrive at Plate (2). You see Tomato (1, 2), Spatula (1), SoapBottle (2), SaltShaker (1), Potato (2), Plate (2), PepperShaker (2), HousePlant (1), DishSponge (2), DiningTable (1), Chair (1), Bowl (1), Apple (1). 
+Act: go to Tomato (1)
+You already arrive at Tomato (1). You see Tomato (1, 1, 2, 2), Spatula (1, 1), SoapBottle (2, 2), SaltShaker (1, 1), Potato (2, 2), Plate (2, 2), PepperShaker (2, 2), HousePlant (1, 1), DishSponge (2, 2), DiningTable (1, 1), Chair (1, 1), Bowl (1, 1), Apple (1, 1). 
+Act: go to Plate (2)
+You arrive at Plate (2). You see Tomato (1, 2), Spatula (1), SoapBottle (2), SaltShaker (1), Potato (2), Plate (2), PepperShaker (2), HousePlant (1), DishSponge (2), DiningTable (1), Chair (1), Bowl (1), Apple (1). 
+Act: go to Tomato (1)
+You already arrive at Tomato (1). You see Tomato (1, 1, 2, 2), Spatula (1, 1), SoapBottle (2, 2), SaltShaker (1, 1), Potato (2, 2), Plate (2, 2), PepperShaker (2, 2), HousePlant (1, 1), DishSponge (2, 2), DiningTable (1, 1), Chair (1, 1), Bowl (1, 1), Apple (1, 1). 
+Act: go to Plate (2)
+You arrive at Plate (2). You see Tomato (1, 2), Spatula (1), SoapBottle (2), SaltShaker (1), Potato (2), Plate (2), PepperShaker (2), HousePlant (1), DishSponge (2), DiningTable (1), Chair (1), Bowl (1), Apple (1). 
+Act: go to Tomato (1)
+You already arrive at Tomato (1). You see Tomato (1, 1, 2, 2), Spatula (1, 1), SoapBottle (2, 2), SaltShaker (1, 1), Potato (2, 2), Plate (2, 2), PepperShaker (2, 2), HousePlant (1, 1), DishSponge (2, 2), DiningTable (1, 1), Chair (1, 1), Bowl (1, 1), Apple (1, 1). 
+Act: go to Plate (2)
+You arrive at Plate (2). You see Tomato (1, 2), Spatula (1), SoapBottle (2), SaltShaker (1), Potato (2), Plate (2), PepperShaker (2), HousePlant (1), DishSponge (2), DiningTable (1), Chair (1), Bowl (1), Apple (1). 
+Act: go to Tomato (1)
+You already arrive at Tomato (1). You see Tomato (1, 1, 2, 2), Spatula (1, 1), SoapBottle (2, 2), SaltShaker (1, 1), Potato (2, 2), Plate (2, 2), PepperShaker (2, 2), HousePlant (1, 1), DishSponge (2, 2), DiningTable (1, 1), Chair (1, 1), Bowl (1, 1), Apple (1, 1). 
+Act: go to Plate (2)
+You arrive at Plate (2). You see Tomato (1, 2), Spatula (1), SoapBottle (2), SaltShaker (1), Potato (2), Plate (2), PepperShaker (2), HousePlant (1), DishSponge (2), DiningTable (1), Chair (1), Bowl (1), Apple (1). 
+Act: go to Tomato (1)
+You already arrive at Tomato (1). You see Tomato (1, 1, 2, 2), Spatula (1, 1), SoapBottle (2, 2), SaltShaker (1, 1), Potato (2, 2), Plate (2, 2), PepperShaker (2, 2), HousePlant (1, 1), DishSponge (2, 2), DiningTable (1, 1), Chair (1, 1), Bowl (1, 1), Apple (1, 1). 
+Act: go to Plate (2)
+You arrive at Plate (2). You see Tomato (1, 2), Spatula (1), SoapBottle (2), SaltShaker (1), Potato (2), Plate (2), PepperShaker (2), HousePlant (1), DishSponge (2), DiningTable (1), Chair (1), Bowl (1), Apple (1). 
+Act: go to Tomato (1)
+You already arrive at Tomato (1). You see Tomato (1, 1, 2, 2), Spatula (1, 1), SoapBottle (2, 2), SaltShaker (1, 1), Potato (2, 2), Plate (2, 2), PepperShaker (2, 2), HousePlant (1, 1), DishSponge (2, 2), DiningTable (1, 1), Chair (1, 1), Bowl (1, 1), Apple (1, 1). 
+Act: go to Plate (2)
+You arrive at Plate (2). You see Tomato (1, 2), Spatula (1), SoapBottle (2), SaltShaker (1), Potato (2), Plate (2), PepperShaker (2), HousePlant (1), DishSponge (2), DiningTable (1), Chair (1), Bowl (1), Apple (1). 
+Act: go to Tomato (1)
+You already arrive at Tomato (1). You see Tomato (1, 1, 2, 2), Spatula (1, 1), SoapBottle (2, 2), SaltShaker (1, 1), Potato (2, 2), Plate (2, 2), PepperShaker (2, 2), HousePlant (1, 1), DishSponge (2, 2), DiningTable (1, 1), Chair (1, 1), Bowl (1, 1), Apple (1, 1). 
+Act: go to Plate (2)
+You arrive at Plate (2). You see Tomato (1, 2), Spatula (1), SoapBottle (2), SaltShaker (1), Potato (2), Plate (2), PepperShaker (2), HousePlant (1), DishSponge (2), DiningTable (1), Chair (1), Bowl (1), Apple (1). 
+Act: go to Tomato (1)
+You already arrive at Tomato (1). You see Tomato (1, 1, 2, 2), Spatula (1, 1), SoapBottle (2, 2), SaltShaker (1, 1), Potato (2, 2), Plate (2, 2), PepperShaker (2, 2), HousePlant (1, 1), DishSponge (2, 2), DiningTable (1, 1), Chair (1, 1), Bowl (1, 1), Apple (1, 1). 
+Act: go to Plate (2)
+You arrive at Plate (2). You see Tomato (1, 2), Spatula (1), SoapBottle (2), SaltShaker (1), Potato (2), Plate (2), PepperShaker (2), HousePlant (1), DishSponge (2), DiningTable (1), Chair (1), Bowl (1), Apple (1). 
+Act: go to Tomato (1)
+You already arrive at Tomato (1). You see Tomato (1, 1, 2, 2), Spatula (1, 1), SoapBottle (2, 2), SaltShaker (1, 1), Potato (2, 2), Plate (2, 2), PepperShaker (2, 2), HousePlant (1, 1), DishSponge (2, 2), DiningTable (1, 1), Chair (1, 1), Bowl (1, 1), Apple (1, 1). 
+Act: go to Plate (2)
+You arrive at Plate (2). You see Tomato (1, 2), Spatula (1), SoapBottle (2), SaltShaker (1), Potato (2), Plate (2), PepperShaker (2), HousePlant (1), DishSponge (2), DiningTable (1), Chair (1), Bowl (1), Apple (1). 
+Act: go to Tomato (1)
+You already arrive at Tomato (1). You see Tomato (1, 1, 2, 2), Spatula (1, 1), SoapBottle (2, 2), SaltShaker (1, 1), Potato (2, 2), Plate (2, 2), PepperShaker (2, 2), HousePlant (1, 1), DishSponge (2, 2), DiningTable (1, 1), Chair (1, 1), Bowl (1, 1), Apple (1, 1). 
+Act: go to Plate (2)
+You arrive at Plate (2). You see Tomato (1, 2), Spatula (1), SoapBottle (2), SaltShaker (1), Potato (2), Plate (2), PepperShaker (2), HousePlant (1), DishSponge (2), DiningTable (1), Chair (1), Bowl (1), Apple (1). 
+Act: go to Tomato (1)
+You already arrive at Tomato (1). You see Tomato (1, 1, 2, 2), Spatula (1, 1), SoapBottle (2, 2), SaltShaker (1, 1), Potato (2, 2), Plate (2, 2), PepperShaker (2, 2), HousePlant (1, 1), DishSponge (2, 2), DiningTable (1, 1), Chair (1, 1), Bowl (1, 1), Apple (1, 1). 
+Act: go to Plate (2)
+You arrive at Plate (2). You see Tomato (1, 2), Spatula (1), SoapBottle (2), SaltShaker (1), Potato (2), Plate (2), PepperShaker (2), HousePlant (1), DishSponge (2), DiningTable (1), Chair (1), Bowl (1), Apple (1). 
+Act: go to Tomato (1)
+You already arrive at Tomato (1). You see Tomato (1, 1, 2, 2), Spatula (1, 1), SoapBottle (2, 2), SaltShaker (1, 1), Potato (2, 2), Plate (2, 2), PepperShaker (2, 2), HousePlant (1, 1), DishSponge (2, 2), DiningTable (1, 1), Chair (1, 1), Bowl (1, 1), Apple (1, 1). 
+Act: go to Plate (2)
+You arrive at Plate (2). You see Tomato (1, 2), Spatula (1), SoapBottle (2), SaltShaker (1), Potato (2), Plate (2), PepperShaker (2), HousePlant (1), DishSponge (2), DiningTable (1), Chair (1), Bowl (1), Apple (1). 
+Act: go to Tomato (1)
+You already arrive at Tomato (1). You see Tomato (1, 1, 2, 2), Spatula (1, 1), SoapBottle (2, 2), SaltShaker (1, 1), Potato (2, 2), Plate (2, 2), PepperShaker (2, 2), HousePlant (1, 1), DishSponge (2, 2), DiningTable (1, 1), Chair (1, 1), Bowl (1, 1), Apple (1, 1). 
+Max decisions

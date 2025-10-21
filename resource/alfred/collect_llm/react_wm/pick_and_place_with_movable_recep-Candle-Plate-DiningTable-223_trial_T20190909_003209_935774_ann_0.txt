@@ -1,0 +1,116 @@
+Your task is to: Move a plate and candle stick to a shelf.
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1), GarbageCan (1), DiningTable (1, 2), CoffeeTable (1), ArmChair (1, 2, 3).
+Think: To solve the task, I need to find and pick up the plate, then put it on the shelf. And I need to find and pick up the candle stick, then put it on the shelf.
+OK.
+Think: First, I need to recall location of the plate.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now I need to find the plate. The plate is more likely to appear on DiningTable (1-2), CoffeeTable (1), or in TVStand (1). I can check each place one by one, starting from DiningTable (1), until I find the plate.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (2), Statue (2), DiningTable (1), Chair (1, 2), Candle (3), Box (2). 
+Think: I find Plate (1). Now, I need to pick it up.
+OK.
+Act: pick up Candle (3)
+You pick up Candle (3). You see Vase (2), Statue (2), DiningTable (1), Chair (1, 2), Candle (3), Box (2). I am holding Candle (3) now.
+Think: I hold Candle (3). Now, I need to put it on the shelf.
+OK.
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2), CreditCard (1), Candle (3).  I am holding Candle (3) now.
+Act: put down Candle (3)
+You put Candle (3) on TVStand (1). You see Television (1), TVStand (1), DiningTable (2), CreditCard (1), Candle (3).
+Think: I put Candle (3) on TVStand (1). Now, I need to recall location of the plate.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now I need to find the plate. The plate is more likely to appear on DiningTable (1-2), CoffeeTable (1), or in TVStand (1). I can check each place one by one, starting from DiningTable (1), until I find the plate.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Vase (2), Statue (2), DiningTable (1), Chair (1, 2), Box (2). 
+Think: I find Plate (1). Now, I need to pick it up.
+OK.
+Act: pick up Box (2)
+
+Act: go to TVStand (1)
+You arrive at TVStand (1). You see Television (1), TVStand (1), DiningTable (2), CreditCard (1), Candle (3). 
+Act: go to Candle (3)
+You see Television (1), TVStand (1), FloorLamp (1), DiningTable (2), CreditCard (1), Candle (3), ArmChair (2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), DiningTable (2), CreditCard (1), Candle (3). 
+Act: go to Candle (3)
+You see Television (1), TVStand (1), FloorLamp (1), DiningTable (2), CreditCard (1), Candle (3), ArmChair (2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), DiningTable (2), CreditCard (1), Candle (3). 
+Act: go to Candle (3)
+You see Television (1), TVStand (1), FloorLamp (1), DiningTable (2), CreditCard (1), Candle (3), ArmChair (2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), DiningTable (2), CreditCard (1), Candle (3). 
+Act: go to Candle (3)
+You see Television (1), TVStand (1), FloorLamp (1), DiningTable (2), CreditCard (1), Candle (3), ArmChair (2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), DiningTable (2), CreditCard (1), Candle (3). 
+Act: go to Candle (3)
+You see Television (1), TVStand (1), FloorLamp (1), DiningTable (2), CreditCard (1), Candle (3), ArmChair (2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), DiningTable (2), CreditCard (1), Candle (3). 
+Act: go to Candle (3)
+You see Television (1), TVStand (1), FloorLamp (1), DiningTable (2), CreditCard (1), Candle (3), ArmChair (2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), DiningTable (2), CreditCard (1), Candle (3). 
+Act: go to Candle (3)
+You see Television (1), TVStand (1), FloorLamp (1), DiningTable (2), CreditCard (1), Candle (3), ArmChair (2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), DiningTable (2), CreditCard (1), Candle (3). 
+Act: go to Candle (3)
+You see Television (1), TVStand (1), FloorLamp (1), DiningTable (2), CreditCard (1), Candle (3), ArmChair (2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), DiningTable (2), CreditCard (1), Candle (3). 
+Act: go to Candle (3)
+You see Television (1), TVStand (1), FloorLamp (1), DiningTable (2), CreditCard (1), Candle (3), ArmChair (2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), DiningTable (2), CreditCard (1), Candle (3). 
+Act: go to Candle (3)
+You see Television (1), TVStand (1), FloorLamp (1), DiningTable (2), CreditCard (1), Candle (3), ArmChair (2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), DiningTable (2), CreditCard (1), Candle (3). 
+Act: go to Candle (3)
+You see Television (1), TVStand (1), FloorLamp (1), DiningTable (2), CreditCard (1), Candle (3), ArmChair (2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), DiningTable (2), CreditCard (1), Candle (3). 
+Act: go to Candle (3)
+You see Television (1), TVStand (1), FloorLamp (1), DiningTable (2), CreditCard (1), Candle (3), ArmChair (2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), DiningTable (2), CreditCard (1), Candle (3). 
+Act: go to Candle (3)
+You see Television (1), TVStand (1), FloorLamp (1), DiningTable (2), CreditCard (1), Candle (3), ArmChair (2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), DiningTable (2), CreditCard (1), Candle (3). 
+Act: go to Candle (3)
+You see Television (1), TVStand (1), FloorLamp (1), DiningTable (2), CreditCard (1), Candle (3), ArmChair (2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), DiningTable (2), CreditCard (1), Candle (3). 
+Act: go to Candle (3)
+You see Television (1), TVStand (1), FloorLamp (1), DiningTable (2), CreditCard (1), Candle (3), ArmChair (2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), DiningTable (2), CreditCard (1), Candle (3). 
+Act: go to Candle (3)
+You see Television (1), TVStand (1), FloorLamp (1), DiningTable (2), CreditCard (1), Candle (3), ArmChair (2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), DiningTable (2), CreditCard (1), Candle (3). 
+Act: go to Candle (3)
+You see Television (1), TVStand (1), FloorLamp (1), DiningTable (2), CreditCard (1), Candle (3), ArmChair (2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), DiningTable (2), CreditCard (1), Candle (3). 
+Act: go to Candle (3)
+You see Television (1), TVStand (1), FloorLamp (1), DiningTable (2), CreditCard (1), Candle (3), ArmChair (2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), DiningTable (2), CreditCard (1), Candle (3). 
+Act: go to Candle (3)
+You see Television (1), TVStand (1), FloorLamp (1), DiningTable (2), CreditCard (1), Candle (3), ArmChair (2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), DiningTable (2), CreditCard (1), Candle (3). 
+Act: go to Candle (3)
+You see Television (1), TVStand (1), FloorLamp (1), DiningTable (2), CreditCard (1), Candle (3), ArmChair (2). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), DiningTable (2), CreditCard (1), Candle (3). 

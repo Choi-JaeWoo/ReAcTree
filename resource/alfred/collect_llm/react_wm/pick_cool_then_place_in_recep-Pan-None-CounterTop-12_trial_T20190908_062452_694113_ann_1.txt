@@ -1,0 +1,25 @@
+Your task is to: Put a pan on the counter. 
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19).
+Think: To solve the task, I need to find and pick up the pan, then put it on the counter.
+OK.
+Think: First, I need to recall location of the pan.
+OK.
+Act: recall location of Pan
+You have not seen Pan before.
+Think: Now I need to find the pan. The pan is more likely to appear on CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-19), Drawer (1-4). I can check each place one by one, starting from CounterTop (1), until I find the pan.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see StoveBurner (1, 4), Pot (1), Pan (1), Fridge (1), Drawer (4), CounterTop (1), Cabinet (11). 
+Think: I find Pan (1). Now, I need to pick it up.
+OK.
+Act: pick up Pan (1)
+You pick up Pan (1). You see StoveBurner (1, 4), Pot (1), Pan (1), Fridge (1), Drawer (4), CounterTop (1). I am holding Pan (1) now.
+Think: I hold Pan (1). Now, I need to put it on the counter.
+OK.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Tomato (2), Sink (1), Pan (1), Mug (1), GarbageCan (1), Egg (1), Drawer (3), CounterTop (2), CoffeeMachine (1).  I am holding Pan (1) now.
+Act: put down Pan (1)
+You put down failed, drop it. You see Tomato (2), Sink (1), Pan (1), Mug (1), GarbageCan (1), Egg (1), Drawer (3), CounterTop (2), CoffeeMachine (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

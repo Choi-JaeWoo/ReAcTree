@@ -1,0 +1,83 @@
+Your task is to: place a candle in a carton on the white cupboard
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1), Sofa (1, 2), SideTable (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1, 2), CoffeeTable (1), ArmChair (1).
+Think: To solve the task, I need to find and pick up the candle, then put it in the carton. And I need to pick up the carton from the cupboard, then put it on the white cupboard.
+OK.
+Think: First, I need to recall location of the candle.
+OK.
+Act: recall location of Candle
+You have not seen Candle before.
+Think: Now I need to find the candle. The candle is more likely to appear on DiningTable (1-2), CoffeeTable (1), or in Drawer (1-6). I can check each place one by one, starting from DiningTable (1), until I find the candle.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Television (1), TVStand (1), RemoteControl (2), DiningTable (1, 2), Candle (1, 3). 
+Think: I find Candle (1). Now, I need to pick it up.
+OK.
+Act: pick up Candle (1)
+You pick up Candle (1). You see Television (1), TVStand (1), RemoteControl (2), DiningTable (1, 2), Candle (1, 3). I am holding Candle (1) now.
+Think: I hold Candle (1). Now, I need to recall location of the carton.
+OK.
+Act: recall location of Box
+You have not seen Box before.
+Think: Now I need to find the carton. The carton is more likely to appear on DiningTable (1-2), CoffeeTable (1), or in Drawer (1-6). I can check each place one by one, starting from DiningTable (1), until I find the carton.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Television (1), TVStand (1), RemoteControl (2), DiningTable (1, 2), Candle (1, 3).  I am holding Candle (1) now.
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), RemoteControl (2), DiningTable (1, 2), Candle (1, 3).  I am holding Candle (1) now.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see TissueBox (1), Statue (1), Sofa (2), CoffeeTable (1), Candle (1), Box (1).  I am holding Candle (1) now.
+Think: I find Box (1). Now, I need to put Candle (1) in it.
+OK.
+Act: put down Candle (1)
+You put Candle (1) on CoffeeTable (1). You see TissueBox (1), Statue (1), Sofa (2), CoffeeTable (1), Candle (1), Box (1).
+Think: I put Candle (1) in Box (1). Now, I need to recall location of the white cupboard.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the white cupboard. The white cupboard is more likely to appear on DiningTable (1-2), CoffeeTable (1), or in Drawer (1-6). I can check each place one by one, starting from DiningTable (1), until I find the white cupboard.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Television (1), TVStand (1), RemoteControl (2), DiningTable (1, 2), Candle (3). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Television (1), TVStand (1), RemoteControl (2), DiningTable (1, 2), Candle (3). 
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see TissueBox (1), Statue (1), Sofa (2), CoffeeTable (1), Candle (1), Box (1). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Laptop (2), Dresser (1), Drawer (1, 3, 5, 6). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Drawer (1, 3, 5), Chair (1).
+Act: close Drawer (1)
+You close Drawer (1). You see Dresser (1), Drawer (1, 3, 5, 6), Chair (1).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SideTable (1), HousePlant (1), Drawer (2, 4), Candle (2), Boots (1). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see SideTable (1), RemoteControl (3), HousePlant (1), Drawer (2), Candle (2), Boots (1).
+Act: close Drawer (2)
+You close Drawer (2). You see SideTable (1), RemoteControl (3), HousePlant (1), Drawer (2), Candle (2), Boots (1).
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see TissueBox (2), Laptop (2), Dresser (1), Drawer (1, 3, 5, 6). Drawer (3) is closed. 
+Act: open Drawer (3)
+You open Drawer (3). You see TissueBox (2), Laptop (2), Dresser (1), Drawer (1, 3, 6).
+Act: close Drawer (3)
+You close Drawer (3). You see TissueBox (2), Laptop (2), Dresser (1), Drawer (1, 3, 5, 6).
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see TissueBox (2, 2, 2), SideTable (1), RemoteControl (3), Laptop (2, 2, 2), HousePlant (1), Dresser (1, 1, 1), Drawer (1, 1, 1, 2, 3, 3, 3, 4, 5, 5, 5, 6, 6, 6), Candle (2), Boots (1). Drawer (4) is closed. 
+Act: open Drawer (4)
+You open Drawer (4). You see SideTable (1), RemoteControl (3), HousePlant (1), Drawer (2, 4), Candle (2), Boots (1).
+Act: close Drawer (4)
+The Drawer (4) is already closed.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see Laptop (2), Dresser (1), Drawer (1, 3, 5, 6). Drawer (5) is closed. 
+Act: open Drawer (5)
+You open Drawer (5). You see Drawer (3, 5), Chair (1).
+Act: close Drawer (5)
+You close Drawer (5). You see Dresser (1), Drawer (1, 3, 5, 6), Chair (1).
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see Laptop (2), Dresser (1), Drawer (1, 3, 5, 6), Chair (1). Drawer (6) is closed. 
+Act: open Drawer (6)
+You open Drawer (6). You see Dresser (1), Drawer (1, 3, 5, 6), Chair (1).
+Act: close Drawer (6)
+You close Drawer (6). You see Dresser (1), Drawer (1, 3, 5, 6), Chair (1).
+Think: I can't find the white cupboard. I fail to accomplish the goal.
+OK.
+Act: failure

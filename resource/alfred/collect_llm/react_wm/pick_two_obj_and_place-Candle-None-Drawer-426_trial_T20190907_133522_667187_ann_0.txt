@@ -1,0 +1,63 @@
+Your task is to: Place two candle holders with candles inside a drawer.
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1, 2), Toilet (1), ToiletPaperHanger (1), Sink (1), SinkBasin (1), HandTowelHolder (1), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1), Bathtub (1), BathtubBasin (1).
+Think: To solve the task, I need to find and pick up the candle holders, then put them in the drawer.
+OK.
+Think: First, I need to recall location of the candle holders.
+OK.
+Act: recall location of Candle
+You have not seen Candle before.
+Think: Now I need to find the candle holders. The candle holders are more likely to appear on CounterTop (1), or in Drawer (1-8). I can check each place one by one, starting from CounterTop (1), until I find the candle holders.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Towel (2), TowelHolder (1), SprayBottle (1), SoapBottle (2), Drawer (1, 2, 4, 7, 8), CounterTop (1), Cloth (1, 2). 
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Towel (2), TowelHolder (1), SprayBottle (1), SoapBottle (2), Drawer (1, 2, 4, 7, 8), CounterTop (1), Cloth (1, 2). Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see Towel (2), TowelHolder (1), SprayBottle (1), SoapBottle (2), Drawer (1, 2, 4, 7, 8), CounterTop (1), Cloth (1, 2).
+Act: close Drawer (1)
+You close Drawer (1). You see Towel (2), TowelHolder (1), SprayBottle (1), SoapBottle (2), Drawer (1, 2, 4, 7, 8), CounterTop (1), Cloth (1, 2).
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see SprayBottle (1, 2), SoapBottle (2), Drawer (1, 2, 4, 5, 6, 7, 8), CounterTop (1), Cloth (1, 2). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see SprayBottle (1, 2), SoapBottle (2), Drawer (1, 2, 4, 5, 6, 7, 8), CounterTop (1), Cloth (1, 2).
+Act: close Drawer (2)
+You close Drawer (2). You see SprayBottle (1, 2), SoapBottle (2), Drawer (1, 2, 4, 5, 6, 7, 8), CounterTop (1), Cloth (1, 2).
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see SprayBottle (2), SoapBottle (3), Drawer (2, 3, 4, 5, 6), CounterTop (1), Candle (1). Drawer (3) is closed. 
+Think: I find Candle (1). Now, I need to pick it up.
+OK.
+Act: open Drawer (3)
+You open Drawer (3). You see SprayBottle (2), SoapBottle (3), Drawer (2, 3, 4, 5), CounterTop (1), Candle (1).
+Act: pick up Candle (1)
+You pick up Candle (1). You see SprayBottle (2), SoapBottle (3), Drawer (2, 3, 4, 5), CounterTop (1), Candle (1). I am holding Candle (1) now.
+Think: I hold Candle (1). Now, I need to put it in the drawer.
+OK.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Towel (2), TowelHolder (1), SprayBottle (1), SoapBottle (2), Drawer (1, 2, 4, 7, 8), CounterTop (1), Cloth (1, 2), Candle (1). Drawer (1) is closed.  I am holding Candle (1) now.
+Act: open Drawer (1)
+You open Drawer (1). You see Towel (2), TowelHolder (1), SprayBottle (1), SoapBottle (2), Drawer (1, 2, 4, 7, 8), CounterTop (1), Cloth (1, 2), Candle (1). I am holding Candle (1) now.
+Act: put down Candle (1)
+You put Candle (1) on Drawer (1). You see Towel (2), TowelHolder (1), SprayBottle (1), SoapBottle (2), Drawer (1, 2, 4, 7, 8), CounterTop (1), Cloth (1, 2).
+Act: close Drawer (1)
+You close Drawer (1). You see Towel (2), TowelHolder (1), SprayBottle (1), SoapBottle (2), Drawer (1, 2, 4, 7, 8), CounterTop (1), Cloth (1, 2).
+Think: I put Candle (1) in Drawer (1). Now, I need to recall location of the candle holders.
+OK.
+Act: recall location of Candle
+You saw Candle (1) near Drawer (1).
+Think: Candle (1) is in Drawer (1). Now, I need to pick it up.
+OK.
+Act: open Drawer (1)
+You open Drawer (1). You see Towel (2), TowelHolder (1), SprayBottle (1), SoapBottle (2), Drawer (1, 2, 4, 7, 8), CounterTop (1), Cloth (1, 2).
+Act: pick up Cloth (1)
+You pick up Cloth (1). You see Towel (2), TowelHolder (1), SprayBottle (1), SoapBottle (2), Drawer (1, 2, 4, 7, 8), CounterTop (1), Cloth (1, 2). I am holding Cloth (1) now.
+Think: I hold Cloth (1). Now, I need to put it in the drawer.
+OK.
+Act: go to Drawer (1)
+You arrive at Drawer (1). You see Towel (2), SprayBottle (1), Drawer (1, 2, 4, 7, 8), CounterTop (1), Cloth (1, 2), Candle (1). Drawer (1) is open.  I am holding Cloth (1) now.
+Act: put down Cloth (1)
+You put Cloth (1) on Drawer (1). You see Towel (2), SprayBottle (1), Drawer (1, 2, 4, 7, 8), CounterTop (1), Cloth (1, 2), Candle (1).
+Act: close Drawer (1)
+You close Drawer (1). You see Towel (2), SprayBottle (1), Drawer (1, 2, 4, 7, 8), CounterTop (1), Cloth (2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

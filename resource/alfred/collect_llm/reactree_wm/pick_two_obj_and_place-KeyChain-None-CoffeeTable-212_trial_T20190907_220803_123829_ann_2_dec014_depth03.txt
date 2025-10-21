@@ -1,0 +1,13 @@
+Your primary goal is to: Put two keys on a coffee table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up keys, place keys on coffee table, Find and pick up keys away from coffee table, and place keys on coffee table.
+Your task is to: place keys on coffee table
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see TVStand (1, 2), Sofa (1), SideTable (1), Shelf (1, 2, 3, 4), GarbageCan (1), Drawer (1), CoffeeTable (1), ArmChair (1, 2). I am holding KeyChain (3) now.
+Think: I hold KeyChain (3). Now, I need to put it on the coffee table. I can see CoffeeTable (1).
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see Pencil (3), Pen (1, 3), Laptop (1), KeyChain (3), CoffeeTable (1).  I am holding KeyChain (3) now.
+Act: put down KeyChain (3)
+You put KeyChain (3) on CoffeeTable (1). You see Pencil (3), Pen (1, 3), Laptop (1), KeyChain (3), CoffeeTable (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

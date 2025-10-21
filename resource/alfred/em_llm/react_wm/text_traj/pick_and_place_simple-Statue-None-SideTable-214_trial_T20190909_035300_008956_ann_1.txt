@@ -1,0 +1,25 @@
+Your task is to: Put the statue from the coffee table on the end table. 
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1, 2), SideTable (1), Shelf (1, 2), GarbageCan (1), CoffeeTable (1), ArmChair (1).
+Think: To solve the task, I need to find and pick up the statue, then put it on the end table.
+OK.
+Think: First, I need to recall location of the statue.
+OK.
+Act: recall location of Statue
+You have not seen Statue before.
+Think: Now I need to find the statue. The statue is more likely to appear on CoffeeTable (1), SideTable (1), or in Shelf (1-2). I can check each place one by one, starting from CoffeeTable (1), until I find the statue.
+OK.
+Act: go to CoffeeTable (1)
+You arrive at CoffeeTable (1). You see WateringCan (1), Statue (3), RemoteControl (1), Plate (1), Newspaper (2), HousePlant (1), CoffeeTable (1), Box (2). 
+Think: I find Statue (3). Now, I need to pick it up.
+OK.
+Act: pick up Statue (3)
+You pick up Statue (3). You see WateringCan (1), Statue (3), RemoteControl (1), Plate (1), Newspaper (2), HousePlant (1), CoffeeTable (1), Box (2). I am holding Statue (3) now.
+Think: I hold Statue (3). Now, I need to put it on the end table.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Statue (3), Sofa (2), SideTable (1), Lamp (1), KeyChain (1), Curtains (2, 3), CreditCard (1).  I am holding Statue (3) now.
+Act: put down Statue (3)
+You put Statue (3) on SideTable (1). You see Statue (3), Sofa (2), SideTable (1), Lamp (1), KeyChain (1), Curtains (2, 3), CreditCard (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

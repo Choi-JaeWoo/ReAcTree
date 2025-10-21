@@ -1,0 +1,171 @@
+Your primary goal is to: To put a pen in a bowl and move it to side table by the bed.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pen, place pen in bowl, and place bowl on side table.
+Your task is to: place bowl on side table
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1), LaundryHamper (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5), Desk (1), Bed (1).
+Think: I hold Bowl (1). Now, I need to put it on the side table. I can see SideTable (1).
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Book (1), AlarmClock (1, 2, 3). 
+Think: I find SideTable (1). Now, I need to put down Bowl (1) on SideTable (1).
+OK.
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Shelf (1), Pencil (1), Pen (1, 2), KeyChain (2), GarbageCan (1), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Bed (1), AlarmClock (1, 2, 3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Book (1), AlarmClock (1, 2, 3). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Shelf (1), Pencil (1), Pen (1, 2), KeyChain (2), GarbageCan (1), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Bed (1), AlarmClock (1, 2, 3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Book (1), AlarmClock (1, 2, 3). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Shelf (1), Pencil (1), Pen (1, 2), KeyChain (2), GarbageCan (1), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Bed (1), AlarmClock (1, 2, 3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Book (1), AlarmClock (1, 2, 3). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Shelf (1), Pencil (1), Pen (1, 2), KeyChain (2), GarbageCan (1), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Bed (1), AlarmClock (1, 2, 3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Book (1), AlarmClock (1, 2, 3). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Shelf (1), Pencil (1), Pen (1, 2), KeyChain (2), GarbageCan (1), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Bed (1), AlarmClock (1, 2, 3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Book (1), AlarmClock (1, 2, 3). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Shelf (1), Pencil (1), Pen (1, 2), KeyChain (2), GarbageCan (1), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Bed (1), AlarmClock (1, 2, 3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Book (1), AlarmClock (1, 2, 3). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Shelf (1), Pencil (1), Pen (1, 2), KeyChain (2), GarbageCan (1), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Bed (1), AlarmClock (1, 2, 3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Book (1), AlarmClock (1, 2, 3). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Shelf (1), Pencil (1), Pen (1, 2), KeyChain (2), GarbageCan (1), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Bed (1), AlarmClock (1, 2, 3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Book (1), AlarmClock (1, 2, 3). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Shelf (1), Pencil (1), Pen (1, 2), KeyChain (2), GarbageCan (1), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Bed (1), AlarmClock (1, 2, 3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Book (1), AlarmClock (1, 2, 3). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Shelf (1), Pencil (1), Pen (1, 2), KeyChain (2), GarbageCan (1), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Bed (1), AlarmClock (1, 2, 3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Book (1), AlarmClock (1, 2, 3). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Shelf (1), Pencil (1), Pen (1, 2), KeyChain (2), GarbageCan (1), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Bed (1), AlarmClock (1, 2, 3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Book (1), AlarmClock (1, 2, 3). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Shelf (1), Pencil (1), Pen (1, 2), KeyChain (2), GarbageCan (1), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Bed (1), AlarmClock (1, 2, 3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Book (1), AlarmClock (1, 2, 3). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Shelf (1), Pencil (1), Pen (1, 2), KeyChain (2), GarbageCan (1), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Bed (1), AlarmClock (1, 2, 3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Book (1), AlarmClock (1, 2, 3). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Shelf (1), Pencil (1), Pen (1, 2), KeyChain (2), GarbageCan (1), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Bed (1), AlarmClock (1, 2, 3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Book (1), AlarmClock (1, 2, 3). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Shelf (1), Pencil (1), Pen (1, 2), KeyChain (2), GarbageCan (1), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Bed (1), AlarmClock (1, 2, 3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Book (1), AlarmClock (1, 2, 3). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Shelf (1), Pencil (1), Pen (1, 2), KeyChain (2), GarbageCan (1), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Bed (1), AlarmClock (1, 2, 3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Book (1), AlarmClock (1, 2, 3). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Shelf (1), Pencil (1), Pen (1, 2), KeyChain (2), GarbageCan (1), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Bed (1), AlarmClock (1, 2, 3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Book (1), AlarmClock (1, 2, 3). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Shelf (1), Pencil (1), Pen (1, 2), KeyChain (2), GarbageCan (1), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Bed (1), AlarmClock (1, 2, 3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Book (1), AlarmClock (1, 2, 3). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Shelf (1), Pencil (1), Pen (1, 2), KeyChain (2), GarbageCan (1), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Bed (1), AlarmClock (1, 2, 3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Book (1), AlarmClock (1, 2, 3). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Shelf (1), Pencil (1), Pen (1, 2), KeyChain (2), GarbageCan (1), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Bed (1), AlarmClock (1, 2, 3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Book (1), AlarmClock (1, 2, 3). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Shelf (1), Pencil (1), Pen (1, 2), KeyChain (2), GarbageCan (1), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Bed (1), AlarmClock (1, 2, 3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Book (1), AlarmClock (1, 2, 3). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Shelf (1), Pencil (1), Pen (1, 2), KeyChain (2), GarbageCan (1), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Bed (1), AlarmClock (1, 2, 3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Book (1), AlarmClock (1, 2, 3). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Shelf (1), Pencil (1), Pen (1, 2), KeyChain (2), GarbageCan (1), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Bed (1), AlarmClock (1, 2, 3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Book (1), AlarmClock (1, 2, 3). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Shelf (1), Pencil (1), Pen (1, 2), KeyChain (2), GarbageCan (1), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Bed (1), AlarmClock (1, 2, 3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Book (1), AlarmClock (1, 2, 3). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Shelf (1), Pencil (1), Pen (1, 2), KeyChain (2), GarbageCan (1), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Bed (1), AlarmClock (1, 2, 3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Book (1), AlarmClock (1, 2, 3). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Shelf (1), Pencil (1), Pen (1, 2), KeyChain (2), GarbageCan (1), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Bed (1), AlarmClock (1, 2, 3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Book (1), AlarmClock (1, 2, 3). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Shelf (1), Pencil (1), Pen (1, 2), KeyChain (2), GarbageCan (1), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Bed (1), AlarmClock (1, 2, 3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Book (1), AlarmClock (1, 2, 3). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Shelf (1), Pencil (1), Pen (1, 2), KeyChain (2), GarbageCan (1), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Bed (1), AlarmClock (1, 2, 3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Book (1), AlarmClock (1, 2, 3). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Shelf (1), Pencil (1), Pen (1, 2), KeyChain (2), GarbageCan (1), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Bed (1), AlarmClock (1, 2, 3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Book (1), AlarmClock (1, 2, 3). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Shelf (1), Pencil (1), Pen (1, 2), KeyChain (2), GarbageCan (1), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Bed (1), AlarmClock (1, 2, 3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Book (1), AlarmClock (1, 2, 3). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Shelf (1), Pencil (1), Pen (1, 2), KeyChain (2), GarbageCan (1), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Bed (1), AlarmClock (1, 2, 3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Book (1), AlarmClock (1, 2, 3). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Shelf (1), Pencil (1), Pen (1, 2), KeyChain (2), GarbageCan (1), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Bed (1), AlarmClock (1, 2, 3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Book (1), AlarmClock (1, 2, 3). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Shelf (1), Pencil (1), Pen (1, 2), KeyChain (2), GarbageCan (1), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Bed (1), AlarmClock (1, 2, 3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Book (1), AlarmClock (1, 2, 3). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Shelf (1), Pencil (1), Pen (1, 2), KeyChain (2), GarbageCan (1), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Bed (1), AlarmClock (1, 2, 3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Book (1), AlarmClock (1, 2, 3). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Shelf (1), Pencil (1), Pen (1, 2), KeyChain (2), GarbageCan (1), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Bed (1), AlarmClock (1, 2, 3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Book (1), AlarmClock (1, 2, 3). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Shelf (1), Pencil (1), Pen (1, 2), KeyChain (2), GarbageCan (1), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Bed (1), AlarmClock (1, 2, 3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Book (1), AlarmClock (1, 2, 3). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Shelf (1), Pencil (1), Pen (1, 2), KeyChain (2), GarbageCan (1), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Bed (1), AlarmClock (1, 2, 3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Book (1), AlarmClock (1, 2, 3). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Shelf (1), Pencil (1), Pen (1, 2), KeyChain (2), GarbageCan (1), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Bed (1), AlarmClock (1, 2, 3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Book (1), AlarmClock (1, 2, 3). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Shelf (1), Pencil (1), Pen (1, 2), KeyChain (2), GarbageCan (1), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Bed (1), AlarmClock (1, 2, 3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Book (1), AlarmClock (1, 2, 3). 
+Act: go to Bowl (1)
+You arrive at Bowl (1). You see Shelf (1), Pencil (1), Pen (1, 2), KeyChain (2), GarbageCan (1), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Bed (1), AlarmClock (1, 2, 3). 
+Act: go to Desk (1)
+You arrive at Desk (1). You see Pen (1), Mug (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (2), Chair (1), CD (1), Bowl (1), Book (1), AlarmClock (1, 2, 3). 
+Max decisions

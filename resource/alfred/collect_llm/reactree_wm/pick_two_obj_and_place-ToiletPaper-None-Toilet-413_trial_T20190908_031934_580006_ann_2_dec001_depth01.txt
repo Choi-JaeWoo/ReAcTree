@@ -1,0 +1,7 @@
+Your task is to: To move a tube and roll of toilet paper to the back of the toilet. 
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1), Toilet (1), ToiletPaperHanger (1), SinkBasin (1, 2), HandTowelHolder (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), CounterTop (1), Cabinet (1, 2, 3, 4), Bathtub (1), BathtubBasin (1).
+Think: Since I’m not holding tube and roll of toilet paper, I need to accomplish 2 subgoals sequentially to solve the task. Find and pick up tube and roll of toilet paper, and place tube and roll of toilet paper on toilet.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up tube and roll of toilet paper, place tube and roll of toilet paper on toilet

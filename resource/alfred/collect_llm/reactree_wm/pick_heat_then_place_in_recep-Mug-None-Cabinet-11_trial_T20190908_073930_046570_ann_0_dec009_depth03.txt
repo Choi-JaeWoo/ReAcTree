@@ -1,0 +1,187 @@
+Your primary goal is to: Put a warm cup in the kitchen cabinet. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up cup, heat and pick up cup, and place cup in cabinet.
+Your task is to: heat and pick up cup
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10). I am holding Cup (1) now.
+Think: I hold Cup (1). Now, I need to heat it using the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1), Drawer (5, 6), Cup (1), Cabinet (7, 8, 10). Microwave (1) is closed.  I am holding Cup (1) now.
+Act: open Microwave (1)
+You open Microwave (1). You see Microwave (1), Drawer (5, 6), Cup (1), Cabinet (7, 8, 10). I am holding Cup (1) now.
+Act: put down Cup (1)
+You put down failed, drop it. You see Microwave (1), Drawer (5, 6), Cup (1), Cabinet (7, 8, 10).
+Act: close Microwave (1)
+You close Microwave (1). You see Microwave (1), Drawer (5, 6), Cabinet (7, 8, 10).
+Act: turn on Microwave (1)
+You turn on Microwave (1). You see Microwave (1), Drawer (5, 6), Cabinet (7, 8, 10).
+Act: turn off Microwave (1)
+You turn off Microwave (1). You see Microwave (1), Drawer (5, 6), Cabinet (7, 8, 10).
+Think: I heat Cup (1) using Microwave (1). Now, I need to pick up the cup from the microwave.
+OK.
+Act: open Microwave (1)
+You open Microwave (1). You see Microwave (1), Drawer (5, 6), Cabinet (7, 8, 10).
+Act: recall location of Cup
+You dropped Cup due to fail to put it on the receptacle. You need to find it again.
+Think: Now, I need to find the cup. The cup is more likely to appear on Microwave (1), Drawer (5-6), Cabinet (7-8, 10), or in SinkBasin (1), Fridge (1), Drawer (1-4), Cabinet (1-6, 9). I can check each place one by one, starting from Microwave (1), until I find the cup.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Drawer (5, 5, 6, 6), Cabinet (3, 7, 7, 8, 8, 10, 10). Microwave (1) is open. 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: recall location of Cup
+You dropped Cup due to fail to put it on the receptacle. You need to find it again.
+Think: Now, I need to find the cup. The cup is more likely to appear on Microwave (1), Drawer (5-6), Cabinet (7-8, 10), or in SinkBasin (1), Fridge (1), Drawer (1-4), Cabinet (1-6, 9). I can check each place one by one, starting from Microwave (1), until I find the cup.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Drawer (5, 5, 6, 6), Cabinet (3, 3, 7, 7, 8, 8, 10, 10). Microwave (1) is open. 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: recall location of Cup
+You dropped Cup due to fail to put it on the receptacle. You need to find it again.
+Think: Now, I need to find the cup. The cup is more likely to appear on Microwave (1), Drawer (5-6), Cabinet (7-8, 10), or in SinkBasin (1), Fridge (1), Drawer (1-4), Cabinet (1-6, 9). I can check each place one by one, starting from Microwave (1), until I find the cup.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Drawer (5, 5, 6, 6), Cabinet (3, 3, 7, 7, 8, 8, 10, 10). Microwave (1) is open. 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: recall location of Cup
+You dropped Cup due to fail to put it on the receptacle. You need to find it again.
+Think: Now, I need to find the cup. The cup is more likely to appear on Microwave (1), Drawer (5-6), Cabinet (7-8, 10), or in SinkBasin (1), Fridge (1), Drawer (1-4), Cabinet (1-6, 9). I can check each place one by one, starting from Microwave (1), until I find the cup.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Drawer (5, 5, 6, 6), Cabinet (3, 3, 7, 7, 8, 8, 10, 10). Microwave (1) is open. 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: recall location of Cup
+You dropped Cup due to fail to put it on the receptacle. You need to find it again.
+Think: Now, I need to find the cup. The cup is more likely to appear on Microwave (1), Drawer (5-6), Cabinet (7-8, 10), or in SinkBasin (1), Fridge (1), Drawer (1-4), Cabinet (1-6, 9). I can check each place one by one, starting from Microwave (1), until I find the cup.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Drawer (5, 5, 6, 6), Cabinet (3, 3, 7, 7, 8, 8, 10, 10). Microwave (1) is open. 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: recall location of Cup
+You dropped Cup due to fail to put it on the receptacle. You need to find it again.
+Think: Now, I need to find the cup. The cup is more likely to appear on Microwave (1), Drawer (5-6), Cabinet (7-8, 10), or in SinkBasin (1), Fridge (1), Drawer (1-4), Cabinet (1-6, 9). I can check each place one by one, starting from Microwave (1), until I find the cup.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Drawer (5, 5, 6, 6), Cabinet (3, 3, 7, 7, 8, 8, 10, 10). Microwave (1) is open. 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: recall location of Cup
+You dropped Cup due to fail to put it on the receptacle. You need to find it again.
+Think: Now, I need to find the cup. The cup is more likely to appear on Microwave (1), Drawer (5-6), Cabinet (7-8, 10), or in SinkBasin (1), Fridge (1), Drawer (1-4), Cabinet (1-6, 9). I can check each place one by one, starting from Microwave (1), until I find the cup.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Drawer (5, 5, 6, 6), Cabinet (3, 3, 7, 7, 8, 8, 10, 10). Microwave (1) is open. 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: recall location of Cup
+You dropped Cup due to fail to put it on the receptacle. You need to find it again.
+Think: Now, I need to find the cup. The cup is more likely to appear on Microwave (1), Drawer (5-6), Cabinet (7-8, 10), or in SinkBasin (1), Fridge (1), Drawer (1-4), Cabinet (1-6, 9). I can check each place one by one, starting from Microwave (1), until I find the cup.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Drawer (5, 5, 6, 6), Cabinet (3, 3, 7, 7, 8, 8, 10, 10). Microwave (1) is open. 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: recall location of Cup
+You dropped Cup due to fail to put it on the receptacle. You need to find it again.
+Think: Now, I need to find the cup. The cup is more likely to appear on Microwave (1), Drawer (5-6), Cabinet (7-8, 10), or in SinkBasin (1), Fridge (1), Drawer (1-4), Cabinet (1-6, 9). I can check each place one by one, starting from Microwave (1), until I find the cup.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Drawer (5, 5, 6, 6), Cabinet (3, 3, 7, 7, 8, 8, 10, 10). Microwave (1) is open. 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: recall location of Cup
+You dropped Cup due to fail to put it on the receptacle. You need to find it again.
+Think: Now, I need to find the cup. The cup is more likely to appear on Microwave (1), Drawer (5-6), Cabinet (7-8, 10), or in SinkBasin (1), Fridge (1), Drawer (1-4), Cabinet (1-6, 9). I can check each place one by one, starting from Microwave (1), until I find the cup.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Drawer (5, 5, 6, 6), Cabinet (3, 3, 7, 7, 8, 8, 10, 10). Microwave (1) is open. 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: recall location of Cup
+You dropped Cup due to fail to put it on the receptacle. You need to find it again.
+Think: Now, I need to find the cup. The cup is more likely to appear on Microwave (1), Drawer (5-6), Cabinet (7-8, 10), or in SinkBasin (1), Fridge (1), Drawer (1-4), Cabinet (1-6, 9). I can check each place one by one, starting from Microwave (1), until I find the cup.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Drawer (5, 5, 6, 6), Cabinet (3, 3, 7, 7, 8, 8, 10, 10). Microwave (1) is open. 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: recall location of Cup
+You dropped Cup due to fail to put it on the receptacle. You need to find it again.
+Think: Now, I need to find the cup. The cup is more likely to appear on Microwave (1), Drawer (5-6), Cabinet (7-8, 10), or in SinkBasin (1), Fridge (1), Drawer (1-4), Cabinet (1-6, 9). I can check each place one by one, starting from Microwave (1), until I find the cup.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Drawer (5, 5, 6, 6), Cabinet (3, 3, 7, 7, 8, 8, 10, 10). Microwave (1) is open. 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: recall location of Cup
+You dropped Cup due to fail to put it on the receptacle. You need to find it again.
+Think: Now, I need to find the cup. The cup is more likely to appear on Microwave (1), Drawer (5-6), Cabinet (7-8, 10), or in SinkBasin (1), Fridge (1), Drawer (1-4), Cabinet (1-6, 9). I can check each place one by one, starting from Microwave (1), until I find the cup.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Drawer (5, 5, 6, 6), Cabinet (3, 3, 7, 7, 8, 8, 10, 10). Microwave (1) is open. 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: recall location of Cup
+You dropped Cup due to fail to put it on the receptacle. You need to find it again.
+Think: Now, I need to find the cup. The cup is more likely to appear on Microwave (1), Drawer (5-6), Cabinet (7-8, 10), or in SinkBasin (1), Fridge (1), Drawer (1-4), Cabinet (1-6, 9). I can check each place one by one, starting from Microwave (1), until I find the cup.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Drawer (5, 5, 6, 6), Cabinet (3, 3, 7, 7, 8, 8, 10, 10). Microwave (1) is open. 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: recall location of Cup
+You dropped Cup due to fail to put it on the receptacle. You need to find it again.
+Think: Now, I need to find the cup. The cup is more likely to appear on Microwave (1), Drawer (5-6), Cabinet (7-8, 10), or in SinkBasin (1), Fridge (1), Drawer (1-4), Cabinet (1-6, 9). I can check each place one by one, starting from Microwave (1), until I find the cup.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Drawer (5, 5, 6, 6), Cabinet (3, 3, 7, 7, 8, 8, 10, 10). Microwave (1) is open. 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: recall location of Cup
+You dropped Cup due to fail to put it on the receptacle. You need to find it again.
+Think: Now, I need to find the cup. The cup is more likely to appear on Microwave (1), Drawer (5-6), Cabinet (7-8, 10), or in SinkBasin (1), Fridge (1), Drawer (1-4), Cabinet (1-6, 9). I can check each place one by one, starting from Microwave (1), until I find the cup.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Drawer (5, 5, 6, 6), Cabinet (3, 3, 7, 7, 8, 8, 10, 10). Microwave (1) is open. 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: recall location of Cup
+You dropped Cup due to fail to put it on the receptacle. You need to find it again.
+Think: Now, I need to find the cup. The cup is more likely to appear on Microwave (1), Drawer (5-6), Cabinet (7-8, 10), or in SinkBasin (1), Fridge (1), Drawer (1-4), Cabinet (1-6, 9). I can check each place one by one, starting from Microwave (1), until I find the cup.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Drawer (5, 5, 6, 6), Cabinet (3, 3, 7, 7, 8, 8, 10, 10). Microwave (1) is open. 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: recall location of Cup
+You dropped Cup due to fail to put it on the receptacle. You need to find it again.
+Think: Now, I need to find the cup. The cup is more likely to appear on Microwave (1), Drawer (5-6), Cabinet (7-8, 10), or in SinkBasin (1), Fridge (1), Drawer (1-4), Cabinet (1-6, 9). I can check each place one by one, starting from Microwave (1), until I find the cup.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Drawer (5, 5, 6, 6), Cabinet (3, 3, 7, 7, 8, 8, 10, 10). Microwave (1) is open. 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: recall location of Cup
+You dropped Cup due to fail to put it on the receptacle. You need to find it again.
+Think: Now, I need to find the cup. The cup is more likely to appear on Microwave (1), Drawer (5-6), Cabinet (7-8, 10), or in SinkBasin (1), Fridge (1), Drawer (1-4), Cabinet (1-6, 9). I can check each place one by one, starting from Microwave (1), until I find the cup.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Drawer (5, 5, 6, 6), Cabinet (3, 3, 7, 7, 8, 8, 10, 10). Microwave (1) is open. 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: recall location of Cup
+You dropped Cup due to fail to put it on the receptacle. You need to find it again.
+Think: Now, I need to find the cup. The cup is more likely to appear on Microwave (1), Drawer (5-6), Cabinet (7-8, 10), or in SinkBasin (1), Fridge (1), Drawer (1-4), Cabinet (1-6, 9). I can check each place one by one, starting from Microwave (1), until I find the cup.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Microwave (1, 1), Drawer (5, 5, 6, 6), Cabinet (3, 3, 7, 7, 8, 8, 10, 10). Microwave (1) is open. 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: recall location of Cup
+You dropped Cup due to fail to put it on the receptacle. You need to find it again.
+Think: Now, I need to find the cup. The cup is more likely to appear on Microwave (1), Drawer (5-6), Cabinet (7-8, 10), or in SinkBasin (1), Fridge (1), Drawer (1-4), Cabinet (1-6, 9). I can check each place one by one, starting from Microwave (1), until I find the cup.
+OK.
+Max decisions

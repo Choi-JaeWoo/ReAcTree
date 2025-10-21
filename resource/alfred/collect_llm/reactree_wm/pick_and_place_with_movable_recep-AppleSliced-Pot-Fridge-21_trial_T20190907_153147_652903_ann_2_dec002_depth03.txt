@@ -1,0 +1,49 @@
+Your primary goal is to: Put a pan, with an apple slice next to a butter knife inside, into the fridge.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pan, place pan on countertop, find and pick up knife, slice and pick up apple, and place apple on pan near fridge.
+Your task is to: find and pick up pan
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1), DiningTable (1, 2, 3), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: First, I need to recall location of the pan.
+OK.
+Act: recall location of Pan
+You have not seen Pan before.
+Think: Now, I need to find the pan. The pan is more likely to appear on DiningTable (1-3), CounterTop (1), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1). I can check each place one by one, starting from DiningTable (1), until I find the pan.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Plate (1), DiningTable (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Toaster (1), Lettuce (1), Bread (1, 2). 
+Act: go to DiningTable (3)
+You arrive at DiningTable (3). You see PepperShaker (2), Microwave (1), Egg (1), DiningTable (3), Apple (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Tomato (1), Spoon (1), Spatula (1), Sink (1), SinkBasin (1), SideTable (1), PepperShaker (3), Faucet (1), Drawer (1), CounterTop (1), Cabinet (2, 4). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Knife (2), Faucet (1), Drawer (1), CounterTop (1), CoffeeMachine (1), Cabinet (2, 4). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1). Fridge (1) is closed. 
+Act: open Fridge (1)
+You open Fridge (1). You see Fridge (1), Bowl (1).
+Act: close Fridge (1)
+You close Fridge (1). You see Fridge (1).
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see PepperShaker (2), Microwave (1), GarbageCan (1), Egg (1), DiningTable (3), Apple (1). Microwave (1) is closed. 
+Act: open Microwave (1)
+You open Microwave (1). You see Potato (1, 2), Microwave (1), GarbageCan (1), DiningTable (3).
+Act: close Microwave (1)
+You close Microwave (1). You see PepperShaker (2), Microwave (1), GarbageCan (1), Egg (1), DiningTable (3), Apple (1).
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see PepperShaker (1), Cabinet (1).
+Act: close Cabinet (1)
+You close Cabinet (1). You see Cabinet (1).
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Spoon (1), Spatula (1), Sink (1), SinkBasin (1), PepperShaker (3), Faucet (1), Drawer (1), CounterTop (1), Cabinet (2, 4). Cabinet (2) is closed. 
+Act: open Cabinet (2)
+You open Cabinet (2). You see Spoon (1), Spatula (1), SinkBasin (1), SideTable (1), Pan (1), Mug (1), Drawer (1), CounterTop (1), Cabinet (2, 4).
+Think: I find Pan (1). Now, I need to pick it up.
+OK.
+Act: pick up Pan (1)
+You pick up Pan (1). You see Spoon (1), Spatula (1), SinkBasin (1), SideTable (1), Pan (1), Mug (1), Drawer (1), CounterTop (1), Cabinet (2, 4). I am holding Pan (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

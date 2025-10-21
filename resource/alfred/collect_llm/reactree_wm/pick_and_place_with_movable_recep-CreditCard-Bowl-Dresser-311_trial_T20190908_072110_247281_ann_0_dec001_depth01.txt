@@ -1,0 +1,7 @@
+Your task is to: Put a glass bowl with a credit card in it on a dresser.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1), LaundryHamper (1), GarbageCan (1), Dresser (1), Drawer (1, 2), DiningTable (1), CounterTop (1), Bed (1), ArmChair (1, 2).
+Think: Since I’m not holding a glass bowl, I need to accomplish 3 subgoals sequentially to solve the task. Find and pick up glass bowl, put credit card in glass bowl, and place glass bowl on dresser.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up glass bowl, put credit card in glass bowl, place glass bowl on dresser

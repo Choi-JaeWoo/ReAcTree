@@ -1,0 +1,53 @@
+Your task is to: Put a bowl with a cell phone in it on the desk.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1), LaundryHamper (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5), Desk (1), Bed (1).
+Think: To solve the task, I need to find and pick up the bowl, then put it on the desk. I need to pick up the cell phone from the bowl, then put it in the bowl. And I need to pick up the bowl from the desk, then put it on the desk.
+OK.
+Think: First, I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: Now I need to find the bowl. The bowl is more likely to appear on Desk (1), or in Dresser (1), Drawer (1-5). I can check each place one by one, starting from Desk (1), until I find the bowl.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Mug (1), Laptop (1), KeyChain (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1, 2), Chair (1), CD (1), Book (1), AlarmClock (1, 2). 
+Think: I find Bowl (1). Now, I need to pick it up.
+OK.
+Act: pick up Mug (1)
+You pick up Mug (1). You see Mug (1), Laptop (1), KeyChain (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1, 2), Chair (1), CD (1), Book (1), AlarmClock (1, 2). I am holding Mug (1) now.
+Think: I hold Mug (1). Now, I need to put it on the desk.
+OK.
+Act: put down Mug (1)
+You put down failed, drop it. You see Mug (1), Laptop (1), KeyChain (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1, 2), Chair (1), CD (1), Book (1), AlarmClock (1, 2).
+Think: Now I need to pick up Bowl (1).
+OK.
+Act: pick up Mug (1)
+You pick up Mug (1). You see Mug (1), Laptop (1), KeyChain (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1, 2), Chair (1), CD (1), Book (1), AlarmClock (1, 2). I am holding Mug (1) now.
+Think: I hold Mug (1). Now, I need to recall location of the cell phone.
+OK.
+Act: recall location of CellPhone
+You have not seen CellPhone before.
+Think: Now, I need to find the cell phone. The cell phone is more likely to appear on Desk (1), or in Dresser (1), Drawer (1-5). I can check each place one by one, starting from Desk (1), until I find the cell phone.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Mug (1), Laptop (1), KeyChain (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1, 2), Chair (1), CD (1), Book (1), AlarmClock (1, 2).  I am holding Mug (1) now.
+Think: I find CellPhone (1). Now, I need to pick it up.
+OK.
+Act: pick up Mug (1)
+You are currently holding Mug (1). I am holding Mug (1) now.
+Think: I hold Mug (1). Now, I need to put it in the bowl.
+OK.
+Act: go to Desk (1)
+You arrive at Desk (1). You see Mug (1), Laptop (1), KeyChain (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1, 2), Chair (1), CD (1), Book (1), AlarmClock (1, 2).  I am holding Mug (1) now.
+Act: put down Mug (1)
+You put Mug (1) on Desk (1). You see Mug (1), Laptop (1), KeyChain (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1, 2), Chair (1), CD (1), Book (1), AlarmClock (1, 2).
+Think: I put Mug (1) in Desk (1). Now, I need to pick up the bowl from the desk.
+OK.
+Act: pick up Mug (1)
+You pick up Mug (1). You see Mug (1), Laptop (1), KeyChain (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1, 2), Chair (1), CD (1), Book (1), AlarmClock (1, 2). I am holding Mug (1) now.
+Think: I pick up Mug (1) from Desk (1). Now, I need to put it on the desk.
+OK.
+Act: put down Mug (1)
+You put down failed, drop it. You see Mug (1), Laptop (1), KeyChain (1), GarbageCan (1), Drawer (2, 3), Desk (1), CreditCard (1, 2), Chair (1), CD (1), Book (1), AlarmClock (1, 2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,13 @@
+Your primary goal is to: Place a slice of microwaved tomato into the trash can.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up tomato, heat and pick up tomato, find and pick up knife, and place tomato in trash can.
+Your task is to: place tomato in trash can
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12). I am holding Potato (1) now.
+Think: I hold Potato (1). Now, I need to put it in the trash can. I can see GarbageCan (1).
+OK.
+Act: go to GarbageCan (1)
+You arrive at GarbageCan (1). You see Potato (1), GarbageCan (1), Chair (1).  I am holding Potato (1) now.
+Act: put down Potato (1)
+You put Potato (1) on GarbageCan (1). You see Potato (1), GarbageCan (1), Chair (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

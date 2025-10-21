@@ -1,0 +1,185 @@
+Your primary goal is to: Put a pot in the fridge with an apple in it.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pot, put apple in pot, and place pot in fridge.
+Your task is to: put apple in pot
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10). I am holding Pot (1) now.
+Think: I hold Pot (1). Now, I need to recall location of the apple.
+OK.
+Act: recall location of Apple
+You have not seen Apple before.
+Think: Now, I need to find the apple. The apple is more likely to appear on CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-10). I can check each place one by one, starting from CounterTop (1), until I find the apple.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see SinkBasin (1), Pot (1), Plate (2), Faucet (1), Egg (2), Drawer (1), CounterTop (1).  I am holding Pot (1) now.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Pot (1), Fridge (1), DiningTable (2), CounterTop (2), CoffeeMachine (1).  I am holding Pot (1) now.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), Pot (1), Plate (2), Microwave (1), Faucet (1), Drawer (1, 2), CounterTop (1), Cabinet (1, 6).  I am holding Pot (1) now.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Pot (1), Fridge (1). Fridge (1) is closed.  I am holding Pot (1) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Tomato (2, 3), Pot (1), Plate (3), Fridge (1). I am holding Pot (1) now.
+Act: close Fridge (1)
+You close Fridge (1). You see Pot (1), Fridge (1). I am holding Pot (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Pot (1), Plate (2), Microwave (1). Microwave (1) is closed.  I am holding Pot (1) now.
+Act: open Microwave (1)
+The Microwave (1) is open failed. I am holding Pot (1) now.
+Act: close Microwave (1)
+The Microwave (1) is already closed. I am holding Pot (1) now.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Sink (1), SinkBasin (1), Pot (1), Knife (2), Egg (3), Drawer (1, 3), CounterTop (1), Cabinet (1, 4, 5, 7). Cabinet (1) is closed.  I am holding Pot (1) now.
+Act: open Cabinet (1)
+You open Cabinet (1). You see Pot (1), Knife (2), Egg (3), Drawer (1, 3), CounterTop (1), Cabinet (1, 4, 5, 7). I am holding Pot (1) now.
+Act: close Cabinet (1)
+You close Cabinet (1). You see Pot (1), Knife (2), Egg (3), Drawer (1, 3), CounterTop (1), Cabinet (1, 4, 5, 7). I am holding Pot (1) now.
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see SoapBottle (1), Pot (1), Cabinet (2, 9). Cabinet (2) is closed.  I am holding Pot (1) now.
+Act: open Cabinet (2)
+The Cabinet (2) is open failed. I am holding Pot (1) now.
+Act: close Cabinet (2)
+The Cabinet (2) is already closed. I am holding Pot (1) now.
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see Pot (1), Cabinet (3, 10). Cabinet (3) is closed.  I am holding Pot (1) now.
+Act: open Cabinet (3)
+You open Cabinet (3). You see Pot (1), Cabinet (3, 10). I am holding Pot (1) now.
+Act: close Cabinet (3)
+The Cabinet (3) is already closed. I am holding Pot (1) now.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see Sink (1), SinkBasin (1), Pot (1), Knife (2), Egg (3), Drawer (1, 3), CounterTop (1), Cabinet (1, 4, 5, 7). Cabinet (4) is closed.  I am holding Pot (1) now.
+Act: open Cabinet (4)
+You open Cabinet (4). You see SinkBasin (1), Pot (1), Knife (2), Egg (3), Drawer (1, 3), CounterTop (1), Cabinet (1, 4, 5, 7). I am holding Pot (1) now.
+Act: close Cabinet (4)
+You close Cabinet (4). You see SinkBasin (1), Pot (1), Knife (2), Egg (3), Drawer (1, 3), CounterTop (1), Cabinet (1, 4, 5, 7). I am holding Pot (1) now.
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Pot (1), GarbageCan (1), Drawer (1, 3), CounterTop (1), Cabinet (1, 5). Cabinet (5) is closed.  I am holding Pot (1) now.
+Act: open Cabinet (5)
+You open Cabinet (5). You see Pot (1), GarbageCan (1), Drawer (1, 3), CounterTop (1), Cabinet (1, 5). I am holding Pot (1) now.
+Act: close Cabinet (5)
+You close Cabinet (5). You see Pot (1), GarbageCan (1), Drawer (1, 3), CounterTop (1), Cabinet (1, 5). I am holding Pot (1) now.
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Sink (1), SinkBasin (1), Pot (1), Plate (2), Microwave (1), Knife (2), Egg (2), Drawer (2), CounterTop (1), Cabinet (4, 7). Cabinet (6) is closed.  I am holding Pot (1) now.
+Act: open Cabinet (6)
+You open Cabinet (6). You see Pot (1), Drawer (2), CounterTop (1), Cabinet (4, 6, 7). I am holding Pot (1) now.
+Act: close Cabinet (6)
+You close Cabinet (6). You see Pot (1), Drawer (2), CounterTop (1), Cabinet (4, 6, 7). I am holding Pot (1) now.
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Sink (1), SinkBasin (1), Pot (1), Plate (2), Microwave (1), Knife (2), Egg (2, 3), Drawer (2), CounterTop (1), Cabinet (4, 6, 7). Cabinet (7) is closed.  I am holding Pot (1) now.
+Act: open Cabinet (7)
+You open Cabinet (7). You see Pot (1), Drawer (2), CounterTop (1), Cabinet (1, 4, 6, 7). I am holding Pot (1) now.
+Act: close Cabinet (7)
+You close Cabinet (7). You see Pot (1), Drawer (2), CounterTop (1), Cabinet (1, 4, 6, 7). I am holding Pot (1) now.
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Pot (1), Cabinet (8). Cabinet (8) is closed.  I am holding Pot (1) now.
+Act: open Cabinet (8)
+You open Cabinet (8). You see Pot (1), Cabinet (8, 10). I am holding Pot (1) now.
+Act: close Cabinet (8)
+You close Cabinet (8). You see Pot (1), Cabinet (8, 10). I am holding Pot (1) now.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Pot (1), Cabinet (2, 9). Cabinet (9) is closed.  I am holding Pot (1) now.
+Act: open Cabinet (9)
+The Cabinet (9) is open failed. I am holding Pot (1) now.
+Act: close Cabinet (9)
+The Cabinet (9) is already closed. I am holding Pot (1) now.
+Act: go to Cabinet (10)
+You arrive at Cabinet (10). You see Pot (1), Cabinet (3, 10), Bowl (1). Cabinet (10) is closed.  I am holding Pot (1) now.
+Act: open Cabinet (10)
+You open Cabinet (10). You see Pot (1), Cabinet (3, 10), Bowl (1). I am holding Pot (1) now.
+Act: close Cabinet (10)
+The Cabinet (10) is already closed. I am holding Pot (1) now.
+Think: I cannot find the apple. Now, I need to recall location of the apple.
+OK.
+Act: recall location of Apple
+You have not seen Apple before.
+Think: Now, I need to find the apple. The apple is more likely to appear on CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-10). I can check each place one by one, starting from CounterTop (1), until I find the apple.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see SinkBasin (1), Pot (1), Plate (2), Faucet (1), Egg (2), Drawer (1), CounterTop (1).  I am holding Pot (1) now.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Pot (1), Fridge (1), DiningTable (2), CounterTop (2), CoffeeMachine (1).  I am holding Pot (1) now.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), Pot (1), Plate (2), Microwave (1), Faucet (1), Drawer (1, 2), CounterTop (1), Cabinet (1, 6).  I am holding Pot (1) now.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Pot (1), Fridge (1). Fridge (1) is closed.  I am holding Pot (1) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Tomato (2, 3), Pot (1), Plate (3), Fridge (1). I am holding Pot (1) now.
+Act: close Fridge (1)
+You close Fridge (1). You see Pot (1), Fridge (1). I am holding Pot (1) now.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Pot (1), Plate (2), Microwave (1). Microwave (1) is closed.  I am holding Pot (1) now.
+Act: open Microwave (1)
+The Microwave (1) is open failed. I am holding Pot (1) now.
+Act: close Microwave (1)
+The Microwave (1) is already closed. I am holding Pot (1) now.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Sink (1), SinkBasin (1), Pot (1), Knife (2), Egg (3), Drawer (1, 3), CounterTop (1), Cabinet (1, 4, 5, 7). Cabinet (1) is closed.  I am holding Pot (1) now.
+Act: open Cabinet (1)
+You open Cabinet (1). You see Pot (1), Knife (2), Egg (3), Drawer (1, 3), CounterTop (1), Cabinet (1, 4, 5, 7). I am holding Pot (1) now.
+Act: close Cabinet (1)
+You close Cabinet (1). You see Pot (1), Knife (2), Egg (3), Drawer (1, 3), CounterTop (1), Cabinet (1, 4, 5, 7). I am holding Pot (1) now.
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see SoapBottle (1), Pot (1), Cabinet (2, 9). Cabinet (2) is closed.  I am holding Pot (1) now.
+Act: open Cabinet (2)
+The Cabinet (2) is open failed. I am holding Pot (1) now.
+Act: close Cabinet (2)
+The Cabinet (2) is already closed. I am holding Pot (1) now.
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see Pot (1), Cabinet (3, 10). Cabinet (3) is closed.  I am holding Pot (1) now.
+Act: open Cabinet (3)
+You open Cabinet (3). You see Pot (1), Cabinet (3, 10). I am holding Pot (1) now.
+Act: close Cabinet (3)
+The Cabinet (3) is already closed. I am holding Pot (1) now.
+Act: go to Cabinet (4)
+You arrive at Cabinet (4). You see Sink (1), SinkBasin (1), Pot (1), Knife (2), Egg (3), Drawer (1, 3), CounterTop (1), Cabinet (1, 4, 5, 7). Cabinet (4) is closed.  I am holding Pot (1) now.
+Act: open Cabinet (4)
+You open Cabinet (4). You see SinkBasin (1), Pot (1), Knife (2), Egg (3), Drawer (1, 3), CounterTop (1), Cabinet (1, 4, 5, 7). I am holding Pot (1) now.
+Act: close Cabinet (4)
+You close Cabinet (4). You see SinkBasin (1), Pot (1), Knife (2), Egg (3), Drawer (1, 3), CounterTop (1), Cabinet (1, 4, 5, 7). I am holding Pot (1) now.
+Act: go to Cabinet (5)
+You arrive at Cabinet (5). You see Pot (1), GarbageCan (1), Drawer (1, 3), CounterTop (1), Cabinet (1, 5). Cabinet (5) is closed.  I am holding Pot (1) now.
+Act: open Cabinet (5)
+You open Cabinet (5). You see Pot (1), GarbageCan (1), Drawer (1, 3), CounterTop (1), Cabinet (1, 5). I am holding Pot (1) now.
+Act: close Cabinet (5)
+You close Cabinet (5). You see Pot (1), GarbageCan (1), Drawer (1, 3), CounterTop (1), Cabinet (1, 5). I am holding Pot (1) now.
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Sink (1), SinkBasin (1), Pot (1), Plate (2), Microwave (1), Knife (2), Egg (2), Drawer (2), CounterTop (1), Cabinet (4, 7). Cabinet (6) is closed.  I am holding Pot (1) now.
+Act: open Cabinet (6)
+You open Cabinet (6). You see Pot (1), Drawer (2), CounterTop (1), Cabinet (4, 6, 7). I am holding Pot (1) now.
+Act: close Cabinet (6)
+You close Cabinet (6). You see Pot (1), Drawer (2), CounterTop (1), Cabinet (4, 6, 7). I am holding Pot (1) now.
+Act: go to Cabinet (7)
+You arrive at Cabinet (7). You see Sink (1), SinkBasin (1), Pot (1), Plate (2), Microwave (1), Knife (2), Egg (2, 3), Drawer (2), CounterTop (1), Cabinet (4, 6, 7). Cabinet (7) is closed.  I am holding Pot (1) now.
+Act: open Cabinet (7)
+You open Cabinet (7). You see Pot (1), Drawer (2), CounterTop (1), Cabinet (1, 4, 6, 7). I am holding Pot (1) now.
+Act: close Cabinet (7)
+You close Cabinet (7). You see Pot (1), Drawer (2), CounterTop (1), Cabinet (1, 4, 6, 7). I am holding Pot (1) now.
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Pot (1), Cabinet (8). Cabinet (8) is closed.  I am holding Pot (1) now.
+Act: open Cabinet (8)
+You open Cabinet (8). You see Pot (1), Cabinet (8, 10). I am holding Pot (1) now.
+Act: close Cabinet (8)
+You close Cabinet (8). You see Pot (1), Cabinet (8, 10). I am holding Pot (1) now.
+Act: go to Cabinet (9)
+You arrive at Cabinet (9). You see Pot (1), Cabinet (2, 9). Cabinet (9) is closed.  I am holding Pot (1) now.
+Act: open Cabinet (9)
+The Cabinet (9) is open failed. I am holding Pot (1) now.
+Act: close Cabinet (9)
+The Cabinet (9) is already closed. I am holding Pot (1) now.
+Act: go to Cabinet (10)
+You arrive at Cabinet (10). You see Pot (1), Cabinet (3, 10), Bowl (1). Cabinet (10) is closed.  I am holding Pot (1) now.
+Act: open Cabinet (10)
+You open Cabinet (10). You see Pot (1), Cabinet (3, 10), Bowl (1). I am holding Pot (1) now.
+Act: close Cabinet (10)
+The Cabinet (10) is already closed. I am holding Pot (1) now.
+Think: I cannot find the apple. Now, I need to recall location of the apple.
+OK.
+Act: recall location of Apple
+You have not seen Apple before.
+Think: Now, I need to find the apple. The apple is more likely to appear on CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-10). I can check each place one by one, starting from CounterTop (1), until I find the apple.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see SinkBasin (1), Pot (1), Plate (2), Faucet (1), Egg (2), Drawer (1), CounterTop (1).  I am holding Pot (1) now.
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Pot (1), Fridge (1), DiningTable (2), CounterTop (2), CoffeeMachine (1).  I am holding Pot (1) now.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), Pot (1), Plate (2), Microwave (1), Faucet (1), Drawer (1, 2), CounterTop (1), Cabinet (1, 6).  I am holding Pot (1) now.
+Max decisions

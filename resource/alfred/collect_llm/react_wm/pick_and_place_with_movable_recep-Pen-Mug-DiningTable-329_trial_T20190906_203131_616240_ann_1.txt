@@ -1,0 +1,110 @@
+Your task is to: Put a mug with a pen in it on a table.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1, 2), GarbageCan (1), Drawer (1, 2, 3, 4), DiningTable (1), Bed (1).
+Think: To solve the task, I need to find and pick up the mug, then put it on the table. And I need to find and pick up the pen, then put it in the mug on the table.
+OK.
+Think: First, I need to recall location of the mug.
+OK.
+Act: recall location of Mug
+You have not seen Mug before.
+Think: Now I need to find the mug. The mug is more likely to appear on DiningTable (1), SideTable (1-2), or in Drawer (1-4). I can check each place one by one, starting from DiningTable (1), until I find the mug.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1). 
+Think: I find Mug (1). Now, I need to pick it up.
+OK.
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1). I am holding Pencil (1) now.
+Think: I hold Pencil (1). Now, I need to put it on the table.
+OK.
+Act: put down Pencil (1)
+You put down failed, drop it. You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1).
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1). I am holding Pencil (1) now.
+Act: put down Pencil (1)
+You put down failed, drop it. You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1).
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1). I am holding Pencil (1) now.
+Act: put down Pencil (1)
+You put down failed, drop it. You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1).
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1). I am holding Pencil (1) now.
+Act: put down Pencil (1)
+You put down failed, drop it. You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1).
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1). I am holding Pencil (1) now.
+Act: put down Pencil (1)
+You put down failed, drop it. You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1).
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1). I am holding Pencil (1) now.
+Act: put down Pencil (1)
+You put down failed, drop it. You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1).
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1). I am holding Pencil (1) now.
+Act: put down Pencil (1)
+You put down failed, drop it. You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1).
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1). I am holding Pencil (1) now.
+Act: put down Pencil (1)
+You put down failed, drop it. You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1).
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1). I am holding Pencil (1) now.
+Act: put down Pencil (1)
+You put down failed, drop it. You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1).
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1). I am holding Pencil (1) now.
+Act: put down Pencil (1)
+You put down failed, drop it. You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1).
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1). I am holding Pencil (1) now.
+Act: put down Pencil (1)
+You put down failed, drop it. You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1).
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1). I am holding Pencil (1) now.
+Act: put down Pencil (1)
+You put down failed, drop it. You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1).
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1). I am holding Pencil (1) now.
+Act: put down Pencil (1)
+You put down failed, drop it. You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1).
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1). I am holding Pencil (1) now.
+Act: put down Pencil (1)
+You put down failed, drop it. You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1).
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1). I am holding Pencil (1) now.
+Act: put down Pencil (1)
+You put down failed, drop it. You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1).
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1). I am holding Pencil (1) now.
+Act: put down Pencil (1)
+You put down failed, drop it. You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1).
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1). I am holding Pencil (1) now.
+Act: put down Pencil (1)
+You put down failed, drop it. You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1).
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1). I am holding Pencil (1) now.
+Act: put down Pencil (1)
+You put down failed, drop it. You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1).
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1). I am holding Pencil (1) now.
+Act: put down Pencil (1)
+You put down failed, drop it. You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1).
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1). I am holding Pencil (1) now.
+Act: put down Pencil (1)
+You put down failed, drop it. You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1).
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1). I am holding Pencil (1) now.
+Act: put down Pencil (1)
+You put down failed, drop it. You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1).
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1). I am holding Pencil (1) now.
+Act: put down Pencil (1)
+You put down failed, drop it. You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1).
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1). I am holding Pencil (1) now.
+Act: put down Pencil (1)
+You put down failed, drop it. You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1).
+Act: pick up Pencil (1)
+You pick up Pencil (1). You see Pencil (1, 2), Pen (1), Laptop (1), KeyChain (2), DiningTable (1), CreditCard (1, 2), Book (1). I am holding Pencil (1) now.

@@ -1,0 +1,13 @@
+Your primary goal is to: put the two salt bottle in the second cabinet from left
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up salt bottle, place salt bottle in cabinet, find and pick up salt bottle away from cabinet, and place salt bottle in cabinet.
+Your task is to: place salt bottle in cabinet
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20). I am holding SaltShaker (3) now.
+Think: I hold SaltShaker (3). Now, I need to put it in the cabinet. I can see Cabinet (2).
+OK.
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see SaltShaker (3), Cabinet (2, 7, 10). Cabinet (2) is open.  I am holding SaltShaker (3) now.
+Act: put down SaltShaker (3)
+You put down failed, drop it. You see SaltShaker (3), Cabinet (2, 7, 10).
+Think: Now I accomplish the goal.
+OK.
+Act: done

@@ -1,0 +1,29 @@
+Your primary goal is to: Put a mug with a pen in it on the night stand.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up mug, find and pick up pen, and place mug with pen on night stand.
+Your task is to: find and pick up pen
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1, 2), GarbageCan (1), Drawer (1, 2, 3, 4), DiningTable (1), Bed (1). I am holding Mug (1) now.
+Think: First, I need to recall location of the pen.
+OK.
+Act: recall location of Pen
+You saw Pen (1) near SideTable (1). You saw Pen (2) near SideTable (2).
+Think: I can find Pen (1) near SideTable (1). I can find Pen (2) near SideTable (2).
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pen (1), Mug (1), Drawer (1, 2), CreditCard (1), Bed (1), AlarmClock (1).  I am holding Mug (1) now.
+Think: I find Pen (1). Now, I need to pick it up.
+OK.
+Act: pick up Pen (1)
+You are currently holding Mug (1). I am holding Mug (1) now.
+Think: I cannot pick up Pen (1) because I am holding Mug (1). I need to put down Mug (1) first.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see SideTable (1), Pen (1), Mug (1), Drawer (1, 2), CreditCard (1), Bed (1), AlarmClock (1).  I am holding Mug (1) now.
+Act: put down Mug (1)
+You put Mug (1) on SideTable (1). You see SideTable (1), Pen (1), Mug (1), Drawer (1, 2), CreditCard (1), Bed (1), AlarmClock (1).
+Think: Now I can pick up Pen (1).
+OK.
+Act: pick up Pen (1)
+You pick up Pen (1). You see SideTable (1), Pen (1), Mug (1), Drawer (1, 2), CreditCard (1), Bed (1), AlarmClock (1). I am holding Pen (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

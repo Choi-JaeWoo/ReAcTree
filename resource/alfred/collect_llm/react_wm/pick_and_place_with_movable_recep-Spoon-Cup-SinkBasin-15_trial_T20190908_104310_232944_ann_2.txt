@@ -1,0 +1,43 @@
+Your task is to: Place a cup in the sink.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11).
+Think: To solve the task, I need to find and pick up the cup, then put it in the sink basin.
+OK.
+Think: First, I need to recall location of the cup.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now I need to find the cup. The cup is more likely to appear on CounterTop (1-2), SinkBasin (1) or in Fridge (1), Microwave (1), Cabinet (1-11), Drawer (1-3). I can check each place one by one, starting from CounterTop (1), until I find the cup.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see WineBottle (1), StoveKnob (4), StoveBurner (2), Spoon (1), SaltShaker (1), Pan (1), Lettuce (1), Drawer (2), DishSponge (3), CounterTop (1), Cabinet (11). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Plate (1), Mug (3), Drawer (1), CounterTop (2), CoffeeMachine (1), Cabinet (1, 3). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Toaster (1), Sink (1), SinkBasin (1), Knife (1), GarbageCan (1), Fork (2), Faucet (1), DishSponge (1), CounterTop (2), Cabinet (4, 5, 7), Apple (1). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see GarbageCan (1), Fridge (1). Fridge (1) is closed. 
+Act: open Fridge (1)
+You open Fridge (1). You see Potato (1), Fridge (1), Bread (1, 2).
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see StoveKnob (4), StoveBurner (1, 2, 3, 4), Spoon (1), Pot (1), Pan (1), Mug (3), Microwave (1), CounterTop (1, 2), Cabinet (11). Microwave (1) is closed. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see Cabinet (1).
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see WineBottle (1), SaltShaker (1), Lettuce (1), Drawer (2), CounterTop (1), Cabinet (2). Cabinet (2) is closed. 
+Act: open Cabinet (2)
+You open Cabinet (2). You see SoapBottle (2), DiningTable (1), Cup (4), Cabinet (2).
+Think: I find Cup (4). Now, I need to pick it up.
+OK.
+Act: pick up Cup (4)
+You pick up Cup (4). You see SoapBottle (2), DiningTable (1), Cup (4), Cabinet (2). I am holding Cup (4) now.
+Think: I hold Cup (4). Now, I need to put it in the sink basin.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Toaster (1), Sink (1), SinkBasin (1), Knife (1), GarbageCan (1), Fork (2), Faucet (1), DishSponge (1), Cup (4), CounterTop (2), Cabinet (4, 5, 7), Apple (1).  I am holding Cup (4) now.
+Act: put down Cup (4)
+You put Cup (4) on SinkBasin (1). You see Toaster (1), Sink (1), SinkBasin (1), Knife (1), GarbageCan (1), Fork (2), Faucet (1), DishSponge (1), Cup (4), CounterTop (2), Cabinet (4, 5, 7), Apple (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

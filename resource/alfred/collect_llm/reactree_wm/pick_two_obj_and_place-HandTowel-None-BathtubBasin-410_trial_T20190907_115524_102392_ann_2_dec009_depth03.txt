@@ -1,0 +1,13 @@
+Your primary goal is to: put two hanging towel in the tub
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up towel, place towel in tub, Find and pick up towel away from tub, and place towel in tub.
+Your task is to: place towel in tub
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1, 2), Toilet (1), ToiletPaperHanger (1), SinkBasin (1, 2), HandTowelHolder (1, 2), GarbageCan (1), Drawer (1, 2, 3, 4, 5, 6), CounterTop (1), BathtubBasin (1). I am holding SoapBar (1) now.
+Think: I hold SoapBar (1). Now, I need to put it in the tub. I can see BathtubBasin (1).
+OK.
+Act: go to BathtubBasin (1)
+You arrive at BathtubBasin (1). You see Towel (1), SoapBar (1), Faucet (2), Bathtub (1), BathtubBasin (1).  I am holding SoapBar (1) now.
+Act: put down SoapBar (1)
+You put SoapBar (1) on BathtubBasin (1). You see Towel (1), SoapBar (1), Faucet (2), Bathtub (1), BathtubBasin (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

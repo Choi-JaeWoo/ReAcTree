@@ -1,0 +1,7 @@
+Your task is to: Put a bottle on the back of a toilet.
+You are in the house, and you arrive at the bathroom, Looking quickly around the room, you see TowelHolder (1, 2), Toilet (1), ToiletPaperHanger (1), SinkBasin (1), HandTowelHolder (1), GarbageCan (1), Drawer (1, 2, 3, 4), CounterTop (1, 2), BathtubBasin (1).
+Think: Since I’m not holding bottle, I need to accomplish 2 subgoals sequentially to solve the task. Find and pick up bottle and place bottle on toilet.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up bottle, place bottle on toilet

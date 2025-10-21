@@ -1,0 +1,13 @@
+Your primary goal is to: Move a spatula and pan to the kitchen sink.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up spatula, place spatula in sink, find and pick up pan, and place pan in sink.
+Your task is to: place spatula in sink
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4). I am holding Spatula (1) now.
+Think: I hold Spatula (1). Now, I need to put it in the sink. I can see Sink (1).
+OK.
+Act: go to Sink (1)
+You arrive at Sink (1). You see Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Potato (1), Knife (2, 3), Faucet (1), CounterTop (1).  I am holding Spatula (1) now.
+Act: put down Spatula (1)
+You put Spatula (1) on Sink (1). You see Spoon (1), Spatula (1), Sink (1), SinkBasin (1), Potato (1), Knife (2, 3), Faucet (1), CounterTop (1).
+Think: Now I accomplish the goal.
+OK.
+Act: done

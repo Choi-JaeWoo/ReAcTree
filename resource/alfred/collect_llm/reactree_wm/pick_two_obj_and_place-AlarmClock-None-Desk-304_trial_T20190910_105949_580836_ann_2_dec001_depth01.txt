@@ -1,0 +1,7 @@
+Your task is to: Move two clocks on the desk to the same desk.
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see Shelf (1), LaundryHamper (1), GarbageCan (1), Drawer (1, 2, 3), Desk (1), Bed (1, 2).
+Think: Since I’m not holding the clock, I need to accomplish 4 subgoals sequentially to solve the task. Find and pick up clock, place clock on desk, Find and pick up clock away from desk, and place clock on desk.
+OK.
+Expand:
+- control flow: sequence
+- subgoals: find and pick up clock, place clock on desk, Find and pick up clock away from desk, place clock on desk

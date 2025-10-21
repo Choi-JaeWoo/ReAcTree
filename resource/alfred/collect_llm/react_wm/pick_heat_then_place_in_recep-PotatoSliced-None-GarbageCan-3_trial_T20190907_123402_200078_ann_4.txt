@@ -1,0 +1,110 @@
+Your task is to: Cook the corner of a slice of bread, then throw it out.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), SideTable (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8), CounterTop (1), CoffeeMachine (1), Cabinet (1, 2, 3, 4).
+Think: To solve the task, I need to find and pick up the bread, then put it on the stove burner. And I need to turn on and off the stove burner. And I need to pick up the bread from the stove burner, then put it in the garbage can.
+OK.
+Think: First, I need to recall location of the bread.
+OK.
+Act: recall location of Bread
+You have not seen Bread before.
+Think: Now I need to find the bread. The bread is more likely to appear on SideTable (1), CounterTop (1), or in Fridge (1), Microwave (1), Cabinet (1-4), Drawer (1-8). I can check each place one by one, starting from SideTable (1), until I find the bread.
+OK.
+Act: go to SideTable (1)
+You arrive at SideTable (1). You see Spoon (2), SideTable (1), Microwave (1), Fridge (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Pot (1), Lettuce (2), Cup (1), CounterTop (1). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Drawer (1). Fridge (1) is closed. 
+Act: open Fridge (1)
+You open Fridge (1). You see Fridge (1), Drawer (1).
+Act: close Fridge (1)
+You close Fridge (1). You see Fridge (1), Drawer (1).
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Spoon (2), SideTable (1), Microwave (1), Fridge (1). Microwave (1) is closed. 
+Act: open Microwave (1)
+You open Microwave (1). You see SideTable (1), Microwave (1), Fridge (1).
+Act: close Microwave (1)
+You close Microwave (1). You see Spoon (2), SideTable (1), Microwave (1), Fridge (1).
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Mug (2), CounterTop (1), CoffeeMachine (1), Chair (1), Cabinet (1). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see Mug (2), CounterTop (1), CoffeeMachine (1), Chair (1), Cabinet (1).
+Act: close Cabinet (1)
+You close Cabinet (1). You see Mug (2), CounterTop (1), CoffeeMachine (1), Chair (1), Cabinet (1).
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see GarbageCan (1), Cup (1), CounterTop (1), Cabinet (2, 4). Cabinet (2) is closed. 
+Act: open Cabinet (2)
+You open Cabinet (2). You see Mug (1), GarbageCan (1), Cup (1), CounterTop (1), Cabinet (2, 4), Bowl (1).
+Act: close Cabinet (2)
+You close Cabinet (2). You see GarbageCan (1), Cup (1), CounterTop (1), Cabinet (2, 4).
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see WineBottle (1), Toaster (1), Spatula (2), Lettuce (1), Drawer (2), CounterTop (1), Cabinet (3), Bread (1, 2). Cabinet (3) is closed. 
+Think: I find Bread (1). Now, I need to pick it up.
+OK.
+Act: pick up Bread (1)
+You pick up Bread (1). You see WineBottle (1), Toaster (1), Spatula (2), Lettuce (1), Drawer (2), CounterTop (1), Cabinet (3), Bread (1, 2). I am holding Bread (1) now.
+Think: I hold Bread (1). Now, I need to put it on the stove burner.
+OK.
+Act: go to StoveBurner (1)
+You arrive at StoveBurner (1). You see Tomato (2), StoveKnob (1), StoveBurner (2, 3, 4), Spoon (1), Knife (1), Bread (1).  I am holding Bread (1) now.
+Act: put down Bread (1)
+You put down failed, drop it. You see Tomato (2), StoveKnob (1), StoveBurner (1, 2, 3, 4), Spoon (1), Knife (1), Kettle (2), Bread (1).
+Act: go to StoveBurner (2)
+You arrive at StoveBurner (2). You see Tomato (2), StoveKnob (2), StoveBurner (1, 2, 3, 4), Spoon (1), Knife (1), Kettle (2), Egg (1), Bread (1), Apple (1). 
+Act: go to StoveBurner (3)
+You arrive at StoveBurner (3). You see StoveKnob (1, 4), StoveBurner (1, 2, 3, 4), Kettle (1, 2), Fork (2). 
+Act: go to StoveBurner (4)
+You arrive at StoveBurner (4). You see StoveKnob (1, 2, 4), StoveBurner (1, 2, 3, 4), Kettle (1, 2). 
+Act: go to StoveBurner (1)
+You arrive at StoveBurner (1). You see Tomato (2), StoveKnob (1, 2), StoveBurner (1, 2, 3, 4), Spoon (1), Knife (1), Kettle (2), Bread (1). 
+Act: go to StoveBurner (2)
+You arrive at StoveBurner (2). You see Tomato (2), StoveKnob (2), StoveBurner (1, 2, 3, 4), Spoon (1), Knife (1), Kettle (2), Egg (1), Bread (1), Apple (1). 
+Act: go to StoveBurner (3)
+You arrive at StoveBurner (3). You see StoveKnob (1, 4), StoveBurner (1, 2, 3, 4), Kettle (1, 2), Fork (2). 
+Act: go to StoveBurner (4)
+You arrive at StoveBurner (4). You see StoveKnob (1, 2, 4), StoveBurner (1, 2, 3, 4), Kettle (1, 2). 
+Act: go to StoveBurner (1)
+You arrive at StoveBurner (1). You see Tomato (2), StoveKnob (1, 2), StoveBurner (1, 2, 3, 4), Spoon (1), Knife (1), Kettle (2), Bread (1). 
+Act: go to StoveBurner (2)
+You arrive at StoveBurner (2). You see Tomato (2), StoveKnob (2), StoveBurner (1, 2, 3, 4), Spoon (1), Knife (1), Kettle (2), Egg (1), Bread (1), Apple (1). 
+Act: go to StoveBurner (3)
+You arrive at StoveBurner (3). You see StoveKnob (1, 4), StoveBurner (1, 2, 3, 4), Kettle (1, 2), Fork (2). 
+Act: go to StoveBurner (4)
+You arrive at StoveBurner (4). You see StoveKnob (1, 2, 4), StoveBurner (1, 2, 3, 4), Kettle (1, 2). 
+Act: go to StoveBurner (1)
+You arrive at StoveBurner (1). You see Tomato (2), StoveKnob (1, 2), StoveBurner (1, 2, 3, 4), Spoon (1), Knife (1), Kettle (2), Bread (1). 
+Act: go to StoveBurner (2)
+You arrive at StoveBurner (2). You see Tomato (2), StoveKnob (2), StoveBurner (1, 2, 3, 4), Spoon (1), Knife (1), Kettle (2), Egg (1), Bread (1), Apple (1). 
+Act: go to StoveBurner (3)
+You arrive at StoveBurner (3). You see StoveKnob (1, 4), StoveBurner (1, 2, 3, 4), Kettle (1, 2), Fork (2). 
+Act: go to StoveBurner (4)
+You arrive at StoveBurner (4). You see StoveKnob (1, 2, 4), StoveBurner (1, 2, 3, 4), Kettle (1, 2). 
+Act: go to StoveBurner (1)
+You arrive at StoveBurner (1). You see Tomato (2), StoveKnob (1, 2), StoveBurner (1, 2, 3, 4), Spoon (1), Knife (1), Kettle (2), Bread (1). 
+Act: go to StoveBurner (2)
+You arrive at StoveBurner (2). You see Tomato (2), StoveKnob (2), StoveBurner (1, 2, 3, 4), Spoon (1), Knife (1), Kettle (2), Egg (1), Bread (1), Apple (1). 
+Act: go to StoveBurner (3)
+You arrive at StoveBurner (3). You see StoveKnob (1, 4), StoveBurner (1, 2, 3, 4), Kettle (1, 2), Fork (2). 
+Act: go to StoveBurner (4)
+You arrive at StoveBurner (4). You see StoveKnob (1, 2, 4), StoveBurner (1, 2, 3, 4), Kettle (1, 2). 
+Act: go to StoveBurner (1)
+You arrive at StoveBurner (1). You see Tomato (2), StoveKnob (1, 2), StoveBurner (1, 2, 3, 4), Spoon (1), Knife (1), Kettle (2), Bread (1). 
+Act: go to StoveBurner (2)
+You arrive at StoveBurner (2). You see Tomato (2), StoveKnob (2), StoveBurner (1, 2, 3, 4), Spoon (1), Knife (1), Kettle (2), Egg (1), Bread (1), Apple (1). 
+Act: go to StoveBurner (3)
+You arrive at StoveBurner (3). You see StoveKnob (1, 4), StoveBurner (1, 2, 3, 4), Kettle (1, 2), Fork (2). 
+Act: go to StoveBurner (4)
+You arrive at StoveBurner (4). You see StoveKnob (1, 2, 4), StoveBurner (1, 2, 3, 4), Kettle (1, 2). 
+Act: go to StoveBurner (1)
+You arrive at StoveBurner (1). You see Tomato (2), StoveKnob (1, 2), StoveBurner (1, 2, 3, 4), Spoon (1), Knife (1), Kettle (2), Bread (1). 
+Act: go to StoveBurner (2)
+You arrive at StoveBurner (2). You see Tomato (2), StoveKnob (2), StoveBurner (1, 2, 3, 4), Spoon (1), Knife (1), Kettle (2), Egg (1), Bread (1), Apple (1). 
+Act: go to StoveBurner (3)
+You arrive at StoveBurner (3). You see StoveKnob (1, 4), StoveBurner (1, 2, 3, 4), Kettle (1, 2), Fork (2). 
+Act: go to StoveBurner (4)
+You arrive at StoveBurner (4). You see StoveKnob (1, 2, 4), StoveBurner (1, 2, 3, 4), Kettle (1, 2). 
+Act: go to StoveBurner (1)
+You arrive at StoveBurner (1). You see Tomato (2), StoveKnob (1, 2), StoveBurner (1, 2, 3, 4), Spoon (1), Knife (1), Kettle (2), Bread (1). 
+Act: go to StoveBurner (2)
+You arrive at StoveBurner (2). You see Tomato (2), StoveKnob (2), StoveBurner (1, 2, 3, 4), Spoon (1), Knife (1), Kettle (2), Egg (1), Bread (1), Apple (1). 
+Act: go to StoveBurner (3)
+You arrive at StoveBurner (3). You see StoveKnob (1, 4), StoveBurner (1, 2, 3, 4), Kettle (1, 2), Fork (2). 

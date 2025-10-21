@@ -1,0 +1,67 @@
+Your task is to: Move a pan and sponge to the counter.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21).
+Think: To solve the task, I need to find and pick up the pan, then put it on the counter. And I need to find and pick up the sponge, then put it on the counter.
+OK.
+Think: First, I need to recall location of the pan.
+OK.
+Act: recall location of Pan
+You have not seen Pan before.
+Think: Now I need to find the pan. The pan is more likely to appear on DiningTable (1), CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-21), Drawer (1-5). I can check each place one by one, starting from DiningTable (1), until I find the pan.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (2), Spatula (3), SoapBottle (1), SaltShaker (1, 2, 3), Potato (3), Lettuce (2), Fork (1), Egg (1), DishSponge (1, 3), DiningTable (1), CoffeeMachine (1), Chair (1). 
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spoon (2), Spatula (1), Potato (2), Microwave (1), Drawer (4, 5), CounterTop (1), Cabinet (10, 11, 18, 21). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Sink (1), SinkBasin (1), Potato (1), Lettuce (1), Faucet (1), Cup (1), CounterTop (2), Cabinet (5, 7, 9). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Sink (1), SinkBasin (1), Potato (1), Lettuce (1), Faucet (1), Cup (1), CounterTop (2), Cabinet (5, 7, 9). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Fridge (1), Cabinet (13). Fridge (1) is closed. 
+Act: open Fridge (1)
+You open Fridge (1). You see Fridge (1), Egg (2).
+Act: close Fridge (1)
+You close Fridge (1). You see Fridge (1), Cabinet (13).
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Tomato (1), Potato (2), Microwave (1), Drawer (4, 5), CounterTop (1), Cabinet (10, 11, 18, 21). Microwave (1) is closed. 
+Act: open Microwave (1)
+You open Microwave (1). You see Potato (2), Microwave (1), Drawer (4, 5), CounterTop (1), Cabinet (10, 11, 18, 21), Apple (1).
+Act: close Microwave (1)
+You close Microwave (1). You see Tomato (1), Potato (2), Microwave (1), Drawer (4, 5), CounterTop (1), Cabinet (10, 11, 18, 21).
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1, 19). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see Cabinet (1, 4, 19).
+Act: close Cabinet (1)
+You close Cabinet (1). You see Cabinet (1, 4, 19).
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see StoveKnob (1, 2), StoveBurner (3, 4), Pan (1), Drawer (1, 2), CounterTop (2), Cabinet (2, 6, 7, 8). Cabinet (2) is closed. 
+Think: I find Pan (1). Now, I need to pick it up.
+OK.
+Act: pick up Pan (1)
+You pick up Pan (1). You see StoveKnob (1, 2), StoveBurner (3, 4), Pan (1), Drawer (1, 2), CounterTop (2), Cabinet (2, 6, 7, 8). I am holding Pan (1) now.
+Think: I hold Pan (1). Now, I need to put it on the counter.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spoon (2), Spatula (1), Potato (2), Pan (1), Microwave (1), Drawer (5), CounterTop (1), Cabinet (10, 18, 21).  I am holding Pan (1) now.
+Act: put down Pan (1)
+You put down failed, drop it. You see Spoon (2), Spatula (1), Potato (2), Microwave (1), Drawer (4, 5), CounterTop (1), Cabinet (10, 11, 18, 21).
+Think: I put Pan (1) on the CounterTop (1). Now, I need to recall location of the sponge.
+OK.
+Act: recall location of DishSponge
+You saw DishSponge (1) near DiningTable (1). You saw DishSponge (3) near DiningTable (1).
+Think: DishSponge (1) is on the DiningTable (1). Now, I need to pick it up.
+OK.
+Act: go to DiningTable (1)
+You arrive at DiningTable (1). You see Tomato (2), Spatula (3), SoapBottle (1), SaltShaker (1, 2, 3), Potato (3), Lettuce (2), Fork (1), Egg (1), DishSponge (1, 3), DiningTable (1), CoffeeMachine (1), Chair (1). 
+Act: pick up DishSponge (1)
+You pick up DishSponge (1). You see Tomato (2), Spatula (3), SoapBottle (1), SaltShaker (1, 2, 3), Potato (3), Lettuce (2), Fork (1), Egg (1), DishSponge (1, 3), DiningTable (1), CoffeeMachine (1), Chair (1). I am holding DishSponge (1) now.
+Think: I hold DishSponge (1). Now, I need to put it on the counter.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Spoon (2), Spatula (1), Potato (2), Microwave (1), Drawer (4, 5), DishSponge (1), CounterTop (1), Cabinet (10, 18, 21).  I am holding DishSponge (1) now.
+Act: put down DishSponge (1)
+You put DishSponge (1) on CounterTop (1). You see Spoon (2), Spatula (1), Potato (2), Microwave (1), Drawer (4, 5), DishSponge (1), CounterTop (1), Cabinet (10, 11, 18, 21).
+Think: Now I accomplish the goal.
+OK.
+Act: done

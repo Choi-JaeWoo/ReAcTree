@@ -1,0 +1,99 @@
+Your task is to: Put a plan with a spoon in the sink.
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6), DiningTable (1), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2).
+Think: To solve the task, I need to find and pick up the plan, then put it in the sink basin. And I need to find and pick up the spoon, then put it on the plan in the sink basin.
+OK.
+Think: First, I need to recall location of the plan.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: Now I need to find the plan. The plan is more likely to appear on CounterTop (1-3), SinkBasin (1) or in Fridge (1), Microwave (1), Cabinet (1-2), Drawer (1-6). I can check each place one by one, starting from CounterTop (1), until I find the plan.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). There are no visible objects.. 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Spoon (1), Sink (1), SinkBasin (1), Faucet (1), Drawer (3), CounterTop (1, 3), Cabinet (1, 2). 
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see SoapBottle (1), GarbageCan (1), Fridge (1). Fridge (1) is closed. 
+Act: go to Microwave (1)
+You arrive at Microwave (1). There are no visible objects.. Microwave (1) is closed. 
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Sink (1), SinkBasin (1), Ladle (1), Drawer (1, 2, 3, 4, 6), CounterTop (1), Cabinet (1, 2). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see Mug (1), Drawer (2, 3, 4, 6), Cabinet (1, 2), Bowl (3).
+Act: close Cabinet (1)
+You close Cabinet (1). You see Drawer (2, 3, 4, 6), Cabinet (1, 2).
+Act: go to Cabinet (2)
+You arrive at Cabinet (2). You see Sink (1), SinkBasin (1), Lettuce (1), CounterTop (3), Cabinet (1, 2), ButterKnife (1). Cabinet (2) is closed. 
+Act: open Cabinet (2)
+The Cabinet (2) is open failed.
+Act: close Cabinet (2)
+The Cabinet (2) is already closed.
+Act: go to Drawer (1)
+You arrive at Drawer (1). There are no visible objects.. Drawer (1) is closed. 
+Act: open Drawer (1)
+You open Drawer (1). You see .
+Act: close Drawer (1)
+The Drawer (1) is not close to you.
+Act: go to Drawer (2)
+You arrive at Drawer (2). You see Spatula (3), Knife (1), Drawer (1, 2, 3, 4, 5, 6), CounterTop (1), Bread (2). Drawer (2) is closed. 
+Act: open Drawer (2)
+You open Drawer (2). You see Drawer (1, 2, 3, 4, 5, 6), CounterTop (1), Bread (2).
+Act: close Drawer (2)
+You close Drawer (2). You see Drawer (1, 2, 3, 4, 5, 6), CounterTop (1), Bread (2).
+Act: go to Drawer (3)
+You arrive at Drawer (3). You see Window (1, 2), StoveBurner (1, 3), Spoon (1), Spatula (2, 3), SinkBasin (1), Pot (2), Ladle (1, 2), Knife (1, 2), HousePlant (1), Faucet (1), Drawer (1, 2, 6), DishSponge (1), CounterTop (1), Cabinet (1, 2), Bread (2). Drawer (3) is closed. 
+Act: open Drawer (3)
+You open Drawer (3). You see Window (1, 2), StoveBurner (1, 3), Spoon (1), Spatula (2, 3), SinkBasin (1), Pot (2), Ladle (1, 2), Knife (1, 2), HousePlant (1), Faucet (1), Drawer (1, 2, 6), DishSponge (1), CounterTop (1), Cabinet (1, 2), Bread (2).
+Act: close Drawer (3)
+The Drawer (3) is already closed.
+Act: go to Drawer (4)
+You arrive at Drawer (4). You see Window (1, 2), StoveBurner (1, 3), Spoon (1), Spatula (2, 3), SinkBasin (1), Pot (2), Ladle (1, 2), Knife (1, 2), HousePlant (1), Faucet (1), Drawer (1, 2, 6), DishSponge (1), CounterTop (1), Cabinet (1, 2), Bread (2). Drawer (4) is closed. 
+Act: open Drawer (4)
+You open Drawer (4). You see Window (1, 2), StoveBurner (1, 3), Spoon (1), Spatula (2, 3), SinkBasin (1), Pot (2), Ladle (1, 2), Knife (1, 2), HousePlant (1), Faucet (1), Drawer (1, 2, 6), DishSponge (1), CounterTop (1), Cabinet (1, 2), Bread (2).
+Act: close Drawer (4)
+The Drawer (4) is already closed.
+Act: go to Drawer (5)
+You arrive at Drawer (5). You see StoveBurner (1, 3), Spatula (2, 3), Pot (2), Ladle (2), Knife (1), HousePlant (1), Drawer (1, 2, 3, 4, 5, 6), DishSponge (1), CounterTop (1), Bread (2). Drawer (5) is closed. 
+Act: open Drawer (5)
+You open Drawer (5). You see StoveBurner (1, 3), Spatula (3), Pot (2), Ladle (2), Knife (1), Drawer (1, 4, 5), CounterTop (1), Bread (2).
+Act: close Drawer (5)
+You close Drawer (5). You see StoveBurner (1, 3), Spatula (3), Pot (2), Ladle (2), Knife (1), Drawer (1, 2, 3, 4, 5, 6), CounterTop (1), Bread (2).
+Act: go to Drawer (6)
+You arrive at Drawer (6). You see StoveBurner (1), Spatula (3), Ladle (2), Knife (1), Drawer (1, 2, 3, 4, 5, 6), CounterTop (1), Bread (2). Drawer (6) is closed. 
+Act: open Drawer (6)
+You open Drawer (6). You see Spatula (3), Drawer (1, 3, 4, 5, 6), CounterTop (1), Bread (2).
+Act: close Drawer (6)
+You close Drawer (6). You see Spatula (3), Drawer (1, 2, 3, 4, 5, 6), CounterTop (1), Bread (2).
+Think: I find Plate (1). Now, I need to pick it up.
+OK.
+Act: pick up Spatula (3)
+You pick up Spatula (3). You see Spatula (3), Drawer (1, 2, 3, 4, 5, 6), CounterTop (1), Bread (2). I am holding Spatula (3) now.
+Think: I hold Spatula (3). Now, I need to put it in the sink basin.
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Spoon (1), Spatula (3), Sink (1), SinkBasin (1), Faucet (1), Drawer (3), CounterTop (1, 3), Cabinet (1, 2).  I am holding Spatula (3) now.
+Act: put down Spatula (3)
+You put Spatula (3) on SinkBasin (1). You see Window (2), Spoon (1), Spatula (3), Sink (1), SinkBasin (1), Faucet (1), Drawer (3), CounterTop (1, 3), Cabinet (1, 2).
+Think: I put Spatula (3) in the SinkBasin (1). Now, I need to recall location of the spoon.
+OK.
+Act: recall location of Spoon
+You saw Spoon (1) near SinkBasin (1).
+Think: Spoon (1) is in the SinkBasin (1). Now, I need to pick it up.
+OK.
+Act: pick up Spoon (1)
+You pick up Spoon (1). You see Window (2), Spoon (1), Spatula (3), Sink (1), SinkBasin (1), Faucet (1), Drawer (3), CounterTop (1, 3), Cabinet (1, 2). I am holding Spoon (1) now.
+Think: I hold Spoon (1). Now, I need to recall location of the plan.
+OK.
+Act: recall location of Plate
+You have not seen Plate before.
+Think: I can find Spatula (3) in the SinkBasin (1).
+OK.
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (2), Spoon (1), Spatula (3), Sink (1), SinkBasin (1), Faucet (1), Drawer (3), CounterTop (1, 3), Cabinet (1, 2).  I am holding Spoon (1) now.
+Think: I find Spatula (3). Now, I need to put Spoon (1) on Spatula (3).
+OK.
+Act: put down Spoon (1)
+You put Spoon (1) on SinkBasin (1). You see Window (2), Spoon (1), Spatula (3), Sink (1), SinkBasin (1), Faucet (1), Drawer (3), CounterTop (1, 3), Cabinet (1, 2).
+Think: Now I accomplish the goal.
+OK.
+Act: done

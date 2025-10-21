@@ -1,0 +1,49 @@
+Your task is to: put chilled bowl and spoon on counter
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Shelf (1, 2, 3), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4, 5, 6, 7, 8, 9), CounterTop (1, 2, 3), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9).
+Think: To solve the task, I need to find and pick up the bowl and spoon, then put them in fridge. I need to pick up the bowl and spoon from the fridge, then put them on the counter.
+OK.
+Think: First, I need to recall location of the bowl.
+OK.
+Act: recall location of Bowl
+You have not seen Bowl before.
+Think: Now I need to find the bowl. The bowl is more likely to appear on DiningTable (1), CounterTop (1-3), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-9), Drawer (1-9). I can check each place one by one, starting from DiningTable (1), until I find the bowl.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Vase (1), Statue (2), Spoon (3), Pot (2), PepperShaker (1), Lettuce (1, 2), Kettle (1), Fork (3), DishSponge (1), CreditCard (1), CounterTop (1), Bread (1), Book (1), Apple (3). 
+Think: I find Bowl (1). Now, I need to pick it up.
+OK.
+Act: pick up Spoon (3)
+You pick up Spoon (3). You see Vase (1), Statue (2), Spoon (3), Pot (2), PepperShaker (1), Lettuce (1, 2), Kettle (1), Fork (3), DishSponge (1), CreditCard (1), CounterTop (1), Bread (1), Book (1), Apple (3). I am holding Spoon (3) now.
+Think: I hold Spoon (3). Now, I need to recall location of the spoon.
+OK.
+Act: recall location of Spoon
+You saw Spoon (3) near hand.
+Think: I can find Spoon (3) near hand.
+OK.
+Act: pick up Spoon (3)
+You are currently holding Spoon (3). I am holding Spoon (3) now.
+Think: I hold Spoon (3). Now, I need to put them in the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Spoon (3), Fridge (1), Cabinet (6). Fridge (1) is closed.  I am holding Spoon (3) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Tomato (2), Spoon (3), Mug (2), GarbageCan (1), Fridge (1), Apple (2). I am holding Spoon (3) now.
+Act: put down Spoon (3)
+You put Spoon (3) on Fridge (1). You see Tomato (2), Spoon (3), Mug (2), GarbageCan (1), Fridge (1), Apple (2).
+Act: close Fridge (1)
+You close Fridge (1). You see Fridge (1), Cabinet (6).
+Think: I put Spoon (3) in Fridge (1). Now, I need to pick up the bowl and spoon from the fridge.
+OK.
+Act: open Fridge (1)
+You open Fridge (1). You see Tomato (2), Spoon (3), Mug (2), GarbageCan (1), Fridge (1), Apple (2).
+Act: pick up Spoon (3)
+You pick up Spoon (3). You see Tomato (2), Spoon (3), Mug (2), GarbageCan (1), Fridge (1), Apple (2). I am holding Spoon (3) now.
+Think: I pick up Spoon (3) from Fridge (1). Now, I need to put them on the counter.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Vase (1), Statue (2), Spoon (3), Pot (2), PepperShaker (1), Lettuce (1, 2), Kettle (1), Fork (3), DishSponge (1), CreditCard (1), CounterTop (1), Bread (1), Book (1), Apple (3).  I am holding Spoon (3) now.
+Act: put down Spoon (3)
+You put Spoon (3) on CounterTop (1). You see Vase (1), Statue (2), Spoon (3), Pot (2), PepperShaker (1), Lettuce (1, 2), Kettle (1), Fork (3), DishSponge (1), CreditCard (1), CounterTop (1), Bread (1), Book (1), Apple (3).
+Think: Now I accomplish the goal.
+OK.
+Act: done

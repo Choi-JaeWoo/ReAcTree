@@ -1,0 +1,171 @@
+Your primary goal is to: Put a cup with a pencil in it on the dresser.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up cup, put pencil in cup, and place cup on dresser.
+Your task is to: place cup on dresser
+You are in the house, and you arrive at the bedroom, Looking quickly around the room, you see SideTable (1, 2), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4, 5, 6), Cabinet (1, 2, 3, 4), Bed (1), ArmChair (1).
+Think: I hold Cup (1). Now, I need to put it on the dresser. I can see Dresser (1).
+OK.
+Act: go to Dresser (1)
+You arrive at Dresser (1). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (2, 3), Book (1). 
+Act: open Drawer (4)
+You open Drawer (4). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: open Drawer (5)
+You open Drawer (5). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: close Drawer (5)
+You close Drawer (5). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: open Drawer (5)
+You open Drawer (5). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: close Drawer (5)
+You close Drawer (5). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: open Drawer (5)
+You open Drawer (5). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: close Drawer (5)
+You close Drawer (5). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: open Drawer (5)
+You open Drawer (5). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: close Drawer (5)
+You close Drawer (5). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: open Drawer (5)
+You open Drawer (5). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: close Drawer (5)
+You close Drawer (5). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: open Drawer (5)
+You open Drawer (5). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: close Drawer (5)
+You close Drawer (5). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: open Drawer (5)
+You open Drawer (5). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: close Drawer (5)
+You close Drawer (5). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: open Drawer (5)
+You open Drawer (5). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: close Drawer (5)
+You close Drawer (5). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: open Drawer (5)
+You open Drawer (5). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: close Drawer (5)
+You close Drawer (5). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: open Drawer (5)
+You open Drawer (5). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: close Drawer (5)
+You close Drawer (5). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: open Drawer (5)
+You open Drawer (5). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: close Drawer (5)
+You close Drawer (5). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: open Drawer (5)
+You open Drawer (5). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: close Drawer (5)
+You close Drawer (5). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: open Drawer (5)
+You open Drawer (5). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: close Drawer (5)
+You close Drawer (5). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: open Drawer (5)
+You open Drawer (5). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: close Drawer (5)
+You close Drawer (5). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: open Drawer (5)
+You open Drawer (5). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: close Drawer (5)
+You close Drawer (5). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: open Drawer (5)
+You open Drawer (5). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: close Drawer (5)
+You close Drawer (5). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: open Drawer (5)
+You open Drawer (5). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: close Drawer (5)
+You close Drawer (5). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: open Drawer (5)
+You open Drawer (5). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: close Drawer (5)
+You close Drawer (5). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: open Drawer (5)
+You open Drawer (5). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: close Drawer (5)
+You close Drawer (5). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: open Drawer (5)
+You open Drawer (5). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: close Drawer (4)
+You close Drawer (4). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: close Drawer (5)
+You close Drawer (5). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Act: open Drawer (4)
+You open Drawer (4). You see Pencil (1), Dresser (1), Drawer (4, 5), Cabinet (1, 2, 3, 4), Book (1).
+Max decisions

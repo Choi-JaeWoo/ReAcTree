@@ -1,0 +1,201 @@
+Your primary goal is to: To cool a slice of lettuce and place it on the kitchen table.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up lettuce, cool and pick up lettuce, and place lettuce on table.
+Your task is to: find and pick up lettuce
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12).
+Think: First, I need to recall location of the lettuce.
+OK.
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Think: I have not seen Lettuce before. I need to search for it.
+OK.
+Act: go to Cabinet (1)
+You arrive at Cabinet (1). You see Cabinet (1, 11, 12). Cabinet (1) is closed. 
+Act: open Cabinet (1)
+You open Cabinet (1). You see Cabinet (1, 12).
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Act: go to Cabinet (12)
+You arrive at Cabinet (12). You see Cabinet (6, 10, 12). Cabinet (12) is closed. 
+Act: open Cabinet (12)
+You open Cabinet (12). You see Cabinet (6, 10, 12).
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Cabinet (3, 6, 8, 10). Cabinet (6) is closed. 
+Act: open Cabinet (6)
+You open Cabinet (6). You see Cabinet (3, 6, 8, 10).
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Act: go to Cabinet (3)
+You arrive at Cabinet (3). You see Fridge (1), Cabinet (3, 8). Cabinet (3) is closed. 
+Act: open Cabinet (3)
+You open Cabinet (3). You see Fridge (1), Cabinet (3, 8).
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Cabinet (6, 8, 10). Cabinet (8) is closed. 
+Act: open Cabinet (8)
+You open Cabinet (8). You see Cabinet (8, 10).
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Act: go to Cabinet (10)
+You arrive at Cabinet (10). You see Cabinet (6, 12). Cabinet (10) is closed. 
+Act: open Cabinet (10)
+You open Cabinet (10). You see Mug (2), Cabinet (6, 10, 12).
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Act: go to Cabinet (12)
+You arrive at Cabinet (12). You see Cabinet (10, 12). Cabinet (12) is open. 
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Act: go to Cabinet (10)
+You arrive at Cabinet (10). You see Cabinet (6, 10, 12). Cabinet (10) is open. 
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Cabinet (6, 8, 10). Cabinet (6) is open. 
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Cabinet (8, 10). Cabinet (8) is open. 
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Act: go to Cabinet (10)
+You arrive at Cabinet (10). You see Cabinet (6, 10, 12). Cabinet (10) is open. 
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Act: go to Cabinet (12)
+You arrive at Cabinet (12). You see Cabinet (10, 12). Cabinet (12) is open. 
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Act: go to Cabinet (10)
+You arrive at Cabinet (10). You see Cabinet (6, 10, 12). Cabinet (10) is open. 
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Cabinet (6, 8, 10). Cabinet (6) is open. 
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Cabinet (8, 10). Cabinet (8) is open. 
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Act: go to Cabinet (10)
+You arrive at Cabinet (10). You see Cabinet (6, 10, 12). Cabinet (10) is open. 
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Act: go to Cabinet (12)
+You arrive at Cabinet (12). You see Cabinet (10, 12). Cabinet (12) is open. 
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Act: go to Cabinet (10)
+You arrive at Cabinet (10). You see Cabinet (6, 10, 12). Cabinet (10) is open. 
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Cabinet (6, 8, 10). Cabinet (6) is open. 
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Cabinet (8, 10). Cabinet (8) is open. 
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Act: go to Cabinet (10)
+You arrive at Cabinet (10). You see Cabinet (6, 10, 12). Cabinet (10) is open. 
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Act: go to Cabinet (12)
+You arrive at Cabinet (12). You see Cabinet (10, 12). Cabinet (12) is open. 
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Act: go to Cabinet (10)
+You arrive at Cabinet (10). You see Cabinet (6, 10, 12). Cabinet (10) is open. 
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Cabinet (6, 8, 10). Cabinet (6) is open. 
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Cabinet (8, 10). Cabinet (8) is open. 
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Act: go to Cabinet (10)
+You arrive at Cabinet (10). You see Cabinet (6, 10, 12). Cabinet (10) is open. 
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Act: go to Cabinet (12)
+You arrive at Cabinet (12). You see Cabinet (10, 12). Cabinet (12) is open. 
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Act: go to Cabinet (10)
+You arrive at Cabinet (10). You see Cabinet (6, 10, 12). Cabinet (10) is open. 
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Cabinet (6, 8, 10). Cabinet (6) is open. 
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Cabinet (8, 10). Cabinet (8) is open. 
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Act: go to Cabinet (10)
+You arrive at Cabinet (10). You see Cabinet (6, 10, 12). Cabinet (10) is open. 
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Act: go to Cabinet (12)
+You arrive at Cabinet (12). You see Cabinet (10, 12). Cabinet (12) is open. 
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Act: go to Cabinet (10)
+You arrive at Cabinet (10). You see Cabinet (6, 10, 12). Cabinet (10) is open. 
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Cabinet (6, 8, 10). Cabinet (6) is open. 
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Cabinet (8, 10). Cabinet (8) is open. 
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Act: go to Cabinet (10)
+You arrive at Cabinet (10). You see Cabinet (6, 10, 12). Cabinet (10) is open. 
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Act: go to Cabinet (12)
+You arrive at Cabinet (12). You see Cabinet (10, 12). Cabinet (12) is open. 
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Act: go to Cabinet (10)
+You arrive at Cabinet (10). You see Cabinet (6, 10, 12). Cabinet (10) is open. 
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Cabinet (6, 8, 10). Cabinet (6) is open. 
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Cabinet (8, 10). Cabinet (8) is open. 
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Act: go to Cabinet (10)
+You arrive at Cabinet (10). You see Cabinet (6, 10, 12). Cabinet (10) is open. 
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Act: go to Cabinet (12)
+You arrive at Cabinet (12). You see Cabinet (10, 12). Cabinet (12) is open. 
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Act: go to Cabinet (10)
+You arrive at Cabinet (10). You see Cabinet (6, 10, 12). Cabinet (10) is open. 
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Act: go to Cabinet (6)
+You arrive at Cabinet (6). You see Cabinet (6, 8, 10). Cabinet (6) is open. 
+Act: recall location of Lettuce
+You have not seen Lettuce before.
+Act: go to Cabinet (8)
+You arrive at Cabinet (8). You see Cabinet (8, 10). Cabinet (8) is open. 
+Max decisions

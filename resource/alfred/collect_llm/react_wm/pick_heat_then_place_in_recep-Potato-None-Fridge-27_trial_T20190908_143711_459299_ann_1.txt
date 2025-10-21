@@ -1,0 +1,53 @@
+Your task is to: Put the heated potato in the fridge
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12).
+Think: To solve the task, I need to find and pick up the potato, then put it in the microwave. And I need to turn on and off the microwave. And I need to pick up the potato from the microwave, then put it in the fridge.
+OK.
+Think: First, I need to recall location of the potato.
+OK.
+Act: recall location of Potato
+You have not seen Potato before.
+Think: Now I need to find the potato. The potato is more likely to appear on CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-12), Drawer (1-3). I can check each place one by one, starting from CounterTop (1), until I find the potato.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Toaster (1), StoveKnob (4), StoveBurner (1, 3), SaltShaker (3), PepperShaker (3), Fridge (1), Drawer (3), DishSponge (1), CounterTop (1), Cabinet (7). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Spoon (3), Sink (1), SinkBasin (1), Lettuce (1), Fork (2), Faucet (1, 2), DishSponge (2), Curtains (1), CounterTop (2), Cabinet (4, 5). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Spoon (3), Sink (1), SinkBasin (1), Fork (2), Faucet (1, 2), DishSponge (2), Curtains (1), Cabinet (4, 5). 
+Think: I find Potato (1). Now, I need to pick it up.
+OK.
+Act: pick up Spoon (3)
+You pick up Spoon (3). You see Spoon (3), Sink (1), SinkBasin (1), Fork (2), Faucet (1, 2), DishSponge (2), Curtains (1), Cabinet (4, 5). I am holding Spoon (3) now.
+Think: I hold Spoon (3). Now, I need to put it in the microwave.
+OK.
+Act: go to Microwave (1)
+You arrive at Microwave (1). You see Spoon (3), Microwave (1), Ladle (1), Drawer (1), DiningTable (1), Cabinet (9), Apple (1). Microwave (1) is closed.  I am holding Spoon (3) now.
+Act: open Microwave (1)
+You open Microwave (1). You see Spoon (3), Microwave (1), Ladle (1), Drawer (1), Cabinet (9), Apple (1). I am holding Spoon (3) now.
+Act: put down Spoon (3)
+You put Spoon (3) on Microwave (1). You see Spoon (3), Microwave (1), Ladle (1), Drawer (1), Cabinet (9), Apple (1).
+Act: close Microwave (1)
+You close Microwave (1). You see Microwave (1), Ladle (1), Drawer (1), DiningTable (1), Cabinet (9), Apple (1).
+Think: I put Spoon (3) in Microwave (1). Now, I need to turn on and off Microwave (1).
+OK.
+Act: turn on Microwave (1)
+You turn on Microwave (1). You see Microwave (1), Ladle (1), Drawer (1), DiningTable (1), Cabinet (9), Apple (1).
+Act: turn off Microwave (1)
+You turn off Microwave (1). You see Microwave (1), Ladle (1), Drawer (1), DiningTable (1), Cabinet (9), Apple (1).
+Think: Now, I need to pick up the potato from the microwave.
+OK.
+Act: open Microwave (1)
+You open Microwave (1). You see Spoon (3), Microwave (1), Ladle (1), Drawer (1), Cabinet (9), Apple (1).
+Act: pick up Spoon (3)
+You pick up Spoon (3). You see Spoon (3), Microwave (1), Ladle (1), Drawer (1), Cabinet (9), Apple (1). I am holding Spoon (3) now.
+Think: I pick up Spoon (3) from Microwave (1). Now, I need to put it in the fridge.
+OK.
+Act: go to Fridge (1)
+You arrive at Fridge (1). You see Spoon (3), Fridge (1), Cabinet (7). Fridge (1) is closed.  I am holding Spoon (3) now.
+Act: open Fridge (1)
+You open Fridge (1). You see Tomato (2), Spoon (3), Plate (2), Fridge (1), Cabinet (7). I am holding Spoon (3) now.
+Act: put down Spoon (3)
+You put Spoon (3) on Fridge (1). You see Tomato (2), Spoon (3), Plate (2), Fridge (1), Cabinet (7).
+Think: Now I accomplish the goal.
+OK.
+Act: done

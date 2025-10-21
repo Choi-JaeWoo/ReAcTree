@@ -1,0 +1,19 @@
+Your primary goal is to: Put a chilled green cup in the microwave.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up green cup, cool and pick up green cup, and place green cup in microwave.
+Your task is to: find and pick up green cup
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8).
+Think: First, I need to recall location of the green cup.
+OK.
+Act: recall location of Cup
+You have not seen Cup before.
+Think: Now, I need to find the green cup. The green cup is more likely to appear on CoffeeMachine (1), CounterTop (1-2), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-8). I can check each place one by one, starting from CoffeeMachine (1), until I find the green cup.
+OK.
+Act: go to CoffeeMachine (1)
+You arrive at CoffeeMachine (1). You see Toaster (1), Spoon (1), Sink (1), SinkBasin (1), SaltShaker (1), Fridge (1), Faucet (1), Cup (1), CounterTop (2), CoffeeMachine (1). 
+Think: I find Cup (1). Now, I need to pick it up.
+OK.
+Act: pick up Cup (1)
+You pick up Cup (1). You see Toaster (1), Spoon (1), Sink (1), SinkBasin (1), Fridge (1), Faucet (1), Cup (1), CounterTop (2), CoffeeMachine (1). I am holding Cup (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

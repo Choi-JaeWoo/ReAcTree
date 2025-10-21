@@ -1,0 +1,19 @@
+Your primary goal is to: To move two pillows from the couch to the arm chair.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up pillow, place pillow on arm chair, Find and pick up pillow away from arm chair, and and place pillow on arm chair.
+Your task is to: find and pick up pillow
+You are in the house, and you arrive at the living room, Looking quickly around the room, you see Sofa (1), SideTable (1), GarbageCan (1), Dresser (1), Drawer (1, 2, 3, 4), CoffeeTable (1), Cabinet (1, 2, 3, 4), ArmChair (1, 2).
+Think: First, I need to recall location of the pillow.
+OK.
+Act: recall location of Pillow
+You have not seen Pillow before.
+Think: Now, I need to find the pillow. The pillow is more likely to appear on Sofa (1), SideTable (1), CoffeeTable (1), or in Cabinet (1-4), Drawer (1-4). I can check each place one by one, starting from Sofa (1), until I find the pillow.
+OK.
+Act: go to Sofa (1)
+You arrive at Sofa (1). You see Sofa (1), Pillow (1, 2). 
+Think: I find Pillow (1). Now, I need to pick it up.
+OK.
+Act: pick up Pillow (1)
+You pick up Pillow (1). You see Sofa (1), Pillow (1, 2). I am holding Pillow (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

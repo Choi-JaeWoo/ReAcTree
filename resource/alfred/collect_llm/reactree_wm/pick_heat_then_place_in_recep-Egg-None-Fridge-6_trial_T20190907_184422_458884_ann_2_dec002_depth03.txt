@@ -1,0 +1,27 @@
+Your primary goal is to: Cooking and cooling an egg.
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up egg, heat and pick up egg, and cool and pick up egg.
+Your task is to: find and pick up egg
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), Sink (1), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3, 4), CounterTop (1, 2, 3, 4), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15).
+Think: First, I need to recall location of the egg.
+OK.
+Act: recall location of Egg
+You have not seen Egg before.
+Think: Now, I need to find the egg. The egg is more likely to appear on CounterTop (1-4), SinkBasin (1), or in Fridge (1), Microwave (1), Cabinet (1-15), Drawer (1-4). I can check each place one by one, starting from CounterTop (1), until I find the egg.
+OK.
+Act: go to CounterTop (1)
+You arrive at CounterTop (1). You see Window (2), StoveKnob (3, 4), StoveBurner (2, 3), PaperTowelRoll (1), Pan (1), GarbageCan (1), DishSponge (1), CounterTop (1). 
+Act: go to CounterTop (2)
+You arrive at CounterTop (2). You see Spoon (1), Potato (3), Plate (1), DishSponge (2), CounterTop (2), Bread (1). 
+Act: go to CounterTop (3)
+You arrive at CounterTop (3). You see Cup (1), CounterTop (3), CoffeeMachine (1), Apple (1). 
+Act: go to CounterTop (4)
+You arrive at CounterTop (4). You see Chair (1), Cabinet (2, 3). 
+Act: go to SinkBasin (1)
+You arrive at SinkBasin (1). You see Window (1), Spoon (2), Spatula (1), Sink (1), SinkBasin (1), Faucet (1), Egg (1), Cup (1), CounterTop (3), ButterKnife (1). 
+Think: I find Egg (1). Now, I need to pick it up.
+OK.
+Act: pick up Egg (1)
+You pick up Egg (1). You see Window (1), Spoon (2), Spatula (1), Sink (1), SinkBasin (1), Faucet (1), Egg (1), Cup (1), CounterTop (3), ButterKnife (1). I am holding Egg (1) now.
+Think: Now I accomplish the goal.
+OK.
+Act: done

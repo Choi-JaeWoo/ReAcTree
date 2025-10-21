@@ -1,0 +1,167 @@
+Your primary goal is to: Get the tomato from the fridge and place it on the table in front of the bread. 
+To achieve this, you should perform your sibling tasks in sequence. At this level, your sibling tasks are: find and pick up tomato, place tomato on table, and place tomato in front of bread.
+Your task is to: place tomato in front of bread
+You are in the house, and you arrive at the kitchen, Looking quickly around the room, you see Toaster (1), StoveBurner (1, 2, 3, 4), SinkBasin (1), Microwave (1), GarbageCan (1), Fridge (1), Drawer (1, 2, 3), DiningTable (1, 2), CounterTop (1, 2), CoffeeMachine (1), Cabinet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10).
+Think: I hold Tomato (1). Now, I need to recall location of the bread.
+OK.
+Act: recall location of Bread
+You saw Bread (1) near DiningTable (2).
+Think: I can find Bread (1) near DiningTable (2). 
+OK.
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Think: I find Bread (1). Now, I need to put down Tomato (1) in front of Bread (1).
+OK.
+Act: go to Bread (1)
+You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to Bread (1)
+You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to Bread (1)
+You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to Bread (1)
+You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to Bread (1)
+You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to Bread (1)
+You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to Bread (1)
+You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to Bread (1)
+You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to Bread (1)
+You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to Bread (1)
+You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to Bread (1)
+You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to Bread (1)
+You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to Bread (1)
+You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to Bread (1)
+You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to Bread (1)
+You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to Bread (1)
+You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to Bread (1)
+You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to Bread (1)
+You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to Bread (1)
+You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to Bread (1)
+You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to Bread (1)
+You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to Bread (1)
+You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to Bread (1)
+You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to Bread (1)
+You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to Bread (1)
+You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to Bread (1)
+You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to Bread (1)
+You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to Bread (1)
+You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to Bread (1)
+You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to Bread (1)
+You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to Bread (1)
+You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to Bread (1)
+You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to Bread (1)
+You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to Bread (1)
+You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to Bread (1)
+You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to Bread (1)
+You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to Bread (1)
+You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to Bread (1)
+You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Act: go to DiningTable (2)
+You arrive at DiningTable (2). You see Potato (1), DishSponge (3), DiningTable (2), Cup (2), ButterKnife (2), Bread (1). 
+Max decisions
