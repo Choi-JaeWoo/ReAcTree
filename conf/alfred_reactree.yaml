@@ -1,0 +1,49 @@
+exp_type: collect_human # collect_human, collect_llm, evaluate, embed_em
+task_planner: reactree
+dataset_type: alfred
+
+name: ${dataset_type}-${task_planner}
+
+defaults:
+  - hydra: default.yaml
+  - llm_agent: default.yaml
+
+out_dir: ${hydra:run.dir}
+
+llm_agent:
+  model_name: 'meta-llama/Meta-Llama-3.1-8B'
+  agent_type: 'reactexpand' # 'react' or 'reactexpand'
+  ic_ex_select_type: 'simple_static' # 'static', 'simple_static', 'task_type', 'similarity'
+  working_memory: True
+  message_type: 'goal_information' # 'no_message' 'goal_information' 
+
+dataset:
+  train_set: 'train' # train 
+  eval_set: 'valid_seen'  # valid_seen, valid_unseen
+  
+  collect_ex_root_dir: 'resource/debug'
+  embedding_root_dir: ''
+  em_root_dir: ''
+
+  collect_dir: ''
+
+  task_selection_mode: True
+  check_success: False
+
+prompt:
+  num_examples: 6
+  sys_prompt_root_dir: 'resource/debug/sys_prompt'
+  ic_ex_root_dir: ''
+
+alfred:
+  x_display: '1'
+  eval_portion_in_percent: 100  # use a small set for a faster evaluationin. 100 means a full set.
+  random_seed_for_eval_subset: 1
+  reflection_smp_per_task: 100 # number of samples for reflection
+  per_task_type_cllection: True
+  splits : 'alfred/data/splits/oct21.json'
+  diverse_task: False
+
+# dataset:
+#   text_trajectory_base_dir: 'resource/text_trajectory_reactree' 
+#   task_selection_mode: True # task selection for trajectory collection

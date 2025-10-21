@@ -1,0 +1,54 @@
+exp_type: collect_human # collect_human, collect_llm, evaluate, embed_em
+task_planner: react
+dataset_type: wah
+
+name: ${dataset_type}-${task_planner}
+
+defaults:
+  - hydra: default.yaml
+  - llm_agent: default.yaml
+
+out_dir: ${hydra:run.dir}
+
+llm_agent:
+  model_name: 'meta-llama/Meta-Llama-3.1-8B'
+  agent_type: 'react' # 'react' or 'reactexpand'
+  ic_ex_select_type: 'simple_static' # 'static', 'simple_static', 'task_type', 'similarity'
+  working_memory: False
+
+dataset:
+  wah_trainset: 'dataset/wah_nl_train_rev.json'
+  wah_testset: 'dataset/wah_nl_test_rev.json'
+  obj_dict_sim2nl: 'resource/wah_obj_dict_sim2nl.json'
+  obj_dict_nl2sim: 'resource/wah_obj_dict_nl2sim.json'
+  
+  collect_ex_root_dir: 'resource/debug'
+  embedding_root_dir: ''
+  em_root_dir: ''
+
+  text_trajectory_dir: ''
+  collect_dir: ''
+  em_dir: ''
+
+environment:
+  agent_reset_id: 0 # 0 or 1
+  observation_types: ['partial']
+  use_editor: True
+  base_port: 8080
+  port_id: 1
+  executable_args: {'file_name': 'virtualhome/simulation/unity_simulator/linux_exec.x86_64'}
+  recording_options: {
+    'recording': False,
+    'output_folder': '../../../figure', #{LLMTaskPlanner directory}/figure
+    'file_name_prefix': 'Test',
+    'cameras': ['PERSON_FROM_BACK']
+    }
+  vis_log: True
+
+prompt:
+  sys_prompt_root_dir: 'resource/debug/sys_prompt'
+  ic_ex_root_dir: ''
+
+  system_prompt_path: ''
+  ic_ex_path: ''
+  ic_ex_dir: ''

@@ -1,0 +1,16 @@
+# OpenAI: 'gpt-3.5-turbo-instruct' & 'gpt-3.5-turbo-0125' & 'gpt-4-turbo-2024-04-09' & 'gpt-4o-mini-2024-07-18' & 'gpt-4o-2024-05-13'
+# GPT-Neo: 'EleutherAI/gpt-neo-1.3B'
+# LLaMA 2: 'meta-llama/Llama-2-7b-hf'
+# LLaMA 3: 'meta-llama/Meta-Llama-3-8B'
+# Mistral: 'mistralai/Mistral-7B-v0.1' & 'mistralai/Mistral-7B-Instruct-v0.1'  & 'mistralai/Mixtral-8x7B-v0.1'
+# Vicuna: 'lmsys/vicuna-7b-v1.5'
+# Phi: 'microsoft/Phi-3-medium-128k-instruct' & 'microsoft/Phi-3-small-8k-instruct' & 'microsoft/Phi-3-medium-4k-instruct' & 'microsoft/Phi-3-mini-128k-instruct'
+model_name: 'meta-llama/Meta-Llama-3-8B'
+max_steps: 49
+max_decisions: 99
+max_depth: 20
+use_accelerate_device_map: True
+load_in_8bit: False
+hf_auth_token: False
+openai_api_key: False
+random_seed: 0
