@@ -41,3 +41,51 @@ You can use WSL-Ubuntu on Windows 10/11.
     $ cd {project_root}/alfred/data
     $ sh download_data.sh json
     ```
+
+
+## Experiments on WAH-NL
+### Execute VirtualHome Simulator
+- Open a new terminal and run VirtualHome simulator
+
+```bash
+$ cd {project_root}
+$ ./virtualhome/simulation/unity_simulator/linux_exec.x86_64
+```
+
+### (Optional) Collect and Embed Human Trajectories
+- Open a new terminal and collect human trajectories
+
+```bash
+$ cd {project_root}
+$ sh ./script/exp_01_collect_human.sh
+```
+
+- After collecting human trajectories, embed the trajectories
+
+```bash
+$ cd {project_root}
+$ sh ./script/exp_02_embed_human_traj.sh
+```
+
+### (Optional) Bootstrap and Embed LLM Trajectories
+- Open a new terminal and collect llm trajectories
+
+```bash
+$ cd {project_root}
+$ sh ./script/exp_03_collect_llm.sh
+```
+
+- After bootstrapping, embed the trajectories
+
+```bash
+$ cd {project_root}
+$ sh ./script/exp_02_embed_human_traj.sh
+```
+
+### Evaluate
+- Open a new terminal and evaluate
+
+```bash
+$ cd {project_root}
+$ sh ./script/exp_05_eval.sh
+```
