@@ -28,7 +28,6 @@ class AlfredCollectorHuman():
             tp = AlfredReact(cfg, None, env)
         elif cfg.task_planner =='reactree':
             tp = AlfredReactree(cfg, None, env)
-        pdb.set_trace()
         # load train set 
         splits = 'alfred/data/splits/oct21.json'
         args_dict = {'data': 'alfred/data/json_2.1.0', 'pframe': 300, 'fast_epoch': False,
