@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ReAcTree: Hierarchical LLM Agent Trees with Control Flow for Long-Horizon Task Planning</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>ReAcTree: Hierarchical LLM Agent Trees with Control Flow for Long-Horizon Task Planning</h1>
+            <p class="authors">
+                Jae-Woo Choi¹, Hyungmin Kim¹², Hyobin Ong¹², Youngwoo Yoon¹², Minsu Jang¹², Dohyung Kim¹², Jaehong Kim¹ [cite: 2, 4]
+            </p>
+            <p class="affiliations">
+                ¹Electronics and Telecommunications Research Institute (ETRI) [cite: 5] <br>
+                ²University of Science and Technology (UST) [cite: 6]
+            </p>
+            <p class="conference">
+                Paper submitted to AAMAS 2026
+            </p>
+            <div class="links">
+                <a href="[arXiv_Link_Here]" class="button">arXiv</a>
+                <a href="https://github.com/Choi-JaeWoo/ReAcTree" class="button">GitHub</a>
+                <a href="#bibtex" class="button">BibTeX</a>
+            </div>
+        </header>
+
+        <section id="abstract">
+            <h2>Abstract</h2>
+            <p>
+                Recent advancements in large language models (LLMs) have enabled significant progress in decision-making and task planning for embodied autonomous agents. [cite: 8] However, most existing methods still struggle with complex, long-horizon tasks because they rely on a monolithic trajectory that entangles all past decisions and observations, attempting to solve the entire task in a single unified process. [cite: 9] To address this limitation, we propose ReAcTree, a hierarchical task-planning method that decomposes a complex goal into more manageable subgoals within a dynamically constructed agent tree. [cite: 10] Each subgoal is handled by an LLM agent node capable of reasoning, acting, and further expanding the tree, while control flow nodes coordinate the execution strategies of agent nodes. [cite: 11] In addition, we integrate two complementary memory systems: each agent node retrieves goal-specific, subgoal-level examples from episodic memory and shares environment-specific observations through working memory. [cite: 12] Experiments on the WAH-NL and ALFRED datasets demonstrate that ReAcTree consistently outperforms strong task-planning baselines such as ReAct across diverse LLMs. [cite: 13] Notably, on WAH-NL, ReAcTree achieves a 61% goal success rate with Qwen 2.5 72B, nearly doubling ReAct's 31%. [cite: 14]
+            </p>
+        </section>
+
+        <section id="key-concept">
+            <h2>Key Concept</h2>
+            <p>ReAcTree dynamically constructs an agent tree, decomposing a complex goal (e.g., "Please bring one pudding and one juice to the coffee table" [cite: 44, 45]) into a hierarchy of manageable subgoals. This approach prevents the propagation of reasoning errors common in monolithic trajectories. [cite: 31]</p>
+            <img src="images/figure1.png" alt="ReAcTree Hierarchical Structure Example">
+            <p class="caption"><b>Figure 1:</b> How ReAcTree decomposes a complex instruction into a hierarchical agent tree with agent nodes (circles) and control flow nodes (squares)[cite: 87, 88]. The right side shows how Agent Node 3 uses memory systems to generate its trajectory. [cite: 91]</p>
+        </section>
+
+        <section id="how-it-works">
+            <h2>How It Works</h2>
+            <div class="flex-container">
+                <div class="flex-item">
+                    <h3>1. Agent Nodes & Control Flow</h3>
+                    <p>Each LLM-powered <b>Agent Node</b> can <b>Reason</b> (think), <b>Act</b> (execute skills), or <b>Expand</b> the tree by proposing new subgoals. [cite: 28, 151] <b>Control Flow Nodes</b>, inspired by Behavior Trees, coordinate these agents using strategies like <b>Sequence (→)</b>, <b>Fallback (?)</b>, and <b>Parallel ( )</b>. [cite: 29, 152, 175]</p>
+                    <img src="images/figure2.png" alt="Agent Node and Control Flow Node Execution">
+                    <p class="caption"><b>Figure 2:</b> Illustration of Agent Node (left) and Control Flow Node (right) execution. [cite: 136]</p>
+                </div>
+                <div class="flex-item">
+                    <h3>2. Complementary Memory Systems</h3>
+                    <p>ReAcTree uses two memory systems to enhance planning and coordination: [cite: 33, 183]</p>
+                    <ul>
+                        <li><b>Episodic Memory:</b> Assists each agent node by retrieving relevant <i>subgoal-level examples</i> from past experiences, improving in-context learning. [cite: 34, 184]</li>
+                        <li><b>Working Memory:</b> Acts as a shared "blackboard" for all nodes, storing and recalling key observations (e.g., "juice 1 is near fridge 2") to reduce redundant searches and mitigate hallucinations. [cite: 36, 185, 205, 207]</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <section id="results">
+            <h2>Results</h2>
+            <h3>Quantitative Results (WAH-NL)</h3>
+            <p>
+                ReAcTree consistently outperforms baselines across all tested LLMs. [cite: 41] Notably, on the WAH-NL dataset, <b>ReAcTree+WM achieves a 61% Goal Success Rate (GSR) with Qwen 2.5 72B, nearly doubling the 31% GSR of ReAct+WM</b>. [cite: 14, 260] This demonstrates the effectiveness of hierarchical decomposition. [cite: 261]
+            </p>
+            <img src="images/table1_graph.png" alt="Bar chart of Goal Success Rate on WAH-NL, comparing ReAcTree to ReAct.">
+            <p class="caption">GSR (%) on WAH-NL. ReAcTree methods significantly outperform ReAct and other baselines across all model sizes. (Data from Table 1 )</p>
+
+            <h3>Qualitative Comparison 1: Complex Multi-Room Search (WAH-NL)</h3>
+            <p><b>Task:</b> "Ensure that both a wine and a juice are on the coffee table." [cite: 377]</p>
+            <table class="comparison">
+                <thead>
+                    <tr>
+                        <th>ReAct+WM (Failure)</th>
+                        <th>ReAcTree+WM (Success)</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>
+                            <img src="images/react_fail_wah.gif" alt="ReAct failing to find wine">
+                            <p>ReAct gets stuck in the kitchen (<code>kitchen 1</code>), repeatedly searching cabinets and failing to find the 'wine', which is in another room. It eventually hits the maximum decision limit. [cite: 406, 793-885]</p>
+                        </td>
+                        <td>
+                            <img src="images/reactree_success_wah.gif" alt="ReAcTree successfully finding wine">
+                            <p>ReAcTree uses a <b>Fallback (?)</b> strategy. After failing to find 'wine' in the kitchen (Node 5) and living room (Node 6), it successfully searches the <code>bedroom 1</code> (Node 7), finds the wine, and completes the task. [cite: 405, 921-1032]</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <h3>Qualitative Comparison 2: Precise Procedure (ALFRED)</h3>
+            <p><b>Task:</b> "Place a cooked potato slice in the fridge." [cite: 411, 1111]</p>
+            <table class="comparison">
+                <thead>
+                    <tr>
+                        <th>ReAct+WM (Failure)</th>
+                        <th>ReAcTree+WM (Success)</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>
+                            <img src="images/react_fail_alfred.gif" alt="ReAct failing to cook potato">
+                            <p>ReAct correctly slices the potato but <b>skips the crucial "cook" step</b>, placing the raw slice directly in the fridge and failing the task. [cite: 411, 1176-1190]</p>
+                        </td>
+                        <td>
+                            <img src="images/reactree_success_alfred.gif" alt="ReAcTree successfully cooking potato">
+                            <p>ReAcTree uses a <b>Sequence (→)</b> strategy [cite: 1114] to correctly execute all four subgoals: (1) find knife, (2) slice potato, (3) <b>cook potato (in microwave)</b>, (4) place in fridge. [cite: 411, 1165-1173]</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+
+        <section id="bibtex">
+            <h2>Citation (BibTeX)</h2>
+            <pre><code>
+@inproceedings{choi2026reactree,
+  title={ReAcTree: Hierarchical LLM Agent Trees with Control Flow for Long-Horizon Task Planning},
+  author={Choi, Jae-Woo and Kim, Hyungmin and Ong, Hyobin and Yoon, Youngwoo and Jang, Minsu and Kim, Dohyung and Kim, Jaehong},
+  booktitle={Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS)},
+  year={2026}
+}
+            </code></pre>
+        </section>
+
+        <footer>
+            <p>Jae-Woo Choi @ ETRI | Page template adapted from <a href="https://huggingface.co/papers/2412.15115">Qwen 2.5</a> style.</p>
+        </footer>
+    </div>
+</body>
+</html>
