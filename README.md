@@ -10,7 +10,7 @@
 Here is the official implementation of **ReAcTree**, a hierarchical task-planning framework designed to solve complex, long-horizon tasks. Instead of relying on a single, monolithic trajectory, ReAcTree dynamically constructs an agent tree by decomposing a complex goal into manageable subgoals. This tree is composed of **LLM agent nodes**—which can reason, act, and further expand the tree —and **control flow nodes** (e.g., sequence, fallback, parallel)  that coordinate the execution strategy. The framework is supported by two complementary memory systems: **episodic memory** to retrieve relevant subgoal-level examples for in-context learning and **working memory** to share environmental observations (like object locations) across all nodes. ReAcTree was validated on the WAH-NL and ALFRED benchmarks , where it consistently and significantly outperformed strong baselines like ReAct.
 
 <p align="center">
-  <img src="docs/images/figure1.png" alt="ReAcTree Concept Figure" width="80%">
+  <img src="docs/images/figure1.png" alt="ReAcTree Concept Figure" width="100%">
   <br>
 </p>
 <br>
@@ -131,7 +131,7 @@ $ python src/embed_em.py --config-name=wah_reactree exp_type=embed_em llm_agent.
 ### 5. Success case of ReAcTree on WAH-NL 
 
 <p align="center">
-  <img src="docs/images/figure3.png" alt="ReAcTree WAH-NL Example" width="80%">
+  <img src="docs/images/figure3.png" alt="ReAcTree WAH-NL Example" width="100%">
   <br>
 </p>
 <br>
@@ -185,7 +185,7 @@ $ python src/embed_em.py --config-name=alfred_reactree dataset.check_success=Tru
 
 ### 5. Success case of ReAcTree on ALFRED 
 <p align="center">
-  <img src="docs/images/figure7.png" alt="ReAcTree ALFRED Example" width="80%">
+  <img src="docs/images/figure7.png" alt="ReAcTree ALFRED Example" width="50%">
   <br>
 </p>
 <br>
