@@ -9,11 +9,7 @@
 
 Here is the official implementation of **ReAcTree**, a hierarchical task-planning framework designed to solve complex, long-horizon tasks. Instead of relying on a single, monolithic trajectory, ReAcTree dynamically constructs an agent tree by decomposing a complex goal into manageable subgoals. This tree is composed of **LLM agent nodes**—which can reason, act, and further expand the tree —and **control flow nodes** (e.g., sequence, fallback, parallel)  that coordinate the execution strategy. The framework is supported by two complementary memory systems: **episodic memory** to retrieve relevant subgoal-level examples for in-context learning and **working memory** to share environmental observations (like object locations) across all nodes. ReAcTree was validated on the WAH-NL and ALFRED benchmarks , where it consistently and significantly outperformed strong baselines like ReAct.
 
-<p align="center">
-  <img src="docs/images/figure1.png" alt="ReAcTree Concept Figure" width="90%">
-  <br>
-  <em>Figure 1: ReAcTree overview</em>
-</p>
+![ReAcTree Concept Figure](docs/images/figure1.png)
 
 ## Environment
 
@@ -127,6 +123,8 @@ $ cd {project_root}
 $ python src/embed_em.py --config-name=wah_reactree exp_type=embed_em llm_agent.working_memory=True dataset.embedding_root_dir=resource/wah/collect_llm dataset.em_root_dir=resource/wah/em_llm
 ```
 
+![ReAcTree WAH-NL Example](docs/images/figure3.png)
+
 
 ## Experiments on ALFRED
 ### 1. Evaluation
@@ -174,3 +172,5 @@ $ python src/collect_llm.py --config-name=alfred_reactree exp_type=collect_llm l
 $ cd {project_root}
 $ python src/embed_em.py --config-name=alfred_reactree dataset.check_success=True llm_agent.working_memory=True dataset.embedding_root_dir='resource/alfred/collect_llm' dataset.em_root_dir='resource/alfred/em_llm'
 ```
+
+![ReAcTree ALFRED Example](docs/images/figure7.png)
