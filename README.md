@@ -72,6 +72,7 @@ $ ./virtualhome/simulation/unity_simulator/linux_exec.x86_64
 2. Open a new terminal and evaluate
 
 ```bash
+$ huggingface-cli login
 $ cd {project_root}
 $ python src/evaluate.py --config-name=wah_reactree exp_type=evaluate llm_agent.model_name=meta-llama/Meta-Llama-3.1-8B llm_agent.working_memory=True prompt.sys_prompt_root_dir=resource/wah/sys_prompt prompt.ic_ex_root_dir=resource/wah/em_llm llm_agent.ic_ex_select_type=rag llm_agent.max_steps=199 llm_agent.max_decisions=199 
 ```
@@ -95,6 +96,7 @@ $ DISPLAY=:$display_num ./simulation/unity_simulator/linux_exec.x86_64 -batchmod
 3. Open another terminal and evaluate
 
 ```bash
+$ huggingface-cli login
 $ python src/evaluate.py --config-name=wah_headless_reactree exp_type=evaluate llm_agent.model_name=meta-llama/Meta-Llama-3.1-8B llm_agent.working_memory=True prompt.sys_prompt_root_dir=resource/wah/sys_prompt prompt.ic_ex_root_dir=resource/wah/em_llm llm_agent.ic_ex_select_type=rag llm_agent.max_steps=199 llm_agent.max_decisions=199 
 ```
 
@@ -141,6 +143,7 @@ $ python src/embed_em.py --config-name=wah_reactree exp_type=embed_em llm_agent.
 1. Open a new terminal and evaluate
 
 ```bash
+$ huggingface-cli login
 $ cd {project_root}
 $ python src/evaluate.py --config-name=alfred_reactree exp_type=evaluate dataset.eval_set=valid_seen llm_agent.model_name=meta-llama/Meta-Llama-3.1-8B llm_agent.working_memory=True prompt.sys_prompt_root_dir=resource/alfred/sys_prompt prompt.ic_ex_root_dir=resource/alfred/em_llm llm_agent.ic_ex_select_type=rag llm_agent.max_steps=100 llm_agent.max_decisions=100
 ```
