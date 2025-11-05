@@ -225,5 +225,4 @@ $ python src/embed_em.py --config-name=alfred_reactree dataset.check_success=Tru
       primaryClass={cs.AI},
       url={https://arxiv.org/abs/2511.02424}, 
 }
-}
 ```
