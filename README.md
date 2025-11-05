@@ -189,3 +189,33 @@ $ python src/embed_em.py --config-name=alfred_reactree dataset.check_success=Tru
   <br>
 </p>
 <br>
+
+
+## FAQ
+
+* Running out of disk space for Huggingface models
+  * You can set the cache folder to be in another disk.
+    ```bash
+    $ export TRANSFORMERS_CACHE=/mnt/otherdisk/.hf_cache/
+    ```
+
+* I have encountered 'cannot find X server with xdpyinfo' in running ALFRED experiments.
+  * Please try another x_display number (this should be a string; e.g., '1') in the config file.
+    ```bash
+    $ python src/evaluate.py --config-name=config_alfred alfred.x_display='1'
+    ```
+
+## Citation
+
+```bibtex
+@misc{choi2025reactreehierarchicalllmagent,
+      title={ReAcTree: Hierarchical LLM Agent Trees with Control Flow for Long-Horizon Task Planning}, 
+      author={Jae-Woo Choi and Hyungmin Kim and Hyobin Ong and Minsu Jang and Dohyung Kim and Jaehong Kim and Youngwoo Yoon},
+      year={2025},
+      eprint={2511.02424},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2511.02424}, 
+}
+}
+```
