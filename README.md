@@ -205,6 +205,14 @@ $ python src/embed_em.py --config-name=alfred_reactree dataset.check_success=Tru
     $ python src/evaluate.py --config-name=config_alfred alfred.x_display='1'
     ```
 
+* I am encountering a Huggingface authentication error during evaluation.
+  * You need to log in using the huggingface-cli first. Open a new terminal, log in, and then run your evaluation.
+    ```bash
+    $ huggingface-cli login
+    $ cd {project_root}
+    $ python src/evaluate.py --config-name=wah_reactree exp_type=evaluate llm_agent.model_name=meta-llama/Meta-Llama-3.1-8B llm_agent.working_memory=True prompt.sys_prompt_root_dir=resource/wah/sys_prompt prompt.ic_ex_root_dir=resource/wah/em_llm llm_agent.ic_ex_select_type=rag llm_agent.max_steps=199 llm_agent.max_decisions=199 
+```
+
 ## Citation
 
 ```bibtex
