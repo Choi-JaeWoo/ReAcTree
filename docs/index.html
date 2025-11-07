@@ -41,22 +41,19 @@
 
         <section id="how-it-works">
             <h2>How It Works</h2>
-            <div class="flex-container">
-                <div class="flex-item">
-                    <h3>1. Agent Nodes & Control Flow</h3>
-                    <p>Each LLM-powered <b>Agent Node</b> can <b>Reason</b> (think), <b>Act</b> (execute skills), or <b>Expand</b> the tree by proposing new subgoals. <b>Control Flow Nodes</b>, inspired by Behavior Trees, coordinate these agents using strategies like <b>Sequence (→)</b>, <b>Fallback (?)</b>, and <b>Parallel (⇒)</b>.</p>
-                    <img src="images/figure2.png" alt="Agent Node and Control Flow Node Execution">
-                    <p class="caption"><b>Figure 2:</b> Illustration of Agent Node (left) and Control Flow Node (right) execution.</p>
-                </div>
-                <div class="flex-item">
-                    <h3>2. Complementary Memory Systems</h3>
-                    <p>ReAcTree uses two memory systems to enhance planning and coordination:</p>
-                    <ul>
-                        <li><b>Episodic Memory:</b> Assists each agent node by retrieving relevant <i>subgoal-level examples</i> from past experiences, improving in-context learning.</li>
-                        <li><b>Working Memory:</b> Acts as a shared "blackboard" for all nodes, storing and recalling key observations (e.g., "juice 1 is near fridge 2") to reduce redundant searches and mitigate hallucinations.</li>
-                    </ul>
-                </div>
-            </div>
+            
+            <h3>1. Agent Nodes & Control Flow</h3>
+            <p>Each LLM-powered <b>Agent Node</b> can <b>Reason</b> (think), <b>Act</b> (execute skills), or <b>Expand</b> the tree by proposing new subgoals. <b>Control Flow Nodes</b>, inspired by Behavior Trees, coordinate these agents using strategies like <b>Sequence (→)</b>, <b>Fallback (?)</b>, and <b>Parallel (⇒)</b>.</p>
+            <img src="images/figure2.png" alt="Agent Node and Control Flow Node Execution">
+            <p class="caption"><b>Figure 2:</b> Illustration of Agent Node (left) and Control Flow Node (right) execution.</p>
+            
+            <h3>2. Complementary Memory Systems</h3>
+            <p>ReAcTree uses two memory systems to enhance planning and coordination:</p>
+            <ul>
+                <li><b>Episodic Memory:</b> Assists each agent node by retrieving relevant <i>subgoal-level examples</i> from past experiences, improving in-context learning.</li>
+                <li><b>Working Memory:</b> Acts as a shared "blackboard" for all nodes, storing and recalling key observations (e.g., "juice 1 is near fridge 2") to reduce redundant searches and mitigate hallucinations.</li>
+            </ul>
+
         </section>
 
         <section id="results">
@@ -212,7 +209,7 @@
             </div>
 
             <h3>Qualitative Comparison 1: Complex Multi-Room Search (WAH-NL)</h3>
-            <p><b>Task:</b> "Ensure that both a wine and a juice are on the coffee table."</p>
+            <p><b>Task:</b> "Make sure there is a wine and a juice on the coffee table."</p>
             <table class="comparison">
                 <thead>
                     <tr>
