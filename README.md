@@ -185,7 +185,7 @@ $ python src/embed_em.py --config-name=alfred_reactree dataset.check_success=Tru
 
 ### 5. Success case of ReAcTree on ALFRED 
 <p align="center">
-  <img src="docs/images/figure7.png" alt="ReAcTree ALFRED Example" width="50%">
+  <img src="docs/images/figure6.png" alt="ReAcTree ALFRED Example" width="50%">
   <br>
 </p>
 <br>
