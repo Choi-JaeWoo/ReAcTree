@@ -290,85 +290,115 @@
             </p>
 
             <h3>1. Main Results on WAH-NL</h3>
-            <div style="overflow-x: auto; margin-bottom: 2rem;">
-                <table class="comparison">
+            <div style="overflow-x: auto; margin-bottom: 2rem; border: 1px solid #e2e8f0; border-radius: 8px;">
+                <table class="comparison" style="margin: 0; min-width: 800px;">
                     <thead>
-                        <tr>
-                            <th>Method</th>
-                            <th>LLaMA 3.1 8B<br>(GSR / SSR)</th>
-                            <th>LLaMA 3.1 70B<br>(GSR / SSR)</th>
-                            <th>Qwen 2.5 7B<br>(GSR / SSR)</th>
-                            <th>Qwen 2.5 72B<br>(GSR / SSR)</th>
+                        <tr style="background-color: #f8fafc;">
+                            <th rowspan="2" style="vertical-align: middle; width: 15%;">Method</th>
+                            <th colspan="2" style="border-bottom: 1px solid #e2e8f0;">LLaMA 3.1 8B</th>
+                            <th colspan="2" style="border-bottom: 1px solid #e2e8f0;">LLaMA 3.1 70B</th>
+                            <th colspan="2" style="border-bottom: 1px solid #e2e8f0;">Qwen 2.5 7B</th>
+                            <th colspan="2" style="border-bottom: 1px solid #e2e8f0;">Qwen 2.5 72B</th>
                         </tr>
+                        <tr style="background-color: #f8fafc; font-size: 0.85rem; color: #64748b;">
+                            <th>GSR</th><th>SSR</th> <th>GSR</th><th>SSR</th> <th>GSR</th><th>SSR</th> <th>GSR</th><th>SSR</th> </tr>
                     </thead>
                     <tbody>
                         <tr>
-                            <td style="text-align: left;">ReAct</td>
-                            <td>8.00 / 34.25</td>
-                            <td>30.00 / 57.05</td>
-                            <td>10.00 / 31.82</td>
-                            <td>26.00 / 51.38</td>
+                            <td style="text-align: left; background-color: #fff;">ZSP [19]</td>
+                            <td>1.00</td><td>13.03</td>
+                            <td>0.00</td><td>14.42</td>
+                            <td>0.00</td><td>8.98</td>
+                            <td>0.00</td><td>14.22</td>
                         </tr>
                         <tr>
-                            <td style="text-align: left;">ReAct + WM</td>
-                            <td>16.00 / 42.65</td>
-                            <td>33.00 / 63.15</td>
-                            <td>13.00 / 39.73</td>
-                            <td>31.00 / 54.05</td>
+                            <td style="text-align: left; background-color: #fff;">Tree-Planner (N=25) [18]</td>
+                            <td>1.00</td><td>17.00</td>
+                            <td>2.00</td><td>16.72</td>
+                            <td>6.00</td><td>22.23</td>
+                            <td>6.00</td><td>32.41</td>
                         </tr>
                         <tr>
+                            <td style="text-align: left; background-color: #fff;">Tree-Planner (N=50) [18]</td>
+                            <td>4.00</td><td>21.85</td>
+                            <td>4.00</td><td>23.43</td>
+                            <td>8.00</td><td>28.10</td>
+                            <td>9.00</td><td>36.03</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: left; background-color: #fff;">ReAct [56]</td>
+                            <td>8.00</td><td>34.25</td>
+                            <td>30.00</td><td>57.05</td>
+                            <td>10.00</td><td>31.82</td>
+                            <td>26.00</td><td>51.38</td>
+                        </tr>
+                        <tr style="border-bottom: 2px solid #e2e8f0;">
+                            <td style="text-align: left; background-color: #fff;">ReAct + WM</td>
+                            <td>16.00</td><td>42.65</td>
+                            <td>33.00</td><td>63.15</td>
+                            <td>13.00</td><td>39.73</td>
+                            <td>31.00</td><td>54.05</td>
+                        </tr>
+                        <tr style="background-color: #f0f9ff;">
                             <td style="text-align: left; font-weight: bold; color: var(--primary-color);">ReAcTree (Ours)</td>
-                            <td>21.00 / 51.98</td>
-                            <td>32.00 / 60.58</td>
-                            <td>18.00 / 50.20</td>
-                            <td>48.00 / 75.13</td>
+                            <td>21.00</td><td>51.98</td>
+                            <td>32.00</td><td>60.58</td>
+                            <td>18.00</td><td>50.20</td>
+                            <td>48.00</td><td>75.13</td>
                         </tr>
                         <tr style="background-color: #e0f2fe;">
-                            <td style="text-align: left; font-weight: bold;">ReAcTree + WM (Ours)</td>
-                            <td><strong>30.00 / 60.77</strong></td>
-                            <td><strong>58.00 / 79.27</strong></td>
-                            <td><strong>37.00 / 59.63</strong></td>
-                            <td><strong>61.00 / 79.58</strong></td>
+                            <td style="text-align: left; font-weight: bold; color: var(--primary-color);">ReAcTree + WM (Ours)</td>
+                            <td><strong>30.00</strong></td><td><strong>60.77</strong></td>
+                            <td><strong>58.00</strong></td><td><strong>79.27</strong></td>
+                            <td><strong>37.00</strong></td><td><strong>59.63</strong></td>
+                            <td><strong>61.00</strong></td><td><strong>79.58</strong></td>
                         </tr>
                     </tbody>
                 </table>
-                <p class="caption">Table 1. Goal Success Rate (GSR) and Subgoal Success Rate (SSR) on WAH-NL dataset (%).</p>
+                [cite_start]<p class="caption" style="margin: 10px;">Table 1. Goal Success Rate (GSR) and Subgoal Success Rate (SSR) on WAH-NL dataset (%). Full results including Mistral, Gemma, and Phi-4 are available in the paper[cite: 23, 114].</p>
             </div>
 
             <h3>2. Main Results on ALFRED</h3>
-            <div style="overflow-x: auto;">
-                <table class="comparison" style="max-width: 800px; margin: 0 auto;">
+            <div style="overflow-x: auto; border: 1px solid #e2e8f0; border-radius: 8px;">
+                <table class="comparison" style="margin: 0; min-width: 600px;">
                     <thead>
-                        <tr>
-                            <th rowspan="2">Method</th>
-                            <th colspan="2">Valid-Seen (GSR)</th>
-                            <th colspan="2">Valid-Unseen (GSR)</th>
+                        <tr style="background-color: #f8fafc;">
+                            <th rowspan="2" style="vertical-align: middle;">Split</th>
+                            <th rowspan="2" style="vertical-align: middle;">Method</th>
+                            <th colspan="2" style="border-bottom: 1px solid #e2e8f0;">LLaMA 3.1 70B</th>
+                            <th colspan="2" style="border-bottom: 1px solid #e2e8f0;">Qwen 2.5 72B</th>
                         </tr>
-                        <tr>
-                            <th>LLaMA 3.1 70B</th>
-                            <th>Qwen 2.5 72B</th>
-                            <th>LLaMA 3.1 70B</th>
-                            <th>Qwen 2.5 72B</th>
+                        <tr style="background-color: #f8fafc; font-size: 0.85rem; color: #64748b;">
+                            <th>GSR</th><th>Imp.</th>
+                            <th>GSR</th><th>Imp.</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
-                            <td style="text-align: left;">ReAct + WM</td>
-                            <td>33.31</td>
-                            <td>37.07</td>
-                            <td>32.40</td>
-                            <td>39.10</td>
+                            <td rowspan="2" style="vertical-align: middle; background-color: #fff;">Valid-Seen</td>
+                            <td style="text-align: left; background-color: #fff;">ReAct + WM</td>
+                            <td>33.31</td><td>-</td>
+                            <td>37.07</td><td>-</td>
                         </tr>
-                        <tr style="background-color: #e0f2fe;">
-                            <td style="text-align: left; font-weight: bold;">ReAcTree + WM</td>
-                            <td><strong>40.00</strong></td>
-                            <td><strong>40.85</strong></td>
-                            <td><strong>37.03</strong></td>
-                            <td><strong>39.83</strong></td>
+                        <tr style="border-bottom: 1px solid #e2e8f0;">
+                            <td style="text-align: left; font-weight: bold; background-color: #e0f2fe; color: var(--primary-color);">ReAcTree + WM</td>
+                            <td><strong>40.00</strong></td><td style="color: green; font-size: 0.85em;">(+6.69)</td>
+                            <td><strong>40.85</strong></td><td style="color: green; font-size: 0.85em;">(+3.78)</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="2" style="vertical-align: middle; background-color: #fff;">Valid-Unseen</td>
+                            <td style="text-align: left; background-color: #fff;">ReAct + WM</td>
+                            <td>32.40</td><td>-</td>
+                            <td>39.10</td><td>-</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: left; font-weight: bold; background-color: #e0f2fe; color: var(--primary-color);">ReAcTree + WM</td>
+                            <td><strong>37.03</strong></td><td style="color: green; font-size: 0.85em;">(+4.63)</td>
+                            <td><strong>39.83</strong></td><td style="color: green; font-size: 0.85em;">(+0.73)</td>
                         </tr>
                     </tbody>
                 </table>
-                <p class="caption">Table 2. Goal Success Rate (GSR) on ALFRED dataset (%).</p>
+                [cite_start]<p class="caption" style="margin: 10px;">Table 2. Goal Success Rate (GSR) on ALFRED dataset (%). ReAcTree demonstrates strong generalization to unseen environments[cite: 23, 114].</p>
             </div>
         </section>
 
