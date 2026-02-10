@@ -2,274 +2,303 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ReAcTree: Hierarchical LLM Agent Trees with Control Flow for Long-Horizon Task Planning</title>
-    <link rel="stylesheet" href="style.css">
+    <title>ReAcTree: Hierarchical LLM Agent Trees</title>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <style>
+        :root {
+            --primary-color: #0056b3; /* A professional blue */
+            --accent-color: #f1f3f5; /* Light gray for backgrounds */
+            --text-color: #333;
+            --link-hover: #003d82;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            line-height: 1.6;
+            color: var(--text-color);
+            background-color: #fff;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 960px;
+            margin: 0 auto;
+            padding: 2rem 1rem;
+        }
+
+        /* Acceptance Banner */
+        .acceptance-banner {
+            background-color: #d4edda;
+            color: #155724;
+            padding: 0.75rem;
+            text-align: center;
+            font-weight: 600;
+            border-bottom: 1px solid #c3e6cb;
+            margin-bottom: 2rem;
+        }
+
+        /* Header Section */
+        header {
+            text-align: center;
+            margin-bottom: 3rem;
+        }
+
+        h1.title {
+            font-weight: 600;
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+            letter-spacing: -0.02em;
+        }
+
+        .authors {
+            font-size: 1.1rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .authors a {
+            color: var(--primary-color);
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        .authors a:hover {
+            text-decoration: underline;
+        }
+
+        .affiliations {
+            color: #666;
+            font-size: 0.95rem;
+            margin-bottom: 2rem;
+        }
+
+        /* Link Buttons */
+        .link-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 1rem;
+            margin-top: 1.5rem;
+        }
+
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            padding: 0.6rem 1.2rem;
+            border-radius: 30px;
+            font-weight: 600;
+            text-decoration: none;
+            transition: all 0.2s ease;
+        }
+
+        .btn-primary {
+            background-color: var(--text-color);
+            color: white;
+            border: 2px solid var(--text-color);
+        }
+        .btn-primary:hover {
+            background-color: #555;
+            border-color: #555;
+        }
+
+        .btn-outline {
+            background-color: white;
+            color: var(--text-color);
+            border: 2px solid var(--accent-color);
+        }
+        .btn-outline:hover {
+            background-color: var(--accent-color);
+            border-color: #d0d7de;
+        }
+
+        .btn i {
+            margin-right: 8px;
+        }
+
+
+        /* Content Sections */
+        section {
+            margin-bottom: 3rem;
+        }
+
+        h2.section-title {
+            text-align: center;
+            font-weight: 600;
+            margin-bottom: 1.5rem;
+            position: relative;
+            padding-bottom: 1rem;
+        }
+        h2.section-title::after {
+            content: "";
+            position: absolute;
+            bottom: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 60px;
+            height: 3px;
+            background-color: var(--primary-color);
+        }
+
+        .abstract-text {
+            text-align: justify;
+            background-color: var(--accent-color);
+            padding: 2rem;
+            border-radius: 12px;
+        }
+
+        /* Video Responsive Container */
+        .video-container {
+            position: relative;
+            padding-bottom: 56.25%; /* 16:9 ratio */
+            height: 0;
+            overflow: hidden;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+
+        .video-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+
+        /* Figures */
+        figure {
+            margin: 0;
+            text-align: center;
+        }
+
+        figure img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            border: 1px solid #eee;
+        }
+
+        figcaption {
+            margin-top: 1rem;
+            color: #555;
+            font-size: 0.95rem;
+            font-style: italic;
+        }
+
+        /* BibTeX */
+        .bibtex-container {
+            background-color: #f8f9fa;
+            padding: 1.5rem;
+            border-radius: 8px;
+            border: 1px solid #e9ecef;
+            overflow-x: auto;
+        }
+        pre {
+            margin: 0;
+            font-family: 'Consolas', 'Monaco', monospace;
+            font-size: 0.9rem;
+            white-space: pre-wrap;
+        }
+
+        footer {
+            text-align: center;
+            padding: 2rem;
+            color: #888;
+            font-size: 0.9rem;
+        }
+    </style>
 </head>
 <body>
+    <div class="acceptance-banner">
+        🎉 Accepted to AAMAS 2026 as a Full Paper
+    </div>
+
     <div class="container">
         <header>
-            <h1>ReAcTree: Hierarchical LLM Agent Trees with Control Flow for Long-Horizon Task Planning</h1>
-            <p class="authors">
-                Jae-Woo Choi<sup>1</sup>, Hyungmin Kim<sup>1,2</sup>, Hyobin Ong<sup>1,2</sup>, Minsu Jang<sup>1,2</sup>, Dohyung Kim<sup>1,2</sup>, Jaehong Kim<sup>1</sup>, Youngwoo Yoon<sup>1,2,†</sup>
-            </p>
-            <p class="affiliations">
-                <sup>1</sup>Electronics and Telecommunications Research Institute (ETRI) <br> 
-                <sup>2</sup>University of Science and Technology (UST)
-            </p>
+            <h1 class="title">ReAcTree: Hierarchical LLM Agent Trees<br>with Control Flow for Long-Horizon Task Planning</h1>
             
-            <div class="links">
-                <a href="https://arxiv.org/abs/2511.02424" class="button">arXiv</a>
-                <a href="https://github.com/Choi-JaeWoo/ReAcTree" class="button">GitHub</a>
-                <a href="#bibtex" class="button">BibTeX</a>
+            <div class="authors">
+                <a href="https://choi-jaewoo.github.io/" target="_blank">Jae-Woo Choi</a><sup>1</sup>, 
+                Hyungmin Kim<sup>1, 2</sup>, 
+                Hyobin Ong<sup>1, 2</sup>, 
+                <a href="https://sites.google.com/view/youngwoo-yoon/" target="_blank">Youngwoo Yoon</a><sup>1, 2</sup>,<br> 
+                Minsu Jang<sup>1, 2</sup>, 
+                Dohyung Kim<sup>1, 2</sup>, 
+                Jaehong Kim<sup>1</sup>
+            </div>
+            
+            <div class="affiliations">
+                <sup>1</sup> Electronics and Telecommunications Research Institute (ETRI)<br>
+                <sup>2</sup> University of Science and Technology (UST)
+            </div>
+
+            <div class="link-buttons">
+                <a href="https://arxiv.org/abs/2511.02424" class="btn btn-primary" target="_blank">
+                    <i class="ai ai-arxiv"></i> Paper (arXiv)
+                </a>
+                <a href="https://github.com/Choi-JaeWoo/ReAcTree" class="btn btn-outline" target="_blank">
+                    <i class="fab fa-github"></i> Code
+                </a>
             </div>
         </header>
 
+        <hr style="border: none; border-top: 1px solid #eee; margin: 3rem 0;">
+
         <section id="abstract">
-            <h2>Abstract</h2>
-            <p>
-                Recent advancements in large language models (LLMs) have enabled significant progress in decision-making and task planning for embodied autonomous agents. However, most existing methods still struggle with complex, long-horizon tasks because they rely on a monolithic trajectory that entangles all past decisions and observations, attempting to solve the entire task in a single unified process. To address this limitation, we propose <em>ReAcTree</em>, a hierarchical task-planning method that decomposes a complex goal into more manageable subgoals within a dynamically constructed agent tree. Each subgoal is handled by an LLM agent node capable of reasoning, acting, and further expanding the tree, while control flow nodes coordinate the execution strategies of agent nodes. In addition, we integrate two complementary memory systems: each agent node retrieves goal-specific, subgoal-level examples from <em>episodic memory</em> and shares environment-specific observations through <em>working memory</em>. Experiments on the WAH-NL and ALFRED datasets demonstrate that <em>ReAcTree</em> consistently outperforms strong task-planning baselines such as <em>ReAct</em> across diverse LLMs. Notably, on WAH-NL, <em>ReAcTree</em> achieves a 61% goal success rate with Qwen 2.5 72B, nearly doubling <em>ReAct</em>’s 31%.
-            </p>
+            <h2 class="section-title">Abstract</h2>
+            <div class="abstract-text">
+                Recent advancements in large language models (LLMs) have enabled significant progress in decision-making and task planning for embodied autonomous agents. However, most existing methods struggle with complex, long-horizon tasks because they rely on a monolithic trajectory that entangles all past decisions and observations to solve the entire task in a single unified process. To address this limitation, we propose <strong>ReAcTree</strong>, a hierarchical task-planning method that decomposes a complex goal into manageable subgoals within a dynamically constructed agent tree. Each subgoal is handled by an LLM agent node capable of reasoning, acting, and further expanding the tree, while control flow nodes coordinate the execution strategies of agent nodes. In addition, we integrate two complementary memory systems: each agent node retrieves goal-specific, subgoal-level examples from episodic memory and shares environment-specific observations through working memory. Experiments on the WAH-NL and ALFRED show ReAcTree consistently outperforms strong task-planning baselines such as ReAct across diverse LLMs. Notably, on WAH-NL, ReAcTree achieves a 61% goal success rate with Qwen 2.5 72B, nearly doubling ReAct’s 31%.
+            </div>
         </section>
 
-        <section id="key-concept">
-            <h2>Key Concept</h2>
-            <p>ReAcTree dynamically constructs an agent tree, decomposing a complex goal (e.g., "Please bring one pudding and one juice to the coffee table") into a hierarchy of manageable subgoals. This approach prevents the propagation of reasoning errors common in monolithic trajectories.</p>
-            <img src="images/figure1.png" alt="ReAcTree Hierarchical Structure Example">
-            <p class="caption"><b>Figure 1:</b> How ReAcTree decomposes a complex instruction into a hierarchical agent tree with agent nodes (circles) and control flow nodes (squares). The right side shows how Agent Node 3 uses memory systems to generate its trajectory.</p>
+        <section id="video">
+            <h2 class="section-title">Video Demonstration</h2>
+            <div class="video-container">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ?si=example" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            </div>
         </section>
 
-        <section id="how-it-works">
-            <h2>How It Works</h2>
-            
-            <h3>1. Agent Nodes & Control Flow</h3>
-            <p>Each LLM-powered <b>Agent Node</b> can <b>Reason</b> (think), <b>Act</b> (execute skills), or <b>Expand</b> the tree by proposing new subgoals. <b>Control Flow Nodes</b>, inspired by Behavior Trees, coordinate these agents using strategies like <b>Sequence (→)</b>, <b>Fallback (?)</b>, and <b>Parallel (⇒)</b>.</p>
-            <img src="images/figure2.png" alt="Agent Node and Control Flow Node Execution">
-            <p class="caption"><b>Figure 2:</b> Illustration of Agent Node (left) and Control Flow Node (right) execution.</p>
-            
-            <h3>2. Complementary Memory Systems</h3>
-            <p>ReAcTree uses two memory systems to enhance planning and coordination:</p>
-            <ul>
-                <li><b>Episodic Memory:</b> Assists each agent node by retrieving relevant <i>subgoal-level examples</i> from past experiences, improving in-context learning.</li>
-                <li><b>Working Memory:</b> Acts as a shared "blackboard" for all nodes, storing and recalling key observations (e.g., "juice 1 is near fridge 2") to reduce redundant searches and mitigate hallucinations.</li>
-            </ul>
-
+        <section id="method">
+            <h2 class="section-title">Method Overview</h2>
+            <figure>
+                <img src="docs/images/figure1.png" alt="Overview of ReAcTree framework">
+                <figcaption><strong>Figure 1. Overview of ReAcTree framework.</strong> Given a high-level goal from a user, the root agent node generates a sub-plan and expands the tree by adding appropriate control flow nodes and child agent nodes. Then, the agent tree is executed, coordinated by control flow nodes, with agent nodes performing reasoning and actions in the environment.</figcaption>
+            </figure>
         </section>
 
         <section id="results">
-            <h2>Results</h2>
-            <h3>Main Results (WAH-NL)</h3>
-            <p>
-                ReAcTree consistently outperforms baselines across all tested LLMs. Notably, on the WAH-NL dataset, <b>ReAcTree+WM achieves a 61% Goal Success Rate (GSR) with Qwen 2.5 72B, nearly doubling the 31% GSR of ReAct+WM</b>. This demonstrates the effectiveness of hierarchical decomposition.
-            </p>
-
-            <!-- Table 1 (WAH-NL) -->
-            <div style="overflow-x: auto; margin: 1.5em 0;">
-                <table class="comparison" id="results-table-wah">
-                    <thead>
-                        <tr>
-                            <th rowspan="2" style="text-align: left; padding: 8px;">Method</th>
-                            <th colspan="2">LLaMA 3.1 8B</th>
-                            <th colspan="2">LLaMA 3.1 70B</th>
-                            <th colspan="2">Qwen 2.5 7B</th>
-                            <th colspan="2">Qwen 2.5 72B</th>
-                            <th colspan="2">Mistral 7B</th>
-                            <th colspan="2">Gemma 2 9B</th>
-                            <th colspan="2">Phi-4-RP 14B</th>
-                        </tr>
-                        <tr>
-                            <th>GSR</th><th>SSR</th>
-                            <th>GSR</th><th>SSR</th>
-                            <th>GSR</th><th>SSR</th>
-                            <th>GSR</th><th>SSR</th>
-                            <th>GSR</th><th>SSR</th>
-                            <th>GSR</th><th>SSR</th>
-                            <th>GSR</th><th>SSR</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td style="text-align: left; padding: 8px;">ZSP</td>
-                            <td>1.00</td><td>13.03</td>
-                            <td>14.42</td><td>0.00</td>
-                            <td>0.00</td><td>8.98</td>
-                            <td>0.00</td><td>14.22</td>
-                            <td>0.00</td><td>11.65</td>
-                            <td>13.87</td><td>1.00</td>
-                            <td>17.90</td><td>0.00</td>
-                        </tr>
-                        <tr>
-                            <td style="text-align: left; padding: 8px;">Tree-Planner N=25</td>
-                            <td>1.00</td><td>17.00</td>
-                            <td>16.72</td><td>2.00</td>
-                            <td>6.00</td><td>22.23</td>
-                            <td>6.00</td><td>32.41</td>
-                            <td>1.00</td><td>20.43</td>
-                            <td>17.58</td><td>2.00</td>
-                            <td>3.00</td><td>17.52</td>
-                        </tr>
-                        <tr>
-                            <td style="text-align: left; padding: 8px;">Tree-Planner N=50</td>
-                            <td>4.00</td><td>21.85</td>
-                            <td>4.00</td><td>23.43</td>
-                            <td>8.00</td><td>28.10</td>
-                            <td>9.00</td><td>36.03</td>
-                            <td>6.00</td><td>23.63</td>
-                            <td>3.00</td><td>23.30</td>
-                            <td>20.40</td><td>4.00</td>
-                        </tr>
-                        <tr>
-                            <td style="text-align: left; padding: 8px;">ReAct</td>
-                            <td>8.00</td><td>34.25</td>
-                            <td>30.00</td><td>57.05</td>
-                            <td>10.00</td><td>31.82</td>
-                            <td>26.00</td><td>51.38</td>
-                            <td>6.00</td><td>28.18</td>
-                            <td>9.00</td><td>37.20</td>
-                            <td>33.00</td><td>48.13</td>
-                        </tr>
-                        <tr>
-                            <td style="text-align: left; padding: 8px;">ReAct+WM</td>
-                            <td>16.00</td><td>42.65</td>
-                            <td><u>33.00</u></td><td><u>63.15</u></td>
-                            <td>13.00</td><td>39.73</td>
-                            <td>31.00</td><td>54.05</td>
-                            <td>9.00</td><td>31.95</td>
-                            <td>11.00</td><td>39.93</td>
-                            <td>33.00</td><td>51.28</td>
-                        </tr>
-                        <tr>
-                            <td style="text-align: left; padding: 8px;">ReAcTree</td>
-                            <td><u>21.00</u></td><td><u>51.98</u></td>
-                            <td>32.00</td><td>60.58</td>
-                            <td><u>18.00</u></td><td><u>50.20</u></td>
-                            <td><u>48.00</u></td><td><u>75.13</u></td>
-                            <td><u>11.00</u></td><td><u>37.92</u></td>
-                            <td><u>26.00</u></td><td><u>60.43</u></td>
-                            <td><strong>49.00</strong></td><td><u>67.47</u></td>
-                        </tr>
-                        <tr>
-                            <td style="text-align: left; padding: 8px;">ReAcTree+WM</td>
-                            <td><strong>30.00</strong></td><td><strong>60.77</strong></td>
-                            <td><strong>58.00</strong></td><td><strong>79.27</strong></td>
-                            <td><strong>37.00</strong></td><td><strong>59.63</strong></td>
-                            <td><strong>61.00</strong></td><td><strong>79.58</strong></td>
-                            <td><strong>15.00</strong></td><td><strong>49.57</strong></td>
-                            <td><strong>38.00</strong></td><td><strong>67.08</strong></td>
-                            <td><strong>49.00</strong></td><td><strong>69.30</strong></td>
-                        </tr>
-                    </tbody>
-                </table>
-            </div>
-
-            <h3>Main Results (ALFRED)</h3>
-            <p>ReAcTree+WM also consistently outperforms ReAct+WM on the ALFRED dataset across all evaluated models and splits, demonstrating its effectiveness in relatively short-horizon, single-room tasks and its ability to generalize to unseen environments.</p>
-
-            <!-- Table 2 (ALFRED) -->
-            <div style="overflow-x: auto; margin: 1.5em 0;">
-                <table class="comparison" id="results-table-alfred">
-                    <thead>
-                        <tr>
-                            <th style="text-align: left; padding: 8px;">Split</th>
-                            <th style="text-align: left; padding: 8px;">Method</th>
-                            <th colspan="2">LLaMA 3.1 (8B, 70B)</th>
-                            <th colspan="2">Qwen 2.5 (7B, 72B)</th>
-                            <th style="text-align: left; padding: 8px;">Phi-4-RP 14B</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td rowspan="2" style="text-align: left; padding: 8px; vertical-align: top;">Valid-Seen</td>
-                            <td style="text-align: left; padding: 8px;">ReAct+WM</td>
-                            <td>21.22</td><td>33.31</td>
-                            <td>16.83</td><td>37.07</td>
-                            <td>31.71</td>
-                        </tr>
-                        <tr>
-                            <td style="text-align: left; padding: 8px;">ReAcTree+WM</td>
-                            <td><strong>25.85</strong></td><td><strong>40.00</strong></td>
-                            <td><strong>20.98</strong></td><td><strong>40.85</strong></td>
-                            <td><strong>35.12</strong></td>
-                        </tr>
-                        <tr>
-                            <td rowspan="2" style="text-align: left; padding: 8px; vertical-align: top;">Valid-Unseen</td>
-                            <td style="text-align: left; padding: 8px;">ReAct+WM</td>
-                            <td>19.61</td><td>32.40</td>
-                            <td>16.81</td><td>39.10</td>
-                            <td>29.72</td>
-                        </tr>
-                        <tr>
-                            <td style="text-align: left; padding: 8px;">ReAcTree+WM</td>
-                            <td><strong>26.19</strong></td><td><strong>37.03</strong></td>
-                            <td><strong>25.09</strong></td><td><strong>39.83</strong></td>
-                            <td><strong>36.18</strong></td>
-                        </tr>
-                    </tbody>
-                </table>
-            </div>
-
-            <h3>Qualitative Comparison 1: Complex Multi-Room Search (WAH-NL)</h3>
-            <p><b>Task:</b> "Make sure there is a wine and a juice on the coffee table."</p>
-            <table class="comparison">
-                <thead>
-                    <tr>
-                        <th>ReAct+WM (Failure)</th>
-                        <th>ReAcTree+WM (Success)</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td>
-                            <img src="images/figure5.png" alt="ReAct failing to find wine">
-                            <p>ReAct gets stuck in the kitchen (<code>kitchen 1</code>), repeatedly searching cabinets and failing to find the 'wine', which is in another room. It eventually hits the maximum decision limit.</p>
-                        </td>
-                        <td>
-                            <img src="images/figure3.png" alt="ReAcTree successfully finding wine">
-                            <p>ReAcTree uses a <b>Fallback (?)</b> strategy. After failing to find 'wine' in the kitchen (Node 5) and living room (Node 6), it successfully searches the <code>bedroom 1</code> (Node 7), finds the wine, and completes the task.</p>
-                        </td>
-                    </tr>
-                </tbody>
-            </table>
-
-            <h3>Qualitative Comparison 2: Precise Procedure (ALFRED)</h3>
-            <p><b>Task:</b> "Place a cooked potato slice in the fridge."</p>
-            <table class="comparison">
-                <thead>
-                    <tr>
-                        <th>ReAct+WM (Failure)</th>
-                        <th>ReAcTree+WM (Success)</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td>
-                            <img src="images/figure7.jpg" alt="ReAct failing to cook potato">
-                            <p>ReAct correctly slices the potato but <b>skips the crucial "cook" step</b>, placing the raw slice directly in the fridge and failing the task.</p>
-                        </td>
-                        <td>
-                            <img src="images/figure6.png" alt="ReAcTree successfully cooking potato">
-                            <p>ReAcTree uses a <b>Sequence (→)</b> strategy to correctly execute all four subgoals: (1) find knife, (2) slice potato, (3) <b>cook potato (in microwave)</b>, (4) place in fridge.</p>
-                        </td>
-                    </tr>
-                </tbody>
-            </table>
+            <h2 class="section-title">Qualitative Results</h2>
+            <figure style="max-width: 80%; margin: 0 auto;">
+                <img src="docs/images/figure3.png" alt="Qualitative example on WAH-NL">
+                <figcaption><strong>Figure 3. Qualitative example on WAH-NL.</strong> (Left) ReAcTree successfully completes the long-horizon task by effectively combining reasoning, acting, and planning capabilities. (Right) ReAct fails the task due to repetitive actions and lack of hierarchical planning.</figcaption>
+            </figure>
         </section>
 
-        <section id="bibtex">
-            <h2>Citation (BibTeX)</h2>
-            <pre><code>
-@misc{choi2025reactreehierarchicalllmagent,
-      title={ReAcTree: Hierarchical LLM Agent Trees with Control Flow for Long-Horizon Task Planning}, 
-      author={Jae-Woo Choi and Hyungmin Kim and Hyobin Ong and Minsu Jang and Dohyung Kim and Jaehong Kim and Youngwoo Yoon},
-      year={2025},
-      eprint={2511.02424},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2511.02424},
-}
-            </code></pre>
+        <section id="citation">
+            <h2 class="section-title">Citation</h2>
+            <div class="bibtex-container">
+<pre><code>@inproceedings{choi2026reactree,
+    title={ReAcTree: Hierarchical LLM Agent Trees with Control Flow for Long-Horizon Task Planning}, 
+    author={Jae-Woo Choi and Hyungmin Kim and Hyobin Ong and Minsu Jang and Dohyung Kim and Jaehong Kim and Youngwoo Yoon},
+    booktitle={Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS)},
+    year={2026}
+}</code></pre>
+            </div>
         </section>
 
-    </div>
+    </div> <footer>
+        <p>© 2026 ReAcTree Project. Website design tailored for academic presentation.</p>
+    </footer>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
 </body>
 </html>
