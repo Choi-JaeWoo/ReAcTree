@@ -1,6 +1,6 @@
 # ReAcTree: Hierarchical LLM Agent Trees with Control Flow for Long-Horizon Task Planning
 
-### 🎉 Accepted to AAMAS 2026 (Full Paper)
+### Accepted to AAMAS 2026 (Full Paper)
 
 ### [Paper (arXiv)](https://arxiv.org/abs/2511.02424) |
 
