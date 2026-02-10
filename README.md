@@ -4,7 +4,7 @@
 
 ### [Paper (arXiv)](https://arxiv.org/abs/2511.02424) |
 
-[Jae-Woo Choi](https://choi-jaewoo.github.io/)<sup>1, 2</sup>, Hyungmin Kim <sup>1, 2</sup>, Hyobin Ong<sup>1, 2</sup>, [Youngwoo Yoon](https://sites.google.com/view/youngwoo-yoon/)<sup>1, 2</sup>, Minsu Jang<sup>1, 2</sup>, Dohyung Kim<sup>1, 2</sup>, Jaehong Kim<sup>1</sup>
+[Jae-Woo Choi](https://choi-jaewoo.github.io/)<sup>1, 2</sup>, Hyungmin Kim <sup>2</sup>, Hyobin Ong<sup>2</sup>, [Youngwoo Yoon](https://sites.google.com/view/youngwoo-yoon/)<sup>1, 2</sup>, Minsu Jang<sup>1, 2</sup>, Dohyung Kim<sup>1, 2</sup>, Jaehong Kim<sup>1</sup>
 
 <sup>1</sup> Electronics and Telecommunications Research Institute, <sup>2</sup> University of Science and Technology 
 
