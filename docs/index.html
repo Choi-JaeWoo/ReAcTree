@@ -286,76 +286,107 @@
             <p style="margin-bottom: 1.5rem;">
                 ReAcTree consistently outperforms baselines across diverse LLMs. Notably, on the WAH-NL dataset, 
                 <strong>ReAcTree+WM achieves a 61% Goal Success Rate (GSR) with Qwen 2.5 72B</strong>, 
-                [cite_start]nearly doubling the performance of ReAct+WM[cite: 23, 114].
+                nearly doubling the performance of ReAct+WM.
             </p>
 
             <h3>1. Main Results on WAH-NL</h3>
             <div style="overflow-x: auto; margin-bottom: 2rem; border: 1px solid #e2e8f0; border-radius: 8px;">
-                <table class="comparison" style="margin: 0; min-width: 800px;">
-                    <thead>
+                <table class="comparison" style="margin: 0; min-width: 1200px;"> <thead>
                         <tr style="background-color: #f8fafc;">
-                            <th rowspan="2" style="vertical-align: middle; width: 15%; text-align: left; padding-left: 15px;">Method</th>
+                            <th rowspan="2" style="vertical-align: middle; width: 12%; text-align: left; padding-left: 15px; position: sticky; left: 0; background-color: #f8fafc; z-index: 1;">Method</th>
                             <th colspan="2" style="border-bottom: 1px solid #e2e8f0; text-align: center;">LLaMA 3.1 8B</th>
                             <th colspan="2" style="border-bottom: 1px solid #e2e8f0; text-align: center;">LLaMA 3.1 70B</th>
                             <th colspan="2" style="border-bottom: 1px solid #e2e8f0; text-align: center;">Qwen 2.5 7B</th>
                             <th colspan="2" style="border-bottom: 1px solid #e2e8f0; text-align: center;">Qwen 2.5 72B</th>
+                            <th colspan="2" style="border-bottom: 1px solid #e2e8f0; text-align: center;">Mistral 7B</th>
+                            <th colspan="2" style="border-bottom: 1px solid #e2e8f0; text-align: center;">Gemma 2 9B</th>
+                            <th colspan="2" style="border-bottom: 1px solid #e2e8f0; text-align: center;">Phi-4-RP 14B</th>
                         </tr>
                         <tr style="background-color: #f8fafc; font-size: 0.85rem; color: #64748b;">
-                            <th style="text-align: center;">GSR</th><th style="text-align: center;">SSR</th> <th style="text-align: center;">GSR</th><th style="text-align: center;">SSR</th> <th style="text-align: center;">GSR</th><th style="text-align: center;">SSR</th> <th style="text-align: center;">GSR</th><th style="text-align: center;">SSR</th> </tr>
+                            <th style="text-align: center;">GSR</th><th style="text-align: center;">SSR</th>
+                            <th style="text-align: center;">GSR</th><th style="text-align: center;">SSR</th>
+                            <th style="text-align: center;">GSR</th><th style="text-align: center;">SSR</th>
+                            <th style="text-align: center;">GSR</th><th style="text-align: center;">SSR</th>
+                            <th style="text-align: center;">GSR</th><th style="text-align: center;">SSR</th>
+                            <th style="text-align: center;">GSR</th><th style="text-align: center;">SSR</th>
+                            <th style="text-align: center;">GSR</th><th style="text-align: center;">SSR</th>
+                        </tr>
                     </thead>
                     <tbody>
                         <tr>
-                            <td style="text-align: left; background-color: #fff; padding-left: 15px;">ZSP [19]</td>
+                            <td style="text-align: left; background-color: #fff; padding-left: 15px; position: sticky; left: 0; z-index: 1;">ZSP [19]</td>
                             <td style="text-align: center;">1.00</td><td style="text-align: center;">13.03</td>
                             <td style="text-align: center;">0.00</td><td style="text-align: center;">14.42</td>
                             <td style="text-align: center;">0.00</td><td style="text-align: center;">8.98</td>
                             <td style="text-align: center;">0.00</td><td style="text-align: center;">14.22</td>
+                            <td style="text-align: center;">0.00</td><td style="text-align: center;">11.65</td>
+                            <td style="text-align: center;">1.00</td><td style="text-align: center;">13.87</td>
+                            <td style="text-align: center;">17.90</td><td style="text-align: center;">0.00</td>
                         </tr>
                         <tr>
-                            <td style="text-align: left; background-color: #fff; padding-left: 15px;">Tree-Planner (N=25) [18]</td>
+                            <td style="text-align: left; background-color: #fff; padding-left: 15px; position: sticky; left: 0; z-index: 1;">Tree-Planner (N=25)</td>
                             <td style="text-align: center;">1.00</td><td style="text-align: center;">17.00</td>
                             <td style="text-align: center;">2.00</td><td style="text-align: center;">16.72</td>
                             <td style="text-align: center;">6.00</td><td style="text-align: center;">22.23</td>
                             <td style="text-align: center;">6.00</td><td style="text-align: center;">32.41</td>
+                            <td style="text-align: center;">1.00</td><td style="text-align: center;">20.43</td>
+                            <td style="text-align: center;">2.00</td><td style="text-align: center;">17.58</td>
+                            <td style="text-align: center;">3.00</td><td style="text-align: center;">17.52</td>
                         </tr>
                         <tr>
-                            <td style="text-align: left; background-color: #fff; padding-left: 15px;">Tree-Planner (N=50) [18]</td>
+                            <td style="text-align: left; background-color: #fff; padding-left: 15px; position: sticky; left: 0; z-index: 1;">Tree-Planner (N=50)</td>
                             <td style="text-align: center;">4.00</td><td style="text-align: center;">21.85</td>
                             <td style="text-align: center;">4.00</td><td style="text-align: center;">23.43</td>
                             <td style="text-align: center;">8.00</td><td style="text-align: center;">28.10</td>
                             <td style="text-align: center;">9.00</td><td style="text-align: center;">36.03</td>
+                            <td style="text-align: center;">6.00</td><td style="text-align: center;">23.63</td>
+                            <td style="text-align: center;">3.00</td><td style="text-align: center;">23.30</td>
+                            <td style="text-align: center;">4.00</td><td style="text-align: center;">20.40</td>
                         </tr>
                         <tr>
-                            <td style="text-align: left; background-color: #fff; padding-left: 15px;">ReAct [56]</td>
+                            <td style="text-align: left; background-color: #fff; padding-left: 15px; position: sticky; left: 0; z-index: 1;">ReAct [56]</td>
                             <td style="text-align: center;">8.00</td><td style="text-align: center;">34.25</td>
                             <td style="text-align: center;">30.00</td><td style="text-align: center;">57.05</td>
                             <td style="text-align: center;">10.00</td><td style="text-align: center;">31.82</td>
                             <td style="text-align: center;">26.00</td><td style="text-align: center;">51.38</td>
+                            <td style="text-align: center;">6.00</td><td style="text-align: center;">28.18</td>
+                            <td style="text-align: center;">9.00</td><td style="text-align: center;">37.20</td>
+                            <td style="text-align: center;"><u>33.00</u></td><td style="text-align: center;">48.13</td>
                         </tr>
                         <tr style="border-bottom: 2px solid #e2e8f0;">
-                            <td style="text-align: left; background-color: #fff; padding-left: 15px;">ReAct + WM</td>
+                            <td style="text-align: left; background-color: #fff; padding-left: 15px; position: sticky; left: 0; z-index: 1;">ReAct + WM</td>
                             <td style="text-align: center;">16.00</td><td style="text-align: center;">42.65</td>
-                            <td style="text-align: center;">33.00</td><td style="text-align: center;">63.15</td>
+                            <td style="text-align: center;"><u>33.00</u></td><td style="text-align: center;"><u>63.15</u></td>
                             <td style="text-align: center;">13.00</td><td style="text-align: center;">39.73</td>
                             <td style="text-align: center;">31.00</td><td style="text-align: center;">54.05</td>
+                            <td style="text-align: center;">9.00</td><td style="text-align: center;">31.95</td>
+                            <td style="text-align: center;">11.00</td><td style="text-align: center;">39.93</td>
+                            <td style="text-align: center;"><u>33.00</u></td><td style="text-align: center;">51.28</td>
+                        </tr>
+                        
+                        <tr style="background-color: #f0f9ff;">
+                            <td style="text-align: left; font-weight: bold; color: var(--primary-color); padding-left: 15px; position: sticky; left: 0; background-color: #f0f9ff; z-index: 1;">ReAcTree (Ours)</td>
+                            <td style="text-align: center;"><u>21.00</u></td><td style="text-align: center;"><u>51.98</u></td>
+                            <td style="text-align: center;">32.00</td><td style="text-align: center;">60.58</td>
+                            <td style="text-align: center;"><u>18.00</u></td><td style="text-align: center;"><u>50.20</u></td>
+                            <td style="text-align: center;"><u>48.00</u></td><td style="text-align: center;"><u>75.13</u></td>
+                            <td style="text-align: center;"><u>11.00</u></td><td style="text-align: center;"><u>37.92</u></td>
+                            <td style="text-align: center;"><u>26.00</u></td><td style="text-align: center;"><u>60.43</u></td>
+                            <td style="text-align: center;"><strong>49.00</strong></td><td style="text-align: center;"><u>67.47</u></td>
                         </tr>
                         <tr style="background-color: #f0f9ff;">
-                            <td style="text-align: left; font-weight: bold; color: var(--primary-color); padding-left: 15px;">ReAcTree (Ours)</td>
-                            <td style="text-align: center;">21.00</td><td style="text-align: center;">51.98</td>
-                            <td style="text-align: center;">32.00</td><td style="text-align: center;">60.58</td>
-                            <td style="text-align: center;">18.00</td><td style="text-align: center;">50.20</td>
-                            <td style="text-align: center;">48.00</td><td style="text-align: center;">75.13</td>
-                        </tr>
-                        <tr style="background-color: #e0f2fe;">
-                            <td style="text-align: left; font-weight: bold; color: var(--primary-color); padding-left: 15px;">ReAcTree + WM (Ours)</td>
+                            <td style="text-align: left; font-weight: bold; color: var(--primary-color); padding-left: 15px; position: sticky; left: 0; background-color: #f0f9ff; z-index: 1;">ReAcTree + WM (Ours)</td>
                             <td style="text-align: center;"><strong>30.00</strong></td><td style="text-align: center;"><strong>60.77</strong></td>
                             <td style="text-align: center;"><strong>58.00</strong></td><td style="text-align: center;"><strong>79.27</strong></td>
                             <td style="text-align: center;"><strong>37.00</strong></td><td style="text-align: center;"><strong>59.63</strong></td>
                             <td style="text-align: center;"><strong>61.00</strong></td><td style="text-align: center;"><strong>79.58</strong></td>
+                            <td style="text-align: center;"><strong>15.00</strong></td><td style="text-align: center;"><strong>49.57</strong></td>
+                            <td style="text-align: center;"><strong>38.00</strong></td><td style="text-align: center;"><strong>67.08</strong></td>
+                            <td style="text-align: center;"><strong>49.00</strong></td><td style="text-align: center;"><strong>69.30</strong></td>
                         </tr>
                     </tbody>
                 </table>
-                [cite_start]<p class="caption" style="margin: 10px;">Table 1. Goal Success Rate (GSR) and Subgoal Success Rate (SSR) on WAH-NL dataset (%). [cite: 235]</p>
+                <p class="caption" style="margin: 10px;">Table 1. Goal Success Rate (GSR) and Subgoal Success Rate (SSR) on WAH-NL dataset (%). Bold indicates the best result, and underline indicates the second best.</p>
             </div>
 
             <h3>2. Main Results on ALFRED</h3>
@@ -377,9 +408,9 @@
                             <td style="text-align: center;">37.07</td>
                         </tr>
                         <tr style="border-bottom: 1px solid #e2e8f0;">
-                            <td style="text-align: left; font-weight: bold; background-color: #e0f2fe; color: var(--primary-color); padding-left: 15px;">ReAcTree + WM</td>
-                            <td style="text-align: center; font-weight: bold;">40.00</td>
-                            <td style="text-align: center; font-weight: bold;">40.85</td>
+                            <td style="text-align: left; font-weight: bold; background-color: #f0f9ff; color: var(--primary-color); padding-left: 15px;">ReAcTree + WM</td>
+                            <td style="text-align: center; font-weight: bold; background-color: #f0f9ff;">40.00</td>
+                            <td style="text-align: center; font-weight: bold; background-color: #f0f9ff;">40.85</td>
                         </tr>
                         <tr>
                             <td rowspan="2" style="vertical-align: middle; background-color: #fff; font-weight: 600; padding-left: 15px;">Valid-Unseen</td>
@@ -388,13 +419,13 @@
                             <td style="text-align: center;">39.10</td>
                         </tr>
                         <tr>
-                            <td style="text-align: left; font-weight: bold; background-color: #e0f2fe; color: var(--primary-color); padding-left: 15px;">ReAcTree + WM</td>
-                            <td style="text-align: center; font-weight: bold;">37.03</td>
-                            <td style="text-align: center; font-weight: bold;">39.83</td>
+                            <td style="text-align: left; font-weight: bold; background-color: #f0f9ff; color: var(--primary-color); padding-left: 15px;">ReAcTree + WM</td>
+                            <td style="text-align: center; font-weight: bold; background-color: #f0f9ff;">37.03</td>
+                            <td style="text-align: center; font-weight: bold; background-color: #f0f9ff;">39.83</td>
                         </tr>
                     </tbody>
                 </table>
-                [cite_start]<p class="caption" style="margin: 10px;">Table 2. Goal Success Rate (GSR) on ALFRED dataset (%). [cite: 419]</p>
+                <p class="caption" style="margin: 10px;">Table 2. Goal Success Rate (GSR) on ALFRED dataset (%). ReAcTree demonstrates strong generalization to unseen environments.</p>
             </div>
         </section>
 
